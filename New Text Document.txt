@@ -1,0 +1,30 @@
+Need to apply three letter codes to stations?
+Need to check which stations Chiltern stops at.
+
+franchise codes
+
+ES - Eurostar
+
+	GN - Great Northern
+	TL - Thameslink
+	SN - Southern
+	GX - Gatwick Express
+
+VT - Virgin Trains (West Coast)
+GR - Virgin Trains East Coast
+TP - Trans Pennine Express
+SW - South West Trains
+SE - Southeastern
+LM - London Midland
+ME - Merseyrail
+HX - Heathrow Express
+HT - Hull Trains
+GW - Great Western
+EM - East Midlands
+XC - Cross Country
+CH - Chiltern Railways
+CC - c2c
+AW - Arriva Trains Wales
+SR - ScotRail
+
+XR - TfL Rail
