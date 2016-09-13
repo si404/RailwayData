@@ -1,1 +1,14 @@
 System;Region;Route;Banner;Abbrev;City;Root;AltRouteName
+gbrlo;GBR;ELL;;BP;East London Line (Battersea Park);gbr.ellbp
+gbrlo;GBR;ELL;;CJ;East London Line (Clapham Junction);gbr.ellcj
+gbrlo;GBR;ELL;;CP;East London Line (Crystal Palace);gbr.ellcp
+gbrlo;GBR;ELL;;NC;East London Line (New Cross);gbr.ellnc
+gbrlo;GBR;ELL;;WC;East London Line (West Croydon);gbr.ellwc
+gbrlo;GBR;GOB;;;Gospel Oak - Barking Line;gbr.loebw
+gbrlo;GBR;LCF;;;Liverpool Street - Chingford;gbr.lolcf
+gbrlo;GBR;LCH;;;Liverpool Street - Cheshunt;gbr.lch
+gbrlo;GBR;LET;;;Liverpool Street - Enfield Town;gbr.let
+gbrlo;GBR;NLL;;CJ;North London Line (Clapham Junction - Stratford);gbr.nllcj
+gbrlo;GBR;NLL;;RM;North London Line (Richmond - Stratford);gbr.nllrm
+gbrlo;GBR;RUp;;;Romford - Upminister;gbr.rup
+gbrlo;GBR;WDC;;;Euston - Watford DC Line;gbr.wdc
