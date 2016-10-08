@@ -1,7 +1,0 @@
-System;Region;Route;Banner;Abbrev;City;Root;AltRouteName
-gbrdlr;GBR;DLR;;BkL;Bank - Lewisham;gbr.dlrbkl;
-gbrdlr;GBR;DLR;;BkW;Bank - Woolwich;gbr.dlrbkw;
-gbrdlr;GBR;DLR;;StB;Stratford International - Beckton;gbr.dlrstb;
-gbrdlr;GBR;DLR;;StL;Stratford - Lewisham;gbr.dlrstl;
-gbrdlr;GBR;DLR;;StW;Stratford International - Woolwich;gbr.dlrstw;
-gbrdlr;GBR;DLR;;TGB;Tower Gateway - Beckton;gbr.dlrtgb;
