@@ -1,0 +1,6 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+gbrdlr;ENG;DLR;;Lew;Bank - Lewisham;eng.dlrlew;
+gbrdlr;ENG;DLR;;Bec;Tower Gateway - Beckton;eng.dlrbec;
+gbrdlr;ENG;DLR;;Str;Canary Wharf - Stratford;eng.dlrstr;
+gbrdlr;ENG;DLR;;Woo;Stratford International - Woolwich;eng.dlrwoo;
+
