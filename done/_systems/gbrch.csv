@@ -1,0 +1,6 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+gbrch;ENG;ChiML;;Bir;Chiltern Mainline (Birmingham);eng.chimlbir;
+gbrch;ENG;ChiML;;Oxf;Chiltern Mainline (Oxford);eng.chimloxf;
+gbrch;ENG;LHWALn;;;London - High Wycombe - Aylesbury Line;eng.lhwaln;
+gbrch;ENG;LAmALn;;;London - Amersham - Aylesbury Line;eng.lamaln;
+gbrch;ENG;StrBra;;;Stratford Branch;eng.strbra;
