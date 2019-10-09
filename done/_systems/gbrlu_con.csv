@@ -1,0 +1,23 @@
+systemName;route;banner;groupName;roots
+englu;BakLn;;Bakerloo Line;eng.bakln
+englu;CenLn;;Central Line (Ealing Broadway - Woodford);eng.cenlneal
+englu;CenLn;;Central Line (West Ruislip - Epping);eng.cenlnrui
+englu;CirLn;;Circle Line;eng.cirln
+englu;DisLn;;District Line (Richmond - Upminster);eng.dislnric
+englu;DisLn;;District Line (Wimbledon - Edgware Road);eng.dislnwim
+englu;DisLn;;District Line (Ealing branch);eng.dislneal
+englu;DisLn;;District Line (Olympia shuttle);eng.dislnoly
+englu;HACLn;;Hammersmith & City Line;eng.hacln
+englu;JubLn;;Jubilee Line;eng.jubln
+englu;MetLn;;Metropolitan Line (Uxbridge - Aldgate);eng.metlnuxb
+englu;MetLn;;Metropolitan Line (Chesham branch fast);eng.metlnche
+englu;MetLn;;Metropolitan Line (Watford branch semi-fast);eng.metlnwat
+englu;MetLn;;Metropolitan Line (Amersham branch);eng.metlname
+englu;NorLn;;Northern Line (Edgware - West End - Kennington);eng.norlnedg
+englu;NorLn;;Northern Line (High Barnet - City - Morden);eng.norlnbar
+englu;NorLn;;Northern Line (Mill Hill East branch);eng.norlnmhe
+englu;PicLn;;Piccadilly Line (Heathrow Terminal 5 - Cockfosters);eng.piclnht5
+englu;PicLn;;Piccadilly Line (Uxbridge branch);eng.piclnuxb
+englu;PicLn;;Piccadilly Line (Heathrow Terminal 4 loop);eng.piclnht4
+englu;VicLn;;Victoria Line;eng.vicln
+englu;WACLn;;Waterloo & City Line;eng.wacln

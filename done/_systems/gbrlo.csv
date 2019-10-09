@@ -1,0 +1,13 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+englo;ENG;ELL;;Cla;East London Line (Clapham Junction);eng.ellcla;
+englo;ENG;ELL;;Cro;East London Line (West Croydon);eng.ellcro;
+englo;ENG;ELL;;Cry;East London Line (Crystal Palace);eng.ellcry;
+englo;ENG;ELL;;New;East London Line (New Cross);eng.ellnew;
+englo;ENG;GOBLin;;;Gospel Oak - Barking Line;eng.goblin;
+englo;ENG;LVL;;Enf;Lea Valley Line (Enfield Town);eng.ellcro;
+englo;ENG;LVL;;Che;Lea Valley Line (Cheshunt);eng.ellche;
+englo;ENG;LVL;;Chi;Lea Valley Line (Chingford);eng.ellchi;
+englo;ENG;NLL;;Ric;North London Line (Richmond);eng.nllric;
+englo;ENG;NLL;;Cla;North London Line (Clapham Junction);eng.nllcla;
+englo;ENG;RomUpmShu;;;Romford - Upminster Shuttle;eng.romupmshu;
+englo;ENG;WatDC;;;Watford DC lines;eng.watdc;
