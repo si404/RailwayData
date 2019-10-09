@@ -1,0 +1,21 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+gbrsn;ENG;GatEx;;;Gatwick Express;eng.gatex;
+gbrsn;ENG;SML;;Bri;Sussex Mainline (Brighton);eng.smlbri;
+gbrsn;ENG;SML;;Wor;Sussex Mainline (Worthing);eng.smlwor;
+gbrsn;ENG;SML;;Eas;Sussex Mainline (Eastbourne);eng.smleas;
+gbrsn;ENG;ArunVlyLn;;;Arun Valley Line;eng.arunvlyln;
+gbrsn;ENG;WCWLn;;Sou;West Coastway Line (Southampton);eng.wcwlnsou;
+gbrsn;ENG;WCWLn;;Por;West Coastway Line (Portsmouth);eng.wcwlnpor;
+gbrsn;ENG;SeaBra;;;Seaford Branch;eng.seabra;
+gbrsn;ENG;GriLn;;;East Grinstead Line;eng.griln;
+gbrsn;ENG;UckLn;;;Uckfield Line;eng.uckln;
+gbrsn;ENG;ReiLn;;;Reigate Line;eng.reiln;
+gbrsn;ENG;TonBra;;;Tonbridge Branch;eng.tonbra;
+gbrsn;ENG;DorLn;;;Dorking Line;eng.dorln;
+gbrsn;ENG;WalLn;;;Wallington Line;eng.walln;
+gbrsn;ENG;TCBra;;;Tattenham Corner Branch;eng.tcbra;
+gbrsn;ENG;CatBra;;;Caterham Branch;eng.catbra;
+gbrsn;ENG;BecJctBra;;;Beckenham Junction Line;eng.becjctln;
+gbrsn;ENG;GipHillLn;;;Gipsy Hill Line;eng.giphillln;
+gbrsn;ENG;SLonLn;;;South London Line;eng.slonln;
+gbrsn;ENG;WLonLn;;;West London Line;eng.wlonln;

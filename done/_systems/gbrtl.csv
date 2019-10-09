@@ -1,0 +1,8 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+gbrtl;ENG;ThaLink;;Bed;Thameslink (Bedford - Brighton);eng.thalinkbed;
+gbrtl;ENG;ThaLink;;Pet;Thameslink (Peterborough - Horsham);eng.thalinkpet;
+gbrtl;ENG;ThaLink;;Cam;Thameslink (Cambridge - Ashford);eng.thalinkcam;
+gbrtl;ENG;ThaLink;;Rai;Thameslink (Luton - Rainham);eng.thalinkrai;
+gbrtl;ENG;ThaLink;;Sut;Thameslink (St Albans - Sutton);eng.thalinksut;
+gbrtl;ENG;ThaLink;;Orp;Thameslink (Kentish Town - Orpington);eng.thalinkorp;
+gbrtl;ENG;ThaLink;;Sev;Thameslink (Blackfriars - Sevenoaks);eng.thalinksev;
