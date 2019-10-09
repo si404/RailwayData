@@ -1,8 +1,0 @@
-System;Region;Route;Banner;Abbrev;City;Root;AltRouteName
-gbrmr;GBR;MN;;Kir;Northern Line (Kirkby);gbr.mnkir
-gbrmr;GBR;MN;;Orm;Northern Line (Ormskirk);gbr.mnorm
-gbrmr;GBR;MN;;Sou;Northern Line (Southport);gbr.mnsou
-gbrmr;GBR;MW;;Che;Wirral Line (Chester);gbr.mwche
-gbrmr;GBR;MW;;EPt;Wirral Line (Ellesmere Port);gbr.mwept
-gbrmr;GBR;MW;;NBr;Wirral Line (New Brighton);gbr.mwnbr
-gbrmr;GBR;MW;;WKi;Wirral Line (West Kirkby);gbr.mwwki
