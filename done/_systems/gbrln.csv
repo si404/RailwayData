@@ -1,0 +1,5 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+engln;ENG;WCML;;Nor;West Coast Mainline (Northampton);eng.wcmlnor;
+engln;ENG;WCML;;Tre;West Coast Mainline (Trent Valley);eng.wcmltre;
+engln;ENG;AbbLn;;;Abbey Line;eng.abbln;
+engln;ENG;MarValeLn;;;Marston Vale Line;eng.marvaleln;
