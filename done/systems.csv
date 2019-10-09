@@ -1,0 +1,20 @@
+﻿System;CountryCode;Name;Color;Tier;Level
+gbraw;GBR;National Rail (Transport for Wales);purple;2;preview
+gbrcc;GBR;National Rail (c2c);purple;2;preview
+gbrch;GBR;National Rail (Chiltern Railways);purple;2;preview
+gbrem;GBR;National Rail (East Midlands Railway);purple;2;preview
+gbrga;GBR;National Rail (Greater Anglia Railway);purple;2;preview
+gbrgn;GBR;National Rail (Great Northern);purple;2;preview
+gbrgw;GBR;National Rail (Great Western Railway);purple;2;preview
+gbrln;GBR;National Rail (London Northwestern Railways);purple;2;preview
+gbrsn;GBR;National Rail (Southern);purple;2;preview
+gbrsw;GBR;National Rail (South Western Railway);purple;2;preview
+gbrtl;GBR;National Rail (Thameslink);purple;2;preview
+gbrwm;GBR;National Rail (West Midlands Railway);purple;2;preview
+gbrdlr;GBR;Docklands Light Railway;orange;3;preview
+gbrlo;GBR;London Overground;orange;3;preview
+gbrlu;GBR;London Underground;orange;3;preview
+gbrme;GBR;Merseyrail;orange;3;preview
+gbrtwm;GBR;Tyne and Wear Metro;orange;3;preview
+gbrxr;GBR;Elizabeth Line;orange;3;preview
+irlnir;IRL;Northern Ireland Railways;purple;2;preview
