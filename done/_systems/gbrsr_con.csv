@@ -1,0 +1,40 @@
+systemName;route;banner;groupName;roots
+gbrsr;GML;;Grampian Mainline;sct.gml
+gbrsr;HML;;Highland Mainline;sct.hml
+gbrsr;AllLn;;Alloa Line;sct.allln
+gbrsr;ArgLn;;Argyle Line;sct.argln
+gbrsr;LarBra;;Larkhall Branch;sct.larbra
+gbrsr;WhiBra;;Whifflet Branch;sct.whibra
+gbrsr;AyrCoaLn;;Ayrshire Coast Line (Ayr);sct.ayrcoalnayr
+gbrsr;AyrCoaLn;;Ayrshire Coast Line (Ardrossan);sct.ayrcoalnard
+gbrsr;AyrCoaLn;;Ayrshire Coast Line (Largs);sct.ayrcoalnlar
+gbrsr;BorLn;;Borders Line;sct.borln
+gbrsr;CarLn;;Carstairs Line;sct.casln
+gbrsr;CatCir;;Cathcart Circle (Neilston);sct.catcirnei
+gbrsr;CatCir;;Cathcart Circle (Newton);sct.catcirnew
+gbrsr;CatCir;;Cathcart Circle (Cathcart);sct.catcircat
+gbrsr;CroyLn;;Croy Line;sct.croyln
+gbrsr;CumLn;;Cumbernauld Line;sct.cumln
+gbrsr;DumLn;;Dunblane Line;sct.dunln
+gbrsr;EKLn;;East Kilbride Line;sct.ekln
+gbrsr;FifeLn;;Fife Line;sct.fifeln
+gbrsr;FifeCir;;Fife Circle;sct.fifecir
+gbrsr;InvLn;;Inverclyde Line (Gourock);sct.ivelngou
+gbrsr;InvLn;;Inverclyde Line (Wemyss Bay);sct.ivelnwem
+gbrsr;LanLn;;Lanark Line;sct.lanln
+gbrsr;NBerLn;;North Berwick Line;sct.nberln
+gbrsr;DunBra;;Dunbar Branch;sct.dunbra
+gbrsr;NClyLn;;North Clyde Line;sct.nclyln
+gbrsr;BalBra;;Balloch Branch;sct.balbra
+gbrsr;SinBra;;Singer Branch;sct.sinbra
+gbrsr;SprBra;;Springburn Branch;sct.sprbra
+gbrsr;MarLn;;Maryhill Line;sct.marln
+gbrsr;PaiCanLn;;Paisley Canal Line;sct.paicanln
+gbrsr;ShoLn;;Shotts Line;sct.sholn
+gbrsr;FarNLn;;Far North Line;sct.farnln
+gbrsr;GSWLn;;Dum;Glasgow Southwestern Line (Dumfries);sct.gswlndum,eng.gswln
+gbrsr;GSWLn;;Ayr;Glasgow Southwestern Line (Dumfries);sct.gswlnayr
+gbrsr;InvAbeLn;;Inverness - Aberdeen Line;sct.invabeln
+gbrsr;KyleLn;;Kyle Line;sct.kyleln
+gbrsr;WHigLn;;Oba;West Highland Line (Oban);sct.whiglnoban
+gbrsr;WHigLn;;For;West Highland Line (Fort William);sct.whiglnfor
