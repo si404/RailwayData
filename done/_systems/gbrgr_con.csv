@@ -1,0 +1,4 @@
+systemName;route;banner;groupName;roots
+gbrgr;ECML;;East Coast Mainline (Leeds);eng.ecmllee
+gbrgr;ECML;;East Coast Mainline (Newcastle);eng.ecmlnew,sct.ecmlabe
+gbrgr;ECML;;East Coast Mainline (Inverness);sct.ecmlinv
