@@ -1,0 +1,12 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+gbrxc;ENG;XCML;;Bri;Cross-Country Mainline (Bristol);eng.xcmlbri;
+gbrxc;ENG;XCML;;New;Cross-Country Mainline (Newcastle);eng.xcmlnew;
+gbrxc;SCT;XCML;;;Cross-Country Mainline;sct.xcml;
+gbrxc;ENG;XCML;;Rea;Cross-Country Mainline (Reading);eng.xcmlrea;
+gbrxc;ENG;XCML;;Man;Cross-Country Mainline (Manchester);eng.xcmlnew;
+gbrxc;ENG;XCML;;Cov;Cross-Country Mainline (Coventry);eng.xcmlcov;
+gbrxc;ENG;XCML;;Lee;Cross-Country Mainline (Leeds);eng.xcmllee;
+gbrxc;ENG;XCML;;Car;Cross-Country Mainline (Cardiff);eng.xcmlcar;
+gbrxc;WLS;XCML;;;Cross-Country Mainline;wls.xcml;
+gbrxc;ENG;XCML;;Not;Cross-Country Mainline (Nottingham);eng.xcmlnot;
+gbrxc;ENG;XCML;;Cam;Cross-Country Mainline (Cambridge);eng.xcmlcam;

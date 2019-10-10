@@ -1,0 +1,9 @@
+systemName;route;banner;groupName;roots
+gbrxc;XCML;;Cross-Country Mainline;eng.xcmlbri,eng.xcmlnew,sct.xcml
+gbrxc;XCML;;Cross-Country Mainline (Reading);eng.xcmlrea
+gbrxc;XCML;;Cross-Country Mainline (Manchester);eng.xcmlnew
+gbrxc;XCML;;Cross-Country Mainline (Coventry);eng.xcmlcov
+gbrxc;XCML;;Cross-Country Mainline (Leeds);eng.xcmllee
+gbrxc;XCML;;Cross-Country Mainline (Cardiff);eng.xcmlcar,wls.xcml
+gbrxc;XCML;;Cross-Country Mainline (Nottingham);eng.xcmlnot
+gbrxc;XCML;;Cross-Country Mainline (Cambridge);eng.xcmlcam
