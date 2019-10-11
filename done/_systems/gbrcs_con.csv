@@ -1,6 +1,0 @@
-systemName;route;banner;groupName;roots
-gbrcs;LowSle;;Lowland Sleeper (Edinburgh);eng.lowsle,sct.lowsleedi
-gbrcs;LowSle;;Lowland Sleeper (Glasgow);sct.lowslegla
-gbrcs;HigSle;;Highland Sleeper (Inverness);eng.higsle,sct.higsleinv
-gbrcs;HigSle;;Highland Sleeper (Aberdeen);sct.higsleabe
-gbrcs;HigSle;;Highland Sleeper (Fort William);sct.higslefor

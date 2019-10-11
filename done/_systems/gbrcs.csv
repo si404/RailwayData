@@ -1,8 +1,0 @@
-systemName;region;route;banner;abbrev;city;root;altRouteNames
-gbrcs;ENG;LowSle;;;Lowland Sleeper;eng.lowsle;
-gbrcs;SCT;LowSle;;Edi;Lowland Sleeper (Edinburgh);sct.lowsleedi;
-gbrcs;SCT;LowSle;;Gla;Lowland Sleeper (Glasgow);sct.lowslegla;
-gbrcs;ENG;HigSle;;;Highland Sleeper;eng.higsle;
-gbrcs;SCT;HigSle;;Inv;Highland Sleeper (Inverness);sct.higsleinv;
-gbrcs;SCT;HigSle;;Abe;Highland Sleeper (Aberdeen);sct.higsleabe;
-gbrcs;SCT;HigSle;;For;Highland Sleeper (Fort William);sct.higslefor;
