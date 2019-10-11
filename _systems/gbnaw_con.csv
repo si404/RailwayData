@@ -1,0 +1,20 @@
+systemName;route;banner;groupName;roots
+gbnaw;SWML;;South Wales Mainline;eng.fordeanln,wls.swml
+gbnaw;MarLn;;Marches Line;eng.marlnliv,wls.marlnwre,eng.marlnshr,wls.marlnnew
+gbnaw;NWML;;North Wales Mainline;eng.nwml,North Wales Mainline;wls.nwml
+gbnaw;CheCreLn;;Chester - Crewe Line;eng.checreln
+gbnaw;CamLn;;Cambrian Line;eng.camln,wls.camln
+gbnaw;CamCoaLn;;Cambrian Coastal Line;wls.camcoaln
+gbnaw;HeaWlsLn;;Heart of Wales Line;wls.heawlsln,eng.heawlsln
+gbnaw;FisLn;;Fishguard Line;wls.fisln
+gbnaw;PemDockLn;;Pembroke Dock Line;wls.pemdockln
+gbnaw;MaeLn;;Maestag Line;wls.maeln
+gbnaw;VoGLn;;Vale of Glamorgan Line;wls.vogln
+gbnaw;MerLn;;Merthyr Line;wls.merln
+gbnaw;RhoLn;;Rhondda Line;wls.rholn
+gbnaw;RhyLn;;Rhymney Line;wls.rhyln
+gbnaw;CityLn;;City Line;wls.cityln
+gbnaw;EbbwValeLn;;Ebbw Vale Line;wls.ebbwvaleln
+gbnaw;ButBra;;Butetown Branch;wls.butbra
+gbnaw;BorLn;;Borderlands Line;eng.borln,wls.borln
+gbnaw;ConVlyLn;;Conwy Valley Line;wls.convlyln

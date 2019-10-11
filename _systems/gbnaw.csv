@@ -1,0 +1,28 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+gbnaw;ENG;ForDeanLn;;;Forest of Dean Line;eng.fordeanln;
+gbnaw;WLS;SWML;;;South Wales Mainline;wls.swml;
+gbnaw;ENG;MarLn;;Liv;Marches Line (Liverpool);eng.marlnliv;
+gbnaw;WLS;MarLn;;Wre;Marches Line (Wrexham);wls.marlnwre;
+gbnaw;ENG;MarLn;;Shr;Marches Line (Shrewsbury);eng.marlnshr;
+gbnaw;WLS;MarLn;;New;Marches Line (Newport);wls.marlnnew;
+gbnaw;ENG;NWML;;;North Wales Mainline;eng.nwml;
+gbnaw;WLS;NWML;;;North Wales Mainline;wls.nwml;
+gbnaw;ENG;CheCreLn;;;Chester - Crewe Line;eng.checreln;
+gbnaw;ENG;CamLn;;;Cambrian Line;eng.camln;
+gbnaw;WLS;CamLn;;;Cambrian Line;wls.camln;
+gbnaw;WLS;CamCoaLn;;;Cambrian Coastal Line;wls.camcoaln;
+gbnaw;WLS;HeaWlsLn;;;Heart of Wales Line;wls.heawlsln;
+gbnaw;ENG;HeaWlsLn;;;Heart of Wales Line;eng.heawlsln;
+gbnaw;WLS;FisLn;;;Fishguard Line;wls.fisln;
+gbnaw;WLS;PemDockLn;;;Pembroke Dock Line;wls.pemdockln;
+gbnaw;WLS;MaeLn;;;Maestag Line;wls.maeln;
+gbnaw;WLS;VoGLn;;;Vale of Glamorgan Line;wls.vogln;
+gbnaw;WLS;MerLn;;;Merthyr Line;wls.merln;
+gbnaw;WLS;RhoLn;;;Rhondda Line;wls.rholn;
+gbnaw;WLS;RhyLn;;;Rhymney Line;wls.rhyln;
+gbnaw;WLS;CityLn;;;City Line;wls.cityln;
+gbnaw;WLS;EbbwValeLn;;;Ebbw Vale Line;wls.ebbwvaleln;
+gbnaw;WLS;ButBra;;;Butetown Branch;wls.butbra;
+gbnaw;ENG;BorLn;;;Borderlands Line;eng.borln;
+gbnaw;WLS;BorLn;;;Borderlands Line;wls.borln;
+gbnaw;WLS;ConVlyLn;;;Conwy Valley Line;wls.convlyln;
