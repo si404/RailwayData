@@ -1,0 +1,8 @@
+systemName;route;banner;groupName;roots
+gbnme;NrnLn;;Northern Line (Southport);eng.nrnlnsou
+gbnme;NrnLn;;Northern Line (Ormskirk);eng.nrnlnorm
+gbnme;NrnLn;;Northern Line (Kirkby);eng.nrnlnkir
+gbnme;WirLn;;Wirral Line (Chester);eng.wirlnche
+gbnme;WirLn;;Wirral Line (Ellesmere Port);eng.wirlnell
+gbnme;WirLn;;Wirral Line (West Kirby);eng.wirlnwki
+gbnme;WirLn;;Wirral Line (New Brighton);eng.wirlnnew

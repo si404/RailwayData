@@ -1,8 +1,0 @@
-systemName;route;banner;groupName;roots
-gbrtp;NTPLn;;North Trans-Pennine Line (Liverpool - Edinburgh);eng.ntplnnew,sct.ntpln
-gbrtp;NTPLn;;North Trans-Pennine Line (Manchester Airport - Redcar);eng.ntplnmid
-gbrtp;NTPLn;;North Trans-Pennine Line (Manchester Piccadilly - Hull);eng.ntplnhul
-gbrtp;NTPLn;;North Trans-Pennine Line (York - Scarborough);eng.ntplnsca
-gbrtp;NWTPLn;;Northwest Trans-Pennine Line (Manchester Airport - Edinburgh);eng.nwtpln,sct.nwtplnedi
-gbrtp;NWTPLn;Northwest Trans-Pennine Line (Lockerbie - Glasgow);sct.nwtplngla
-gbrtp;STPLn;;South Trans-Pennine Line;eng.stpln
