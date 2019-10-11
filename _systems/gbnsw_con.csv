@@ -1,0 +1,22 @@
+systemName;route;banner;groupName;roots
+gbnsw;SWML;;South West Mainline (Bournemouth);eng.swml
+gbnsw;SWML;;South West Mainline (Portsmouth);eng.swml
+gbnsw;WoELn;;West of England Line;eng.woeln
+gbnsw;PorDirLn;;Portsmouth Direct Line;eng.pordirln
+gbnsw;AltLn;;Alton Line;eng.altln
+gbnsw;ReaLn;;Reading Line;eng.realn
+gbnsw;WinLn;;Windsor Line;eng.winln
+gbnsw;MoleVlyLn;;Mole Valley Line;eng.molevlyln
+gbnsw;HouLp;;Hounslow Loop;eng.houlp
+gbnsw;KinLp;;Kingston Loop;eng.kinlp
+gbnsw;CheLp;;Chertsey Loop;eng.chelp
+gbnsw;HamCouBra;;Hampton Court Branch;eng.hamcoubra
+gbnsw;CheBra;;Chessington Branch;eng.chebra
+gbnsw;SheBra;;Shepperton Branch;eng.shebra
+gbnsw;BooBra;;Bookham Branch;eng.boobra
+gbnsw;NewGuiLn;;New Guildford Line;eng.newguiln
+gbnsw;AscGuiLn;;Ascot - Guildford Line;eng.ascguiln
+gbnsw;SolLn;;Solent Line;eng.solln
+gbnsw;SouSub;;Southampton Suburban 'b';eng.sousub
+gbnsw;LymBra;;Lymington Branch;eng.lymbra
+gbnsw;IslLn;;Island Line;eng.islln
