@@ -1,0 +1,18 @@
+systemName;route;banner;groupName;roots
+gbrse;KCJ;;Kent Coast Javelins;eng.kcj
+gbrse;SEML;;South East Mainline (Hastings);eng.semlhas
+gbrse;SEML;;South East Mainline (Margate);eng.semlmar
+gbrse;CML;;Chatham Mainline;eng.cml
+gbrse;MaiLn;;Maidstone Line;eng.mailn
+gbrse;MedVlyLn;;Medway Valley Line;eng.medvlyln
+gbrse;SheLn;;Sherness Line;eng.sheln
+gbrse;BexLn;;Bexleyheath Line;eng.bexln
+gbrse;OrpLn;;Orpington Line;eng.orpln
+gbrse;SidLn;;Sidcup Line;eng.sidln
+gbrse;NKentLn;;North Kent Line;eng.nkentln
+gbrse;HayLn;Hayes Line (Charing Cross);eng.haylncha
+gbrse;HayLn;Hayes Line (Cannon Street);eng.haylncan
+gbrse;GreLn;;Greenwich Line;eng.greln
+gbrse;SidLp;;Sidcup Loop;eng.sidlp
+gbrse;BroNBra;;Bromley North Branch;eng.bronbra
+

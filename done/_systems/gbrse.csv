@@ -1,0 +1,17 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+gbrse;ENG;KCJ;;;Kent Coast Javelins;eng.kcj;
+gbrse;ENG;SEML;;Has;South East Mainline (Hastings);eng.semlhas;
+gbrse;ENG;SEML;;Mar;South East Mainline (Margate);eng.semlmar;
+gbrse;ENG;CML;;;Chatham Mainline;eng.cml;
+gbrse;ENG;MaiLn;;;Maidstone Line;eng.mailn;
+gbrse;ENG;MedVlyLn;;;Medway Valley Line;eng.medvlyln;
+gbrse;ENG;SheLn;;;Sherness Line;eng.sheln;
+gbrse;ENG;BexLn;;;Bexleyheath Line;eng.bexln;
+gbrse;ENG;OrpLn;;;Orpington Line;eng.orpln;
+gbrse;ENG;SidLn;;;Sidcup Line;eng.sidln;
+gbrse;ENG;NKentLn;;;North Kent Line;eng.nkentln;
+gbrse;ENG;HayLn;;Cha;Hayes Line (Charing Cross);eng.haylncha;
+gbrse;ENG;HayLn;;Can;Hayes Line (Cannon Street);eng.haylncan;
+gbrse;ENG;GreLn;;;Greenwich Line;eng.greln;
+gbrse;ENG;SidLp;;;Sidcup Loop;eng.sidlp;
+gbrse;ENG;BroNBra;;;Bromley North Branch;eng.bronbra;
