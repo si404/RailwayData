@@ -1,0 +1,12 @@
+systemName;route;banner;groupName;roots
+gbnem;MML;;Midland Mainline (Sheffield);eng.mmlshe
+gbnem;MML;;Midland Mainline (Nottingham);eng.mmlnot
+gbnem;MML;;Midland Mainline (Corby);eng.mmlcor
+gbnem;LivNorLn;;Liverpool - Norwich Line;eng.livnorln
+gbnem;NewGriLn;;Newark - Grimsby Line;eng.newgriln
+gbnem;BarLn;;Barton Line;eng.livnorln
+gbnem;DerVlyLn;;Derwent Valley Line;eng.livnorln
+gbnem;NStaLn;;North Staffs Line;eng.livnorln
+gbnem;PoaLn;;Poacher Line;eng.livnorln
+gbnem;RedLn;;Redwing Line;eng.livnorln
+gbnem;RobHoodLn;;Robin Hood Line;eng.livnorln

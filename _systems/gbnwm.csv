@@ -1,0 +1,10 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+gbnwm;ENG;MalLn;;;Malvern Line;eng.malln;
+gbnwm;ENG;SalLn;;;Salop Line;eng.salln;
+gbnwm;ENG;ChaLn;;;Chase Line;eng.chaln;
+gbnwm;ENG;XCLn;;;Cross-City Line;eng.xcln;
+gbnwm;ENG;SHLn;;;Snow Hill Line;eng.shln;
+gbnwm;ENG;StaLn;;;Stratford Line;eng.staln;
+gbnwm;ENG;StoBr;;;Stourbridge Branch;eng.stobr;
+gbnwm;ENG;StaLn;;;Staffordshire Line;eng.staln;
+gbnwm;ENG;WarLn;;;Warwickshire Line;eng.warln;
