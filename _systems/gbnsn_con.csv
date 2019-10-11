@@ -1,0 +1,21 @@
+systemName;route;banner;groupName;roots
+gbnsn;GatEx;;Gatwick Express;eng.gatex
+gbnsn;SML;;Sussex Mainline (Brighton);eng.smlbri
+gbnsn;SML;;Sussex Mainline (Worthing);eng.smlwor
+gbnsn;SML;;Sussex Mainline (Eastbourne);eng.smleas
+gbnsn;ArunVlyLn;;Arun Valley Line;eng.arunvlyln
+gbnsn;WCWLn;;West Coastway Line (Southampton);eng.wcwlnsou
+gbnsn;WCWLn;;West Coastway Line (Portsmouth);eng.wcwlnpor
+gbnsn;SeaBra;;Seaford Branch;eng.seabra
+gbnsn;GriLn;;East Grinstead Line;eng.griln
+gbnsn;UckLn;;Uckfield Line;eng.uckln
+gbnsn;ReiLn;;Reigate Line;eng.reiln
+gbnsn;TonBra;;Tonbridge Branch;eng.tonbra
+gbnsn;DorLn;;Dorking Line;eng.dorln
+gbnsn;WalLn;;Wallington Line;eng.walln
+gbnsn;TCBra;;Tattenham Corner Branch;eng.tcbra
+gbnsn;CatBra;;Caterham Branch;eng.catbra
+gbnsn;BecJctBra;;Beckenham Junction Line;eng.becjctln
+gbnsn;GipHillLn;;Gipsy Hill Line;eng.giphillln
+gbnsn;SLonLn;;South London Line;eng.slonln
+gbnsn;WLonLn;;West London Line;eng.wlonln
