@@ -1,0 +1,20 @@
+systemName;route;banner;groupName;roots
+gbnga;GEML;;Great Eastern Mainline;eng.geml
+gbnga;WAML;;West Anglia Mainline;eng.waml
+gbnga;StaEx;;Stansted Express;eng.staex
+gbnga;SheSouLn;;Shenfield - Southend Line;eng.shesouln
+gbnga;CroVlyLn;;Crouch Valley Line;eng.crovlyln
+gbnga;BraBra;;Braintree Branch;eng.brabra
+gbnga;GaiLn;;Gainsborough Line;eng.gailn
+gbnga;SunCoaLn;;Sunshine Coast Line (Clacton-on-Sea);eng.suncoulncla
+gbnga;SunCoaLn;;Sunshine Coast Line (Walton-on-the-Naze);eng.suncoulnwal
+gbnga;MayLn;;Mayflower Line;eng.mayln
+gbnga;LVL;;Lea Valley Line (Stratford);eng.lvlstr
+gbnga;FelBra;;Felixstow Branch;eng.felbra
+gbnga;ESufLn;;East Suffolk Line;eng.esufln
+gbnga;IpsCamLn;;Ipswich - Cambridge Line;eng.ipscamln
+gbnga;BreLn;;Breckland Line;eng.breln
+gbnga;HerLn;;Hereward Line;eng.herln
+gbnga;WheLn;;Wherry Lines (Lowestoft);eng.whelnlow
+gbnga;WheLn;;Wherry Lines (Great Yarmouth);eng.whelnyar
+gbnga;BitLn;;Bittern Line;eng.bitln

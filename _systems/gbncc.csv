@@ -1,0 +1,5 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+gbncc;ENG;LTSLn;;;London Tilbury & Southend Line;eng.ltsln;
+gbncc;ENG;StrLp;;;Stratford Loop;eng.strlp;
+gbncc;ENG;TilLp;;;Tilbury Loop;eng.tillp;
+gbncc;ENG;OckBra;;;Ockendon Branch;eng.ockbra;
