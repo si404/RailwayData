@@ -5,7 +5,7 @@ SAL http://www.openstreetmap.org/?lat=51.070587&lon=-1.806457
 +X831818 http://www.openstreetmap.org/?lat=51.042932&lon=-1.717815
 DEN http://www.openstreetmap.org/?lat=51.042433&lon=-1.634517
 DBG http://www.openstreetmap.org/?lat=51.033818&lon=-1.546884
-ROM_A http://www.openstreetmap.org/?lat=50.992643&lon=-1.493132
+ROM_1 http://www.openstreetmap.org/?lat=50.992643&lon=-1.493132
 +X320449 http://www.openstreetmap.org/?lat=50.991711&lon=-1.489913
 +X793661 http://www.openstreetmap.org/?lat=50.920195&lon=-1.471932
 RDB http://www.openstreetmap.org/?lat=50.919451&lon=-1.469357
@@ -21,4 +21,4 @@ ESL http://www.openstreetmap.org/?lat=50.969096&lon=-1.349859
 CFR http://www.openstreetmap.org/?lat=50.983411&lon=-1.384835
 +X375836 http://www.openstreetmap.org/?lat=50.996485&lon=-1.406336
 +X320449 http://www.openstreetmap.org/?lat=50.991711&lon=-1.489913
-ROM_B http://www.openstreetmap.org/?lat=50.992643&lon=-1.493132
+ROM_2 http://www.openstreetmap.org/?lat=50.992643&lon=-1.493132
