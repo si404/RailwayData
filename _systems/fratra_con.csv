@@ -1,0 +1,26 @@
+systemName;route;banner;groupName;roots
+fratra;H;;Gare du Nord - Ermont - Persan-Beaumont;fraidf.hbea
+fratra;H;;Gare du Nord - Luzarches;fraidf.hluz
+fratra;H;;Gare du Nord - Domont - Persan-Beaumont;fraidf.hper
+fratra;H;;Gare du Nord - Pontoise;fraidf.hpon
+fratra;H;;Pontoise - Creil;fraidf.hcre,frahdf.hcre
+fratra;J;;Gare Saint-Lazare - Ermont;fraidf.jerm
+fratra;J;;Gare Saint-Lazare - Gisors;fraidf.jgis,frahdf.jgis,franor.jgis
+fratra;J;;Gare Saint-Lazare - Mantes-le-Jolie;fraidf.jman
+fratra;J;;Gare Saint-Lazare - Vernon;fraidf.jver,franor.jver
+fratra;K;;Gare du Nord - Crepy-Valois;fraidf.k,frahdf.k
+fratra;L;;Gare Saint-Lazare - Cergy;fraidf.lcer
+fratra;L;;Gare Saint-Lazare - Saint Nom Breteche;fraidf.lsnb
+fratra;L;;Gare Saint-Lazare - Versaille;fraidf.lver
+fratra;N;;Gare Montparnasse - Dreux;fraidf.ndre,fracvl.ndre
+fratra;N;;Gare Montparnasse - Mantes-le-Jolie;fraidf.nman
+fratra;N;;Gare Montparnasse - Rambouillet;fraidf.nram
+fratra;P;;Gare d'Est - Chateau Thierry;fraidf.pcha,frahdf.pcha
+fratra;P;;Gare d'Est - Coulommiers;fraidf.pcou
+fratra;P;;Gare d'Est - Ferte Milon;fraidf.pfer,frahdf.pfer
+fratra;P;;Gare d'Est - Provins;fraidf.ppro
+fratra;P;;Esbly - Crechy-Chapelle;fraidf.pcre
+fratra;R;;Gare du Lyon - Montereau;fraidf.rmte
+fratra;R;;Gare du Lyon - Montargis;fraidf.rmtg,fracvl.rmtg
+fratra;R;;Moret - Montereau;fraidf.rmam
+fratra;U;;La Defense - Verriere;fraidf.u
