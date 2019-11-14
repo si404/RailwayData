@@ -1,0 +1,27 @@
+systemName;route;banner;groupName;roots
+frarer;A;1;Saint Germain branch;fraidf.a1
+frarer;A;3;Cergy branch;fraidf.a3
+frarer;A;5;Poissy branch;fraidf.a5
+frarer;A;;Core;fraidf.a;
+frarer;A;2;Boissy-Saint-Leger branch;fraidf.a2
+frarer;A;4;Marne-le-Vallee-Chessy branch;fraidf.a4
+frarer;B;3;Charles-de-Gaulle branch;fraidf.b3
+frarer;B;5;Mitry Claye branch;fraidf.b5
+frarer;B;;Core;fraidf.b;
+frarer;B;2;Robinson branch;fraidf.b2
+frarer;B;4;Saint Remy-Chevreuse branch;fraidf.b4
+frarer;C;1;Pontoise branch;fraidf.c1
+frarer;C;5;Saint Quentin branch;fraidf.c5
+frarer;C;7;Versailles Chateau branch;fraidf.c7
+frarer;C;;Core;fraidf.c
+frarer;C;2;Massy branch;fraidf.c2
+frarer;C;4;Dourdan branch;fraidf.c4
+frarer;C;6;Saint Martin Etampes branch;fraidf.c6
+frarer;C;8;Savigny - Versailles;fraidf.c8
+frarer;D;;Core;frahdf.d,fraidf.d
+frarer;D;2;Melun branch;fraidf.d2
+frarer;D;4;Malesherbes branch;fraidf.d4,fracvl.d4
+frarer;D;6;Juvisy - Melun;fraidf.d6
+frarer;E;;Core;fraidf.e
+frarer;E;2;Chelles-Gournay branch;fraidf.e2
+frarer;E;4;Tournan branch;fraidf.e4
