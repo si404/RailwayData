@@ -1,34 +1,37 @@
 ﻿System;CountryCode;Name;Color;Tier;Level
 eures;EUR;Eurostar;black;1;preview
 eurls;EUR;Le Shuttle;purple;2;preview
-gbngr;gbn;National Rail (London North Eastern Railway);black;1;preview
-gbnvt;gbn;National Rail (Virgin Trains);black;1;preview
-gbnaw;gbn;National Rail (Transport for Wales);purple;2;preview
-gbncc;gbn;National Rail (c2c);purple;2;preview
-gbnch;gbn;National Rail (Chiltern Railways);purple;2;preview
-gbncs;gbn;National Rail (Caledonian Sleeper);purple;2;preview
-gbnem;gbn;National Rail (East Midlands Railway);purple;2;preview
-gbnga;gbn;National Rail (Greater Anglia Railway);purple;2;preview
-gbngc;gbn;National Rail (Grand Central);purple;2;preview
-gbngn;gbn;National Rail (Great Northern);purple;2;preview
-gbngw;gbn;National Rail (Great Western Railway);purple;2;preview
-gbnht;gbn;National Rail (Hull Trains);purple;2;preview
-gbnln;gbn;National Rail (London Northwestern Railways);purple;2;preview
-gbnnr;gbn;National Rail (Northern);purple;2;preview
-gbnse;gbn;National Rail (Southeastern);purple;2;preview
-gbnsr;gbn;National Rail (Scotrail);purple;2;preview
-gbnsn;gbn;National Rail (Southern);purple;2;preview
-gbnsw;gbn;National Rail (South Western Railway);purple;2;preview
-gbntl;gbn;National Rail (Thameslink);purple;2;preview
-gbntp;gbn;National Rail (Transpennine Express);purple;2;preview
-gbnwm;gbn;National Rail (West Midlands Railway);purple;2;preview
-gbnxc;gbn;National Rail (Cross Country);purple;2;preview
-gbndlr;gbn;Docklands Light Railway;orange;3;preview
-gbnlo;gbn;London Overground;orange;3;preview
-gbnlu;gbn;London Underground;orange;3;preview
-gbnme;gbn;Merseyrail;orange;3;preview
-gbntwm;gbn;Tyne and Wear Metro;orange;3;preview
-gbnxr;gbn;Elizabeth Line;orange;3;preview
+fratra;FRA;Transillien;purple;2;preview
+frarer;FRA;Paris RER;purple;2;preview
+frapm;FRA;Paris Metro;orange;3;preview
+gbngr;GBN;National Rail (London North Eastern Railway);black;1;preview
+gbnvt;GBN;National Rail (Virgin Trains);black;1;preview
+gbnaw;GBN;National Rail (Transport for Wales);purple;2;preview
+gbncc;GBN;National Rail (c2c);purple;2;preview
+gbnch;GBN;National Rail (Chiltern Railways);purple;2;preview
+gbncs;GBN;National Rail (Caledonian Sleeper);purple;2;preview
+gbnem;GBN;National Rail (East Midlands Railway);purple;2;preview
+gbnga;GBN;National Rail (Greater Anglia Railway);purple;2;preview
+gbngc;GBN;National Rail (Grand Central);purple;2;preview
+gbngn;GBN;National Rail (Great Northern);purple;2;preview
+gbngw;GBN;National Rail (Great Western Railway);purple;2;preview
+gbnht;GBN;National Rail (Hull Trains);purple;2;preview
+gbnln;GBN;National Rail (London Northwestern Railways);purple;2;preview
+gbnnr;GBN;National Rail (Northern);purple;2;preview
+gbnse;GBN;National Rail (Southeastern);purple;2;preview
+gbnsr;GBN;National Rail (Scotrail);purple;2;preview
+gbnsn;GBN;National Rail (Southern);purple;2;preview
+gbnsw;GBN;National Rail (South Western Railway);purple;2;preview
+gbntl;GBN;National Rail (Thameslink);purple;2;preview
+gbntp;GBN;National Rail (Transpennine Express);purple;2;preview
+gbnwm;GBN;National Rail (West Midlands Railway);purple;2;preview
+gbnxc;GBN;National Rail (Cross Country);purple;2;preview
+gbndlr;GBN;Docklands Light Railway;orange;3;preview
+gbnlo;GBN;London Overground;orange;3;preview
+gbnlu;GBN;London Underground;orange;3;preview
+gbnme;GBN;Merseyrail;orange;3;preview
+gbntwm;GBN;Tyne and Wear Metro;orange;3;preview
+gbnxr;GBN;Elizabeth Line;orange;3;preview
 irlent;IRL;Enterprise;purple;2;preview
 irliei;IRL;Iarnród Éireann (IdirCity);purple;2;preview
 irliec;IRL;Iarnród Éireann (Comaitéara);purple;2;preview
