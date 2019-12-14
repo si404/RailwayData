@@ -1,20 +1,20 @@
 systemName;route;banner;groupName;roots
-frapm;1;;;fraidf.1
-frapm;2;;;fraidf.2
-frapm;3;;;fraidf.3
-frapm;3;Bis;;fraidf.3bis
-frapm;4;;;fraidf.4
-frapm;5;;;fraidf.5
-frapm;6;;;fraidf.6
-frapm;7;;;fraidf.7
-frapm;7;;Villejuif branch;fraidf.7vil
-frapm;7;Bis;;fraidf.7bis
-frapm;8;;;fraidf.8
-frapm;9;;;fraidf.9
-frapm;10;;;fraidf.10
-frapm;10;;Auteuil loop;fraidf.10aut
-frapm;11;;;fraidf.11
-frapm;12;;;fraidf.12
-frapm;13;;;fraidf.13
-frapm;13;;Saint Ouen branch;fraidf.13sto
-frapm;14;;;fraidf.14
+frapm;M1;;;fraidf.m01
+frapm;M2;;;fraidf.m02
+frapm;M3;;;fraidf.m03
+frapm;M3;Bis;;fraidf.m03bis
+frapm;M4;;;fraidf.m04
+frapm;M5;;;fraidf.m05
+frapm;M6;;;fraidf.m06
+frapm;M7;;;fraidf.m07
+frapm;M7;;Villejuif branch;fraidf.m07vil
+frapm;M7;Bis;;fraidf.m07bis
+frapm;M8;;;fraidf.m08
+frapm;M9;;;fraidf.m09
+frapm;M10;;;fraidf.m10
+frapm;M10;;Auteuil loop;fraidf.m10aut
+frapm;M11;;;fraidf.m11
+frapm;M12;;;fraidf.m12
+frapm;M13;;;fraidf.m13
+frapm;M13;;Saint Ouen branch;fraidf.m13sto
+frapm;M14;;;fraidf.m14
