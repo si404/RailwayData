@@ -27,13 +27,21 @@ gbntp;GBN;National Rail (Transpennine Express);purple;2;preview
 gbnwm;GBN;National Rail (West Midlands Railway);purple;2;preview
 gbnxc;GBN;National Rail (Cross Country);purple;2;preview
 gbndlr;GBN;Docklands Light Railway;orange;3;preview
+gbngs;GBN;Glasgow Subway;orange;3;preview
 gbnlo;GBN;London Overground;orange;3;preview
 gbnlu;GBN;London Underground;orange;3;preview
 gbnme;GBN;Merseyrail;orange;3;preview
 gbntwm;GBN;Tyne and Wear Metro;orange;3;preview
 gbnxr;GBN;Elizabeth Line;orange;3;preview
+gbnbt;GBN;Blackpool Tram;grey;4;preview
+gbnet;GBN;Edinburgh Tram;grey;4;preview
+gbnman;GBN;Manchester Metrolink;grey;4;preview
+gbnmm;GBN;Midland Metro;grey;4;preview
+gbnss;GBN;Sheffield Supertram;grey;4;preview
 irlent;IRL;Enterprise;purple;2;preview
 irliei;IRL;Iarnród Éireann (IdirCity);purple;2;preview
 irliec;IRL;Iarnród Éireann (Comaitéara);purple;2;preview
 irlnir;IRL;Northern Ireland Railways;purple;2;preview
 irlied;IRL;Iarnród Éireann (DART);orange;3;preview
+irlluas;IRL;Luas;grey;4;preview
+usanycs;USA;New York City Subway;orange;3;preview
