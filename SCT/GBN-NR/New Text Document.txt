@@ -1,0 +1,40 @@
+East Coast Mainline	Dundee - Edinburgh - Berwick
+West Coast Mainline	Glasgow Central - Lockerbie - Carlisle
+Grampian Mainline	Glasgow Central - Aberdeen
+Highland Mainline	Edinburgh - Inverness
+Alloa Line		Glasgow Queen Street - Alloa
+Argyle Line		Milngavie - Motherwell - Cumbernauld
+Larkhall Branch		Hamilton - Larkhall
+Whifflet Branch		Rutherglen - Whifflet
+Ayrshire Coast Line	Glasgow Central - Ayr
+Adrossan Branch		Kilwinning - Ardrossan Harbour
+Largs Branch		Ardrossan South Beach - Largs
+Borders Line		Edinburgh - Tweedbank
+Carstairs Line		Edinburgh - Carstairs
+Cathcart Circle		Glasgow Central - Cathcart - Glasgow Central
+Newton Branch		Mount Florida - Newton
+Neilston branch		Mount Florida - Neilston
+			Langside - Kings Park
+Croy Line		Glasgow Queen Street - Edinburgh
+Cumbernauld Line	Glasgow Queen Street - Cumbernauld - Falkirk Grahamston
+Dunblane Line		Edinburgh - Dunblane
+East Kilbride Line	Glasgow Central - East Kilbride
+Fife Circle		Kirkcaldy - Inverkeithing
+Inverclyde Line		Paisley - Gourock
+Wemyss Bay branch	Port Glasgow - Wemyss Bay
+Lanark branch		Bellshill - Lanark
+North Berwick line	Edinburgh - North Berwick
+North Clyde Line	Helensburgh Central - Edinburgh
+Balloch branch		Balloch - Dumbarton Central
+Springburn branch	Springburn - Glasgow Queen Street\
+Maryhill Line		Glasgow Queen Street - Anniesland
+Paisley Canal Line	Glasgow Central - Paisley Canal
+Shotts Line		Glasgow Central - Shotts - Edinburgh Waverley
+			Edinburgh - Lockerbie
+Far North Line		Inverness - Thurso - Wick
+Glasgow Southwestern Line	Glasgow - Kilmarnock - Gretna - Carlisle
+Stranraer branch	Kilmarnock - Ayr - Stranraer
+Inverness - Aberdeen Line	Inverness - Aberdeen
+Kyle Line			Inverness - Kyle
+West Highland Line		Glasgow Queen Street - Mallaig
+Oban branch			Crianlarich - Oban
