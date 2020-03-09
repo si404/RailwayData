@@ -6,7 +6,7 @@ ENG/SCT http://www.openstreetmap.org/?lat=54.998026&lon=-3.045187
 +X829958 http://www.openstreetmap.org/?lat=55.067777&lon=-3.311949
 +X395886 http://www.openstreetmap.org/?lat=55.095929&lon=-3.319416
 +X435775 http://www.openstreetmap.org/?lat=55.106585&lon=-3.344908
-+LOC http://www.openstreetmap.org/?lat=55.122441&lon=-3.353748
+LOC http://www.openstreetmap.org/?lat=55.122441&lon=-3.353748
 +X569010 http://www.openstreetmap.org/?lat=55.186488&lon=-3.403187
 +X393047 http://www.openstreetmap.org/?lat=55.246641&lon=-3.397007
 +X644519 http://www.openstreetmap.org/?lat=55.287670&lon=-3.429108
@@ -23,7 +23,7 @@ ENG/SCT http://www.openstreetmap.org/?lat=54.998026&lon=-3.045187
 +X658444 http://www.openstreetmap.org/?lat=55.661441&lon=-3.632097
 +X994083 http://www.openstreetmap.org/?lat=55.687915&lon=-3.661451
 +X218523 http://www.openstreetmap.org/?lat=55.690401&lon=-3.666236
-+CRS http://www.openstreetmap.org/?lat=55.691344&lon=-3.669391
+CRS http://www.openstreetmap.org/?lat=55.691344&lon=-3.669391
 +X485524 http://www.openstreetmap.org/?lat=55.690245&lon=-3.731092
 +X332493 http://www.openstreetmap.org/?lat=55.700590&lon=-3.764019
 +X357724 http://www.openstreetmap.org/?lat=55.702718&lon=-3.812256
