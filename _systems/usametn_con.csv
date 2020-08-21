@@ -1,0 +1,8 @@
+systemName;route;banner;groupName;roots
+usametn;HarLn;;Harlem Line;ny.harln
+usametn;HudLn;;Hudson Line;ny.hudln
+usametn;NewHavLn;;New Haven Line;ny.newhavln,ct.newhavln
+usametn;NewCanBra;;New Canaan Branch;ct.newcanbra
+usametn;DanBra;;Danbury Branch;ct.danbra
+usametn;WatBra;;Waterbury Branch;ct.watbra
+usametn;YanSpr;;;Yankee Stadium Spur;ny.yanspr
