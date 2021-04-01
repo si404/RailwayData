@@ -1,0 +1,8 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+gbrdlr;ENG;DLR;;Ban;Bank branch;eng.dlrban;
+gbrdlr;ENG;DLR;;Bec;Beckton branch;eng.dlrbec;
+gbrdlr;ENG;DLR;;Lew;Lewisham branch;eng.dlrlew;
+gbrdlr;ENG;DLR;;Str;Stratford branch;eng.dlrstr;
+gbrdlr;ENG;DLR;;Sti;Stratford International branch;eng.dlrsti;
+gbrdlr;ENG;DLR;;Tow;Tower Gateway branch;eng.dlrtow;
+gbrdlr;ENG;DLR;;Woo;Woolwich branch;eng.dlrwoo;

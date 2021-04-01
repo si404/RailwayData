@@ -1,0 +1,18 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+irlie;IRL;AthWesLn;;;Athlone - Westport Line;irl.athwesln;
+irlie;IRL;BalLimLn;;;Ballybrophy - Limerick Line;irl.ballimln;
+irlie;IRL;CorkCobhLn;;;Cork - Cobh Line;irl.corkcobhln;
+irlie;IRL;DubCorkLn;;;Dublin - Cork Line;irl.dubcorkln;
+irlie;IRL;DubDunLn;;;Dublin - Dundalk Line;irl.dubdunln;
+irlie;IRL;DubRosLn;;;Dublin - Rosslare Line;irl.dubrosln;
+irlie;IRL;DubSliLn;;;Dublin - Sligo Line;irl.dubsliln;
+irlie;IRL;KilWatLn;;;Kildare - Waterford Line;irl.kilwatln;
+irlie;IRL;LimAthLn;;;Limerick - Athenry Line;irl.limathln;
+irlie;IRL;LimWatLn;;;Limerick - Waterford Line;irl.limwatln;
+irlie;IRL;MalTraLn;;;Mallow - Tralee Line;irl.maltraln;
+irlie;IRL;PheParkLn;;;Phoenix Park Line;irl.pheparkln;
+irlie;IRL;PorGalLn;;;Portlaoise - Galway Line;irl.porgalln;
+irlie;IRL;BalBra;;;Ballina Branch;irl.balbra;
+irlie;IRL;DocBra;;;Docklands Branch;irl.docbra;
+irlie;IRL;HowBra;;;Howth Branch;irl.howbra;
+irlie;IRL;MidBra;;;Midelton Branch;irl.midbra;

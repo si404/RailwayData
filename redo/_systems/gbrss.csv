@@ -1,0 +1,5 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+gbrss;ENG;SS;;Bla;Supertram Tram-train;eng.ssbla;
+gbrss;ENG;SS;;Blu;Supertram Blue Route;eng.ssblu;
+gbrss;ENG;SS;;Pur;Supertram Purple Route;eng.sspur;
+gbrss;ENG;SS;;Yel;Supertram Yellow Route;eng.ssyel;

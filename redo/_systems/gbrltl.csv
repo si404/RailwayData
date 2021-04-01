@@ -1,0 +1,5 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+gbrltl;ENG;LTL;;Add;London Tramlink (Addiscombe branch);eng.ltladd;
+gbrltl;ENG;LTL;;Bec;London Tramlink (Beckenham Junction branch);eng.ltlbec;
+gbrltl;ENG;LTL;;Elm;London Tramlink (Elmers End branch);eng.ltlelm;
+gbrltl;ENG;LTL;;Wim;London Tramlink (Wimbledon branch);eng.ltlwim;
