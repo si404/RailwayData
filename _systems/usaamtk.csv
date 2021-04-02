@@ -1,0 +1,22 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+usaamtk;NY;AdrLn;;;Adroniack Line;ny.adrln;
+usaamtk;MA;DowLn;;;Downeaster Line;ma.dowln;
+usaamtk;NH;DowLn;;;Downeaster Line;nh.dowln;
+usaamtk;ME;DowLn;;;Downeaster Line;me.dowln;
+usaamtk;NY;EmpCor;;;Empire Corridor;ny.empcor;
+usaamtk;CT;HarLn;;;Hartford Line;ct.harln;
+usaamtk;MA;HarLn;;;Hartford Line;ma.harln;
+usaamtk;PA;KeyLn;;;Keystone Line;pa.keyln;
+usaamtk;DC;NECor;;;Northeast Corridor;dc.necor;
+usaamtk;MD;NECor;;;Northeast Corridor;md.necor;
+usaamtk;DE;NECor;;;Northeast Corridor;de.necor;
+usaamtk;PA;NECor;;;Northeast Corridor;pa.necor;
+usaamtk;NJ;NECor;;;Northeast Corridor;nj.necor;
+usaamtk;NY;NECor;;;Northeast Corridor;ny.necor;
+usaamtk;CT;NECor;;;Northeast Corridor;ct.necor;
+usaamtk;RI;NECor;;;Northeast Corridor;ri.necor;
+usaamtk;MA;NECor;;;Northeast Corridor;ma.necor;
+usaamtk;NY;RutBra;;;Rutland Branch;ny.rutbra;
+usaamtk;VT;RutBra;;;Rutland Branch;vt.rutbra;
+usaamtk;MA;VerLn;;;Vermont Line;ma.verln;
+usaamtk;VT;VerLn;;;Vermont Line;vt.verln;
