@@ -1,0 +1,21 @@
+Alexandria	ALX
+Ashland	ASD
+Burke Centre	BCV
+Charlottesville	CVS
+Clifton Forge	CLF
+Culpeper	CLP
+Danville	DAN
+Fredericksburg	FBG
+Lorton	LOR
+Lynchburg–Kemper Street	LYH
+Manassas	MSS
+Newport News	NPN
+Norfolk	NFK
+Petersburg	PTB
+Quantico	QAN
+Richmond Staples Mill Road	RVR
+Richmond Main Street	RVM
+Roanoke	RNK
+Staunton	STA
+Williamsburg	WBG
+Woodbridge	WDB

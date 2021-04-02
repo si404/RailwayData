@@ -1,0 +1,12 @@
+
+Bellows Falls	BLF
+Brattleboro	BRA
+Castleton	CNV
+Essex Junction	ESX
+Montpelier	MPR
+Randolph	RPH	
+Rutland	RUD
+St. Albans	SAB
+Waterbury–Stowe	WAB
+White River Junction	WRJ
+Windsor–Mt. Ascutney	WNM

@@ -1,0 +1,10 @@
+Alderson	ALD
+Charleston	CHW
+Harpers Ferry	HFY
+Hinton	HIN
+Huntington	HUN
+Martinsburg	MRB
+Montgomery	MNG
+Prince	PRC	
+Thurmond	THN
+White Sulphur Springs	WSS

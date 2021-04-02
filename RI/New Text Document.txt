@@ -1,0 +1,3 @@
+Kingston	KIN	
+Providence	PVD
+Westerly	WLY

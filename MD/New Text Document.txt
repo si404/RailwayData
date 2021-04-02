@@ -1,0 +1,6 @@
+Aberdeen	ABE
+Baltimore Penn	BAL
+BWI Thurgood Marshall Airport	BWI
+Cumberland	CUM
+New Carrollton	NCR
+Rockville	RKV

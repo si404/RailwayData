@@ -1,0 +1,6 @@
+Metropark	MET
+New Brunswick	NBK
+Newark Liberty International Airport	EWR
+Newark Penn	NWK
+Princeton Junction	PJC
+Trenton	TRE

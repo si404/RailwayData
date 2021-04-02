@@ -1,0 +1,4 @@
+Claremont	CLA
+Dover	DOV
+Durham–UNH	DHM
+Exeter	EXR

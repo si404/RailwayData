@@ -1,0 +1,27 @@
+Albany–Rensselaer	ALB
+Amsterdam	AMS
+Buffalo–Depew	BUF—	
+Buffalo–Exchange Street	BFX
+Croton–Harmon	CRT
+Fort Edward	FED
+Hudson	HUD
+New Rochelle	NRO
+New York Penn	NYP
+New York State Fair	NYF
+Niagara Falls	NFL	
+Plattsburgh	PLB
+Port Henry	POH
+Port Kent	PRK	
+Poughkeepsie	POU
+Rhinecliff–Kingston	RHI
+Rochester	ROC	
+Rome	ROM
+Rouses Point	RSP
+Saratoga Springs	SAR
+Schenectady	SDY	
+Syracuse	SYR	
+Ticonderoga	FTC
+Utica	UCA
+Westport	WSP	
+Whitehall	WHL	
+Yonkers	YNY

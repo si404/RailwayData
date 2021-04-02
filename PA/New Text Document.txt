@@ -1,0 +1,24 @@
+Altoona	ALT
+Ardmore	ARD
+Coatesville	COT
+Connellsville	COV
+Cornwells Heights	CWH
+Downingtown	DOW
+Elizabethtown	ELT
+Erie	ERI
+Exton	EXT
+Greensburg	GNB
+Harrisburg	HAR
+Huntingdon	HGD
+Johnstown	JST
+Lancaster	LNC
+Latrobe	LAB
+Lewistown	LEW
+Middletown	MID
+Mount Joy	MJY
+Paoli	PAO
+Parkesburg	PAR
+Philadelphia 30th Street	PHL
+Philadelphia North	PHN
+Pittsburgh	PGH
+Tyrone	TYR
