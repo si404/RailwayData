@@ -19,4 +19,6 @@ usaamtk;MA;NECor;;;Northeast Corridor;ma.necor;
 usaamtk;NY;RutBra;;;Rutland Branch;ny.rutbra;
 usaamtk;VT;RutBra;;;Rutland Branch;vt.rutbra;
 usaamtk;MA;VerLn;;;Vermont Line;ma.verln;
-usaamtk;VT;VerLn;;;Vermont Line;vt.verln;
+usaamtk;VT;VerLn;;Bra;Vermont Line (Brattleboro);vt.verlnbra;
+usaamtk;MA;VerLn;;;Vermont Line;ma.verln;
+usaamtk;VT;VerLn;;;Vermont Line (Montpelier);vt.verln;

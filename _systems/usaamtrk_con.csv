@@ -6,4 +6,4 @@ usaamtk;HarLn;;Hartford Line;ct.harln,ma.harln
 usaamtk;KeyLn;;Keystone Line;pa.keyln
 usaamtk;NECor;;Northeast Corridor;dc.necor,md.necor,de.necor,pa.necor,nj.necor,ny.necor,ct.necor,ri.necor,ma.necor
 usaamtk;RutBra;;Rutland Branch;ny.rutbra,vt.rutbra
-usaamtk;VerLn;;Vermont Line;ma.verln,vt.verln
+usaamtk;VerLn;;Vermont Line;ma.verln,vt.verlnbra,nh.verln,vt.verln
