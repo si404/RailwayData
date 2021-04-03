@@ -1,4 +1,0 @@
-
-Connellsville	COV
-Erie	ERI
-Pittsburgh	PGH
