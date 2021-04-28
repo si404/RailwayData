@@ -1,20 +1,31 @@
 systemName;route;bannergroupName;roots
-usaamtk;AdrLn;;Adroniack Line;ny.adrln
-usaamtk;CapLn;;Capitol Line;pa.capln,md.caplncum,wv.capln,md.capln,dc.capln
-usaamtk;CarLn;;Cardinal Line;wv.carln,va.carln
-usaamtk;DowLn;;Downeaster Line;ma.dowln,nh.dowln,me.dowln
-usaamtk;EmpCor;;Empire Line;ny.empln
-usaamtk;HrtLn;;Hartford Line;ct.hrtln,ma.hrtln
-usaamtk;KeyLn;;Keystone Line;pa.keyln
-usaamtk;LakLn;;Lakeshore Line;pa.lakln,ny.lakln
-usaamtk;NewNewsBra;;Newport News Branch;va.newnewsbra
-usaamtk;NorBra;;Norfolk Branch;va.norbra
-usaamtk;NECor;;Northeast Corridor;dc.necor,md.necor,de.necor,pa.necor,nj.necor,ny.necor,ct.necor,ri.necor,ma.necor
-usaamtk;PalLn;;Palmetto Line;nc.palln
-usaamtk;RoaBra;;Roanoke Branch;va.roabra
-usaamtk;RutBra;;Rutland Branch;ny.rutbra,vt.rutbra
-usaamtk;SilLn;;Silver Line;nc.silln
-usaamtk;SECor;;Southeast Corridor;nc.secor,va.secor,dc.secor
-usaamtk;SprLn;;Springfield Line;ny.sprln,ma.sprln
-usaamtk;VerLn;;Vermont Line;ma.verln,vt.verlnbra,nh.verln,vt.verln
-usaamtk;VirLn;;Virginia Line;nc.virln,va.virln
+usaamtk;AE;;Acela;dc.ae,md.ae,de.ae,pa.ae,nj.ae,ny.ae,ct.ae,ri.ae,ma.ae
+usaamtk;AD;;Adirondack;ny.ad
+usaamtk;AT;;Autotrain;ga.at,sc.at,nc.at,va.at
+usaamtk;BW;;Blue Water;il.bw,in.bw,mi.bw
+usaamtk;CL;;Capitol Limited;il.cl,in.cl,oh.cl,pa.cl,md.clcum,wv.cl,md.cl,dc.cl
+usaamtk;CA;;Cardinal;il.ca,in.ca,oh.ca,ky.ca,wv.ca,va.ca,dc.ca,md.ca,de.ca,pa.ca,nj.ca,ny.ca
+usaamtk;CN;;Carolinian;nc.cn,va.cn,dc.cn,md.cn,de.cn,pa.cn,nj.cn,ny.cn
+usaamtk;CR;;Crescent;sc.cr,nc.cr,va.cr,dc.cr,md.cr,de.cr,pa.cr,nj.cr,ny.cr
+usaamtk;DE;;Downeaster;ma.de,nh.de,me.de
+usaamtk;ES;;Empire Service;ny.es
+usaamtk;EA;;Ethan Allen Express;ny.vt,vt.ea
+usaamtk;HL;;Hartford Line;ct.hl,ma.hl;
+usaamtk;KS;;Keystone Service;pa.ks,nj.ks,ny.ks
+usaamtk;LS;;Lakeshore Limited;il.ls,in.ls,oh.ls,pa.ls;ny.ls;ma.ls
+usaamtk;LS;;Lakeshore Limited (New York City);ny.lsnyc
+usaamtk;ML;;Maple Leaf;ny.ml
+usaamtk;NE;;Northeast Regional (Norfolk);va.nenor
+usaamtk;NE;;Northeast Regional (Newport News);va.nenew
+usaamtk;NE;;Northeast Regional;va.ne,dc.ne,md.ne,de.ne,pa.ne,nj.ne,ny.ne,ct.ne,ma.nespr
+usaamtk;NE;;Northeast Regional (Boston);ct.nenew,ri.ne,ma.ne
+usaamtk;PL;;Palmetto;ga.pl,sc.pl,nc.pl,va.pl,dc.pl,md.pl,de.pl,pa.pl,nj.pl,ny.pl
+usaamtk;PM;;Pere Marquette;il.pm,in.pm,mi.pm
+usaamtk;PA;;Pennsylvanian;pa.pa,nj.pa,ny.pa
+usaamtk;PI;;Piedmont;nc.pi
+usaamtk;SM;;Silver Meteor;fl.sm,ga.sm,sc.sm,nc.sm,va.sm,dc.sm,md.sm,de.sm,pa.sm,nj.sm,ny.sm
+usaamtk;SS;;Silver Star (Miami);fl.ssmia
+usaamtk;SS;;Silver Star;fl.ss,ga.ss,sc.ss,nc.ss,va.ss,dc.ss,md.ss,de.ss,pa.ss,nj.ss,ny.ss;
+usaamtk;VF;;Valley Flyer;ct.vf,ma.vf
+usaamtk;VT;;Vermonter;dc.vt,md.vt,de.vt,pa.vt,nj.vt,ny.vt,ct.vt,ma.vt,vt.vtbra,nh.vt,vt.vt
+usaamtk;WV;;Wolverine;il.wv,in.wv,mi.wv
