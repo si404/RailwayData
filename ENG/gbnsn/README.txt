@@ -1,8 +1,15 @@
 
+MarLn | Marshlink Line | Eastbourne to Ashford International
+EGriLn | East Grinstead Line | London Victoria to East Grinstead
+UckLn | Uckfield Line | London Bridge to Uckfield
+RdhLn | Redhill Line | London Victoria to Reigate
+WLonLn | West London Line | Milton Keynes Central to Clapham Junction
+TatLn | Tattenham Line | London Bridge - Tattenham Corner
+SutLn | Sutton Line | London Victoria to  Horsham
+WalLn | Wallington Line | London Victoria to Epsom Downs
 
-Gatwick Express | London Victoria, Gatwick Airport, Brighton
 
-
+Brighton Mainline | London Victoria, East Croydon, Gatwick Airport, Haywards Heath, Brighton
 
 Brighton Mainline Littlehampton | London Victoria, Clapham Junction, East Croydon, Gatwick Airport, Haywards Heath, Burgess Hill, Hassocks, Preston Park, Hove, Portslade, Shoreham-by-Sea, Lancing (1tph), Worthing, West Worthing, Durrington-on-Sea, Goring-by-Sea, Angmering, Littlehampton
 
@@ -23,7 +30,6 @@ Brighton to Ore	1	Falmer, Lewes, Glynde, Polegate, Eastbourne, Hampden Park (Ore
 Trains reverse at Eastbourne. Trains call at Hampden Park once, towards Ore only.	377
 or 387
 
-Marshlink | Eastbourne, Hampden Park, Pevensey & Westham, Pevensey Bay, Normans Bay, Cooden Beach, Collington, Bexhill, St Leonards Warrior Square, Hastings, Ore, Three Oaks (1tp2h), Doleham (limited), Winchelsea (1tp2h), Rye, Appledore, Ham Street, Ashford International
 
 Coastway West
 Route	tph	Calling at	Stock
@@ -33,29 +39,9 @@ Brighton to Portsmouth Harbour	1	Hove, Portslade, Southwick, Shoreham-by-Sea, La
 Littlehampton to Portsmouth & Southsea	1	Ford, Barnham, Chichester, Fishbourne, Bosham, Nutbourne, Southbourne, Emsworth, Warblington, Havant, Bedhampton, Hilsea, Fratton	313
 Littlehampton to Bognor Regis	1	Ford, Barnham
 
-Oxted
-Route	tph	Calling at	Stock
-London Victoria to East Grinstead	2	Clapham Junction, East Croydon, Sanderstead, Riddlesdown, Upper Warlingham, Woldingham, Oxted, Hurst Green, Lingfield, Dormans	377
-London Bridge to Uckfield	1	East Croydon, Oxted, Hurst Green, Edenbridge Town, Hever, Cowden, Ashurst, Eridge, Crowborough, Buxted	171
 
-Redhill
-Route	tph	Calling at	Stock
-London Victoria to Reigate	2	Clapham Junction, East Croydon, Purley, Coulsdon South, Merstham, Redhill	377
 Redhill to Tonbridge	1	Nutfield, Godstone, Edenbridge, Penshurst, Leigh	377
 
-West London Line | Milton Keynes Central, Bletchley, Leighton Buzzard, Tring, Berkhamsted, Hemel Hempstead, Watford Junction, Harrow & Wealdstone, Wembley Central, Shepherd's Bush, Kensington (Olympia), West Brompton, Imperial Wharf, Clapham Junction
-
-Metro
-Route	tph	Calling at	Stock
-London Victoria to Dorking (and Horsham) via Carshalton	2	Clapham Junction, Carshalton, Sutton, Cheam, Epsom, Ashtead, Leatherhead, Box Hill & Westhumble (1tph);
-1tph extended to/from Horsham, calling at Holmwood, Ockley and Warnham
-Box Hill & Westhumble is served by trains to/from Horsham.	377
-
-London Victoria to Epsom via Carshalton	2	Clapham Junction, Balham, Mitcham Eastfields, Mitcham Junction, Hackbridge, Carshalton, Sutton, Cheam, Ewell East	377
-
-London Victoria to Sutton (and Epsom Downs) via Norbury	4	Battersea Park, Clapham Junction, Wandsworth Common, Balham, Streatham Common, Norbury, Thornton Heath, Selhurst, West Croydon, Waddon, Wallington, Carshalton Beeches;
-2tph extended to/from Epsom Downs, calling at Belmont and Banstead.	377
-or 455
 
 London Victoria to West Croydon via Gipsy Hill	2	Battersea Park, Clapham Junction, Wandsworth Common, Balham, Streatham Hill, West Norwood, Gipsy Hill, Crystal Palace, Norwood Junction	377
 
@@ -64,14 +50,8 @@ Services continue to London Bridge via Sydenham (see below).	377
 London Bridge to London Victoria via Sydenham	2	New Cross Gate, Brockley, Honor Oak Park, Forest Hill, Sydenham, Crystal Palace
 Services continue to London Victoria via Gipsy Hill (see above).	377
 
-London Bridge to Coulsdon Town via Sydenham	2	New Cross Gate, Brockley, Honor Oak Park, Forest Hill, Sydenham, Penge West, Anerley, Norwood Junction, East Croydon, South Croydon, Purley Oaks, Purley, Reedham	455
-London Bridge to Epsom	2	Norwood Junction, West Croydon, Waddon, Wallington, Carshalton Beeches, Sutton, Cheam, Ewell East	377
 
-London Bridge to Caterham and Tattenham Corner	2	East Croydon, South Croydon, Purley Oaks, Purley
-The two portions divide/attach at Purley.	377
-Caterham portion:
-Kenley, Whyteleafe, Whyteleafe South	Tattenham Corner portion:
-Reedham, Coulsdon Town, Woodmansterne, Chipstead, Kingswood, Tadworth
+London Bridge to Caterham	2	East Croydon, South Croydon, Purley Oaks, Purley, Kenley, Whyteleafe, Whyteleafe South
 
 London Bridge to Caterham via Peckham Rye and Norbury	2	South Bermondsey, Queens Road Peckham, Peckham Rye, East Dulwich, North Dulwich, Tulse Hill, Streatham, Streatham Common, Norbury, Thornton Heath, Selhurst, East Croydon, Purley, Kenley, Whyteleafe, Whyteleafe South	377
 or 455

@@ -1,3 +1,28 @@
+HS1	St Pancras - Ashford
+
+Greenwich Line	London Bridge - Chalrton
+Woolwich Line	Blackheath - Dartford/Barnehurst/Crayford
+Bexleyheath Line	Lewisham-Slade Green/Dartford
+Lewisham Line	New Cross/St Johns/Nunhead - Hither Green/Ladywell
+Mid Kent Line	New Cross - Hayes
+Bromley North Branch	Grove Park - Bromley North
+Sidcup Line	Hither Green - Slade Green/Dartford
+North Kent Line	Slade Green/Barnehurst/Crayford - Rochester
+Medway Valley Line	Strood - Paddock Wood
+Tonbridge Main Line	Charing Cross - Ashford
+Hastings Line	Tonbridge - Hastings
+Canterbury East Line	Faversham - Dover
+Canterbury West Line	Ashford - Ramsgate
+Kent Coast Line	Faversham - Ramsgate
+Sandwich Line	Dover - Ramsgate
+Folkestone Line	Ashford - Dover
+Sheerness Branch	Sheerness - Sittingbourne	Swale Line?
+Chatham Main Line	Victoria - Faversham
+Maidstone East Line	Swanley - Ashford
+Catford Loop	Victoria - Shortlands
+
+
+
 High Speed 1
 Route	tph	Calling at	Stock
 London St Pancras International to Ramsgate via Faversham	1	Stratford International, Ebbsfleet International, Gravesend, Strood, Rochester, Chatham, Gillingham, Rainham, Sittingbourne, Faversham, Whitstable, Herne Bay, Birchington-on-Sea, Margate, Broadstairs
