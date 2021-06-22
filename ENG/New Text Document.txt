@@ -1,0 +1,74 @@
+Community Rail Partnerships. Where one line, assume that's the line name!
+	Tyne Valley Line	Newcastle - Carlisle
+	Bishop Line	Darlington - Bishop Auckland
+	Yorkshire Coast Line	Hull - Scarborough
+	Penistone Line	Huddersfield - Sheffield
+	Esk Valley Line	Middlesbrough - Whitby
+	South Fylde Line	Preston - Blackpool South
+	Settle-Carlisle Line	Leeds - Carlisle
+	Bentham Line	Leeds - Heysham Port
+	Cumbrian Coast Line	Barrow - Carlisle
+	Lakes Line	Oxenholme - Windermere
+	Clitheroe Line	Victoria - Clitheroe
+	Furness Line	Carnforth - Barrow
+	Mid-Cheshire Line	Manchester - Chester
+	Borders Line	Edinburgh - Tweedbank
+	Strathallan Line	Stirling - Perth
+	West Highland Line	Crianlarich - Mallaig
+	South West Glasgow Line	Crossmyloof - Barrhead
+	Highland Mainline	Perth - Inverness
+	Rail 74 Line	Rutherglen - Hamilton
+	Golden Valley Line	Swindon - Gloucester
+	Severn Shores Line	Gloucester - Newport
+	Severn Beach Line	Bristol - Severn Beach
+	Trans-Wilts Line	Swindon - Westbury
+	Heart of Wessex Line	Westbury - Weymouth
+	Abbey Line	Watford - St Albans Abbey
+	New River Line	Hertford East - Broxbourne
+	Darent Valley	Sevenoaks - Swanley
+	White Cliffs Line	Westenhanger - Sandwich
+	Conwy Valley Line	Llandudno - Blaenau Ffestiniog
+	Borderlands Line	Bidston - Wrexham
+	Heart of Wales Line	Shrewsbury - Swansea
+
+Brunel Line - Reading to Basingstoke
+Tarka Line – Exeter to Barnstaple
+Avocet Line – Exeter to Exmouth
+Riveria Line – Exeter to Paignton
+Tamar Valley Line – Plymouth to Gunnislake
+Looe Valley Line – Liskeard to Looe
+Atlantic Coast Line – Par to Newquay
+Maritime Line – Truro to Falmouth
+St Ives Bay Line – St Erth to St Ives
+Dartmoor Line - Exeter to Okehampton
+Medway Valley Line – Strood to Tonbridge
+Swale Rail Line – Sittingbourne to Sheerness-on-Sea
+Kent Downs Line – Ashford to Otford
+Arun Valley Line – Gatwick Airport to Chichester and Bosham
+Marshlink Line – Hastings to Ashford
+North Downs Line – Gatwick Airport to Guildford and Reading
+Sussex Coast Line – Littlehampton to Hove
+Seaford to Brighton Line
+Tonbridge to Reigate Line
+The 1066 Line - Hastings to Tonbridge
+Uckfield and East Grinstead Lines
+Flitch Line – Witham to Braintree
+Gainsborough Line – Marks Tey to Sudbury
+Mayflower Line – Manningtree to Harwich Town
+Crouch Valley Line – Wickford to Southminster
+Southend Line – Wickford to Southend Victoria
+Sunshine Coast Line – Colchester to Clacton-on-Sea and Walton-on-the-Naze
+
+
+	West of Lancashire	Preston - Ormskirk; Southport - Wigan; Southport - Liverpool; Wigan - Kirkby
+	High Peak and Hope Valley	Piccadilly - Glossop; Piccadilly - Sheffield; Piccadilly - Buxton
+	North Cheshire	Hooton - Ellesmere Port; Ellesmere Port - Warrington Bank Quay
+	South East Manchester	Piccadilly - New Mills Central; Piccadilly - Rose Hill; Piccadilly - Glossop; Stockport - Buxton
+	East Lancashire	Preston - Colne; Victoria - Rochdale - Blackburn
+	South East Lancashire	Bolton - Preston; Bolton - Wigan; Bolton - Bromley Cross; Bolton - Manchester
+	Crewe to Manchester	Piccadilly - Airport - Crewe; Piccadilly - Stockport - Crewe
+	South West Scotland	Ayr - Stranraer; Kilmarnock - Gretna Green
+	East Lothian	Edinburgh - North Berwick; Edinburgh - Dunbar
+	6VT Youth	Edinburgh area ???
+	Severnside	Bristol - Ashchurch; Bristol - Bradford on Avon; Bristol - WsM - Taunton
+	Creative Isle	Birchington - Westgate
