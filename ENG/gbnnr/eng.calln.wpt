@@ -1,3 +1,6 @@
+chester
+
+
 MCV http://www.openstreetmap.org/?lat=53.488052&lon=-2.242563
 +X430872 http://www.openstreetmap.org/?lat=53.489316&lon=-2.239130
 +X529481 http://www.openstreetmap.org/?lat=53.490988&lon=-2.231791
@@ -26,21 +29,15 @@ SOW http://www.openstreetmap.org/?lat=53.707878&lon=-1.906943
 +X525657 http://www.openstreetmap.org/?lat=53.702785&lon=-1.882546
 +X615934 http://www.openstreetmap.org/?lat=53.699381&lon=-1.860638
 +X591537 http://www.openstreetmap.org/?lat=53.707666&lon=-1.854694
-+X152553 http://www.openstreetmap.org/?lat=53.693821&lon=-1.857478
-+X609045 http://www.openstreetmap.org/?lat=53.690246&lon=-1.829610
-BGH http://www.openstreetmap.org/?lat=53.698174&lon=-1.779292
-+X961681 http://www.openstreetmap.org/?lat=53.690602&lon=-1.748886
-+X226120 http://www.openstreetmap.org/?lat=53.680868&lon=-1.720970
-MIR http://www.openstreetmap.org/?lat=53.671462&lon=-1.693332
-+X893682 http://www.openstreetmap.org/?lat=53.675056&lon=-1.657197
-RVN http://www.openstreetmap.org/?lat=53.675549&lon=-1.655889
-DEW http://www.openstreetmap.org/?lat=53.691968&lon=-1.633358
-BTL http://www.openstreetmap.org/?lat=53.710234&lon=-1.622972
-+X430424 http://www.openstreetmap.org/?lat=53.721561&lon=-1.624689
-MLY http://www.openstreetmap.org/?lat=53.749586&lon=-1.591644
-+X664798 http://www.openstreetmap.org/?lat=53.756970&lon=-1.577439
-COT http://www.openstreetmap.org/?lat=53.767980&lon=-1.587825
-+X654843 http://www.openstreetmap.org/?lat=53.779190&lon=-1.588211
+HFX http://www.openstreetmap.org/?lat=53.720819&lon=-1.853642
++X106043 http://www.openstreetmap.org/?lat=53.728246&lon=-1.831391
++X141968 http://www.openstreetmap.org/?lat=53.723218&lon=-1.807637
+LMR http://www.openstreetmap.org/?lat=53.750116&lon=-1.752416
++X808637 http://www.openstreetmap.org/?lat=53.786043&lon=-1.748929
+BDI http://www.openstreetmap.org/?lat=53.790822&lon=-1.749165
++X808637 http://www.openstreetmap.org/?lat=53.786043&lon=-1.748929
+NPD http://www.openstreetmap.org/?lat=53.804693&lon=-1.680651
++BLE http://www.openstreetmap.org/?lat=53.805276&lon=-1.637049
 +X493624 http://www.openstreetmap.org/?lat=53.791329&lon=-1.568513
 +X543816 http://www.openstreetmap.org/?lat=53.792402&lon=-1.561314
 +X176044 http://www.openstreetmap.org/?lat=53.792634&lon=-1.555617

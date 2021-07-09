@@ -1,3 +1,3 @@
 Cornish Main Line
-Great Western Main Line
+South Wales Main Line
 Wessex Main Line

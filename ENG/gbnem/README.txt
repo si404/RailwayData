@@ -1,13 +1,18 @@
-DerVlyLn | Derwent Valley Line
-RobHoodLn | Robin Hood Line
+BarLn	| Barton Line | Cleethorpes - Barton
+DerVlyLn | Derwent Valley Line | Nottingham - Matlock
+RobHoodLn | Robin Hood Line | Nottingham - Mansfield
 
-Redwing Line
+RedLn | Redwing Line | Peterborough - Lincoln
 
-Roman Line
+RomLn | Roman Line | Lincoln - Doncaster
 
-Poacher Line
+PoaLn | Poacher Line | Nottingham - Skegness
 
-North Staffordshire Line
+NStaLn | North Staffordshire Line | Crewe - Derby
+
+ImpsLn | Imps Line | Newark - Lincoln
+
+ | Leicester - Lincoln
 
 Midland Main Line Corby
 Midland Main Line Nottingham

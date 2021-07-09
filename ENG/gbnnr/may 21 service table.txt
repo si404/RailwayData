@@ -1,0 +1,137 @@
+Route 1	Newcastle - Chathill
+done	Middlesbrough - Newcastle	Durham Coast Line
+done	Bishop Auckland - Saltburn	Tees Valley Line 
+done	Newcastle - Carlisle	Tyne Valley Line 
+done	Middlesbrough - Whitby	Esk Valley Line 
+done	Carlisle - Barrow	Cumbrian Coast Line
+Route 6 Barrow - Manchester Airport	Furness Line
+done	Windermere - Oxenholme	Lakes Line
+done	Leeds - Carlisle	Settle & Carlisle Line
+done	Leeds - Heysham Port	Bentham Line
+done	Blackpool South - Preston	South Fylde Line
+done	Preston - Colne	East Lancs Line
+done	Blackpool North - York	Roses Line
+Route10	Liverpool - Wigan - Blackpool North
+done	Preston - Ormskirk	West Lancs Line
+done	Clitheroe - Rochdale	Clitheroe Line
+Route14	Southport - Staylbridge	Southport Line
+	Kirkby - Leeds	Atherton Line 
+Route15	Liverpool - Earlestown - Manchester
+	Liverpool - Warrington Bank Quay
+	Warrington BQ - Helsby - Ellesmere Port	North Cheshire Line
+Route16	Liverpool - Warrington Central - Manchester
+done	Manchester - Chester	Mid-Cheshire Line
+Route19	Manchester - Stoke-on-Trent
+done	Manchester - Buxton	Buxton Line
+
+
+Route 21: Manchester to Manchester Airport local stopping services and Manchester to Crewe.
+N18 Temporary Timetable for Sundays.  From 24 Jan
+N18 Temporary Timetable for Mondays to Saturdays.  From 8 Mar
+Improvement Works Timetables
+N21 Manchester Piccadilly to Manchester Airport.     26 Jul — 30 Jul
+There are currently no Improvement Works planned on this line.
+
+Regular Timetable
+N21 Manchester to Manchester Airport local stopping services.  16 May — 11 Dec
+ 
+done	Manchester - Marple	Marple Line
+done	Manchester - Sheffield	Hope Valley Line
+done	Manchester - Hadfield	Glossop Line
+ 
+
+Route 26: Sheffield to Doncaster, Adwick and Scunthorpe
+Improvement Works Timetables
+There are currently no Improvement Works planned on this line.
+
+Regular Timetable
+N26 Sheffield to Adwick and Scunthorpe.  16 May — 11 Dec
+ 
+
+Route 27: Blackpool to Preston, Manchester and Hazel Grove
+Improvement Works Timetables
+N27 Blackpool North to Manchester Victoria. Preston to Hazel Grove.      28 Jun — 2 Jul
+Regular Timetable
+N27 Blackpool North to Manchester Victoria. Preston to Hazel Grove.  16 May — 11 Dec
+ 
+
+Route28	Hull - Scarborough	Yorkshire Coast Line
+ 
+
+done	Leeds - Harrogate - York	Harrogate Line 
+
+Route 30: Hull to Doncaster and Sheffield
+ 
+
+Route32	Sheffield - Gainsborough - Lincoln
+done	Sheffield - Gainsborough - Cleethorpes	Pilgrims Line
+ 
+
+Route33: Leeds - Nottingham and Leeds to Sheffield via Castleford.  16 May — 11 Dec
+ 
+
+Route 34: Hull to Selby and York
+Improvement Works Timetables
+N34 York to Selby and Hull and York to Sheffield via Pontefract Baghill.     3 Jul — 4 Jul
+N34 Sheffield to Pontefract and York.      11 Jul
+N34 Hull to Selby and York.     11 Jul
+N34 York to Selby and Hull.     18 Jul
+N34 Sheffield to Pontefract and York.     18 Jul
+N34 Hull to Selby and York.     25 Jul
+N34 Sheffield to Pontefract and York.     25 Jul
+Regular Timetable
+N34 York to Selby and Hull and York to Sheffield via Pontefract Baghill.  16 May — 11 Dec
+N34 York to Selby and Hull and York to Sheffield via Pontefract Baghill.      3 Jul — 4 Jul
+ 
+
+Route 35: York and Hull to Leeds
+Improvement Works Timetables
+N35 York & Hull to Leeds.     19 Jul — 23 Jul
+N35 York & Hull to Leeds.     26 Jul — 30 Jul
+Regular Timetable
+N35 Halifax to Hull and Leeds to York.  16 May — 11 Dec
+ 
+
+Route 36: Leeds to Manchester Victoria and Preston, Manchester to Blackburn via Todmorden
+Improvement Works Timetables
+N36 Manchester Victoria to Blackburn via Todmorden.     12 Jul — 15 Jul
+N36 Manchester to Todmorden and Blackburn.     19 Jul — 22 Jul
+N36 Manchester Victoria to Leeds.     26 Jul — 29 Jul
+Regular Timetable
+N36 Leeds to Manchester Victoria via Bradford Interchange/Brighouse and Manchester to Blackburn.  6 Jun — 11 Dec
+ 
+
+Route37	Chester to Leeds	Calderdale Line
+ 
+
+Route 39: Ilkley to Leeds & Bradford Forster Square
+Improvement Works Timetables
+N39 Ilkley to Leeds & Bradford Forster Square.     25 Jul
+Regular Timetable
+N39 Ilkley to Leeds and Bradford Forster Square (Wharfedale Line).  16 May — 11 Dec
+ 
+
+Route 40: Skipton to Bradford Forster Square and Leeds
+Improvement Works Timetables
+There are currently no Improvement Works planned on this line.
+
+Regular Timetable
+N40 Skipton to Leeds and Bradford Forster Square (Airedale Line).  16 May — 11 Dec
+ 
+
+Route 41: Goole and Knottingley to Leeds
+Improvement Works Timetables
+N41 Leeds and Wakefield to Knottingley and Goole (Pontefract Line).     11 Jul
+Regular Timetable
+N41 Leeds and Wakefield to Knottingley and Goole (Pontefract Line).  16 May — 11 Dec
+ 
+
+Route 42: Sheffield and Doncaster to Leeds
+Improvement Works Timetables
+Regular Timetable
+N42 Leeds to Sheffield and Doncaster (Wakefield Line).  16 May — 11 Dec
+ 
+
+done	Huddersfield - Sheffield	Penistone Line
+
+Route46	Bradford Forster Square - Leeds

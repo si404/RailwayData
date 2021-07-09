@@ -30,10 +30,10 @@ Brighton to Ore	1	Falmer, Lewes, Glynde, Polegate, Eastbourne, Hampden Park (Ore
 Trains reverse at Eastbourne. Trains call at Hampden Park once, towards Ore only.	377
 or 387
 
+Sussex Coast Line | Brighton to West Worthing	2	Hove, Aldrington, Portslade, Fishersgate, Southwick, Shoreham-by-Sea, Lancing, East Worthing, Worthing	313
+
 
 Coastway West
-Route	tph	Calling at	Stock
-Brighton to West Worthing	2	Hove, Aldrington, Portslade, Fishersgate, Southwick, Shoreham-by-Sea, Lancing, East Worthing, Worthing	313
 Brighton to Southampton Central	1	Hove, Portslade, Southwick, Shoreham-by-Sea, Lancing, Worthing, West Worthing, Durrington-on-Sea, Goring-by-Sea, Angmering, Ford, Barnham, Chichester, Emsworth, Havant, Cosham, Fareham, Swanwick	377
 Brighton to Portsmouth Harbour	1	Hove, Portslade, Southwick, Shoreham-by-Sea, Lancing, Worthing, Angmering, Barnham, Chichester, Southbourne, Emsworth, Havant, Fratton, Portsmouth & Southsea	377
 Littlehampton to Portsmouth & Southsea	1	Ford, Barnham, Chichester, Fishbourne, Bosham, Nutbourne, Southbourne, Emsworth, Warblington, Havant, Bedhampton, Hilsea, Fratton	313
