@@ -1,0 +1,7 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+gbnch;ENG;ChiML;;;Chiltern Main Line (Birmingham);eng.chiml;
+gbnch;ENG;ChiML;;Oxf;Chiltern Main Line (Oxford);eng.chimloxf;
+gbnch;ENG;ChiML;;Str;Chiltern Main Line (Stratford);eng.chimlstr;
+gbnch;ENG;ChiML;;Ayl;Chiltern Main Line (Aylesbury);eng.chimlayl;
+gbnch;ENG;AylLn;;;Aylesbury Line;eng.aylln;
+gbnch;ENG;SHLn;;Lea;Snow Hill Line (Leamington);eng.shlnlea;

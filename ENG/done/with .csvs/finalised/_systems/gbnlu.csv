@@ -1,0 +1,24 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+gbnlu;ENG;BakLn;;;Bakerloo Line;eng.bakln;
+gbnlu;ENG;CenLn;;;Central Line;eng.cenln;
+gbnlu;ENG;CenLn;;Eal;Central Line (Ealing branch);eng.cenlneal;
+gbnlu;ENG;CenLn;;Hai;Central Line (Hainault loop);eng.cenlnhai;
+gbnlu;ENG;CirLn;;;Circle Line;eng.cirln;
+gbnlu;ENG;DisLn;;;District Line;eng.disln;
+gbnlu;ENG;DisLn;;Eal;District Line (Ealing branch);eng.dislneal;
+gbnlu;ENG;DisLn;;Wim;District Line (Wimbledon - Edgware Road);eng.dislnwim;
+gbnlu;ENG;DisLn;;Oly;District Line (Olympia branch);eng.olyln;
+gbnlu;ENG;HaCLn;;;Hammersmith & City Line;eng.hacln;
+gbnlu;ENG;JubLn;;;Jubilee Line;eng.jubln;
+gbnlu;ENG;MetLn;;;Metropolitan Line;eng.metln;
+gbnlu;ENG;MetLn;;Ame;Metropolitan Line (Amersham branch);eng.metlname;
+gbnlu;ENG;MetLn;;Wat;Metropolitan Line (Watford branch);eng.metlnwat;
+gbnlu;ENG;MetLn;;Uxb;Metropolitan Line (Uxbridge branch);eng.metlnuxb;
+gbnlu;ENG;NorLn;;;Northern Line (Barnet - Bank - Morden);eng.norln;
+gbnlu;ENG;NorLn;;Bat;Northern Line (Edgware - Charing Cross - Battersea);eng.norlnbat;
+gbnlu;ENG;NorLn;;MHE;Northern Line (Mill Hill East branch);eng.norlnmhe;
+gbnlu;ENG;PicLn;;;Piccadilly Line;eng.picln;
+gbnlu;ENG;PicLn;;HT4;Piccadilly Line (Heathrow Terminal 4 loop);eng.piclnht4;
+gbnlu;ENG;PicLn;;Uxb;Piccadilly Line (Uxbridge branch);eng.piclnuxb;
+gbnlu;ENG;VicLn;;;Victoria Line;eng.vicln;
+gbnlu;ENG;WaCLn;;;Waterloo & City Line;eng.wacln;

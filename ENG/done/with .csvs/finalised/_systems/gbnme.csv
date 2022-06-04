@@ -1,0 +1,8 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+gbnme;ENG;NrnLn;;;Northern Line;eng.nrnln;
+gbnme;ENG;NrnLn;;Orm;Northern Line (Ormskirk branch);eng.nrnlnorm;
+gbnme;ENG;NrnLn;;Kir;Northern Line (Kirkby branch);eng.nrnlnkir;
+gbnme;ENG;WirLn;;;Wirral Line;eng.wirln;
+gbnme;ENG;WirLn;;WKi;Wirral Line (West Kirkby branch);eng.wirlnwki;
+gbnme;ENG;WirLn;;New;Wirral Line (New Brighton branch);eng.wirlnnew;
+gbnme;ENG;WirLn;;Ell;Wirral Line (Ellesmere Port branch);eng.wirlnell;

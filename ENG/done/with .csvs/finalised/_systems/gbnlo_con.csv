@@ -1,0 +1,13 @@
+systemName;route;banner;groupName;roots
+gbnlo;ELL;;East London Line;eng.ell
+gbnlo;ELL;;East London Line (Clapham Junction branch);eng.ellcla
+gbnlo;ELL;;East London Line (Crystal Palace branch);eng.ellcry
+gbnlo;ELL;;East London Line (New Cross branch);eng.ellnew
+gbnlo;Goblin;;Gospel Oak - Barking Line;eng.goblin
+gbnlo;LVL;;Lea Valley Line;eng.lvl
+gbnlo;LVL;;Lea Valley Line (Chingford branch);eng.lvlchi
+gbnlo;LVL;;Lea Valley Line (Enfield branch);eng.lvlenf
+gbnlo;NLL;;North London Line;eng.nll
+gbnlo;NLL;;North London Line (Richmond branch);eng.nllric
+gbnlo;RomUpmShu;;Romford - Upminster Shuttle;eng.romupmshu
+gbnlo;WatDC;;Watford DC Line;eng.watdc

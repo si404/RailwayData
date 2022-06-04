@@ -1,0 +1,7 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+gbndlr;ENG;DLR;;;Docklands Light Railway;eng.dlr;
+gbndlr;ENG;DLR;;Tow;Docklands Light Railway (Tower Gateway branch);eng.dlrtow;
+gbndlr;ENG;DLR;;Roy;Docklands Light Railway (Royal Docks branch);eng.dlrroy;
+gbndlr;ENG;DLR;;Str;Docklands Light Railway (Stratford branch);eng.dlrstr;
+gbndlr;ENG;DLR;;StI;Docklands Light Railway (Stratford International branch);eng.dlrsti;
+gbndlr;ENG;DLR;;Woo;Docklands Light Railway (Woolwich Arsenal branch);eng.dlrwoo;

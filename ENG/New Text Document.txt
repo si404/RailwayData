@@ -1,74 +1,237 @@
-Community Rail Partnerships. Where one line, assume that's the line name!
-	Tyne Valley Line	Newcastle - Carlisle
-	Bishop Line	Darlington - Bishop Auckland
-	Yorkshire Coast Line	Hull - Scarborough
-	Penistone Line	Huddersfield - Sheffield
-	Esk Valley Line	Middlesbrough - Whitby
-	South Fylde Line	Preston - Blackpool South
-	Settle-Carlisle Line	Leeds - Carlisle
-	Bentham Line	Leeds - Heysham Port
-	Cumbrian Coast Line	Barrow - Carlisle
-	Lakes Line	Oxenholme - Windermere
-	Clitheroe Line	Victoria - Clitheroe
-	Furness Line	Carnforth - Barrow
-	Mid-Cheshire Line	Manchester - Chester
-	Borders Line	Edinburgh - Tweedbank
-	Strathallan Line	Stirling - Perth
-	West Highland Line	Crianlarich - Mallaig
-	South West Glasgow Line	Crossmyloof - Barrhead
-	Highland Mainline	Perth - Inverness
-	Rail 74 Line	Rutherglen - Hamilton
-	Golden Valley Line	Swindon - Gloucester
-	Severn Shores Line	Gloucester - Newport
-	Severn Beach Line	Bristol - Severn Beach
-	Trans-Wilts Line	Swindon - Westbury
-	Heart of Wessex Line	Westbury - Weymouth
-	Abbey Line	Watford - St Albans Abbey
-	New River Line	Hertford East - Broxbourne
-	Darent Valley	Sevenoaks - Swanley
-	White Cliffs Line	Westenhanger - Sandwich
-	Conwy Valley Line	Llandudno - Blaenau Ffestiniog
-	Borderlands Line	Bidston - Wrexham
-	Heart of Wales Line	Shrewsbury - Swansea
+Community Rail Partnerships and Scenic Rail Britain
 
-Brunel Line - Reading to Basingstoke
-Tarka Line – Exeter to Barnstaple
-Avocet Line – Exeter to Exmouth
-Riveria Line – Exeter to Paignton
-Tamar Valley Line – Plymouth to Gunnislake
-Looe Valley Line – Liskeard to Looe
-Atlantic Coast Line – Par to Newquay
-Maritime Line – Truro to Falmouth
-St Ives Bay Line – St Erth to St Ives
-Dartmoor Line - Exeter to Okehampton
-Medway Valley Line – Strood to Tonbridge
-Swale Rail Line – Sittingbourne to Sheerness-on-Sea
-Kent Downs Line – Ashford to Otford
-Arun Valley Line – Gatwick Airport to Chichester and Bosham
-Marshlink Line – Hastings to Ashford
-North Downs Line – Gatwick Airport to Guildford and Reading
-Sussex Coast Line – Littlehampton to Hove
-Seaford to Brighton Line
-Tonbridge to Reigate Line
-The 1066 Line - Hastings to Tonbridge
-Uckfield and East Grinstead Lines
-Flitch Line – Witham to Braintree
-Gainsborough Line – Marks Tey to Sudbury
-Mayflower Line – Manningtree to Harwich Town
-Crouch Valley Line – Wickford to Southminster
-Southend Line – Wickford to Southend Victoria
-Sunshine Coast Line – Colchester to Clacton-on-Sea and Walton-on-the-Naze
+MIDLANDS AND EAST
+	North Staffordshire CRP
+		Crewe - Stoke - Derby | North Staffordshire Line
+		Stoke - Stafford
+	Derwent Valley Line CRP
+		Matlock - Nottingham | Derwent Valley Line
+	Barton Cleethorpes CRP
+		Barton - Cleethorpes | Humberline Line | Barton Line
+	Marston Vale CRP
+		Bedford - Bletchley | Marston Vale Line
+	Poacher Line CRP
+		Nottingham - Skegness | Poacher Line
+	North Nottinghamshire and Lincolnshire CRP
+		Doncaster - Lincoln | | Roman Line | Dukes Line
+		Shireoaks - Barnetby | | Pilgrim Line
+		Shireoaks - Lincoln
+		Lincoln - Barnetby | | Imps Line
+	Heart of England CRP
+		Marston Green - Coventry
+		Nuneaton - Leamington Spa | | Nuckle Line
+		Tyseley - Leamington Spa
+		Tyseley - Stratford-upon-Avon | Shakespeare Line
+		Lapworth/Hatton - Wilmcote
+	Worcestershire CRP
+		Hagley - Hartlebury | Wyre Valley Line
+		Barnt Green - Droitwich Spa | Saltway Line
+		Barnt Green - Redditch | Arrow Valley Line
+		Honeybourne - Great Malvern | Cotswold Line
+	Hereward Line CRP
+		Peterborough - Ely | Hereward Line
+	Meldreth, Shepreth and Foxton CRP
+		Meldreth - Foxton | | Rhee Valley Line
+	Beds and Herts CRP
+		St Albans City - Bedford
+	Bittern Line CRP
+		Norwich - Sheringham | Bittern Line
+	East Suffolk Lines CRP
+		Ipswich - Lowestoft | East Suffolk Line
+		Ipswich - Felixstowe | Felixstowe Line
+	Wherry Lines CRP
+		Norwich - Great Yarmouth | Wherry Line
+		Norwich - Lowestoft | Wherry Line
+		Reedham - Great Yarmouth | Wherry Line
 
+NORTH
+	Tyne Valley CRP
+		Newcastle - Carlisle | Tyne Valley Line
+	Yorkshire Coast CRP
+		Hull - Scarborough | Yorkshire Wolds Coast Line / Yorkshire Coast Line
+	Bishop Line CRP
+		Darlington - Bishop Auckland | Bishop Line
+	Penistone Line Partnership
+		Huddersfield - Sheffield | Penistone Line
+	Esk Valley Railway Development Company
+		Middlesbrough - Whitby | Esk Valley Line
+	South Fylde Line CRP (part of Community Rail Lancashire)
+		Preston - Blackpool South | South Fylde Line
+	Leeds-Morecambe CRP (part of Community Rail Lancashire)
+		Leeds - Heysham Port | Bentham Line
+	Clitheroe Line CRP (part of Community Rail Lancashire)
+		Manchester - Bolton | Clitheroe Line
+	West of Lancashire CRP (part of Community Rail Lancashire)
+		Preston - Ormskirk | West Lancashire Line
+		Southport - Wigan
+		Southport - Liverpool | | | Northern Line
+		Wigan - Kirkby
+	East Lancashire CRP (part of Community Rail Lancashire)
+		Preston - Colne	| East Lancashire Line
+		Blackburn - Todmorden - Victoria
+	South East Lancashire CRP
+		Bolton - Preston
+		Bolton - Wigan
+		Bromley Cross - Manchester
+	Lakes Line CRP (part of Community Rail Cumbria)
+		Oxenholme - Windermere | Lakes Line
+	Cumbrian Coast CRP (part of Community Rail Cumbria)
+		Barrow-in-Furness - Carlisle | Cumbrian Coast Line
+	Furness Line CRP (part of Community Rail Cumbria)
+		Carnforth - Barrow-in-Furness | Furness Line
+	Settle-Carlisle Railway CRP
+		Settle - Carlisle | Settle & Carlisle Line
+	High Peak and Hope Valley CRP
+		Strines - Sheffield | Hope Valley Line
+		Dinting - Glossop - Hadfield | Glossop Line
+		Middlewood - Buxton | Buxton Line
+	South East Manchester CRP
+		Manchester - New Mills Central | Hope Valley Line
+		Manchester - Dinting | Glossop Line
+		Stockport - New Mills Newtown | Buxton Line
+		Stockport - Guide Bridge
+		Manchester - Rose Hill
+	Mid-Cheshire CRP
+		Manchester - Chester | Mid-Cheshire Line
+	Crewe to Manchester CRP
+		Crewe - Stockport - Manchester
+		Crewe - Manchester Airport - Manchester
+	North Cheshire CRP
+		Hooton - Ellesmere Port - Helsby | | North Cheshire Line
+		Chester - Warrington Bank Quay | | North Cheshire Line
+	Other Scenic Rail Britain Lines
+		York - Edinburgh | | East Coast Main Line
+SCOTLAND
+	South West Scotland CRP
+		Ayr - Stranraer | | | Stranraer Line
+		Ayr - Kilmarnock | | | Stranraer Line
+		Kilmarnock - Dumfries | | | Carlisle Line
+		Dumfries - Gretna Green | | | Carlisle Line
+	Borders CRP
+		Edinburgh Waverley - Tweedbank | Waverley Line | Borders Line
+	Strathallen CRP
+		Gleneagles - Dunblane | | Strathallen Line
+	6VT Youth CRP
+		around Edinburgh ??
+	East Lothian CRP
+		Edinburgh Waverley - North Berwick
+		Edinburgh Waverley - Dunbar
+	West Highland CRP
+		Crianlarich - Mallaigh | West Highland Line
+	South West Glasgow CRP
+		Crossmyloof - Barrhead
+	Rail 74 CRP
+		Rutherglen - Hamilton Central | South Lanarkshire Line
+	Highland Mainline CRP
+		Dunkeld & Birnam - Carrbridge | Highland Mainline
+	Other Scenic Rail Britain Lines
+		Inverness - Kyle of Lochalsh | | Kyle Line
+		Inverness - Wick | | Far North Line
+		Glasgow - Oban / Fort William | | West Highland Line
 
-	West of Lancashire	Preston - Ormskirk; Southport - Wigan; Southport - Liverpool; Wigan - Kirkby
-	High Peak and Hope Valley	Piccadilly - Glossop; Piccadilly - Sheffield; Piccadilly - Buxton
-	North Cheshire	Hooton - Ellesmere Port; Ellesmere Port - Warrington Bank Quay
-	South East Manchester	Piccadilly - New Mills Central; Piccadilly - Rose Hill; Piccadilly - Glossop; Stockport - Buxton
-	East Lancashire	Preston - Colne; Victoria - Rochdale - Blackburn
-	South East Lancashire	Bolton - Preston; Bolton - Wigan; Bolton - Bromley Cross; Bolton - Manchester
-	Crewe to Manchester	Piccadilly - Airport - Crewe; Piccadilly - Stockport - Crewe
-	South West Scotland	Ayr - Stranraer; Kilmarnock - Gretna Green
-	East Lothian	Edinburgh - North Berwick; Edinburgh - Dunbar
-	6VT Youth	Edinburgh area ???
-	Severnside	Bristol - Ashchurch; Bristol - Bradford on Avon; Bristol - WsM - Taunton
-	Creative Isle	Birchington - Westgate
+SOUTH WEST
+	Gloucestershire CRP
+		Gloucester - Swindon	 | Golden Valley Line
+		Gloucester - Lydney	 | Severn Shores Line
+		Ashchurch - Cam & Dursley	
+	Severnside CRP
+		Bristol - Yate
+		Bristol - Bradford-on-Avon | Heart of Wessex Line
+		Bristol - Taunton
+		Bristol - Severn Beach | Severn Beach Line
+		Bristol - Pilning
+	Reading - Basingstoke CRP
+		Reading - Basingstoke | Brunel Line
+	TransWilts CRP
+		Swindon - Salisbury
+	Blackmore Vale CRP
+		Tisbury - Crewkerne | West of England Line | Blackmore Vale Line
+	Heart of Wessex CRP (to be disbanded and replaced)
+		 Bristol - Weymouth | Heart of Wessex Line
+	Purbeck CRP
+		Holton Heath - Moreton | Purbeck Line
+	Devon and Cornwall Rail Partnership
+		Exeter - Barnstaple | Tarka Line
+		Exeter - Exmouth | Avocet Line
+		Exeter - Axminster | East Devon Line
+		Exeter - Paignton | Riveria Line
+		Plymouth - Gunnislake | Tamar Valley Line
+		Liskeard - Looe | Looe Valley Line
+		Par - Newquay | Atlantic Coast Line
+		Truro - Falmouth | Maritime Line
+		St Erth - St Ives | St Ives Bay Line
+		Exeter - Okehampton | Dartmoor Line
+
+SOUTH EAST
+	Abbey Line CRP
+		Watford Junction - St Albans Abbey | Abbey Line
+	New River Line CRP
+		Hertford East - Broxbourne | New River Line
+	Hounslow and Richmond CRP
+		Barnes - Feltham
+	Darent Valley CRP
+		Swanley - Sevenoaks
+	Surrey Hills to South Downs CRP
+		Haslemere - Farncombe
+	East Hampshire CRP
+		Liphook - Havant | | East Hampshire Line
+	Three Rivers CRP
+		Southampton - Winchester
+		Romsey - Eastleigh
+		Southampton - Salisbury
+		Southampton - Bursledon
+	Lymington - Brockenhurst CRP
+		Lymington Pier - Brockenhurst
+	Isle of Wight CRP
+		Ryde - Shanklin | | Island Line
+	White Cliffs CRP
+ 		Westenhanger - Sandwich
+	Creative Isle CRP
+		Birchington-on-Sea - Minster
+	Kent CRP
+		Strood - Tonbridge | Medway Valley Line
+		Sittingbourne - Sheerness-on-Sea | Swale Rail Line
+		Ashford - Otford | Kent Downs Line
+	Essex and South Suffolk CRP
+		Witham - Braintree | Flitch Line
+		Marks Tey - Sudbury | Gainsborough Line
+		Manningtree - Harwich Town | Mayflower Line
+		Wickford - Southminster | Crouch Valley Line
+		Wickford - Southend | Southend Line
+		Colchester - Colchester Town | Sunshine Coast Line
+		Colchester Town - Walton-on-the-Naze | Sunshine Coast Line
+		Colchester - Clacton | Sunshire Coast Line
+	Southeast Communities Rail Partnership
+		Gatwick - Bosham | Arun Valley Line
+		Ford - Bognor Regis | Arun Valley Line?
+		Hastings - Ashford | Marshlink Line
+		Gatwick Airport - Reading | North Downs Line
+		Littlehampton - Brighton | Sussex Coast Line
+		Seaford - Brighton
+		Tonbridge - Reigate
+		Hastings - Tonbridge | 1066 Line
+		Oxted - East Grinstead
+		Oxted - Uckfield
+		Windsor & Eton Riverside - Ashford
+		Reading - Ashford
+
+WALES
+	Conwy Valley and North West Wales Coast CRP
+		Llandudno - Blaenau Ffestinog | Conwy Valley Line
+		Llandudno Junction - Holyhead
+	Borderlands CRP
+		Wrexham Central - Bidston | Borderlands Line
+	Heart of Wales Development Company
+		Shrewsbury - Swansea | Heart of Wales Line
+	South West Wales Connected
+		Port Talbot - Swansea
+		Swansea - Carmarthen
+		Carmathen - Fishguard Harbour
+		Carmarthen - Milford Haven
+		Carmarthen - Pembroke Dock
+		Swansea - Cynghordy | Heart of Wales Line
+	Chester - Shrewsbury Rail Partnership
+		Chester - Shrewsbury
+	Cambrian Rail Partnership
+		Shrewsbury - Aberystwyth
+		Shrewsbury - Pwllheli

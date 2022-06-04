@@ -1,0 +1,4 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+gbngn;ENG;FenLn;;;Fen Line;eng.fenln;
+gbngn;ENG;NorCityLn;;;Northern City Line;eng.norcityln;
+gbngn;ENG;NorCityLn;;Wel;Northern City Line (Welwyn GC branch);eng.norcitylnwel;

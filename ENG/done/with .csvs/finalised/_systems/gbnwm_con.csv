@@ -1,0 +1,11 @@
+systemName;route;banner;groupName;roots
+gbnwm;MalLn;;Malvern Line;eng.malln
+gbnwm;SalLn;;Salopian Line;eng.salln
+gbnwm;BCLn;;Black Country Line;eng.bcln
+gbnwm;ChaLn;;Chase Line;eng.chaln
+gbnwm;NucLn;;NuCKLe Line;eng.nucln
+gbnwm;ShaLn;;Shakespeare Line;eng.shaln
+gbnwm;SHLn;;Snow Hill Line;eng.shln
+gbnwm;StoBra;;Stourbridge Branch;eng.stobra
+gbnwm;XCLn;;Cross-City Line;eng.xcln
+gbnwm;XCLn;;Cross-City Line (Bromsgrove branch);eng.xclnbro

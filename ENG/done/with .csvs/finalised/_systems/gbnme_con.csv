@@ -1,0 +1,9 @@
+systemName;route;banner;groupName;roots
+gbnme;NrnLn;;Northern Line;eng.nrnln
+gbnme;NrnLn;;Northern Line (Ormskirk branch);eng.nrnlnorm
+gbnme;NrnLn;;Northern Line (Kirkby branch);eng.nrnlnkir
+gbnme;WirLn;;Wirral Line;eng.wirln
+gbnme;WirLn;;Wirral Line (West Kirkby branch);eng.wirlnwki
+gbnme;WirLn;;Wirral Line (New Brighton branch);eng.wirlnnew
+gbnme;WirLn;;Wirral Line (Ellesmere Port branch);eng.wirlnell
+

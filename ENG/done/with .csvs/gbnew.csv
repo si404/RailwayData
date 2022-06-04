@@ -1,0 +1,4 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+gbnew;ENG;EWR;;;East West Rail;eng.ewr;
+gbnew;ENG;EWR;;Mil;East West Rail (Milton Keynes branch);eng.ewrmil;
+gbnew;ENG;ValeLn;;;Vale Line;eng.valeln;

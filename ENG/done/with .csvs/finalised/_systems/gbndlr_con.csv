@@ -1,0 +1,7 @@
+systemName;route;banner;groupName;roots
+gbndlr;DLR;;Docklands Light Railway;eng.dlr
+gbndlr;DLR;;Docklands Light Railway (Tower Gateway branch);eng.dlrtow
+gbndlr;DLR;;Docklands Light Railway (Royal Docks branch);eng.dlrroy
+gbndlr;DLR;;Docklands Light Railway (Stratford branch);eng.dlrstr
+gbndlr;DLR;;Docklands Light Railway (Stratford International branch);eng.dlrsti
+gbndlr;DLR;;Docklands Light Railway (Woolwich Arsenal branch);eng.dlrwoo
