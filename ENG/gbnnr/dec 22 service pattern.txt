@@ -1,0 +1,60 @@
+North East
+	Tyne Valley Line	Carlisle - Chathill
+	Durham Coast Line	Hexham - Nunthorpe
+	Esk Valley Line	Middlesbrough - Whitby
+	Tees Valley Line	Saltburn - Bishop Auckland
+
+North West
+	Furness Line	Manchester Airport - Barrow
+	Cumbrian Coast Line	Lancaster - Carlisle
+	Lakes Line	Manchester Airport - Windermere
+	East Lancashire	Preston - Colne
+	South Fylde	Preston - Blackpool South
+	Mid-Cheshire Line	Manchester Piccadilly - Chester
+	Buxton Line	Manchester Piccadilly - Buxton
+	Glossop	Line	Manchester Piccadilly - Hadfield
+	Hope Valley Line	Manchester Piccadilly - Sheffield
+	North Cheshire Line	Ellesmere Port - Helsby
+	Ribble Valley Line	Clitheroe - Rochdale
+	Chat Moss Line	Liverpool Lime Street - Manchester Airport - Crewe
+
+		Ormskirk - Preston
+		Manchester Airport - Blackpool North
+		Liverpool Lime Street - Wigan North Western
+		Liverpool Lime Street - Blackpool North
+		Liverpool Lime Street - Warrington Central - Manchester Oxford Road
+		Manchester Piccadilly - Crewe
+		Manchester Piccadilly - Rose Hill Marple
+		Southport - Bolton - Manchester Oxford Road
+		Southport - Stalybridge
+		Kirkby - Atherton - Victoria - Blackburn
+		Wigan - Atherton - Victoria - Leeds
+
+Yorkshire
+	Wharfdale Line	Leeds / Bradford - Ilkley
+	Airdale Line	Leeds / Bradford - Skipton
+	Harrogate Line	Leeds - Harrogate - York
+	Pontefract Line	Leeds - Castleford/Wakefield - Knottingley - Goole
+	Wakefield Line	Leeds - Doncaster/Sheffield
+	Penistone Line	Sheffield - Huddersfield
+	Hallam Line	Leeds - Sheffield
+	Erewash Valley Line	Leeds - Nottingham
+	Dearne Valley Line	Sheffield - York
+	Yorkshire Coast Line	Hull - Scarborough
+	Roses Line	York - Blackpool North
+	Settle & Carlisle Line	Leeds - Carlisle
+	Bentham Line	Leeds - Morecambe
+
+		Leeds - Lincoln
+		Sheffield - Gainsborough Central - Cleethorpes
+		Leeds - York
+		Halifax - Hull
+		Castleford - Huddersfield
+		Bradford Interchange - Huddersfield
+		Doncaster - Scunthorpe
+		Sheffield - Adwick
+		Sheffield - Hull
+		Sheffield - Bridlington
+		Hull - York
+		Hull - Church Fenton - York
+		Leeds - Victoria - Chester
