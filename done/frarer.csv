@@ -1,0 +1,22 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+frarer;FRA-IDF;A;;;;fraidf.rera;
+frarer;FRA-IDF;A;;StG;Saint-Germain-en-Laye branch;fraidf.rerastg;
+frarer;FRA-IDF;A;;Boi;Boissy Saint-Leger branch;fraidf.reraboi;
+frarer;FRA-IDF;A;;Poi;Poissy branch;fraidf.rerapoi;
+frarer;FRA-IDF;B;;;;fraidf.rerb;
+frarer;FRA-IDF;B;;Mit;Mitry Claye branch;fraidf.rerbmit;
+frarer;FRA-IDF;B;;Rob;Robinson branch;fraidf.rerbrob;
+frarer;FRA-IDF;C;;;;fraidf.rerc;
+frarer;FRA-IDF;C;;Ver;Versailles Chateau Rive Gauche branch;fraidf.rercver;
+frarer;FRA-IDF;C;;Pon;Pontoise branch;fraidf.rercpon;
+frarer;FRA-IDF;C;;Run;Rungis branch;fraidf.rercrun;
+frarer;FRA-IDF;C;;Ver;Versailles Chantiers branch;fraidf.rercver;
+frarer;FRA-IDF;C;;Dou;Doudan La Foret branch;fraidf.rercdou;
+frarer;FRA-HDF;D;;;;frahdf.rerd;
+frarer;FRA-IDF;D;;;;fraidf.rerd;
+frarer;FRA-IDF;D;;Mel;Melun branch;fraidf.rerdmel;
+frarer;FRA-IDF;D;;Mal;Malesherbes branch;fraidf.rerdmal;
+frarer;FRA-CVL;D;;;Malesherbes branch;fracvl.rerd;
+frarer;FRA-IDF;D;;Ess;Essonnes branch;fraidf.rerdess;
+frarer;FRA-IDF;E;;;;fraidf.rere;
+frarer;FRA-IDF;E;;Che;Chelles Gournay branch;fraidf.rereche;

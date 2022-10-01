@@ -1,0 +1,30 @@
+RER A
+StG|Boi	6tph	St Germain - Boissy
+-	6tph	Cergy - Chessy
+Poi	3tph	Poissy - Noisy
+-	3tph	La Defense - Noisy
+
+RER B
+-	4tph	CDG - fast - Paris - Massy P
+-	4tph	CDG - local - Paris - semi - Massy P - St Remy
+Mit|Rob	4tph	Mitry Claye - Robinson
+
+RER C
+Pon|Run	2tph	Pontoise - Orly Airport - Massy P
+Pon|Run	2tph	Monigny - Orly Airport
+-	2tph	St Quentin - all - Bibliotheque - Juvisy - all - St Martin
+Dou	2tph	Invalides - all - Bibliotheque - Juvisy - all - Dourdan
+Ver|Cha	2tph	Versailles Gauche - all - Bibliotheque - Choisy - all - Versailles Chantiers
+Ver	2tph	Versailles Gauche - all - Bibliotheque - Choisy - all - Juvisy
+
+RER D
+-	2tph	Creil - Corbeil
+-	2tph	Villiers - all - Corbeil
+Mel	4tph	Goussainville - all - Maisons - Creteil - Villeneuve - all via Combs - Melun
+Mal	1tph	Juvisy - Ris Orangis - Malesherbes
+Mal|Ess	1tph	Juvisy - Ris Orangis - Melun
+
+RER E
+Che	4tph	Haussmann - Gournay
+-	2tph	Haussmann - all - Noisy - Val Fontenay - Villiers - all - Tournan
+-	4tph	Haussmann - Villiers

@@ -1,0 +1,20 @@
+systemName;route;banner;groupName;roots
+frarer;A;;;fraidf.rera
+frarer;A;;Saint-Germain-en-Laye branch;fraidf.rerastg
+frarer;A;;Boissy Saint-Leger branch;fraidf.reraboi
+frarer;A;;Poissy branch;fraidf.rerapoi
+frarer;B;;;fraidf.rerb
+frarer;B;;Mitry Claye branch;fraidf.rerbmit
+frarer;B;;Robinson branch;fraidf.rerbrob
+frarer;C;;;fraidf.rerc
+frarer;C;;Versailles Chateau Rive Gauche branch;fraidf.rercver
+frarer;C;;Pontoise branch;fraidf.rercpon
+frarer;C;;Rungis branch;fraidf.rercrun
+frarer;C;;Versailles Chantiers branch;fraidf.rercver
+frarer;C;;Doudan La Foret branch;fraidf.rercdou
+frarer;D;;;frahdf.rerd,fraidf.rerd
+frarer;D;;Melun branch;fraidf.rerdmel
+frarer;D;;Malesherbes branch;fraidf.rerdmal,fracvl.rerd
+frarer;D;;Essonnes branch;fraidf.rerdess
+frarer;E;;;fraidf.rere
+frarer;E;;Chelles Gournay branch;fraidf.rereche

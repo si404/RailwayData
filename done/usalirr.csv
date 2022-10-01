@@ -1,0 +1,19 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+usalirr;NY;AtlBra;;;Atlantic Branch;ny.atlbra;
+usalirr;NY;BabBra;;GCT;Babylon Branch (Grand Central);ny.babbragct;
+usalirr;NY;BabBra;;;Babylon Branch (Penn Station);ny.babbra;
+usalirr;NY;BabBra;;Lim;Babylon Branch (limited stop);ny.babbralim;
+usalirr;NY;GreBra;;;Greenport Branch;ny.grebra;
+usalirr;NY;HemBra;;;Hempstead Branch;ny.hembra;
+usalirr;NY;HunBra;;GCT;Huntington Branch (Grand Central);ny.hunbragct;
+usalirr;NY;HunBra;;;Huntington Branch (Penn Station);ny.hunbra;
+usalirr;NY;LongBeaBra;;;Long Beach Branch;ny.longbeabra;
+usalirr;NY;MonBra;;;Montauk Branch;ny.monbra;
+usalirr;NY;OysBayBra;;;Oyster Bay Branch;ny.oysbaybra;
+usalirr;NY;PortJefBra;;;Port Jefferson Branch;ny.portjefbra;
+usalirr;NY;PortWasBra;;GCT;Port Washington Branch (Grand Central);ny.portwasbragct;
+usalirr;NY;PortWasBra;;;Port Washington Branch (Penn Station);ny.portwasbra;
+usalirr;NY;RocBra;;;Rockaway Branch;ny.rocbra;
+usalirr;NY;RonBra;;GCT;Ronkonkoma Branch (Grand Central);ny.ronbragct;
+usalirr;NY;RonBra;;;Ronkonkoma Branch (Penn Station);ny.ronbra;
+usalirr;NY;WHemBra;;;West Hempstead Branch;ny.whembra;

@@ -1,0 +1,26 @@
+systemName;route;banner;groupName;roots
+fratra;H;;Pontoise branch;fraidf.h
+fratra;H;;Valmondois branch;fraidf.hval
+fratra;H;;Persan-Beaumont branch;fraidf.hper
+fratra;H;;Luzarches branch;fraidf.hluz
+fratra;H;;Transversal;fraidf.htra,frahdf.h
+fratra;J;;Gisors branch;fraidf.j,frahdf.j,franor.j
+fratra;J;;Ermont-Eaubonne branch;fraidf.jerm
+fratra;J;;Juziers branch;fraidf.jjuz
+fratra;J;;Vernon branch;fraidf.jver,franor.jver
+fratra;K;;fraidf.k,frahdf.k
+fratra;L;;Versailles branch;fraidf.l
+fratra;L;;Cergy branch;fraidf.lcer
+fratra;L;;Marly branch;fraidf.lmar
+fratra;N;;Mantes branch;fraidf.n
+fratra;N;;Ramboullet branch;fraidf.nram
+fratra;N;;Dreux branch;fraidf.ndre,Dreux branch;fracvl.n
+fratra;P;;Meaux branch;fraidf.p,frahdf.p
+fratra;P;;Crecy-la-Chapelle branch;fraidf.pcre
+fratra;P;;La Ferte Milon branch;fraidf.pfer,frahdf.pfer
+fratra;P;;Coulommiers branch;fraidf.pcou
+fratra;P;;Provins branch;fraidf.ppro
+fratra;R;;Montargis branch;fraidf.r,fracvl.r
+fratra;R;;Montereau branch;fraidf.rmon
+fratra;R;;Melun - Montereau;fraidf.rcha
+fratra;U;;fraidf.u;
