@@ -1,0 +1,127 @@
+﻿System;Name;Type
+fracp;Chemins de fer de Provence;Regional
+frahdfter;TER Hauts-de-France;Regional
+frarer;Réseau Express Régional;Regional
+fratra;Transillien;Regional
+frattu;Toulouse Train urbain;Regional
+gbnlo;London Overground;Regional
+gbnme;Merseyrail;Regional
+gbntl;Thameslink;Regional
+gbnwm;West Midlands Railway;Regional
+gbnxr;Elizabeth Line;Regional
+irlnir;NI Railways;Regional
+usacndx;CTrail;Regional
+usalirr;Long Island Rail Road;Regional
+usamarc;MARC Train;Regional
+usambtx;MBTA Commuter Rail;Regional
+usamncr;Metro-North;Regional
+usanjtr;NJ Transit Rail;Regional
+usasepa;SEPTA Regional Rail;Regional
+usavrex;Virginia Railway Express;Regional
+
+belbm;Métro de Bruxelles / Brusselse metro;Metro
+belcm;Métro de Charleroi;Metro
+frallm;Lille Métro;Metro
+fralym;Lyon Métro;Metro
+framam;Marseille Métro;Metro
+frapm;Paris Métro;Metro
+frarm;Rennes Métro;Metro
+fratm;Toulouse Métro;Metro
+gbndlr;Docklands Light Railway;Metro
+gbngs;Glasgow Subway;Metro
+gbnlu;London Underground;Metro
+gbntwm;Tyne & Wear Metro;Metro
+hkgmtr;Hong Kong Mass Transit Railway;Metro
+nldam;Amsterdam Metro;Metro
+nldrm;Rotterdam Metro;Metro
+sgpmrt;Singapore Mass Rapid Transit;Metro
+usabmsl;Baltimore Metro SubwayLink;Metro
+usambta;MBTA Subway;Metro
+usapatco;PATCO Speedline;Metro
+usasepta;SEPTA rapid transit;Metro
+usanycs;New York City Subway;Metro
+usapath;Port Authority Trans-Hudson Railroad;Metro
+usasir;Staten Island Railway;Metro
+usawmat;USA;Washington Metro;Metro
+
+belat;Antwerpse tram;Tram
+belbt;Tramway de Bruxelles / Brusselse tram;Tram
+belgt;Gentse tram;Tram
+belkt;Kusttram;Tram
+fraant;Angers Tramway;Tram
+fraaut;Tramway d'Aubagne;Tram
+frabet;Besancon Tramway;Tram
+frabrt;Brest Tramway;Tram
+frabt;Bordeaux Tramway;Tram
+fracft;Clermont-Ferrand Tramway;Tram
+fract;Caen Tramway;Tram
+fradt;Dijon Tramway;Tram
+fragt;Grenoble Tramway;Tram
+fraidft;Ile de France Tramway;Tram
+frallt;Tramway du Grand Boulevard;Tram
+fralht;Le Havre Tramway;Tram
+fralmt;Le Mans Tramway;Tram
+fralyt;Lyon Tramway;Tram
+framat;Marseille Tramway;Tram
+framot;Monpelier Tramway;Tram
+framut;Mulhouse Tramway;Tram
+franat;Nantes Tramway;Tram
+franit;Nice Tramway;Tram
+fraot;Orleans Tramway;Tram
+fraret;Reims Tramway;Tram
+frarot;Métro de Rouen;Tram
+fraset;Saint Etienne Tramway;Tram
+frast;Strasbourg Tramway;Tram
+fratot;Tours Tramway;Tram
+fratt;Toulouse Tramway;Tram
+fravt;Valenciennes Tramway;Tram
+gbnbt;Blackpool Tramway;Tram
+gbnet;Edinburgh Tram;Tram
+gbnlt;London Trams;Tram
+gbnman;Manchester Metrolink;Tram
+gbnnet;Nottingham Express Transit;Tram
+gbnss;Sheffield Supertram;Tram
+gbnwmm;West Midlands Metro;Tram
+hgkhgt;Hong Kong Tramways;Tram
+hgklr;Hong Kong Light Rail;Tram
+iomimr;Isle of Man Railways;Tram
+irlluas;Luas;Tram
+nldat;Amsterdam Trams;Tram
+nldht;Den Haag Trams;Tram
+nldrt;Rotterdam Trams;Tram
+nldut;Utrecht Trams;Tram
+usablrl;USA;Baltimore Light RailLink;Tram
+usabufmr;Buffalo Metro Rail;Trams
+usadcsc;USA;DC Streetcar;Tram
+usahblr;USA;Hudson-Bergen Light Rail;Tram
+usalynx;USA;LYNX;Tram
+usambtlr;USA;MBTA Light Rail;Tram
+usamtlr;Minnesota METRO Transit (Light Rail);Tram
+usanlr;USA;Newark Light Rail;Tram
+usarivl;USA;River LINE;Tram
+usaseplr;USA;SEPTA Light Rail;Tram
+usapitlr;USA;Pittsburgh Light Rail (The T);Tram
+usatide;USA;The Tide;Tram
+
+frabrtp;Brest Téléphérique;PeopleMover
+frafdm;Funiculaire de Montmartre;PeopleMover
+fragbt;Téléphérique de Grenoble Bastille;PeopleMover
+fralhf;Funicular de Havre;PeopleMover
+fralyf;Lyon Funiculars;PeopleMover
+frattp;Toulouse Téléphérique urbain Téléo;People Mover
+fraval;Véhicule Automatique Léger;PeopleMover
+gbnbarl;Birmingham Air-Rail Link;PeopleMover
+gbndart;Luton Direct Air-Rail Transport;PeopleMover
+gbngast;Gatwick Airport Shuttle Transit;PeopleMover
+gbnhprt;Heathrow Personal Rapid Transit;PeopleMover
+gbnht5t;Heathrow Terminal 5 Transit;PeopleMover
+gbnlcc;London Cable Car;PeopleMover
+gbnstts;Stansted Airport Tracked Transit System;PeopleMover
+hgkngcc;Ngong Ping Cable Car;PeopleMover
+hgkop;Ocean Park Transport;People Mover
+hgkpt;Peak Tram;PeopleMover
+sgplrt;Singapore Light Rail Transit;PeopleMover
+usaairtrn;AirTrain;PeopleMover
+usahunhts;Huntsville Hospital Tram System;PeopleMover
+usarooist;Roosevelt Island Tramway;PeopleMover
+usawvuprt;Morgantown Personal Rapid Transit;PeopleMover
