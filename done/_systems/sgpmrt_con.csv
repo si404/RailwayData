@@ -1,0 +1,9 @@
+systemName;route;banner;groupName;roots
+sgpmrt;CC;;Circle Line;sgp.cc
+sgpmrt;CE;;Circle Line extension;sgp.ce
+sgpmrt;DT;;Downtown Line;sgp.dt
+sgpmrt;EW;;East West Line;sgp.ew
+sgpmrt;CG;;East West Line (Changi Airport Line);sgp.cg
+sgpmrt;NE;;North East Line;sgp.ne
+sgpmrt;NS;;North South Line;sgp.ns
+sgpmrt;TE;;Thomson-East Coast Line;sgp.te

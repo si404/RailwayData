@@ -1,0 +1,14 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+hgkmtr;HGK;AirExp;;;Airport Express;hgk.airexp;
+hgkmtr;HGK;DisResLn;;;Disneyland Resort Line;hgk.disresln;
+hgkmtr;HGK;ERailLn;;;East Rail Line;hgk.erailln;
+hgkmtr;HGK;ERailLn;;Lok;East Rail Line (Lok Ma Chu branch);hgk.eraillnlok;
+hgkmtr;HGK;ERailLn;;Rac;East Rail Line (Racecourse loop);hgk.eraillnrac;
+hgkmtr;HGK;IslLn;;;Island Line;hgk.islln;
+hgkmtr;HGK;KTLn;;;Kwun Tong Line;hgk.ktln;
+hgkmtr;HGK;SIslLn;;;South Island Line;hgk.sislln;
+hgkmtr;HGK;TKOLn;;;Tseung Kwan O Line;hgk.tkoln;
+hgkmtr;HGK;TKOLn;;Loh;Tseung Kwan O Line (LOHAS Park branch);hgk.tkolnloh;
+hgkmtr;HGK;TWLn;;;Tseung Wan Line;hgk.twln;
+hgkmtr;HGK;TMLn;;;Tuen Ma Line;hgk.tmln;
+hgkmtr;HGK;TCLn;;;Tung Chung Line;hgk.tcln;
