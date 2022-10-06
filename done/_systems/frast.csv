@@ -1,0 +1,8 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+frast;FRA-GES;TramA;;;;frages.trama;
+frast;FRA-GES;TramB;;;;frages.tramb;
+frast;FRA-GES;TramC;;;;frages.tramc;
+frast;FRA-GES;TramD;;;;frages.tramd;
+frast;DEU-BW;TramD;;;;deubw.tramd;
+frast;FRA-GES;TramE;;;;frages.trame;
+frast;FRA-GES;TramF;;;;frages.tramf;

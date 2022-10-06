@@ -1,0 +1,5 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+framut;FRA-GES;Tram1;;Mul;;frages.tram1mul;
+framut;FRA-GES;Tram2;;Mul;;frages.tram2mul;
+framut;FRA-GES;Tram3;;Mul;;frages.tram3mul;
+framut;FRA-GES;TramTrn;;;;frages.tramtrn;

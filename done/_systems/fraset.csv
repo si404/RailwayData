@@ -1,0 +1,4 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+fraset;FRA-ARA;T1;;StE;;fraara.t1ste;
+fraset;FRA-ARA;T2;;StE;;fraara.t2ste;
+fraset;FRA-ARA;T3;;StE;;fraara.t3ste;

@@ -1,0 +1,4 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+fract;FRA-NOR;T1;;;;franor.t1;
+fract;FRA-NOR;T2;;;;franor.t2;
+fract;FRA-NOR;T3;;;;franor.t3;

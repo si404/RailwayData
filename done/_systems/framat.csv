@@ -1,0 +1,4 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+framat;FRA-PAC;T1;;;;frapac.t1;
+framat;FRA-PAC;T2;;;;frapac.t2;
+framat;FRA-PAC;T3;;;;frapac.t3;

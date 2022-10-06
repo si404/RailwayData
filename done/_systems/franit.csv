@@ -1,0 +1,5 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+franit;FRA-PAC;1;;;;frapac.1;
+franit;FRA-PAC;2;;;;frapac.2;
+franit;FRA-PAC;2;;Aer;Aeroport branch;frapac.2aer;
+franit;FRA-PAC;3;;;;frapac.3;

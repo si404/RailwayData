@@ -1,0 +1,4 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+fraval;FRA-IDF;CDGVal;;;;fraidf.cdgval;
+fraval;FRA-IDF;LISA;;;CDG Liaison Interne Satellite Aérogare;fraidf.lisa;
+fraval;FRA-IDF;OrlyVal;;;;fraidf.orlyval;
