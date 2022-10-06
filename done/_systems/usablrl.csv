@@ -1,0 +1,4 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+usablrl;MD;BLRL;;;Light RailLink;md.blrl;
+usablrl;MD;BLRL;;BWI;Light RailLink (Balt-Wash International) branch);md.blrlbwi;
+usablrl;MD;BLRL;;Pen;Light RailLink (Penn Station branch);md.blrlpen;
