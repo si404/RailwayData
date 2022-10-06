@@ -1,0 +1,6 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+irlnir;NIR;BanLn;;;Bangor Line;nir.banln;
+irlnir;NIR;DerLn;;;Derry/Londonderry Line;nir.derln;
+irlnir;NIR;LarLn;;;Larne Line;nir.larln;
+irlnir;NIR;NewLn;;;Portadown/Newry Line;nir.newln;
+irlnir;NIR;PorLn;;;Portrush Line;nir.porln;

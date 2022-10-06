@@ -1,0 +1,4 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+iomimr;IOM;IMR;;;Isle of Man Railway;iom.imr;
+iomimr;IOM;MER;;;Manx Electric Railway;iom.mer;
+iomimr;IOM;SMR;;;Snaefell Mountain Railway;iom.smr;

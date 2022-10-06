@@ -1,0 +1,4 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+gbnlt;ENG;TLnk;;CNA;Tramlink (Croydon - New Addington);eng.tlnkcna;
+gbnlt;ENG;TLnk;;WEE;Tramlink (Wimbledon - West Croydon - Elmers End);eng.tlnkwee;
+gbnlt;ENG;TLnk;;BJW;Tramlink (Beckenham Jct - George St - Wimbledon);eng.tlnkbjw;

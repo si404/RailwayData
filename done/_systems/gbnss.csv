@@ -1,0 +1,6 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+gbnss;ENG;SS;;Bla;Sheffield Supertram (Tram-Train);eng.ssbla;
+gbnss;ENG;SS;;Blu;Sheffield Supertram (Blue Line);eng.ssblu;
+gbnss;ENG;SS;;Pur;Sheffield Supertram (Purple Line);eng.sspur;
+gbnss;ENG;SS;;Yel;Sheffield Supertram (Yellow Line);eng.ssyel;
+

@@ -1,0 +1,10 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+gbnman;ENG;MetLnk;;MAV;Metrolink (Manchester Airport - Victoria);eng.metlnkmav;
+gbnman;ENG;MetLnk;;AlB;Metrolink (Altrincham - Bury);eng.metlnkalb;
+gbnman;ENG;MetLnk;;AlP;Metrolink (Altrincham - Piccadilly);eng.metlnkalp;
+gbnman;ENG;MetLnk;;EDR;Metrolink (East Didsbury - Rochdale);eng.metlnkedr;
+gbnman;ENG;MetLnk;;EDS;Metrolink (East Didsbury - Shaw);eng.metlnkeds;
+gbnman;ENG;MetLnk;;TCC;Metrolink (Trafford Centre - Cornbrook);eng.metlnktcc;
+gbnman;ENG;MetLnk;;EAL;Metrolink (Eccles - Ashton-under-Lyne);eng.metlnkeal;
+gbnman;ENG;MetLnk;;Med;Metrolink (Media City branch);eng.metlnkmed;
+gbnman;ENG;MetLnk;;PBy;Metrolink (Piccadilly - Bury);eng.metlnkpby;

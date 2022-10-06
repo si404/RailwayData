@@ -1,0 +1,4 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+gbnhprt;ENG;HPRT;5A;;Heathrow PRT (Terminal 5 - Parking A);eng.hprta;
+gbnhprt;ENG;HPRT;5B;;Heathrow PRT (Terminal 5 - Parking B);eng.hprtb;
+gbnhprt;ENG;HPRT;AB;;Heathrow PRT (Parking A - Parking B);eng.hprtab;
