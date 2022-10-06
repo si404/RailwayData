@@ -1,0 +1,17 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+nldat;NLD;AT1;;;;nld.at01;
+nldat;NLD;AT2;;;;nld.at02;
+nldat;NLD;AT2;;Emm;Emmastraat;nld.at02emm;
+nldat;NLD;AT3;;;;nld.at03;
+nldat;NLD;AT4;;;;nld.at04;
+nldat;NLD;AT5;;;;nld.at05;
+nldat;NLD;AT7;;;;nld.at07;
+nldat;NLD;AT12;;;;nld.at12;
+nldat;NLD;AT13;;;;nld.at13;
+nldat;NLD;AT14;;;;nld.at14;
+nldat;NLD;AT17;;;;nld.at17;
+nldat;NLD;AT19;;;;nld.at19;
+nldat;NLD;AT24;;;;nld.at24;
+nldat;NLD;AT25;;;;nld.at25;
+nldat;NLD;AT26;;;;nld.at26;
+nldat;NLD;AT27;;;;nld.at27;
