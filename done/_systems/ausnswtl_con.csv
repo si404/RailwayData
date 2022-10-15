@@ -1,0 +1,19 @@
+systemName;route;banner;groupName;roots
+ausnswtl;BMT;;(Intercity) Blue Mountains Line;ausnsw.bmt
+ausnswtl;CCN;;(Intercity) Central Coast & Newcastle Line;ausnsw.ccn
+ausnswtl;HUN;;(Intercity) Hunter Line (Scone branch);ausnsw.hun
+ausnswtl;HUN;;(Intercity) Hunter Line (Dungog branch);ausnsw.hundun
+ausnswtl;SCO;;(Intercity) South Coast Line (Kiama branch);ausnsw.sco
+ausnswtl;SCO;;(Intercity) South Coast Line (Port Kembla branch);ausnsw.scopor
+ausnswtl;SCO;;(Intercity) South Coast Line (Bomaderry shuttle);ausnsw.scobom
+ausnswtl;SHL;;(Intercity) Southern Highlands Line;ausnsw.shl
+ausnswtl;BriXPT;;(North Coast Region) Brisbane XPT;ausnsw.brixpt,ausqld.brixpt
+ausnswtl;GraXPT;;(North Coast Region) Grafton / Casino XPT;ausnsw.graxpt
+ausnswtl;NTXpl;;(North West Region) Northern Tablelands Xplorer (Armidale portion);ausnsw.graxpl
+ausnswtl;NTXpl;;
+;(North West Region) Northern Tablelands Xplorer (Moree portion);ausnsw.ntxplmor
+ausnswtl;MelXPT;;(Southern Region) Melbourne XPT;ausnsw.melxpt,ausvic.melxpt
+ausnswtl;CanXpl;;(Southern Region) Canberra Explorer;ausnsw.canxpl
+ausnswtl;GriXpl;;(Southern Region) Griffith Explorer;ausnsw.grixpl
+ausnswtl;CWXPT;;(Western Region) Central West XPT;ausnsw.cmxpt
+ausnswtl;OutXpl;;(Western Region) Outback Xplorer;ausnsw.outxpl

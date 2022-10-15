@@ -1,0 +1,9 @@
+systemName;route;banner;groupName;roots
+austto;AirLn;;Airport Line;auswa.airln
+austto;ArmLn;;Armadale Line;auswa.armln
+austto;EllLn;;Ellenbrook Line;auswa.ellln
+austto;FreLn;;Fremantle Line;auswa.freln
+austto;JooLn;;Joondalup Line;auswa.jooln
+austto;ManLn;;Mandurah Line;auswa.manln
+austto;MidLn;;Midland Line;auswa.midln
+austto;ThoLn;;Thornlie Line;auswa.tholn

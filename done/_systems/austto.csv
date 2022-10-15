@@ -1,0 +1,9 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+austto;AUS-WA;AirLn;;;Airport Line;auswa.airln;
+austto;AUS-WA;ArmLn;;;Armadale Line;auswa.armln;
+austto;AUS-WA;EllLn;;;Ellenbrook Line;auswa.ellln;
+austto;AUS-WA;FreLn;;;Fremantle Line;auswa.freln;
+austto;AUS-WA;JooLn;;;Joondalup Line;auswa.jooln;
+austto;AUS-WA;ManLn;;;Mandurah Line;auswa.manln;
+austto;AUS-WA;MidLn;;;Midland Line;auswa.midln;
+austto;AUS-WA;ThoLn;;;Thornlie Line;auswa.tholn;

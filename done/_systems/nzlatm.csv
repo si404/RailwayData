@@ -1,0 +1,5 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+nzlatm;NZL;EasLn;;;Eastern Line;nzl.easln;
+nzlatm;NZL;OneLn;;;Onehunga Line;nzl.oneln;
+nzlatm;NZL;SouLn;;;Southern Line;nzl.souln;
+nzlatm;NZL;WesLn;;;Western Line;nzl.wesln;

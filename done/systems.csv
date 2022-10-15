@@ -1,4 +1,13 @@
 ﻿System;Name;Type
+ausasr;Adelaide Suburban Railway;Regional
+ausmtm;Metro Trains Melbourne;Regional
+ausnswtl;New South Wales TrainLink;Regional
+ausqrc;Queensland Rail Citytrain;Regional
+ausqrt;Queensland Rail Traveltrain;Regional
+ausst;Sydney Trains;Regional
+ausvln;V/Line;Regional
+austto;Transperth Train Operations;Regional
+austwa;Transwa;Regional
 fracp;Chemins de fer de Provence;Regional
 frahdfter;TER Hauts-de-France;Regional
 frarer;Réseau Express Régional;Regional
@@ -10,6 +19,9 @@ gbntl;Thameslink;Regional
 gbnwm;West Midlands Railway;Regional
 gbnxr;Elizabeth Line;Regional
 irlnir;NI Railways;Regional
+nzlatm;Auckland Transport Metro;Regional
+nzlkr;Kiwi Rail;Regional
+nzlwm;Wellington Metrolink;Regional
 usacndx;CTrail;Regional
 usalirr;Long Island Rail Road;Regional
 usamarc;MARC Train;Regional
@@ -19,6 +31,7 @@ usanjtr;NJ Transit Rail;Regional
 usasepa;SEPTA Regional Rail;Regional
 usavrex;Virginia Railway Express;Regional
 
+aussm;Sydney Metro;Metro
 belbm;Métro de Bruxelles / Brusselse metro;Metro
 belcm;Métro de Charleroi;Metro
 frallm;Lille Métro;Metro
@@ -44,6 +57,13 @@ usapath;Port Authority Trans-Hudson Railroad;Metro
 usasir;Staten Island Railway;Metro
 usawmat;USA;Washington Metro;Metro
 
+ausat;Adelaide Trams;Tram
+ausbt;Bendigo Tramways;Tram
+auscm;Canberra Metro;Tram
+ausgclr;Gold Coast Light Rail;Tram
+ausnlr;Newcastle Light Rail;Tram
+ausslr;Sydney Light Rail;Tram
+ausyt;Yarra Trams;Tram
 belat;Antwerpse tram;Tram
 belbt;Tramway de Bruxelles / Brusselse tram;Tram
 belgt;Gentse tram;Tram

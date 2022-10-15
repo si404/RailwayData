@@ -1,0 +1,5 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+austwa;AUS-WA;Aus;;;Australind;auswa.aus;
+austwa;AUS-WA;ALnk;;;AvonLink;auswa.alnk;
+austwa;AUS-WA;MLnk;;;MerridanLink;auswa.mlnk;
+austwa;AUS-WA;Pro;;;Prospector;auswa.pro;
