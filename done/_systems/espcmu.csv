@@ -1,0 +1,7 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+espcmu;ESP-VC;C1;;Ali;;espvc.l1ali;
+espcmu;ESP-MC;C1;;;;espmc.l1;
+espcmu;ESP-MC;C2;;;Murcia;espmc.l2;
+espcmu;ESP-AN;C2;;Pul;Pulpí;espan.l2pul;
+espcmu;ESP-MC;C2;;Agu;Águilas;espmc.l2agu;
+espcmu;ESP-VC;C3;;Ali;;espvc.l3ali;

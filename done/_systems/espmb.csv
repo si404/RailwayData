@@ -1,0 +1,15 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+espmb;ESP-CT;L1;;;;espct.l1;
+espmb;ESP-CT;L2;;;;espct.l2;
+espmb;ESP-CT;L3;;;;espct.l3;
+espmb;ESP-CT;L4;;;;espct.l4;
+espmb;ESP-CT;L5;;;;espct.l5;
+espmb;ESP-CT;L6;;;;espct.l6;
+espmb;ESP-CT;L7;;;;espct.l7;
+espmb;ESP-CT;L8;;;;espct.l8;
+espmb;ESP-CT;L9N;;;;espct.l9n;
+espmb;ESP-CT;L9S;;;;espct.l9s;
+espmb;ESP-CT;L10N;;;;espct.l10n;
+espmb;ESP-CT;L10S;;;;espct.l10s;
+espmb;ESP-CT;L11;;;;espct.l11;
+espmb;ESP-CT;L12;;;;espct.l12;

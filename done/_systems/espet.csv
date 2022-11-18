@@ -1,0 +1,8 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+espet;ESP-PV;E1;;;;esppv.e1;
+espet;ESP-PV;E2;;;;esppv.e2;
+espet;FRA-NAQ;E2;;;;franaq.e2;
+espet;ESP-PV;E3;;;;esppv.e3;
+espet;ESP-PV;E3a;;;;esppv.e3a;
+espet;ESP-PV;E4;;;;esppv.e4;
+espet;ESP-PV;E5;;;;esppv.e5;

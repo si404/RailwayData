@@ -1,0 +1,4 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+espca;ESP-CB;C1;;;;espcb.c1;
+espca;ESP-CB;C2;;;;espcb.c2;
+espca;ESP-CB;C3;;;;espcb.c3;

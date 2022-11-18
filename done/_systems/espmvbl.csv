@@ -1,0 +1,10 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+espmvbl;ESP-CT;S1;;;Metro del Vallès;espct.s1;
+espmvbl;ESP-CT;S2;;;Metro del Vallès;espct.s2;
+espmvbl;ESP-CT;S3;;;Metro del Baix Llobregat;espct.s3;
+espmvbl;ESP-CT;S4;;;Metro del Baix Llobregat;espct.s4;
+espmvbl;ESP-CT;S5;;;Metro del Vallès;espct.s5;
+espmvbl;ESP-CT;S6;;;Metro del Vallès;espct.s6;
+espmvbl;ESP-CT;S7;;;Metro del Vallès;espct.s7;
+espmvbl;ESP-CT;S8;;;Metro del Baix Llobregat;espct.s8;
+espmvbl;ESP-CT;S9;;;Metro del Baix Llobregat;espct.s9;

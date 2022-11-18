@@ -8,6 +8,22 @@ ausst;Sydney Trains;Regional
 ausvln;V/Line;Regional
 austto;Transperth Train Operations;Regional
 austwa;Transwa;Regional
+espca;Cercanías Asturias;Regional
+espcc;Cercanías Cádiz;Regional
+espcm;Cercanías Madrid;Regional
+espcma;Cercanías Málaga;Regional
+espcmu;Cercanías Murcia/Alicante;Regional
+espcsa;Cercanías Santander;Regional
+espcs;Cercanías Sevilla;Regional
+espcv;Cercanías Valencia;Regional
+espcz;Cercanías Zaragoza;Regional
+espet;Euskotren Trena;Regional
+espfs;Ferrocarril de Sóller;Regional
+esprab;Renfe Aldiriak Bilbo;Regional
+esprab;Renfe Aldiriak Donostia;Regional
+esprc;Rodalies de Catalunya;Regional
+esprf;Renfe Feve;Regional
+espsfm;Serveis Ferroviaris de Mallorca;Regional
 fracp;Chemins de fer de Provence;Regional
 frahdfter;TER Hauts-de-France;Regional
 frarer;Réseau Express Régional;Regional
@@ -34,6 +50,14 @@ usavrex;Virginia Railway Express;Regional
 aussm;Sydney Metro;Metro
 belbm;Métro de Bruxelles / Brusselse metro;Metro
 belcm;Métro de Charleroi;Metro
+espbm;Bilboko Metroa;Metro
+espmb;Metro de Barcelona;Metro
+espmvbl;Metros del Vallès et Baix Llobregat;Metro
+espmm;Metro de Madrid;Metro
+espmma;Metro de Málaga;Metro
+esppm;Metro de Palma;Metro
+espms;Metro de Sevilla;Metro
+espmv;Metrovalencia;Metro
 frallm;Lille Métro;Metro
 fralym;Lyon Métro;Metro
 framam;Marseille Métro;Metro
@@ -68,6 +92,16 @@ belat;Antwerpse tram;Tram
 belbt;Tramway de Bruxelles / Brusselse tram;Tram
 belgt;Gentse tram;Tram
 belkt;Kusttram;Tram
+espetb;Euskotren Tranbia;Tram
+espmg;Metro de Granada;Tram
+espmlm;Metro Ligero de Madrid;Tram
+espta;TRAM metropolita d'Alicant;Tram
+esptb;TRAM Barcelona;Tram
+esptbc;TRAMBahía de Cádiz;Tram
+esptmu;Tranvia de Murcia;Tram 
+espts;Metrocentro de Sevilla;Tram
+esptt;Tranvía de Tenerife;Tram
+esptz;Tranvía de Zaragoza;Tram
 fraant;Angers Tramway;Tram
 fraaut;Tramway d'Aubagne;Tram
 frabet;Besancon Tramway;Tram

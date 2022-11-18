@@ -1,0 +1,14 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+espmm;ESP-MD;M1;;;;espmd.m1;
+espmm;ESP-MD;M2;;;;espmd.m2;
+espmm;ESP-MD;M3;;;;espmd.m3;
+espmm;ESP-MD;M4;;;;espmd.m4;
+espmm;ESP-MD;M5;;;;espmd.m5;
+espmm;ESP-MD;M6;;;;espmd.m6;
+espmm;ESP-MD;M7;;;;espmd.m7;
+espmm;ESP-MD;M8;;;;espmd.m8;
+espmm;ESP-MD;M9;;;;espmd.m9;
+espmm;ESP-MD;M10;;;;espmd.m10;
+espmm;ESP-MD;M11;;;;espmd.m11;
+espmm;ESP-MD;M12;;;;espmd.m12;
+espmm;ESP-MD;MR;;;Ramal;espmd.mr;

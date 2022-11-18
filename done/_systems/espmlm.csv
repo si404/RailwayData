@@ -1,0 +1,5 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+espmlm;ESP-MD;ML1;;;;espmd.ml1;
+espmlm;ESP-MD;ML2;;;;espmd.ml2;
+espmlm;ESP-MD;ML3;;;;espmd.ml3;
+espmlm;ESP-MD;ML4;;;Tranvía de Parla;espmd.ml4;

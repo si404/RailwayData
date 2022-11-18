@@ -1,0 +1,14 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+espmv;ESP-VC;L1;;;;espvc.l1;
+espmv;ESP-VC;L2;;;;espvc.l2;
+espmv;ESP-VC;L3;;;;espvc.l3;
+espmv;ESP-VC;L4;;;;espvc.l4;
+espmv;ESP-VC;L4b;;;;espvc.l4b;
+espmv;ESP-VC;L4c;;;;espvc.l4c;
+espmv;ESP-VC;L5;;;;espvc.l5;
+espmv;ESP-VC;L6;;;;espvc.l6;
+espmv;ESP-VC;L6;;Pla;Platja loop;espvc.l6pla;
+espmv;ESP-VC;L7;;;;espvc.l7;
+espmv;ESP-VC;L8;;;;espvc.l8;
+espmv;ESP-VC;L9;;;;espvc.l9;
+espmv;ESP-VC;L10;;;;espvc.l10;

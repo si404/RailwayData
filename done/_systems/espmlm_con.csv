@@ -1,0 +1,5 @@
+systemName;route;banner;groupName;roots
+espmlm;ML1;;;espmd.ml1
+espmlm;ML2;;;espmd.ml2
+espmlm;ML3;;;espmd.ml3
+espmlm;ML4;;Tranvía de Parla;espmd.ml4

@@ -1,0 +1,12 @@
+systemName;route;banner;groupName;roots
+espcm;C1;;;espmd.c1
+espcm;C2;;;espmd.c2,espcm.c2
+espcm;C3;;;espmd.c3
+espcm;C3a;;;espmd.c3a
+espcm;C4a;;;espmd.c4a
+espcm;C4b;;;espmd.c4b
+espcm;C5;;;espmd.c5
+espcm;C7;;;espmd.c7
+espcm;C8;;;espmd.c8,espmd.c8
+espcm;C9;;;espcl.c9,espmd.c9
+espcm;C10;;;espmd.c10
