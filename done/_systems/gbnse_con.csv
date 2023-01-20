@@ -1,0 +1,26 @@
+systemName;route;banner;groupName;roots
+gbnse;CanWLn;;Canterbury West Line;eng.canwln
+gbnse;WhiCliLn;;White Cliffs Line;eng.whicliln
+gbnse;KentCoaLn;;Kent Coast Line;eng.kentcoaln
+gbnse;SEML;;South East Main Line;eng.seml
+gbnse;PadWoodLn;;Paddock Wood Line;eng.padwoodln
+gbnse;HasLn;;Hastings Line;eng.hasln
+gbnse;1066Ln;;1066 Line;eng.1066ln
+gbnse;ChaML;;Chatham Main Line;eng.chaml
+gbnse;CreCoaLn;;Creative Coast Line;eng.crecoaln
+gbnse;SoleStLn;;Sole Street Line;eng.solestln
+gbnse;KentDowLn;;Kent Downs Line;eng.kentdowln
+gbnse;MaiELn;;Maidstone East Line;eng.maieln
+gbnse;MedVlyLn;;Medway Valley Line;eng.medvlyln
+gbnse;SwaLn;;Swale Line;eng.swaln
+gbnse;NKentLn;;North Kent Line;eng.nkentln
+gbnse;WooLn;;Woolwich Line;eng.wooln
+gbnse;BexLn;;Bexleyheath Line;eng.bexln
+gbnse;SidLn;;Sidcup Line (Gravesend);eng.sidln
+gbnse;SidLn;;Sidcup Line (Lewisham);eng.sidlnlew;
+gbnse;GroPkLn;;Grove Park Line (Cannon Street);eng.gropkln
+gbnse;GroPkLn;;Grove Park Line (Lewisham);eng.gropklnlew;
+gbnse;HayLn;;Hayes Line;eng.hayln
+gbnse;HayLn;;Hayes Line (Lewisham);eng.haylnlew;
+gbnse;BroSLn;;Bromley South Line;eng.brosln
+gbnse;BroNLn;;Bromley North Line;eng.bronln

@@ -1,0 +1,151 @@
+
+
+ || Carlisle, Haltwhistle, Hexham, Prudhoe, MetroCentre, Newcastle
+
+Tyne Valley Line  || Carlisle, Wetheral, Brampton, Haltwhistle, Bardon Mill, Haydon Bridge, Hexham, Prudhoe, MetroCentre, Newcastle, Manors, Cramlington, Morpeth, Pegswood, Widdrington, Acklington, Alnmouth, Chathill
+
+Durham Coast Line || Hexham, Corbridge, Riding Mill, Stocksfield, Prudhoe, Wylam, Blaydon, MetroCentre, Dunston, Newcastle, Heworth, Sunderland, Seaham, Horden, Hartlepool, Seaton Carew, Billingham, Stockton, Thornaby, Middlesbrough, James Cook University Hospital, Marton, Gypsy Lane, Nunthorpe
+
+Esk Valley Line || Middlesbrough, James Cook University Hospital, Marton, Gypsy Lane, Nunthorpe, Great Ayton, Battersby, Kildale, Commondale, Castleton Moor, Danby, Lealholm, Glaisdale, Egton, Grosmont, Sleights, Ruswarp, Whitby
+
+Tees Valley Line || Saltburn, Marske, Longbeck, Redcar East, Redcar Central, South Bank, Middlesbrough, Thornaby, Eaglescliffe, Allens West, Dinsdale, Darlington, North Road, Heighington, Newton Aycliffe, Shildon, Bishop Auckland
+
+Furness Line || Manchester Airport, Gatley, Manchester Piccadilly, Manchester Oxford Road, Deansgate, Bolton, Chorley, Preston, Lancaster, Carnforth, Silverdale, Arnside, Grange-over-Sands, Kents Bank, Cark, Ulverston, Dalton, Roose, Barrow-in-Furness
+
+Cumbrian Coast Line || Barrow-in-Furness, Askam, Kirkby-in-Furness, Foxfield, Green Road, Millom, Silecroft, Bootle, Ravenglass, Drigg, Seascale, Sellafield, Braystones, Nethertown, St Bees, Corkickle, Whitehaven, Parton, Harrington, Workington, Flimby, Maryport, Aspatria, Wigton, Dalston, Carlisle
+
+Lakes Line || Lancaster, Oxenholme Lake District, Kendal, Burneside, Staveley, Windermere
+
+Morecambe Bay Line || Lancaster, Bare Lane, Morecambe, Heysham Port
+
+Blackpool Line || Manchester Airport, Heald Green, Manchester Piccadilly, Manchester Oxford Road, Deansgate, Salford Crescent, Bolton, Lostock, Horwich Parkway, Blackrod, Adlington, Chorley, Buckshaw Parkway, Leyland, Preston, Kirkham & Wesham, Poulton-le-Fylde, Layton, Blackpool North
+
+South Fylde Line || Preston, Salwick, Kirkham & Wesham, Moss Side, Lytham, Ansdell & Fairhaven, St Annes-on-the-Sea, Squires Gate, Blackpool Pleasure Beach, Blackpool South
+
+East Lancashire Line || Preston, Lostock Hall, Bamber Bridge, Pleasington, Cherry Tree, Mill Hill, Blackburn, Rishton, Church & Oswaldtwistle, Accrington, Huncoat, Hapton, Rose Grove, Burnley Barracks, Burnley Central, Brierfield, Nelson, Colne
+
+West Lancashire Line || Ormskirk to Preston||Burscough Junction, Rufford, Croston 
+
+Ribble Valley line || Clitheroe, Whalley, Langho, Ramsgreave & Wilpshire, Blackburn, Darwen, Entwistle, Bromley Cross, Hall I' Th' Wood, Bolton, Salford Crescent, Salford Central, Manchester Victoria, Moston, Mills Hill, Castleton, Rochdale
+
+Chat Moss Line || Liverpool Lime Street, Edge Hill, Wavertree Technology Park, Broad Green, Roby, Huyton, Whiston, Rainhill, Lea Green, St Helens Junction, Earlestown, Newton-le-Willows, Patricroft, Eccles, Deansgate, Manchester Oxford Road, Manchester Piccadilly, Mauldeth Road, Burnage, East Didsbury, Gatley, Heald Green, Manchester Airport
+
+North Cheshire Line || Ellesmere Port, Ince & Elton, Helsby, Frodsham, Runcorn East, Warrington Bank Quay
+
+Airport Line || Manchester Piccadilly, Mauldeth Road, Burnage, East Didsbury, Gatley, Heald Green, Manchester Airport, Styal, Wilmslow, Alderley Edge, Holmes Chapel, Sandbach, Crewe
+
+Crewe Line || Manchester Piccadilly, Levenshulme, Heaton Chapel, Stockport, Cheadle Hulme, Handforth, Wilmslow, Alderley Edge, Chelford, Goostrey, Holmes Chapel, Sandbach, Crewe
+
+Mid-Cheshire Line || Manchester Piccadilly, Stockport, Navigation Road, Altrincham, Hale, Ashley, Mobberley, Knutsford, Plumley, Lostock Gralam, Northwich, Greenbank, Cuddington, Delamere, Mouldsworth, Chester
+
+Stoke Line || Manchester Piccadilly, Stockport, Cheadle Hulme, Bramhall, Poynton, Adlington, Prestbury, Macclesfield, Congleton, Kidsgrove, Longport, Stoke-on-Trent
+
+Buxton Line || Manchester Piccadilly, Levenshulme, Heaton Chapel, Stockport, Davenport, Woodsmoor, Hazel Grove, Middlewood, Disley, New Mills Newtown, Furness Vale, Whaley Bridge, Chapel-en-le-Frith, Dove Holes, Buxton
+
+Glossop Line || Manchester Piccadilly, Ashburys, Guide Bridge, Flowery Field, Newton for Hyde, Godley, Hattersley, Broadbottom, Dinting, Glossop, Hadfield
+
+Marple Line || Manchester Piccadilly, Gorton, Fairfield, Guide Bridge, Hyde North, Hyde Central, Woodley, Romiley, Rose Hill Marple
+
+Settle & Carlisle Line || Leeds, Shipley, Bingley, Keighley, Skipton, Gargrave, Hellifield, Long Preston, Settle, Horton in Ribblesdale, Ribblehead, Dent, Garsdale, Kirkby Stephen, Appleby, Langwathby, Lazonby & Kirkoswald, Armathwaite, Carlisle
+
+Bentham Line || Leeds, Shipley, Bingley, Keighley, Skipton, Gargrave, Hellifield, Long Preston, Giggleswick, Clapham, Bentham, Wennington, Carnforth, Lancaster, Bare Lane, Morecambe
+
+Roses Line || York, Church Fenton, Garforth, Leeds, New Pudsey, Bradford Interchange, Halifax, Sowerby Bridge, Hebden Bridge, Burnley Manchester Road, Accrington, Blackburn, Preston, Kirkham & Wesham, Poulton-le-Fylde, Blackpool North
+
+Brigg Line || Sheffield, Darnall, Woodhouse, Kiveton Bridge, Kiveton Park, Shireoaks, Worksop, Retford, Gainsborough Central, Kirton Lindsey, Brigg, Barnetby, Habrough, Grimsby Town, Cleethorpes
+
+Dearne Valley Line || Sheffield, Meadowhall, Rotherham Central, Swinton, Moorthorpe, Pontefract Baghill, Sherburn-in-Elmet, Church Fenton, Ulleskelf, York
+
+Harrogate Line || Leeds, Burley Park, Headingley, Horsforth, Weeton, Pannal, Hornbeam Park, Harrogate, Starbeck, Knaresborough, Cattal, Hammerton, Poppleton, York
+
+Penistone Line || Sheffield, Meadowhall, Chapeltown, Elsecar, Wombwell, Barnsley, Dodworth, Silkstone Common, Penistone, Denby Dale, Shepley, Stocksmoor, Brockholes, Honley, Berry Brow, Lockwood, Huddersfield
+
+Yorkshire Coast Line || Sheffield, Meadowhall, Doncaster, Goole, Brough, Hull, Cottingham, Beverley, Driffield, Bridlington, Bempton, Hunmanby, Filey, Seamer, Scarborough
+
+Hallam Line || Leeds, Woodlesford, Castleford, Normanton, Wakefield Kirkgate, Darton, Barnsley, Wombwell, Elsecar, Chapeltown, Meadowhall, Sheffield
+
+Erewash Valley Line || Leeds, Wakefield Kirkgate, Barnsley, Meadowhall, Sheffield, Dronfield, Chesterfield, Alfreton, Langley Mill, Ilkeston, Nottingham
+
+
+
+
+
+| Manchester Piccadilly to New Mills Central||Ardwick, Ashburys, Belle Vue, Ryder Brow, Reddish North, Brinnington, Bredbury, Romiley, Marple, Strines
+
+Hope Vailley Line || Manchester Piccadilly, Reddish North, Brinnington, Bredbury, Romiley, Marple, New Mills Central, Chinley, Edale, Hope, Bamford, Hathersage, Grindleford, Dore & Totley, Sheffield
+
+
+! colspan="3" | [[Manchester–Southport line|Manchester–Southport]] and [[Kirkby branch line|Kirkby branch line]]s
+
+| Southport, Meols Cop, Burscough Bridge, Parbold, Appley Bridge, Gathurst, Wigan Wallgate, Hindley, Westhoughton, Bolton, Salford Crescent, Deansgate, Manchester Oxford Road
+
+| Southport, Meols Cop, Bescar Lane, New Lane, Burscough Bridge, Hoscar, Parbold, Appley Bridge, Gathurst, Wigan Wallgate, Hindley, Westhoughton, Bolton, Moses Gate, Farnworth, Kearsley, Clifton, Salford Crescent, Salford Central, Manchester Victoria, Ashton-under-Lyne, Stalybridge
+
+| Kirkby, Rainford, Upholland, Orrell, Pemberton, Wigan Wallgate, Hindley, Daisy Hill, Hag Fold, Atherton, Walkden, Swinton, Salford Crescent, Salford Central, Manchester Victoria, Rochdale, Smithy Bridge, Littleborough, Todmorden, Burnley Manchester Road, Rose Grove, Accrington, Blackburn
+
+
+
+| Liverpool Lime Street to Wigan North Western||Edge Hill, Wavertree Technology Park, Broad Green, Roby, Huyton, Prescot, Eccleston Park, Thatto Heath, St Helens Central, Garswood, Bryn
+
+| Liverpool Lime Street to Blackpool North||Huyton, St Helens Central, Wigan North Western, Euxton Balshaw Lane, Leyland, Preston, Poulton-le-Fylde
+
+| Liverpool Lime Street, Edge Hill, Mossley Hill, West Allerton, Liverpool South Parkway, Hough Green, Warrington West, Warrington Central, Padgate, Birchwood, Glazebrook, Irlam, Flixton, Chassen Road, Urmston, Humphrey Park, Trafford Park, Deansgate, Manchester Oxford Road
+
+| Liverpool Lime Street, Mossley Hill, West Allerton, Liverpool South Parkway, Hunts Cross, Halewood, Hough Green, Widnes, Sankey for Penketh, Warrington West, Warrington Central
+
+
+
+Huddersfield Line (Wakefield) || Castleford, Normanton, Wakefield Kirkgate, Mirfield, Deighton, Huddersfield
+
+Huddersfield Line (Bradford) || Bradford Interchange, Low Moor, Halifax, Brighouse, Huddersfield
+
+Leeds - Bradford Line || Leeds, Kirkstall Forge, Apperley Bridge, Shipley, Frizinghall, Bradford Forster Square
+
+Wharfedale Line (Leeds) || Leeds, Guiseley, Menston, Burley-in-Wharfedale, Ben Rhydding, Ilkley
+
+Wharfedale Line (Bradford) || Bradford Forster Square, Frizinghall, Shipley, Baildon, Guiseley, Menston, Burley-in-Wharfedale, Ben Rhydding, Ilkley
+
+Airedale Line (Leeds) || Leeds, Shipley, Saltaire, Bingley, Crossflatts, Keighley, Steeton & Silsden, Cononley, Skipton
+
+Airedale Line (Bradford) || Bradford Forster Square, Frizinghall, Shipley, Saltaire, Bingley, Crossflatts, Keighley, Steeton & Silsden, Cononley, Skipton
+
+Pontefract Line (Castleford) || Leeds, Woodlesford, Castleford, Glasshoughton, Pontefract Monkhill, Knottingley, Whitley Bridge, Hensall, Snaith, Rawcliffe, Goole
+
+Pontefract Line (Wakefield) || Leeds, Wakefield Westgate, Wakefield Kirkgate, Streethouse, Featherstone, Pontefract Tanshelf, Pontefract Monkhill, Knottingley
+
+Wakefield Line (Doncaster) || Leeds, Outwood, Wakefield Westgate, Sandal & Agbrigg, Fitzwilliam, South Elmsall, Adwick, Bentley, Doncaster
+
+Wakefield Line (Sheffield) || Leeds, Outwood, Wakefield Westgate, Sandal & Agbrigg, Fitzwilliam, Moorthorpe, Thurnscoe, Goldthorpe, Bolton-upon-Dearne, Swinton, Rotherham Central, Meadowhall, Sheffield
+
+
+
+
+! colspan="3" | [[Sheffield–Lincoln line]]
+
+| Leeds, Wakefield Kirkgate, Barnsley, Meadowhall, Sheffield, Darnall, Woodhouse, Kiveton Bridge, Kiveton Park, Shireoaks, Worksop, Retford, Gainsborough Lea Road, Saxilby, Lincoln
+
+
+! colspan="3" | [[York and Selby Lines]]
+
+| Leeds, Cross Gates, Garforth, East Garforth, Micklefield, Church Fenton, Ulleskelf, York
+
+| Halifax, Bradford Interchange, New Pudsey, Bramley, Leeds, Cross Gates, Garforth, East Garforth, Micklefield, South Milford, Selby, Brough, Hull
+
+
+
+| Doncaster, Kirk Sandall, Hatfield & Stainforth, Thorne South, Crowle, Althorpe, Scunthorpe
+
+| Sheffield, Meadowhall, Rotherham Central, Swinton, Mexborough, Conisbrough, Doncaster, Bentley, Adwick
+
+
+| Doncaster, Kirk Sandall, Hatfield & Stainforth, Thorne North, Goole, Saltmarshe, Gilberdyke, Broomfleet, Brough, Ferriby, Hessle, Hull
+
+
+| Bridlington, Nafferton, Driffield, Hutton Cranswick, Arram, Beverley, Cottingham, Hull, Brough, Gilberdyke, Eastrington, Howden, Wressle, Selby, Sherburn-in-Elmet, Church Fenton, Ulleskelf, York
+
+| Leeds, Bramley, New Pudsey, Bradford Interchange, Halifax, Hebden Bridge, Todmorden, Rochdale, Manchester Victoria
+
+| Leeds, Morley, Batley, Dewsbury, Ravensthorpe, Mirfield, Brighouse, Sowerby Bridge, Mytholmroyd, Hebden Bridge, Todmorden, Walsden, Littleborough, Smithy Bridge, Rochdale, Manchester Victoria, Salford Central, Salford Crescent, Swinton, Moorside, Walkden, Atherton, Hag Fold, Daisy Hill, Hindley, Ince, Wigan Wallgate
+
+| Leeds, Bramley, New Pudsey, Bradford Interchange, Low Moor, Halifax, Sowerby Bridge, Mytholmroyd, Hebden Bridge, Todmorden, Rochdale, Manchester Victoria, Newton-le-Willows, Earlestown, Warrington Bank Quay, Chester
+

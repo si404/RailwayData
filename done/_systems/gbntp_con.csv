@@ -1,0 +1,11 @@
+systemName;route;banner;groupName;roots
+gbntp;TPASRte;;TransPennine Anglo-Scottish Route (Liverpool branch);eng.tpasrteliv
+gbntp;TPASRte;;TransPennine Anglo-Scottish Route;eng.tpasrte,sct.tpasrte
+gbntp;TPASRte;;TransPennine Anglo-Scottish Route (Glasgow branch);sct.tpasrtegla
+gbntp;TPNRte;;TransPennine North Route;eng.tpnrte,sct.tpnrte
+gbntp;TPNRte;;TransPennine North Route (Airport branch);eng.tpnrteair
+gbntp;TPNRte;;TransPennine North Route (Piccadilly branch);eng.tpnrtepic
+gbntp;TPNRte;;TransPennine North Route (Hull branch);eng.tpnrtehul
+gbntp;TPNRte;;TransPennine North Route (Scarborough branch);eng.tpnrtesca
+gbntp;TPNRte;;TransPennine North Route (Teesside branch);eng.tpnrtetee
+gbntp;TPSRte;;TransPennine South Route;eng.tpsrte

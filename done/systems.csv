@@ -1,4 +1,10 @@
 ﻿System;Name;Type
+gbngx;Gatwick Express;Intercity
+gbnht;Hull Trains;Intercity
+gbnhx;Heathrow Express;Intercity
+gbnld;Lumo;Intercity
+gbnsx;Stansted Express;Intercity
+
 ausasr;Adelaide Suburban Railway;Regional
 ausmtm;Metro Trains Melbourne;Regional
 ausnswtl;New South Wales TrainLink;Regional
@@ -29,9 +35,14 @@ frahdfter;TER Hauts-de-France;Regional
 frarer;Réseau Express Régional;Regional
 fratra;Transillien;Regional
 frattu;Toulouse Train urbain;Regional
+gbngn;Great Northern;Regional
+gbnil;Island Line;Regional
+gbnln;London Northwestern Railway;Regional
 gbnlo;London Overground;Regional
 gbnme;Merseyrail;Regional
+gbnse;Southeastern;Regional
 gbntl;Thameslink;Regional
+gbntp;TransPennine Express;Regional
 gbnwm;West Midlands Railway;Regional
 gbnxr;Elizabeth Line;Regional
 irlnir;NI Railways;Regional
