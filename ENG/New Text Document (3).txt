@@ -1,0 +1,32 @@
+
+	vt	Avanti West Coast (need to do Wales and Scotland);Intercity
+	cc	c2c
+	cs	Caledonian Sleeper (need to do Scotland);Intercity
+	ch	Chiltern Railways
+	xc	CrossCountry (need to do Wales and Scotland);Intercity
+	em	EMR
+xr	Elizabeth Line
+gx	Gatwick Express
+	gc	Grand Central;Intercity
+gn	Great Northern
+	gw	GWR (need to do Wales)
+	le	greateranglia
+hx	Heathrow Express
+ht	Hull Trains
+il	Island Line
+	gr	LNER (need to do Scotland);Intercity
+ln	London Northwestern Railway
+lo	London Overground
+ld	lumo	(need to do Scotland)
+me	Merseyrail
+	nt	Northern
+	sr	ScotRail (need to do Scotland)
+se	Southeastern
+	sn	Southern
+	sw	South Western Railway
+sx	stansted express
+tl	Thameslink
+tp	Transpennine Express
+	aw	Transport for Wales (need to do Wales)
+wm	West Midlands Railway
+
