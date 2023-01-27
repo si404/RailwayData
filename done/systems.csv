@@ -1,4 +1,5 @@
 ﻿System;Name;Type
+belic;InterCity;Intercity
 gbngx;Gatwick Express;Intercity
 gbnht;Hull Trains;Intercity
 gbnhx;Heathrow Express;Intercity
@@ -14,6 +15,12 @@ ausst;Sydney Trains;Regional
 ausvln;V/Line;Regional
 austto;Transperth Train Operations;Regional
 austwa;Transwa;Regional
+bell;Lokale treinen / trains locaux;Regional
+belrsa;S-trein Antwerpen;Regional
+belrsb;Réseau suburbain bruxellois / Gewestelijk ExpresNet;Regional
+belrsc;Réseau suburbain de Charleroi;Regional
+belrsg;S-trein Gent;Regional
+belrsl;Réseau suburbain liégeois;Regional
 espca;Cercanías Asturias;Regional
 espcc;Cercanías Cádiz;Regional
 espcm;Cercanías Madrid;Regional
