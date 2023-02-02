@@ -1,0 +1,8 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+chebss;CHE;S1;;Bas;;che.s01ber;
+chebss;CHE;S1;;Fri;Frick branch;che.s01fri;
+chebss;CHE;S3;;Bas;;che.s03ber;
+chebss;DEU-BW;S5;;Bas;;che.s06ber;
+chebss;DEU-BW;S6;;Bas;;deubw.s06ber;
+chebss;CHE;S6;;Bas;;che.s06ber;
+chebss;CHE;S9;;Bas;;che.s09ber;

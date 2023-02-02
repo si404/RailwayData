@@ -21,6 +21,19 @@ belrsb;Réseau suburbain bruxellois / Gewestelijk ExpresNet;Regional
 belrsc;Réseau suburbain de Charleroi;Regional
 belrsg;S-trein Gent;Regional
 belrsl;Réseau suburbain liégeois;Regional
+cheags;S-Bahn Aargau;Regional
+chebes;S-Bahn Bern / RER Berne;Regional
+chebss;Trinationale S-Bahn Basel / RER trinational de Bâle;Regional
+chechs;S-Bahn Chur;Regional
+chefrrer;Réseau express régional fribourgeois / S-Bahn Freiburg;Regional
+chelx;Léman Express;Regional
+chesgs;S-Bahn St. Gallen;Regional
+chesob;Südostbahn;Regional
+chesos;S-Bahn Solothurn;Regional
+chetirc;Rete celere del Canton Ticino;Regional
+chevdrer;Réseau express régional vaudois;Regional
+chezhs;S-Bahn Zürich;Regional
+chezss;S-Bahn Zentralschweiz;Regional
 espca;Cercanías Asturias;Regional
 espcc;Cercanías Cádiz;Regional
 espcm;Cercanías Madrid;Regional
@@ -68,6 +81,7 @@ usavrex;Virginia Railway Express;Regional
 aussm;Sydney Metro;Metro
 belbm;Métro de Bruxelles / Brusselse metro;Metro
 belcm;Métro de Charleroi;Metro
+chelm;Métro de Lausanne;Metro
 espbm;Bilboko Metroa;Metro
 espmb;Metro de Barcelona;Metro
 espmvbl;Metros del Vallès et Baix Llobregat;Metro
@@ -110,6 +124,10 @@ belat;Antwerpse tram;Tram
 belbt;Tramway de Bruxelles / Brusselse tram;Tram
 belgt;Gentse tram;Tram
 belkt;Kusttram;Tram
+chebet;Strassenbahn Bern / Tramway de Berne;Tram
+chebst;Basler Tramlinien / Tramway de Bâle;Tram
+cheget;Tramway de Genève;Tram
+chezht;Strassenbahn Zürich;Tram
 espetb;Euskotren Tranbia;Tram
 espmg;Metro de Granada;Tram
 espmlm;Metro Ligero de Madrid;Tram
