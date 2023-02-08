@@ -1,0 +1,11 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+autsv;DEU-BY;S1;;Vor;;deuby.s01vor;
+autsv;AUT;S1;;Vor;;aut.s01vor;
+autsv;AUT;S2;;Vor;;aut.s02vor;
+autsv;LIE;S2;;Vor;;lie.s02vor;
+autsv;CHE;S2;;Vor;;che.s02vor;
+autsv;CHE;S3;;Vor;;che.s03vor;
+autsv;AUT;S3;;Vor;;aut.s03vor;
+autsv;AUT;S4;;Vor;;aut.s04vor;
+autsv;CHE;S5;;Vor;;che.s05vor;
+autsv;AUT;S5;;Vor;;aut.s05vor;

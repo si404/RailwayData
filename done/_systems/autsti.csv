@@ -1,0 +1,7 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+autsti;AUT;1;;Inn;;aut.01inn;
+autsti;AUT;2;;Inn;;aut.02inn;
+autsti;AUT;3;;Inn;;aut.03inn;
+autsti;AUT;5;;Inn;;aut.05inn;
+autsti;AUT;6;;Inn;Innsbrucker Mittelgebirgsbahn;aut.06inn;
+autsti;AUT;STB;;;Stubaitalbahn;aut.stb;

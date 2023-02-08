@@ -15,6 +15,13 @@ ausst;Sydney Trains;Regional
 ausvln;V/Line;Regional
 austto;Transperth Train Operations;Regional
 austwa;Transwa;Regional
+autsk;S-Bahn Kärnten;Regional
+autso;S-Bahn Oberösterreich;Regional
+autss;S-Bahn Salzburg;Regional
+autsst;S-Bahn Steiermark;Regional
+autst;S-Bahn Tirol;Regional
+autsv;S-Bahn Vorarlberg;Regional
+autsw;S-Bahn Wien;Regional
 bell;Lokale treinen / trains locaux;Regional
 belrsa;S-trein Antwerpen;Regional
 belrsb;Réseau suburbain bruxellois / Gewestelijk ExpresNet;Regional
@@ -79,6 +86,8 @@ usasepa;SEPTA Regional Rail;Regional
 usavrex;Virginia Railway Express;Regional
 
 aussm;Sydney Metro;Metro
+autus;U-Bahn Serfaus;Metro
+autuw;U-Bahn Wien;Metro
 belbm;Métro de Bruxelles / Brusselse metro;Metro
 belcm;Métro de Charleroi;Metro
 chelm;Métro de Lausanne;Metro
@@ -120,6 +129,11 @@ ausgclr;Gold Coast Light Rail;Tram
 ausnlr;Newcastle Light Rail;Tram
 ausslr;Sydney Light Rail;Tram
 ausyt;Yarra Trams;Tram
+autstgm;Straßenbahn Gmunden;Tram
+autstg;Straßenbahn Graz;Tram
+autsti;Straßenbahn Innsbruck;Tram
+autstl;Straßenbahn Linz;Tram
+autstw;Straßenbahn Wien;Tram
 belat;Antwerpse tram;Tram
 belbt;Tramway de Bruxelles / Brusselse tram;Tram
 belgt;Gentse tram;Tram
