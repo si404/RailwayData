@@ -1,0 +1,37 @@
+
+S-bahn
+	S-Bahn Berlin
+	Regio-S-Bahn Bremen/Niedersachsen
+	Regio-S-Bahn Donau-Iller (Ulm)
+	S-Bahn Dresden
+	S-Bahn Hamburg
+	S-Bahn Hannover
+	S-Bahn Köln (Köln, Leverkusen; Bonn; S23 Dieselbetrieb)
+	S-Bahn Mittelelbe (Magdeburg)
+	S-Bahn Mitteldeutschland (Leipzig/Halle (Saale))
+	S-Bahn München
+	S-Bahn Nürnberg
+	S-Bahn Rhein-Main (Frankfurt am Main, Wiesbaden, Mainz, Darmstadt, Offenbach am Main, Hanau)
+	S-Bahn RheinNeckar (Ludwigshafen am Rhein, Mannheim, Heidelberg, Kaiserslautern, Karlsruhe)
+	S-Bahn Rhein-Ruhr (Ruhrgebiet, Düsseldorf; S7 und S28 Dieselbetrieb)
+	S-Bahn Rostock
+	S-Bahn Stuttgart
+	Breisgau-S-Bahn
+
+U-bahn
+deuub	Berlin
+deuuh	Hamburg
+deuuf	Frankfurt
+deuum	Munich
+deuun	Nuremburg
+
+Stadtbahn
+	Bielefeld
+	Bochum
+	Bonn
+	Cologne
+	Dortmund
+	Duisburg
+	Dusseldorf
+	Essen
+	Stuttgart
