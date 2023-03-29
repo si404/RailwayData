@@ -1,9 +1,0 @@
-systemName;region;route;banner;abbrev;city;root;altRouteNames
-irliec;IRL;CorkCom;;Cob;Cork Commuter (Cobh);irl.corkcomcob;
-irliec;IRL;CorkCom;;Mid;Cork Commuter (Midleton);irl.corkcommid;
-irliec;IRL;NCom;;;Northern Commuter;irl.ncom;
-irliec;IRL;WCom;;May;Western Commuter (Maynooth);irl.wcommay;
-irliec;IRL;WCom;;Dun;Western Commuter (Dunboyne);irl.wcomdun;
-irliec;IRL;SWCom;;Heu;Southwestern Commuter (Heuston);irl.swcomheu;
-irliec;IRL;SWCom;;GCD;Southwestern Commuter (Grand Canal Dock);irl.swcomgcd;
-irliec;IRL;SECom;;;Southeastern Commuter;irl.secom;
