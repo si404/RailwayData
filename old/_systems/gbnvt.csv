@@ -1,9 +1,0 @@
-systemName;region;route;banner;abbrev;city;root;altRouteNames
-gbnvt;ENG;WCML;;Sto;West Coast Mainline (Stoke);eng.wcmlsto;
-gbnvt;ENG;WCML;;Wol;West Coast Mainline (Wolverhampton);eng.wcmlwol;
-gbnvt;ENG;WCML;;Che;West Coast Mainline (Chester);eng.wcmlche;
-gbnvt;WLS;WCML;;;West Coast Mainline;wls.wcml;
-gbnvt;ENG;WCML;;Liv;West Coast Mainline (Liverpool);eng.wcmlliv;
-gbnvt;ENG;WCML;;Car;West Coast Mainline (Carlisle);eng.wcmlcar;
-gbnvt;SCT;WCML;;Gla;West Coast Mainline (Glasgow);sct.wcmlgla;
-gbnvt;SCT;WCML;;Edi;West Coast Mainline (Edinburgh);sct.wcmledi;
