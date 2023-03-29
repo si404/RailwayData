@@ -1,0 +1,15 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+ausqrt;AUS-QLD;AirLn;;;Airport line;ausqld.airln;
+ausqrt;AUS-QLD;BeeLn;;;Beenleigh line;ausqld.beeln;
+ausqrt;AUS-QLD;CabLn;;;Caboolture line;ausqld.cabln;
+ausqrt;AUS-QLD;CleLn;;;Cleveland line;ausqld.cleln;
+ausqrt;AUS-QLD;DooLn;;;Doomben line;ausqld.dooln;
+ausqrt;AUS-QLD;ExhLn;;;Exhibition line;ausqld.exhln;
+ausqrt;AUS-QLD;FGLn;;;Ferny Grove line;ausqld.fgln;
+ausqrt;AUS-QLD;GCLn;;;Gold Coast line;ausqld.gcln;
+ausqrt;AUS-QLD;IpsLn;;;Ipswich line;ausqld.ipsln;
+ausqrt;AUS-QLD;RosLn;;;Rosewood line;ausqld.rosln;
+ausqrt;AUS-QLD;RPLn;;;Redcliffe Peninsula line;ausqld.rpln;
+ausqrt;AUS-QLD;SCLn;;;Sunshine Coast line;ausqld.scln;
+ausqrt;AUS-QLD;ShoLn;;;Shorncliffe line;ausqld.sholn;
+ausqrt;AUS-QLD;SprLn;;;Springfield line;ausqld.sprln;

@@ -1,9 +1,250 @@
-﻿System;CountryCode;Name;Color;Tier
-irlent;IRL;Enterprise;Black;2;preview
-usaamtk;USA;AmTrack;Black;2;preview
-irlie;IRL;Iarnród Éireann;TMGrey;3;preview
-gbrnir;GBR;Northern Ireland Railways;TMGrey;3;preview
+﻿System;Name;Type
+belic;InterCity;Intercity
+gbngx;Gatwick Express;Intercity
+gbnht;Hull Trains;Intercity
+gbnhx;Heathrow Express;Intercity
+gbnld;Lumo;Intercity
+gbnsx;Stansted Express;Intercity
 
+ausasr;Adelaide Suburban Railway;Regional
+ausmtm;Metro Trains Melbourne;Regional
+ausnswtl;New South Wales TrainLink;Regional
+ausqrc;Queensland Rail Citytrain;Regional
+ausqrt;Queensland Rail Traveltrain;Regional
+ausst;Sydney Trains;Regional
+ausvln;V/Line;Regional
+austto;Transperth Train Operations;Regional
+austwa;Transwa;Regional
+autsk;S-Bahn Kärnten;Regional
+autso;S-Bahn Oberösterreich;Regional
+autss;S-Bahn Salzburg;Regional
+autsst;S-Bahn Steiermark;Regional
+autst;S-Bahn Tirol;Regional
+autsv;S-Bahn Vorarlberg;Regional
+autsw;S-Bahn Wien;Regional
+bell;Lokale treinen / trains locaux;Regional
+belrsa;S-trein Antwerpen;Regional
+belrsb;Réseau suburbain bruxellois / Gewestelijk ExpresNet;Regional
+belrsc;Réseau suburbain de Charleroi;Regional
+belrsg;S-trein Gent;Regional
+belrsl;Réseau suburbain liégeois;Regional
+cheags;S-Bahn Aargau;Regional
+chebes;S-Bahn Bern / RER Berne;Regional
+chebss;Trinationale S-Bahn Basel / RER trinational de Bâle;Regional
+chechs;S-Bahn Chur;Regional
+chefrrer;Réseau express régional fribourgeois / S-Bahn Freiburg;Regional
+chelx;Léman Express;Regional
+chesgs;S-Bahn St. Gallen;Regional
+chesob;Südostbahn;Regional
+chesos;S-Bahn Solothurn;Regional
+chetirc;Rete celere del Canton Ticino;Regional
+chevdrer;Réseau express régional vaudois;Regional
+chezhs;S-Bahn Zürich;Regional
+chezss;S-Bahn Zentralschweiz;Regional
+czeduk;Doprava Ústeckého kraje;Regional
+czeem;Esko v Moravskoslezském kraji;Regional
+czeep;Esko Praha;Regional
+czeidol;Integrovaný dopravní systém Libereckého kraje;Regional
+czeiredo;Integrovaná regionální doprava Východočeský kraj;Regional
+czevmjk;Vlaky Místní Jihomoraského kraje;Regional
+espca;Cercanías Asturias;Regional
+espcc;Cercanías Cádiz;Regional
+espcm;Cercanías Madrid;Regional
+espcma;Cercanías Málaga;Regional
+espcmu;Cercanías Murcia/Alicante;Regional
+espcsa;Cercanías Santander;Regional
+espcs;Cercanías Sevilla;Regional
+espcv;Cercanías Valencia;Regional
+espcz;Cercanías Zaragoza;Regional
+espet;Euskotren Trena;Regional
+espfs;Ferrocarril de Sóller;Regional
+esprab;Renfe Aldiriak Bilbo;Regional
+esprad;Renfe Aldiriak Donostia;Regional
+esprc;Rodalies de Catalunya;Regional
+esprf;Renfe Feve;Regional
+espsfm;Serveis Ferroviaris de Mallorca;Regional
+fracp;Chemins de fer de Provence;Regional
+frahdfter;TER Hauts-de-France;Regional
+franaqter;TER en Nouvelle-Aquitaine;Regional
+frarer;Réseau Express Régional;Regional
+fratra;Transillien;Regional
+frattu;Toulouse Train urbain;Regional
+gbngn;Great Northern;Regional
+gbnil;Island Line;Regional
+gbnln;London Northwestern Railway;Regional
+gbnlo;London Overground;Regional
+gbnme;Merseyrail;Regional
+gbnse;Southeastern;Regional
+gbntl;Thameslink;Regional
+gbntp;TransPennine Express;Regional
+gbnwm;West Midlands Railway;Regional
+gbnxr;Elizabeth Line;Regional
+irlnir;NI Railways;Regional
+nzlatm;Auckland Transport Metro;Regional
+nzlkr;Kiwi Rail;Regional
+nzlwm;Wellington Metrolink;Regional
+svkzdb;Železničná_doprava v Bratislave;Regional
+usacndx;CTrail;Regional
+usalirr;Long Island Rail Road;Regional
+usamarc;MARC Train;Regional
+usambtx;MBTA Commuter Rail;Regional
+usamncr;Metro-North;Regional
+usanjtr;NJ Transit Rail;Regional
+usasepa;SEPTA Regional Rail;Regional
+usavrex;Virginia Railway Express;Regional
 
-iomimr;IOM;Isle of Man Railways;TMPurple;5;preview
-irlluas;IRL;Luas;TMPurple;5;preview
+aussm;Sydney Metro;Metro
+autus;U-Bahn Serfaus;Metro
+autuw;U-Bahn Wien;Metro
+belbm;Métro de Bruxelles / Brusselse metro;Metro
+belcm;Métro de Charleroi;Metro
+chelm;Métro de Lausanne;Metro
+czemp;Metro Praha;Metro
+espbm;Bilboko Metroa;Metro
+espmb;Metro de Barcelona;Metro
+espmvbl;Metros del Vallès et Baix Llobregat;Metro
+espmm;Metro de Madrid;Metro
+espmma;Metro de Málaga;Metro
+espmp;Metro de Palma;Metro
+espms;Metro de Sevilla;Metro
+espmv;Metrovalencia;Metro
+frallm;Lille Métro;Metro
+fralym;Lyon Métro;Metro
+framam;Marseille Métro;Metro
+frapm;Paris Métro;Metro
+frarm;Rennes Métro;Metro
+fratm;Toulouse Métro;Metro
+gbndlr;Docklands Light Railway;Metro
+gbngs;Glasgow Subway;Metro
+gbnlu;London Underground;Metro
+gbntwm;Tyne & Wear Metro;Metro
+hkgmtr;Hong Kong Mass Transit Railway;Metro
+nldam;Amsterdam Metro;Metro
+nldrm;Rotterdam Metro;Metro
+sgpmrt;Singapore Mass Rapid Transit;Metro
+usabmsl;Baltimore Metro SubwayLink;Metro
+usambta;MBTA Subway;Metro
+usapatco;PATCO Speedline;Metro
+usasepta;SEPTA rapid transit;Metro
+usanycs;New York City Subway;Metro
+usapath;Port Authority Trans-Hudson Railroad;Metro
+usasir;Staten Island Railway;Metro
+usawmat;USA;Washington Metro;Metro
+
+ausat;Adelaide Trams;Tram
+ausbt;Bendigo Tramways;Tram
+auscm;Canberra Metro;Tram
+ausgclr;Gold Coast Light Rail;Tram
+ausnlr;Newcastle Light Rail;Tram
+ausslr;Sydney Light Rail;Tram
+ausyt;Yarra Trams;Tram
+autstgm;Straßenbahn Gmunden;Tram
+autstg;Straßenbahn Graz;Tram
+autsti;Straßenbahn Innsbruck;Tram
+autstl;Straßenbahn Linz;Tram
+autstw;Straßenbahn Wien;Tram
+belat;Antwerpse tram;Tram
+belbt;Tramway de Bruxelles / Brusselse tram;Tram
+belgt;Gentse tram;Tram
+belkt;Kusttram;Tram
+chebet;Strassenbahn Bern / Tramway de Berne;Tram
+chebst;Basler Tramlinien / Tramway de Bâle;Tram
+cheget;Tramway de Genève;Tram
+chezht;Strassenbahn Zürich;Tram
+czetb;Tramvaje v Brně;Tram
+czetl;Tramvaje v Liberci;Tram
+czetml;Tramvaje v Mostě a v Litvínově;Tram
+czetol;Tramvaje v Olomouci;Tram
+czetos;Tramvaje v Ostravě;Tram
+czetpl;Tramvaje v Plzni;Tram
+czetp;Tramvaje v Praze;Tram
+espetb;Euskotren Tranbia;Tram
+espmg;Metro de Granada;Tram
+espmlm;Metro Ligero de Madrid;Tram
+espta;TRAM metropolita d'Alicant;Tram
+esptb;TRAM Barcelona;Tram
+esptbc;TRAMBahía de Cádiz;Tram
+esptmu;Tranvia de Murcia;Tram 
+espts;Metrocentro de Sevilla;Tram
+esptt;Tranvía de Tenerife;Tram
+esptz;Tranvía de Zaragoza;Tram
+fraant;Angers Tramway;Tram
+fraaut;Tramway d'Aubagne;Tram
+frabet;Besancon Tramway;Tram
+frabrt;Brest Tramway;Tram
+frabt;Bordeaux Tramway;Tram
+fracft;Clermont-Ferrand Tramway;Tram
+fract;Caen Tramway;Tram
+fradt;Dijon Tramway;Tram
+fragt;Grenoble Tramway;Tram
+fraidft;Ile de France Tramway;Tram
+frallt;Tramway du Grand Boulevard;Tram
+fralht;Le Havre Tramway;Tram
+fralmt;Le Mans Tramway;Tram
+fralyt;Lyon Tramway;Tram
+framat;Marseille Tramway;Tram
+framot;Monpelier Tramway;Tram
+framut;Mulhouse Tramway;Tram
+franat;Nantes Tramway;Tram
+franit;Nice Tramway;Tram
+fraot;Orleans Tramway;Tram
+fraret;Reims Tramway;Tram
+frarot;Métro de Rouen;Tram
+fraset;Saint Etienne Tramway;Tram
+frast;Strasbourg Tramway;Tram
+fratot;Tours Tramway;Tram
+fratt;Toulouse Tramway;Tram
+fravt;Valenciennes Tramway;Tram
+gbnbt;Blackpool Tramway;Tram
+gbnet;Edinburgh Tram;Tram
+gbnlt;London Trams;Tram
+gbnman;Manchester Metrolink;Tram
+gbnnet;Nottingham Express Transit;Tram
+gbnss;Sheffield Supertram;Tram
+gbnwmm;West Midlands Metro;Tram
+hgkhgt;Hong Kong Tramways;Tram
+hgklr;Hong Kong Light Rail;Tram
+iomimr;Isle of Man Railways;Tram
+irlluas;Luas;Tram
+nldat;Amsterdam Trams;Tram
+nldht;Den Haag Trams;Tram
+nldrt;Rotterdam Trams;Tram
+nldut;Utrecht Trams;Tram
+svkedb;Električková_doprava v Bratislave;Tram
+svkedk;Električková_doprava v Košiciach;Tram
+svktez;Trenčianska elektrická železnica;Tram
+usablrl;USA;Baltimore Light RailLink;Tram
+usabufmr;Buffalo Metro Rail;Trams
+usadcsc;USA;DC Streetcar;Tram
+usahblr;USA;Hudson-Bergen Light Rail;Tram
+usalynx;USA;LYNX;Tram
+usambtlr;USA;MBTA Light Rail;Tram
+usamtlr;Minnesota METRO Transit (Light Rail);Tram
+usanlr;USA;Newark Light Rail;Tram
+usarivl;USA;River LINE;Tram
+usaseplr;USA;SEPTA Light Rail;Tram
+usapitlr;USA;Pittsburgh Light Rail (The T);Tram
+usatide;USA;The Tide;Tram
+
+frabrtp;Brest Téléphérique;PeopleMover
+frafdm;Funiculaire de Montmartre;PeopleMover
+fragbt;Téléphérique de Grenoble Bastille;PeopleMover
+fralhf;Funicular de Havre;PeopleMover
+fralyf;Lyon Funiculars;PeopleMover
+frattp;Toulouse Téléphérique urbain Téléo;People Mover
+fraval;Véhicule Automatique Léger;PeopleMover
+gbnbarl;Birmingham Air-Rail Link;PeopleMover
+gbndart;Luton Direct Air-Rail Transport;PeopleMover
+gbngast;Gatwick Airport Shuttle Transit;PeopleMover
+gbnhprt;Heathrow Personal Rapid Transit;PeopleMover
+gbnht5t;Heathrow Terminal 5 Transit;PeopleMover
+gbnlcc;London Cable Car;PeopleMover
+gbnstts;Stansted Airport Tracked Transit System;PeopleMover
+hgkngcc;Ngong Ping Cable Car;PeopleMover
+hgkop;Ocean Park Transport;People Mover
+hgkpt;Peak Tram;PeopleMover
+sgplrt;Singapore Light Rail Transit;PeopleMover
+usaairtrn;AirTrain;PeopleMover
+usahunhts;Huntsville Hospital Tram System;PeopleMover
+usarooist;Roosevelt Island Tramway;PeopleMover
+usawvuprt;Morgantown Personal Rapid Transit;PeopleMover
