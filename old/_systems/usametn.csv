@@ -1,9 +1,0 @@
-systemName;region;route;banner;abbrev;city;root;altRouteNames
-usametn;NY;HarLn;;;Harlem Line;ny.harln;
-usametn;NY;HudLn;;;Hudson Line;ny.hudln;
-usametn;NY;NewHavLn;;;New Haven Line;ny.newhavln;
-usametn;CT;NewHavLn;;;New Haven Line;ct.newhavln;
-usametn;CT;NewCanBra;;;New Canaan Branch;ct.newcanbra;
-usametn;CT;DanBra;;;Danbury Branch;ct.danbra;
-usametn;CT;WatBra;;;Waterbury Branch;ct.watbra;
-usametn;NY;YanSpr;;;Yankee Stadium Spur;ny.yanspr;
