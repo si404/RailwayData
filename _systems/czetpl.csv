@@ -1,0 +1,4 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+czetpl;CZE;1;;Plz;;cze.01plz;
+czetpl;CZE;2;;Plz;;cze.02plz;
+czetpl;CZE;4;;Plz;;cze.04plz;
