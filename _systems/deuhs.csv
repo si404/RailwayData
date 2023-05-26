@@ -1,0 +1,12 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+deuhs;DEU-NS;S1;;;;deuns.s01;
+deuhs;DEU-NS;S2;;;;deuns.s02;
+deuhs;DEU-NS;S3;;;;deuns.s03;
+deuhs;DEU-NS;S4;;;;deuns.s04;
+deuhs;DEU-NS;S5;;;;deuns.s05;
+deuhs;DEU-NW;S5;;Han;;deunw.s05han;
+deuhs;DEU-NS;S6;;;;deuns.s06;
+deuhs;DEU-NS;S7;;;;deuns.s07;
+deuhs;DEU-NS;S8;;;;deuns.s08;
+deuhs;DEU-NS;S9;;;;deuns.s09;
+deuhs;DEU-NS;S10;;;;deuns.s10;

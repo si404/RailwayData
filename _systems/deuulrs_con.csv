@@ -1,0 +1,8 @@
+systemName;route;banner;groupName;roots
+deuulrs;RS2;;Südbahn;deubw.rs02
+deuulrs;RS3;;Donaubahn;deubw.rs03
+deuulrs;RS5;;Brenzbahn;deubw.rs05,deuby.rs05,deubw.rs05ulm
+deuulrs;RS7;;Illtalbahn;deubw.rs07,deuby.rs07
+deuulrs;RS21;;Südbahn;deubw.rs21
+deuulrs;RS51;;Brenzbahn;deubw.rs51lan,deuby.rs51,deubw.rs51
+deuulrs;RS71;;Illtalbahn;deubw.rs71,deuby.rs71

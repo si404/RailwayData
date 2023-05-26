@@ -1,0 +1,12 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+deurms;DEU-HE;S1;;;;deuhe.s01;
+deurms;DEU-HE;S2;;;;deuhe.s02;
+deurms;DEU-HE;S3;;;;deuhe.s03;
+deurms;DEU-HE;S4;;;;deuhe.s04;
+deurms;DEU-HE;S5;;;;deuhe.s05;
+deurms;DEU-HE;S6;;;;deuhe.s06;
+deurms;DEU-HE;S7;;;;deuhe.s07;
+deurms;DEU-HE;S8;;Wie;Wiesbaden;deuhe.s08wie;
+deurms;DEU-RP;S8;;;;deurp.s08;
+deurms;DEU-HE;S8;;;Frankfurt;deuhe.s08;
+deurms;DEU-HE;S9;;;;deuhe.s09;

@@ -47,6 +47,23 @@ czeep;Esko Praha;Regional
 czeidol;Integrovaný dopravní systém Libereckého kraje;Regional
 czeiredo;Integrovaná regionální doprava Východočeský kraj;Regional
 czevmjk;Vlaky Místní Jihomoraského kraje;Regional
+deubs;S-Bahn Berlin;Regional
+deufrs;Breisgau-S-Bahn;Regional
+deuhbs;Regio-S-Bahn Bremen/Niedersachsen;Regional
+deudds;S-Bahn Dresden;Regional
+deuhhs;S-Bahn Hamburg;Regional
+deuhs;S-Bahn Hannover;Regional
+deukas;Stadtbahn Karlsruhe;Regional
+deuls;S-Bahn Mitteldeutschland;Regional
+deumds;S-Bahn Mittelelbe;Regional
+deums;S-Bahn München;Regional
+deuns;S-Bahn Nürnberg;Regional
+deurms;S-Bahn Rhein-Main;Regional
+deurns;S-Bahn Rhein-Neckar;Regional
+deuros;S-Bahn Rostock;Regional
+deurrs;S-Bahn Rhein-Ruhr;Regional
+deuss;S-Bahn Stuttgart;Regional
+deuulrs;Regio-S-Bahn Donau-Iller
 espca;Cercanías Asturias;Regional
 espcc;Cercanías Cádiz;Regional
 espcm;Cercanías Madrid;Regional
@@ -100,6 +117,20 @@ belbm;Métro de Bruxelles / Brusselse metro;Metro
 belcm;Métro de Charleroi;Metro
 chelm;Métro de Lausanne;Metro
 czemp;Metro Praha;Metro
+deubu;U-Bahn Berlin;Metro
+deubisb;Stadtbahn Bielefeld;Metro
+deucc;City-Bahn Chemnitz;Metro
+deufu;U-Bahn Frankfurt;Metro
+deuhhu;U-bahn Hamburg;Metro
+deuhsb;Stadtbahn Hannover;Metro
+deuksrt;RegioTram Kassel;Metro
+deumu;U-Bahn München;Metro
+deunu;U-Bahn Nürnberg;Metro
+deurssb;Stadtbahn Rhein-Sieg;Metro
+deurru;Stadtbahn Rhine-Ruhr;Metro
+deusb;Saarbahn;Metro
+deusu;Stadtbahn Stuttgart;Metro
+deuws;Wuppertaler Schwebebahn;Metro
 espbm;Bilboko Metroa;Metro
 espmb;Metro de Barcelona;Metro
 espmvbl;Metros del Vallès et Baix Llobregat;Metro
@@ -158,6 +189,44 @@ czetol;Tramvaje v Olomouci;Tram
 czetos;Tramvaje v Ostravě;Tram
 czetpl;Tramvaje v Plzni;Tram
 czetp;Tramvaje v Praze;Tram
+deuat;Straßenbahn Augsburg;Tram
+deubt;Straßenbahn Berlin;Tram
+deubrbt;Straßenbahn Brandenburg an der Havel;Tram
+deubst;Straßenbahn Braunschweig;Tram
+deuhbt;Straßenbahn Bremen;Tram
+deuct;Straßenbahn Chemnitz;Tram
+deuctt;Straßenbahn Cottbus;Tram
+deudat;Straßenbahn Darmstadt;Tram
+deudet;Straßenbahn Dessau;Tram
+deuddt;Straßenbahn Dresden;Tram
+deueft;Straßenbahn Erfurt;Tram
+deuft;Straßenbahn Frankfurt am Main;Tram
+deufft;Straßenbahn Frankfurt (Oder);Tram
+deufrt;Straßenbahn Freiburg im Breisgau;Tram
+deugt;Straßenbahn Gera;Tram
+deugrt;Straßenbahn Görlitz;Tram
+deugtht;Straßenbahn Gotha;Tram
+deuhbst;Straßenbahn Halberstadt;Tram
+deuhalt;Straßenbahn Halle (Saale);Tram
+deujt;Straßenbahn Jena;Tram
+deukat;Straßenbahn Karlsruhe;Tram
+deukst;Straßenbahn Kassel;Tram
+deult;Straßenbahn Leipzig;Tram
+deumdt;Straßenbahn Magdeburg;Tram
+deumzt;Straßenbahn Mainz;Tram
+deumt;Straßenbahn München;Tram
+deunmbt;Straßenbahn Naumburg;Tram
+deundht;Straßenbahn Nordhausen;Tram
+deunt;Straßenbahn Nürnberg;Tram
+deuplt;Straßenbahn Plauen;Tram
+deurnt;Straßenbahn Rhein-Neckar;Tram
+deurrt;Straßenbahn Rhein-Ruhr;Tram
+deurot;Straßenbahn Rostock;Tram
+deusnt;Straßenbahn Schwerin;Tram
+deuswat;Kirnitzschtalbahn;Tram
+deuult;Straßenbahn Ulm;Tram
+deuwut;Straßenbahn Würzburg;Tram
+deuzt;Straßenbahn Zwickau;Tram
 espetb;Euskotren Tranbia;Tram
 espmg;Metro de Granada;Tram
 espmlm;Metro Ligero de Madrid;Tram
@@ -226,6 +295,8 @@ usaseplr;USA;SEPTA Light Rail;Tram
 usapitlr;USA;Pittsburgh Light Rail (The T);Tram
 usatide;USA;The Tide;Tram
 
+deuddb;Bergbahnen Dresden;PeopleMover
+deunwh;Hängebahn;Peoplemover
 frabrtp;Brest Téléphérique;PeopleMover
 frafdm;Funiculaire de Montmartre;PeopleMover
 fragbt;Téléphérique de Grenoble Bastille;PeopleMover

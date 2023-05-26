@@ -1,0 +1,21 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+deurssb;DEU-NW;01;;Kol;;deunw.01kol;
+deurssb;DEU-NW;03;;Kol;;deunw.03kol;
+deurssb;DEU-NW;04;;Kol;;deunw.04kol;
+deurssb;DEU-NW;05;;Kol;;deunw.05kol;
+deurssb;DEU-NW;07;;Kol;;deunw.07kol;
+deurssb;DEU-NW;09;;Kol;;deunw.09kol;
+deurssb;DEU-NW;12;;Kol;;deunw.12kol;
+deurssb;DEU-NW;13;;Kol;;deunw.13kol;
+deurssb;DEU-NW;15;;Kol;;deunw.15kol;
+deurssb;DEU-NW;15;;Lon;Longerich branch;deunw.15lon;
+deurssb;DEU-NW;16;;Rhe;;deunw.16rhe;
+deurssb;DEU-NW;17;;Rhe;;deunw.17rhe;
+deurssb;DEU-NW;18;;Rhe;;deunw.18rhe;
+deurssb;DEU-NW;61;;Bon;;deunw.61bon;
+deurssb;DEU-NW;62;;Bon;;deunw.62bon;
+deurssb;DEU-NW;63;;Bon;;deunw.63bon;
+deurssb;DEU-NW;65;;Bon;;deunw.65bon;
+deurssb;DEU-NW;66;;Bon;;deunw.66bon;
+deurssb;DEU-NW;67;;Bon;;deunw.67bon;
+deurssb;DEU-NW;68;;Bon;;deunw.68bon;

@@ -1,0 +1,14 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+deuulrs;DEU-BW;RS2;;;Südbahn;deubw.rs02;
+deuulrs;DEU-BW;RS3;;;Donaubahn;deubw.rs03;
+deuulrs;DEU-BW;RS5;;;Brenzbahn;deubw.rs05;
+deuulrs;DEU-BY;RS5;;;Brenzbahn;deuby.rs05;
+deuulrs;DEU-BW;RS5;;Ulm;Brenzbahn;deubw.rs05ulm;
+deuulrs;DEU-BW;RS7;;;Illtalbahn;deubw.rs07;
+deuulrs;DEU-BY;RS7;;;Illtalbahn;deuby.rs07;
+deuulrs;DEU-BW;RS21;;;Südbahn;deubw.rs21;
+deuulrs;DEU-BW;RS51;;Lan;Brenzbahn;deubw.rs51lan;
+deuulrs;DEU-BY;RS51;;;Brenzbahn;deuby.rs51;
+deuulrs;DEU-BW;RS51;;;Brenzbahn;deubw.rs51;
+deuulrs;DEU-BW;RS71;;;Illtalbahn;deubw.rs71;
+deuulrs;DEU-BY;RS71;;;Illtalbahn;deuby.rs71;
