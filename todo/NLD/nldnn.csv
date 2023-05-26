@@ -1,0 +1,11 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+nldnn;NLD;RS1;;;;nld.rs01;
+nldnn;NLD;RE1;;;;nld.re01;
+nldnn;NLD;RS2;;;;nld.rs02;
+nldnn;NLD;RS3;;;;nld.rs03;
+nldnn;NLD;RS4;;;;nld.rs04;
+nldnn;NLD;RS5;;;;nld.rs05;
+nldnn;NLD;RS6;;;;nld.rs06;
+nldnn;DEU-NS;RS6;;;;deuns.rs06;
+nldnn;NLD;RE6;;;;nld.re06;
+nldnn;NLD;RS7;;;;nld.rs07;
