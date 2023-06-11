@@ -1,6 +1,6 @@
 
 
-Brighton Mainline
+Sussex Mainline
 
 || || London Victoria – Clapham Junction – East Croydon – Gatwick Airport – Haywards Heath – Burgess Hill – Hassocks – Preston Park – Hove – Portslade – Shoreham-by-Sea – Lancing – Worthing – West Worthing – Durrington-on-Sea – Goring-by-Sea – Angmering – Littlehampton
 
@@ -12,7 +12,7 @@ Arun Valley
 
 ||  || London Victoria – Clapham Junction – East Croydon – Gatwick Airport – Three Bridges – Crawley – Horsham – Barnham – Chichester – Havant – Fratton – Portsmouth & Southsea
 
-||  || London Victoria – Clapham Junction – East Croydon – Gatwick Airport – Three Bridges – Crawley – Horsham – Christ's Hospital – Billingshurst – Pulborough – Amberley – Arundel – Ford – Barnham – Bognor Regis
+ArunVlyLn || Arun Valley Line || London Victoria – Clapham Junction – East Croydon – Gatwick Airport – Three Bridges – Crawley – Horsham – Christ's Hospital – Billingshurst – Pulborough – Amberley – Arundel – Ford – Barnham – Bognor Regis
 
 
 
@@ -20,9 +20,10 @@ Coastway East
 
 Sussex Downs Line || SusDowLn ||Brighton – London Road (Brighton) – Moulsecoomb – Falmer – Lewes – Southease – Newhaven Town – Newhaven Harbour – Bishopstone  – Seaford
 
-|| ||Brighton – London Road (Brighton) – Moulsecoomb – Falmer – Lewes – Glynde – Berwick – Polegate – Hampden Park – Eastbourne Hampden Park – Pevensey & Westham – Bexhill – St Leonards Warrior Square – Hastings
+|| || Brighton – London Road (Brighton) – Moulsecoomb – Falmer – Lewes – Glynde – Berwick – Polegate – Hampden Park – Eastbourne Hampden Park – Pevensey & Westham – Bexhill – St Leonards Warrior Square – Hastings
 
-Marshlink Line || MshLn || Eastbourne – Hampden Park – Pevensey & Westham – Pevensey Bay – Normans Bay – Cooden Beach – Collington – Bexhill – St Leonards Warrior Square – Hastings – Ore – Three Oaks – Doleham (limited) – Winchelsea – Rye|East Sussex – Appledore – Ham Street – Ashford International
+Marshlink Line || MnkLn || Eastbourne – Hampden Park – Pevensey & Westham – Pevensey Bay – Normans Bay – Cooden Beach – Collington – Bexhill – St Leonards Warrior Square – Hastings – Ore – Three Oaks – Doleham – Winchelsea – Rye – Appledore – Ham Street – Ashford International
+
 
 Coastway West
 
@@ -41,11 +42,11 @@ East Grinstead Line || EGriLn || London Victoria – Clapham Junction – East C
 
 Uckfield Line || UckLn || London Bridge – East Croydon – Oxted – Hurst Green – Edenbridge Town – Hever – Cowden – Ashurst – Eridge – Crowborough – Buxted – Uckfield
 
-Redhill Line || RhlLn || London Victoria – Clapham Junction – East Croydon – Purley – Coulsdon South – Merstham – Redhill – Reigate
+Redhill Line || RdhLn || London Victoria – Clapham Junction – East Croydon – Purley – Coulsdon South – Merstham – Redhill – Reigate
 
 || || Redhill – Nutfield – Godstone – Edenbridge – Penshurst – Leigh – Tonbridge
 
-West London Line ||  || Watford Junction – Harrow & Wealdstone – Wembley Central – Shepherd's Bush – Kensington (Olympia) – West Brompton – Imperial Wharf – Clapham Junction – Balham – Streatham Common – Norbury – Thornton Heath – Selhurst – East Croydon
+West London Line || WLonLn || Watford Junction – Harrow & Wealdstone – Wembley Central – Shepherd's Bush – Kensington (Olympia) – West Brompton – Imperial Wharf – Clapham Junction – Balham – Streatham Common – Norbury – Thornton Heath – Selhurst – East Croydon
 
 
 Mole Valley line

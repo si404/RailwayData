@@ -1,7 +1,6 @@
 Intercity
 
 GEML | Great Eastern Main Line (Norwich) | Liverpool Street - Norwich
-StaExp | Stansted Express | Liverpool Street - Stansted Airport
 
 Great Eastern electrics
 
