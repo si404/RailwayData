@@ -100,6 +100,13 @@ irlnir;NI Railways;Regional
 nzlatm;Auckland Transport Metro;Regional
 nzlkr;Kiwi Rail;Regional
 nzlwm;Wellington Metrolink;Regional
+polksl;Koleje Śląskie;Regional
+polpkm;Poznańska Kolej Metropolitalna;Regional
+polskam;Szybka Kolej Aglomeracyjna w Aglomeracji Krakowskiej;Regional
+polskmb;Szybka Kolej Miejska BiTCity;Regional
+polskmt;PKP Szybka Kolej Miejska w Trójmieście;Regional
+polskmw;Szybka Kolej Miejska w Warszawie;Regional
+polwkd;Warszawska Kolej Dojazdowa;Regional
 svkzdb;Železničná_doprava v Bratislave;Regional
 usacndx;CTrail;Regional
 usalirr;Long Island Rail Road;Regional
@@ -152,6 +159,7 @@ gbntwm;Tyne & Wear Metro;Metro
 hkgmtr;Hong Kong Mass Transit Railway;Metro
 nldam;Amsterdam Metro;Metro
 nldrm;Rotterdam Metro;Metro
+polwm;Metro w Warszawie;Metro
 sgpmrt;Singapore Mass Rapid Transit;Metro
 usabmsl;Baltimore Metro SubwayLink;Metro
 usambta;MBTA Subway;Metro
@@ -279,6 +287,21 @@ nldat;Amsterdam Trams;Tram
 nldht;Den Haag Trams;Tram
 nldrt;Rotterdam Trams;Tram
 nldut;Utrecht Trams;Tram
+polbt;Tramwaje w Bydgoszczy;Tram
+polct;Tramwaje w Częstochowie;Tram
+polet;Tramwaje w Elblągu;Tram
+polgdt;Tramwaje w Gdańsku;Tram
+polgwt;Tramwaje w Gorzowie Wielkopolskim;Tram
+polgrt;Tramwaje w Grudziądzu;Tram
+polkt;Tramwaje w Krakowie;Tram
+pollt;Tramwaje w Łodzi;Tram
+polot;Tramwaje w Olsztynie;Tram
+polpt;Tramwaje w Poznaniu;Tram
+polslt;Tramwaje Śląskie;Tram
+polszt;Tramwaje w Szczecinie;Tram
+poltt;Tramwaje w Toruniu;Tram
+polwt;Tramwaje w Warszawie;Tram
+polwrt;Tramwaje we Wrocławiu;Tram
 svkedb;Električková_doprava v Bratislave;Tram
 svkedk;Električková_doprava v Košiciach;Tram
 svktez;Trenčianska elektrická železnica;Tram
