@@ -1,8 +1,8 @@
 systemName;route;banner;groupName;roots
-deuhbs;RS1;;;deuhb.rs01blu,deuhb.rs01,deuns.rs01;
-deuhbs;RS2;;;deuhb.rs02bre,deuns.rs02,deuhb.rs02,deuns.rs02twi
-deuhbs;RS3;;;deuns.rs03,deuhb.rs03
-deuhbs;RS3;;Bad Swischenahn branch;deuns.rs03bad
-deuhbs;RS4;;;deuns.rs04,deuhb.rs04
-deuhbs;RS6;;;deuns.rs06
-deuhbs;RS30;;;deuns.rs30,deuhb.rs30
+deuhbs;RS1;;;deuhb.rs01blu,deuhb.rs01,deuni.rs01
+deuhbs;RS2;;;deuhb.rs02bre,deuni.rs02,deuhb.rs02,deuni.rs02twi
+deuhbs;RS3;;;deuni.rs03,deuhb.rs03
+deuhbs;RS3;;Bad Swischenahn branch;deuni.rs03bad
+deuhbs;RS4;;;deuni.rs04,deuhb.rs04
+deuhbs;RS6;;;deuni.rs06
+deuhbs;RS30;;;deuni.rs30,deuhb.rs30

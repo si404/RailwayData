@@ -1,9 +1,9 @@
 systemName;route;banner;groupName;roots
-chebet;S14;;Arg;;che.s14arg
-chebet;S23;;Arg;;che.s23arg
-chebet;S25;;Arg;;che.s25arg
-chebet;S26;;Arg;;che.s26arg
-chebet;S27;;Arg;;che.s27arg,deubw.s27arg
-chebet;S27;;Kob;Koblenz Dorf branch;che.s27kob
-chebet;S28;;Arg;;che.s28arg
-chebet;S29;;Arg;;che.s29arg
+cheags;S14;;;che.s14arg
+cheags;S23;;;che.s23arg
+cheags;S25;;;che.s25arg
+cheags;S26;;;che.s26arg
+cheags;S27;;;che.s27arg,deubw.s27arg
+cheags;S27;;Koblenz Dorf branch;che.s27kob
+cheags;S28;;;che.s28arg
+cheags;S29;;;che.s29arg

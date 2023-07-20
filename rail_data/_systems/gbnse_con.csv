@@ -17,10 +17,10 @@ gbnse;NKentLn;;North Kent Line;eng.nkentln
 gbnse;WooLn;;Woolwich Line;eng.wooln
 gbnse;BexLn;;Bexleyheath Line;eng.bexln
 gbnse;SidLn;;Sidcup Line (Gravesend);eng.sidln
-gbnse;SidLn;;Sidcup Line (Lewisham);eng.sidlnlew;
+gbnse;SidLn;;Sidcup Line (Lewisham);eng.sidlnlew
 gbnse;GroPkLn;;Grove Park Line (Cannon Street);eng.gropkln
-gbnse;GroPkLn;;Grove Park Line (Lewisham);eng.gropklnlew;
+gbnse;GroPkLn;;Grove Park Line (Lewisham);eng.gropklnlew
 gbnse;HayLn;;Hayes Line;eng.hayln
-gbnse;HayLn;;Hayes Line (Lewisham);eng.haylnlew;
+gbnse;HayLn;;Hayes Line (Lewisham);eng.haylnlew
 gbnse;BroSLn;;Bromley South Line;eng.brosln
 gbnse;BroNLn;;Bromley North Line;eng.bronln

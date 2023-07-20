@@ -1,7 +1,7 @@
 systemName;route;banner;groupName;roots
-czetos;1;;Ost;;cze.01ost
-czetos;2;;Ost;;cze.02ost
-czetos;3;;Ost;;cze.03ost
+czetos;1;;;cze.01ost
+czetos;2;;;cze.02ost
+czetos;3;;;cze.03ost
 czetos;X3;;;cze.x3ost
 czetos;4;;;cze.04ost
 czetos;5;;;cze.05ost

@@ -1,5 +1,5 @@
 systemName;route;banner;groupName;roots
 gbnxr;EliLn;;Elizabeth Line;eng.eliln
-gbnxr;EliLn;;Elizabeth Line (Reading branch);eng.elilnrea
-gbnxr;EliLn;;Elizabeth Line (Heathrow Terminal 5 branch);eng.elilnhea
+gbnxr;EliLn;;Elizabeth Line (Heathrow branch);eng.elilnhea
+gbnxr;EliLn;;Elizabeth Line (Heathrow Terminal 5 branch);eng.elilnht5
 gbnxr;EliLn;;Elizabeth Line (Shenfield branch);eng.elilnshe

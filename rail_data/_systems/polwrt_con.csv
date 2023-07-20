@@ -1,6 +1,6 @@
 systemName;route;banner;groupName;roots
 polwrt;0L;;;pol.0lwro
-polwrt;0P;;pol.0pwro
+polwrt;0P;;;pol.0pwro
 polwrt;1;;;pol.01wro
 polwrt;2;;;pol.02wro
 polwrt;3;;;pol.03wro
@@ -10,7 +10,7 @@ polwrt;6;;;pol.06wro
 polwrt;7;;;pol.07wro
 polwrt;8;;;pol.08wro
 polwrt;9;;;pol.09wro
-polwrt;10;;;;pol.10wro
+polwrt;10;;;pol.10wro
 polwrt;11;;;pol.11wro
 polwrt;14;;;pol.14wro
 polwrt;15;;;pol.15wro

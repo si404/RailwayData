@@ -1,3 +1,3 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-usamtlr;MN;BlueLine;;;;BlueLine;
-usamtlr;MN;GreenLine;;;;GreenLine;
+usamtlr;MN;BlueLine;;;Blue Line;mn.blueline;
+usamtlr;MN;GreenLine;;;Green Line;mn.greenline;

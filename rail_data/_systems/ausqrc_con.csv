@@ -1,2 +1,15 @@
 systemName;route;banner;groupName;roots
-gbrxx;Line;;name;eng.
+ausqrc;AirLn;;Airport line;ausqld.airln
+ausqrc;BeeLn;;Beenleigh line;ausqld.beeln
+ausqrc;CabLn;;Caboolture line;ausqld.cabln
+ausqrc;CleLn;;Cleveland line;ausqld.cleln
+ausqrc;DooLn;;Doomben line;ausqld.dooln
+ausqrc;ExhLn;;Exhibition line;ausqld.exhln
+ausqrc;FGLn;;Ferny Grove line;ausqld.fgln
+ausqrc;GCLn;;Gold Coast line;ausqld.gcln
+ausqrc;IpsLn;;Ipswich line;ausqld.ipsln
+ausqrc;RosLn;;Rosewood line;ausqld.rosln
+ausqrc;RPLn;;Redcliffe Peninsula line;ausqld.rpln
+ausqrc;SCLn;;Sunshine Coast line;ausqld.scln
+ausqrc;ShoLn;;Shorncliffe line;ausqld.sholn
+ausqrc;SprLn;;Springfield line;ausqld.sprln

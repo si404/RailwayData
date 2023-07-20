@@ -91,7 +91,7 @@ deurns;DEU;S-Bahn Rhein-Neckar;TMgreen;2;preview
 deuros;DEU;S-Bahn Rostock;TMgreen;2;preview
 deurrs;DEU;S-Bahn Rhein-Ruhr;TMgreen;2;preview
 deuss;DEU;S-Bahn Stuttgart;TMgreen;2;preview
-deuulrs;DEU;Regio-S-Bahn Donau-Iller
+deuulrs;DEU;Regio-S-Bahn Donau-Iller;TMgreen;2;preview
 deubu;DEU;U-Bahn Berlin;TMblue;3;preview
 deubisb;DEU;Stadtbahn Bielefeld;TMblue;3;preview
 deucc;DEU;City-Bahn Chemnitz;TMblue;3;preview
@@ -145,7 +145,7 @@ deuult;DEU;Straßenbahn Ulm;TMred;4;preview
 deuwut;DEU;Straßenbahn Würzburg;TMred;4;preview
 deuzt;DEU;Straßenbahn Zwickau;TMred;4;preview
 deuddb;DEU;Bergbahnen Dresden;TMYellow;5;preview
-deunwh;DEU;Hängebahn;Peoplemover
+deunwh;DEU;Hängebahn;Peoplemover;TMYellow;5;preview
 espca;ESP;Cercanías Asturias;TMgreen;2;preview
 espcc;ESP;Cercanías Cádiz;TMgreen;2;preview
 espcm;ESP;Cercanías Madrid;TMgreen;2;preview
@@ -176,7 +176,7 @@ espmlm;ESP;Metro Ligero de Madrid;TMred;4;preview
 espta;ESP;TRAM metropolita d'Alicant;TMred;4;preview
 esptb;ESP;TRAM Barcelona;TMred;4;preview
 esptbc;ESP;TRAMBahía de Cádiz;TMred;4;preview
-esptmu;ESP;Tranvia de Murcia;TMred;4;preview 
+esptmu;ESP;Tranvia de Murcia;TMred;4;preview
 espts;ESP;Metrocentro de Sevilla;TMred;4;preview
 esptt;ESP;Tranvía de Tenerife;TMred;4;preview
 esptz;ESP;Tranvía de Zaragoza;TMred;4;preview
@@ -226,8 +226,8 @@ fralhf;FRA;Funicular de Havre;TMYellow;5;preview
 fralyf;FRA;Lyon Funiculars;TMYellow;5;preview
 frattp;FRA;Toulouse Téléphérique urbain Téléo;TMYellow;5;preview
 fraval;FRA;Véhicule Automatique Léger;TMYellow;5;preview
-gbncs;Caledonian Sleeper;TMgray;1;preview
-gbngc;Great Central;TMgray;1;preview
+gbncs;GBR;Caledonian Sleeper;TMgray;1;preview
+gbngc;GBR;Great Central;TMgray;1;preview
 gbngx;GBR;Gatwick Express;TMgray;1;preview
 gbnht;GBR;Hull Trains;TMgray;1;preview
 gbnhx;GBR;Heathrow Express;TMgray;1;preview
@@ -244,27 +244,6 @@ gbntp;GBR;TransPennine Express;TMgreen;2;preview
 gbnwm;GBR;West Midlands Railway;TMgreen;2;preview
 gbnxr;GBR;Elizabeth Line;TMgreen;2;preview
 irlnir;GBR;NI Railways;TMgreen;2;preview
-itafl;Ferrovie Laziali;TMgreen;2;preview
-itanf;Ferrovie flegree di Napoli;TMgreen;2;preview
-itanr;Ferrovie regionali di Napoli;TMgreen;2;preview
-itans;Ferrovie suburbane di Napoli;TMgreen;2;preview
-itanv;Ferrovie vesuviane di Napoli;TMgreen;2;preview
-itagu;Servizio ferroviario urbano di Genova;TMgreen;2;preview
-itams;Servizio ferroviario suburbano di Milano;TMgreen;2;preview
-itatfm;Servizio ferroviario metropolitano di Torino;TMgreen;2;preview
-itafc;Ferrovie urbana Roma;TMblue;3;preview
-itagm;Metropolitana di Genova;TMblue;3;preview
-itamm;Metropolitana di Milano;TMblue;3;preview
-itanm;Metropolitana di Napoli;TMblue;3;preview
-itarm;Metropolitana di Roma;TMblue;3;preview
-itatm;Metropolitana di Torino;TMblue;3;preview
-itart;Tranviaria di Roma;TMred;4;preview
-itamt;Tranviaria di Milano;TMred;4;preview
-itant;Tranviaria di Napoli;TMred;4;preview
-itatt;Tranviaria di Torino;TMred;4;preview
-itagf;Funicolari di Genova;TMYellow;5;preview
-itanfc;Funicolari di Napoli;TMYellow;5;preview
-itanfv;Funivie di Castellammare;TMYellow;5;preview
 gbndlr;GBR;Docklands Light Railway;TMblue;3;preview
 gbngs;GBR;Glasgow Subway;TMblue;3;preview
 gbnlu;GBR;London Underground;TMblue;3;preview
@@ -283,14 +262,35 @@ gbnhprt;GBR;Heathrow Personal Rapid Transit;TMYellow;5;preview
 gbnht5t;GBR;Heathrow Terminal 5 Transit;TMYellow;5;preview
 gbnlcc;GBR;London Cable Car;TMYellow;5;preview
 gbnstts;GBR;Stansted Airport Tracked Transit System;TMYellow;5;preview
-hkgmtr;HGK;Hong Kong Mass Transit Railway;TMblue;3;preview
-hgkhgt;HGK;Hong Kong Tramways;TMred;4;preview
-hgklr;HGK;Hong Kong Light Rail;TMred;4;preview
-hgkngcc;HGK;Ngong Ping Cable Car;TMYellow;5;preview
-hgkop;HGK;Ocean Park Transport;People Mover
-hgkpt;HGK;Peak Tram;TMYellow;5;preview
+hkgmtr;HKG;Hong Kong Mass Transit Railway;TMblue;3;preview
+hkghgt;HKG;Hong Kong Tramways;TMred;4;preview
+hkglr;HKG;Hong Kong Light Rail;TMred;4;preview
+hkgnpcc;HKG;Ngong Ping Cable Car;TMYellow;5;preview
+hkgop;HKG;Ocean Park Transport;TMYellow;5;preview
+hkgpt;HKG;Peak Tram;TMYellow;5;preview
 iomimr;IOM;Isle of Man Railways;TMred;4;preview
 irlluas;IRL;Luas;TMred;4;preview
+itafl;ITA;Ferrovie Laziali;TMgreen;2;preview
+itanf;ITA;Ferrovie flegree di Napoli;TMgreen;2;preview
+itanr;ITA;Ferrovie regionali di Napoli;TMgreen;2;preview
+itans;ITA;Ferrovie suburbane di Napoli;TMgreen;2;preview
+itanv;ITA;Ferrovie vesuviane di Napoli;TMgreen;2;preview
+itagu;ITA;Servizio ferroviario urbano di Genova;TMgreen;2;preview
+itams;ITA;Servizio ferroviario suburbano di Milano;TMgreen;2;preview
+itatfm;ITA;Servizio ferroviario metropolitano di Torino;TMgreen;2;preview
+itafc;ITA;Ferrovie urbana Roma;TMblue;3;preview
+itagm;ITA;Metropolitana di Genova;TMblue;3;preview
+itamm;ITA;Metropolitana di Milano;TMblue;3;preview
+itanm;ITA;Metropolitana di Napoli;TMblue;3;preview
+itarm;ITA;Metropolitana di Roma;TMblue;3;preview
+itatm;ITA;Metropolitana di Torino;TMblue;3;preview
+itart;ITA;Tranviaria di Roma;TMred;4;preview
+itamt;ITA;Tranviaria di Milano;TMred;4;preview
+itant;ITA;Tranviaria di Napoli;TMred;4;preview
+itatt;ITA;Tranviaria di Torino;TMred;4;preview
+itagf;ITA;Funicolari di Genova;TMYellow;5;preview
+itanfc;ITA;Funicolari di Napoli;TMYellow;5;preview
+itanfv;ITA;Funivie di Castellammare;TMYellow;5;preview
 nldam;NLD;Amsterdam Metro;TMblue;3;preview
 nldrm;NLD;Rotterdam Metro;TMblue;3;preview
 nldat;NLD;Amsterdam Trams;TMred;4;preview
@@ -333,7 +333,7 @@ usacndx;USA;CTrail;TMgreen;2;preview
 usalirr;USA;Long Island Rail Road;TMgreen;2;preview
 usamarc;USA;MARC Train;TMgreen;2;preview
 usambtx;USA;MBTA Commuter Rail;TMgreen;2;preview
-usamncr;USA;TMblue;3;preview-North;TMgreen;2;preview
+usamncr;USA;Metro-North;TMgreen;2;preview
 usanjtr;USA;NJ Transit Rail;TMgreen;2;preview
 usasepa;USA;SEPTA Regional Rail;TMgreen;2;preview
 usavrex;USA;Virginia Railway Express;TMgreen;2;preview
@@ -346,7 +346,7 @@ usapath;USA;Port Authority Trans-Hudson Railroad;TMblue;3;preview
 usasir;USA;Staten Island Railway;TMblue;3;preview
 usawmat;USA;Washington Metro;TMblue;3;preview
 usablrl;USA;Baltimore Light RailLink;TMred;4;preview
-usabufmr;USA;Buffalo Metro Rail;TMred;4;previews
+usabufmr;USA;Buffalo Metro Rail;TMred;4;preview
 usadcsc;USA;DC Streetcar;TMred;4;preview
 usahblr;USA;Hudson-Bergen Light Rail;TMred;4;preview
 usalynx;USA;LYNX;TMred;4;preview

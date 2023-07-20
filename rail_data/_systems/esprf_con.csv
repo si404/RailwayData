@@ -1,7 +1,7 @@
 systemName;route;banner;groupName;roots
 esprf;R1;f;;espga.r1f,espas.r1f
 esprf;R1a;f;;espga.r1af
-esprf;R1b;f;;espas.r1f
+esprf;R1b;f;;espas.r1bf
 esprf;R2;f;;espas.r2f,espcb.r2f
 esprf;R2a;f;;espas.r2af
 esprf;R3;f;;espcb.r3f,esppv.r3f
@@ -14,7 +14,7 @@ esprf;C6;f;Asturias;espas.c6f
 esprf;C7;f;Asturias;espas.c7f
 esprf;C8;f;Asturias;espas.c8f
 esprf;C9;f;Asturias;espas.c9f
-esprf;C4;f;Murcia/Alicante;espmc.c1f
+esprf;C4;f;Murcia~Alicante;espmc.c4f
 esprf;C4;f;Bilbao;esppv.c4f
 esprf;C1;f;Ferrol;espga.c1f
 esprf;C1;f;Leon;espcl.c1f

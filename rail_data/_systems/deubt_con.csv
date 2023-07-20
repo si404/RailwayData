@@ -3,7 +3,7 @@ deubt;M1;;;deube.m01
 deubt;M1;;Niederschönhausen;deube.m01nei
 deubt;M2;;;deube.m02
 deubt;M3;;;deube.m04
-deubt;M4;;;Hohenschoenhausen;deube.m04hoh
+deubt;M4;;Hohenschoenhausen;deube.m04hoh
 deubt;M5;;;deube.m05
 deubt;M6;;;deube.m06
 deubt;M8;;;deube.m08
@@ -28,9 +28,9 @@ deubt;88;;;deube.88sch,deubb.88sch
 deubt;89;;;deube.89str
 deubt;91;;;deubb.91pot
 deubt;91;;Charlottenhof;deubb.91cha
-deubt;92;;;;deubb.92pot
-deubt;93;;;;deubb.93pot
-deubt;94;;;;deubb.94pot
-deubt;96;;;;deubb.96pot
-deubt;98;;;;deubb.98pot
-deubt;99;;;;deubb.99pot
+deubt;92;;;deubb.92pot
+deubt;93;;;deubb.93pot
+deubt;94;;;deubb.94pot
+deubt;96;;;deubb.96pot
+deubt;98;;;deubb.98pot
+deubt;99;;;deubb.99pot

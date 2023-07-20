@@ -1,4 +1,4 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-deuros;DEU-MP;S1;;;;deump.s01;
-deuros;DEU-MP;S2;;;;deump.s02;
-deuros;DEU-MP;S3;;;;deump.s03;
+deuros;DEU-MV;S1;;;;deumv.s01;
+deuros;DEU-MV;S2;;;;deumv.s02;
+deuros;DEU-MV;S3;;;;deumv.s03;

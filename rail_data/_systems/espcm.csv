@@ -9,7 +9,7 @@ espcm;ESP-MD;C4b;;;;espmd.c4b;
 espcm;ESP-MD;C5;;;;espmd.c5;
 espcm;ESP-MD;C7;;;;espmd.c7;
 espcm;ESP-MD;C8;;;;espmd.c8;
-espcm;ESP-CM;C8;;;;espmd.c8;
+espcm;ESP-CM;C8;;;;espcm.c8;
 espcm;ESP-CL;C9;;;;espcl.c9;
 espcm;ESP-MD;C9;;;;espmd.c9;
 espcm;ESP-MD;C10;;;;espmd.c10;

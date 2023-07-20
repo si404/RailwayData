@@ -1,7 +1,7 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-deurot;DEU-MP;1;;Ros;;deump.01ros;
-deurot;DEU-MP;2;;Ros;;deump.02ros;
-deurot;DEU-MP;3;;Ros;;deump.03ros;
-deurot;DEU-MP;4;;Ros;;deump.04ros;
-deurot;DEU-MP;5;;Ros;;deump.05ros;
-deurot;DEU-MP;6;;Ros;;deump.06ros;
+deurot;DEU-MV;1;;Ros;;deumv.01ros;
+deurot;DEU-MV;2;;Ros;;deumv.02ros;
+deurot;DEU-MV;3;;Ros;;deumv.03ros;
+deurot;DEU-MV;4;;Ros;;deumv.04ros;
+deurot;DEU-MV;5;;Ros;;deumv.05ros;
+deurot;DEU-MV;6;;Ros;;deumv.06ros;

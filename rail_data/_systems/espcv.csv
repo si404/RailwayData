@@ -1,8 +1,8 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-espcv;ESP-AN;C1;;;;espvc.c1;
-espcv;ESP-AN;C1;;Gan;Gandia;espvc.c1gan;
-espcv;ESP-AN;C2;;;;espvc.c2;
-espcv;ESP-AN;C3;;;;espvc.c3;
-espcv;ESP-AN;C4;;;;espvc.c4;
-espcv;ESP-AN;C5;;;;espvc.c5;
-espcv;ESP-AN;C6;;;;espvc.c6;
+espcv;ESP-VC;C1;;;;espvc.c1;
+espcv;ESP-VC;C1;;Gan;Gandia;espvc.c1gan;
+espcv;ESP-VC;C2;;;;espvc.c2;
+espcv;ESP-VC;C3;;;;espvc.c3;
+espcv;ESP-VC;C4;;;;espvc.c4;
+espcv;ESP-VC;C5;;;;espvc.c5;
+espcv;ESP-VC;C6;;;;espvc.c6;

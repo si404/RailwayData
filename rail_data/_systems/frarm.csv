@@ -1,3 +1,3 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-frarm;FRA-BRE;ma;;;;frabre.ma
-frarm;FRA-BRE;mb;;;;frabre.mb
+frarm;FRA-BRE;ma;;;;frabre.ma;
+frarm;FRA-BRE;mb;;;;frabre.mb;

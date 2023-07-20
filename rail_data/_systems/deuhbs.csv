@@ -1,17 +1,17 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
 deuhbs;DEU-HB;RS1;;Blu;Blumenthal;deuhb.rs01blu;
-deuhbs;DEU-NS;RS1;;Bec;Beckendorf;deuns.rs01bec;
+deuhbs;DEU-NI;RS1;;Bec;Beckendorf;deuni.rs01bec;
 deuhbs;DEU-HB;RS1;;;Bremen;deuhb.rs01;
-deuhbs;DEU-NS;RS1;;;Verden;deuns.rs01;
+deuhbs;DEU-NI;RS1;;;Verden;deuni.rs01;
 deuhbs;DEU-HB;RS2;;Bre;Bremerhaven;deuhb.rs02bre;
-deuhbs;DEU-NS;RS2;;;Lubberstedt;deuns.rs02;
+deuhbs;DEU-NI;RS2;;;Lubberstedt;deuni.rs02;
 deuhbs;DEU-HB;RS2;;;Bremen;deuhb.rs02;
-deuhbs;DEU-NS;RS2;;Twi;Twistringen;deuns.rs02twi;
-deuhbs;DEU-HB;RS3;;;;deuns.rs03;
+deuhbs;DEU-NI;RS2;;Twi;Twistringen;deuni.rs02twi;
+deuhbs;DEU-NI;RS3;;;;deuni.rs03;
 deuhbs;DEU-HB;RS3;;;;deuhb.rs03;
-deuhbs;DEU-NS;RS3;;Bad;Bad Swischenahn branch;deuns.rs03bad;
-deuhbs;DEU-NS;RS4;;;;deuns.rs04;
+deuhbs;DEU-NI;RS3;;Bad;Bad Swischenahn branch;deuni.rs03bad;
+deuhbs;DEU-NI;RS4;;;;deuni.rs04;
 deuhbs;DEU-HB;RS4;;;;deuhb.rs04;
-deuhbs;DEU-NS;RS6;;;;deuns.rs06;
-deuhbs;DEU-NS;RS30;;;;deuns.rs30;
+deuhbs;DEU-NI;RS6;;;;deuni.rs06;
+deuhbs;DEU-NI;RS30;;;;deuni.rs30;
 deuhbs;DEU-HB;RS30;;;;deuhb.rs30;

@@ -7,6 +7,6 @@ espcm;C4a;;;espmd.c4a
 espcm;C4b;;;espmd.c4b
 espcm;C5;;;espmd.c5
 espcm;C7;;;espmd.c7
-espcm;C8;;;espmd.c8,espmd.c8
+espcm;C8;;;espmd.c8,espcm.c8
 espcm;C9;;;espcl.c9,espmd.c9
 espcm;C10;;;espmd.c10

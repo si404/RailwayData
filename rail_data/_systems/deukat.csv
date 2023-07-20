@@ -1,7 +1,7 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-deukat;DEU-BW;1;;;;deubw.01kar;
-deukat;DEU-BW;2;;;;deubw.02kar;
-deukat;DEU-BW;3;;;;deubw.03kar;
-deukat;DEU-BW;4;;;;deubw.04kar;
-deukat;DEU-BW;5;;;;deubw.05kar;
-deukat;DEU-BW;8;;;;deubw.08kar;
+deukat;DEU-BW;1;;Kar;;deubw.01kar;
+deukat;DEU-BW;2;;Kar;;deubw.02kar;
+deukat;DEU-BW;3;;Kar;;deubw.03kar;
+deukat;DEU-BW;4;;Kar;;deubw.04kar;
+deukat;DEU-BW;5;;Kar;;deubw.05kar;
+deukat;DEU-BW;8;;Kar;;deubw.08kar;

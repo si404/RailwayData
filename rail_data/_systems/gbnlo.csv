@@ -8,6 +8,6 @@ gbnlo;ENG;LVL;;;Lea Valley Line;eng.lvl;
 gbnlo;ENG;LVL;;Chi;Lea Valley Line (Chingford branch);eng.lvlchi;
 gbnlo;ENG;LVL;;Enf;Lea Valley Line (Enfield branch);eng.lvlenf;
 gbnlo;ENG;NLL;;;North London Line;eng.nll;
-gbnlo;ENG;NLL;;;North London Line (Richmond branch);eng.nllric;
+gbnlo;ENG;NLL;;Ric;North London Line (Richmond branch);eng.nllric;
 gbnlo;ENG;RomUpmShu;;;Romford - Upminster Shuttle;eng.romupmshu;
 gbnlo;ENG;WatDC;;;Watford DC Line;eng.watdc;
