@@ -1,0 +1,4 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+itanr;ITA-CAS;2;;Nap;Passante;itacas.02nap;
+itanr;ITA-CAS;2;;Nap;Passante (Caserta branch);itacas.02cas;
+itanr;ITA-CAS;2;;Nap;Passante (Castellammare branch);itacas.02cds;

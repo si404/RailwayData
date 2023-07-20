@@ -1,0 +1,12 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+itafl;ITA-LAZ;FL1;;;;italaz.fl01;
+itafl;ITA-LAZ;FL2;;;;italaz.fl02;
+itafl;ITA-LAZ;FL3;;;;italaz.fl03;
+itafl;ITA-LAZ;FL3;;Vig;Vigna Clara;italaz.fl03vig;
+itafl;ITA-LAZ;FL4;;;;italaz.fl04;
+itafl;ITA-LAZ;FL4;;Alb;Albano Laziale;italaz.fl04alb;
+itafl;ITA-LAZ;FL4;;Fra;Frascati;italaz.fl04fra;
+itafl;ITA-LAZ;FL5;;;;italaz.fl05;
+itafl;ITA-LAZ;FL6;;;;italaz.fl06;
+itafl;ITA-LAZ;FL7;;;;italaz.fl07;
+itafl;ITA-LAZ;FL8;;;;italaz.fl08;

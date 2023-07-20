@@ -1,0 +1,5 @@
+systemName;route;banner;groupName;roots
+itafc;FC1;;Tranvétto;italaz.fc01
+itafc;FC2;;Metromare;italaz.fc02
+itafc;FC3;;Ferrovia Roma-Viterbo (servizio urbano);italaz.fc03urb
+itafc;FC3;;Ferrovia Roma-Viterbo (servizio extraurbano);italaz.fc03ext

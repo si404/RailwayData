@@ -1,0 +1,11 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+itatt;ITA-PIE;3;;Tor;;itapie.03tor;
+itatt;ITA-PIE;4;;Tor;;itapie.04tor;
+itatt;ITA-PIE;7;;Tor;;itapie.07tor;
+itatt;ITA-PIE;9;;Tor;;itapie.09tor;
+itatt;ITA-PIE;9;;Juv;Juventus Stadium branch;itapie.09juv;
+itatt;ITA-PIE;10;;Tor;;itapie.10tor;
+itatt;ITA-PIE;13;;Tor;;itapie.13tor;
+itatt;ITA-PIE;15;;Tor;;itapie.15tor;
+itatt;ITA-PIE;16;;Tor;;itapie.16tor;
+itatt;ITA-PIE;SS;;Tor;La Tranvia a Dentiera Sassi-Superga;itapie.sstor;

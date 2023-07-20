@@ -224,8 +224,10 @@ frafdm;FRA;Funiculaire de Montmartre;TMYellow;5;preview
 fragbt;FRA;Téléphérique de Grenoble Bastille;TMYellow;5;preview
 fralhf;FRA;Funicular de Havre;TMYellow;5;preview
 fralyf;FRA;Lyon Funiculars;TMYellow;5;preview
-frattp;FRA;Toulouse Téléphérique urbain Téléo;People Mover
+frattp;FRA;Toulouse Téléphérique urbain Téléo;TMYellow;5;preview
 fraval;FRA;Véhicule Automatique Léger;TMYellow;5;preview
+gbncs;Caledonian Sleeper;TMgray;1;preview
+gbngc;Great Central;TMgray;1;preview
 gbngx;GBR;Gatwick Express;TMgray;1;preview
 gbnht;GBR;Hull Trains;TMgray;1;preview
 gbnhx;GBR;Heathrow Express;TMgray;1;preview
@@ -242,6 +244,27 @@ gbntp;GBR;TransPennine Express;TMgreen;2;preview
 gbnwm;GBR;West Midlands Railway;TMgreen;2;preview
 gbnxr;GBR;Elizabeth Line;TMgreen;2;preview
 irlnir;GBR;NI Railways;TMgreen;2;preview
+itafl;Ferrovie Laziali;TMgreen;2;preview
+itanf;Ferrovie flegree di Napoli;TMgreen;2;preview
+itanr;Ferrovie regionali di Napoli;TMgreen;2;preview
+itans;Ferrovie suburbane di Napoli;TMgreen;2;preview
+itanv;Ferrovie vesuviane di Napoli;TMgreen;2;preview
+itagu;Servizio ferroviario urbano di Genova;TMgreen;2;preview
+itams;Servizio ferroviario suburbano di Milano;TMgreen;2;preview
+itatfm;Servizio ferroviario metropolitano di Torino;TMgreen;2;preview
+itafc;Ferrovie urbana Roma;TMblue;3;preview
+itagm;Metropolitana di Genova;TMblue;3;preview
+itamm;Metropolitana di Milano;TMblue;3;preview
+itanm;Metropolitana di Napoli;TMblue;3;preview
+itarm;Metropolitana di Roma;TMblue;3;preview
+itatm;Metropolitana di Torino;TMblue;3;preview
+itart;Tranviaria di Roma;TMred;4;preview
+itamt;Tranviaria di Milano;TMred;4;preview
+itant;Tranviaria di Napoli;TMred;4;preview
+itatt;Tranviaria di Torino;TMred;4;preview
+itagf;Funicolari di Genova;TMYellow;5;preview
+itanfc;Funicolari di Napoli;TMYellow;5;preview
+itanfv;Funivie di Castellammare;TMYellow;5;preview
 gbndlr;GBR;Docklands Light Railway;TMblue;3;preview
 gbngs;GBR;Glasgow Subway;TMblue;3;preview
 gbnlu;GBR;London Underground;TMblue;3;preview

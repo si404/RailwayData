@@ -1,0 +1,5 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+itanfc;ITA-CAM;A;;;Centrale;itacam.a;
+itanfc;ITA-CAM;B;;;Di Chiaia;itacam.b;
+itanfc;ITA-CAM;C;;;Di Montesanto;itacam.c;
+itanfc;ITA-CAM;D;;;Di Mergellina;itacam.d;

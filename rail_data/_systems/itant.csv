@@ -1,0 +1,4 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+itant;ITA-CAM;Tram1;;;;itacam.tram1;
+itant;ITA-CAM;Tram2;;;;itacam.tram2;
+itant;ITA-CAM;Tram4;;;;itacam.tram4;

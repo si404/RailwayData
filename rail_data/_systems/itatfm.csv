@@ -1,0 +1,11 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+itatfm;ITA-PIE;SFM1;;;;itapie.sfm01;
+itatfm;ITA-PIE;SFM2;;;;itapie.sfm02;
+itatfm;FRA-ARA;SFM3;;;;fraara.sfm03;
+itatfm;ITA-PIE;SFM3;;;;itapie.sfm03;
+itatfm;ITA-PIE;SFM3;;Sus;Susa branch;itapie.sfm03sus;
+itatfm;ITA-PIE;SFM4;;;;itapie.sfm04;
+itatfm;ITA-PIE;SFM6;;;;itapie.sfm06;
+itatfm;ITA-PIE;SFM7;;;;itapie.sfm07;
+itatfm;ITA-PIE;SFMA;;;;itapie.sfm0a;
+itatfm;ITA-PIE;SFMB;;;;itapie.sfm0b;

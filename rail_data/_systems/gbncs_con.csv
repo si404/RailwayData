@@ -1,0 +1,6 @@
+systemName;route;banner;groupName;roots
+gbncs;HigSle;;Highland Sleeper;eng.higsle,sct.higsle
+gbncs;HigSle;;Highland Sleeper (Aberdeen portion);sct.higsleabe
+gbncs;HigSle;;Highland Sleeper (Inverness portion);sct.higsleinv
+gbncs;LowSle;;Lowland Sleeper;eng.higsle,sct.higsle
+gbncs;LowSle;;Lowland Sleeper (Edinburgh portion);sct.higsleedi

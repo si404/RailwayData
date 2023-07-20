@@ -1,0 +1,14 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+itams;ITA-LOM;S1;;;;italom.s01;
+itams;ITA-LOM;S2;;;;italom.s02;
+itams;ITA-LOM;S3;;;;italom.s03;
+itams;ITA-LOM;S4;;;;italom.s04;
+itams;ITA-LOM;S5;;;;italom.s05;
+itams;ITA-LOM;S6;;;;italom.s06;
+itams;ITA-LOM;S7;;;;italom.s07;
+itams;ITA-LOM;S8;;;;italom.s08;
+itams;ITA-LOM;S9;;;;italom.s09;
+itams;CHE;S11;;Mil;Milano;che.s11mil;
+itams;ITA-LOM;S11;;;;italom.s11;
+itams;ITA-LOM;S12;;;;italom.s12;
+itams;ITA-LOM;S13;;;;italom.s13;
