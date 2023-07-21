@@ -1,4 +1,4 @@
 systemName;route;banner;groupName;roots
-gbnhprt;HPRT;5A;Heathrow PRT (Terminal 5 - Parking A);eng.hprta
-gbnhprt;HPRT;5B;Heathrow PRT (Terminal 5 - Parking B);eng.hprtb
+gbnhprt;HPRT;5A;Heathrow PRT (Terminal 5 - Parking A);eng.hprt5a
+gbnhprt;HPRT;5B;Heathrow PRT (Terminal 5 - Parking B);eng.hprt5b
 gbnhprt;HPRT;AB;Heathrow PRT (Parking A - Parking B);eng.hprtab

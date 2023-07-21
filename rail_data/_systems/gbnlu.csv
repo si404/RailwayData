@@ -7,7 +7,7 @@ gbnlu;ENG;CirLn;;;Circle Line;eng.cirln;
 gbnlu;ENG;DisLn;;;District Line;eng.disln;
 gbnlu;ENG;DisLn;;Eal;District Line (Ealing branch);eng.dislneal;
 gbnlu;ENG;DisLn;;Wim;District Line (Wimbledon - Edgware Road);eng.dislnwim;
-gbnlu;ENG;DisLn;;Oly;District Line (Olympia branch);eng.olyln;
+gbnlu;ENG;DisLn;;Oly;District Line (Olympia branch);eng.dislnoly;
 gbnlu;ENG;HaCLn;;;Hammersmith & City Line;eng.hacln;
 gbnlu;ENG;JubLn;;;Jubilee Line;eng.jubln;
 gbnlu;ENG;MetLn;;;Metropolitan Line;eng.metln;

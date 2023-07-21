@@ -1,8 +1,8 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-svkdzb;SVK;S8;;;;svk.s08;
-svkdzb;SVK;S20;;;;svk.s20;
-svkdzb;SVK;S50;;;;svk.s50;
-svkdzb;SVK;S55;;;;svk.s55;
-svkdzb;SVK;S60;;;;svk.s60;
-svkdzb;SVK;S65;;;;svk.s65;
-svkdzb;SVK;S70;;;;svk.s70;
+svkzdb;SVK;S8;;;;svk.s08;
+svkzdb;SVK;S20;;;;svk.s20;
+svkzdb;SVK;S50;;;;svk.s50;
+svkzdb;SVK;S55;;;;svk.s55;
+svkzdb;SVK;S60;;;;svk.s60;
+svkzdb;SVK;S65;;;;svk.s65;
+svkzdb;SVK;S70;;;;svk.s70;

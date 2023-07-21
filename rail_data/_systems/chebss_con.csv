@@ -1,8 +1,8 @@
 systemName;route;banner;groupName;roots
-chebss;S1;;;che.s01ber
+chebss;S1;;;che.s01bas
 chebss;S1;;Frick branch;che.s01fri
-chebss;S3;;;che.s03ber
-chebss;S5;;;che.s06ber
-chebss;S6;;;deubw.s06ber
-chebss;S6;;;che.s06ber
-chebss;S9;;;che.s09ber
+chebss;S3;;;che.s03bas
+chebss;S5;;;deubw.s05bas
+chebss;S6;;;deubw.s06bas
+chebss;S6;;;che.s06bas
+chebss;S9;;;che.s09bas

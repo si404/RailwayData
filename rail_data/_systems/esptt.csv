@@ -1,3 +1,3 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-esptt;ESP-CN;T1;;;;espcn.t1;
-esptt;ESP-CN;T2;;;;espcn.t2;
+esptt;ESP-CN;L1;;;;espcn.l1;
+esptt;ESP-CN;L2;;;;espcn.l2;

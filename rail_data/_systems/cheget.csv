@@ -1,7 +1,7 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-cheget;CHE;12;;Gen;;che.03gen;
-cheget;CHE;14;;Gen;;che.06gen;
-cheget;CHE;15;;Gen;;che.07gen;
-cheget;CHE;17;;Gen;;che.08gen;
-cheget;FRA-ARA;17;;Gen;;fraara.08gen;
-cheget;CHE;18;;Gen;;che.09gen;
+cheget;CHE;12;;Gen;;che.12gen;
+cheget;CHE;14;;Gen;;che.14gen;
+cheget;CHE;15;;Gen;;che.15gen;
+cheget;CHE;17;;Gen;;che.17gen;
+cheget;FRA-ARA;17;;Gen;;fraara.17gen;
+cheget;CHE;18;;Gen;;che.18gen;

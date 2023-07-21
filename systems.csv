@@ -145,7 +145,7 @@ deuult;DEU;Straßenbahn Ulm;TMred;4;preview
 deuwut;DEU;Straßenbahn Würzburg;TMred;4;preview
 deuzt;DEU;Straßenbahn Zwickau;TMred;4;preview
 deuddb;DEU;Bergbahnen Dresden;TMYellow;5;preview
-deunwh;DEU;Hängebahn;Peoplemover;TMYellow;5;preview
+deunwh;DEU;Hängebahn;TMYellow;5;preview
 espca;ESP;Cercanías Asturias;TMgreen;2;preview
 espcc;ESP;Cercanías Cádiz;TMgreen;2;preview
 espcm;ESP;Cercanías Madrid;TMgreen;2;preview
@@ -262,13 +262,13 @@ gbnhprt;GBR;Heathrow Personal Rapid Transit;TMYellow;5;preview
 gbnht5t;GBR;Heathrow Terminal 5 Transit;TMYellow;5;preview
 gbnlcc;GBR;London Cable Car;TMYellow;5;preview
 gbnstts;GBR;Stansted Airport Tracked Transit System;TMYellow;5;preview
-hkgmtr;HKG;Hong Kong Mass Transit Railway;TMblue;3;preview
-hkghgt;HKG;Hong Kong Tramways;TMred;4;preview
-hkglr;HKG;Hong Kong Light Rail;TMred;4;preview
-hkgnpcc;HKG;Ngong Ping Cable Car;TMYellow;5;preview
-hkgop;HKG;Ocean Park Transport;TMYellow;5;preview
-hkgpt;HKG;Peak Tram;TMYellow;5;preview
-iomimr;IOM;Isle of Man Railways;TMred;4;preview
+hkgmtr;CHN;Hong Kong Mass Transit Railway;TMblue;3;preview
+hkghkt;CHN;Hong Kong Tramways;TMred;4;preview
+hkglr;CHN;Hong Kong Light Rail;TMred;4;preview
+hkgnpcc;CHN;Ngong Ping Cable Car;TMYellow;5;preview
+hkgop;CHN;Ocean Park Transport;TMYellow;5;preview
+hkgpt;CHN;Peak Tram;TMYellow;5;preview
+imnimr;IMN;Isle of Man Railways;TMred;4;preview
 irlluas;IRL;Luas;TMred;4;preview
 itafl;ITA;Ferrovie Laziali;TMgreen;2;preview
 itanf;ITA;Ferrovie flegree di Napoli;TMgreen;2;preview
