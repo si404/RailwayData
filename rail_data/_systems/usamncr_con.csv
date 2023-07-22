@@ -1,9 +1,9 @@
 systemName;route;banner;groupName;roots
 usamncr;HarLn;;Harlem Line (inner zone);ny.harlninn
 usamncr;HarLn;;Harlem Line (outer zone);ny.harlnout
+usamncr;HarLn;;Harlem Line (Wassaic);ny.harlnwas
 usamncr;HudLn;;Hudson Line (inner zone);ny.hudlninn
 usamncr;HudLn;;Hudson Line (outer zone);ny.hudlnout
-usamncr;HudLn;;Hudson Line (Wassaic Line);ny.hudlnwas
 usamncr;NewHavLn;;New Haven Line (inner zone);ny.newhavlninn,ct.newhavlninn
 usamncr;NewHavLn;;New Haven Line (outer zone);ny.newhavlnout,ct.newhavlnout
 usamncr;NewHavLn;;New Haven Line (New Canaan Branch);ct.newhavlncan
