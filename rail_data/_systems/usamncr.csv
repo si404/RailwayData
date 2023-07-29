@@ -1,9 +1,9 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
 usamncr;NY;HarLn;;Inn;Harlem Line (inner zone);ny.harlninn;
 usamncr;NY;HarLn;;Out;Harlem Line (outer zone);ny.harlnout;
+usamncr;NY;HarLn;;Was;Harlem Line (Wassaic);ny.harlnwas;
 usamncr;NY;HudLn;;Inn;Hudson Line (inner zone);ny.hudlninn;
 usamncr;NY;HudLn;;Out;Hudson Line (outer zone);ny.hudlnout;
-usamncr;NY;HudLn;;Was;Hudson Line (Wassaic Line);ny.hudlnwas;
 usamncr;NY;NewHavLn;;Inn;New Haven Line (inner zone);ny.newhavlninn;
 usamncr;CT;NewHavLn;;Inn;New Haven Line (inner zone);ct.newhavlninn;
 usamncr;NY;NewHavLn;;Out;New Haven Line (outer zone);ny.newhavlnout;
