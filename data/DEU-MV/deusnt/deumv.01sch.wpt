@@ -10,7 +10,7 @@ PlaJug http://www.openstreetmap.org/?lat=53.621421&lon=11.408873
 +X28 http://www.openstreetmap.org/?lat=53.619679&lon=11.407607
 Ost http://www.openstreetmap.org/?lat=53.613679&lon=11.416015
 Gar http://www.openstreetmap.org/?lat=53.606496&lon=11.424960
-+SKIP_Blu http://www.openstreetmap.org/?lat=53.603205&lon=11.425695
+SKIP_Blu http://www.openstreetmap.org/?lat=53.603205&lon=11.425695
 StaStr http://www.openstreetmap.org/?lat=53.603434&lon=11.428678
 DreMar http://www.openstreetmap.org/?lat=53.603326&lon=11.433431
 Zoo http://www.openstreetmap.org/?lat=53.601995&lon=11.441445
