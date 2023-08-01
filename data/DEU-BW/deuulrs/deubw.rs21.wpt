@@ -4,7 +4,7 @@ UlmDon http://www.openstreetmap.org/?lat=48.366402&lon=9.940406
 Erb http://www.openstreetmap.org/?lat=48.325577&lon=9.894755
 LauWest http://www.openstreetmap.org/?lat=48.230469&lon=9.847966
 LauSta http://www.openstreetmap.org/?lat=48.233485&lon=9.878404
-+SKIP_LauWest http://www.openstreetmap.org/?lat=48.230469&lon=9.847966
+SKIP_LauWest http://www.openstreetmap.org/?lat=48.230469&lon=9.847966
 SchBurg http://www.openstreetmap.org/?lat=48.189426&lon=9.829113
 DIV_Her http://www.openstreetmap.org/?lat=48.135413&lon=9.804204
 WartHau http://www.openstreetmap.org/?lat=48.129382&lon=9.801368
