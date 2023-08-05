@@ -1,5 +1,5 @@
-SHT http://www.openstreetmap.org/?lat=22.383021&lon=114.187818
-+X650710 http://www.openstreetmap.org/?lat=22.393806&lon=114.197329
-RAC http://www.openstreetmap.org/?lat=22.400425&lon=114.202945
-+X173450 http://www.openstreetmap.org/?lat=22.404527&lon=114.206062
-UNI http://www.openstreetmap.org/?lat=22.413578&lon=114.210112
+ShaTin +SHT http://www.openstreetmap.org/?lat=22.383021&lon=114.187818
+DIV_RacS http://www.openstreetmap.org/?lat=22.393806&lon=114.197329
+Rac http://www.openstreetmap.org/?lat=22.400425&lon=114.202945
+DIV_RacN http://www.openstreetmap.org/?lat=22.404527&lon=114.206062
+Uni http://www.openstreetmap.org/?lat=22.413578&lon=114.210112

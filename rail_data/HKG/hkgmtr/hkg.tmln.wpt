@@ -1,32 +1,35 @@
-WKS http://www.openstreetmap.org/?lat=22.429163&lon=114.244004
-MOS http://www.openstreetmap.org/?lat=22.424859&lon=114.231677
-HEO http://www.openstreetmap.org/?lat=22.417629&lon=114.225744
-TSH http://www.openstreetmap.org/?lat=22.408494&lon=114.222718
-SHM http://www.openstreetmap.org/?lat=22.387773&lon=114.208503
-CIO http://www.openstreetmap.org/?lat=22.383021&lon=114.203739
-STW http://www.openstreetmap.org/?lat=22.376989&lon=114.195017
-CKT http://www.openstreetmap.org/?lat=22.374727&lon=114.186208
-TAW http://www.openstreetmap.org/?lat=22.372892&lon=114.178634
-+X424478 http://www.openstreetmap.org/?lat=22.368615&lon=114.173226
-HIK http://www.openstreetmap.org/?lat=22.363833&lon=114.170834
-DIH http://www.openstreetmap.org/?lat=22.339602&lon=114.201207
-KAT http://www.openstreetmap.org/?lat=22.330025&lon=114.199018
-SUW http://www.openstreetmap.org/?lat=22.326050&lon=114.191701
-TKW http://www.openstreetmap.org/?lat=22.316834&lon=114.187590
-HMT http://www.openstreetmap.org/?lat=22.309272&lon=114.182614
+WuKaiSha +WKS http://www.openstreetmap.org/?lat=22.429163&lon=114.244004
+MaOnShan +MOS http://www.openstreetmap.org/?lat=22.424859&lon=114.231677
+HengOn +HEO http://www.openstreetmap.org/?lat=22.417629&lon=114.225744
+TaiShuiHang +TSH http://www.openstreetmap.org/?lat=22.408494&lon=114.222718
+ShekMun +SHM http://www.openstreetmap.org/?lat=22.387773&lon=114.208503
+CityOne +CIO http://www.openstreetmap.org/?lat=22.383021&lon=114.203739
+ShaTinWai +STW http://www.openstreetmap.org/?lat=22.376989&lon=114.195017
+CheKunTem +CKT http://www.openstreetmap.org/?lat=22.374727&lon=114.186208
+TaiWai +TAW http://www.openstreetmap.org/?lat=22.372892&lon=114.178634
+DIV_ER http://www.openstreetmap.org/?lat=22.368615&lon=114.173226
+HinKeng +HIK http://www.openstreetmap.org/?lat=22.363833&lon=114.170834
+DIaHill +DIH http://www.openstreetmap.org/?lat=22.339602&lon=114.201207
+KaiTak +KAT http://www.openstreetmap.org/?lat=22.330025&lon=114.199018
+SungWongToi +SUW http://www.openstreetmap.org/?lat=22.326050&lon=114.191701
+ToKwaWan +TKW http://www.openstreetmap.org/?lat=22.316834&lon=114.187590
+HoManTin +HMT http://www.openstreetmap.org/?lat=22.309272&lon=114.182614
+DIV_ERN http://www.openstreetmap.org/?lat=22.306800&lon=114.181820
 HUH http://www.openstreetmap.org/?lat=22.302825&lon=114.182003
-ETS http://www.openstreetmap.org/?lat=22.295777&lon=114.175608
+DIV_ERS http://www.openstreetmap.org/?lat=22.301004&lon=114.182003
+ETsimShaTsui +ETS http://www.openstreetmap.org/?lat=22.295777&lon=114.175608
 +X733805 http://www.openstreetmap.org/?lat=22.294824&lon=114.170072
-AUS http://www.openstreetmap.org/?lat=22.304215&lon=114.166617
-+X132685 http://www.openstreetmap.org/?lat=22.314510&lon=114.161704
-+OLY http://www.openstreetmap.org/?lat=22.317733&lon=114.160287
-NAC http://www.openstreetmap.org/?lat=22.326408&lon=114.153550
-+X238488 http://www.openstreetmap.org/?lat=22.329050&lon=114.149435
-MEF http://www.openstreetmap.org/?lat=22.338346&lon=114.138170
-TWW http://www.openstreetmap.org/?lat=22.368268&lon=114.110098
-KSR http://www.openstreetmap.org/?lat=22.434692&lon=114.063492
-YUL http://www.openstreetmap.org/?lat=22.446121&lon=114.034792
-LOP http://www.openstreetmap.org/?lat=22.447668&lon=114.025426
-TIS http://www.openstreetmap.org/?lat=22.448523&lon=114.005068
-SIH http://www.openstreetmap.org/?lat=22.411730&lon=113.978895
-TUM http://www.openstreetmap.org/?lat=22.393888&lon=113.972839
+Aus http://www.openstreetmap.org/?lat=22.304215&lon=114.166617
+DIV_TCS http://www.openstreetmap.org/?lat=22.314510&lon=114.161704
+SKIP_Oly http://www.openstreetmap.org/?lat=22.317733&lon=114.160287
+NamChe +NAC http://www.openstreetmap.org/?lat=22.326408&lon=114.153550
+DIV_TCN http://www.openstreetmap.org/?lat=22.329050&lon=114.149435
+MeiFoo +MEF http://www.openstreetmap.org/?lat=22.338346&lon=114.138170
+TsuWanWest +TWW http://www.openstreetmap.org/?lat=22.368268&lon=114.110098
+KamSheRd +KSR http://www.openstreetmap.org/?lat=22.434692&lon=114.063492
++X176189 http://www.openstreetmap.org/?lat=22.445769&lon=114.054072
+YuenLong +YUL http://www.openstreetmap.org/?lat=22.446121&lon=114.034792
+LongPing +LOP http://www.openstreetmap.org/?lat=22.447668&lon=114.025426
+TinShuiWai +TIS http://www.openstreetmap.org/?lat=22.448523&lon=114.005068
+SiuHong +SIH http://www.openstreetmap.org/?lat=22.411730&lon=113.978895
+TuenMun +TUM http://www.openstreetmap.org/?lat=22.393888&lon=113.972839

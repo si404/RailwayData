@@ -1,39 +1,37 @@
 ShekTongTsui http://www.openstreetmap.org/?lat=22.287149&lon=114.135034
-+X536065 http://www.openstreetmap.org/?lat=22.286947&lon=114.135026
-WhittySt http://www.openstreetmap.org/?lat=22.286816&lon=114.136544
-WaterSt http://www.openstreetmap.org/?lat=22.287431&lon=114.138830
-WesternSt http://www.openstreetmap.org/?lat=22.287957&lon=114.140804
-EasternSt http://www.openstreetmap.org/?lat=22.287873&lon=114.143808
-SutherlandSt http://www.openstreetmap.org/?lat=22.287744&lon=114.146158
-QueenSt http://www.openstreetmap.org/?lat=22.287674&lon=114.146914
-ConnaughtRdW http://www.openstreetmap.org/?lat=22.288047&lon=114.148791
-MacauFryTerminal http://www.openstreetmap.org/?lat=22.287757&lon=114.149950
-WesternMarket http://www.openstreetmap.org/?lat=22.286818&lon=114.151007
-HillierSt http://www.openstreetmap.org/?lat=22.286581&lon=114.151884
+DIV_567 http://www.openstreetmap.org/?lat=22.286947&lon=114.135026
+WhiSt +WhittySt http://www.openstreetmap.org/?lat=22.286816&lon=114.136544
+WatSt +WaterSt http://www.openstreetmap.org/?lat=22.287431&lon=114.138830
+WesSt +WesternSt http://www.openstreetmap.org/?lat=22.287957&lon=114.140804
+EasSt +EasternSt http://www.openstreetmap.org/?lat=22.287873&lon=114.143808
+SutSt +SutherlandSt http://www.openstreetmap.org/?lat=22.287744&lon=114.146158
+QueSt +QueenSt http://www.openstreetmap.org/?lat=22.287674&lon=114.146914
+ConRdWest +ConnaughtRdW http://www.openstreetmap.org/?lat=22.288047&lon=114.148791
+MacFryTer +MacauFryTerminal http://www.openstreetmap.org/?lat=22.287757&lon=114.149950
+WesMar +WesternMarket http://www.openstreetmap.org/?lat=22.286818&lon=114.151007
+HilSt +HillierSt http://www.openstreetmap.org/?lat=22.286581&lon=114.151884
 ManWaLn http://www.openstreetmap.org/?lat=22.286343&lon=114.152914
-GilmanSt http://www.openstreetmap.org/?lat=22.285380&lon=114.154775
-JubileeSt http://www.openstreetmap.org/?lat=22.284670&lon=114.155636
-PottingerSt http://www.openstreetmap.org/?lat=22.283459&lon=114.156642
-PedderStreet http://www.openstreetmap.org/?lat=22.281944&lon=114.158067
-IceHouseSt http://www.openstreetmap.org/?lat=22.281027&lon=114.158581
+GilSt +GilmanSt http://www.openstreetmap.org/?lat=22.285380&lon=114.154775
+JubSt +JubileeSt http://www.openstreetmap.org/?lat=22.284670&lon=114.155636
+PotSt +PottingerSt http://www.openstreetmap.org/?lat=22.283459&lon=114.156642
+PedSt +PedderStreet http://www.openstreetmap.org/?lat=22.281944&lon=114.158067
+IceHouSt +IceHouseSt http://www.openstreetmap.org/?lat=22.281027&lon=114.158581
 BankSt http://www.openstreetmap.org/?lat=22.280560&lon=114.160019
-MurrayRd http://www.openstreetmap.org/?lat=22.279758&lon=114.161725
-CottonTreeDr http://www.openstreetmap.org/?lat=22.279034&lon=114.163171
-AdmiraltyMTRStation http://www.openstreetmap.org/?lat=22.278598&lon=114.166296
-ArsenalSt http://www.openstreetmap.org/?lat=22.277815&lon=114.168296
-FenwickStGressonSt http://www.openstreetmap.org/?lat=22.277182&lon=114.170142
-LuardRdSwatowSt http://www.openstreetmap.org/?lat=22.276431&lon=114.172025
-OBrienRd http://www.openstreetmap.org/?lat=22.276576&lon=114.173344
-FlemingRd http://www.openstreetmap.org/?lat=22.276982&lon=114.175351
-BurrowsSt http://www.openstreetmap.org/?lat=22.277340&lon=114.176000
-TonnochyRd http://www.openstreetmap.org/?lat=22.278179&lon=114.177631
-+X301858 http://www.openstreetmap.org/?lat=22.278705&lon=114.179358
-+X386753 http://www.openstreetmap.org/?lat=22.278799&lon=114.179707
-CanalRdW http://www.openstreetmap.org/?lat=22.279330&lon=114.181117
-+X796373 http://www.openstreetmap.org/?lat=22.279871&lon=114.182555
-+X745782 http://www.openstreetmap.org/?lat=22.279961&lon=114.182807
-PercivalSt http://www.openstreetmap.org/?lat=22.280005&lon=114.182947
-PatersonSt http://www.openstreetmap.org/?lat=22.279757&lon=114.185881
-PenningtonSt http://www.openstreetmap.org/?lat=22.279529&lon=114.186562
-+X783357 http://www.openstreetmap.org/?lat=22.279410&lon=114.186954
-CausewayBay http://www.openstreetmap.org/?lat=22.279290&lon=114.187136
+MurRd +MurrayRd http://www.openstreetmap.org/?lat=22.279758&lon=114.161725
+CotTreeDr +CottonTreeDr http://www.openstreetmap.org/?lat=22.279034&lon=114.163171
+AdmMTRSta +AdmiraltyMTRStation http://www.openstreetmap.org/?lat=22.278598&lon=114.166296
+ArsSt +ArsenalSt http://www.openstreetmap.org/?lat=22.277815&lon=114.168296
+FenStGreSt +FenwickStGressonSt http://www.openstreetmap.org/?lat=22.277182&lon=114.170142
+LuaRdSwaSt +LuardRdSwatowSt http://www.openstreetmap.org/?lat=22.276431&lon=114.172025
+OBrRd +OBrienRd http://www.openstreetmap.org/?lat=22.276576&lon=114.173344
+FleRd +FlemingRd http://www.openstreetmap.org/?lat=22.276982&lon=114.175351
+BurSt +BurrowsSt http://www.openstreetmap.org/?lat=22.277340&lon=114.176000
+TonRd +TonnochyRd http://www.openstreetmap.org/?lat=22.278179&lon=114.177631
+DIV_25W http://www.openstreetmap.org/?lat=22.278695&lon=114.179567
+CanRdWest +CanalRdW http://www.openstreetmap.org/?lat=22.279330&lon=114.181117
+DIV_25E http://www.openstreetmap.org/?lat=22.279869&lon=114.182729
+PerSt +PercivalSt http://www.openstreetmap.org/?lat=22.280005&lon=114.182947
+PatSt +PatersonSt http://www.openstreetmap.org/?lat=22.279757&lon=114.185881
+PenSt +PenningtonSt http://www.openstreetmap.org/?lat=22.279529&lon=114.186562
+DIV_123 http://www.openstreetmap.org/?lat=22.279410&lon=114.186954
+CauBayTer +CausewayBay http://www.openstreetmap.org/?lat=22.279290&lon=114.187136
