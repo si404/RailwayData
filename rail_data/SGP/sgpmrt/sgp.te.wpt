@@ -7,7 +7,7 @@ TE6 http://www.openstreetmap.org/?lat=1.372098&lon=103.836873
 TE7 http://www.openstreetmap.org/?lat=1.363753&lon=103.833461
 TE8 http://www.openstreetmap.org/?lat=1.354722&lon=103.832452
 TE9 http://www.openstreetmap.org/?lat=1.337561&lon=103.840156
-+TE10 http://www.openstreetmap.org/?lat=1.328529&lon=103.835113
+TE10 http://www.openstreetmap.org/?lat=1.328529&lon=103.835113
 TE11 http://www.openstreetmap.org/?lat=1.320163&lon=103.825672
 TE12 http://www.openstreetmap.org/?lat=1.306670&lon=103.819020
 TE13 http://www.openstreetmap.org/?lat=1.303001&lon=103.823526
@@ -18,4 +18,5 @@ TE17 http://www.openstreetmap.org/?lat=1.280627&lon=103.840306
 TE18 http://www.openstreetmap.org/?lat=1.280584&lon=103.844082
 TE19 http://www.openstreetmap.org/?lat=1.277505&lon=103.850799
 TE20 http://www.openstreetmap.org/?lat=1.275317&lon=103.854918
-TE22 http://www.openstreetmap.org/?lat=1.274116&lon=103.863416
++TE21 http://www.openstreetmap.org/?lat=1.274116&lon=103.863416
+TE22 http://www.openstreetmap.org/?lat=1.279152&lon=103.867943

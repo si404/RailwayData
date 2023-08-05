@@ -1,7 +1,7 @@
 EW1 http://www.openstreetmap.org/?lat=1.373009&lon=103.949246
 EW2 http://www.openstreetmap.org/?lat=1.354336&lon=103.944279
 EW3 http://www.openstreetmap.org/?lat=1.343181&lon=103.953409
-+X353245 http://www.openstreetmap.org/?lat=1.330235&lon=103.953280
+DIV_CG http://www.openstreetmap.org/?lat=1.330235&lon=103.953280
 EW4 http://www.openstreetmap.org/?lat=1.327231&lon=103.946543
 EW5 http://www.openstreetmap.org/?lat=1.323939&lon=103.930256
 EW6 http://www.openstreetmap.org/?lat=1.321043&lon=103.912940
@@ -23,7 +23,7 @@ EW21 http://www.openstreetmap.org/?lat=1.307185&lon=103.790824
 EW22 http://www.openstreetmap.org/?lat=1.311368&lon=103.778636
 EW23 http://www.openstreetmap.org/?lat=1.315057&lon=103.765204
 EW24 http://www.openstreetmap.org/?lat=1.333056&lon=103.742352
-+X681180 http://www.openstreetmap.org/?lat=1.335501&lon=103.741043
+DIV_NS http://www.openstreetmap.org/?lat=1.335501&lon=103.741043
 EW25 http://www.openstreetmap.org/?lat=1.342334&lon=103.732481
 EW26 http://www.openstreetmap.org/?lat=1.344178&lon=103.720808
 EW27 http://www.openstreetmap.org/?lat=1.338515&lon=103.705788
