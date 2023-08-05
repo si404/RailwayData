@@ -1,10 +1,10 @@
-Frankton http://www.openstreetmap.org/?lat=-37.790277&lon=175.264485
-Rotokauri http://www.openstreetmap.org/?lat=-37.749391&lon=175.230560
+Fra +Frankton http://www.openstreetmap.org/?lat=-37.790277&lon=175.264485
+Rot +Rotokauri http://www.openstreetmap.org/?lat=-37.749391&lon=175.230560
 +X500395 http://www.openstreetmap.org/?lat=-37.711427&lon=175.204811
 +X707477 http://www.openstreetmap.org/?lat=-37.665852&lon=175.147648
 +X294898 http://www.openstreetmap.org/?lat=-37.613178&lon=175.189533
 +X880880 http://www.openstreetmap.org/?lat=-37.592982&lon=175.160093
-Huntly http://www.openstreetmap.org/?lat=-37.557932&lon=175.159621
+Hun +Huntly http://www.openstreetmap.org/?lat=-37.557932&lon=175.159621
 +X321297 http://www.openstreetmap.org/?lat=-37.507513&lon=175.166960
 +X376559 http://www.openstreetmap.org/?lat=-37.360266&lon=175.124645
 +X746772 http://www.openstreetmap.org/?lat=-37.320141&lon=175.079327
@@ -13,28 +13,28 @@ Huntly http://www.openstreetmap.org/?lat=-37.557932&lon=175.159621
 +X728599 http://www.openstreetmap.org/?lat=-37.259948&lon=174.997873
 +X815412 http://www.openstreetmap.org/?lat=-37.260494&lon=174.953671
 +X776872 http://www.openstreetmap.org/?lat=-37.238563&lon=174.927492
-+Pukekohe http://www.openstreetmap.org/?lat=-37.203518&lon=174.910541
+SKIP_Puk http://www.openstreetmap.org/?lat=-37.203518&lon=174.910541
 +X792110 http://www.openstreetmap.org/?lat=-37.163087&lon=174.894018
 +X680932 http://www.openstreetmap.org/?lat=-37.101775&lon=174.953842
 +X403675 http://www.openstreetmap.org/?lat=-37.078634&lon=174.957619
-Papakura http://www.openstreetmap.org/?lat=-37.064441&lon=174.946461
-+Takaanini http://www.openstreetmap.org/?lat=-37.041048&lon=174.919338
-+TeMahia http://www.openstreetmap.org/?lat=-37.031216&lon=174.906163
-+Manurewa http://www.openstreetmap.org/?lat=-37.023302&lon=174.896164
-+Homai http://www.openstreetmap.org/?lat=-37.013536&lon=174.874792
-+X996639 http://www.openstreetmap.org/?lat=-36.996066&lon=174.860008
+Pap +Papakura http://www.openstreetmap.org/?lat=-37.064441&lon=174.946461
+SKIP_Tak http://www.openstreetmap.org/?lat=-37.041048&lon=174.919338
+SKIP_Mah http://www.openstreetmap.org/?lat=-37.031216&lon=174.906163
+SKIP_Man http://www.openstreetmap.org/?lat=-37.023302&lon=174.896164
+SKIP_Hom http://www.openstreetmap.org/?lat=-37.013536&lon=174.874792
+DIV_Wiri http://www.openstreetmap.org/?lat=-36.996066&lon=174.860008
 Puhinui http://www.openstreetmap.org/?lat=-36.989896&lon=174.856081
-+Papatoetoe http://www.openstreetmap.org/?lat=-36.977230&lon=174.849064
-+Middlemore http://www.openstreetmap.org/?lat=-36.963069&lon=174.839087
-+Otahuhu http://www.openstreetmap.org/?lat=-36.946676&lon=174.833186
+SKIP_Pap http://www.openstreetmap.org/?lat=-36.977230&lon=174.849064
+SKIP_Mid http://www.openstreetmap.org/?lat=-36.963069&lon=174.839087
+SKIP_Ota http://www.openstreetmap.org/?lat=-36.946676&lon=174.833186
 +X173862 http://www.openstreetmap.org/?lat=-36.930049&lon=174.830203
-+Penrose http://www.openstreetmap.org/?lat=-36.910239&lon=174.815644
-+Ellerslie http://www.openstreetmap.org/?lat=-36.898434&lon=174.808177
-+Greenlane http://www.openstreetmap.org/?lat=-36.889802&lon=174.797684
-+Remuera http://www.openstreetmap.org/?lat=-36.881152&lon=174.785239
-+Newmarket http://www.openstreetmap.org/?lat=-36.869257&lon=174.778962
-+X941624 http://www.openstreetmap.org/?lat=-36.867644&lon=174.779423
-+X739747 http://www.openstreetmap.org/?lat=-36.866648&lon=174.779971
-+Parnell http://www.openstreetmap.org/?lat=-36.855034&lon=174.777578
-+X297438 http://www.openstreetmap.org/?lat=-36.848595&lon=174.777449
-TheStrand http://www.openstreetmap.org/?lat=-36.848462&lon=174.779348
+SKIP_Pen http://www.openstreetmap.org/?lat=-36.910239&lon=174.815644
+SKIP_Ell http://www.openstreetmap.org/?lat=-36.898434&lon=174.808177
+SKIP_Gre http://www.openstreetmap.org/?lat=-36.889802&lon=174.797684
+SKIP_Rem http://www.openstreetmap.org/?lat=-36.881152&lon=174.785239
+SKIP_New http://www.openstreetmap.org/?lat=-36.869257&lon=174.778962
+DIV_Wes http://www.openstreetmap.org/?lat=-36.867644&lon=174.779423
+DIV_ToW http://www.openstreetmap.org/?lat=-36.866648&lon=174.779971
+SKIP_Par http://www.openstreetmap.org/?lat=-36.855034&lon=174.777578
+DIV_Sou http://www.openstreetmap.org/?lat=-36.848595&lon=174.777449
+Str +TheStrand http://www.openstreetmap.org/?lat=-36.848462&lon=174.779348
