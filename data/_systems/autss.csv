@@ -1,8 +1,8 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-autss;AUT;S1;;Sal;;aut.s01sal;
-autss;DEU-BY;S2;;Sal;;deuby.s02sal;
-autss;AUT;S2;;Sal;;aut.s02sal;
-autss;DEU-BY;S3;;Sal;;deuby.s03sal;
-autss;AUT;S3;;Sal;;aut.s03sal;
-autss;DEU-BY;S4;;Sal;;deuby.s04sal;
-autss;AUT;S11;;Sal;;aut.s11sal;
+autss;AUT;S1;;Sal;Salzburg;aut.s01sal;
+autss;DEU-BY;S2;;Sal;Salzburg;deuby.s02sal;
+autss;AUT;S2;;Sal;Salzburg;aut.s02sal;
+autss;DEU-BY;S3;;Sal;Salzburg;deuby.s03sal;
+autss;AUT;S3;;Sal;Salzburg;aut.s03sal;
+autss;DEU-BY;S4;;Sal;Salzburg;deuby.s04sal;
+autss;AUT;S11;;Sal;Salzburg;aut.s11sal;

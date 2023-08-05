@@ -1,10 +1,10 @@
 systemName;route;banner;groupName;roots
-autst;S1;;;aut.s01tir
-autst;S2;;;itatre.s02tir,aut.s02tir
-autst;S3;;Brennerbahn;aut.s03tir,itatre.s03tir
-autst;S4;;;aut.s04tir
-autst;S5;;;aut.s05tir
-autst;S6;;Mittenwaldbahn;deuby.s06tir,aut.s06tir
-autst;S7;;Ausserfernbahn;deuby.s07pfr,aut.s07tir,deuby.s07tir
-autst;S8;;;aut.s08tir
-autst;SZB1;;Zillertalbahn;aut.szb1tir
+autst;S1;;Tirol;aut.s01tir
+autst;S2;;Tirol;itatre.s02tir,aut.s02tir
+autst;S3;;Brennerbahn, Tirol;aut.s03tir,itatre.s03tir
+autst;S4;;Tirol;aut.s04tir
+autst;S5;;Tirol;aut.s05tir
+autst;S6;;Mittenwaldbahn, Tirol;deuby.s06tir,aut.s06tir
+autst;S7;;Ausserfernbahn, Tirol;deuby.s07pfr,aut.s07tir,deuby.s07tir
+autst;S8;;Tirol;aut.s08tir
+autst;SZB1;;Zillertalbahn, Tirol;aut.szb1tir

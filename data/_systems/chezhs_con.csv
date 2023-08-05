@@ -1,36 +1,36 @@
 systemName;route;banner;groupName;roots
-chezhs;S2;;;che.s02
-chezhs;S3;;;che.s03
-chezhs;S4;;;che.s04
-chezhs;S5;;;che.s05
-chezhs;S6;;;che.s06
-chezhs;S7;;;che.s07
-chezhs;S8;;;che.s08
-chezhs;S9;;;che.s09sch,deubw.s09jes,che.s09
-chezhs;S10;;;che.s10
-chezhs;S11;;;che.s11
-chezhs;S11;;Sennhof branch;che.s11sen
-chezhs;S12;;;che.s12
-chezhs;S12;;Schaffhausen branch;che.s12sch
-chezhs;S13;;;che.s13
-chezhs;S14;;;che.s14
-chezhs;S15;;;che.s15
-chezhs;S16;;;che.s16
-chezhs;S17;;;che.s17
-chezhs;S18;;;che.s18
-chezhs;S19;;;che.s19
-chezhs;S20;;;che.s20
-chezhs;S21;;;che.s21
-chezhs;S23;;;che.s23
-chezhs;S24;;;che.s24
-chezhs;S24;Wei;Wienfelden branch;che.s24wei
-chezhs;S25;;;che.s25
-chezhs;S26;;;che.s26
-chezhs;S29;;;che.s29
-chezhs;S30;;;che.s30
-chezhs;S33;;;che.s33
-chezhs;S35;;;che.s35
-chezhs;S36;;;deubw.s36,che.s36
-chezhs;S40;;;che.s40
-chezhs;S41;;;che.s41
-chezhs;S42;;;che.s42
+chezhs;S2;;Zürich;che.s02
+chezhs;S3;;Zürich;che.s03
+chezhs;S4;;Zürich;che.s04
+chezhs;S5;;Zürich;che.s05
+chezhs;S6;;Zürich;che.s06
+chezhs;S7;;Zürich;che.s07
+chezhs;S8;;Zürich;che.s08
+chezhs;S9;;Zürich;che.s09sch,deubw.s09jes,che.s09
+chezhs;S10;;Zürich;che.s10
+chezhs;S11;;Zürich;che.s11
+chezhs;S11;;Sennhof, Zürich;che.s11sen
+chezhs;S12;;Zürich;che.s12
+chezhs;S12;;Schaffhausen, Zürich;che.s12sch
+chezhs;S13;;Zürich;che.s13
+chezhs;S14;;Zürich;che.s14
+chezhs;S15;;Zürich;che.s15
+chezhs;S16;;Zürich;che.s16
+chezhs;S17;;Zürich;che.s17
+chezhs;S18;;Zürich;che.s18
+chezhs;S19;;Zürich;che.s19
+chezhs;S20;;Zürich;che.s20
+chezhs;S21;;Zürich;che.s21
+chezhs;S23;;Zürich;che.s23
+chezhs;S24;;Zürich;che.s24
+chezhs;S24;Wei;Wienfelden, Zürich;che.s24wei
+chezhs;S25;;Zürich;che.s25
+chezhs;S26;;Zürich;che.s26
+chezhs;S29;;Zürich;che.s29
+chezhs;S30;;Zürich;che.s30
+chezhs;S33;;Zürich;che.s33
+chezhs;S35;;Zürich;che.s35
+chezhs;S36;;Zürich;deubw.s36,che.s36
+chezhs;S40;;Zürich;che.s40
+chezhs;S41;;Zürich;che.s41
+chezhs;S42;;Zürich;che.s42

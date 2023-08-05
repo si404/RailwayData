@@ -1,6 +1,6 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-autso;AUT;S1;;Obe;;aut.s01obe;
-autso;AUT;S2;;Obe;;aut.s02obe;
-autso;AUT;S3;;Obe;;aut.s03obe;
-autso;AUT;S4;;Obe;;aut.s04obe;
-autso;AUT;S5;;Obe;;aut.s05obe;
+autso;AUT;S1;;Obe;Oberösterreich;aut.s01obe;
+autso;AUT;S2;;Obe;Oberösterreich;aut.s02obe;
+autso;AUT;S3;;Obe;Oberösterreich;aut.s03obe;
+autso;AUT;S4;;Obe;Oberösterreich;aut.s04obe;
+autso;AUT;S5;;Obe;Oberösterreich;aut.s05obe;

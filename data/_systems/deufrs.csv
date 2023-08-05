@@ -1,7 +1,7 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-deufrs;DEU-BW;S1;;Fre;;deubw.s01fre;
-deufrs;DEU-BW;S2;;Fre;;deubw.s02fre;
-deufrs;DEU-BW;S3;;Bad;;deubw.s03bad;
-deufrs;DEU-BW;S5;;End;;deubw.s05end;
-deufrs;DEU-BW;S10;;Fre;;deubw.s10fre;
-deufrs;DEU-BW;S11;;Fre;;deubw.s11fre;
+deufrs;DEU-BW;S1;;Fre;Freiburg;deubw.s01fre;
+deufrs;DEU-BW;S2;;Fre;Freiburg;deubw.s02fre;
+deufrs;DEU-BW;S3;;Bad;Bad Krozingen;deubw.s03bad;
+deufrs;DEU-BW;S5;;End;Endingen;deubw.s05end;
+deufrs;DEU-BW;S10;;Fre;Freiburg;deubw.s10fre;
+deufrs;DEU-BW;S11;;Fre;Freiburg;deubw.s11fre;
