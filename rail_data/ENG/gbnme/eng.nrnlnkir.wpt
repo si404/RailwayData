@@ -1,8 +1,8 @@
-SDL http://www.openstreetmap.org/?lat=53.429826&lon=-2.991843
-+X316300 http://www.openstreetmap.org/?lat=53.434307&lon=-2.987723
-KKD http://www.openstreetmap.org/?lat=53.440775&lon=-2.981157
-+X778008 http://www.openstreetmap.org/?lat=53.453065&lon=-2.968884
-RIL http://www.openstreetmap.org/?lat=53.457524&lon=-2.963058
-FAZ http://www.openstreetmap.org/?lat=53.468961&lon=-2.936976
-KIR http://www.openstreetmap.org/?lat=53.486443&lon=-2.902515
-HBL http://www.openstreetmap.org/?lat=53.491652&lon=-2.883418
+San +SDL http://www.openstreetmap.org/?lat=53.429826&lon=-2.991843
+DIV_Sou http://www.openstreetmap.org/?lat=53.434307&lon=-2.987723
+Kird +KKD http://www.openstreetmap.org/?lat=53.440775&lon=-2.981157
+DIV_Orm http://www.openstreetmap.org/?lat=53.453065&lon=-2.968884
+RiceLn +RIL http://www.openstreetmap.org/?lat=53.457524&lon=-2.963058
+Faz http://www.openstreetmap.org/?lat=53.468961&lon=-2.936976
+Kirb +KIR http://www.openstreetmap.org/?lat=53.486443&lon=-2.902515
+HeaLn +HBL http://www.openstreetmap.org/?lat=53.491652&lon=-2.883418

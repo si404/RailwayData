@@ -1,21 +1,21 @@
-WIM http://www.openstreetmap.org/?lat=51.421952&lon=-0.205264
-+X537117 http://www.openstreetmap.org/?lat=51.423450&lon=-0.202754
-+X189644 http://www.openstreetmap.org/?lat=51.428942&lon=-0.198269
-WIP http://www.openstreetmap.org/?lat=51.434046&lon=-0.198998
-SOU http://www.openstreetmap.org/?lat=51.445783&lon=-0.206552
-EAP http://www.openstreetmap.org/?lat=51.458640&lon=-0.211304
-PUB http://www.openstreetmap.org/?lat=51.468309&lon=-0.208805
-PAG http://www.openstreetmap.org/?lat=51.475296&lon=-0.201166
-FUB http://www.openstreetmap.org/?lat=51.480892&lon=-0.194374
+Wim http://www.openstreetmap.org/?lat=51.421952&lon=-0.205264
+DIV_TLK http://www.openstreetmap.org/?lat=51.423450&lon=-0.202754
+DIV_SWR http://www.openstreetmap.org/?lat=51.428942&lon=-0.198269
+WimPark +WIP http://www.openstreetmap.org/?lat=51.434046&lon=-0.198998
+Sou http://www.openstreetmap.org/?lat=51.445783&lon=-0.206552
+EastPut http://www.openstreetmap.org/?lat=51.458640&lon=-0.211304
+PutBri +PUB http://www.openstreetmap.org/?lat=51.468309&lon=-0.208805
+ParGre +PAG http://www.openstreetmap.org/?lat=51.475296&lon=-0.201166
+FulBdwy +FUB http://www.openstreetmap.org/?lat=51.480892&lon=-0.194374
 +X720510 http://www.openstreetmap.org/?lat=51.483411&lon=-0.191553
-WBP http://www.openstreetmap.org/?lat=51.486962&lon=-0.195200
-+X568403 http://www.openstreetmap.org/?lat=51.490409&lon=-0.195844
-EAC http://www.openstreetmap.org/?lat=51.491638&lon=-0.193913
-+X668795 http://www.openstreetmap.org/?lat=51.494323&lon=-0.189750
-+X783274 http://www.openstreetmap.org/?lat=51.497219&lon=-0.188366
-HSK http://www.openstreetmap.org/?lat=51.500291&lon=-0.192078
-NHG http://www.openstreetmap.org/?lat=51.508933&lon=-0.196198
-BAY http://www.openstreetmap.org/?lat=51.512285&lon=-0.188409
-PAD http://www.openstreetmap.org/?lat=51.516995&lon=-0.177369
+WestBro +WBP http://www.openstreetmap.org/?lat=51.486962&lon=-0.195200
+DIV_Ric http://www.openstreetmap.org/?lat=51.490409&lon=-0.195844
+EarCou +EAC http://www.openstreetmap.org/?lat=51.491638&lon=-0.193913
+DIV_Vic http://www.openstreetmap.org/?lat=51.494323&lon=-0.189750
+DIV_Cir http://www.openstreetmap.org/?lat=51.497219&lon=-0.188366
+HighStKen +HSK http://www.openstreetmap.org/?lat=51.500291&lon=-0.192078
+NotHillGate +NHG http://www.openstreetmap.org/?lat=51.508933&lon=-0.196198
+Bay http://www.openstreetmap.org/?lat=51.512285&lon=-0.188409
+Pad http://www.openstreetmap.org/?lat=51.516995&lon=-0.177369
 +X307828 http://www.openstreetmap.org/?lat=51.518240&lon=-0.173249
-ERD http://www.openstreetmap.org/?lat=51.520220&lon=-0.166554
+EdgRd +ERD http://www.openstreetmap.org/?lat=51.520220&lon=-0.166554

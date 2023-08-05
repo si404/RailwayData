@@ -1,31 +1,31 @@
-NewHaven http://www.openstreetmap.org/?lat=55.979924&lon=-3.188621
-OceanTerminal http://www.openstreetmap.org/?lat=55.980188&lon=-3.177656
-PortOfLeith http://www.openstreetmap.org/?lat=55.978078&lon=-3.166259
-TheShore http://www.openstreetmap.org/?lat=55.974977&lon=-3.166898
-FootOfTheWalk http://www.openstreetmap.org/?lat=55.970855&lon=-3.171020
-BalfourStreet http://www.openstreetmap.org/?lat=55.965391&lon=-3.176229
-McDonaldRoad http://www.openstreetmap.org/?lat=55.960701&lon=-3.181529
-PicardyPlace http://www.openstreetmap.org/?lat=55.956753&lon=-3.186834
-StAndrewSquare http://www.openstreetmap.org/?lat=55.954591&lon=-3.192354
-PrincesStreet http://www.openstreetmap.org/?lat=55.951778&lon=-3.197885
+NewHav +NewHaven http://www.openstreetmap.org/?lat=55.979924&lon=-3.188621
+OceTer +OceanTerminal http://www.openstreetmap.org/?lat=55.980188&lon=-3.177656
+PortLei +PortOfLeith http://www.openstreetmap.org/?lat=55.978078&lon=-3.166259
+Sho +TheShore http://www.openstreetmap.org/?lat=55.974977&lon=-3.166898
+FootWalk +FootOfTheWalk http://www.openstreetmap.org/?lat=55.970855&lon=-3.171020
+BalSt +BalfourStreet http://www.openstreetmap.org/?lat=55.965391&lon=-3.176229
+McDRd +McDonaldRoad http://www.openstreetmap.org/?lat=55.960701&lon=-3.181529
+PicPla +PicardyPlace http://www.openstreetmap.org/?lat=55.956753&lon=-3.186834
+StAndSq +StAndrewSquare http://www.openstreetmap.org/?lat=55.954591&lon=-3.192354
+PriSt +PrincesStreet http://www.openstreetmap.org/?lat=55.951778&lon=-3.197885
 WestEnd http://www.openstreetmap.org/?lat=55.948632&lon=-3.211559
-Haymarket http://www.openstreetmap.org/?lat=55.945772&lon=-3.219616
-+X120154 http://www.openstreetmap.org/?lat=55.944787&lon=-3.221548
-+X589563 http://www.openstreetmap.org/?lat=55.944313&lon=-3.223640
-+X568839 http://www.openstreetmap.org/?lat=55.943186&lon=-3.228736
-MurrayfieldStadium http://www.openstreetmap.org/?lat=55.942005&lon=-3.237373
-+X743952 http://www.openstreetmap.org/?lat=55.940861&lon=-3.239143
-Balgreen http://www.openstreetmap.org/?lat=55.937994&lon=-3.251867
-+X700339 http://www.openstreetmap.org/?lat=55.936192&lon=-3.259935
+Hay +Haymarket http://www.openstreetmap.org/?lat=55.945772&lon=-3.219616
+DIV_Hay http://www.openstreetmap.org/?lat=55.944787&lon=-3.221548
+DIV_Car http://www.openstreetmap.org/?lat=55.944313&lon=-3.223640
+DIV_Ros http://www.openstreetmap.org/?lat=55.943186&lon=-3.228736
+MurSta +MurrayfieldStadium http://www.openstreetmap.org/?lat=55.942005&lon=-3.237373
+DIV_Mur http://www.openstreetmap.org/?lat=55.940861&lon=-3.239143
+Bal +Balgreen http://www.openstreetmap.org/?lat=55.937994&lon=-3.251867
+DIV_Bal http://www.openstreetmap.org/?lat=55.936192&lon=-3.259935
 +X849207 http://www.openstreetmap.org/?lat=55.935421&lon=-3.265622
 +X872267 http://www.openstreetmap.org/?lat=55.933780&lon=-3.267258
-Saughton http://www.openstreetmap.org/?lat=55.932312&lon=-3.275653
-+X998348 http://www.openstreetmap.org/?lat=55.931805&lon=-3.279247
-Bankhead http://www.openstreetmap.org/?lat=55.929016&lon=-3.293903
-EdinburghPark http://www.openstreetmap.org/?lat=55.927555&lon=-3.307657
-EdinburghParkCentral http://www.openstreetmap.org/?lat=55.931336&lon=-3.314545
-GyleCentre http://www.openstreetmap.org/?lat=55.938103&lon=-3.318386
-EdinburghGateway http://www.openstreetmap.org/?lat=55.940927&lon=-3.320124
-Gogarburn http://www.openstreetmap.org/?lat=55.937970&lon=-3.332505
-InglistonPark&Ride http://www.openstreetmap.org/?lat=55.940098&lon=-3.354006
-EdinburghAirport http://www.openstreetmap.org/?lat=55.947512&lon=-3.360293
+Sau +Saughton http://www.openstreetmap.org/?lat=55.932312&lon=-3.275653
+DIV_Sau http://www.openstreetmap.org/?lat=55.931805&lon=-3.279247
+Ban +Bankhead http://www.openstreetmap.org/?lat=55.929016&lon=-3.293903
+EdiParkSta +EdinburghPark http://www.openstreetmap.org/?lat=55.927555&lon=-3.307657
+EdiParkCen +EdinburghParkCentral http://www.openstreetmap.org/?lat=55.931336&lon=-3.314545
+GyleCen +GyleCentre http://www.openstreetmap.org/?lat=55.938103&lon=-3.318386
+EdiGat +EdinburghGateway http://www.openstreetmap.org/?lat=55.940927&lon=-3.320124
+Gog +Gogarburn http://www.openstreetmap.org/?lat=55.937970&lon=-3.332505
+IngPR http://www.openstreetmap.org/?lat=55.940098&lon=-3.354006
+EdiAir +EdinburghAirport http://www.openstreetmap.org/?lat=55.947512&lon=-3.360293

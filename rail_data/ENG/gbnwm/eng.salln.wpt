@@ -1,26 +1,26 @@
-BNM http://www.openstreetmap.org/?lat=52.477651&lon=-1.898704
-+X620525 http://www.openstreetmap.org/?lat=52.478383&lon=-1.903102
-+X424877 http://www.openstreetmap.org/?lat=52.492671&lon=-1.942778
-+SMR http://www.openstreetmap.org/?lat=52.496460&lon=-1.970158
-SGB http://www.openstreetmap.org/?lat=52.502110&lon=-1.980425
-+SAD http://www.openstreetmap.org/?lat=52.508581&lon=-2.011743
-+DDP http://www.openstreetmap.org/?lat=52.524460&lon=-2.049294
-+TIP http://www.openstreetmap.org/?lat=52.530569&lon=-2.065773
-+CSY http://www.openstreetmap.org/?lat=52.545239&lon=-2.085814
-+X758151 http://www.openstreetmap.org/?lat=52.586742&lon=-2.115211
-WVH http://www.openstreetmap.org/?lat=52.587811&lon=-2.120104
-+X126077 http://www.openstreetmap.org/?lat=52.594837&lon=-2.125425
+BirNewSt +BNM http://www.openstreetmap.org/?lat=52.477651&lon=-1.898704
+DIV_Uni http://www.openstreetmap.org/?lat=52.478383&lon=-1.903102
+DIV_Cha http://www.openstreetmap.org/?lat=52.492671&lon=-1.942778
+SKIP_SmeRolSt http://www.openstreetmap.org/?lat=52.496460&lon=-1.970158
+SmeGalBri +SGB http://www.openstreetmap.org/?lat=52.502110&lon=-1.980425
+SKIP_SanDud http://www.openstreetmap.org/?lat=52.508581&lon=-2.011743
+SKIP_DudPort http://www.openstreetmap.org/?lat=52.524460&lon=-2.049294
+SKIP_Tip http://www.openstreetmap.org/?lat=52.530569&lon=-2.065773
+SKIP_Cos http://www.openstreetmap.org/?lat=52.545239&lon=-2.085814
+DIV_Wal http://www.openstreetmap.org/?lat=52.586742&lon=-2.115211
+Wol +WVH http://www.openstreetmap.org/?lat=52.587811&lon=-2.120104
+DIV_Sta http://www.openstreetmap.org/?lat=52.594837&lon=-2.125425
 +X364219 http://www.openstreetmap.org/?lat=52.607869&lon=-2.138815
-BBK http://www.openstreetmap.org/?lat=52.623972&lon=-2.187223
-CSL http://www.openstreetmap.org/?lat=52.627306&lon=-2.201557
-ALB http://www.openstreetmap.org/?lat=52.638298&lon=-2.269278
-COS http://www.openstreetmap.org/?lat=52.644847&lon=-2.300692
-SFN http://www.openstreetmap.org/?lat=52.666103&lon=-2.371502
-TFC http://www.openstreetmap.org/?lat=52.681091&lon=-2.441282
-OKN http://www.openstreetmap.org/?lat=52.693162&lon=-2.450123
+Bil +BBK http://www.openstreetmap.org/?lat=52.623972&lon=-2.187223
+Cod +CSL http://www.openstreetmap.org/?lat=52.627306&lon=-2.201557
+Alb http://www.openstreetmap.org/?lat=52.638298&lon=-2.269278
+Cos http://www.openstreetmap.org/?lat=52.644847&lon=-2.300692
+Shi +SFN http://www.openstreetmap.org/?lat=52.666103&lon=-2.371502
+TelCen +TFC http://www.openstreetmap.org/?lat=52.681091&lon=-2.441282
+Oak +OKN http://www.openstreetmap.org/?lat=52.693162&lon=-2.450123
 +X244894 http://www.openstreetmap.org/?lat=52.699300&lon=-2.464886
-WLN http://www.openstreetmap.org/?lat=52.701588&lon=-2.516642
+Wel +WLN http://www.openstreetmap.org/?lat=52.701588&lon=-2.516642
 +X628999 http://www.openstreetmap.org/?lat=52.711521&lon=-2.552776
 +X631591 http://www.openstreetmap.org/?lat=52.699248&lon=-2.622900
-+X236985 http://www.openstreetmap.org/?lat=52.709994&lon=-2.746840
-SHR http://www.openstreetmap.org/?lat=52.711768&lon=-2.749329
+DIV_Her http://www.openstreetmap.org/?lat=52.709994&lon=-2.746840
+Shr http://www.openstreetmap.org/?lat=52.711768&lon=-2.749329

@@ -1,20 +1,20 @@
-SQE http://www.openstreetmap.org/?lat=51.493415&lon=-0.047786
-+X157465 http://www.openstreetmap.org/?lat=51.489661&lon=-0.045984
-+X431468 http://www.openstreetmap.org/?lat=51.479509&lon=-0.053633
-QRP http://www.openstreetmap.org/?lat=51.473668&lon=-0.057335
-PMR http://www.openstreetmap.org/?lat=51.469896&lon=-0.069566
-+X964810 http://www.openstreetmap.org/?lat=51.468943&lon=-0.074265
-DMK http://www.openstreetmap.org/?lat=51.468051&lon=-0.089629
-+X948466 http://www.openstreetmap.org/?lat=51.465578&lon=-0.098426
-+X709947 http://www.openstreetmap.org/?lat=51.463446&lon=-0.108919
+SurQua +SQE http://www.openstreetmap.org/?lat=51.493415&lon=-0.047786
+DIV_Cro http://www.openstreetmap.org/?lat=51.489661&lon=-0.045984
+DIV_Lon http://www.openstreetmap.org/?lat=51.479509&lon=-0.053633
+QueRdPec +QRP http://www.openstreetmap.org/?lat=51.473668&lon=-0.057335
+PecRye +PMR http://www.openstreetmap.org/?lat=51.469896&lon=-0.069566
+DIV_Dul http://www.openstreetmap.org/?lat=51.468943&lon=-0.074265
+DenHill +DMK http://www.openstreetmap.org/?lat=51.468051&lon=-0.089629
+DIV_TLK http://www.openstreetmap.org/?lat=51.465578&lon=-0.098426
+DIV_BrE http://www.openstreetmap.org/?lat=51.463446&lon=-0.108919
 +X474473 http://www.openstreetmap.org/?lat=51.462804&lon=-0.114133
-+X962471 http://www.openstreetmap.org/?lat=51.463774&lon=-0.119798
-CLP http://www.openstreetmap.org/?lat=51.465471&lon=-0.132244
-WWR http://www.openstreetmap.org/?lat=51.469963&lon=-0.138359
-+X812831 http://www.openstreetmap.org/?lat=51.471881&lon=-0.140183
-+X991880 http://www.openstreetmap.org/?lat=51.473705&lon=-0.147200
-+X859206 http://www.openstreetmap.org/?lat=51.470029&lon=-0.155482
+DIV_BrW http://www.openstreetmap.org/?lat=51.463774&lon=-0.119798
+ClaHighSt +CLP http://www.openstreetmap.org/?lat=51.465471&lon=-0.132244
+WanRd +WWR http://www.openstreetmap.org/?lat=51.469963&lon=-0.138359
+DIV_Vic http://www.openstreetmap.org/?lat=51.471881&lon=-0.140183
+DIV_Bat http://www.openstreetmap.org/?lat=51.473705&lon=-0.147200
+DIV_She http://www.openstreetmap.org/?lat=51.470029&lon=-0.155482
 +X101034 http://www.openstreetmap.org/?lat=51.469187&lon=-0.161920
-+X231047 http://www.openstreetmap.org/?lat=51.467476&lon=-0.164280
-+X883927 http://www.openstreetmap.org/?lat=51.466420&lon=-0.166662
-CLJ http://www.openstreetmap.org/?lat=51.464663&lon=-0.170546
+DIV_Wat http://www.openstreetmap.org/?lat=51.467476&lon=-0.164280
+DIV_WLL http://www.openstreetmap.org/?lat=51.466420&lon=-0.166662
+ClaJct +CLJ http://www.openstreetmap.org/?lat=51.464663&lon=-0.170546

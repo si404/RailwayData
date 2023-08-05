@@ -1,32 +1,33 @@
-BFR http://www.openstreetmap.org/?lat=51.509993&lon=-0.103281
-+X555534 http://www.openstreetmap.org/?lat=51.505035&lon=-0.102616
-EPH http://www.openstreetmap.org/?lat=51.494043&lon=-0.098684
-+X539159 http://www.openstreetmap.org/?lat=51.467530&lon=-0.102203
-+X948466 http://www.openstreetmap.org/?lat=51.465578&lon=-0.098426
-DMK http://www.openstreetmap.org/?lat=51.468051&lon=-0.089629
-+X964810 http://www.openstreetmap.org/?lat=51.468943&lon=-0.074265
-PMR http://www.openstreetmap.org/?lat=51.469896&lon=-0.069566
-NHD http://www.openstreetmap.org/?lat=51.466861&lon=-0.052292
-+X307528 http://www.openstreetmap.org/?lat=51.466193&lon=-0.049009
-CFT http://www.openstreetmap.org/?lat=51.455204&lon=-0.036693
-CTF http://www.openstreetmap.org/?lat=51.444439&lon=-0.026178
-BGM http://www.openstreetmap.org/?lat=51.433003&lon=-0.019398
-BEC http://www.openstreetmap.org/?lat=51.424240&lon=-0.015621
-RVB http://www.openstreetmap.org/?lat=51.414297&lon=-0.007639
-+X583201 http://www.openstreetmap.org/?lat=51.408168&lon=-0.002317
-SRT http://www.openstreetmap.org/?lat=51.405879&lon=0.002146
-BMS http://www.openstreetmap.org/?lat=51.400143&lon=0.017595
-BKL http://www.openstreetmap.org/?lat=51.400089&lon=0.044460
-+X812116 http://www.openstreetmap.org/?lat=51.400779&lon=0.057485
-+X605809 http://www.openstreetmap.org/?lat=51.400444&lon=0.062850
-SMY http://www.openstreetmap.org/?lat=51.394627&lon=0.106430
-SAY http://www.openstreetmap.org/?lat=51.393342&lon=0.168743
-+X829494 http://www.openstreetmap.org/?lat=51.394239&lon=0.172262
+LonBla +BFR http://www.openstreetmap.org/?lat=51.509993&lon=-0.103281
+DIV_LB http://www.openstreetmap.org/?lat=51.505035&lon=-0.102616
+EleCas +EPH http://www.openstreetmap.org/?lat=51.494043&lon=-0.098684
+DIV_Sut http://www.openstreetmap.org/?lat=51.467530&lon=-0.102203
+DIV_Vic http://www.openstreetmap.org/?lat=51.465578&lon=-0.098426
+DenHill +DMK http://www.openstreetmap.org/?lat=51.468051&lon=-0.089629
+DIV_Dul http://www.openstreetmap.org/?lat=51.468943&lon=-0.074265
+PecRye +PMR http://www.openstreetmap.org/?lat=51.469896&lon=-0.069566
++X293260 http://www.openstreetmap.org/?lat=51.470611&lon=-0.067592
+Nun +NHD http://www.openstreetmap.org/?lat=51.466861&lon=-0.052292
+DIV_Lew http://www.openstreetmap.org/?lat=51.466193&lon=-0.049009
+CroPark +CFT http://www.openstreetmap.org/?lat=51.455204&lon=-0.036693
+Cat +CTF http://www.openstreetmap.org/?lat=51.444439&lon=-0.026178
+Bel +BGM http://www.openstreetmap.org/?lat=51.433003&lon=-0.019398
+BecHill +BEC http://www.openstreetmap.org/?lat=51.424240&lon=-0.015621
+Rav +RVB http://www.openstreetmap.org/?lat=51.414297&lon=-0.007639
+DIV_Bec http://www.openstreetmap.org/?lat=51.408168&lon=-0.002317
+Shot +SRT http://www.openstreetmap.org/?lat=51.405879&lon=0.002146
+BroSou +BMS http://www.openstreetmap.org/?lat=51.400143&lon=0.017595
+Bic +BKL http://www.openstreetmap.org/?lat=51.400089&lon=0.044460
+DIV_Orp http://www.openstreetmap.org/?lat=51.400779&lon=0.057485
+DIV_Chi http://www.openstreetmap.org/?lat=51.400444&lon=0.062850
+StMaryCray +SMY http://www.openstreetmap.org/?lat=51.394627&lon=0.106430
+Swa +SAY http://www.openstreetmap.org/?lat=51.393342&lon=0.168743
+DIV_Cha http://www.openstreetmap.org/?lat=51.394239&lon=0.172262
 +X182933 http://www.openstreetmap.org/?lat=51.385723&lon=0.188828
-EYN http://www.openstreetmap.org/?lat=51.362697&lon=0.204191
-SEH http://www.openstreetmap.org/?lat=51.331979&lon=0.188742
-OTF http://www.openstreetmap.org/?lat=51.312924&lon=0.197110
-+X228622 http://www.openstreetmap.org/?lat=51.303846&lon=0.197808
-BBL http://www.openstreetmap.org/?lat=51.289849&lon=0.193892
-+X176234 http://www.openstreetmap.org/?lat=51.278162&lon=0.180867
-SEV http://www.openstreetmap.org/?lat=51.276686&lon=0.181768
+Eyn http://www.openstreetmap.org/?lat=51.362697&lon=0.204191
+Shoh +SEH http://www.openstreetmap.org/?lat=51.331979&lon=0.188742
+Otf http://www.openstreetmap.org/?lat=51.312924&lon=0.197110
+DIV_Mai http://www.openstreetmap.org/?lat=51.303846&lon=0.197808
+BatBall +BBL http://www.openstreetmap.org/?lat=51.289849&lon=0.193892
+DIV_SE http://www.openstreetmap.org/?lat=51.278162&lon=0.180867
+Sev http://www.openstreetmap.org/?lat=51.276686&lon=0.181768

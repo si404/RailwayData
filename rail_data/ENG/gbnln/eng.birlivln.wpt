@@ -1,42 +1,42 @@
-BNM http://www.openstreetmap.org/?lat=52.477651&lon=-1.898704
-+X620525 http://www.openstreetmap.org/?lat=52.478383&lon=-1.903102
-+X424877 http://www.openstreetmap.org/?lat=52.492671&lon=-1.942778
-+SMR http://www.openstreetmap.org/?lat=52.496460&lon=-1.970158
-SGB http://www.openstreetmap.org/?lat=52.502110&lon=-1.980425
-+SAD http://www.openstreetmap.org/?lat=52.508581&lon=-2.011743
-+DDP http://www.openstreetmap.org/?lat=52.524460&lon=-2.049294
-+TIP http://www.openstreetmap.org/?lat=52.530569&lon=-2.065773
-+CSY http://www.openstreetmap.org/?lat=52.545239&lon=-2.085814
-+X758151 http://www.openstreetmap.org/?lat=52.586742&lon=-2.115211
-WVH http://www.openstreetmap.org/?lat=52.587811&lon=-2.120104
-+X126077 http://www.openstreetmap.org/?lat=52.594837&lon=-2.125425
+BirNewSt +BNM http://www.openstreetmap.org/?lat=52.477651&lon=-1.898704
+DIV_Uni http://www.openstreetmap.org/?lat=52.478383&lon=-1.903102
+DIV_Cha http://www.openstreetmap.org/?lat=52.492671&lon=-1.942778
+SKIP_SmeRolSt http://www.openstreetmap.org/?lat=52.496460&lon=-1.970158
+SmeGalBri +SGB http://www.openstreetmap.org/?lat=52.502110&lon=-1.980425
+SKIP_SanDud http://www.openstreetmap.org/?lat=52.508581&lon=-2.011743
+SKIP_DudPort http://www.openstreetmap.org/?lat=52.524460&lon=-2.049294
+SKIP_Tip http://www.openstreetmap.org/?lat=52.530569&lon=-2.065773
+SKIP_Cos http://www.openstreetmap.org/?lat=52.545239&lon=-2.085814
+DIV_Wal http://www.openstreetmap.org/?lat=52.586742&lon=-2.115211
+Wol +WVH http://www.openstreetmap.org/?lat=52.587811&lon=-2.120104
+DIV_Tel http://www.openstreetmap.org/?lat=52.594837&lon=-2.125425
 +X587688 http://www.openstreetmap.org/?lat=52.641970&lon=-2.117958
 +X328582 http://www.openstreetmap.org/?lat=52.700912&lon=-2.128344
-PKG http://www.openstreetmap.org/?lat=52.723739&lon=-2.119246
+Pen  +PKG http://www.openstreetmap.org/?lat=52.723739&lon=-2.119246
 +X260897 http://www.openstreetmap.org/?lat=52.782364&lon=-2.109890
-+X840384 http://www.openstreetmap.org/?lat=52.797916&lon=-2.116413
-STA http://www.openstreetmap.org/?lat=52.803773&lon=-2.122335
+DIV_Tre http://www.openstreetmap.org/?lat=52.797916&lon=-2.116413
+Sta http://www.openstreetmap.org/?lat=52.803773&lon=-2.122335
 +X268987 http://www.openstreetmap.org/?lat=52.844124&lon=-2.180099
-+X472750 http://www.openstreetmap.org/?lat=52.870192&lon=-2.197266
+DIV_Sto http://www.openstreetmap.org/?lat=52.870192&lon=-2.197266
 +X833913 http://www.openstreetmap.org/?lat=52.897228&lon=-2.251339
 +X980184 http://www.openstreetmap.org/?lat=52.952077&lon=-2.278633
 +X601624 http://www.openstreetmap.org/?lat=52.962418&lon=-2.309189
 +X455838 http://www.openstreetmap.org/?lat=53.046502&lon=-2.407808
-+X141625 http://www.openstreetmap.org/?lat=53.084862&lon=-2.430296
+DIV_Shr http://www.openstreetmap.org/?lat=53.084862&lon=-2.430296
 CRE http://www.openstreetmap.org/?lat=53.088986&lon=-2.432528
-+X111961 http://www.openstreetmap.org/?lat=53.091975&lon=-2.434351
-WSF http://www.openstreetmap.org/?lat=53.190530&lon=-2.494411
-HTF http://www.openstreetmap.org/?lat=53.241669&lon=-2.553549
-ACB http://www.openstreetmap.org/?lat=53.266368&lon=-2.602816
+DIV_Man http://www.openstreetmap.org/?lat=53.091975&lon=-2.434351
+Win +WSF http://www.openstreetmap.org/?lat=53.190530&lon=-2.494411
+Har +HTF http://www.openstreetmap.org/?lat=53.241669&lon=-2.553549
+ActBri +ACB http://www.openstreetmap.org/?lat=53.266368&lon=-2.602816
 +X137264 http://www.openstreetmap.org/?lat=53.283921&lon=-2.629251
-+X398059 http://www.openstreetmap.org/?lat=53.302351&lon=-2.638865
-+X490538 http://www.openstreetmap.org/?lat=53.325196&lon=-2.719588
-RUN http://www.openstreetmap.org/?lat=53.338676&lon=-2.739458
+DIV_War http://www.openstreetmap.org/?lat=53.302351&lon=-2.638865
+DIV_Che http://www.openstreetmap.org/?lat=53.325196&lon=-2.719588
+Run http://www.openstreetmap.org/?lat=53.338676&lon=-2.739458
 +X451393 http://www.openstreetmap.org/?lat=53.354663&lon=-2.741432
 +X918647 http://www.openstreetmap.org/?lat=53.353190&lon=-2.876101
-LPY http://www.openstreetmap.org/?lat=53.358146&lon=-2.889018
-+WSA http://www.openstreetmap.org/?lat=53.369465&lon=-2.907343
-+MSH http://www.openstreetmap.org/?lat=53.378554&lon=-2.914853
-+X136001 http://www.openstreetmap.org/?lat=53.403769&lon=-2.935710
-+EDG http://www.openstreetmap.org/?lat=53.402471&lon=-2.946589
-LIV http://www.openstreetmap.org/?lat=53.407511&lon=-2.977295
+LivSouPkwy +LPY http://www.openstreetmap.org/?lat=53.358146&lon=-2.889018
+SKIP_WestAll http://www.openstreetmap.org/?lat=53.369465&lon=-2.907343
+SKIP_MosHill http://www.openstreetmap.org/?lat=53.378554&lon=-2.914853
+DIV_Wig http://www.openstreetmap.org/?lat=53.403769&lon=-2.935710
+SKIP_EdgeHill http://www.openstreetmap.org/?lat=53.402471&lon=-2.946589
+LivLimeSt +LIV http://www.openstreetmap.org/?lat=53.407511&lon=-2.977295

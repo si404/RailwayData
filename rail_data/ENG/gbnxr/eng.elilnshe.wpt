@@ -1,22 +1,22 @@
-ZLW http://www.openstreetmap.org/?lat=51.519626&lon=-0.060489
-+X552471 http://www.openstreetmap.org/?lat=51.516989&lon=-0.043344
-+X390277 http://www.openstreetmap.org/?lat=51.534150&lon=-0.014226
-+X678287 http://www.openstreetmap.org/?lat=51.535749&lon=-0.011094
-+X232376 http://www.openstreetmap.org/?lat=51.540086&lon=-0.005643
-SRA http://www.openstreetmap.org/?lat=51.541671&lon=-0.003927
-+X120732 http://www.openstreetmap.org/?lat=51.543643&lon=-0.000644
-MYL http://www.openstreetmap.org/?lat=51.546075&lon=0.005879
-FOG http://www.openstreetmap.org/?lat=51.549224&lon=0.023303
-+X745665 http://www.openstreetmap.org/?lat=51.550955&lon=0.035115
-MNP http://www.openstreetmap.org/?lat=51.552133&lon=0.045040
-IFD http://www.openstreetmap.org/?lat=51.558937&lon=0.068965
-SVK http://www.openstreetmap.org/?lat=51.563913&lon=0.096838
-GMY http://www.openstreetmap.org/?lat=51.565807&lon=0.112224
-CTH http://www.openstreetmap.org/?lat=51.567901&lon=0.128081
-RMF http://www.openstreetmap.org/?lat=51.574923&lon=0.183249
-+X240743 http://www.openstreetmap.org/?lat=51.577563&lon=0.192561
-GDP http://www.openstreetmap.org/?lat=51.581750&lon=0.205522
-HRO http://www.openstreetmap.org/?lat=51.592656&lon=0.232816
-BRE http://www.openstreetmap.org/?lat=51.613660&lon=0.299592
+Whi +ZLW http://www.openstreetmap.org/?lat=51.519626&lon=-0.060489
+DIV_Abb http://www.openstreetmap.org/?lat=51.516989&lon=-0.043344
+DIV_GE http://www.openstreetmap.org/?lat=51.534150&lon=-0.014226
+DIV_DLR http://www.openstreetmap.org/?lat=51.535749&lon=-0.011094
+DIV_CeW http://www.openstreetmap.org/?lat=51.540086&lon=-0.005643
+Str +SRA http://www.openstreetmap.org/?lat=51.541671&lon=-0.003927
+DIV_CeE http://www.openstreetmap.org/?lat=51.543643&lon=-0.000644
+Mar +MYL http://www.openstreetmap.org/?lat=51.546075&lon=0.005879
+ForGate +FOG http://www.openstreetmap.org/?lat=51.549224&lon=0.023303
+DIV_Bar http://www.openstreetmap.org/?lat=51.550955&lon=0.035115
+ManPark +MNP http://www.openstreetmap.org/?lat=51.552133&lon=0.045040
+Ilf +IFD http://www.openstreetmap.org/?lat=51.558937&lon=0.068965
+SevKin +SVK http://www.openstreetmap.org/?lat=51.563913&lon=0.096838
+Goo +GMY http://www.openstreetmap.org/?lat=51.565807&lon=0.112224
+ChaHea +CTH http://www.openstreetmap.org/?lat=51.567901&lon=0.128081
+Rom +RMF http://www.openstreetmap.org/?lat=51.574923&lon=0.183249
+DIV_Upm http://www.openstreetmap.org/?lat=51.577563&lon=0.192561
+GidPark +GDP http://www.openstreetmap.org/?lat=51.581750&lon=0.205522
+HarWoo +HRO http://www.openstreetmap.org/?lat=51.592656&lon=0.232816
+Bre http://www.openstreetmap.org/?lat=51.613660&lon=0.299592
 +X865108 http://www.openstreetmap.org/?lat=51.615978&lon=0.319934
-SNF http://www.openstreetmap.org/?lat=51.630565&lon=0.330019
+She +SNF http://www.openstreetmap.org/?lat=51.630565&lon=0.330019

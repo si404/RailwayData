@@ -1,17 +1,17 @@
-WHC http://www.openstreetmap.org/?lat=51.582843&lon=-0.019956
-BHO http://www.openstreetmap.org/?lat=51.586710&lon=-0.041628
-TOM http://www.openstreetmap.org/?lat=51.588203&lon=-0.059856
-SVS http://www.openstreetmap.org/?lat=51.582477&lon=-0.075231
-FPK http://www.openstreetmap.org/?lat=51.564760&lon=-0.106344
-HHY http://www.openstreetmap.org/?lat=51.546188&lon=-0.103405
-KIC http://www.openstreetmap.org/?lat=51.530246&lon=-0.124090
-EUS http://www.openstreetmap.org/?lat=51.528784&lon=-0.134239
-WAS http://www.openstreetmap.org/?lat=51.524772&lon=-0.138509
-OXC http://www.openstreetmap.org/?lat=51.515253&lon=-0.141878
-GRP http://www.openstreetmap.org/?lat=51.506619&lon=-0.142865
-VIC http://www.openstreetmap.org/?lat=51.494671&lon=-0.144582
-PIM http://www.openstreetmap.org/?lat=51.489166&lon=-0.133595
-VXH http://www.openstreetmap.org/?lat=51.485849&lon=-0.122749
-STK http://www.openstreetmap.org/?lat=51.472195&lon=-0.122480
-+X812453 http://www.openstreetmap.org/?lat=51.465324&lon=-0.124519
-BRX http://www.openstreetmap.org/?lat=51.462931&lon=-0.113382
+WalCen +WHC http://www.openstreetmap.org/?lat=51.582843&lon=-0.019956
+BlaRd +BHO http://www.openstreetmap.org/?lat=51.586710&lon=-0.041628
+TotHale +TOM http://www.openstreetmap.org/?lat=51.588203&lon=-0.059856
+SevSis +SVS http://www.openstreetmap.org/?lat=51.582477&lon=-0.075231
+FinPark +FPK http://www.openstreetmap.org/?lat=51.564760&lon=-0.106344
+HigIsl +HHY http://www.openstreetmap.org/?lat=51.546188&lon=-0.103405
+KXSP +KIC http://www.openstreetmap.org/?lat=51.530246&lon=-0.124090
+Eus http://www.openstreetmap.org/?lat=51.528784&lon=-0.134239
+WarSt +WAS http://www.openstreetmap.org/?lat=51.524772&lon=-0.138509
+OxfCir +OXC http://www.openstreetmap.org/?lat=51.515253&lon=-0.141878
+GrePark +GRP http://www.openstreetmap.org/?lat=51.506619&lon=-0.142865
+Vic http://www.openstreetmap.org/?lat=51.494671&lon=-0.144582
+Pim http://www.openstreetmap.org/?lat=51.489166&lon=-0.133595
+Vau +VXH http://www.openstreetmap.org/?lat=51.485849&lon=-0.122749
+Sto +STK http://www.openstreetmap.org/?lat=51.472195&lon=-0.122480
++X812453 http://www.openstreetmap.org/?lat=51.465478&lon=-0.123854
+Bri +BRX http://www.openstreetmap.org/?lat=51.462931&lon=-0.113382

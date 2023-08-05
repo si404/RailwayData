@@ -1,36 +1,36 @@
-CST http://www.openstreetmap.org/?lat=51.511357&lon=-0.090337
-+X227884 http://www.openstreetmap.org/?lat=51.505616&lon=-0.089060
-LBG http://www.openstreetmap.org/?lat=51.504232&lon=-0.084994
-+X413332 http://www.openstreetmap.org/?lat=51.492015&lon=-0.059727
-+X366872 http://www.openstreetmap.org/?lat=51.488989&lon=-0.052485
-+X417360 http://www.openstreetmap.org/?lat=51.483447&lon=-0.039096
-+X876621 http://www.openstreetmap.org/?lat=51.478967&lon=-0.034482
-NWX http://www.openstreetmap.org/?lat=51.476375&lon=-0.032626
-+X490547 http://www.openstreetmap.org/?lat=51.470334&lon=-0.025342
-SAJ http://www.openstreetmap.org/?lat=51.469057&lon=-0.022230
-+X641437 http://www.openstreetmap.org/?lat=51.468168&lon=-0.020181
-+X307850 http://www.openstreetmap.org/?lat=51.467306&lon=-0.018271
-LEW http://www.openstreetmap.org/?lat=51.465605&lon=-0.013969
-BKH http://www.openstreetmap.org/?lat=51.465792&lon=0.008841
-+X207393 http://www.openstreetmap.org/?lat=51.466514&lon=0.013068
-+X878231 http://www.openstreetmap.org/?lat=51.485799&lon=0.027058
-CTN http://www.openstreetmap.org/?lat=51.486902&lon=0.031457
-WWD http://www.openstreetmap.org/?lat=51.491097&lon=0.055017
-WWA http://www.openstreetmap.org/?lat=51.489868&lon=0.069222
-PLU http://www.openstreetmap.org/?lat=51.489734&lon=0.083985
-+X910572 http://www.openstreetmap.org/?lat=51.490008&lon=0.087805
-ABW http://www.openstreetmap.org/?lat=51.491124&lon=0.120506
+LonCanSt +CST http://www.openstreetmap.org/?lat=51.511357&lon=-0.090337
+DIV_TL http://www.openstreetmap.org/?lat=51.505616&lon=-0.089060
+LonBri +LBG http://www.openstreetmap.org/?lat=51.504232&lon=-0.084994
+DIV_Pec http://www.openstreetmap.org/?lat=51.492015&lon=-0.059727
+DIV_Bri http://www.openstreetmap.org/?lat=51.488989&lon=-0.052485
+DIV_GrW http://www.openstreetmap.org/?lat=51.483447&lon=-0.039096
+DIV_ELL http://www.openstreetmap.org/?lat=51.478967&lon=-0.034482
+NewCro +NWX http://www.openstreetmap.org/?lat=51.476375&lon=-0.032626
+DIV_Tan http://www.openstreetmap.org/?lat=51.470334&lon=-0.025342
+StJoh +SAJ http://www.openstreetmap.org/?lat=51.469057&lon=-0.022230
+DIV_SE http://www.openstreetmap.org/?lat=51.468168&lon=-0.020181
+DIV_Nun http://www.openstreetmap.org/?lat=51.467306&lon=-0.018271
+Lew http://www.openstreetmap.org/?lat=51.465605&lon=-0.013969
+Bla +BKH http://www.openstreetmap.org/?lat=51.465792&lon=0.008841
+DIV_NKW http://www.openstreetmap.org/?lat=51.466514&lon=0.013068
+DIV_GrE http://www.openstreetmap.org/?lat=51.485799&lon=0.027058
+Cha +CTN http://www.openstreetmap.org/?lat=51.486902&lon=0.031457
+WooDoc +WWD http://www.openstreetmap.org/?lat=51.491097&lon=0.055017
+WooArs +WWA http://www.openstreetmap.org/?lat=51.489868&lon=0.069222
+Plu http://www.openstreetmap.org/?lat=51.489734&lon=0.083985
+DIV_Liz http://www.openstreetmap.org/?lat=51.490282&lon=0.096581
+AbbWoo +ABW http://www.openstreetmap.org/?lat=51.491124&lon=0.120506
 BVD http://www.openstreetmap.org/?lat=51.492172&lon=0.152457
 ERH http://www.openstreetmap.org/?lat=51.481617&lon=0.175159
-SGR http://www.openstreetmap.org/?lat=51.467665&lon=0.190313
-+X907286 http://www.openstreetmap.org/?lat=51.466987&lon=0.190904
-+X576192 http://www.openstreetmap.org/?lat=51.462791&lon=0.194621
-+X902725 http://www.openstreetmap.org/?lat=51.453432&lon=0.203118
-+X413116 http://www.openstreetmap.org/?lat=51.450089&lon=0.209255
-DFD http://www.openstreetmap.org/?lat=51.447468&lon=0.219083
-SCG http://www.openstreetmap.org/?lat=51.451426&lon=0.263500
-GNH http://www.openstreetmap.org/?lat=51.450437&lon=0.279894
-SWM http://www.openstreetmap.org/?lat=51.449099&lon=0.309978
-NFL http://www.openstreetmap.org/?lat=51.445970&lon=0.323968
-+X552010 http://www.openstreetmap.org/?lat=51.440741&lon=0.331821
-GRV http://www.openstreetmap.org/?lat=51.441343&lon=0.366926
+SlaGre +SGR http://www.openstreetmap.org/?lat=51.467665&lon=0.190313
+DIV_Bar http://www.openstreetmap.org/?lat=51.466987&lon=0.190904
+DIV_Bex http://www.openstreetmap.org/?lat=51.462791&lon=0.194621
+DIV_Cra http://www.openstreetmap.org/?lat=51.453432&lon=0.203118
+DIV_Sid http://www.openstreetmap.org/?lat=51.450089&lon=0.209255
+Dar +DFD http://www.openstreetmap.org/?lat=51.447468&lon=0.219083
+StoCro +SCG http://www.openstreetmap.org/?lat=51.451426&lon=0.263500
+Gre +GNH http://www.openstreetmap.org/?lat=51.450437&lon=0.279894
+Swa +SWM http://www.openstreetmap.org/?lat=51.449099&lon=0.309978
+Nor +NFL http://www.openstreetmap.org/?lat=51.445970&lon=0.323968
+DIV_HS1 http://www.openstreetmap.org/?lat=51.440741&lon=0.331821
+Gra +GRV http://www.openstreetmap.org/?lat=51.441343&lon=0.366926

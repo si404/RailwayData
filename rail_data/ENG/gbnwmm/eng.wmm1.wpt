@@ -1,30 +1,33 @@
-WolverhamptonStGeorges http://www.openstreetmap.org/?lat=52.584007&lon=-2.124503
-TheRoyal http://www.openstreetmap.org/?lat=52.581060&lon=-2.116971
-Priestfield http://www.openstreetmap.org/?lat=52.571932&lon=-2.097970
-TheCrescent http://www.openstreetmap.org/?lat=52.567953&lon=-2.080831
-BilstonCentral http://www.openstreetmap.org/?lat=52.565481&lon=-2.074775
-Loxdale http://www.openstreetmap.org/?lat=52.560067&lon=-2.065859
-BradleyLane http://www.openstreetmap.org/?lat=52.555944&lon=-2.057726
-WednesburyParkway http://www.openstreetmap.org/?lat=52.549672&lon=-2.032009
-WednesburyGreatWesternStreet http://www.openstreetmap.org/?lat=52.548928&lon=-2.025615
-BlackLake http://www.openstreetmap.org/?lat=52.531003&lon=-2.011142
-DudleyStreetGunsVillage http://www.openstreetmap.org/?lat=52.525171&lon=-2.008588
-DartmouthStreet http://www.openstreetmap.org/?lat=52.520484&lon=-2.004533
-LodgeRoadWestBromwichTownHall http://www.openstreetmap.org/?lat=52.518669&lon=-1.999812
-WestBromwichCentral http://www.openstreetmap.org/?lat=52.516502&lon=-1.994705
-TrinityWay http://www.openstreetmap.org/?lat=52.511879&lon=-1.988246
-KendrickPark http://www.openstreetmap.org/?lat=52.508692&lon=-1.982539
-+X376523 http://www.openstreetmap.org/?lat=52.506172&lon=-1.967046
-TheHawthorns http://www.openstreetmap.org/?lat=52.505584&lon=-1.964557
-BoothSt http://www.openstreetmap.org/?lat=52.501992&lon=-1.952391
-WinsonGrn http://www.openstreetmap.org/?lat=52.498831&lon=-1.939108
-BensonRd http://www.openstreetmap.org/?lat=52.496911&lon=-1.931062
-JewelleryQuarter http://www.openstreetmap.org/?lat=52.489738&lon=-1.914153
-StPauls http://www.openstreetmap.org/?lat=52.487151&lon=-1.904776
-+X422506 http://www.openstreetmap.org/?lat=52.486034&lon=-1.902952
-StChads http://www.openstreetmap.org/?lat=52.484843&lon=-1.900683
-BullStreet http://www.openstreetmap.org/?lat=52.482017&lon=-1.896477
-CorporationStreet http://www.openstreetmap.org/?lat=52.479900&lon=-1.897019
-GrandCentral http://www.openstreetmap.org/?lat=52.478603&lon=-1.899245
+WolStGeo +WolverhamptonStGeorges http://www.openstreetmap.org/?lat=52.584007&lon=-2.124503
+Roy +TheRoyal http://www.openstreetmap.org/?lat=52.581060&lon=-2.116971
+Pri +Priestfield http://www.openstreetmap.org/?lat=52.571932&lon=-2.097970
+Cre +TheCrescent http://www.openstreetmap.org/?lat=52.567953&lon=-2.080831
+BilCen +BilstonCentral http://www.openstreetmap.org/?lat=52.565481&lon=-2.074775
+Lox +Loxdale http://www.openstreetmap.org/?lat=52.560067&lon=-2.065859
+BraLn +BradleyLane http://www.openstreetmap.org/?lat=52.555944&lon=-2.057726
+WedPkwy +WednesburyParkway http://www.openstreetmap.org/?lat=52.549672&lon=-2.032009
+WedGWSt +WednesburyGreatWesternStreet http://www.openstreetmap.org/?lat=52.548928&lon=-2.025615
+BlaLake +BlackLake http://www.openstreetmap.org/?lat=52.531003&lon=-2.011142
+DudStGunVil +DudleyStreetGunsVillage http://www.openstreetmap.org/?lat=52.525171&lon=-2.008588
+DarSt +DartmouthStreet http://www.openstreetmap.org/?lat=52.520484&lon=-2.004533
+WBTownHall +LodgeRoadWestBromwichTownHall http://www.openstreetmap.org/?lat=52.518669&lon=-1.999812
+WestBromCen +WestBromwichCentral http://www.openstreetmap.org/?lat=52.516502&lon=-1.994705
+TriWay +TrinityWay http://www.openstreetmap.org/?lat=52.511879&lon=-1.988246
+KenPark +KendrickPark http://www.openstreetmap.org/?lat=52.508692&lon=-1.982539
+DIV_Haw http://www.openstreetmap.org/?lat=52.506172&lon=-1.967046
+Haw +TheHawthorns http://www.openstreetmap.org/?lat=52.505584&lon=-1.964557
+BooSt +BoothSt http://www.openstreetmap.org/?lat=52.501992&lon=-1.952391
+WinGre +WinsonGrn http://www.openstreetmap.org/?lat=52.498831&lon=-1.939108
+BenRd +BensonRd http://www.openstreetmap.org/?lat=52.496911&lon=-1.931062
+JewQua +JewelleryQuarter http://www.openstreetmap.org/?lat=52.489738&lon=-1.914153
+StPau +StPauls http://www.openstreetmap.org/?lat=52.487151&lon=-1.904776
+DIV_SH http://www.openstreetmap.org/?lat=52.486034&lon=-1.902952
+StCha +StChads http://www.openstreetmap.org/?lat=52.484843&lon=-1.900683
+BullSt +BullStreet http://www.openstreetmap.org/?lat=52.482017&lon=-1.896477
+CorSt +CorporationStreet http://www.openstreetmap.org/?lat=52.479900&lon=-1.897019
+GraCen +GrandCentral http://www.openstreetmap.org/?lat=52.478603&lon=-1.899245
 TownHall http://www.openstreetmap.org/?lat=52.479229&lon=-1.903306
-Library http://www.openstreetmap.org/?lat=52.478706&lon=-1.908349
+Lib +Library http://www.openstreetmap.org/?lat=52.478706&lon=-1.908349
+BriPla http://www.openstreetmap.org/?lat=52.476713&lon=-1.912286
+FiveWays http://www.openstreetmap.org/?lat=52.474798&lon=-1.914979
+EdgVil http://www.openstreetmap.org/?lat=52.472001&lon=-1.923734

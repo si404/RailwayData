@@ -1,20 +1,20 @@
-LST http://www.openstreetmap.org/?lat=51.518057&lon=-0.081389
-BET http://www.openstreetmap.org/?lat=51.523758&lon=-0.059395
-CBH http://www.openstreetmap.org/?lat=51.532235&lon=-0.057421
-LOF http://www.openstreetmap.org/?lat=51.541004&lon=-0.057786
-HAC http://www.openstreetmap.org/?lat=51.548557&lon=-0.060575
-+X784052 http://www.openstreetmap.org/?lat=51.549931&lon=-0.061390
-REC http://www.openstreetmap.org/?lat=51.558630&lon=-0.068364
-SKW http://www.openstreetmap.org/?lat=51.565020&lon=-0.072677
-SMH http://www.openstreetmap.org/?lat=51.574409&lon=-0.076711
-SVS http://www.openstreetmap.org/?lat=51.582477&lon=-0.075231
-BCV http://www.openstreetmap.org/?lat=51.593689&lon=-0.070059
-WHL http://www.openstreetmap.org/?lat=51.604485&lon=-0.070896
-SLV http://www.openstreetmap.org/?lat=51.614985&lon=-0.067120
-EDR http://www.openstreetmap.org/?lat=51.624831&lon=-0.061219
-+X823686 http://www.openstreetmap.org/?lat=51.634501&lon=-0.064974
-SBU http://www.openstreetmap.org/?lat=51.647997&lon=-0.052571
-TUR http://www.openstreetmap.org/?lat=51.672648&lon=-0.047207
-TEO http://www.openstreetmap.org/?lat=51.692046&lon=-0.035620
-+X825854 http://www.openstreetmap.org/?lat=51.699730&lon=-0.024322
-CHN http://www.openstreetmap.org/?lat=51.702686&lon=-0.023861
+LivSt +LST http://www.openstreetmap.org/?lat=51.518057&lon=-0.081389
+BetGre +BET http://www.openstreetmap.org/?lat=51.523758&lon=-0.059395
+CamHea +CBH http://www.openstreetmap.org/?lat=51.532235&lon=-0.057421
+LonFie +LOF http://www.openstreetmap.org/?lat=51.541004&lon=-0.057786
+HacDow +HAC http://www.openstreetmap.org/?lat=51.548557&lon=-0.060575
+DIV_Chi http://www.openstreetmap.org/?lat=51.549931&lon=-0.061390
+RecRd +REC http://www.openstreetmap.org/?lat=51.558630&lon=-0.068364
+StoNew +SKW http://www.openstreetmap.org/?lat=51.565020&lon=-0.072677
+StaHill +SMH http://www.openstreetmap.org/?lat=51.574409&lon=-0.076711
+SevSis +SVS http://www.openstreetmap.org/?lat=51.582477&lon=-0.075231
+BruGro +BCV http://www.openstreetmap.org/?lat=51.593689&lon=-0.070059
+WhiHartLn +WHL http://www.openstreetmap.org/?lat=51.604485&lon=-0.070896
+SilSt +SLV http://www.openstreetmap.org/?lat=51.614985&lon=-0.067120
+EdmGre +EDR http://www.openstreetmap.org/?lat=51.624831&lon=-0.061219
+DIV_Enf http://www.openstreetmap.org/?lat=51.634501&lon=-0.064974
+Sou +SBU http://www.openstreetmap.org/?lat=51.647997&lon=-0.052571
+TurSt +TUR http://www.openstreetmap.org/?lat=51.672648&lon=-0.047207
+TheGro +TEO http://www.openstreetmap.org/?lat=51.692046&lon=-0.035620
+DIV_Tot http://www.openstreetmap.org/?lat=51.699730&lon=-0.024322
+Che +CHN http://www.openstreetmap.org/?lat=51.702686&lon=-0.023861

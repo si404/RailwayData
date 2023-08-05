@@ -1,6 +1,6 @@
-EAL http://www.openstreetmap.org/?lat=51.514865&lon=-0.301309
-+X847129 http://www.openstreetmap.org/?lat=51.515026&lon=-0.294968
-+X207667 http://www.openstreetmap.org/?lat=51.514986&lon=-0.287029
-WEA http://www.openstreetmap.org/?lat=51.518360&lon=-0.280409
-+X224535 http://www.openstreetmap.org/?lat=51.525193&lon=-0.267824
-NOA http://www.openstreetmap.org/?lat=51.523521&lon=-0.259413
+EalBro +EAL http://www.openstreetmap.org/?lat=51.514865&lon=-0.301309
+DIV_Dis http://www.openstreetmap.org/?lat=51.515026&lon=-0.294968
+DIV_Liz http://www.openstreetmap.org/?lat=51.514986&lon=-0.287029
+WestAct +WEA http://www.openstreetmap.org/?lat=51.518360&lon=-0.280409
+DIV_Rui http://www.openstreetmap.org/?lat=51.525193&lon=-0.267824
+NorAct +NOA http://www.openstreetmap.org/?lat=51.523521&lon=-0.259413

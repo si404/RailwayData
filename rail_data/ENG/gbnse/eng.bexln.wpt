@@ -1,31 +1,31 @@
-VIC http://www.openstreetmap.org/?lat=51.494671&lon=-0.144582
-+X784121 http://www.openstreetmap.org/?lat=51.483260&lon=-0.147436
-+X812831 http://www.openstreetmap.org/?lat=51.471881&lon=-0.140183
-+WWR http://www.openstreetmap.org/?lat=51.469963&lon=-0.138359
-+CLP http://www.openstreetmap.org/?lat=51.465471&lon=-0.132244
-+X962471 http://www.openstreetmap.org/?lat=51.463774&lon=-0.119798
-+X474473 http://www.openstreetmap.org/?lat=51.463312&lon=-0.114348
-+X709947 http://www.openstreetmap.org/?lat=51.463446&lon=-0.108919
-+X948466 http://www.openstreetmap.org/?lat=51.465578&lon=-0.098426
-+X948466 http://www.openstreetmap.org/?lat=51.465578&lon=-0.098426
-DMK http://www.openstreetmap.org/?lat=51.468051&lon=-0.089629
-+X964810 http://www.openstreetmap.org/?lat=51.468943&lon=-0.074265
-PMR http://www.openstreetmap.org/?lat=51.469896&lon=-0.069566
-NHD http://www.openstreetmap.org/?lat=51.466861&lon=-0.052292
-+X307528 http://www.openstreetmap.org/?lat=51.466193&lon=-0.049009
-+X669530 http://www.openstreetmap.org/?lat=51.467961&lon=-0.020202
-+X307850 http://www.openstreetmap.org/?lat=51.467306&lon=-0.018271
-LEW http://www.openstreetmap.org/?lat=51.465605&lon=-0.013969
-BKH http://www.openstreetmap.org/?lat=51.465792&lon=0.008841
-+X207393 http://www.openstreetmap.org/?lat=51.466514&lon=0.013068
-KDB http://www.openstreetmap.org/?lat=51.462143&lon=0.027509
-ELW http://www.openstreetmap.org/?lat=51.455631&lon=0.052271
-FCN http://www.openstreetmap.org/?lat=51.459265&lon=0.079565
-WLI http://www.openstreetmap.org/?lat=51.464850&lon=0.101624
-BXH http://www.openstreetmap.org/?lat=51.463486&lon=0.133853
-BNH http://www.openstreetmap.org/?lat=51.464983&lon=0.159688
-+X471602 http://www.openstreetmap.org/?lat=51.464101&lon=0.188270
-+X576192 http://www.openstreetmap.org/?lat=51.462791&lon=0.194621
-+X902725 http://www.openstreetmap.org/?lat=51.453432&lon=0.203118
-+X413116 http://www.openstreetmap.org/?lat=51.450089&lon=0.209255
-DFD http://www.openstreetmap.org/?lat=51.447468&lon=0.219083
+LonVic +VIC http://www.openstreetmap.org/?lat=51.494671&lon=-0.144582
+DIV_Bri http://www.openstreetmap.org/?lat=51.483260&lon=-0.147436
+DIV_Cla http://www.openstreetmap.org/?lat=51.471881&lon=-0.140183
+SKIP_WanRd http://www.openstreetmap.org/?lat=51.469963&lon=-0.138359
+SKIP_ClaHighSt http://www.openstreetmap.org/?lat=51.465471&lon=-0.132244
+DIV_BrW http://www.openstreetmap.org/?lat=51.463774&lon=-0.119798
+DIV_Bri http://www.openstreetmap.org/?lat=51.463312&lon=-0.114348
+DIV_BrE http://www.openstreetmap.org/?lat=51.463446&lon=-0.108919
+DIV_TL http://www.openstreetmap.org/?lat=51.465578&lon=-0.098426
+DenHill +DMK http://www.openstreetmap.org/?lat=51.468051&lon=-0.089629
+DIV_Dul http://www.openstreetmap.org/?lat=51.468943&lon=-0.074265
+PecRye +PMR http://www.openstreetmap.org/?lat=51.469896&lon=-0.069566
++X293260 http://www.openstreetmap.org/?lat=51.470611&lon=-0.067592
+Nun +NHD http://www.openstreetmap.org/?lat=51.466861&lon=-0.052292
+DIV_Cat http://www.openstreetmap.org/?lat=51.466193&lon=-0.049009
+DIV_Tan http://www.openstreetmap.org/?lat=51.467961&lon=-0.020202
+DIV_Lew http://www.openstreetmap.org/?lat=51.467306&lon=-0.018271
+Lew http://www.openstreetmap.org/?lat=51.465605&lon=-0.013969
+Bla +BKH http://www.openstreetmap.org/?lat=51.465792&lon=0.008841
+DIV_NKW http://www.openstreetmap.org/?lat=51.466514&lon=0.013068
+Kid +KDB http://www.openstreetmap.org/?lat=51.462143&lon=0.027509
+Elt +ELW http://www.openstreetmap.org/?lat=51.455631&lon=0.052271
+Fal +FCN http://www.openstreetmap.org/?lat=51.459265&lon=0.079565
+Wel +WLI http://www.openstreetmap.org/?lat=51.464850&lon=0.101624
+Bex +BXH http://www.openstreetmap.org/?lat=51.463486&lon=0.133853
+Bar +BNH http://www.openstreetmap.org/?lat=51.464983&lon=0.159688
+DIV_SG http://www.openstreetmap.org/?lat=51.464101&lon=0.188270
+DIV_NKE http://www.openstreetmap.org/?lat=51.462791&lon=0.194621
+DIV_Cra http://www.openstreetmap.org/?lat=51.453432&lon=0.203118
+DIV_Sid http://www.openstreetmap.org/?lat=51.450089&lon=0.209255
+Dar +DFD http://www.openstreetmap.org/?lat=51.447468&lon=0.219083

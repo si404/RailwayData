@@ -1,20 +1,19 @@
-MIA http://www.openstreetmap.org/?lat=53.365112&lon=-2.272196
-+X927619 http://www.openstreetmap.org/?lat=53.362372&lon=-2.245331
-+X380566 http://www.openstreetmap.org/?lat=53.364344&lon=-2.238593
-+HDG http://www.openstreetmap.org/?lat=53.369363&lon=-2.236705
-+GTY http://www.openstreetmap.org/?lat=53.392939&lon=-2.230783
-+EDY http://www.openstreetmap.org/?lat=53.409263&lon=-2.222028
-+BNA http://www.openstreetmap.org/?lat=53.421950&lon=-2.215290
-+MAU http://www.openstreetmap.org/?lat=53.433584&lon=-2.209067
-+X399750 http://www.openstreetmap.org/?lat=53.452407&lon=-2.196075
-+X658196 http://www.openstreetmap.org/?lat=53.471506&lon=-2.214775
+ManAir +MIA http://www.openstreetmap.org/?lat=53.365112&lon=-2.272196
+DIV_Cre http://www.openstreetmap.org/?lat=53.362372&lon=-2.245331
+DIV_Sty http://www.openstreetmap.org/?lat=53.364344&lon=-2.238593
+SKIP_HeaGre http://www.openstreetmap.org/?lat=53.369363&lon=-2.236705
+SKIP_Gat http://www.openstreetmap.org/?lat=53.392939&lon=-2.230783
+SKIP_EastDid http://www.openstreetmap.org/?lat=53.409263&lon=-2.222028
+SKIP_Bur http://www.openstreetmap.org/?lat=53.421950&lon=-2.215290
+SKIP_MauRd http://www.openstreetmap.org/?lat=53.433584&lon=-2.209067
+DIV_Sto http://www.openstreetmap.org/?lat=53.452407&lon=-2.196075
+DIV_Ard http://www.openstreetmap.org/?lat=53.471506&lon=-2.214775
 +X904171 http://www.openstreetmap.org/?lat=53.475963&lon=-2.225193
-MAN http://www.openstreetmap.org/?lat=53.476321&lon=-2.228765
-MCO http://www.openstreetmap.org/?lat=53.473789&lon=-2.242284
-+DGT http://www.openstreetmap.org/?lat=53.474108&lon=-2.251039
-+X994623 http://www.openstreetmap.org/?lat=53.474823&lon=-2.254000
-+X450081 http://www.openstreetmap.org/?lat=53.476624&lon=-2.258785
-+X841615 http://www.openstreetmap.org/?lat=53.480139&lon=-2.258946
-+SFD http://www.openstreetmap.org/?lat=53.482740&lon=-2.255512
-MCV http://www.openstreetmap.org/?lat=53.488052&lon=-2.242563
-
+ManPic +MAN http://www.openstreetmap.org/?lat=53.476321&lon=-2.228765
+ManOxfRd +MCO http://www.openstreetmap.org/?lat=53.473789&lon=-2.242284
+SKIP_Dea http://www.openstreetmap.org/?lat=53.474108&lon=-2.251039
+DIV_Cas http://www.openstreetmap.org/?lat=53.474823&lon=-2.254000
+DIV_Bol http://www.openstreetmap.org/?lat=53.476624&lon=-2.258785
+DIV_Liv http://www.openstreetmap.org/?lat=53.480139&lon=-2.258946
+SKIP_SalCen http://www.openstreetmap.org/?lat=53.482740&lon=-2.255512
+ManVic +MCV http://www.openstreetmap.org/?lat=53.488052&lon=-2.242563

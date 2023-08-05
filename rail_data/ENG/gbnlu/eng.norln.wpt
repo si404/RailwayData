@@ -1,33 +1,33 @@
-EGW http://www.openstreetmap.org/?lat=51.613666&lon=-0.274959
-BTK http://www.openstreetmap.org/?lat=51.602806&lon=-0.264037
-CND http://www.openstreetmap.org/?lat=51.595435&lon=-0.249960
-HCL http://www.openstreetmap.org/?lat=51.583423&lon=-0.226507
-BTX http://www.openstreetmap.org/?lat=51.576836&lon=-0.213954
-GGN http://www.openstreetmap.org/?lat=51.572282&lon=-0.194020
+Edg +EGW http://www.openstreetmap.org/?lat=51.613666&lon=-0.274959
+BurOak +BTK http://www.openstreetmap.org/?lat=51.602806&lon=-0.264037
+Col +CND http://www.openstreetmap.org/?lat=51.595435&lon=-0.249960
+HenCen +HCL http://www.openstreetmap.org/?lat=51.583423&lon=-0.226507
+BreCro +BTX http://www.openstreetmap.org/?lat=51.576836&lon=-0.213954
+GolGre +GGN http://www.openstreetmap.org/?lat=51.572282&lon=-0.194020
 +X919322 http://www.openstreetmap.org/?lat=51.568601&lon=-0.181875
-HTD http://www.openstreetmap.org/?lat=51.556596&lon=-0.178399
-BZP http://www.openstreetmap.org/?lat=51.550325&lon=-0.164623
-CFM http://www.openstreetmap.org/?lat=51.544080&lon=-0.153465
-CTN http://www.openstreetmap.org/?lat=51.539382&lon=-0.142736
-EUS http://www.openstreetmap.org/?lat=51.528784&lon=-0.134239
+Ham +HTD http://www.openstreetmap.org/?lat=51.556596&lon=-0.178399
+BelPark +BZP http://www.openstreetmap.org/?lat=51.550325&lon=-0.164623
+ChaFarm +CFM http://www.openstreetmap.org/?lat=51.544080&lon=-0.153465
+CamTown +CTN http://www.openstreetmap.org/?lat=51.539382&lon=-0.142736
+Eus http://www.openstreetmap.org/?lat=51.528784&lon=-0.134239
 +X844408 http://www.openstreetmap.org/?lat=51.529495&lon=-0.129111
-KIC http://www.openstreetmap.org/?lat=51.530246&lon=-0.124090
-AGL http://www.openstreetmap.org/?lat=51.531823&lon=-0.106151
-OLD http://www.openstreetmap.org/?lat=51.525640&lon=-0.087633
-MOG http://www.openstreetmap.org/?lat=51.518270&lon=-0.088985
-BAN http://www.openstreetmap.org/?lat=51.513366&lon=-0.088953
-LBG http://www.openstreetmap.org/?lat=51.504232&lon=-0.084994
-BOR http://www.openstreetmap.org/?lat=51.501063&lon=-0.093384
-EPH http://www.openstreetmap.org/?lat=51.494043&lon=-0.098684
-KNG http://www.openstreetmap.org/?lat=51.488284&lon=-0.105894
-OVL http://www.openstreetmap.org/?lat=51.481851&lon=-0.112438
-STK http://www.openstreetmap.org/?lat=51.472195&lon=-0.122480
-CPN http://www.openstreetmap.org/?lat=51.465117&lon=-0.129991
-CPC http://www.openstreetmap.org/?lat=51.462123&lon=-0.137286
-CPS http://www.openstreetmap.org/?lat=51.452844&lon=-0.147629
-BAL http://www.openstreetmap.org/?lat=51.442834&lon=-0.151556
-TBC http://www.openstreetmap.org/?lat=51.435645&lon=-0.159602
-TBY http://www.openstreetmap.org/?lat=51.427778&lon=-0.168314
-CSD http://www.openstreetmap.org/?lat=51.418305&lon=-0.177884
-SWN http://www.openstreetmap.org/?lat=51.415147&lon=-0.192604
-MDN http://www.openstreetmap.org/?lat=51.402807&lon=-0.194750
+KXSP +KIC http://www.openstreetmap.org/?lat=51.530246&lon=-0.124090
+Ang +AGL http://www.openstreetmap.org/?lat=51.531823&lon=-0.106151
+OldSt +OLD http://www.openstreetmap.org/?lat=51.525640&lon=-0.087633
+Moo +MOG http://www.openstreetmap.org/?lat=51.518270&lon=-0.088985
+Bank +BAN http://www.openstreetmap.org/?lat=51.513366&lon=-0.088953
+LonBri +LBG http://www.openstreetmap.org/?lat=51.504232&lon=-0.084994
+Bor http://www.openstreetmap.org/?lat=51.501063&lon=-0.093384
+EleCas +EPH http://www.openstreetmap.org/?lat=51.494043&lon=-0.098684
+Ken +KNG http://www.openstreetmap.org/?lat=51.488284&lon=-0.105894
+Oval +OVL http://www.openstreetmap.org/?lat=51.481851&lon=-0.112438
+Sto +STK http://www.openstreetmap.org/?lat=51.472195&lon=-0.122480
+ClaNor +CPN http://www.openstreetmap.org/?lat=51.465117&lon=-0.129991
+ClaCom +CPC http://www.openstreetmap.org/?lat=51.462123&lon=-0.137286
+ClaSou +CPS http://www.openstreetmap.org/?lat=51.452844&lon=-0.147629
+Bal http://www.openstreetmap.org/?lat=51.442834&lon=-0.151556
+TooBec +TBC http://www.openstreetmap.org/?lat=51.435645&lon=-0.159602
+TooBdwy +TBY http://www.openstreetmap.org/?lat=51.427778&lon=-0.168314
+ColWood +CSD http://www.openstreetmap.org/?lat=51.418305&lon=-0.177884
+SouWim +SWN http://www.openstreetmap.org/?lat=51.415147&lon=-0.192604
+Mor +MDN http://www.openstreetmap.org/?lat=51.402807&lon=-0.194750

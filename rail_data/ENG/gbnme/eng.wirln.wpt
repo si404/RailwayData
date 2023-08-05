@@ -1,22 +1,22 @@
-LVJ_1 http://www.openstreetmap.org/?lat=53.404857&lon=-2.991886
-MRF http://www.openstreetmap.org/?lat=53.408617&lon=-2.989333
-LIV http://www.openstreetmap.org/?lat=53.407511&lon=-2.977295
-LVC http://www.openstreetmap.org/?lat=53.404383&lon=-2.979591
-LVJ_2 http://www.openstreetmap.org/?lat=53.404857&lon=-2.991886
-BKQ http://www.openstreetmap.org/?lat=53.394187&lon=-3.013966
-+X859161 http://www.openstreetmap.org/?lat=53.392610&lon=-3.015447
-BKC http://www.openstreetmap.org/?lat=53.388185&lon=-3.020875
-GNL http://www.openstreetmap.org/?lat=53.383335&lon=-3.016305
-RFY http://www.openstreetmap.org/?lat=53.372800&lon=-3.010769
-BEB http://www.openstreetmap.org/?lat=53.357640&lon=-3.003066
-PSL http://www.openstreetmap.org/?lat=53.349098&lon=-2.998624
-SPI http://www.openstreetmap.org/?lat=53.340053&lon=-2.994075
-BMR http://www.openstreetmap.org/?lat=53.330251&lon=-2.990212
-BOM http://www.openstreetmap.org/?lat=53.321857&lon=-2.986844
-ERA http://www.openstreetmap.org/?lat=53.307602&lon=-2.981286
-HOO http://www.openstreetmap.org/?lat=53.296908&lon=-2.977252
-+X954273 http://www.openstreetmap.org/?lat=53.293240&lon=-2.975600
-CPU http://www.openstreetmap.org/?lat=53.260117&lon=-2.942533
-BAC http://www.openstreetmap.org/?lat=53.208102&lon=-2.891335
-+X644387 http://www.openstreetmap.org/?lat=53.198520&lon=-2.884662
-CTR http://www.openstreetmap.org/?lat=53.196714&lon=-2.879663
+LivJamSt_1 +LVJ_1 http://www.openstreetmap.org/?lat=53.404857&lon=-2.991886
+Moo +MRF http://www.openstreetmap.org/?lat=53.408617&lon=-2.989333
+LivLimeSt +LIV http://www.openstreetmap.org/?lat=53.407511&lon=-2.977295
+LivCen +LVC http://www.openstreetmap.org/?lat=53.404383&lon=-2.979591
+LivJamSt_2 +LVJ_2 http://www.openstreetmap.org/?lat=53.404857&lon=-2.991886
+HamSq +BKQ http://www.openstreetmap.org/?lat=53.394187&lon=-3.013966
+DIV_Bir http://www.openstreetmap.org/?lat=53.392610&lon=-3.015447
+BirCen +BKC http://www.openstreetmap.org/?lat=53.388185&lon=-3.020875
+GreLn +GNL http://www.openstreetmap.org/?lat=53.383335&lon=-3.016305
+RockFry +RFY http://www.openstreetmap.org/?lat=53.372800&lon=-3.010769
+Beb http://www.openstreetmap.org/?lat=53.357640&lon=-3.003066
+PortSun +PSL http://www.openstreetmap.org/?lat=53.348479&lon=-2.998264
+Spi http://www.openstreetmap.org/?lat=53.340053&lon=-2.994075
+BroRake +BMR http://www.openstreetmap.org/?lat=53.330251&lon=-2.990212
+Bro +BOM http://www.openstreetmap.org/?lat=53.321857&lon=-2.986844
+EasRake +ERA http://www.openstreetmap.org/?lat=53.307602&lon=-2.981286
+Hoo http://www.openstreetmap.org/?lat=53.296908&lon=-2.977252
+DIV_Ell http://www.openstreetmap.org/?lat=53.293240&lon=-2.975600
+Cap +CPU http://www.openstreetmap.org/?lat=53.260117&lon=-2.942533
+Bac http://www.openstreetmap.org/?lat=53.208102&lon=-2.891335
+DIV_NWa http://www.openstreetmap.org/?lat=53.198520&lon=-2.884662
+Che +CTR http://www.openstreetmap.org/?lat=53.196714&lon=-2.879663
