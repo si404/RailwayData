@@ -1,6 +1,6 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-deufft;DEU-BB;1;;Fra;;deubb.01fra;
-deufft;DEU-BB;2;;Fra;;deubb.02fra;
-deufft;DEU-BB;3;;Fra;;deubb.03fra;
-deufft;DEU-BB;4;;Fra;;deubb.04fra;
-deufft;DEU-BB;5;;Fra;;deubb.05fra;
+deufft;DEU-BB;1;;Fra;Frankfurt;deubb.01fra;
+deufft;DEU-BB;2;;Fra;Frankfurt;deubb.02fra;
+deufft;DEU-BB;3;;Fra;Frankfurt;deubb.03fra;
+deufft;DEU-BB;4;;Fra;Frankfurt;deubb.04fra;
+deufft;DEU-BB;5;;Fra;Frankfurt;deubb.05fra;

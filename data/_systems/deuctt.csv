@@ -1,5 +1,5 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-deuctt;DEU-BB;1;;Cot;;deubb.01cot;
-deuctt;DEU-BB;2;;Cot;;deubb.02cot;
-deuctt;DEU-BB;3;;Cot;;deubb.03cot;
-deuctt;DEU-BB;4;;Cot;;deubb.04cot;
+deuctt;DEU-BB;1;;Cot;Cottbus;deubb.01cot;
+deuctt;DEU-BB;2;;Cot;Cottbus;deubb.02cot;
+deuctt;DEU-BB;3;;Cot;Cottbus;deubb.03cot;
+deuctt;DEU-BB;4;;Cot;Cottbus;deubb.04cot;

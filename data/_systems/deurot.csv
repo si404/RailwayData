@@ -1,7 +1,7 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-deurot;DEU-MV;1;;Ros;;deumv.01ros;
-deurot;DEU-MV;2;;Ros;;deumv.02ros;
-deurot;DEU-MV;3;;Ros;;deumv.03ros;
-deurot;DEU-MV;4;;Ros;;deumv.04ros;
-deurot;DEU-MV;5;;Ros;;deumv.05ros;
-deurot;DEU-MV;6;;Ros;;deumv.06ros;
+deurot;DEU-MV;1;;Ros;Rostock;deumv.01ros;
+deurot;DEU-MV;2;;Ros;Rostock;deumv.02ros;
+deurot;DEU-MV;3;;Ros;Rostock;deumv.03ros;
+deurot;DEU-MV;4;;Ros;Rostock;deumv.04ros;
+deurot;DEU-MV;5;;Ros;Rostock;deumv.05ros;
+deurot;DEU-MV;6;;Ros;Rostock;deumv.06ros;

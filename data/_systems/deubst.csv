@@ -1,6 +1,6 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-deubst;DEU-NI;1;;Bra;;deuni.01bra;
-deubst;DEU-NI;2;;Bra;;deuni.02bra;
-deubst;DEU-NI;3;;Bra;;deuni.03bra;
-deubst;DEU-NI;4;;Bra;;deuni.04bra;
-deubst;DEU-NI;5;;Bra;;deuni.05bra;
+deubst;DEU-NI;1;;Bra;Braunschweig;deuni.01bra;
+deubst;DEU-NI;2;;Bra;Braunschweig;deuni.02bra;
+deubst;DEU-NI;3;;Bra;Braunschweig;deuni.03bra;
+deubst;DEU-NI;4;;Bra;Braunschweig;deuni.04bra;
+deubst;DEU-NI;5;;Bra;Braunschweig;deuni.05bra;

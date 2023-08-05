@@ -1,6 +1,6 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-deusnt;DEU-MV;1;Sch;;;deumv.01sch;
-deusnt;DEU-MV;2;Sch;;(Main);deumv.02sch;
-deusnt;DEU-MV;2;Sch;Sta;Stadthaus;deumv.02schsta;
-deusnt;DEU-MV;3;Sch;;;deumv.03sch;
-deusnt;DEU-MV;4;Sch;;;deumv.04sch;
+deusnt;DEU-MV;1;Sch;;Schwerin;deumv.01sch;
+deusnt;DEU-MV;2;Sch;;Schwerin;deumv.02sch;
+deusnt;DEU-MV;2;Sch;Sta;Stadthaus, Schwerin;deumv.02schsta;
+deusnt;DEU-MV;3;Sch;;Schwerin;deumv.03sch;
+deusnt;DEU-MV;4;Sch;;Schwerin;deumv.04sch;
