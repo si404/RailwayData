@@ -1,15 +1,13 @@
 Bro http://www.openstreetmap.org/?lat=53.372455&lon=-6.298192
-+X602082 http://www.openstreetmap.org/?lat=53.371270&lon=-6.292677
+DIV_Wes http://www.openstreetmap.org/?lat=53.371270&lon=-6.292677
 Cab http://www.openstreetmap.org/?lat=53.364069&lon=-6.281819
 Phi http://www.openstreetmap.org/?lat=53.360381&lon=-6.278944
 Gra http://www.openstreetmap.org/?lat=53.357141&lon=-6.277356
 BroDIT http://www.openstreetmap.org/?lat=53.354080&lon=-6.273751
 Dom http://www.openstreetmap.org/?lat=53.351313&lon=-6.265533
-+X697116 http://www.openstreetmap.org/?lat=53.352431&lon=-6.261907
-OConUpp http://www.openstreetmap.org/?lat=53.351560&lon=-6.261081
-OConGPO http://www.openstreetmap.org/?lat=53.348845&lon=-6.259933
-Wes http://www.openstreetmap.org/?lat=53.346315&lon=-6.259042
-+X650213 http://www.openstreetmap.org/?lat=53.344925&lon=-6.259117
+ConUppPar +OConUpp +Par http://www.openstreetmap.org/?lat=53.352364&lon=-6.260501
+ConGPOMar +OConGPO +Mar http://www.openstreetmap.org/?lat=53.349066&lon=-6.258860
+WesTri +Wes +Tri http://www.openstreetmap.org/?lat=53.345857&lon=-6.258205
 Daw http://www.openstreetmap.org/?lat=53.342180&lon=-6.257980
 StSteGrn http://www.openstreetmap.org/?lat=53.339054&lon=-6.261370
 Har http://www.openstreetmap.org/?lat=53.333327&lon=-6.262679
