@@ -1,4 +1,4 @@
-LonVic +VIC http://www.openstreetmap.org/?lat=51.494671&lon=-0.144582
+LonVic http://www.openstreetmap.org/?lat=51.494671&lon=-0.144582
 DIV_SE http://www.openstreetmap.org/?lat=51.483260&lon=-0.147436
 SKIP_BatPark http://www.openstreetmap.org/?lat=51.477863&lon=-0.147645
 +X328270 http://www.openstreetmap.org/?lat=51.472723&lon=-0.149388
@@ -19,7 +19,7 @@ SKIP_Sel http://www.openstreetmap.org/?lat=51.392210&lon=-0.088642
 DIV_WAL http://www.openstreetmap.org/?lat=51.389398&lon=-0.086839
 +X195469 http://www.openstreetmap.org/?lat=51.387055&lon=-0.086453
 DIV_Lon http://www.openstreetmap.org/?lat=51.384946&lon=-0.087483
-EastCro +ECR http://www.openstreetmap.org/?lat=51.375993&lon=-0.092697
+SKIP_EastCro http://www.openstreetmap.org/?lat=51.375993&lon=-0.092697
 SKIP_SouCro http://www.openstreetmap.org/?lat=51.362878&lon=-0.093319
 DIV_Oxt http://www.openstreetmap.org/?lat=51.361204&lon=-0.093405
 SKIP_PurOak http://www.openstreetmap.org/?lat=51.347026&lon=-0.098770
@@ -35,18 +35,18 @@ DIV_Red http://www.openstreetmap.org/?lat=51.232358&lon=-0.169687
 SKIP_Ear http://www.openstreetmap.org/?lat=51.227696&lon=-0.170739
 SKIP_Sal http://www.openstreetmap.org/?lat=51.201795&lon=-0.162134
 SKIP_Hor http://www.openstreetmap.org/?lat=51.168782&lon=-0.160997
-GatAir +GTW http://www.openstreetmap.org/?lat=51.156766&lon=-0.160933
+GatAir http://www.openstreetmap.org/?lat=51.156766&lon=-0.160933
 SKIP_ThrBri http://www.openstreetmap.org/?lat=51.117401&lon=-0.161051
 +X270309 http://www.openstreetmap.org/?lat=51.082094&lon=-0.160503
 SKIP_BAB http://www.openstreetmap.org/?lat=51.055545&lon=-0.137029
 +X629419 http://www.openstreetmap.org/?lat=51.023662&lon=-0.108232
-HayHea +HHE http://www.openstreetmap.org/?lat=51.004918&lon=-0.105400
+HayHea http://www.openstreetmap.org/?lat=51.004918&lon=-0.105400
 SKIP_Wiv http://www.openstreetmap.org/?lat=50.964383&lon=-0.120699
 DIV_Eas http://www.openstreetmap.org/?lat=50.960674&lon=-0.122920
 SKIP_BurHill http://www.openstreetmap.org/?lat=50.953682&lon=-0.127373
-SKIP_Has +HSK http://www.openstreetmap.org/?lat=50.924740&lon=-0.145741
+SKIP_Has http://www.openstreetmap.org/?lat=50.924740&lon=-0.145741
 +X371726 http://www.openstreetmap.org/?lat=50.880957&lon=-0.166469
 SKIP_PrePark http://www.openstreetmap.org/?lat=50.845900&lon=-0.155311
 DIV_WCW http://www.openstreetmap.org/?lat=50.841578&lon=-0.153251
 DIV_ECW http://www.openstreetmap.org/?lat=50.833122&lon=-0.142736
-Bri +BTN http://www.openstreetmap.org/?lat=50.829327&lon=-0.140977
+Bri http://www.openstreetmap.org/?lat=50.829327&lon=-0.140977

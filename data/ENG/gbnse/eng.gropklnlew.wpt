@@ -1,8 +1,8 @@
-ChaCro +CHX http://www.openstreetmap.org/?lat=51.507721&lon=-0.124090
-WatEast +WAE http://www.openstreetmap.org/?lat=51.504115&lon=-0.108876
+ChaCro http://www.openstreetmap.org/?lat=51.507721&lon=-0.124090
+WatEast http://www.openstreetmap.org/?lat=51.504115&lon=-0.108876
 DIV_TL http://www.openstreetmap.org/?lat=51.504070&lon=-0.099784
 DIV_Can http://www.openstreetmap.org/?lat=51.505616&lon=-0.089060
-LonBri +LBG http://www.openstreetmap.org/?lat=51.504232&lon=-0.084994
+LonBri http://www.openstreetmap.org/?lat=51.504232&lon=-0.084994
 DIV_Pec http://www.openstreetmap.org/?lat=51.492015&lon=-0.059727
 DIV_Bri http://www.openstreetmap.org/?lat=51.488989&lon=-0.052485
 DIV_Gre http://www.openstreetmap.org/?lat=51.483447&lon=-0.039096
@@ -14,18 +14,18 @@ DIV_Lew http://www.openstreetmap.org/?lat=51.467306&lon=-0.018271
 Lew http://www.openstreetmap.org/?lat=51.465605&lon=-0.013969
 DIV_Lad http://www.openstreetmap.org/?lat=51.461867&lon=-0.013926
 DIV_Cou http://www.openstreetmap.org/?lat=51.458646&lon=-0.013690
-HitGre +HGR http://www.openstreetmap.org/?lat=51.451587&lon=-0.000129
-GroPark +GRP http://www.openstreetmap.org/?lat=51.430267&lon=0.022702
+HitGre http://www.openstreetmap.org/?lat=51.451587&lon=-0.000129
+GroPark http://www.openstreetmap.org/?lat=51.430267&lon=0.022702
 DIV_BrN http://www.openstreetmap.org/?lat=51.428795&lon=0.024934
-ElmWoo +ESD http://www.openstreetmap.org/?lat=51.416726&lon=0.044546
-Chi +CIT http://www.openstreetmap.org/?lat=51.405116&lon=0.057871
+ElmWoo http://www.openstreetmap.org/?lat=51.416726&lon=0.044546
+Chi http://www.openstreetmap.org/?lat=51.405116&lon=0.057871
 DIV_Cha http://www.openstreetmap.org/?lat=51.400444&lon=0.062850
 DIV_Bic http://www.openstreetmap.org/?lat=51.393496&lon=0.069501
-PetWoo +PET http://www.openstreetmap.org/?lat=51.388475&lon=0.074522
+PetWoo http://www.openstreetmap.org/?lat=51.388475&lon=0.074522
 Orp http://www.openstreetmap.org/?lat=51.373582&lon=0.088727
-Che +CLD http://www.openstreetmap.org/?lat=51.356628&lon=0.108190
-Kno +KCK http://www.openstreetmap.org/?lat=51.345800&lon=0.130806
+Che http://www.openstreetmap.org/?lat=51.356628&lon=0.108190
+Kno http://www.openstreetmap.org/?lat=51.345800&lon=0.130806
 +X914308 http://www.openstreetmap.org/?lat=51.320595&lon=0.160718
-DunGre +DNG http://www.openstreetmap.org/?lat=51.296558&lon=0.171318
+DunGre http://www.openstreetmap.org/?lat=51.296558&lon=0.171318
 DIV_Dar http://www.openstreetmap.org/?lat=51.278162&lon=0.180867
 Sev http://www.openstreetmap.org/?lat=51.276686&lon=0.181768

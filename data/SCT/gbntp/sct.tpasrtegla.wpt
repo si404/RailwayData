@@ -25,7 +25,7 @@ DIV_Law http://www.openstreetmap.org/?lat=55.758735&lon=-3.887529
 +X711105 http://www.openstreetmap.org/?lat=55.757114&lon=-3.904781
 DIV_Wis http://www.openstreetmap.org/?lat=55.775514&lon=-3.952932
 SKIP_Shi http://www.openstreetmap.org/?lat=55.777279&lon=-3.957438
-Mot +MTH http://www.openstreetmap.org/?lat=55.792666&lon=-3.995601
+Mot http://www.openstreetmap.org/?lat=55.792666&lon=-3.995601
 DIV_Coa http://www.openstreetmap.org/?lat=55.794581&lon=-3.997564
 DIV_Bel http://www.openstreetmap.org/?lat=55.823523&lon=-4.075692
 SKIP_Udd http://www.openstreetmap.org/?lat=55.823581&lon=-4.086721
@@ -38,4 +38,4 @@ DIV_Rut http://www.openstreetmap.org/?lat=55.829993&lon=-4.209802
 +X875912 http://www.openstreetmap.org/?lat=55.831264&lon=-4.225960
 DIV_Pol http://www.openstreetmap.org/?lat=55.847822&lon=-4.261043
 DIV_Pai http://www.openstreetmap.org/?lat=55.851860&lon=-4.260013
-GlaCen +GLC http://www.openstreetmap.org/?lat=55.858515&lon=-4.258533
+GlaCen http://www.openstreetmap.org/?lat=55.858515&lon=-4.258533

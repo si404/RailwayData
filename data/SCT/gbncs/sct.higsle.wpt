@@ -35,7 +35,7 @@ SKIP_Sla http://www.openstreetmap.org/?lat=55.926479&lon=-3.244164
 DIV_Fal http://www.openstreetmap.org/?lat=55.944313&lon=-3.223640
 DIV_Tram1 http://www.openstreetmap.org/?lat=55.944787&lon=-3.221548
 SKIP_Hay1 http://www.openstreetmap.org/?lat=55.945337&lon=-3.218951
-EdiWav +EDB http://www.openstreetmap.org/?lat=55.952197&lon=-3.188674
+EdiWav http://www.openstreetmap.org/?lat=55.952197&lon=-3.188674
 SKIP_Hay2 http://www.openstreetmap.org/?lat=55.945337&lon=-3.218951
 DIV_Tram2 http://www.openstreetmap.org/?lat=55.944787&lon=-3.221548
 DIV_Liv http://www.openstreetmap.org/?lat=55.944313&lon=-3.223640
@@ -79,10 +79,10 @@ SKIP_DukeSt http://www.openstreetmap.org/?lat=55.858617&lon=-4.212613
 DIV_Coa http://www.openstreetmap.org/?lat=55.856522&lon=-4.218836
 SKIP_Bel http://www.openstreetmap.org/?lat=55.856726&lon=-4.224393
 SKIP_HighSt http://www.openstreetmap.org/?lat=55.859341&lon=-4.239934
-GlaQueSt +GLQ http://www.openstreetmap.org/?lat=55.862471&lon=-4.251108
+GlaQueSt http://www.openstreetmap.org/?lat=55.862471&lon=-4.251108
 SKIP_ChaCro http://www.openstreetmap.org/?lat=55.864638&lon=-4.269819
 SKIP_Cen http://www.openstreetmap.org/?lat=55.863238&lon=-4.292479
-SKIP_Par +PTK http://www.openstreetmap.org/?lat=55.869716&lon=-4.309065
+SKIP_Par http://www.openstreetmap.org/?lat=55.869716&lon=-4.309065
 SKIP_Hyn http://www.openstreetmap.org/?lat=55.879743&lon=-4.314569
 DIV_Jor http://www.openstreetmap.org/?lat=55.882187&lon=-4.321800
 SKIP_Ann http://www.openstreetmap.org/?lat=55.889639&lon=-4.321704
@@ -95,12 +95,12 @@ SKIP_Druc http://www.openstreetmap.org/?lat=55.904750&lon=-4.363010
 SKIP_Druy http://www.openstreetmap.org/?lat=55.904630&lon=-4.385455
 SKIP_Sin http://www.openstreetmap.org/?lat=55.907252&lon=-4.404509
 +X375941 http://www.openstreetmap.org/?lat=55.909299&lon=-4.416568
-Dal +DMR http://www.openstreetmap.org/?lat=55.911990&lon=-4.426868
+Dal http://www.openstreetmap.org/?lat=55.911990&lon=-4.426868
 SKIP_Kil http://www.openstreetmap.org/?lat=55.924237&lon=-4.453068
 SKIP_Bow http://www.openstreetmap.org/?lat=55.931041&lon=-4.492807
 +X277824 http://www.openstreetmap.org/?lat=55.935501&lon=-4.544392
 SKIP_DumEast http://www.openstreetmap.org/?lat=55.942555&lon=-4.554133
-DumCen +DBC http://www.openstreetmap.org/?lat=55.946569&lon=-4.567351
+DumCen http://www.openstreetmap.org/?lat=55.946569&lon=-4.567351
 SKIP_Dal http://www.openstreetmap.org/?lat=55.947449&lon=-4.577780
 DIV_Bal http://www.openstreetmap.org/?lat=55.947707&lon=-4.578434
 +X920034 http://www.openstreetmap.org/?lat=55.947350&lon=-4.604731
@@ -108,28 +108,28 @@ SKIP_Car http://www.openstreetmap.org/?lat=55.960144&lon=-4.652581
 +X273987 http://www.openstreetmap.org/?lat=55.963303&lon=-4.671507
 DIV_Hel http://www.openstreetmap.org/?lat=55.993767&lon=-4.705410
 +X183737 http://www.openstreetmap.org/?lat=56.006972&lon=-4.713092
-HelUpp +HLU http://www.openstreetmap.org/?lat=56.012382&lon=-4.730430
+HelUpp http://www.openstreetmap.org/?lat=56.012382&lon=-4.730430
 +X797239 http://www.openstreetmap.org/?lat=56.028704&lon=-4.784803
-Gar +GCH http://www.openstreetmap.org/?lat=56.079975&lon=-4.825487
+Gar http://www.openstreetmap.org/?lat=56.079975&lon=-4.825487
 +X905144 http://www.openstreetmap.org/?lat=56.095275&lon=-4.838834
 +X910991 http://www.openstreetmap.org/?lat=56.152721&lon=-4.780941
 +X391804 http://www.openstreetmap.org/?lat=56.180343&lon=-4.771929
-ArrTar +ART http://www.openstreetmap.org/?lat=56.203195&lon=-4.723005
+ArrTar http://www.openstreetmap.org/?lat=56.203195&lon=-4.723005
 +X576516 http://www.openstreetmap.org/?lat=56.217372&lon=-4.699488
 +X185310 http://www.openstreetmap.org/?lat=56.243731&lon=-4.715281
 +X897634 http://www.openstreetmap.org/?lat=56.282843&lon=-4.703007
-Ard +AUI http://www.openstreetmap.org/?lat=56.301765&lon=-4.721589
+Ard http://www.openstreetmap.org/?lat=56.301765&lon=-4.721589
 +X917183 http://www.openstreetmap.org/?lat=56.344968&lon=-4.724894
 +X489950 http://www.openstreetmap.org/?lat=56.352055&lon=-4.689703
-Cri +CNR http://www.openstreetmap.org/?lat=56.390373&lon=-4.618399
+Cri http://www.openstreetmap.org/?lat=56.390373&lon=-4.618399
 DIV_Oban http://www.openstreetmap.org/?lat=56.391641&lon=-4.618496
 +X357270 http://www.openstreetmap.org/?lat=56.397671&lon=-4.617348
 +X779945 http://www.openstreetmap.org/?lat=56.426126&lon=-4.665413
-UppTyn +UTY http://www.openstreetmap.org/?lat=56.434811&lon=-4.703951
+UppTyn http://www.openstreetmap.org/?lat=56.434811&lon=-4.703951
 +X657650 http://www.openstreetmap.org/?lat=56.476927&lon=-4.717426
 +X396254 http://www.openstreetmap.org/?lat=56.485648&lon=-4.702492
 +X621125 http://www.openstreetmap.org/?lat=56.491714&lon=-4.733391
-BriOrc +BRO http://www.openstreetmap.org/?lat=56.516144&lon=-4.764075
+BriOrc http://www.openstreetmap.org/?lat=56.516144&lon=-4.764075
 +X104425 http://www.openstreetmap.org/?lat=56.545550&lon=-4.754677
 +X902335 http://www.openstreetmap.org/?lat=56.582439&lon=-4.674425
 +X556970 http://www.openstreetmap.org/?lat=56.598555&lon=-4.610653
@@ -138,14 +138,14 @@ BriOrc +BRO http://www.openstreetmap.org/?lat=56.516144&lon=-4.764075
 Ran http://www.openstreetmap.org/?lat=56.685972&lon=-4.576921
 +X875908 http://www.openstreetmap.org/?lat=56.700695&lon=-4.576192
 +X792388 http://www.openstreetmap.org/?lat=56.733495&lon=-4.653139
-Cor +CRR http://www.openstreetmap.org/?lat=56.760192&lon=-4.690690
+Cor http://www.openstreetmap.org/?lat=56.760192&lon=-4.690690
 +X994977 http://www.openstreetmap.org/?lat=56.780829&lon=-4.733047
 +X323443 http://www.openstreetmap.org/?lat=56.882751&lon=-4.694853
 Tul http://www.openstreetmap.org/?lat=56.884123&lon=-4.701290
 +X831161 http://www.openstreetmap.org/?lat=56.887557&lon=-4.750042
-RoyBri +RYB http://www.openstreetmap.org/?lat=56.888430&lon=-4.837589
+RoyBri http://www.openstreetmap.org/?lat=56.888430&lon=-4.837589
 +X657973 http://www.openstreetmap.org/?lat=56.890511&lon=-4.877071
-SpeBri +SBR http://www.openstreetmap.org/?lat=56.889907&lon=-4.921682
+SpeBri http://www.openstreetmap.org/?lat=56.889907&lon=-4.921682
 +X576618 http://www.openstreetmap.org/?lat=56.858804&lon=-5.022984
 DIV_Mal http://www.openstreetmap.org/?lat=56.824130&lon=-5.091208
-FortWil +FTW http://www.openstreetmap.org/?lat=56.820474&lon=-5.105885
+FortWil http://www.openstreetmap.org/?lat=56.820474&lon=-5.105885

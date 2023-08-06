@@ -1,4 +1,4 @@
-LonEus +EUS http://www.openstreetmap.org/?lat=51.528784&lon=-0.134239
+LonEus http://www.openstreetmap.org/?lat=51.528784&lon=-0.134239
 +X461847 http://www.openstreetmap.org/?lat=51.542025&lon=-0.152307
 SKIP_SouHam http://www.openstreetmap.org/?lat=51.541331&lon=-0.178828
 SKIP_KilHighRd http://www.openstreetmap.org/?lat=51.537514&lon=-0.191531
@@ -18,7 +18,7 @@ SKIP_CarPark http://www.openstreetmap.org/?lat=51.627935&lon=-0.385466
 SKIP_Bus http://www.openstreetmap.org/?lat=51.645301&lon=-0.384929
 +X198270 http://www.openstreetmap.org/?lat=51.652770&lon=-0.384350
 DIV_Ove http://www.openstreetmap.org/?lat=51.661502&lon=-0.393147
-WatJct +WFJ http://www.openstreetmap.org/?lat=51.663725&lon=-0.395851
+WatJct http://www.openstreetmap.org/?lat=51.663725&lon=-0.395851
 +X115762 http://www.openstreetmap.org/?lat=51.693795&lon=-0.433273
 SKIP_KinLan http://www.openstreetmap.org/?lat=51.706389&lon=-0.437844
 SKIP_Aps http://www.openstreetmap.org/?lat=51.732371&lon=-0.463057

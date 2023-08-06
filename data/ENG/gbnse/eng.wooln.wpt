@@ -1,43 +1,43 @@
 CanSt_1 +CST_1 http://www.openstreetmap.org/?lat=51.511357&lon=-0.090337
 DIV_TL1 http://www.openstreetmap.org/?lat=51.505616&lon=-0.089060
-LonBri_1 +LBG_1 http://www.openstreetmap.org/?lat=51.504232&lon=-0.084994
+LonBri_1 http://www.openstreetmap.org/?lat=51.504232&lon=-0.084994
 DIV_Pec1 http://www.openstreetmap.org/?lat=51.492015&lon=-0.059727
 DIV_Bri1 http://www.openstreetmap.org/?lat=51.488989&lon=-0.052485
 DIV_SE http://www.openstreetmap.org/?lat=51.483447&lon=-0.039096
 Dep http://www.openstreetmap.org/?lat=51.479011&lon=-0.026693
-Gre +GNW http://www.openstreetmap.org/?lat=51.478102&lon=-0.015364
-MazeHill +MZH http://www.openstreetmap.org/?lat=51.482619&lon=0.003455
-WesPark +WCB http://www.openstreetmap.org/?lat=51.484236&lon=0.018926
+Gre http://www.openstreetmap.org/?lat=51.478102&lon=-0.015364
+MazeHill http://www.openstreetmap.org/?lat=51.482619&lon=0.003455
+WesPark http://www.openstreetmap.org/?lat=51.484236&lon=0.018926
 DIV_NKW http://www.openstreetmap.org/?lat=51.485799&lon=0.027058
-Cha +CTN http://www.openstreetmap.org/?lat=51.486902&lon=0.031457
-WooDoc +WWD http://www.openstreetmap.org/?lat=51.491097&lon=0.055017
-WooArs +WWA http://www.openstreetmap.org/?lat=51.489868&lon=0.069222
+Cha http://www.openstreetmap.org/?lat=51.486902&lon=0.031457
+WooDoc http://www.openstreetmap.org/?lat=51.491097&lon=0.055017
+WooArs http://www.openstreetmap.org/?lat=51.489868&lon=0.069222
 Plu http://www.openstreetmap.org/?lat=51.489734&lon=0.083985
 DIV_Liz http://www.openstreetmap.org/?lat=51.490282&lon=0.096581
 AbbWood +ABW http://www.openstreetmap.org/?lat=51.491124&lon=0.120506
-Bel +BVD http://www.openstreetmap.org/?lat=51.492172&lon=0.152457
-Eri +ERH http://www.openstreetmap.org/?lat=51.481617&lon=0.175159
-SlaGre +SGR http://www.openstreetmap.org/?lat=51.467665&lon=0.190313
+Bel http://www.openstreetmap.org/?lat=51.492172&lon=0.152457
+Eri http://www.openstreetmap.org/?lat=51.481617&lon=0.175159
+SlaGre http://www.openstreetmap.org/?lat=51.467665&lon=0.190313
 DIV_NKE http://www.openstreetmap.org/?lat=51.466987&lon=0.190904
 DIV_Dar http://www.openstreetmap.org/?lat=51.464101&lon=0.188270
-Bar +BNH http://www.openstreetmap.org/?lat=51.464983&lon=0.159688
-Bex +BXH http://www.openstreetmap.org/?lat=51.463486&lon=0.133853
-Wel +WLI http://www.openstreetmap.org/?lat=51.464850&lon=0.101624
-Fal +FCN http://www.openstreetmap.org/?lat=51.459265&lon=0.079565
-Elt +ELW http://www.openstreetmap.org/?lat=51.455631&lon=0.052271
-Kid +KDB http://www.openstreetmap.org/?lat=51.462143&lon=0.027509
+Bar http://www.openstreetmap.org/?lat=51.464983&lon=0.159688
+Bex http://www.openstreetmap.org/?lat=51.463486&lon=0.133853
+Wel http://www.openstreetmap.org/?lat=51.464850&lon=0.101624
+Fal http://www.openstreetmap.org/?lat=51.459265&lon=0.079565
+Elt http://www.openstreetmap.org/?lat=51.455631&lon=0.052271
+Kid http://www.openstreetmap.org/?lat=51.462143&lon=0.027509
 DIV_Cha http://www.openstreetmap.org/?lat=51.466514&lon=0.013068
-Bla +BKH http://www.openstreetmap.org/?lat=51.465792&lon=0.008841
+Bla http://www.openstreetmap.org/?lat=51.465792&lon=0.008841
 Lew http://www.openstreetmap.org/?lat=51.465605&lon=-0.013969
 DIV_Nun http://www.openstreetmap.org/?lat=51.467306&lon=-0.018271
 DIV_Lew http://www.openstreetmap.org/?lat=51.468168&lon=-0.020181
-StJoh +SAJ http://www.openstreetmap.org/?lat=51.469057&lon=-0.022230
+StJoh http://www.openstreetmap.org/?lat=51.469057&lon=-0.022230
 DIV_Tan http://www.openstreetmap.org/?lat=51.470334&lon=-0.025342
-NewCro +NWX http://www.openstreetmap.org/?lat=51.476375&lon=-0.032626
+NewCro http://www.openstreetmap.org/?lat=51.476375&lon=-0.032626
 DIV_ELL http://www.openstreetmap.org/?lat=51.478967&lon=-0.034482
 DIV_Gre http://www.openstreetmap.org/?lat=51.483447&lon=-0.039096
 DIV_Bri2 http://www.openstreetmap.org/?lat=51.488989&lon=-0.052485
 DIV_Pec2 http://www.openstreetmap.org/?lat=51.492015&lon=-0.059727
-LonBri_2 +LBG_2 http://www.openstreetmap.org/?lat=51.504232&lon=-0.084994
+LonBri_2 http://www.openstreetmap.org/?lat=51.504232&lon=-0.084994
 DIV_TL2 http://www.openstreetmap.org/?lat=51.505616&lon=-0.089060
-CanSt_2 +CST_2 http://www.openstreetmap.org/?lat=51.511357&lon=-0.090337
+CanSt_2 http://www.openstreetmap.org/?lat=51.511357&lon=-0.090337

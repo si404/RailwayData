@@ -1,4 +1,4 @@
-Car +CRS http://www.openstreetmap.org/?lat=55.691344&lon=-3.669391
+Car http://www.openstreetmap.org/?lat=55.691344&lon=-3.669391
 DIV_Loc http://www.openstreetmap.org/?lat=55.690401&lon=-3.666236
 DIV_Car http://www.openstreetmap.org/?lat=55.692004&lon=-3.655272
 +X718084 http://www.openstreetmap.org/?lat=55.749096&lon=-3.609524
@@ -13,4 +13,4 @@ SKIP_Sla http://www.openstreetmap.org/?lat=55.926479&lon=-3.244164
 DIV_Fal http://www.openstreetmap.org/?lat=55.944313&lon=-3.223640
 DIV_Tram http://www.openstreetmap.org/?lat=55.944787&lon=-3.221548
 SKIP_Hay http://www.openstreetmap.org/?lat=55.945337&lon=-3.218951
-EdiWav +EDB http://www.openstreetmap.org/?lat=55.952197&lon=-3.188674
+EdiWav http://www.openstreetmap.org/?lat=55.952197&lon=-3.188674

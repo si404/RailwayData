@@ -1,4 +1,4 @@
-KinCro +KGX http://www.openstreetmap.org/?lat=51.532048&lon=-0.123575
+KinCro http://www.openstreetmap.org/?lat=51.532048&lon=-0.123575
 DIV_TL http://www.openstreetmap.org/?lat=51.541364&lon=-0.122695
 DIV_NCL http://www.openstreetmap.org/?lat=51.558757&lon=-0.107889
 SKIP_FinPark http://www.openstreetmap.org/?lat=51.564760&lon=-0.106344
@@ -20,7 +20,7 @@ SKIP_WelNor http://www.openstreetmap.org/?lat=51.823763&lon=-0.192089
 +X858390 http://www.openstreetmap.org/?lat=51.843799&lon=-0.182734
 SKIP_Kne http://www.openstreetmap.org/?lat=51.866926&lon=-0.187025
 DIV_Her http://www.openstreetmap.org/?lat=51.885419&lon=-0.195866
-Ste +SVG http://www.openstreetmap.org/?lat=51.901627&lon=-0.206938
+Ste http://www.openstreetmap.org/?lat=51.901627&lon=-0.206938
 +X647962 http://www.openstreetmap.org/?lat=51.928945&lon=-0.227194
 SKIP_Hit http://www.openstreetmap.org/?lat=51.953232&lon=-0.263157
 DIV_Cam http://www.openstreetmap.org/?lat=51.962012&lon=-0.270967
@@ -64,7 +64,7 @@ DIV_Wak http://www.openstreetmap.org/?lat=53.530679&lon=-1.139746
 DIV_Pon http://www.openstreetmap.org/?lat=53.582748&lon=-1.123610
 DIV_York http://www.openstreetmap.org/?lat=53.715124&lon=-1.089277
 DIV_Lee http://www.openstreetmap.org/?lat=53.780052&lon=-1.065674
-Sel +SBY http://www.openstreetmap.org/?lat=53.782816&lon=-1.063485
+Sel http://www.openstreetmap.org/?lat=53.782816&lon=-1.063485
 +X121634 http://www.openstreetmap.org/?lat=53.787190&lon=-1.037178
 SKIP_Wre http://www.openstreetmap.org/?lat=53.772787&lon=-0.923624
 How http://www.openstreetmap.org/?lat=53.764771&lon=-0.860624
@@ -72,13 +72,13 @@ SKIP_Eas http://www.openstreetmap.org/?lat=53.755232&lon=-0.787153
 DIV_Goo http://www.openstreetmap.org/?lat=53.748622&lon=-0.736642
 SKIP_Gil http://www.openstreetmap.org/?lat=53.748038&lon=-0.731621
 SKIP_Bro http://www.openstreetmap.org/?lat=53.740367&lon=-0.672998
-Bro +BUH http://www.openstreetmap.org/?lat=53.726919&lon=-0.578113
+Bro http://www.openstreetmap.org/?lat=53.726919&lon=-0.578113
 SKIP_Fer http://www.openstreetmap.org/?lat=53.717016&lon=-0.507731
 SKIP_Hes http://www.openstreetmap.org/?lat=53.717346&lon=-0.442071
 +X588862 http://www.openstreetmap.org/?lat=53.732035&lon=-0.381775
 DIV_Bev http://www.openstreetmap.org/?lat=53.745723&lon=-0.357528
-HullParInt +HUL http://www.openstreetmap.org/?lat=53.744003&lon=-0.346842
+HullParInt http://www.openstreetmap.org/?lat=53.744003&lon=-0.346842
 DIV_Hes http://www.openstreetmap.org/?lat=53.745723&lon=-0.357528
 +X958171 http://www.openstreetmap.org/?lat=53.755181&lon=-0.390701
-Cot +CGM http://www.openstreetmap.org/?lat=53.781308&lon=-0.406151
+Cot http://www.openstreetmap.org/?lat=53.781308&lon=-0.406151
 Bev http://www.openstreetmap.org/?lat=53.842172&lon=-0.422888

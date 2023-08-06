@@ -1,4 +1,4 @@
-KinCro +KGX http://www.openstreetmap.org/?lat=51.532048&lon=-0.123575
+KinCro http://www.openstreetmap.org/?lat=51.532048&lon=-0.123575
 DIV_TL http://www.openstreetmap.org/?lat=51.541364&lon=-0.122695
 DIV_NCL http://www.openstreetmap.org/?lat=51.558757&lon=-0.107889
 SKIP_FinPark http://www.openstreetmap.org/?lat=51.564760&lon=-0.106344
@@ -68,14 +68,14 @@ DIR_Sel http://www.openstreetmap.org/?lat=53.715124&lon=-1.089277
 +X146736 http://www.openstreetmap.org/?lat=53.867105&lon=-1.181889
 DIR_Lee http://www.openstreetmap.org/?lat=53.890892&lon=-1.167684
 DIR_YorkS http://www.openstreetmap.org/?lat=53.953933&lon=-1.099041
-York +YRK http://www.openstreetmap.org/?lat=53.957721&lon=-1.093698
+York http://www.openstreetmap.org/?lat=53.957721&lon=-1.093698
 DIV_Sca http://www.openstreetmap.org/?lat=53.959778&lon=-1.093590
 DIR_YorkN http://www.openstreetmap.org/?lat=53.963906&lon=-1.113868
 DIV_Har http://www.openstreetmap.org/?lat=53.971657&lon=-1.121206
 +X193740 http://www.openstreetmap.org/?lat=54.112100&lon=-1.248150
 Thi http://www.openstreetmap.org/?lat=54.228238&lon=-1.372690
 +X778098 http://www.openstreetmap.org/?lat=54.253743&lon=-1.400585
-Nor +NTR http://www.openstreetmap.org/?lat=54.332954&lon=-1.441655
+Nor http://www.openstreetmap.org/?lat=54.332954&lon=-1.441655
 DIV_EC http://www.openstreetmap.org/?lat=54.336801&lon=-1.443930
 +X550039 http://www.openstreetmap.org/?lat=54.409840&lon=-1.381531
 +X679759 http://www.openstreetmap.org/?lat=54.465399&lon=-1.349087
@@ -84,12 +84,12 @@ DIV_TVW http://www.openstreetmap.org/?lat=54.528497&lon=-1.350610
 Eag http://www.openstreetmap.org/?lat=54.529581&lon=-1.349967
 DIV_TVE http://www.openstreetmap.org/?lat=54.548378&lon=-1.334774
 DIV_Mid http://www.openstreetmap.org/?lat=54.557767&lon=-1.326771
-SKIP_Sto +STK http://www.openstreetmap.org/?lat=54.569835&lon=-1.318188
+SKIP_Sto http://www.openstreetmap.org/?lat=54.569835&lon=-1.318188
 +X174319 http://www.openstreetmap.org/?lat=54.595875&lon=-1.332564
 SKIP_Bil http://www.openstreetmap.org/?lat=54.605557&lon=-1.279736
 +X638720 http://www.openstreetmap.org/?lat=54.643868&lon=-1.212101
 SKIP_SeaCar http://www.openstreetmap.org/?lat=54.657971&lon=-1.200428
-Har +HPL http://www.openstreetmap.org/?lat=54.686807&lon=-1.207724
+Har http://www.openstreetmap.org/?lat=54.686807&lon=-1.207724
 +X107490 http://www.openstreetmap.org/?lat=54.707094&lon=-1.213474
 +X635937 http://www.openstreetmap.org/?lat=54.726429&lon=-1.257849
 SKIP_Hor http://www.openstreetmap.org/?lat=54.763785&lon=-1.307287

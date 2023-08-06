@@ -1,8 +1,8 @@
-ChaCro +CHX http://www.openstreetmap.org/?lat=51.507721&lon=-0.124090
-WatEast +WAE http://www.openstreetmap.org/?lat=51.504115&lon=-0.108876
+ChaCro http://www.openstreetmap.org/?lat=51.507721&lon=-0.124090
+WatEast http://www.openstreetmap.org/?lat=51.504115&lon=-0.108876
 DIV_TL http://www.openstreetmap.org/?lat=51.504070&lon=-0.099784
 DIV_Can http://www.openstreetmap.org/?lat=51.505616&lon=-0.089060
-LonBri +LBG http://www.openstreetmap.org/?lat=51.504232&lon=-0.084994
+LonBri http://www.openstreetmap.org/?lat=51.504232&lon=-0.084994
 DIV_Pec http://www.openstreetmap.org/?lat=51.492015&lon=-0.059727
 DIV_Bri http://www.openstreetmap.org/?lat=51.488989&lon=-0.052485
 DIV_Gre http://www.openstreetmap.org/?lat=51.483447&lon=-0.039096
@@ -15,11 +15,11 @@ Lew http://www.openstreetmap.org/?lat=51.465605&lon=-0.013969
 DIV_Cou http://www.openstreetmap.org/?lat=51.461867&lon=-0.013926
 DIV_Lad http://www.openstreetmap.org/?lat=51.459201&lon=-0.016587
 Lad http://www.openstreetmap.org/?lat=51.456019&lon=-0.019162
-CatBri +CFB http://www.openstreetmap.org/?lat=51.444613&lon=-0.024912
-LowSyd +LSY http://www.openstreetmap.org/?lat=51.424574&lon=-0.033345
-NewBec +NBC http://www.openstreetmap.org/?lat=51.416937&lon=-0.035212
-CloHou +CLK http://www.openstreetmap.org/?lat=51.408690&lon=-0.040426
-ElmEnd +ELE http://www.openstreetmap.org/?lat=51.398034&lon=-0.049696
-EdenPark +EDN http://www.openstreetmap.org/?lat=51.390202&lon=-0.026371
-WestWic +WWI http://www.openstreetmap.org/?lat=51.381324&lon=-0.014420
-Hay +HYS http://www.openstreetmap.org/?lat=51.376402&lon=0.010171
+CatBri http://www.openstreetmap.org/?lat=51.444613&lon=-0.024912
+LowSyd http://www.openstreetmap.org/?lat=51.424574&lon=-0.033345
+NewBec http://www.openstreetmap.org/?lat=51.416937&lon=-0.035212
+CloHou http://www.openstreetmap.org/?lat=51.408690&lon=-0.040426
+ElmEnd http://www.openstreetmap.org/?lat=51.398034&lon=-0.049696
+EdenPark http://www.openstreetmap.org/?lat=51.390202&lon=-0.026371
+WestWic http://www.openstreetmap.org/?lat=51.381324&lon=-0.014420
+Hay http://www.openstreetmap.org/?lat=51.376402&lon=0.010171

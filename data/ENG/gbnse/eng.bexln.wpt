@@ -1,4 +1,4 @@
-LonVic +VIC http://www.openstreetmap.org/?lat=51.494671&lon=-0.144582
+LonVic http://www.openstreetmap.org/?lat=51.494671&lon=-0.144582
 DIV_Bri http://www.openstreetmap.org/?lat=51.483260&lon=-0.147436
 DIV_Cla http://www.openstreetmap.org/?lat=51.471881&lon=-0.140183
 SKIP_WanRd http://www.openstreetmap.org/?lat=51.469963&lon=-0.138359
@@ -7,25 +7,25 @@ DIV_BrW http://www.openstreetmap.org/?lat=51.463774&lon=-0.119798
 DIV_Bri http://www.openstreetmap.org/?lat=51.463312&lon=-0.114348
 DIV_BrE http://www.openstreetmap.org/?lat=51.463446&lon=-0.108919
 DIV_TL http://www.openstreetmap.org/?lat=51.465578&lon=-0.098426
-DenHill +DMK http://www.openstreetmap.org/?lat=51.468051&lon=-0.089629
+DenHill http://www.openstreetmap.org/?lat=51.468051&lon=-0.089629
 DIV_Dul http://www.openstreetmap.org/?lat=51.468943&lon=-0.074265
 PecRye +PMR http://www.openstreetmap.org/?lat=51.469896&lon=-0.069566
 +X293260 http://www.openstreetmap.org/?lat=51.470611&lon=-0.067592
-Nun +NHD http://www.openstreetmap.org/?lat=51.466861&lon=-0.052292
+Nun http://www.openstreetmap.org/?lat=51.466861&lon=-0.052292
 DIV_Cat http://www.openstreetmap.org/?lat=51.466193&lon=-0.049009
 DIV_Tan http://www.openstreetmap.org/?lat=51.467961&lon=-0.020202
 DIV_Lew http://www.openstreetmap.org/?lat=51.467306&lon=-0.018271
 Lew http://www.openstreetmap.org/?lat=51.465605&lon=-0.013969
-Bla +BKH http://www.openstreetmap.org/?lat=51.465792&lon=0.008841
+Bla http://www.openstreetmap.org/?lat=51.465792&lon=0.008841
 DIV_NKW http://www.openstreetmap.org/?lat=51.466514&lon=0.013068
-Kid +KDB http://www.openstreetmap.org/?lat=51.462143&lon=0.027509
-Elt +ELW http://www.openstreetmap.org/?lat=51.455631&lon=0.052271
-Fal +FCN http://www.openstreetmap.org/?lat=51.459265&lon=0.079565
+Kid http://www.openstreetmap.org/?lat=51.462143&lon=0.027509
+Elt http://www.openstreetmap.org/?lat=51.455631&lon=0.052271
+Fal http://www.openstreetmap.org/?lat=51.459265&lon=0.079565
 Wel +WLI http://www.openstreetmap.org/?lat=51.464850&lon=0.101624
-Bex +BXH http://www.openstreetmap.org/?lat=51.463486&lon=0.133853
-Bar +BNH http://www.openstreetmap.org/?lat=51.464983&lon=0.159688
+Bex http://www.openstreetmap.org/?lat=51.463486&lon=0.133853
+Bar http://www.openstreetmap.org/?lat=51.464983&lon=0.159688
 DIV_SG http://www.openstreetmap.org/?lat=51.464101&lon=0.188270
 DIV_NKE http://www.openstreetmap.org/?lat=51.462791&lon=0.194621
 DIV_Cra http://www.openstreetmap.org/?lat=51.453432&lon=0.203118
 DIV_Sid http://www.openstreetmap.org/?lat=51.450089&lon=0.209255
-Dar +DFD http://www.openstreetmap.org/?lat=51.447468&lon=0.219083
+Dar http://www.openstreetmap.org/?lat=51.447468&lon=0.219083

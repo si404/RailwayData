@@ -1,4 +1,4 @@
-LonLivSt +LST http://www.openstreetmap.org/?lat=51.518057&lon=-0.081389
+LonLivSt http://www.openstreetmap.org/?lat=51.518057&lon=-0.081389
 SKIP_BetGre http://www.openstreetmap.org/?lat=51.523758&lon=-0.059395
 SKIP_CamHea http://www.openstreetmap.org/?lat=51.532235&lon=-0.057421
 SKIP_LonFie http://www.openstreetmap.org/?lat=51.541004&lon=-0.057786
@@ -11,7 +11,7 @@ TotHale +TOM http://www.openstreetmap.org/?lat=51.588203&lon=-0.059856
 SKIP_NorPark http://www.openstreetmap.org/?lat=51.601933&lon=-0.053945
 SKIP_MerWat http://www.openstreetmap.org/?lat=51.610009&lon=-0.050254
 SKIP_PonEnd http://www.openstreetmap.org/?lat=51.643044&lon=-0.034633
-SKIP_Bri +BMD http://www.openstreetmap.org/?lat=51.655559&lon=-0.030899
+SKIP_Bri http://www.openstreetmap.org/?lat=51.655559&lon=-0.030899
 SKIP_EnfLock http://www.openstreetmap.org/?lat=51.670892&lon=-0.028625
 SKIP_WalCro http://www.openstreetmap.org/?lat=51.685248&lon=-0.026479
 DIV_Sou http://www.openstreetmap.org/?lat=51.699730&lon=-0.024322
@@ -19,13 +19,13 @@ SKIP_Che http://www.openstreetmap.org/?lat=51.702686&lon=-0.023861
 SKIP_Bro http://www.openstreetmap.org/?lat=51.746867&lon=-0.010600
 DIV_Her http://www.openstreetmap.org/?lat=51.762425&lon=0.005107
 SKIP_Roy http://www.openstreetmap.org/?lat=51.775455&lon=0.035534
-HarTown +HWN http://www.openstreetmap.org/?lat=51.781323&lon=0.095057
+HarTown http://www.openstreetmap.org/?lat=51.781323&lon=0.095057
 SKIP_HarMill http://www.openstreetmap.org/?lat=51.790455&lon=0.132093
 +X116361 http://www.openstreetmap.org/?lat=51.798013&lon=0.152178
 SKIP_Saw http://www.openstreetmap.org/?lat=51.814226&lon=0.160418
-BisSto +BIS http://www.openstreetmap.org/?lat=51.866409&lon=0.165482
+BisSto http://www.openstreetmap.org/?lat=51.866409&lon=0.165482
 +X499821 http://www.openstreetmap.org/?lat=51.881889&lon=0.168529
-StaMou +SST http://www.openstreetmap.org/?lat=51.901250&lon=0.199234
+StaMou http://www.openstreetmap.org/?lat=51.901250&lon=0.199234
 DIV_Cam http://www.openstreetmap.org/?lat=51.903441&lon=0.216894
 +X115375 http://www.openstreetmap.org/?lat=51.882386&lon=0.243330
 StaAir +SSD http://www.openstreetmap.org/?lat=51.889220&lon=0.262127

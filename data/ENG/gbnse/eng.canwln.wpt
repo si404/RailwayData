@@ -1,4 +1,4 @@
-LonStPanInt +STP http://www.openstreetmap.org/?lat=51.531881&lon=-0.126815
+LonStPanInt http://www.openstreetmap.org/?lat=51.531881&lon=-0.126815
 DIV_Mid http://www.openstreetmap.org/?lat=51.537697&lon=-0.129261
 +X795309 http://www.openstreetmap.org/?lat=51.548964&lon=-0.088234
 StrInt http://www.openstreetmap.org/?lat=51.544820&lon=-0.008733
@@ -8,7 +8,7 @@ DIV_Dag http://www.openstreetmap.org/?lat=51.526845&lon=0.138466
 SKIP_DagDock http://www.openstreetmap.org/?lat=51.525947&lon=0.146492
 SKIP_Rai http://www.openstreetmap.org/?lat=51.516635&lon=0.190544
 DIV_Pur http://www.openstreetmap.org/?lat=51.490215&lon=0.236464
-EbbInt +EBD http://www.openstreetmap.org/?lat=51.444205&lon=0.320449
+EbbInt http://www.openstreetmap.org/?lat=51.444205&lon=0.320449
 +X518535 http://www.openstreetmap.org/?lat=51.422989&lon=0.334225
 +X282361 http://www.openstreetmap.org/?lat=51.391065&lon=0.456791
 +X676135 http://www.openstreetmap.org/?lat=51.350852&lon=0.497389
@@ -23,14 +23,14 @@ SKIP_Wye http://www.openstreetmap.org/?lat=51.185275&lon=0.929546
 +X182741 http://www.openstreetmap.org/?lat=51.227232&lon=0.971861
 SKIP_Chi http://www.openstreetmap.org/?lat=51.244469&lon=0.976067
 SKIP_Cha http://www.openstreetmap.org/?lat=51.257255&lon=1.018252
-CanWest +CBW http://www.openstreetmap.org/?lat=51.284185&lon=1.075244
+CanWest http://www.openstreetmap.org/?lat=51.284185&lon=1.075244
 SKIP_Stu http://www.openstreetmap.org/?lat=51.300932&lon=1.122279
 +X273907 http://www.openstreetmap.org/?lat=51.335787&lon=1.242657
 SKIP_Min http://www.openstreetmap.org/?lat=51.329177&lon=1.317115
 +X469560 http://www.openstreetmap.org/?lat=51.328668&lon=1.325097
 +X589641 http://www.openstreetmap.org/?lat=51.327863&lon=1.350975
-ThaPkwy +THP http://www.openstreetmap.org/?lat=51.330876&lon=1.361790
+ThaPkwy http://www.openstreetmap.org/?lat=51.330876&lon=1.361790
 Ram http://www.openstreetmap.org/?lat=51.341149&lon=1.405649
 SKIP_DumPark http://www.openstreetmap.org/?lat=51.345920&lon=1.425304
-Bro +BSR http://www.openstreetmap.org/?lat=51.360715&lon=1.433372
+Bro http://www.openstreetmap.org/?lat=51.360715&lon=1.433372
 Mar http://www.openstreetmap.org/?lat=51.385254&lon=1.372261

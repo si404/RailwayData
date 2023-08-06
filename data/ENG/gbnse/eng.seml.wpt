@@ -1,8 +1,8 @@
 ChaCro +CHX http://www.openstreetmap.org/?lat=51.507721&lon=-0.124090
-WatEast +WAE http://www.openstreetmap.org/?lat=51.504115&lon=-0.108876
+WatEast http://www.openstreetmap.org/?lat=51.504115&lon=-0.108876
 DIV_TL http://www.openstreetmap.org/?lat=51.504070&lon=-0.099784
 DIV_Can http://www.openstreetmap.org/?lat=51.505616&lon=-0.089060
-LonBri +LBG http://www.openstreetmap.org/?lat=51.504232&lon=-0.084994
+LonBri http://www.openstreetmap.org/?lat=51.504232&lon=-0.084994
 DIV_Pec http://www.openstreetmap.org/?lat=51.492015&lon=-0.059727
 DIV_Bri http://www.openstreetmap.org/?lat=51.488989&lon=-0.052485
 DIV_Gre http://www.openstreetmap.org/?lat=51.483447&lon=-0.039096
@@ -33,25 +33,25 @@ SKIP_Hil http://www.openstreetmap.org/?lat=51.214546&lon=0.228052
 DIV_Red http://www.openstreetmap.org/?lat=51.191881&lon=0.266268
 Ton http://www.openstreetmap.org/?lat=51.191438&lon=0.270742
 +X220175 http://www.openstreetmap.org/?lat=51.191118&lon=0.273457
-PadWood +PDW http://www.openstreetmap.org/?lat=51.182396&lon=0.389457
+PadWood http://www.openstreetmap.org/?lat=51.182396&lon=0.389457
 DIV_Med http://www.openstreetmap.org/?lat=51.182181&lon=0.392118
-Mar +MRN http://www.openstreetmap.org/?lat=51.175442&lon=0.493097
-Sta +SPU http://www.openstreetmap.org/?lat=51.171567&lon=0.550518
-Hea +HCN http://www.openstreetmap.org/?lat=51.165755&lon=0.626564
-Plu +PLC http://www.openstreetmap.org/?lat=51.156416&lon=0.747263
+Mar http://www.openstreetmap.org/?lat=51.175442&lon=0.493097
+Sta http://www.openstreetmap.org/?lat=51.171567&lon=0.550518
+Hea http://www.openstreetmap.org/?lat=51.165755&lon=0.626564
+Plu http://www.openstreetmap.org/?lat=51.156416&lon=0.747263
 DIV_Mai http://www.openstreetmap.org/?lat=51.146907&lon=0.865259
 DIV_HS1 http://www.openstreetmap.org/?lat=51.145332&lon=0.870795
-AshInt +AFK http://www.openstreetmap.org/?lat=51.143319&lon=0.875130
+AshInt http://www.openstreetmap.org/?lat=51.143319&lon=0.875130
 DIV_Dov http://www.openstreetmap.org/?lat=51.142010&lon=0.877565
 +X235578 http://www.openstreetmap.org/?lat=51.140149&lon=0.881524
 Wye http://www.openstreetmap.org/?lat=51.185275&lon=0.929546
 +X182741 http://www.openstreetmap.org/?lat=51.227232&lon=0.971861
-Chi +CIL http://www.openstreetmap.org/?lat=51.244469&lon=0.976067
-Cha +CRT http://www.openstreetmap.org/?lat=51.257255&lon=1.018252
-CanWest +CBW http://www.openstreetmap.org/?lat=51.284185&lon=1.075244
+Chi http://www.openstreetmap.org/?lat=51.244469&lon=0.976067
+Cha http://www.openstreetmap.org/?lat=51.257255&lon=1.018252
+CanWest http://www.openstreetmap.org/?lat=51.284185&lon=1.075244
 Stu http://www.openstreetmap.org/?lat=51.300932&lon=1.122279
 +X273907 http://www.openstreetmap.org/?lat=51.335787&lon=1.242657
-Min +MSR http://www.openstreetmap.org/?lat=51.329177&lon=1.317115
+Min http://www.openstreetmap.org/?lat=51.329177&lon=1.317115
 +X469560 http://www.openstreetmap.org/?lat=51.328668&lon=1.325097
 +X589641 http://www.openstreetmap.org/?lat=51.327863&lon=1.350975
 SKIP_ThaPkwy http://www.openstreetmap.org/?lat=51.330876&lon=1.361790

@@ -33,7 +33,7 @@ SKIP_LeiBuz http://www.openstreetmap.org/?lat=51.916175&lon=-0.677333
 +X802565 http://www.openstreetmap.org/?lat=51.952187&lon=-0.720034
 SKIP_Ble http://www.openstreetmap.org/?lat=51.995464&lon=-0.736427
 +X631414 http://www.openstreetmap.org/?lat=52.008747&lon=-0.742886
-MilKeyCen +MKC http://www.openstreetmap.org/?lat=52.033763&lon=-0.774236
+MilKeyCen http://www.openstreetmap.org/?lat=52.033763&lon=-0.774236
 SKIP_Wol http://www.openstreetmap.org/?lat=52.065723&lon=-0.804577
 +X298268 http://www.openstreetmap.org/?lat=52.100258&lon=-0.847492
 DIV_Nor http://www.openstreetmap.org/?lat=52.170155&lon=-0.908904
@@ -50,16 +50,16 @@ NUN http://www.openstreetmap.org/?lat=52.526692&lon=-1.463928
 DIV_Bir http://www.openstreetmap.org/?lat=52.530282&lon=-1.470108
 Ath http://www.openstreetmap.org/?lat=52.578462&lon=-1.552420
 +X884373 http://www.openstreetmap.org/?lat=52.595149&lon=-1.581516
-Pol +PSW http://www.openstreetmap.org/?lat=52.625795&lon=-1.610613
+Pol http://www.openstreetmap.org/?lat=52.625795&lon=-1.610613
 +X859847 http://www.openstreetmap.org/?lat=52.639027&lon=-1.642971
 Tam http://www.openstreetmap.org/?lat=52.637517&lon=-1.686487
 +X107619 http://www.openstreetmap.org/?lat=52.642152&lon=-1.712236
 +X824717 http://www.openstreetmap.org/?lat=52.665686&lon=-1.734467
 +X314328 http://www.openstreetmap.org/?lat=52.683329&lon=-1.773005
-LicTreVal +LTV http://www.openstreetmap.org/?lat=52.686711&lon=-1.799698
+LicTreVal http://www.openstreetmap.org/?lat=52.686711&lon=-1.799698
 +X130459 http://www.openstreetmap.org/?lat=52.739130&lon=-1.866324
 DIV_Cha http://www.openstreetmap.org/?lat=52.767754&lon=-1.927757
-RugTreVal +RGL http://www.openstreetmap.org/?lat=52.769663&lon=-1.929796
+RugTreVal http://www.openstreetmap.org/?lat=52.769663&lon=-1.929796
 +X384912 http://www.openstreetmap.org/?lat=52.785557&lon=-1.955910
 DIV_Col http://www.openstreetmap.org/?lat=52.788424&lon=-1.987967
 +X498230 http://www.openstreetmap.org/?lat=52.789502&lon=-2.048693

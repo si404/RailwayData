@@ -1,4 +1,4 @@
-LivLimeSt +LIV http://www.openstreetmap.org/?lat=53.407511&lon=-2.977295
+LivLimeSt http://www.openstreetmap.org/?lat=53.407511&lon=-2.977295
 SKIP_EdgeHill http://www.openstreetmap.org/?lat=53.402471&lon=-2.946589
 DIV_Run http://www.openstreetmap.org/?lat=53.403769&lon=-2.935710
 SKIP_WavTecPark http://www.openstreetmap.org/?lat=53.405221&lon=-2.922878
@@ -9,7 +9,7 @@ DIV_Man http://www.openstreetmap.org/?lat=53.410031&lon=-2.831683
 SKIP_Pre http://www.openstreetmap.org/?lat=53.423561&lon=-2.798939
 SKIP_EccPark http://www.openstreetmap.org/?lat=53.430836&lon=-2.780228
 SKIP_ThaHea http://www.openstreetmap.org/?lat=53.436716&lon=-2.759457
-StHelCen +SNH http://www.openstreetmap.org/?lat=53.452628&lon=-2.729974
+StHelCen http://www.openstreetmap.org/?lat=53.452628&lon=-2.729974
 +X658083 http://www.openstreetmap.org/?lat=53.463538&lon=-2.728472
 +X270637 http://www.openstreetmap.org/?lat=53.478303&lon=-2.708344
 SKIP_Gar http://www.openstreetmap.org/?lat=53.487982&lon=-2.672081
@@ -17,7 +17,7 @@ SKIP_Bryn http://www.openstreetmap.org/?lat=53.499700&lon=-2.647662
 DIV_War http://www.openstreetmap.org/?lat=53.527369&lon=-2.615368
 DIV_Bol http://www.openstreetmap.org/?lat=53.541500&lon=-2.628404
 DIV_Sou http://www.openstreetmap.org/?lat=53.542131&lon=-2.629874
-WigNorWes +WGN http://www.openstreetmap.org/?lat=53.543384&lon=-2.632996
+WigNorWes http://www.openstreetmap.org/?lat=53.543384&lon=-2.632996
 +X650507 http://www.openstreetmap.org/?lat=53.546555&lon=-2.638607
 +X495440 http://www.openstreetmap.org/?lat=53.581984&lon=-2.640667
 SKIP_EuxBalLn http://www.openstreetmap.org/?lat=53.659835&lon=-2.671652
