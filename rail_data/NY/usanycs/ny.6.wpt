@@ -1,7 +1,7 @@
 PelBayPk http://www.openstreetmap.org/?lat=40.852498&lon=-73.827953
 BuhAve http://www.openstreetmap.org/?lat=40.847004&lon=-73.832202
 MidRd http://www.openstreetmap.org/?lat=40.843936&lon=-73.836215
-WesSqE http://www.openstreetmap.org/?lat=40.840072&lon=-73.842716
+WesSqETreAve http://www.openstreetmap.org/?lat=40.840072&lon=-73.842716
 ZerAve http://www.openstreetmap.org/?lat=40.836809&lon=-73.846729
 CasHillAve http://www.openstreetmap.org/?lat=40.834212&lon=-73.851664
 Par http://www.openstreetmap.org/?lat=40.833173&lon=-73.860912
@@ -13,10 +13,11 @@ HunPtAve http://www.openstreetmap.org/?lat=40.820784&lon=-73.890824
 LonAve http://www.openstreetmap.org/?lat=40.816318&lon=-73.896167
 E149thSt http://www.openstreetmap.org/?lat=40.812096&lon=-73.904128
 E143rdSt http://www.openstreetmap.org/?lat=40.808198&lon=-73.907797
-CypAve http://www.openstreetmap.org/?lat=40.805583&lon=-73.914514
+CypAve http://www.openstreetmap.org/?lat=40.805137&lon=-73.913505
 BroAve http://www.openstreetmap.org/?lat=40.807565&lon=-73.919213
-3rdAve http://www.openstreetmap.org/?lat=40.810439&lon=-73.926079
-+X350470 http://www.openstreetmap.org/?lat=40.812138&lon=-73.930910
+ThiAve138St http://www.openstreetmap.org/?lat=40.810439&lon=-73.926079
++X810154 http://www.openstreetmap.org/?lat=40.812283&lon=-73.929319
+DIV_4/5 http://www.openstreetmap.org/?lat=40.810815&lon=-73.932192
 125thSt http://www.openstreetmap.org/?lat=40.804381&lon=-73.937387
 116thSt http://www.openstreetmap.org/?lat=40.798599&lon=-73.941615
 110thSt http://www.openstreetmap.org/?lat=40.794781&lon=-73.944361
@@ -36,4 +37,4 @@ AstPl http://www.openstreetmap.org/?lat=40.729852&lon=-73.991375
 BleSt http://www.openstreetmap.org/?lat=40.725950&lon=-73.994701
 SprSt http://www.openstreetmap.org/?lat=40.722275&lon=-73.997126
 CanSt http://www.openstreetmap.org/?lat=40.718388&lon=-74.000537
-CityHall http://www.openstreetmap.org/?lat=40.712370&lon=-74.005086
+BroBriCityHall http://www.openstreetmap.org/?lat=40.712370&lon=-74.005086
