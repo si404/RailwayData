@@ -12,7 +12,7 @@ MtEdenAve http://www.openstreetmap.org/?lat=40.844341&lon=-73.914728
 161StYanSta http://www.openstreetmap.org/?lat=40.827798&lon=-73.925951
 149StGraCon http://www.openstreetmap.org/?lat=40.818511&lon=-73.927281
 138St http://www.openstreetmap.org/?lat=40.813168&lon=-73.930006
-+X350470 http://www.openstreetmap.org/?lat=40.812138&lon=-73.930910
+DIV_6 http://www.openstreetmap.org/?lat=40.810815&lon=-73.932192
 125St http://www.openstreetmap.org/?lat=40.804381&lon=-73.937387
 SKIP_116St http://www.openstreetmap.org/?lat=40.798599&lon=-73.941615
 SKIP_110St http://www.openstreetmap.org/?lat=40.794781&lon=-73.944361
@@ -36,6 +36,8 @@ BroBriCityHall http://www.openstreetmap.org/?lat=40.712370&lon=-74.005086
 FulSt http://www.openstreetmap.org/?lat=40.710227&lon=-74.007801
 WallSt http://www.openstreetmap.org/?lat=40.707946&lon=-74.011502
 BowGre http://www.openstreetmap.org/?lat=40.704550&lon=-74.014227
++X214021 http://www.openstreetmap.org/?lat=40.702025&lon=-74.014066
++X689683 http://www.openstreetmap.org/?lat=40.695217&lon=-74.003177
 BorHall http://www.openstreetmap.org/?lat=40.692957&lon=-73.989798
 SKIP_HoytSt http://www.openstreetmap.org/?lat=40.690519&lon=-73.985002
 NevSt http://www.openstreetmap.org/?lat=40.688705&lon=-73.980796
