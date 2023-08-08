@@ -15,8 +15,8 @@ LanAve63rdSt http://www.openstreetmap.org/?lat=39.975346&lon=-75.245512
 50thSt http://www.openstreetmap.org/?lat=39.975198&lon=-75.222477
 49thSt http://www.openstreetmap.org/?lat=39.973772&lon=-75.219666
 GirAve http://www.openstreetmap.org/?lat=39.973160&lon=-75.218649
-+X405023 http://www.openstreetmap.org/?lat=39.973004&lon=-75.218386
-+X228634 http://www.openstreetmap.org/?lat=39.972665&lon=-75.217810
+DIV_15W http://www.openstreetmap.org/?lat=39.973004&lon=-75.218386
+DIV_15E http://www.openstreetmap.org/?lat=39.972665&lon=-75.217810
 48thSt http://www.openstreetmap.org/?lat=39.972196&lon=-75.217051
 47thSt http://www.openstreetmap.org/?lat=39.971610&lon=-75.216072
 WyaAve http://www.openstreetmap.org/?lat=39.970850&lon=-75.214814
@@ -33,9 +33,9 @@ PowAve http://www.openstreetmap.org/?lat=39.959674&lon=-75.195751
 LanAve36thSt http://www.openstreetmap.org/?lat=39.958564&lon=-75.193675
 36thStMarSt http://www.openstreetmap.org/?lat=39.956178&lon=-75.194153
 36thStPor http://www.openstreetmap.org/?lat=39.955531&lon=-75.194013
-+X132622 http://www.openstreetmap.org/?lat=39.955148&lon=-75.191773
+DIV_11 http://www.openstreetmap.org/?lat=39.955148&lon=-75.191773
 33rdSt http://www.openstreetmap.org/?lat=39.955210&lon=-75.189131
-+X565409 http://www.openstreetmap.org/?lat=39.955515&lon=-75.188767
+DIV_Blue http://www.openstreetmap.org/?lat=39.955515&lon=-75.188767
 30thSt http://www.openstreetmap.org/?lat=39.956526&lon=-75.181707
 22ndSt http://www.openstreetmap.org/?lat=39.953993&lon=-75.176665
 19thSt http://www.openstreetmap.org/?lat=39.953343&lon=-75.171579
