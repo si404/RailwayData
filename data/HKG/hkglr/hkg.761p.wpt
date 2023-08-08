@@ -1,16 +1,14 @@
 TinYat http://www.openstreetmap.org/?lat=22.466856&lon=113.998920
 TinFu http://www.openstreetmap.org/?lat=22.464546&lon=113.997654
-ChungFu http://www.openstreetmap.org/?lat=22.461998&lon=113.996989
-+X901040 http://www.openstreetmap.org/?lat=22.459048&lon=113.997692
+ChuFu +ChungFu http://www.openstreetmap.org/?lat=22.461998&lon=113.996989
+DIV_751 http://www.openstreetmap.org/?lat=22.458803&lon=113.997842
 TinShui http://www.openstreetmap.org/?lat=22.455848&lon=113.999451
-Locwood http://www.openstreetmap.org/?lat=22.453131&lon=114.001136
+Loc +Locwood http://www.openstreetmap.org/?lat=22.453131&lon=114.001136
 TinYiu http://www.openstreetmap.org/?lat=22.450375&lon=114.002756
-+X702366 http://www.openstreetmap.org/?lat=22.448064&lon=114.004022
-+X223157 http://www.openstreetmap.org/?lat=22.447587&lon=114.004236
-HanMeiTsuen http://www.openstreetmap.org/?lat=22.445119&lon=114.005599
-+X439614 http://www.openstreetmap.org/?lat=22.438622&lon=114.004210
-+X745594 http://www.openstreetmap.org/?lat=22.438555&lon=114.004633
-TongFongTsuen http://www.openstreetmap.org/?lat=22.440240&lon=114.007401
+DIV_705/706 http://www.openstreetmap.org/?lat=22.447814&lon=114.004194
+HanMeiTsu +HanMeiTsuen http://www.openstreetmap.org/?lat=22.445119&lon=114.005599
+DIV_610/751 http://www.openstreetmap.org/?lat=22.438406&lon=114.004269
+TongFongTsu +TongFongTsuen http://www.openstreetmap.org/?lat=22.440240&lon=114.007401
 PingShan http://www.openstreetmap.org/?lat=22.442898&lon=114.012026
 ShuiPinWai http://www.openstreetmap.org/?lat=22.444504&lon=114.020244
 FungNinRd http://www.openstreetmap.org/?lat=22.444534&lon=114.023838
