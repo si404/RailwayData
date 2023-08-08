@@ -27,7 +27,7 @@ SKIP_51St http://www.openstreetmap.org/?lat=40.757091&lon=-73.971956
 SKIP_33St http://www.openstreetmap.org/?lat=40.746436&lon=-73.981869
 SKIP_28St http://www.openstreetmap.org/?lat=40.743315&lon=-73.984122
 SKIP_23St http://www.openstreetmap.org/?lat=40.740177&lon=-73.986354
-SKIP_14StUniSq http://www.openstreetmap.org/?lat=40.734438&lon=-73.989916
+14StUniSq http://www.openstreetmap.org/?lat=40.734438&lon=-73.989916
 SKIP_AstPla http://www.openstreetmap.org/?lat=40.729852&lon=-73.991375
 SKIP_BleSt http://www.openstreetmap.org/?lat=40.725950&lon=-73.994701
 SKIP_SprSt http://www.openstreetmap.org/?lat=40.722275&lon=-73.997126
