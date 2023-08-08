@@ -17,7 +17,7 @@ BesSta http://www.openstreetmap.org/?lat=52.562982&lon=-1.991014
 DIV_Wed http://www.openstreetmap.org/?lat=52.563530&lon=-1.992517
 DIV_Wol http://www.openstreetmap.org/?lat=52.573598&lon=-1.994619
 Wal http://www.openstreetmap.org/?lat=52.584447&lon=-1.984963
-DIR_Ald http://www.openstreetmap.org/?lat=52.591852&lon=-1.980200
+DIV_Ald http://www.openstreetmap.org/?lat=52.591852&lon=-1.980200
 Blo http://www.openstreetmap.org/?lat=52.618423&lon=-2.011614
 BloNor http://www.openstreetmap.org/?lat=52.625340&lon=-2.017536
 Lan http://www.openstreetmap.org/?lat=52.656589&lon=-2.020755
@@ -25,5 +25,5 @@ Can http://www.openstreetmap.org/?lat=52.686191&lon=-2.022429
 Hed http://www.openstreetmap.org/?lat=52.710065&lon=-2.001915
 +X102485 http://www.openstreetmap.org/?lat=52.746697&lon=-1.957970
 RugTown http://www.openstreetmap.org/?lat=52.754568&lon=-1.937199
-DIR_Tre http://www.openstreetmap.org/?lat=52.767754&lon=-1.927757
+DIV_Tre http://www.openstreetmap.org/?lat=52.767754&lon=-1.927757
 RugTreVal http://www.openstreetmap.org/?lat=52.769663&lon=-1.929796
