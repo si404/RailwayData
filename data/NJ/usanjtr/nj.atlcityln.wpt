@@ -2,7 +2,7 @@ PA/NJ http://www.openstreetmap.org/?lat=39.982351&lon=-75.068647
 Pen http://www.openstreetmap.org/?lat=39.978080&lon=-75.062290
 +X720488 http://www.openstreetmap.org/?lat=39.956222&lon=-75.039454
 CheHill http://www.openstreetmap.org/?lat=39.928407&lon=-75.041707
-DIV_Pat http://www.openstreetmap.org/?lat=39.903802&lon=-75.041664
+DIV_PATCO http://www.openstreetmap.org/?lat=39.903802&lon=-75.041664
 SKIP_Had http://www.openstreetmap.org/?lat=39.897350&lon=-75.036793
 SKIP_Woo http://www.openstreetmap.org/?lat=39.870165&lon=-75.011172
 SKIP_Ash http://www.openstreetmap.org/?lat=39.858751&lon=-75.009134
@@ -15,4 +15,5 @@ Ham http://www.openstreetmap.org/?lat=39.631556&lon=-74.799514
 EggHarCity http://www.openstreetmap.org/?lat=39.526429&lon=-74.648044
 Abs http://www.openstreetmap.org/?lat=39.423953&lon=-74.501595
 +X581171 http://www.openstreetmap.org/?lat=39.391848&lon=-74.494729
++X417945 http://www.openstreetmap.org/?lat=39.368346&lon=-74.462328
 AtlCity http://www.openstreetmap.org/?lat=39.363008&lon=-74.440463

@@ -2,10 +2,10 @@ NY/NJ http://www.openstreetmap.org/?lat=40.758566&lon=-74.012479
 +X397935 http://www.openstreetmap.org/?lat=40.772596&lon=-74.046650
 SecJct http://www.openstreetmap.org/?lat=40.761317&lon=-74.075789
 DIV_Hob http://www.openstreetmap.org/?lat=40.743615&lon=-74.126816
-DIV_New http://www.openstreetmap.org/?lat=40.741811&lon=-74.148059
+DIV_Mor/MonBoo http://www.openstreetmap.org/?lat=40.741811&lon=-74.148059
 SKIP_Har http://www.openstreetmap.org/?lat=40.739421&lon=-74.155526
 NewPenn http://www.openstreetmap.org/?lat=40.734592&lon=-74.163852
-DIV_Rar http://www.openstreetmap.org/?lat=40.715403&lon=-74.183807
+DIV_RarVly http://www.openstreetmap.org/?lat=40.715403&lon=-74.183807
 NewLibAir http://www.openstreetmap.org/?lat=40.704424&lon=-74.190416
 NEli http://www.openstreetmap.org/?lat=40.680150&lon=-74.206209
 Eli http://www.openstreetmap.org/?lat=40.666610&lon=-74.216080
@@ -13,7 +13,9 @@ Lin http://www.openstreetmap.org/?lat=40.629425&lon=-74.251699
 Rah http://www.openstreetmap.org/?lat=40.606345&lon=-74.276805
 DIV_NJC http://www.openstreetmap.org/?lat=40.599535&lon=-74.284701
 MetPark http://www.openstreetmap.org/?lat=40.568214&lon=-74.329848
++X813718 http://www.openstreetmap.org/?lat=40.546548&lon=-74.348774
 Met http://www.openstreetmap.org/?lat=40.540727&lon=-74.360619
++X356824 http://www.openstreetmap.org/?lat=40.535231&lon=-74.382806
 Edi http://www.openstreetmap.org/?lat=40.518987&lon=-74.411259
 NewBru http://www.openstreetmap.org/?lat=40.496864&lon=-74.446192
 JerAve http://www.openstreetmap.org/?lat=40.476758&lon=-74.467392

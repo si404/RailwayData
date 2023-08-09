@@ -2,10 +2,10 @@ NY/NJ http://www.openstreetmap.org/?lat=40.758566&lon=-74.012479
 +X397935 http://www.openstreetmap.org/?lat=40.772596&lon=-74.046650
 SecJct http://www.openstreetmap.org/?lat=40.761317&lon=-74.075789
 DIV_Hob http://www.openstreetmap.org/?lat=40.743615&lon=-74.126816
-DIV_New http://www.openstreetmap.org/?lat=40.741811&lon=-74.148059
+DIV_Mor/MonBoo http://www.openstreetmap.org/?lat=40.741811&lon=-74.148059
 SKIP_Har http://www.openstreetmap.org/?lat=40.739421&lon=-74.155526
 NewPenn http://www.openstreetmap.org/?lat=40.734592&lon=-74.163852
-DIV_Gla http://www.openstreetmap.org/?lat=40.715403&lon=-74.183807
+DIV_RarVly http://www.openstreetmap.org/?lat=40.715403&lon=-74.183807
 NewLibAir http://www.openstreetmap.org/?lat=40.704424&lon=-74.190416
 NEli http://www.openstreetmap.org/?lat=40.680150&lon=-74.206209
 Eli http://www.openstreetmap.org/?lat=40.666610&lon=-74.216080
@@ -25,3 +25,12 @@ RedBank http://www.openstreetmap.org/?lat=40.348212&lon=-74.074373
 LitSil http://www.openstreetmap.org/?lat=40.326622&lon=-74.040556
 MonPark http://www.openstreetmap.org/?lat=40.313403&lon=-74.015064
 LongBra http://www.openstreetmap.org/?lat=40.296254&lon=-73.988285
+Elb http://www.openstreetmap.org/?lat=40.265282&lon=-73.997555
+All http://www.openstreetmap.org/?lat=40.237573&lon=-74.006910
+AshPark http://www.openstreetmap.org/?lat=40.216013&lon=-74.014378
+BraBea http://www.openstreetmap.org/?lat=40.203755&lon=-74.018927
+Bel http://www.openstreetmap.org/?lat=40.180283&lon=-74.027338
+SprLake http://www.openstreetmap.org/?lat=40.150571&lon=-74.035492
+Man http://www.openstreetmap.org/?lat=40.120689&lon=-74.047594
+PtPleBea http://www.openstreetmap.org/?lat=40.092838&lon=-74.048216
+BayHead http://www.openstreetmap.org/?lat=40.077168&lon=-74.046092
