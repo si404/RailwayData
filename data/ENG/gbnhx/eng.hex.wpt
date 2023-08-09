@@ -1,4 +1,4 @@
-LonPad +PAD http://www.openstreetmap.org/?lat=51.516995&lon=-0.177369
+LonPad http://www.openstreetmap.org/?lat=51.516995&lon=-0.177369
 +X228981 http://www.openstreetmap.org/?lat=51.518467&lon=-0.180405
 SKIP_RoyOak http://www.openstreetmap.org/?lat=51.518905&lon=-0.187411
 DIV_Liz http://www.openstreetmap.org/?lat=51.519846&lon=-0.195136
@@ -14,5 +14,5 @@ SKIP_Sou http://www.openstreetmap.org/?lat=51.506071&lon=-0.377483
 SKIP_HayHar http://www.openstreetmap.org/?lat=51.503026&lon=-0.420442
 DIV_Air http://www.openstreetmap.org/?lat=51.506005&lon=-0.444539
 HeaTer23 +HXX http://www.openstreetmap.org/?lat=51.471961&lon=-0.454302
-DIV_HT4 +X403093 http://www.openstreetmap.org/?lat=51.469555&lon=-0.460374
+DIV_HT4 http://www.openstreetmap.org/?lat=51.469555&lon=-0.460374
 HeaTer5 +HWV http://www.openstreetmap.org/?lat=51.472509&lon=-0.487604

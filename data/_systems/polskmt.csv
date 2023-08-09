@@ -1,6 +1,6 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-polskmt;POL;S1;;Gda;;pol.s01gda;
-polskmt;POL;S2;;Gda;;pol.s02gda;
-polskmt;POL;S8;;Gda;;pol.s08gda;
-polskmt;POL;S9;;Gda;;pol.s09gda;
-polskmt;POL;S11;;Gda;;pol.s11gda;
+polskmt;POL;S1;;Gda;Gdansk;pol.s01gda;
+polskmt;POL;S2;;Gda;Gdansk;pol.s02gda;
+polskmt;POL;S8;;Gda;Gdansk;pol.s08gda;
+polskmt;POL;S9;;Gda;Gdansk;pol.s09gda;
+polskmt;POL;S11;;Gda;Gdansk;pol.s11gda;

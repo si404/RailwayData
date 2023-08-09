@@ -1,6 +1,6 @@
 systemName;route;banner;groupName;roots
-polskmw;S1;;;pol.s01war
-polskmw;S2;;;pol.s02war
-polskmw;S3;;;pol.s03war
-polskmw;S4;;;pol.s04war
-polskmw;S40;;;pol.s40war
+polskmw;S1;;Warszawa;pol.s01war
+polskmw;S2;;Warszawa;pol.s02war
+polskmw;S3;;Warszawa;pol.s03war
+polskmw;S4;;Warszawa;pol.s04war
+polskmw;S40;;Warszawa;pol.s40war

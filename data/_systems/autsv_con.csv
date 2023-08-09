@@ -1,6 +1,6 @@
 systemName;route;banner;groupName;roots
-autsv;S1;;;deuby.s01vor,aut.s01vor
-autsv;S2;;;aut.s02vor,lie.s02vor,che.s02vor
-autsv;S3;;;che.s03vor,aut.s03vor
-autsv;S4;;;aut.s04vor
-autsv;S5;;;che.s05vor,aut.s05vor
+autsv;S1;;Vorarlberg;deuby.s01vor,aut.s01vor
+autsv;S2;;Vorarlberg;aut.s02vor,lie.s02vor,che.s02vor
+autsv;S3;;Vorarlberg;che.s03vor,aut.s03vor
+autsv;S4;;Vorarlberg;aut.s04vor
+autsv;S5;;Vorarlberg;che.s05vor,aut.s05vor

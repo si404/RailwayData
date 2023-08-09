@@ -1,5 +1,5 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-irlluas;IRL;GrnLn;;;Green Line;irl.grnln;GrnLnMar
+irlluas;IRL;GrnLn;;;Green Line;irl.grnln;
 irlluas;IRL;RedLn;;;Red Line;irl.redln;
 irlluas;IRL;RedLn;;Con;Red Line (Connolly branch);irl.redlncon;
 irlluas;IRL;RedLn;;Tal;Red Line (Tallaght branch);irl.redlntal;

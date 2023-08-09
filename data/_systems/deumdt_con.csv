@@ -1,9 +1,9 @@
 systemName;route;banner;groupName;roots
-deumdt;1;;;deust.01mag
-deumdt;2;;;deust.02mag
-deumdt;4;;;deust.04mag
-deumdt;5;;;deust.05mag
-deumdt;6;;;deust.06mag
-deumdt;8;;;deust.08mag
-deumdt;9;;;deust.09mag
-deumdt;10;;;deust.10mag
+deumdt;1;;Magdeburg;deust.01mag
+deumdt;2;;Magdeburg;deust.02mag
+deumdt;4;;Magdeburg;deust.04mag
+deumdt;5;;Magdeburg;deust.05mag
+deumdt;6;;Magdeburg;deust.06mag
+deumdt;8;;Magdeburg;deust.08mag
+deumdt;9;;Magdeburg;deust.09mag
+deumdt;10;;Magdeburg;deust.10mag

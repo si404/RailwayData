@@ -1,4 +1,4 @@
-KinCro +KGX http://www.openstreetmap.org/?lat=51.532048&lon=-0.123575
+KinCro http://www.openstreetmap.org/?lat=51.532048&lon=-0.123575
 DIV_TL http://www.openstreetmap.org/?lat=51.541364&lon=-0.122695
 DIV_NCL http://www.openstreetmap.org/?lat=51.558757&lon=-0.107889
 SKIP_FinPark http://www.openstreetmap.org/?lat=51.564760&lon=-0.106344
@@ -41,7 +41,7 @@ DIV_Sta http://www.openstreetmap.org/?lat=52.638545&lon=-0.338945
 +X335346 http://www.openstreetmap.org/?lat=52.857497&lon=-0.611544
 +X854915 http://www.openstreetmap.org/?lat=52.889512&lon=-0.621500
 SKIP_Gra http://www.openstreetmap.org/?lat=52.906534&lon=-0.643044
-DIR_Not http://www.openstreetmap.org/?lat=52.915469&lon=-0.648344
+DIV_Not http://www.openstreetmap.org/?lat=52.915469&lon=-0.648344
 +X186014 http://www.openstreetmap.org/?lat=52.967743&lon=-0.642872
 +X854511 http://www.openstreetmap.org/?lat=52.992290&lon=-0.659781
 SKIP_NewNorGate http://www.openstreetmap.org/?lat=53.081388&lon=-0.799448
@@ -64,14 +64,14 @@ DIV_Wak http://www.openstreetmap.org/?lat=53.530679&lon=-1.139746
 DIV_York http://www.openstreetmap.org/?lat=53.582748&lon=-1.123610
 +X272390 http://www.openstreetmap.org/?lat=53.665036&lon=-1.189270
 SKIP_Kno http://www.openstreetmap.org/?lat=53.706405&lon=-1.259243
-PonMon +PFM http://www.openstreetmap.org/?lat=53.698768&lon=-1.304133
+PonMon http://www.openstreetmap.org/?lat=53.698768&lon=-1.304133
 DIV_Cas http://www.openstreetmap.org/?lat=53.698269&lon=-1.305946
 SKIP_PonTan http://www.openstreetmap.org/?lat=53.693975&lon=-1.318831
 SKIP_Fea http://www.openstreetmap.org/?lat=53.679006&lon=-1.358442
 SKIP_Str http://www.openstreetmap.org/?lat=53.676159&lon=-1.399684
 DIV_Don http://www.openstreetmap.org/?lat=53.662963&lon=-1.458178
 SKIP_Nor http://www.openstreetmap.org/?lat=53.679088&lon=-1.486309
-WakKir +WKK http://www.openstreetmap.org/?lat=53.678605&lon=-1.488647
+WakKir http://www.openstreetmap.org/?lat=53.678605&lon=-1.488647
 DIV_Lee http://www.openstreetmap.org/?lat=53.677163&lon=-1.493497
 DIV_Hal http://www.openstreetmap.org/?lat=53.658418&lon=-1.533194
 +X224693 http://www.openstreetmap.org/?lat=53.656300&lon=-1.559930
@@ -80,13 +80,13 @@ DIV_Dew http://www.openstreetmap.org/?lat=53.675056&lon=-1.657197
 Mir http://www.openstreetmap.org/?lat=53.671462&lon=-1.693332
 DIV_Man http://www.openstreetmap.org/?lat=53.680868&lon=-1.720970
 DIV_Hud http://www.openstreetmap.org/?lat=53.690602&lon=-1.748886
-Bri +BGH http://www.openstreetmap.org/?lat=53.698174&lon=-1.779292
+Bri http://www.openstreetmap.org/?lat=53.698174&lon=-1.779292
 +X609045 http://www.openstreetmap.org/?lat=53.690246&lon=-1.829610
 DIV_Roc http://www.openstreetmap.org/?lat=53.693821&lon=-1.857478
 DIV_Bur http://www.openstreetmap.org/?lat=53.707666&lon=-1.854694
-Hal +HFX http://www.openstreetmap.org/?lat=53.720819&lon=-1.853642
+Hal http://www.openstreetmap.org/?lat=53.720819&lon=-1.853642
 +X106043 http://www.openstreetmap.org/?lat=53.728246&lon=-1.831391
 +X141968 http://www.openstreetmap.org/?lat=53.723218&lon=-1.807637
-LowMoor +LMR http://www.openstreetmap.org/?lat=53.750116&lon=-1.752416
+LowMoor http://www.openstreetmap.org/?lat=53.750116&lon=-1.752416
 DIV_Pud http://www.openstreetmap.org/?lat=53.786043&lon=-1.748929
-BraInt  +BDI http://www.openstreetmap.org/?lat=53.790822&lon=-1.749165
+BraInt http://www.openstreetmap.org/?lat=53.790822&lon=-1.749165

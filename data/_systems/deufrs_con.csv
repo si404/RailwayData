@@ -1,7 +1,7 @@
 systemName;route;banner;groupName;roots
-deufrs;S1;;;deubw.s01fre
-deufrs;S2;;;deubw.s02fre
-deufrs;S3;;;deubw.s03bad
-deufrs;S5;;;deubw.s05end
-deufrs;S10;;;deubw.s10fre
-deufrs;S11;;;deubw.s11fre
+deufrs;S1;;Freiburg;deubw.s01fre
+deufrs;S2;;Freiburg;deubw.s02fre
+deufrs;S3;;Bad Krozingen;deubw.s03bad
+deufrs;S5;;Endingen;deubw.s05end
+deufrs;S10;;Freiburg;deubw.s10fre
+deufrs;S11;;Freiburg;deubw.s11fre

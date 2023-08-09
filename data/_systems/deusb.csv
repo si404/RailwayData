@@ -1,3 +1,3 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-deusb;DEU-SL;S1;;;;deusl.s01;
-deusb;FRA-GES;S1;;Sar;;frages.s01sar;
+deusb;DEU-SL;S1;;;Saarbahn;deusl.s01;
+deusb;FRA-GES;S1;;Sar;Saarbahn;frages.s01sar;

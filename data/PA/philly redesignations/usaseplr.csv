@@ -1,0 +1,9 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+usaseplr;PA;G1;;;Girard Ave Local;pa.g001;Rte15
+usaseplr;PA;T1;;;Lancaster Ave;pa.t001;Rte10
+usaseplr;PA;T2;;;Baltimore Ave;pa.t002;Rte34
+usaseplr;PA;T3;;;Chester Ave;pa.t003;Rte13
+usaseplr;PA;T4;;;Woodland Ave;pa.t004;Rte11
+usaseplr;PA;T5;;;Elmwood Ave;pa.t005;Rte36
+usaseplr;PA;D1;;;69th St / Orange St;pa.d001;Rte101
+usaseplr;PA;D2;;;69th St / Sharon Hill;pa.d002;Rte102

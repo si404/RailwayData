@@ -1,4 +1,4 @@
 systemName;route;banner;groupName;roots
-polskam;S1;;;pol.s01kra
-polskam;S2;;;pol.s02kra
-polskam;S3;;;pol.s03kra
+polskam;S1;;Krakow;pol.s01kra
+polskam;S2;;Krakow;pol.s02kra
+polskam;S3;;Krakow;pol.s03kra

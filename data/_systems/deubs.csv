@@ -1,5 +1,5 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-deubs;DEU-BB;S1;;;;deubb.s01;
+deubs;DEU-BB;S1;;;Oranienburg;deubb.s01;
 deubs;DEU-BE;S1;;;;deube.s01;
 deubs;DEU-BB;S2;;;Bernau;deubb.s02;
 deubs;DEU-BE;S2;;;;deube.s02;

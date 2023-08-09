@@ -1,9 +1,9 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-deumdt;DEU-ST;1;;Mag;;deust.01mag;
-deumdt;DEU-ST;2;;Mag;;deust.02mag;
-deumdt;DEU-ST;4;;Mag;;deust.04mag;
-deumdt;DEU-ST;5;;Mag;;deust.05mag;
-deumdt;DEU-ST;6;;Mag;;deust.06mag;
-deumdt;DEU-ST;8;;Mag;;deust.08mag;
-deumdt;DEU-ST;9;;Mag;;deust.09mag;
-deumdt;DEU-ST;10;;Mag;;deust.10mag;
+deumdt;DEU-ST;1;;Mag;Magdeburg;deust.01mag;
+deumdt;DEU-ST;2;;Mag;Magdeburg;deust.02mag;
+deumdt;DEU-ST;4;;Mag;Magdeburg;deust.04mag;
+deumdt;DEU-ST;5;;Mag;Magdeburg;deust.05mag;
+deumdt;DEU-ST;6;;Mag;Magdeburg;deust.06mag;
+deumdt;DEU-ST;8;;Mag;Magdeburg;deust.08mag;
+deumdt;DEU-ST;9;;Mag;Magdeburg;deust.09mag;
+deumdt;DEU-ST;10;;Mag;Magdeburg;deust.10mag;

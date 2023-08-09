@@ -1,8 +1,8 @@
 systemName;route;banner;groupName;roots
-autstg;1;;;aut.01gra
-autstg;3;;;aut.03gra
-autstg;4;;;aut.04gra
-autstg;5;;;aut.05gra
-autstg;6;;;aut.06gra
-autstg;7;;;aut.07gra
-autstg;23;;;aut.23gra
+autstg;1;;Graz;aut.01gra
+autstg;3;;Graz;aut.03gra
+autstg;4;;Graz;aut.04gra
+autstg;5;;Graz;aut.05gra
+autstg;6;;Graz;aut.06gra
+autstg;7;;Graz;aut.07gra
+autstg;23;;Graz;aut.23gra

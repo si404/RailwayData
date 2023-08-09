@@ -1,4 +1,4 @@
-KinCro +KGX http://www.openstreetmap.org/?lat=51.532048&lon=-0.123575
+KinCro http://www.openstreetmap.org/?lat=51.532048&lon=-0.123575
 DIV_TL http://www.openstreetmap.org/?lat=51.541364&lon=-0.122695
 DIV_NCL http://www.openstreetmap.org/?lat=51.558757&lon=-0.107889
 SKIP_FinPark http://www.openstreetmap.org/?lat=51.564760&lon=-0.106344
@@ -33,16 +33,16 @@ SKIP_Mel http://www.openstreetmap.org/?lat=52.090635&lon=0.009270
 SKIP_She http://www.openstreetmap.org/?lat=52.114359&lon=0.031071
 SKIP_Fox http://www.openstreetmap.org/?lat=52.119208&lon=0.056820
 DIV_WA http://www.openstreetmap.org/?lat=52.156966&lon=0.135098
-Cam +CBG http://www.openstreetmap.org/?lat=52.194113&lon=0.137758
+Cam http://www.openstreetmap.org/?lat=52.194113&lon=0.137758
 DIV_New http://www.openstreetmap.org/?lat=52.207160&lon=0.147114
-CamNor +CMB http://www.openstreetmap.org/?lat=52.224566&lon=0.158873
-Wate +WBC http://www.openstreetmap.org/?lat=52.262353&lon=0.196810
+CamNor http://www.openstreetmap.org/?lat=52.224566&lon=0.158873
+Wate http://www.openstreetmap.org/?lat=52.262353&lon=0.196810
 DIV_Soh http://www.openstreetmap.org/?lat=52.384991&lon=0.261397
 Ely http://www.openstreetmap.org/?lat=52.390700&lon=0.266504
 DIV_Her http://www.openstreetmap.org/?lat=52.404893&lon=0.291181
 DIV_Nor http://www.openstreetmap.org/?lat=52.405993&lon=0.293541
-Lit +LTP http://www.openstreetmap.org/?lat=52.462521&lon=0.316544
-DowMar +DOW http://www.openstreetmap.org/?lat=52.604168&lon=0.365725
-Watl +WTG http://www.openstreetmap.org/?lat=52.673286&lon=0.383234
+Lit http://www.openstreetmap.org/?lat=52.462521&lon=0.316544
+DowMar http://www.openstreetmap.org/?lat=52.604168&lon=0.365725
+Watl http://www.openstreetmap.org/?lat=52.673286&lon=0.383234
 +X523260 http://www.openstreetmap.org/?lat=52.744996&lon=0.411301
-KinLynn +KLN http://www.openstreetmap.org/?lat=52.753795&lon=0.403426
+KinLynn http://www.openstreetmap.org/?lat=52.753795&lon=0.403426

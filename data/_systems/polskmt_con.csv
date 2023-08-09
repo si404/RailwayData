@@ -1,6 +1,6 @@
 systemName;route;banner;groupName;roots
-polskmt;S1;;;pol.s01gda
-polskmt;S2;;;pol.s02gda
-polskmt;S8;;;pol.s08gda
-polskmt;S9;;;pol.s09gda
-polskmt;S11;;;pol.s11gda
+polskmt;S1;;Gdansk;pol.s01gda
+polskmt;S2;;Gdansk;pol.s02gda
+polskmt;S8;;Gdansk;pol.s08gda
+polskmt;S9;;Gdansk;pol.s09gda
+polskmt;S11;;Gdansk;pol.s11gda

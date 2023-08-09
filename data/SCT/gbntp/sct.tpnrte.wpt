@@ -1,7 +1,7 @@
 ENG/SCT http://www.openstreetmap.org/?lat=55.810084&lon=-2.036161
 +X455572 http://www.openstreetmap.org/?lat=55.843253&lon=-2.075644
 +X846273 http://www.openstreetmap.org/?lat=55.831806&lon=-2.134523
-Res +RSN http://www.openstreetmap.org/?lat=55.849891&lon=-2.192631
+Res http://www.openstreetmap.org/?lat=55.849891&lon=-2.192631
 +X431416 http://www.openstreetmap.org/?lat=55.855949&lon=-2.222500
 +X360813 http://www.openstreetmap.org/?lat=55.887226&lon=-2.321377
 +X919440 http://www.openstreetmap.org/?lat=55.901568&lon=-2.325497
@@ -22,4 +22,4 @@ SKIP_Wal http://www.openstreetmap.org/?lat=55.940200&lon=-3.015532
 SKIP_Mus http://www.openstreetmap.org/?lat=55.933235&lon=-3.071902
 DIV_Bor http://www.openstreetmap.org/?lat=55.947295&lon=-3.107908
 +X694248 http://www.openstreetmap.org/?lat=55.956624&lon=-3.145180
-EdiWav +EDB http://www.openstreetmap.org/?lat=55.952197&lon=-3.188674
+EdiWav http://www.openstreetmap.org/?lat=55.952197&lon=-3.188674

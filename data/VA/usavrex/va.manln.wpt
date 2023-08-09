@@ -10,10 +10,11 @@ RolRd http://www.openstreetmap.org/?lat=38.794642&lon=-77.258477
 +X636579 http://www.openstreetmap.org/?lat=38.793313&lon=-77.204361
 BacRd http://www.openstreetmap.org/?lat=38.796967&lon=-77.183933
 +X881224 http://www.openstreetmap.org/?lat=38.792769&lon=-77.169213
-+X313645 http://www.openstreetmap.org/?lat=38.807318&lon=-77.100356
-+X309576 http://www.openstreetmap.org/?lat=38.804705&lon=-77.065498
+DIV_Man http://www.openstreetmap.org/?lat=38.807318&lon=-77.100356
+DIV_Hun http://www.openstreetmap.org/?lat=38.804705&lon=-77.065498
 Ale http://www.openstreetmap.org/?lat=38.806816&lon=-77.060959
-+BraRd http://www.openstreetmap.org/?lat=38.814257&lon=-77.053900
-+X410470 http://www.openstreetmap.org/?lat=38.844663&lon=-77.050145
+SKIP_BraRd http://www.openstreetmap.org/?lat=38.814257&lon=-77.053900
+SKIP_PotYard http://www.openstreetmap.org/?lat=38.833222&lon=-77.046647
+DIV_Air http://www.openstreetmap.org/?lat=38.844663&lon=-77.050145
 CryCity http://www.openstreetmap.org/?lat=38.858182&lon=-77.048321
 VA/DC http://www.openstreetmap.org/?lat=38.871636&lon=-77.041132

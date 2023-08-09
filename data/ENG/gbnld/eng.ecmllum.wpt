@@ -1,4 +1,4 @@
-KinCro +KGX http://www.openstreetmap.org/?lat=51.532048&lon=-0.123575
+KinCro http://www.openstreetmap.org/?lat=51.532048&lon=-0.123575
 DIV_TL http://www.openstreetmap.org/?lat=51.541364&lon=-0.122695
 DIV_NCL http://www.openstreetmap.org/?lat=51.558757&lon=-0.107889
 SKIP_FinPark http://www.openstreetmap.org/?lat=51.564760&lon=-0.106344
@@ -20,7 +20,7 @@ SKIP_WelNor http://www.openstreetmap.org/?lat=51.823763&lon=-0.192089
 +X858390 http://www.openstreetmap.org/?lat=51.843799&lon=-0.182734
 SKIP_Kne http://www.openstreetmap.org/?lat=51.866926&lon=-0.187025
 DIV_Her http://www.openstreetmap.org/?lat=51.885419&lon=-0.195866
-Ste +SVG http://www.openstreetmap.org/?lat=51.901627&lon=-0.206938
+Ste http://www.openstreetmap.org/?lat=51.901627&lon=-0.206938
 +X647962 http://www.openstreetmap.org/?lat=51.928945&lon=-0.227194
 SKIP_Hit http://www.openstreetmap.org/?lat=51.953232&lon=-0.263157
 DIV_Cam http://www.openstreetmap.org/?lat=51.962012&lon=-0.270967
@@ -41,7 +41,7 @@ DIV_Sta http://www.openstreetmap.org/?lat=52.638545&lon=-0.338945
 +X335346 http://www.openstreetmap.org/?lat=52.857497&lon=-0.611544
 +X854915 http://www.openstreetmap.org/?lat=52.889512&lon=-0.621500
 SKIP_Gra http://www.openstreetmap.org/?lat=52.906534&lon=-0.643044
-DIR_Not http://www.openstreetmap.org/?lat=52.915469&lon=-0.648344
+DIV_Not http://www.openstreetmap.org/?lat=52.915469&lon=-0.648344
 +X186014 http://www.openstreetmap.org/?lat=52.967743&lon=-0.642872
 +X854511 http://www.openstreetmap.org/?lat=52.992290&lon=-0.659781
 SKIP_NewNorGate http://www.openstreetmap.org/?lat=53.081388&lon=-0.799448
@@ -62,14 +62,14 @@ SKIP_Don http://www.openstreetmap.org/?lat=53.522031&lon=-1.139874
 DIV_Hul http://www.openstreetmap.org/?lat=53.527229&lon=-1.139724
 DIV_Wak http://www.openstreetmap.org/?lat=53.530679&lon=-1.139746
 DIV_Pon http://www.openstreetmap.org/?lat=53.582748&lon=-1.123610
-DIR_Sel http://www.openstreetmap.org/?lat=53.715124&lon=-1.089277
+DIV_Sel http://www.openstreetmap.org/?lat=53.715124&lon=-1.089277
 +X165752 http://www.openstreetmap.org/?lat=53.732111&lon=-1.095886
 +X358370 http://www.openstreetmap.org/?lat=53.779995&lon=-1.157727
 +X146736 http://www.openstreetmap.org/?lat=53.867105&lon=-1.181889
-DIR_Lee http://www.openstreetmap.org/?lat=53.890892&lon=-1.167684
-DIR_YorkS http://www.openstreetmap.org/?lat=53.953933&lon=-1.099041
-DIR_YorkN http://www.openstreetmap.org/?lat=53.963906&lon=-1.113868
-DIR_Har http://www.openstreetmap.org/?lat=53.971657&lon=-1.121206
+DIV_Lee http://www.openstreetmap.org/?lat=53.890892&lon=-1.167684
+DIV_YorkS http://www.openstreetmap.org/?lat=53.953933&lon=-1.099041
+DIV_YorkN http://www.openstreetmap.org/?lat=53.963906&lon=-1.113868
+DIV_Har http://www.openstreetmap.org/?lat=53.971657&lon=-1.121206
 +X193740 http://www.openstreetmap.org/?lat=54.112100&lon=-1.248150
 SKIP_Thi http://www.openstreetmap.org/?lat=54.228238&lon=-1.372690
 +X778098 http://www.openstreetmap.org/?lat=54.253743&lon=-1.400585
@@ -96,7 +96,7 @@ SKIP_CheStr http://www.openstreetmap.org/?lat=54.854465&lon=-1.578212
 +X719102 http://www.openstreetmap.org/?lat=54.892085&lon=-1.583319
 +X689059 http://www.openstreetmap.org/?lat=54.954634&lon=-1.619561
 DIV_Tyne http://www.openstreetmap.org/?lat=54.959030&lon=-1.616900
-New +NCL http://www.openstreetmap.org/?lat=54.968226&lon=-1.616943
+New http://www.openstreetmap.org/?lat=54.968226&lon=-1.616943
 DIV_Dur http://www.openstreetmap.org/?lat=54.968620&lon=-1.612501
 SKIP_Man http://www.openstreetmap.org/?lat=54.972678&lon=-1.605581
 +X838437 http://www.openstreetmap.org/?lat=54.983303&lon=-1.572332
@@ -105,7 +105,7 @@ DIV_Nor http://www.openstreetmap.org/?lat=55.013617&lon=-1.559801
 +X849095 http://www.openstreetmap.org/?lat=55.060208&lon=-1.598597
 SKIP_Cra http://www.openstreetmap.org/?lat=55.087677&lon=-1.598682
 +X167879 http://www.openstreetmap.org/?lat=55.108598&lon=-1.651554
-Mor +MPT http://www.openstreetmap.org/?lat=55.162421&lon=-1.682796
+Mor http://www.openstreetmap.org/?lat=55.162421&lon=-1.682796
 SKIP_Peg http://www.openstreetmap.org/?lat=55.178255&lon=-1.643744
 +X259364 http://www.openstreetmap.org/?lat=55.192662&lon=-1.627007
 SKIP_Wid http://www.openstreetmap.org/?lat=55.241118&lon=-1.616213

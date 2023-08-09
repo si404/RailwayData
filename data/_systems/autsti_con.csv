@@ -1,7 +1,7 @@
 systemName;route;banner;groupName;roots
-autsti;1;;;aut.01inn
-autsti;2;;;aut.02inn
-autsti;3;;;aut.03inn
-autsti;5;;;aut.05inn
+autsti;1;;Innsbruck;aut.01inn
+autsti;2;;Innsbruck;aut.02inn
+autsti;3;;Innsbruck;aut.03inn
+autsti;5;;Innsbruck;aut.05inn
 autsti;6;;Innsbrucker Mittelgebirgsbahn;aut.06inn
 autsti;STB;;Stubaitalbahn;aut.stb

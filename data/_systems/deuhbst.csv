@@ -1,4 +1,4 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-deuhbst;DEU-ST;1;;Hbs;;deust.01hbs;
-deuhbst;DEU-ST;2;;Hbs;;deust.02hbs;
-deuhbst;DEU-ST;2;;Klu;Klus;deust.02klu;
+deuhbst;DEU-ST;1;;Hbs;Halberstadt;deust.01hbs;
+deuhbst;DEU-ST;2;;Hbs;Halberstadt;deust.02hbs;
+deuhbst;DEU-ST;2;;Klu;Klus, Halberstadt;deust.02klu;

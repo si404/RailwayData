@@ -1,6 +1,6 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-poltt;POL;1;;Tor;;pol.01tor;
-poltt;POL;2;;Tor;;pol.02tor;
-poltt;POL;4;;Tor;;pol.04tor;
-poltt;POL;5;;Tor;;pol.05tor;
-poltt;POL;7;;Tor;;pol.07tor;
+poltt;POL;1;;Tor;Torun;pol.01tor;
+poltt;POL;2;;Tor;Torun;pol.02tor;
+poltt;POL;4;;Tor;Torun;pol.04tor;
+poltt;POL;5;;Tor;Torun;pol.05tor;
+poltt;POL;7;;Tor;Torun;pol.07tor;

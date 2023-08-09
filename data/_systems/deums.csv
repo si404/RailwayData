@@ -1,11 +1,11 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-deums;DEU-BY;S1;;;;deuby.s01;
-deums;DEU-BY;S1;;Fri;Freising;deuby.s01fri;
-deums;DEU-BY;S2;;;;deuby.s02;
-deums;DEU-BY;S2;;Pet;Petershausen;deuby.s02pet;
-deums;DEU-BY;S3;;;;deuby.s03;
-deums;DEU-BY;S4;;;;deuby.s04;
-deums;DEU-BY;S6;;;;deuby.s06;
-deums;DEU-BY;S7;;;;deuby.s07;
-deums;DEU-BY;S8;;;;deuby.s08;
-deums;DEU-BY;S20;;;;deuby.s20;
+deums;DEU-BY;S1;;;München;deuby.s01;
+deums;DEU-BY;S1;;Fri;Freising, München;deuby.s01fri;
+deums;DEU-BY;S2;;;München;deuby.s02;
+deums;DEU-BY;S2;;Pet;Petershausen, München;deuby.s02pet;
+deums;DEU-BY;S3;;;München;deuby.s03;
+deums;DEU-BY;S4;;;München;deuby.s04;
+deums;DEU-BY;S6;;;München;deuby.s06;
+deums;DEU-BY;S7;;;München;deuby.s07;
+deums;DEU-BY;S8;;;München;deuby.s08;
+deums;DEU-BY;S20;;;München;deuby.s20;

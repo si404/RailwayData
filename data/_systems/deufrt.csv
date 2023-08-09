@@ -1,6 +1,6 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-deufrt;DEU-BW;1;;Fre;;deubw.01fre;
-deufrt;DEU-BW;2;;Fre;;deubw.02fre;
-deufrt;DEU-BW;3;;Fre;;deubw.03fre;
-deufrt;DEU-BW;4;;Fre;;deubw.04fre;
-deufrt;DEU-BW;5;;Fre;;deubw.05fre;
+deufrt;DEU-BW;1;;Fre;Freiburg;deubw.01fre;
+deufrt;DEU-BW;2;;Fre;Freiburg;deubw.02fre;
+deufrt;DEU-BW;3;;Fre;Freiburg;deubw.03fre;
+deufrt;DEU-BW;4;;Fre;Freiburg;deubw.04fre;
+deufrt;DEU-BW;5;;Fre;Freiburg;deubw.05fre;

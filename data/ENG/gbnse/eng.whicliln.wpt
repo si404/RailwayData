@@ -1,4 +1,4 @@
-LonStPanInt +STP http://www.openstreetmap.org/?lat=51.531881&lon=-0.126815
+LonStPanInt http://www.openstreetmap.org/?lat=51.531881&lon=-0.126815
 DIV_Mid http://www.openstreetmap.org/?lat=51.537697&lon=-0.129261
 +X795309 http://www.openstreetmap.org/?lat=51.548964&lon=-0.088234
 StrInt http://www.openstreetmap.org/?lat=51.544820&lon=-0.008733
@@ -8,7 +8,7 @@ DIV_Dag http://www.openstreetmap.org/?lat=51.526845&lon=0.138466
 SKIP_DagDock http://www.openstreetmap.org/?lat=51.525947&lon=0.146492
 SKIP_Rai http://www.openstreetmap.org/?lat=51.516635&lon=0.190544
 DIV_Pur http://www.openstreetmap.org/?lat=51.490215&lon=0.236464
-EbbInt +EBD http://www.openstreetmap.org/?lat=51.444205&lon=0.320449
+EbbInt http://www.openstreetmap.org/?lat=51.444205&lon=0.320449
 +X518535 http://www.openstreetmap.org/?lat=51.422989&lon=0.334225
 +X282361 http://www.openstreetmap.org/?lat=51.391065&lon=0.456791
 +X676135 http://www.openstreetmap.org/?lat=51.350852&lon=0.497389
@@ -23,18 +23,18 @@ DIV_Can http://www.openstreetmap.org/?lat=51.140149&lon=0.881524
 SKIP_Wes http://www.openstreetmap.org/?lat=51.094945&lon=1.038294
 DIV_Chu http://www.openstreetmap.org/?lat=51.091724&lon=1.058185
 SKIP_San http://www.openstreetmap.org/?lat=51.090511&lon=1.065974
-FolWest +FKW http://www.openstreetmap.org/?lat=51.084702&lon=1.153822
-FolCen +FKC http://www.openstreetmap.org/?lat=51.082835&lon=1.168413
+FolWest http://www.openstreetmap.org/?lat=51.084702&lon=1.153822
+FolCen http://www.openstreetmap.org/?lat=51.082835&lon=1.168413
 +X343781 http://www.openstreetmap.org/?lat=51.116347&lon=1.309175
-DovPri +DVP http://www.openstreetmap.org/?lat=51.125950&lon=1.304884
+DovPri http://www.openstreetmap.org/?lat=51.125950&lon=1.304884
 DIV_Cha http://www.openstreetmap.org/?lat=51.137200&lon=1.292160
 +X660623 http://www.openstreetmap.org/?lat=51.141670&lon=1.293340
 +X624069 http://www.openstreetmap.org/?lat=51.137921&lon=1.307888
-MarMill +MTM http://www.openstreetmap.org/?lat=51.170639&lon=1.347971
-Wal +WAM http://www.openstreetmap.org/?lat=51.203254&lon=1.382561
-Deal +DEA http://www.openstreetmap.org/?lat=51.223147&lon=1.398697
+MarMill http://www.openstreetmap.org/?lat=51.170639&lon=1.347971
+Wal http://www.openstreetmap.org/?lat=51.203254&lon=1.382561
+Deal http://www.openstreetmap.org/?lat=51.223147&lon=1.398697
 +X948580 http://www.openstreetmap.org/?lat=51.260384&lon=1.364450
-San +SDW http://www.openstreetmap.org/?lat=51.269997&lon=1.342134
+San http://www.openstreetmap.org/?lat=51.269997&lon=1.342134
 +X799564 http://www.openstreetmap.org/?lat=51.285407&lon=1.327543
 +X569935 http://www.openstreetmap.org/?lat=51.303440&lon=1.338530
 DIV_Can http://www.openstreetmap.org/?lat=51.328668&lon=1.325097

@@ -1,7 +1,7 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-deuplt;DEU-SN;1;;Pla;;deusn.01pla;
-deuplt;DEU-SN;2;;Pla;;deusn.02pla;
-deuplt;DEU-SN;3;;Pla;;deusn.03pla;
-deuplt;DEU-SN;4;;Pla;;deusn.04pla;
-deuplt;DEU-SN;5;;Pla;;deusn.05pla;
-deuplt;DEU-SN;6;;Pla;;deusn.06pla;
+deuplt;DEU-SN;1;;Pla;Plauen;deusn.01pla;
+deuplt;DEU-SN;2;;Pla;Plauen;deusn.02pla;
+deuplt;DEU-SN;3;;Pla;Plauen;deusn.03pla;
+deuplt;DEU-SN;4;;Pla;Plauen;deusn.04pla;
+deuplt;DEU-SN;5;;Pla;Plauen;deusn.05pla;
+deuplt;DEU-SN;6;;Pla;Plauen;deusn.06pla;

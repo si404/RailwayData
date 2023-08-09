@@ -7,10 +7,10 @@ Mil http://www.openstreetmap.org/?lat=39.964384&lon=-75.252228
 46thSt http://www.openstreetmap.org/?lat=39.958648&lon=-75.214012
 40thSt http://www.openstreetmap.org/?lat=39.957143&lon=-75.201910
 34thSt http://www.openstreetmap.org/?lat=39.955868&lon=-75.191427
-+X565409 http://www.openstreetmap.org/?lat=39.955515&lon=-75.188767
+DIV_LR http://www.openstreetmap.org/?lat=39.955515&lon=-75.188767
 30thSt http://www.openstreetmap.org/?lat=39.956526&lon=-75.181707
-+22ndSt http://www.openstreetmap.org/?lat=39.953993&lon=-75.176665
-+19thSt http://www.openstreetmap.org/?lat=39.953343&lon=-75.171579
+SKIP_22ndSt http://www.openstreetmap.org/?lat=39.953993&lon=-75.176665
+SKIP_19thSt http://www.openstreetmap.org/?lat=39.953343&lon=-75.171579
 15thSt http://www.openstreetmap.org/?lat=39.952570&lon=-75.165206
 13thSt http://www.openstreetmap.org/?lat=39.952085&lon=-75.161451
 11thSt http://www.openstreetmap.org/?lat=39.951723&lon=-75.158329

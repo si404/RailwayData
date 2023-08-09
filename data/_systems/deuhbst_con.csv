@@ -1,4 +1,4 @@
 systemName;route;banner;groupName;roots
-deuhbst;1;;;deust.01hbs
-deuhbst;2;;;deust.02hbs
-deuhbst;2;;Klus;deust.02klu
+deuhbst;1;;Halberstadt;deust.01hbs
+deuhbst;2;;Halberstadt;deust.02hbs
+deuhbst;2;;Klus, Halberstadt;deust.02klu

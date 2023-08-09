@@ -1,6 +1,6 @@
 DC/MD http://www.openstreetmap.org/?lat=38.916823&lon=-76.939831
-+Che http://www.openstreetmap.org/?lat=38.916627&lon=-76.916624
-+Lan http://www.openstreetmap.org/?lat=38.933600&lon=-76.891336
+SKIP_Che http://www.openstreetmap.org/?lat=38.916627&lon=-76.916624
+SKIP_Lan http://www.openstreetmap.org/?lat=38.933600&lon=-76.891336
 NewCar http://www.openstreetmap.org/?lat=38.948070&lon=-76.872089
 Sea http://www.openstreetmap.org/?lat=38.973131&lon=-76.843250
 BowSta http://www.openstreetmap.org/?lat=39.017692&lon=-76.764951

@@ -1,6 +1,6 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-autstl;AUT;1;;Lin;;aut.01lin;
-autstl;AUT;2;;Lin;;aut.02lin;
-autstl;AUT;3;;Lin;;aut.03lin;
-autstl;AUT;4;;Lin;;aut.04lin;
-autstl;AUT;50;;Lin;;aut.50lin;
+autstl;AUT;1;;Lin;Linz;aut.01lin;
+autstl;AUT;2;;Lin;Linz;aut.02lin;
+autstl;AUT;3;;Lin;Linz;aut.03lin;
+autstl;AUT;4;;Lin;Linz;aut.04lin;
+autstl;AUT;50;;Lin;Linz;aut.50lin;

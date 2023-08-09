@@ -1,7 +1,7 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-deueft;DEU-TH;1;;Erf;;deuth.01erf;
-deueft;DEU-TH;2;;Erf;;deuth.02erf;
-deueft;DEU-TH;3;;Erf;;deuth.03erf;
-deueft;DEU-TH;4;;Erf;;deuth.04erf;
-deueft;DEU-TH;5;;Erf;;deuth.05erf;
-deueft;DEU-TH;6;;Erf;;deuth.06erf;
+deueft;DEU-TH;1;;Erf;Erfurt;deuth.01erf;
+deueft;DEU-TH;2;;Erf;Erfurt;deuth.02erf;
+deueft;DEU-TH;3;;Erf;Erfurt;deuth.03erf;
+deueft;DEU-TH;4;;Erf;Erfurt;deuth.04erf;
+deueft;DEU-TH;5;;Erf;Erfurt;deuth.05erf;
+deueft;DEU-TH;6;;Erf;Erfurt;deuth.06erf;
