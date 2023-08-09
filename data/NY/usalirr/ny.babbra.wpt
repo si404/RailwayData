@@ -10,10 +10,10 @@ ForHil http://www.openstreetmap.org/?lat=40.719591&lon=-73.844841
 SKIP_KewGar http://www.openstreetmap.org/?lat=40.709572&lon=-73.830807
 DIV_Atl http://www.openstreetmap.org/?lat=40.698108&lon=-73.814392
 Jam http://www.openstreetmap.org/?lat=40.699861&lon=-73.807676
-DIV_FarRoc/WHem_W http://www.openstreetmap.org/?lat=40.700955&lon=-73.803760
+DIV_FarRoc/LongBea_W http://www.openstreetmap.org/?lat=40.700955&lon=-73.803760
 DIV_Main http://www.openstreetmap.org/?lat=40.705852&lon=-73.784534
 SKIP_StAlb http://www.openstreetmap.org/?lat=40.691255&lon=-73.765554
-DIV_FarRoc/WHem_E http://www.openstreetmap.org/?lat=40.666943&lon=-73.747551
+DIV_FarRoc/LongBea_E http://www.openstreetmap.org/?lat=40.666943&lon=-73.747551
 SKIP_Ros http://www.openstreetmap.org/?lat=40.665912&lon=-73.735819
 SKIP_VlyStr http://www.openstreetmap.org/?lat=40.661474&lon=-73.704550
 DIV_FarRoc http://www.openstreetmap.org/?lat=40.661041&lon=-73.702957
