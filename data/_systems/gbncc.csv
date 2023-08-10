@@ -1,5 +1,5 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
 gbncc;ENG;LTSLn;;;London, Tilbury & Southend Line (Basildon);eng.ltsln;
-gbncc;ENG;LTSLn;;Til;London, Tilbury & Southend Line (Ockendon);eng.ltslnock;
-gbncc;ENG;LTSLn;;Dag;London, Tilbury & Southend Line (Rainham);eng.ltslndrai;
+gbncc;ENG;LTSLn;;Ock;London, Tilbury & Southend Line (Ockendon);eng.ltslnock;
+gbncc;ENG;LTSLn;;Rai;London, Tilbury & Southend Line (Rainham);eng.ltslnrai;
 gbncc;ENG;LTSLn;;Str;London, Tilbury & Southend Line (Stratford);eng.ltslnstr;

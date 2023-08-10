@@ -4,7 +4,7 @@ gbnsr;SCT;GML;;Gla;Grampian Main Line (Glasgow);sct.gmlgla;
 gbnsr;SCT;HML;;Gla;Highland Main Line (Glasgow);sct.hmlgla;
 gbnsr;SCT;HML;;Edi;Highland Main Line (Edinburgh);sct.hmledi;
 gbnsr;SCT;AbeInvLn;;;Aberdeen - Inverness Line;sct.abeinvln;
-gbnsr;SCT;StaLn;;;Strathallan Line;sct.strln;
+gbnsr;SCT;StaLn;;;Strathallan Line;sct.staln;
 gbnsr;SCT;AngCoaLn;;;Angus Coast Line;sct.angcoaln;
 gbnsr;SCT;AbeLn;;;Aberdeen Line;sct.abeln;
 gbnsr;SCT;CroyLn;;;Croy Line;sct.croyln;

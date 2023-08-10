@@ -7,7 +7,7 @@ gbnaw;LlaManLn;;Llandudno - Manchester Line;wls.llamanln,eng.llamanln
 gbnaw;LivWreLn;;Liverpool - Wrescam Line;eng.livwreln,wls.livwreln
 gbnaw;CheCreLn;;Chester - Crewe Line;eng.checreln
 gbnaw;CamCoaLn;;Cambrian Coast Line;wls.camcoaln
-gbnaw;WWalLn;;West Wales Line (Milford Haven);wls.wwall
+gbnaw;WWalLn;;West Wales Line (Milford Haven);wls.wwalln
 gbnaw;WWalLn;;West Wales Line (Fishguard);wls.wwallnfis
 gbnaw;WWalLn;;West Wales Line (Pembroke Dock);wls.wwallnpem
 gbnaw;SevShoLn;;Severn Shores Line;eng.sevsholn,wls.sevsholn
@@ -16,8 +16,8 @@ gbnaw;BorLn;;Borderlands Line;eng.borln,wls.borln
 gbnaw;HeaWalLn;;Heart of Wales Line;eng.heawalln,wls.heawalln
 gbnaw;SwanLn;;Swanline;wls.swanln
 gbnaw;MaeLn;;Maesteg Line;wls.maeln
-gbnaw;EbbwValeLn;;Ebbw Vale Line (Cardiff);wls.ebbwvaleln;
-gbnaw;EbbwValeLn;;Ebbw Vale Line (Newport);wls.ebbwvalelnnew;
+gbnaw;EbbwValeLn;;Ebbw Vale Line (Cardiff);wls.ebbwvaleln
+gbnaw;EbbwValeLn;;Ebbw Vale Line (Newport);wls.ebbwvalelnnew
 gbnaw;AbeLn;;Aberdare Line;wls.abeln
 gbnaw;BarLn;;Barry Line;wls.barln
 gbnaw;ButBra;;Butetown Branch;wls.butbra
