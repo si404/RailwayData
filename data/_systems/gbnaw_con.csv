@@ -1,0 +1,30 @@
+systemName;route;banner;groupName;roots
+gbnaw;MarLn;;Marches Line;wls.marln,eng.marln
+gbnaw;NWSW;;North Wales - South Wales;wls.nwsw,eng.nwswche,wls.nwswwre,eng.nwsw,wls.nwswcar
+gbnaw;NWCLn;;North Wales Coast Line;eng.nwcln,wls.nwclnwre,eng.nwclnche,wls.nwcln
+gbnaw;CamLn;;Cambrian Line;eng.camln,wls.camln
+gbnaw;LlaManLn;;Llandudno - Manchester Line;wls.llamanln,eng.llamanln
+gbnaw;LivWreLn;;Liverpool - Wrescam Line;eng.livwreln,wls.livwreln
+gbnaw;CheCreLn;;Chester - Crewe Line;eng.checreln
+gbnaw;CamCoaLn;;Cambrian Coast Line;wls.camcoaln
+gbnaw;WWalLn;;West Wales Line (Milford Haven);wls.wwall
+gbnaw;WWalLn;;West Wales Line (Fishguard);wls.wwallnfis
+gbnaw;WWalLn;;West Wales Line (Pembroke Dock);wls.wwallnpem
+gbnaw;SevShoLn;;Severn Shores Line;eng.sevsholn,wls.sevsholn
+gbnaw;ConVlyLn;;Conwy Valley Line;wls.convlyln
+gbnaw;BorLn;;Borderlands Line;eng.borln,wls.borln
+gbnaw;HeaWalLn;;Heart of Wales Line;eng.heawalln,wls.heawalln
+gbnaw;SwanLn;;Swanline;wls.swanln
+gbnaw;MaeLn;;Maesteg Line;wls.maeln
+gbnaw;EbbwValeLn;;Ebbw Vale Line (Cardiff);wls.ebbwvaleln;
+gbnaw;EbbwValeLn;;Ebbw Vale Line (Newport);wls.ebbwvalelnnew;
+gbnaw;AbeLn;;Aberdare Line;wls.abeln
+gbnaw;BarLn;;Barry Line;wls.barln
+gbnaw;ButBra;;Butetown Branch;wls.butbra
+gbnaw;CityLn;;City Line;wls.cityln
+gbnaw;CorLn;;Coryton Line;wls.corln
+gbnaw;MerLn;;Merthyr Line;wls.merln
+gbnaw;PenLn;;Penarth Line;wls.penln
+gbnaw;RhoLn;;Rhondda Line;wls.rholn
+gbnaw;RhyLn;;Rhymney Line;wls.rhyln
+gbnaw;VoGLn;;Vale of Glamorgan Line;wls.vogln
