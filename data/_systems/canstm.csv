@@ -1,0 +1,5 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+canstm;QC;GreLn;;;Green Line;qc.greln;
+canstm;QC;OraLn;;;Orange Line;qc.oraln;
+canstm;QC;YelLn;;;Yellow Line;qc.yelln;
+canstm;QC;BluLn;;;Blue Line;qc.bluln;

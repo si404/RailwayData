@@ -43,6 +43,8 @@ belat;BEL;Antwerpse tram;TMred;4;preview
 belbt;BEL;Tramwway de Bruxelles / Brusselse tram;TMred;4;preview
 belgt;BEL;Gentse tram;TMred;4;preview
 belkt;BEL;Kusttram;TMred;4;preview
+canrem;CAN;Montreal Réseau Express Métropolitain;TMred;4;preview
+canstm;CAN;Montreal Metro;TMblue;3;preview
 cheags;CHE;S-Bahn Aargau;TMgreen;2;preview
 chebes;CHE;S-Bahn Bern / RER Berne;TMgreen;2;preview
 chebss;CHE;Trinationale S-Bahn Basel / RER trinational de Bâle;TMgreen;2;preview
@@ -350,6 +352,7 @@ usanycs;USA;New York City Subway;TMblue;3;preview
 usapath;USA;Port Authority Trans-Hudson Railroad;TMblue;3;preview
 usasir;USA;Staten Island Railway;TMblue;3;preview
 usawmat;USA;Washington Metro;TMblue;3;preview
+usamarta;USA;MARTA Rail;TMblue;3;preview
 usablrl;USA;Baltimore Light RailLink;TMred;4;preview
 usabufmr;USA;Buffalo Metro Rail;TMred;4;preview
 usadcsc;USA;DC Streetcar;TMred;4;preview
@@ -362,7 +365,8 @@ usarivl;USA;River LINE;TMred;4;preview
 usaseplr;USA;SEPTA Light Rail;TMred;4;preview
 usapitlr;USA;Pittsburgh Light Rail (The T);TMred;4;preview
 usatide;USA;The Tide;TMred;4;preview
-usaairtrn;USA;AirTrain;TMyellow;5;preview
-usahunhts;USA;Huntsville Hospital Tram System;TMyellow;5;preview
-usarooist;USA;Roosevelt Island Tramway;TMyellow;5;preview
-usawvuprt;USA;Morgantown Personal Rapid Transit;TMyellow;5;preview
+usaairtrn;USA;AirTrain;TMYellow;5;preview
+usaatl;USA;ATL Sky Train;TMyellow;5;preview
+usahunhts;USA;Huntsville Hospital Tram System;TMYellow;5;preview
+usarooist;USA;Roosevelt Island Tramway;TMYellow;5;preview
+usawvuprt;USA;Morgantown Personal Rapid Transit;TMYellow;5;preview

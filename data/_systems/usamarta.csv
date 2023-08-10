@@ -1,0 +1,5 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+usamarta;GA;BluLn;;;Blue Line;ga.bluln;
+usamarta;GA;GoldLn;;;Gold Line;ga.goldln;
+usamarta;GA;GreLn;;;Green Line;ga.greln;
+usamarta;GA;RedLn;;;Red Line;ga.redln;

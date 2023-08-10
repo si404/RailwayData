@@ -1,13 +1,8 @@
 systemName;route;banner;groupName;roots
-usamncr;HarLn;;Harlem Line (inner zone);ny.harlninn
-usamncr;HarLn;;Harlem Line (outer zone);ny.harlnout
-usamncr;HarLn;;Harlem Line (Wassaic);ny.harlnwas
-usamncr;HudLn;;Hudson Line (inner zone);ny.hudlninn
-usamncr;HudLn;;Hudson Line (outer zone);ny.hudlnout
-usamncr;NewHavLn;;New Haven Line (inner zone);ny.newhavlninn,ct.newhavlninn
-usamncr;NewHavLn;;New Haven Line (outer zone);ny.newhavlnout,ct.newhavlnout
+usamncr;HarLn;;Harlem Line;ny.harln
+usamncr;HudLn;;Hudson Line;ny.hudln
+usamncr;NewHavLn;;New Haven Line;ny.newhavln,ct.newhavln
 usamncr;NewHavLn;;New Haven Line (New Canaan Branch);ct.newhavlncan
 usamncr;NewHavLn;;New Haven Line (Danbury Branch);ct.newhavlndan
 usamncr;NewHavLn;;New Haven Line (Waterbury Branch);ct.newhavlnwat
-usamncr;YanStaSpr;;Yankee Stadium Spur;ny.yanstaspr
 usamncr;PortJerLn;;Port Jervis Line;nj.portjerln,ny.portjerln
