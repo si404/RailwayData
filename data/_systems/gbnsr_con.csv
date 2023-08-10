@@ -35,7 +35,7 @@ gbnsr;AyrCoaLn;;Ayrshire Coast Line (Ardrossan);sct.ayrcoalnard
 gbnsr;AyrCoaLn;;Ayrshire Coast Line (Largs);sct.ayrcoalnlar
 gbnsr;InvLn;;Inverclyde Line (Gourock);sct.invlngou
 gbnsr;InvLn;;Inverclyde Line (Wemyss Bay);sct.invlnwem
-gbnsr;CatCirLn;;Cathcart Circle Line (Newton via Queens Park);sct.catcorlnque
+gbnsr;CatCirLn;;Cathcart Circle Line (Newton via Queens Park);sct.catcirlnque
 gbnsr;CatCirLn;;Cathcart Circle Line (Newton via Maxwell Park);sct.catcirlnmax
 gbnsr;CatCirLn;;Cathcart Circle Line (Neilston);sct.catcirlnnei
 gbnsr;PaiCanLn;;Paisley Canal Line;sct.paicanln
