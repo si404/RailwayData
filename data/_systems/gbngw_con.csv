@@ -1,0 +1,36 @@
+systemName;route;banner;groupName;roots
+gbngw;GWML;;Great Western Main Line;eng.gwml
+gbngw;SWalML;;South Wales Main Line;eng.swalml,wls.swalml
+gbngw;DevML;;Devon Main Line;eng.devml
+gbngw;CotLn;;Cotswolds Line;eng.cotln
+gbngw;OxfLn;;Oxford Line;eng.oxfln
+gbngw;BerHanLn;;Berks & Hants Line;eng.berhanln
+gbngw;GolVlyLn;;Golden Valley Line;eng.golvlyln
+gbngw;CorML;;Cornish Main Line;wls.corml,eng.corml
+gbngw;WesML;;Wessex Mainline;wls.wesml,eng.wesml
+gbngw;ThaVlyLn;;Thames Valley Line;eng.thavlyln
+gbngw;KenVlyLn;;Kennet Valley Line;eng.kenvlyln
+gbngw;GreBra;;Greenford Branch;eng.grebr
+gbngw;WinBra;;Windsor Branch;eng.winbra
+gbngw;MarBra;;Marlow Branch;eng.marbra
+gbngw;RegLn;;Regatta Line;eng.regln
+gbngw;NorDowLn;;North Downs Line;eng.nordowln
+gbngw;BruLn;;Brunel Line;eng.bruln
+gbngw;NewLn;;Newbury Line;eng.newln
+gbngw;OxCanLn;;Oxford Canal Line;eng.oxfcanln
+gbngw;TraWilLn;;Trans-Wilts Line;eng.trawilln
+gbngw;AvonVlyLn;;Avon Valley Line;eng.avonvlyln
+gbngw;SevVlyLn;;Severn Valley Line;eng.sevvlyln
+gbngw;FilLn;;Filton Line;eng.filln
+gbngw;HeaWesLn;;Heart of Wessex Line;eng.heawesln
+gbngw;SevLn;;Severnside Line;eng.sevln
+gbngw;SevBeaLn;;Severn Beach Line;eng.sevbealn
+gbngw;AvoLn;;Avocet Line;eng.avoln
+gbngw;TarLn;;Tarka Line;eng.tarln
+gbngw;DarLn;;Dartmoor Line;eng.darln
+gbngw;RivLn;;Riveria Line;eng.rivln
+gbngw;TamVlyLn;;Tamar Valley Line;eng.tamvlyln
+gbngw;LooeVlyLn;;Looe Valley Line;eng.looevlyln
+gbngw;AtlCoaLn;;Atlantic Coast Line;eng.atlcoaln
+gbngw;MrtLn;;Maritime Line;eng.mrtln
+gbngw;SIBLn;;St Ives Bay Line;eng.sibln
