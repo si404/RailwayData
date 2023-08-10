@@ -1,0 +1,5 @@
+systemName;route;banner;groupName;roots
+canstm;GreLn;;Green Line;qc.greln
+canstm;OraLn;;Orange Line;qc.oraln
+canstm;YelLn;;Yellow Line;qc.yelln
+canstm;BluLn;;Blue Line;qc.bluln
