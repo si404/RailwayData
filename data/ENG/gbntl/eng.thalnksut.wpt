@@ -9,7 +9,7 @@ DIV_Bro http://www.openstreetmap.org/?lat=51.451995&lon=-0.100830
 DIV_Dul http://www.openstreetmap.org/?lat=51.440905&lon=-0.103769
 TulHill http://www.openstreetmap.org/?lat=51.439808&lon=-0.104939
 DIV_Gip http://www.openstreetmap.org/?lat=51.438577&lon=-0.106537
-Str_1 +STE_1 http://www.openstreetmap.org/?lat=51.425849&lon=-0.131568
+Str_1 http://www.openstreetmap.org/?lat=51.425849&lon=-0.131568
 DIV_Nor1 http://www.openstreetmap.org/?lat=51.424363&lon=-0.134132
 DIV_Bal1 http://www.openstreetmap.org/?lat=51.420199&lon=-0.139024
 DIV_Wim http://www.openstreetmap.org/?lat=51.419088&lon=-0.140548
@@ -18,7 +18,7 @@ MitJct http://www.openstreetmap.org/?lat=51.392933&lon=-0.157735
 Hac http://www.openstreetmap.org/?lat=51.377982&lon=-0.153637
 Car http://www.openstreetmap.org/?lat=51.368579&lon=-0.166340
 DIV_Wal http://www.openstreetmap.org/?lat=51.360396&lon=-0.187755
-Sut +SUO http://www.openstreetmap.org/?lat=51.359706&lon=-0.190877
+Sut http://www.openstreetmap.org/?lat=51.359706&lon=-0.190877
 DIV_Che http://www.openstreetmap.org/?lat=51.359217&lon=-0.194181
 WestSut http://www.openstreetmap.org/?lat=51.366201&lon=-0.204513
 SutCom http://www.openstreetmap.org/?lat=51.375363&lon=-0.196102
