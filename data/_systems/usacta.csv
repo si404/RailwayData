@@ -1,0 +1,10 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+usacta;IL;BlueLn;;;Blue Line;il.blueln;
+usacta;IL;BroLn;;;Brown Line;il.broln;
+usacta;IL;GreLn;;;Green Line (Ashland);il.greln;
+usacta;IL;GreLnE63;;;Green Line (East 63rd);il.grelne63;
+usacta;IL;OraLn;;;Orange Line;il.oraln;
+usacta;IL;PinkLn;;;Pink Line;il.pinkln;
+usacta;IL;PurLn;;;Purple Line;il.purln;
+usacta;IL;RedLn;;;Red Line;il.redln;
+usacta;IL;SkoSwi;;;Skokie Swift;il.skoswi;
