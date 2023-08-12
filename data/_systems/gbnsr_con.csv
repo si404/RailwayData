@@ -1,0 +1,47 @@
+systemName;route;banner;groupName;roots
+gbnsr;GML;;Grampian Main Line (Edinburgh);sct.gmledi
+gbnsr;GML;;Grampian Main Line (Glasgow);sct.gmlgla
+gbnsr;HML;;Highland Main Line (Glasgow);sct.hmlgla
+gbnsr;HML;;Highland Main Line (Edinburgh);sct.hmledi
+gbnsr;AbeInvLn;;Aberdeen - Inverness Line;sct.abeinvln
+gbnsr;StaLn;;Strathallan Line;sct.staln
+gbnsr;AngCoaLn;;Angus Coast Line;sct.angcoaln
+gbnsr;AbeLn;;Aberdeen Line;sct.abeln
+gbnsr;CroyLn;;Croy Line;sct.croyln
+gbnsr;AllLn;;Alloa Line;sct.allln
+gbnsr;DunLn;;Dunblane Line;sct.dunln
+gbnsr;CumLn;;Cumbernauld Line;sct.cumln
+gbnsr;MarLn;;Maryhill Line;sct.marln
+gbnsr;FifeLn;;Fife Line (Dundee);sct.fifelndun
+gbnsr;FifeLn;;Fife Line (Perth);sct.fifelnper
+gbnsr;FifeLn;;Fife Line (Leven via Glenrothes);sct.fifelngle
+gbnsr;FifeLn;;Fife Line (Leven via Kirkcaldy);sct.fifelnkir
+gbnsr;BorLn;;Borders Line;sct.borln
+gbnsr;EastLotLn;;East Lothian Line;sct.eastlotln
+gbnsr;NorBerLn;;North Berwick Line;sct.norberln
+gbnsr;EastKilLn;;East Kilbride Line;sct.eastkilln
+gbnsr;KilLn;;Kilmarnock Line;sct.killn
+gbnsr;CstLn;;Carstairs Line;sct.cstln
+gbnsr;LanLn;;Lanark Line;sct.lanln
+gbnsr;ShoLn;;Shotts Line;sct.sholn
+gbnsr;ArgLn;;Argyle Line (Larkhall);sct.arglnlar
+gbnsr;ArgLn;;Argyle Line (Cumbernauld);sct.arglncum
+gbnsr;ArgLn;;Argyle Line (Whifflet);sct.arglnwhi
+gbnsr;NorClyLn;;North Clyde Line (Helensburgh);sct.norclylnhel
+gbnsr;NorClyLn;;North Clyde Line (Balloch);sct.norclylnbal
+gbnsr;NorClyLn;;North Clyde Line (Milngavie);sct.norclylnmil
+gbnsr;AyrCoaLn;;Ayrshire Coast Line (Ayr);sct.ayrcoalnayr
+gbnsr;AyrCoaLn;;Ayrshire Coast Line (Ardrossan);sct.ayrcoalnard
+gbnsr;AyrCoaLn;;Ayrshire Coast Line (Largs);sct.ayrcoalnlar
+gbnsr;InvLn;;Inverclyde Line (Gourock);sct.invlngou
+gbnsr;InvLn;;Inverclyde Line (Wemyss Bay);sct.invlnwem
+gbnsr;CatCirLn;;Cathcart Circle Line (Newton via Queens Park);sct.catcirlnque
+gbnsr;CatCirLn;;Cathcart Circle Line (Newton via Maxwell Park);sct.catcirlnmax
+gbnsr;CatCirLn;;Cathcart Circle Line (Neilston);sct.catcirlnnei
+gbnsr;PaiCanLn;;Paisley Canal Line;sct.paicanln
+gbnsr;CarLn;;Carlisle Line;sct.carln,eng.carln
+gbnsr;StrLn;;Stranraer Line;sct.strln
+gbnsr;WestHigLn;;West Highland Line (Oban);sct.westhiglnoba
+gbnsr;WestHigLn;;West Highland Line (Fort William);sct.westhiglnfor
+gbnsr;KyleLn;;Kyle Line;sct.kyleln
+gbnsr;FarNorLn;;Far North Line;sct.farnorln

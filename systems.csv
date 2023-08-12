@@ -146,8 +146,8 @@ deuswat;DEU;Kirnitzschtalbahn;TMred;4;preview
 deuult;DEU;Straßenbahn Ulm;TMred;4;preview
 deuwut;DEU;Straßenbahn Würzburg;TMred;4;preview
 deuzt;DEU;Straßenbahn Zwickau;TMred;4;preview
-deuddb;DEU;Bergbahnen Dresden;TMYellow;5;preview
-deunwh;DEU;Hängebahn;TMYellow;5;preview
+deuddb;DEU;Bergbahnen Dresden;TMyellow;5;preview
+deunwh;DEU;Hängebahn;TMyellow;5;preview
 espca;ESP;Cercanías Asturias;TMgreen;2;preview
 espcc;ESP;Cercanías Cádiz;TMgreen;2;preview
 espcm;ESP;Cercanías Madrid;TMgreen;2;preview
@@ -221,13 +221,14 @@ frast;FRA;Strasbourg Tramway;TMred;4;preview
 fratot;FRA;Tours Tramway;TMred;4;preview
 fratt;FRA;Toulouse Tramway;TMred;4;preview
 fravt;FRA;Valenciennes Tramway;TMred;4;preview
-frabrtp;FRA;Brest Téléphérique;TMYellow;5;preview
-frafdm;FRA;Funiculaire de Montmartre;TMYellow;5;preview
-fragbt;FRA;Téléphérique de Grenoble Bastille;TMYellow;5;preview
-fralhf;FRA;Funicular de Havre;TMYellow;5;preview
-fralyf;FRA;Lyon Funiculars;TMYellow;5;preview
-frattp;FRA;Toulouse Téléphérique urbain Téléo;TMYellow;5;preview
-fraval;FRA;Véhicule Automatique Léger;TMYellow;5;preview
+frabrtp;FRA;Brest Téléphérique;TMyellow;5;preview
+frafdm;FRA;Funiculaire de Montmartre;TMyellow;5;preview
+fragbt;FRA;Téléphérique de Grenoble Bastille;TMyellow;5;preview
+fralhf;FRA;Funicular de Havre;TMyellow;5;preview
+fralyf;FRA;Lyon Funiculars;TMyellow;5;preview
+frattp;FRA;Toulouse Téléphérique urbain Téléo;TMyellow;5;preview
+fraval;FRA;Véhicule Automatique Léger;TMyellow;5;preview
+gbnvt;GBR;Avanti West Coast;TMgray;1;preview
 gbncs;GBR;Caledonian Sleeper;TMgray;1;preview
 gbngc;GBR;Great Central;TMgray;1;preview
 gbngx;GBR;Gatwick Express;TMgray;1;preview
@@ -235,12 +236,15 @@ gbnht;GBR;Hull Trains;TMgray;1;preview
 gbnhx;GBR;Heathrow Express;TMgray;1;preview
 gbnld;GBR;Lumo;TMgray;1;preview
 gbnsx;GBR;Stansted Express;TMgray;1;preview
+gbnaw;GBR;Transport for Wales Rail;TMgreen;2;preview
+gbncc;GBR;c2c;TMgreen;2;preview
 gbngn;GBR;Great Northern;TMgreen;2;preview
 gbnil;GBR;Island Line;TMgreen;2;preview
 gbnln;GBR;London Northwestern Railway;TMgreen;2;preview
 gbnlo;GBR;London Overground;TMgreen;2;preview
 gbnme;GBR;Merseyrail;TMgreen;2;preview
 gbnse;GBR;Southeastern;TMgreen;2;preview
+gbnsr;GBR;Scotrail;TMgreen;2;preview
 gbntl;GBR;Thameslink;TMgreen;2;preview
 gbntp;GBR;TransPennine Express;TMgreen;2;preview
 gbnwm;GBR;West Midlands Railway;TMgreen;2;preview
@@ -257,20 +261,21 @@ gbnman;GBR;Manchester Metrolink;TMred;4;preview
 gbnnet;GBR;Nottingham Express Transit;TMred;4;preview
 gbnss;GBR;Sheffield Supertram;TMred;4;preview
 gbnwmm;GBR;West Midlands Metro;TMred;4;preview
-gbnbarl;GBR;Birmingham Air-Rail Link;TMYellow;5;preview
-gbndart;GBR;Luton Direct Air-Rail Transport;TMYellow;5;preview
-gbngast;GBR;Gatwick Airport Shuttle Transit;TMYellow;5;preview
-gbnhprt;GBR;Heathrow Personal Rapid Transit;TMYellow;5;preview
-gbnht5t;GBR;Heathrow Terminal 5 Transit;TMYellow;5;preview
-gbnlcc;GBR;London Cable Car;TMYellow;5;preview
-gbnstts;GBR;Stansted Airport Tracked Transit System;TMYellow;5;preview
+gbnbarl;GBR;Birmingham Air-Rail Link;TMyellow;5;preview
+gbndart;GBR;Luton Direct Air-Rail Transport;TMyellow;5;preview
+gbngast;GBR;Gatwick Airport Shuttle Transit;TMyellow;5;preview
+gbnhprt;GBR;Heathrow Personal Rapid Transit;TMyellow;5;preview
+gbnht5t;GBR;Heathrow Terminal 5 Transit;TMyellow;5;preview
+gbnlcc;GBR;London Cable Car;TMyellow;5;preview
+gbnstts;GBR;Stansted Airport Tracked Transit System;TMyellow;5;preview
 hkgmtr;CHN;Hong Kong Mass Transit Railway;TMblue;3;preview
 hkghkt;CHN;Hong Kong Tramways;TMred;4;preview
 hkglr;CHN;Hong Kong Light Rail;TMred;4;preview
-hkgnpcc;CHN;Ngong Ping Cable Car;TMYellow;5;preview
-hkgop;CHN;Ocean Park Transport;TMYellow;5;preview
-hkgpt;CHN;Peak Tram;TMYellow;5;preview
+hkgnpcc;CHN;Ngong Ping Cable Car;TMyellow;5;preview
+hkgop;CHN;Ocean Park Transport;TMyellow;5;preview
+hkgpt;CHN;Peak Tram;TMyellow;5;preview
 imnimr;IMN;Isle of Man Railways;TMred;4;preview
+irlent;IRL;Enterprise;TMgray;1;preview
 irlluas;IRL;Luas;TMred;4;preview
 itafl;ITA;Ferrovie Laziali;TMgreen;2;preview
 itanf;ITA;Ferrovie flegree di Napoli;TMgreen;2;preview
@@ -290,9 +295,9 @@ itart;ITA;Tranviaria di Roma;TMred;4;preview
 itamt;ITA;Tranviaria di Milano;TMred;4;preview
 itant;ITA;Tranviaria di Napoli;TMred;4;preview
 itatt;ITA;Tranviaria di Torino;TMred;4;preview
-itagf;ITA;Funicolari di Genova;TMYellow;5;preview
-itanfc;ITA;Funicolari di Napoli;TMYellow;5;preview
-itanfv;ITA;Funivie di Castellammare;TMYellow;5;preview
+itagf;ITA;Funicolari di Genova;TMyellow;5;preview
+itanfc;ITA;Funicolari di Napoli;TMyellow;5;preview
+itanfv;ITA;Funivie di Castellammare;TMyellow;5;preview
 nldam;NLD;Amsterdam Metro;TMblue;3;preview
 nldrm;NLD;Rotterdam Metro;TMblue;3;preview
 nldat;NLD;Amsterdam Trams;TMred;4;preview
@@ -326,7 +331,7 @@ poltt;POL;Tramwaje w Toruniu;TMred;4;preview
 polwt;POL;Tramwaje w Warszawie;TMred;4;preview
 polwrt;POL;Tramwaje we Wrocławiu;TMred;4;preview
 sgpmrt;SGP;Singapore Mass Rapid Transit;TMblue;3;preview
-sgplrt;SGP;Singapore Light Rail Transit;TMYellow;5;preview
+sgplrt;SGP;Singapore Light Rail Transit;TMyellow;5;preview
 svkzdb;SVK;Železničná_doprava v Bratislave;TMgreen;2;preview
 svkedb;SVK;Električková_doprava v Bratislave;TMred;4;preview
 svkedk;SVK;Električková_doprava v Košiciach;TMred;4;preview

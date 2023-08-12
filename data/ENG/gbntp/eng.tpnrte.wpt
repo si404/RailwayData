@@ -16,8 +16,7 @@ DIV_Gol http://www.openstreetmap.org/?lat=53.455669&lon=-2.591572
 SKIP_Pat http://www.openstreetmap.org/?lat=53.484847&lon=-2.357297
 SKIP_Ecc http://www.openstreetmap.org/?lat=53.485486&lon=-2.333951
 DIV_Bol http://www.openstreetmap.org/?lat=53.478590&lon=-2.267175
-DIV_Cas http://www.openstreetmap.org/?lat=53.478386&lon=-2.262819
-DIV_Ord http://www.openstreetmap.org/?lat=53.480139&lon=-2.258946
+DIV_Ord http://www.openstreetmap.org/?lat=53.478329&lon=-2.260222
 SKIP_SalCen http://www.openstreetmap.org/?lat=53.482740&lon=-2.255512
 ManVic http://www.openstreetmap.org/?lat=53.488052&lon=-2.242563
 DIV_Bury http://www.openstreetmap.org/?lat=53.490988&lon=-2.231791
@@ -112,7 +111,7 @@ SKIP_Wid http://www.openstreetmap.org/?lat=55.241118&lon=-1.616213
 SKIP_Ack http://www.openstreetmap.org/?lat=55.307142&lon=-1.651812
 +X749249 http://www.openstreetmap.org/?lat=55.331659&lon=-1.652327
 +X644514 http://www.openstreetmap.org/?lat=55.370405&lon=-1.622028
-ALM http://www.openstreetmap.org/?lat=55.392933&lon=-1.637049
+Aln http://www.openstreetmap.org/?lat=55.392933&lon=-1.637049
 +X817542 http://www.openstreetmap.org/?lat=55.436610&lon=-1.623831
 +X239383 http://www.openstreetmap.org/?lat=55.478999&lon=-1.664600
 +X304900 http://www.openstreetmap.org/?lat=55.499472&lon=-1.663227
@@ -121,6 +120,6 @@ SKIP_Cha http://www.openstreetmap.org/?lat=55.536718&lon=-1.706486
 +X165575 http://www.openstreetmap.org/?lat=55.671244&lon=-1.888790
 +X121484 http://www.openstreetmap.org/?lat=55.746077&lon=-1.977797
 +X947092 http://www.openstreetmap.org/?lat=55.765831&lon=-2.016935
-BWK http://www.openstreetmap.org/?lat=55.774328&lon=-2.010498
+BerTwe http://www.openstreetmap.org/?lat=55.774328&lon=-2.010498
 +X374274 http://www.openstreetmap.org/?lat=55.783789&lon=-2.007751
 ENG/SCT http://www.openstreetmap.org/?lat=55.810084&lon=-2.036161
