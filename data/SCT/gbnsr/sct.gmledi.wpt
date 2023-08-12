@@ -4,7 +4,7 @@ DIV_Tram2 http://www.openstreetmap.org/?lat=55.944787&lon=-3.221548
 DIV_Liv http://www.openstreetmap.org/?lat=55.944313&lon=-3.223640
 DIV_Ros http://www.openstreetmap.org/?lat=55.943186&lon=-3.228736
 DIV_Mur http://www.openstreetmap.org/?lat=55.940861&lon=-3.239143
-SKIP_Bal http://www.openstreetmap.org/?lat=55.937994&lon=-3.251867
+SKIP_Balg http://www.openstreetmap.org/?lat=55.937994&lon=-3.251867
 DIV_Bal http://www.openstreetmap.org/?lat=55.936192&lon=-3.259935
 DIV_Bat http://www.openstreetmap.org/?lat=55.934197&lon=-3.268733
 SKIP_SouGyle http://www.openstreetmap.org/?lat=55.936504&lon=-3.299332
@@ -42,7 +42,7 @@ DIV_Per http://www.openstreetmap.org/?lat=56.453901&lon=-2.980235
 Dun http://www.openstreetmap.org/?lat=56.456592&lon=-2.970986
 +X724147 http://www.openstreetmap.org/?lat=56.468157&lon=-2.932920
 SKIP_BroFry http://www.openstreetmap.org/?lat=56.467534&lon=-2.873354
-SKIP_Bal http://www.openstreetmap.org/?lat=56.474498&lon=-2.838979
+SKIP_Balm http://www.openstreetmap.org/?lat=56.474498&lon=-2.838979
 SKIP_Mon http://www.openstreetmap.org/?lat=56.479736&lon=-2.818336
 SKIP_BarLin http://www.openstreetmap.org/?lat=56.493147&lon=-2.746067
 SKIP_GolfSt http://www.openstreetmap.org/?lat=56.497903&lon=-2.720253

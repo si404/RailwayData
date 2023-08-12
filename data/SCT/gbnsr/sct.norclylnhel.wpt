@@ -4,7 +4,7 @@ DIV_WH http://www.openstreetmap.org/?lat=55.993767&lon=-4.705410
 +X273987 http://www.openstreetmap.org/?lat=55.963303&lon=-4.671507
 Card http://www.openstreetmap.org/?lat=55.960144&lon=-4.652581
 +X920034 http://www.openstreetmap.org/?lat=55.947350&lon=-4.604731
-DIV_Bal http://www.openstreetmap.org/?lat=55.947707&lon=-4.578434
+DIV_Ball http://www.openstreetmap.org/?lat=55.947707&lon=-4.578434
 Dalr http://www.openstreetmap.org/?lat=55.947449&lon=-4.577780
 DumCen http://www.openstreetmap.org/?lat=55.946569&lon=-4.567351
 DumEast http://www.openstreetmap.org/?lat=55.942555&lon=-4.554133
@@ -51,7 +51,7 @@ EdiPark http://www.openstreetmap.org/?lat=55.927555&lon=-3.307657
 SKIP_Ban http://www.openstreetmap.org/?lat=55.929016&lon=-3.293903
 DIV_Sau http://www.openstreetmap.org/?lat=55.931805&lon=-3.279247
 DIV_Fife http://www.openstreetmap.org/?lat=55.934197&lon=-3.268733
-DIV_Bal http://www.openstreetmap.org/?lat=55.936192&lon=-3.259935
+DIV_Balg http://www.openstreetmap.org/?lat=55.936192&lon=-3.259935
 SKIP_Bal http://www.openstreetmap.org/?lat=55.937994&lon=-3.251867
 DIV_Mur http://www.openstreetmap.org/?lat=55.940861&lon=-3.239143
 DIV_Ros http://www.openstreetmap.org/?lat=55.943186&lon=-3.228736
