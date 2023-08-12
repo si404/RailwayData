@@ -1,0 +1,5 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+usavre;VA;FreLn;;;Fredericksburg Line;va.freln;
+usavre;DC;FreLn;;;Fredericksburg Line;dc.freln;
+usavre;VA;ManLn;;;Manassas Line;va.manln;
+usavre;DC;ManLn;;;Manassas Line;dc.manln;
