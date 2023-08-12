@@ -23,7 +23,7 @@ SKIP_WatJct http://www.openstreetmap.org/?lat=51.663725&lon=-0.395851
 SKIP_KinLan http://www.openstreetmap.org/?lat=51.706389&lon=-0.437844
 SKIP_Aps http://www.openstreetmap.org/?lat=51.732371&lon=-0.463057
 SKIP_HemHem http://www.openstreetmap.org/?lat=51.742204&lon=-0.490522
-SKIP_Ber http://www.openstreetmap.org/?lat=51.763630&lon=-0.562835
+SKIP_Berh http://www.openstreetmap.org/?lat=51.763630&lon=-0.562835
 +X153598 http://www.openstreetmap.org/?lat=51.783175&lon=-0.607853
 SKIP_Tri http://www.openstreetmap.org/?lat=51.800057&lon=-0.621886
 +X490740 http://www.openstreetmap.org/?lat=51.826455&lon=-0.649953
@@ -48,7 +48,7 @@ Cov http://www.openstreetmap.org/?lat=52.400861&lon=-1.513538
 DIV_Nun http://www.openstreetmap.org/?lat=52.401568&lon=-1.520576
 SKIP_Can http://www.openstreetmap.org/?lat=52.399342&lon=-1.547656
 SKIP_TileHill http://www.openstreetmap.org/?lat=52.395231&lon=-1.596794
-SKIP_Ber http://www.openstreetmap.org/?lat=52.396126&lon=-1.641920
+SKIP_Berw http://www.openstreetmap.org/?lat=52.396126&lon=-1.641920
 SKIP_HamArd http://www.openstreetmap.org/?lat=52.429000&lon=-1.700091
 BirInt http://www.openstreetmap.org/?lat=52.450870&lon=-1.725283
 SKIP_MarGre http://www.openstreetmap.org/?lat=52.466952&lon=-1.755109
@@ -66,7 +66,7 @@ SKIP_SmeGalBri http://www.openstreetmap.org/?lat=52.502110&lon=-1.980425
 SanDud http://www.openstreetmap.org/?lat=52.508581&lon=-2.011743
 SKIP_DudPort http://www.openstreetmap.org/?lat=52.524460&lon=-2.049294
 SKIP_Tip http://www.openstreetmap.org/?lat=52.530569&lon=-2.065773
-SKIP_Cos http://www.openstreetmap.org/?lat=52.545239&lon=-2.085814
+SKIP_Cose http://www.openstreetmap.org/?lat=52.545239&lon=-2.085814
 DIV_Wal http://www.openstreetmap.org/?lat=52.586742&lon=-2.115211
 Wol http://www.openstreetmap.org/?lat=52.587811&lon=-2.120104
 DIV_Sta http://www.openstreetmap.org/?lat=52.594837&lon=-2.125425
@@ -74,7 +74,7 @@ DIV_Sta http://www.openstreetmap.org/?lat=52.594837&lon=-2.125425
 SKIP_Bil http://www.openstreetmap.org/?lat=52.623972&lon=-2.187223
 SKIP_Cod http://www.openstreetmap.org/?lat=52.627306&lon=-2.201557
 SKIP_Alb http://www.openstreetmap.org/?lat=52.638298&lon=-2.269278
-SKIP_Cos http://www.openstreetmap.org/?lat=52.644847&lon=-2.300692
+SKIP_Cosf http://www.openstreetmap.org/?lat=52.644847&lon=-2.300692
 SKIP_Shi http://www.openstreetmap.org/?lat=52.666103&lon=-2.371502
 TelCen http://www.openstreetmap.org/?lat=52.681091&lon=-2.441282
 SKIP_Oak http://www.openstreetmap.org/?lat=52.693162&lon=-2.450123
@@ -84,4 +84,3 @@ Wel http://www.openstreetmap.org/?lat=52.701588&lon=-2.516642
 +X631591 http://www.openstreetmap.org/?lat=52.699248&lon=-2.622900
 DIV_Her http://www.openstreetmap.org/?lat=52.709994&lon=-2.746840
 Shr http://www.openstreetmap.org/?lat=52.711768&lon=-2.749329
-

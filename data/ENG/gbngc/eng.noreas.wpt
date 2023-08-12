@@ -3,7 +3,7 @@ DIV_TL http://www.openstreetmap.org/?lat=51.541364&lon=-0.122695
 DIV_NCL http://www.openstreetmap.org/?lat=51.558757&lon=-0.107889
 SKIP_FinPark http://www.openstreetmap.org/?lat=51.564760&lon=-0.106344
 SKIP_Har http://www.openstreetmap.org/?lat=51.577456&lon=-0.105186
-SKIP_Hor http://www.openstreetmap.org/?lat=51.586363&lon=-0.111623
+SKIP_Horn http://www.openstreetmap.org/?lat=51.586363&lon=-0.111623
 SKIP_AlePal http://www.openstreetmap.org/?lat=51.597881&lon=-0.120335
 DIV_Bow http://www.openstreetmap.org/?lat=51.601000&lon=-0.124068
 SKIP_NewSou http://www.openstreetmap.org/?lat=51.614086&lon=-0.143166
@@ -92,7 +92,7 @@ SKIP_SeaCar http://www.openstreetmap.org/?lat=54.657971&lon=-1.200428
 Har http://www.openstreetmap.org/?lat=54.686807&lon=-1.207724
 +X107490 http://www.openstreetmap.org/?lat=54.707094&lon=-1.213474
 +X635937 http://www.openstreetmap.org/?lat=54.726429&lon=-1.257849
-SKIP_Hor http://www.openstreetmap.org/?lat=54.763785&lon=-1.307287
+SKIP_Hord http://www.openstreetmap.org/?lat=54.763785&lon=-1.307287
 +X725757 http://www.openstreetmap.org/?lat=54.782635&lon=-1.317801
 +X646906 http://www.openstreetmap.org/?lat=54.802342&lon=-1.313639
 +X788433 http://www.openstreetmap.org/?lat=54.826873&lon=-1.329775

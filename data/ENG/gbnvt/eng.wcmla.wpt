@@ -23,7 +23,7 @@ WatJct http://www.openstreetmap.org/?lat=51.663725&lon=-0.395851
 SKIP_KinLan http://www.openstreetmap.org/?lat=51.706389&lon=-0.437844
 SKIP_Aps http://www.openstreetmap.org/?lat=51.732371&lon=-0.463057
 SKIP_HemHem http://www.openstreetmap.org/?lat=51.742204&lon=-0.490522
-SKIP_Ber http://www.openstreetmap.org/?lat=51.763630&lon=-0.562835
+SKIP_Berh http://www.openstreetmap.org/?lat=51.763630&lon=-0.562835
 +X153598 http://www.openstreetmap.org/?lat=51.783175&lon=-0.607853
 SKIP_Tri http://www.openstreetmap.org/?lat=51.800057&lon=-0.621886
 +X490740 http://www.openstreetmap.org/?lat=51.826455&lon=-0.649953
@@ -41,14 +41,14 @@ DIV_Nor http://www.openstreetmap.org/?lat=52.170155&lon=-0.908904
 +X353002 http://www.openstreetmap.org/?lat=52.285750&lon=-1.103182
 DIV_Cri http://www.openstreetmap.org/?lat=52.360074&lon=-1.205664
 Rug http://www.openstreetmap.org/?lat=52.379018&lon=-1.249738
-DIV_Tre http://www.openstreetmap.org/?lat=52.380537&lon=-1.272655
+DIV_TreS http://www.openstreetmap.org/?lat=52.380537&lon=-1.272655
 +X113521 http://www.openstreetmap.org/?lat=52.382319&lon=-1.426034
 DIV_Lea http://www.openstreetmap.org/?lat=52.400416&lon=-1.510749
 Cov http://www.openstreetmap.org/?lat=52.400861&lon=-1.513538
 DIV_Nun http://www.openstreetmap.org/?lat=52.401568&lon=-1.520576
 SKIP_Can http://www.openstreetmap.org/?lat=52.399342&lon=-1.547656
 SKIP_TileHill http://www.openstreetmap.org/?lat=52.395231&lon=-1.596794
-SKIP_Ber http://www.openstreetmap.org/?lat=52.396126&lon=-1.641920
+SKIP_Berw http://www.openstreetmap.org/?lat=52.396126&lon=-1.641920
 SKIP_HamArd http://www.openstreetmap.org/?lat=52.429000&lon=-1.700091
 BirInt http://www.openstreetmap.org/?lat=52.450870&lon=-1.725283
 SKIP_MarGre http://www.openstreetmap.org/?lat=52.466952&lon=-1.755109
@@ -74,7 +74,7 @@ DIV_Tel http://www.openstreetmap.org/?lat=52.594837&lon=-2.125425
 +X328582 http://www.openstreetmap.org/?lat=52.700912&lon=-2.128344
 SKIP_Pen http://www.openstreetmap.org/?lat=52.723739&lon=-2.119246
 +X260897 http://www.openstreetmap.org/?lat=52.782364&lon=-2.109890
-DIV_Tre http://www.openstreetmap.org/?lat=52.797916&lon=-2.116413
+DIV_TreN http://www.openstreetmap.org/?lat=52.797916&lon=-2.116413
 Sta http://www.openstreetmap.org/?lat=52.803773&lon=-2.122335
 +X268987 http://www.openstreetmap.org/?lat=52.844124&lon=-2.180099
 DIV_Sto http://www.openstreetmap.org/?lat=52.870192&lon=-2.197266

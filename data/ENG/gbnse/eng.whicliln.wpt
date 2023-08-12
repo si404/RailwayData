@@ -3,7 +3,6 @@ DIV_Mid http://www.openstreetmap.org/?lat=51.537697&lon=-0.129261
 +X795309 http://www.openstreetmap.org/?lat=51.548964&lon=-0.088234
 StrInt http://www.openstreetmap.org/?lat=51.544820&lon=-0.008733
 +X570516 http://www.openstreetmap.org/?lat=51.547603&lon=0.050426
-+X974894 http://www.openstreetmap.org/?lat=51.530820&lon=0.104177
 DIV_Dag http://www.openstreetmap.org/?lat=51.526845&lon=0.138466
 SKIP_DagDock http://www.openstreetmap.org/?lat=51.525947&lon=0.146492
 SKIP_Rai http://www.openstreetmap.org/?lat=51.516635&lon=0.190544
@@ -18,7 +17,7 @@ EbbInt http://www.openstreetmap.org/?lat=51.444205&lon=0.320449
 DIV_Ton http://www.openstreetmap.org/?lat=51.145332&lon=0.870795
 AshInt +AFK http://www.openstreetmap.org/?lat=51.143319&lon=0.875130
 DIV_Has http://www.openstreetmap.org/?lat=51.142010&lon=0.877565
-DIV_Can http://www.openstreetmap.org/?lat=51.140149&lon=0.881524
+DIV_CanW http://www.openstreetmap.org/?lat=51.140149&lon=0.881524
 +X260596 http://www.openstreetmap.org/?lat=51.109935&lon=0.944653
 SKIP_Wes http://www.openstreetmap.org/?lat=51.094945&lon=1.038294
 DIV_Chu http://www.openstreetmap.org/?lat=51.091724&lon=1.058185
@@ -37,7 +36,7 @@ Deal http://www.openstreetmap.org/?lat=51.223147&lon=1.398697
 San http://www.openstreetmap.org/?lat=51.269997&lon=1.342134
 +X799564 http://www.openstreetmap.org/?lat=51.285407&lon=1.327543
 +X569935 http://www.openstreetmap.org/?lat=51.303440&lon=1.338530
-DIV_Can http://www.openstreetmap.org/?lat=51.328668&lon=1.325097
+DIV_CanE http://www.openstreetmap.org/?lat=51.328668&lon=1.325097
 +X589641 http://www.openstreetmap.org/?lat=51.327863&lon=1.350975
 SKIP_ThaPkwy http://www.openstreetmap.org/?lat=51.330876&lon=1.361790
 Ram http://www.openstreetmap.org/?lat=51.341149&lon=1.405649

@@ -3,7 +3,7 @@ SKIP_BetGre http://www.openstreetmap.org/?lat=51.523758&lon=-0.059395
 SKIP_CamHea http://www.openstreetmap.org/?lat=51.532235&lon=-0.057421
 SKIP_LonFie http://www.openstreetmap.org/?lat=51.541004&lon=-0.057786
 SKIP_HacDow http://www.openstreetmap.org/?lat=51.548557&lon=-0.060575
-+X784052 http://www.openstreetmap.org/?lat=51.549931&lon=-0.061390
+DIV_Sev http://www.openstreetmap.org/?lat=51.549931&lon=-0.061390
 SKIP_Cla http://www.openstreetmap.org/?lat=51.561638&lon=-0.056906
 DIV_Chi http://www.openstreetmap.org/?lat=51.568494&lon=-0.050554
 DIV_Str http://www.openstreetmap.org/?lat=51.573996&lon=-0.052421

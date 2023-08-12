@@ -1,7 +1,7 @@
 ChaCro http://www.openstreetmap.org/?lat=51.507721&lon=-0.124090
 WatEast http://www.openstreetmap.org/?lat=51.504115&lon=-0.108876
 DIV_TL http://www.openstreetmap.org/?lat=51.504070&lon=-0.099784
-DIV_Can http://www.openstreetmap.org/?lat=51.505616&lon=-0.089060
+DIV_CS http://www.openstreetmap.org/?lat=51.505616&lon=-0.089060
 LonBri http://www.openstreetmap.org/?lat=51.504232&lon=-0.084994
 DIV_Pec http://www.openstreetmap.org/?lat=51.492015&lon=-0.059727
 DIV_Bri http://www.openstreetmap.org/?lat=51.488989&lon=-0.052485
@@ -18,7 +18,7 @@ SKIP_GroPark http://www.openstreetmap.org/?lat=51.430267&lon=0.022702
 DIV_BrN http://www.openstreetmap.org/?lat=51.428795&lon=0.024934
 SKIP_ElmWoo http://www.openstreetmap.org/?lat=51.416726&lon=0.044546
 SKIP_Chi http://www.openstreetmap.org/?lat=51.405116&lon=0.057871
-DIV_Mai http://www.openstreetmap.org/?lat=51.400444&lon=0.062850
+DIV_Cha http://www.openstreetmap.org/?lat=51.400444&lon=0.062850
 DIV_Bro http://www.openstreetmap.org/?lat=51.393496&lon=0.069501
 SKIP_PetWoo http://www.openstreetmap.org/?lat=51.388475&lon=0.074522
 SKIP_Orp http://www.openstreetmap.org/?lat=51.373582&lon=0.088727
@@ -32,7 +32,7 @@ Sev http://www.openstreetmap.org/?lat=51.276686&lon=0.181768
 SKIP_Hil http://www.openstreetmap.org/?lat=51.214546&lon=0.228052
 DIV_Red http://www.openstreetmap.org/?lat=51.191881&lon=0.266268
 Ton http://www.openstreetmap.org/?lat=51.191438&lon=0.270742
-+X220175 http://www.openstreetmap.org/?lat=51.191118&lon=0.273457
+DIV_Has http://www.openstreetmap.org/?lat=51.191118&lon=0.273457
 PadWood http://www.openstreetmap.org/?lat=51.182396&lon=0.389457
 DIV_Med http://www.openstreetmap.org/?lat=51.182181&lon=0.392118
 Mar http://www.openstreetmap.org/?lat=51.175442&lon=0.493097
