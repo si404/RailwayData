@@ -343,7 +343,7 @@ usambtx;USA;MBTA Commuter Rail;TMgreen;2;preview
 usamncr;USA;Metro-North;TMgreen;2;preview
 usanjtr;USA;NJ Transit Rail;TMgreen;2;preview
 usasepa;USA;SEPTA Regional Rail;TMgreen;2;preview
-usavrex;USA;Virginia Railway Express;TMgreen;2;preview
+usavre;USA;Virginia Railway Express;TMgreen;2;preview
 usabmsl;USA;Baltimore Metro SubwayLink;TMblue;3;preview
 usambta;USA;MBTA Subway;TMblue;3;preview
 usapatco;USA;PATCO Speedline;TMblue;3;preview
@@ -353,6 +353,7 @@ usapath;USA;Port Authority Trans-Hudson Railroad;TMblue;3;preview
 usasir;USA;Staten Island Railway;TMblue;3;preview
 usawmat;USA;Washington Metro;TMblue;3;preview
 usamarta;USA;MARTA Rail;TMblue;3;preview
+usamdt;USA;Miami-Dade Metrorail;TMblue;3;preview
 usablrl;USA;Baltimore Light RailLink;TMred;4;preview
 usabufmr;USA;Buffalo Metro Rail;TMred;4;preview
 usadcsc;USA;DC Streetcar;TMred;4;preview
@@ -370,3 +371,5 @@ usaatl;USA;ATL Sky Train;TMyellow;5;preview
 usahunhts;USA;Huntsville Hospital Tram System;TMYellow;5;preview
 usarooist;USA;Roosevelt Island Tramway;TMYellow;5;preview
 usawvuprt;USA;Morgantown Personal Rapid Transit;TMYellow;5;preview
+usamiam;USA;MIA Mover;TMYellow;5;preview
+usammm;USA;Miami Metromover;TMYellow;5;preview
