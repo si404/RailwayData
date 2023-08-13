@@ -1,12 +1,12 @@
 ﻿date;region;systemName;description;statusChange
-2023-08-13;IL;usacta;Chicago "L";preview
-2023-08-13;OH;usarta;Cleveland RTA Heavy Rail;preview
-2023-08-13;OH;usartalr;Cleveland RTA Light Rail;preview
-2023-08-13;ON;canttc;Toronto Subway;preview
-2023-08-12;FL;usamdt;Miami-Dade Metrorail;preview
-2023-08-12;FL;usamiam;MIA Mover;preview
-2023-08-12;FL;usammm;Miami Metromover;preview
-2023-08-10;QC;canstm;Montreal Metro;preview
-2023-08-10;QC;canrem;Montreal Réseau Express Métropolitain;preview
-2023-08-10;GA;usamarta;MARTA Rail;preview
-2023-08-10;GA;usaatl;ATL Sky Train;preview
+2023-08-13;(USA) Illinois;usacta;Chicago "L";preview
+2023-08-13;(USA) Ohio;usarta;Cleveland RTA Heavy Rail;preview
+2023-08-13;(USA) Ohio;usartalr;Cleveland RTA Light Rail;preview
+2023-08-13;(Canada) Ontario;canttc;Toronto Subway;preview
+2023-08-12;(USA) Florida;usamdt;Miami-Dade Metrorail;preview
+2023-08-12;(USA) Florida;usamiam;MIA Mover;preview
+2023-08-12;(USA) Florida;usammm;Miami Metromover;preview
+2023-08-10;(Canada) Quebec;canstm;Montreal Metro;preview
+2023-08-10;(Canada) Quebec;canrem;Montreal Réseau Express Métropolitain;preview
+2023-08-10;(USA) Georgia;usamarta;MARTA Rail;preview
+2023-08-10;(USA) Georgia;usaatl;ATL Sky Train;preview

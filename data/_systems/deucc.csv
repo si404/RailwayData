@@ -1,5 +1,5 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-deucc;DEU-SN;C11;;;;deusn.c11;
-deucc;DEU-SN;C13;;;;deusn.c13;
-deucc;DEU-SN;C14;;;;deusn.c14;
-deucc;DEU-SN;C15;;;;deusn.c15;
+deucc;DEU-SN;C11;;;Chemnitz;deusn.c11;
+deucc;DEU-SN;C13;;;Chemnitz;deusn.c13;
+deucc;DEU-SN;C14;;;Chemnitz;deusn.c14;
+deucc;DEU-SN;C15;;;Chemnitz;deusn.c15;

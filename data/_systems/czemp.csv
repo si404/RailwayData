@@ -1,4 +1,4 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-czemp;CZE;A;;;;cze.a;
-czemp;CZE;B;;;;cze.b;
-czemp;CZE;C;;;;cze.c;
+czemp;CZE;A;;;Praha;cze.a;
+czemp;CZE;B;;;Praha;cze.b;
+czemp;CZE;C;;;Praha;cze.c;

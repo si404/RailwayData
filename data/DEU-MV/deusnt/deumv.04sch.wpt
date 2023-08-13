@@ -3,14 +3,12 @@ Kin http://www.openstreetmap.org/?lat=53.648298&lon=11.406738
 Lew http://www.openstreetmap.org/?lat=53.645172&lon=11.407982
 HeiSeiStr http://www.openstreetmap.org/?lat=53.641044&lon=11.408787
 Hbf http://www.openstreetmap.org/?lat=53.634112&lon=11.409149
-DIV_T2_N http://www.openstreetmap.org/?lat=53.630551&lon=11.409983
+DIV_T2N http://www.openstreetmap.org/?lat=53.630551&lon=11.409983
 MarPla http://www.openstreetmap.org/?lat=53.628493&lon=11.410857
 Sch http://www.openstreetmap.org/?lat=53.625041&lon=11.409355
-PlaJug http://www.openstreetmap.org/?lat=53.621421&lon=11.408873
-+X82_A http://www.openstreetmap.org/?lat=53.620617&lon=11.409500
+PlaJug http://www.openstreetmap.org/?lat=53.621139&lon=11.408905
 BerKliPla http://www.openstreetmap.org/?lat=53.620216&lon=11.410997
-+X82_B http://www.openstreetmap.org/?lat=53.620617&lon=11.409500
-DIV_T1/T2_N http://www.openstreetmap.org/?lat=53.620536&lon=11.408446
+SKIP_PlaJug http://www.openstreetmap.org/?lat=53.621139&lon=11.408905
 +X28 http://www.openstreetmap.org/?lat=53.619679&lon=11.407607
 Ost http://www.openstreetmap.org/?lat=53.613679&lon=11.416015
 Gar http://www.openstreetmap.org/?lat=53.606496&lon=11.424960
