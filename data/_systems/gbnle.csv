@@ -1,0 +1,22 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+gbnle;ENG;GEML;;;Great Eastern Main Line;eng.geml;
+gbnle;ENG;SunCoaLn;;Cla;Sunshine Coast Line (Clacton-on-Sea);eng.suncoalncla;
+gbnle;ENG;SunCoaLn;;Col;Sunshine Coast Line (Colchester);eng.suncoalncol;
+gbnle;ENG;SunCoaLn;;Wal;Sunshine Coast Line (Walton-on-the-Naze);eng.suncoalnwal;
+gbnle;ENG;FliLn;;;Flitch Line;eng.fliln;
+gbnle;ENG;SouLn;;;Southend Line;eng.souln;
+gbnle;ENG;CroVlyLn;;;Crouch Valley Line;eng.crovlyln;
+gbnle;ENG;MayLn;;;Mayflower Line;eng.mayln;
+gbnle;ENG;WAML;;;West Anglia Main Line;eng.waml;
+gbnle;ENG;WAML;;Str;West Anglia Main Line (Stratford branch);eng.wamlstr;
+gbnle;ENG;NewRvrLn;;;New River Line;eng.newrvrln;
+gbnle;ENG;BitLn;;;Bittern Line;eng.bitln;
+gbnle;ENG;BreLn;;;Breckland Line;eng.breln;
+gbnle;ENG;EastSufLn;;;East Suffolk Line;eng.eastsufln;
+gbnle;ENG;FelLn;;;Felixstowe Line;eng.felln;
+gbnle;ENG;GaiLn;;;Gainsborough Line;eng.gailn;
+gbnle;ENG;HerLn;;;Hereward Line;eng.herln;
+gbnle;ENG;MidSufLn;;;Mid-Suffolk Line;eng.midsufln;
+gbnle;ENG;WheLn;;Yar;Wherry Line (Great Yarmouth);eng.whelnyar;
+gbnle;ENG;WheLn;;Low;Wherry Line (Lowestoft);eng.whelnlow;
+gbnle;ENG;WheLn;;Ber;Wherry Line (Berney Arms);eng.whelnber;
