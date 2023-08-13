@@ -1,0 +1,6 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+gbnch;ENG;ChiML;;;Chiltern Main Line (Birmingham);eng.chiml;
+gbnch;ENG;ChiML;;Oxf;Chiltern Main Line (Oxford);eng.chimloxf;
+gbnch;ENG;AylLn;;;Aylesbury Line;eng.aylln;
+gbnch;ENG;IckLn;;;Ickneld Line;eng.ickln;
+gbnch;ENG;StrBra;;;Stratford-upon-Avon branch;eng.strbra;

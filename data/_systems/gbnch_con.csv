@@ -1,0 +1,6 @@
+systemName;route;banner;groupName;roots
+gbnch;ChiML;;Chiltern Main Line (Birmingham);eng.chiml
+gbnch;ChiML;;Chiltern Main Line (Oxford);eng.chimloxf
+gbnch;AylLn;;Aylesbury Line;eng.aylln
+gbnch;IckLn;;Ickneld Line;eng.ickln
+gbnch;StrBra;;Stratford-upon-Avon branch;eng.strbra
