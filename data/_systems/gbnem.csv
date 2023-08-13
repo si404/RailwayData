@@ -1,0 +1,14 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+gbnem;ENG;MML;;She;Midland Mainline (Sheffield);eng.mmlshe;
+gbnem;ENG;MML;;Not;Midland Mainline (Nottingham);eng.mmlnot;
+gbnem;ENG;LutAirExp;;;Luton Airport Express;eng.lutairexp;
+gbnem;ENG;BarLn;;;Barton Line;eng.barln;
+gbnem;ENG;CasLn;;;Castle Line;eng.casln;
+gbnem;ENG;DerVlyLn;;;Derwent Valley Line;eng.dervlyln;
+gbnem;ENG;ImpsLn;;;Imps Line;eng.impsln;
+gbnem;ENG;LivNorLn;;;Liverpool-Norwich Line;eng.livnorln;
+gbnem;ENG;NorStaLn;;;North Staffordshire Line;eng.norstaln;
+gbnem;ENG;PoaLn;;;Poacher Line;eng.poaln;
+gbnem;ENG;RedLn;;;Redwing Line;eng.redln;
+gbnem;ENG;RobHoodLn;;;Robin Hood Line;eng.robhoodln;
+gbnem;ENG;RomLn;;;Roman Line;eng.romln;
