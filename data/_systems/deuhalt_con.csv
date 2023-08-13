@@ -1,13 +1,13 @@
 systemName;route;banner;groupName;roots
-deuhalt;1;;Halle;deust.01hal
-deuhalt;2;;Halle;deust.02hal
-deuhalt;3;;Halle;deust.03hal
-deuhalt;4;;Halle;deust.04hal
-deuhalt;5;;Halle;deust.05hal
-deuhalt;5;;Ammendorf, Halle;deust.05amm
-deuhalt;5;;Merseburg, Halle;deust.05mer
-deuhalt;7;;Halle;deust.07hal
-deuhalt;8;;Halle;deust.08hal
-deuhalt;9;;Halle;deust.09hal
-deuhalt;10;;Halle;deust.10hal
-deuhalt;12;;Halle;deust.12hal
+deuhalt;1;;Halle (Saale);deust.01hal
+deuhalt;2;;Halle (Saale);deust.02hal
+deuhalt;3;;Halle (Saale);deust.03hal
+deuhalt;4;;Halle (Saale);deust.04hal
+deuhalt;5;;Halle (Saale);deust.05hal
+deuhalt;5;;Ammendorf, Halle (Saale);deust.05amm
+deuhalt;5;;Merseburg, Halle (Saale);deust.05mer
+deuhalt;7;;Halle (Saale);deust.07hal
+deuhalt;8;;Halle (Saale);deust.08hal
+deuhalt;9;;Halle (Saale);deust.09hal
+deuhalt;10;;Halle (Saale);deust.10hal
+deuhalt;12;;Halle (Saale);deust.12hal

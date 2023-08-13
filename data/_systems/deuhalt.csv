@@ -1,13 +1,13 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-deuhalt;DEU-ST;1;;Hal;Halle;deust.01hal;
-deuhalt;DEU-ST;2;;Hal;Halle;deust.02hal;
-deuhalt;DEU-ST;3;;Hal;Halle;deust.03hal;
-deuhalt;DEU-ST;4;;Hal;Halle;deust.04hal;
-deuhalt;DEU-ST;5;;Hal;Halle;deust.05hal;
-deuhalt;DEU-ST;5;;Amm;Ammendorf, Halle;deust.05amm;
-deuhalt;DEU-ST;5;;Mer;Merseburg, Halle;deust.05mer;
-deuhalt;DEU-ST;7;;Hal;Halle;deust.07hal;
-deuhalt;DEU-ST;8;;Hal;Halle;deust.08hal;
-deuhalt;DEU-ST;9;;Hal;Halle;deust.09hal;
-deuhalt;DEU-ST;10;;Hal;Halle;deust.10hal;
-deuhalt;DEU-ST;12;;Hal;Halle;deust.12hal;
+deuhalt;DEU-ST;1;;Hal;Halle (Saale);deust.01hal;
+deuhalt;DEU-ST;2;;Hal;Halle (Saale);deust.02hal;
+deuhalt;DEU-ST;3;;Hal;Halle (Saale);deust.03hal;
+deuhalt;DEU-ST;4;;Hal;Halle (Saale);deust.04hal;
+deuhalt;DEU-ST;5;;Hal;Halle (Saale);deust.05hal;
+deuhalt;DEU-ST;5;;Amm;Ammendorf, Halle (Saale);deust.05amm;
+deuhalt;DEU-ST;5;;Mer;Merseburg, Halle (Saale);deust.05mer;
+deuhalt;DEU-ST;7;;Hal;Halle (Saale);deust.07hal;
+deuhalt;DEU-ST;8;;Hal;Halle (Saale);deust.08hal;
+deuhalt;DEU-ST;9;;Hal;Halle (Saale);deust.09hal;
+deuhalt;DEU-ST;10;;Hal;Halle (Saale);deust.10hal;
+deuhalt;DEU-ST;12;;Hal;Halle (Saale);deust.12hal;

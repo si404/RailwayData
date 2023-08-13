@@ -1,12 +1,12 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-deurms;DEU-HE;S1;;;;deuhe.s01;
-deurms;DEU-HE;S2;;;;deuhe.s02;
-deurms;DEU-HE;S3;;;;deuhe.s03;
-deurms;DEU-HE;S4;;;;deuhe.s04;
-deurms;DEU-HE;S5;;;;deuhe.s05;
-deurms;DEU-HE;S6;;;;deuhe.s06;
-deurms;DEU-HE;S7;;;;deuhe.s07;
+deurms;DEU-HE;S1;;;Frankfurt am Main;deuhe.s01;
+deurms;DEU-HE;S2;;;Frankfurt am Main;deuhe.s02;
+deurms;DEU-HE;S3;;;Frankfurt am Main;deuhe.s03;
+deurms;DEU-HE;S4;;;Frankfurt am Main;deuhe.s04;
+deurms;DEU-HE;S5;;;Frankfurt am Main;deuhe.s05;
+deurms;DEU-HE;S6;;;Frankfurt am Main;deuhe.s06;
+deurms;DEU-HE;S7;;;Frankfurt am Main;deuhe.s07;
 deurms;DEU-HE;S8;;Wie;Wiesbaden;deuhe.s08wie;
-deurms;DEU-RP;S8;;;;deurp.s08;
-deurms;DEU-HE;S8;;;Frankfurt;deuhe.s08;
-deurms;DEU-HE;S9;;;;deuhe.s09;
+deurms;DEU-RP;S8;;;Mainz;deurp.s08;
+deurms;DEU-HE;S8;;;Frankfurt am Main;deuhe.s08;
+deurms;DEU-HE;S9;;;Frankfurt am Main;deuhe.s09;
