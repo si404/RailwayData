@@ -1,4 +1,4 @@
-LonBla +BFR http://www.openstreetmap.org/?lat=51.509993&lon=-0.103281
+LonBla http://www.openstreetmap.org/?lat=51.509993&lon=-0.103281
 DIV_LB http://www.openstreetmap.org/?lat=51.505035&lon=-0.102616
 EleCas http://www.openstreetmap.org/?lat=51.494043&lon=-0.098684
 DIV_Cat http://www.openstreetmap.org/?lat=51.467530&lon=-0.102203
@@ -35,4 +35,4 @@ Too http://www.openstreetmap.org/?lat=51.419804&lon=-0.161190
 DIV_SUT http://www.openstreetmap.org/?lat=51.419088&lon=-0.140548
 DIV_Bal2 http://www.openstreetmap.org/?lat=51.420199&lon=-0.139024
 DIV_Nor2 http://www.openstreetmap.org/?lat=51.424363&lon=-0.134132
-Str_2 +STE_2 http://www.openstreetmap.org/?lat=51.425849&lon=-0.131568
+Str_2 http://www.openstreetmap.org/?lat=51.425849&lon=-0.131568

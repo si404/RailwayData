@@ -89,4 +89,4 @@ SKIP_WestAll http://www.openstreetmap.org/?lat=53.369465&lon=-2.907343
 SKIP_MosHill http://www.openstreetmap.org/?lat=53.378554&lon=-2.914853
 DIV_Wig http://www.openstreetmap.org/?lat=53.403769&lon=-2.935710
 SKIP_EdgeHill http://www.openstreetmap.org/?lat=53.402471&lon=-2.946589
-LivLimeSt +LIV http://www.openstreetmap.org/?lat=53.407511&lon=-2.977295
+LivLimeSt http://www.openstreetmap.org/?lat=53.407511&lon=-2.977295

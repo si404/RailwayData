@@ -7,7 +7,7 @@ DIV_BrW http://www.openstreetmap.org/?lat=51.463774&lon=-0.119798
 DIV_BrE http://www.openstreetmap.org/?lat=51.463312&lon=-0.114348
 Bri http://www.openstreetmap.org/?lat=51.462931&lon=-0.113382
 DIV_Bla http://www.openstreetmap.org/?lat=51.455351&lon=-0.103512
-HerHill +HNH http://www.openstreetmap.org/?lat=51.453465&lon=-0.102267
+HerHill http://www.openstreetmap.org/?lat=51.453465&lon=-0.102267
 DIV_Sut http://www.openstreetmap.org/?lat=51.451995&lon=-0.100830
 WestDul http://www.openstreetmap.org/?lat=51.440480&lon=-0.091088
 SydHill http://www.openstreetmap.org/?lat=51.432588&lon=-0.080144
@@ -17,7 +17,7 @@ DIV_Bir http://www.openstreetmap.org/?lat=51.411259&lon=-0.036156
 BecJct http://www.openstreetmap.org/?lat=51.411018&lon=-0.025620
 DIV_Cat http://www.openstreetmap.org/?lat=51.408168&lon=-0.002317
 Sho http://www.openstreetmap.org/?lat=51.405879&lon=0.002146
-BroSou +BMS http://www.openstreetmap.org/?lat=51.400143&lon=0.017595
+BroSou http://www.openstreetmap.org/?lat=51.400143&lon=0.017595
 Bic http://www.openstreetmap.org/?lat=51.400089&lon=0.044460
 DIV_Cha http://www.openstreetmap.org/?lat=51.400779&lon=0.057485
 DIV_SE http://www.openstreetmap.org/?lat=51.393496&lon=0.069501

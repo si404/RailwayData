@@ -20,7 +20,7 @@ SKIP_Con http://www.openstreetmap.org/?lat=53.280091&lon=-3.830645
 SKIP_Pen http://www.openstreetmap.org/?lat=53.270532&lon=-3.923471
 SKIP_Lff http://www.openstreetmap.org/?lat=53.256960&lon=-3.983145
 +X282627 http://www.openstreetmap.org/?lat=53.214655&lon=-4.095926
-Ban +BNG http://www.openstreetmap.org/?lat=53.222724&lon=-4.135795
+Ban http://www.openstreetmap.org/?lat=53.222724&lon=-4.135795
 +X455324 http://www.openstreetmap.org/?lat=53.213422&lon=-4.181414
 SKIP_Lfp http://www.openstreetmap.org/?lat=53.220822&lon=-4.209223
 +X246899 http://www.openstreetmap.org/?lat=53.222249&lon=-4.250765

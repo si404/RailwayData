@@ -1,0 +1,22 @@
+systemName;route;banner;groupName;roots
+gbnsn;SusMLE;;Sussex Main Line (East);eng.susmle
+gbnsn;SusMLW;;Sussex Main Line (West);eng.susmlw
+gbnsn;ChiLn;;Chichester Line;eng.chiln
+gbnsn;ArunVlyLn;;Arun Valley Line;eng.arunvlyln
+gbnsn;CoaELn;;Coastway East Line;eng.coaeln
+gbnsn;CoaWLn;;Coastway West Line;eng.coawln
+gbnsn;CatLn;;Caterham Line;eng.catln
+gbnsn;EGriLn;;East Grinstead Line;eng.egriln
+gbnsn;RdhLn;;Redhill Line;eng.rdhln
+gbnsn;TatCorLn;;Tatterham Corner Line;eng.tatcorln
+gbnsn;UckLn;;Uckfield Line;eng.uckln
+gbnsn;GipHillLn;;Gipsy Hill Line;eng.giphillln
+gbnsn;PecLn;;Peckham Line;eng.pecln
+gbnsn;SouLonLn;;South London Line;eng.soulonln
+gbnsn;SutLn;;Sutton Line;eng.sutln
+gbnsn;WalLn;;Uckfield Line;eng.walln
+gbnsn;WestLonLn;;West London Line;eng.westlonln
+gbnsn;MnkLn;;Marshlink Line;eng.mnkln
+gbnsn;RedTonLn;;Redhill - Tonbridge Line;eng.redtonln
+gbnsn;SusCoaLn;;Sussex Coast Line;eng.suscoaln
+gbnsn;SusDowLn;;Sussex Downs Line;eng.susdowln

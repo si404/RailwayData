@@ -1,4 +1,4 @@
-BirNewSt +BNM http://www.openstreetmap.org/?lat=52.477651&lon=-1.898704
+BirNewSt http://www.openstreetmap.org/?lat=52.477651&lon=-1.898704
 DIV_Uni http://www.openstreetmap.org/?lat=52.478383&lon=-1.903102
 DIV_Cha http://www.openstreetmap.org/?lat=52.492671&lon=-1.942778
 SKIP_SmeRolSt http://www.openstreetmap.org/?lat=52.496460&lon=-1.970158
@@ -39,4 +39,4 @@ SKIP_WestAll http://www.openstreetmap.org/?lat=53.369465&lon=-2.907343
 SKIP_MosHill http://www.openstreetmap.org/?lat=53.378554&lon=-2.914853
 DIV_Wig http://www.openstreetmap.org/?lat=53.403769&lon=-2.935710
 SKIP_EdgeHill http://www.openstreetmap.org/?lat=53.402471&lon=-2.946589
-LivLimeSt +LIV http://www.openstreetmap.org/?lat=53.407511&lon=-2.977295
+LivLimeSt http://www.openstreetmap.org/?lat=53.407511&lon=-2.977295

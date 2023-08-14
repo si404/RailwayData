@@ -1,4 +1,4 @@
-BirNewSt +BNM http://www.openstreetmap.org/?lat=52.477651&lon=-1.898704
+BirNewSt http://www.openstreetmap.org/?lat=52.477651&lon=-1.898704
 DIV_Uni http://www.openstreetmap.org/?lat=52.478383&lon=-1.903102
 DIV_Cha http://www.openstreetmap.org/?lat=52.492671&lon=-1.942778
 SKIP_SmeRolSt http://www.openstreetmap.org/?lat=52.496460&lon=-1.970158
@@ -16,7 +16,7 @@ Cod http://www.openstreetmap.org/?lat=52.627306&lon=-2.201557
 Alb http://www.openstreetmap.org/?lat=52.638298&lon=-2.269278
 Cos http://www.openstreetmap.org/?lat=52.644847&lon=-2.300692
 Shi http://www.openstreetmap.org/?lat=52.666103&lon=-2.371502
-TelCen +TFC http://www.openstreetmap.org/?lat=52.681091&lon=-2.441282
+TelCen http://www.openstreetmap.org/?lat=52.681091&lon=-2.441282
 Oak http://www.openstreetmap.org/?lat=52.693162&lon=-2.450123
 +X244894 http://www.openstreetmap.org/?lat=52.699300&lon=-2.464886
 Wel http://www.openstreetmap.org/?lat=52.701588&lon=-2.516642

@@ -22,8 +22,8 @@ MillHillBdwy http://www.openstreetmap.org/?lat=51.612620&lon=-0.248909
 Hen http://www.openstreetmap.org/?lat=51.580177&lon=-0.238953
 BreCroWest http://www.openstreetmap.org/?lat=51.568844&lon=-0.226518
 Cri http://www.openstreetmap.org/?lat=51.558303&lon=-0.212517
-WestHam +WHP http://www.openstreetmap.org/?lat=51.548403&lon=-0.192261
-KenTown +KTN http://www.openstreetmap.org/?lat=51.550058&lon=-0.138831
+WestHam http://www.openstreetmap.org/?lat=51.548403&lon=-0.192261
+KenTown http://www.openstreetmap.org/?lat=51.550058&lon=-0.138831
 DIV_StP http://www.openstreetmap.org/?lat=51.541614&lon=-0.130763
 DIV_Cam http://www.openstreetmap.org/?lat=51.536166&lon=-0.128725
 StPanInt http://www.openstreetmap.org/?lat=51.531881&lon=-0.126815
@@ -35,7 +35,7 @@ LonBla http://www.openstreetmap.org/?lat=51.509993&lon=-0.103281
 DIV_Ele http://www.openstreetmap.org/?lat=51.505035&lon=-0.102616
 DIV_Chx http://www.openstreetmap.org/?lat=51.504070&lon=-0.099784
 DIV_Can http://www.openstreetmap.org/?lat=51.505616&lon=-0.089060
-LonBri +LBG http://www.openstreetmap.org/?lat=51.504232&lon=-0.084994
+LonBri http://www.openstreetmap.org/?lat=51.504232&lon=-0.084994
 DIV_SLN http://www.openstreetmap.org/?lat=51.492015&lon=-0.059727
 DIV_SE http://www.openstreetmap.org/?lat=51.488989&lon=-0.052485
 DIV_SLS http://www.openstreetmap.org/?lat=51.486023&lon=-0.048773

@@ -1,0 +1,22 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+gbnsn;ENG;SusMLE;;;Sussex Main Line (East);eng.susmle;
+gbnsn;ENG;SusMLW;;;Sussex Main Line (West);eng.susmlw;
+gbnsn;ENG;ChiLn;;;Chichester Line;eng.chiln;
+gbnsn;ENG;ArunVlyLn;;;Arun Valley Line;eng.arunvlyln;
+gbnsn;ENG;CoaELn;;;Coastway East Line;eng.coaeln;
+gbnsn;ENG;CoaWLn;;;Coastway West Line;eng.coawln;
+gbnsn;ENG;CatLn;;;Caterham Line;eng.catln;
+gbnsn;ENG;EGriLn;;;East Grinstead Line;eng.egriln;
+gbnsn;ENG;RdhLn;;;Redhill Line;eng.rdhln;
+gbnsn;ENG;TatCorLn;;;Tatterham Corner Line;eng.tatcorln;
+gbnsn;ENG;UckLn;;;Uckfield Line;eng.uckln;
+gbnsn;ENG;GipHillLn;;;Gipsy Hill Line;eng.giphillln;
+gbnsn;ENG;PecLn;;;Peckham Line;eng.pecln;
+gbnsn;ENG;SouLonLn;;;South London Line;eng.soulonln;
+gbnsn;ENG;SutLn;;;Sutton Line;eng.sutln;
+gbnsn;ENG;WalLn;;;Uckfield Line;eng.walln;
+gbnsn;ENG;WestLonLn;;;West London Line;eng.westlonln;
+gbnsn;ENG;MnkLn;;;Marshlink Line;eng.mnkln;
+gbnsn;ENG;RedTonLn;;;Redhill - Tonbridge Line;eng.redtonln;
+gbnsn;ENG;SusCoaLn;;;Sussex Coast Line;eng.suscoaln;
+gbnsn;ENG;SusDowLn;;;Sussex Downs Line;eng.susdowln;
