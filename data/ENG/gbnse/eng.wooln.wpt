@@ -1,4 +1,4 @@
-CanSt_1 +CST_1 http://www.openstreetmap.org/?lat=51.511357&lon=-0.090337
+CanSt_1 http://www.openstreetmap.org/?lat=51.511357&lon=-0.090337
 DIV_TL1 http://www.openstreetmap.org/?lat=51.505616&lon=-0.089060
 LonBri_1 http://www.openstreetmap.org/?lat=51.504232&lon=-0.084994
 DIV_Pec1 http://www.openstreetmap.org/?lat=51.492015&lon=-0.059727
@@ -14,7 +14,7 @@ WooDoc http://www.openstreetmap.org/?lat=51.491097&lon=0.055017
 WooArs http://www.openstreetmap.org/?lat=51.489868&lon=0.069222
 Plu http://www.openstreetmap.org/?lat=51.489734&lon=0.083985
 DIV_Liz http://www.openstreetmap.org/?lat=51.490282&lon=0.096581
-AbbWood +ABW http://www.openstreetmap.org/?lat=51.491124&lon=0.120506
+AbbWood http://www.openstreetmap.org/?lat=51.491124&lon=0.120506
 Bel http://www.openstreetmap.org/?lat=51.492172&lon=0.152457
 Eri http://www.openstreetmap.org/?lat=51.481617&lon=0.175159
 SlaGre http://www.openstreetmap.org/?lat=51.467665&lon=0.190313

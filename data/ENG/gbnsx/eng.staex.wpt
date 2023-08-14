@@ -7,7 +7,7 @@ DIV_Sev http://www.openstreetmap.org/?lat=51.549931&lon=-0.061390
 SKIP_Cla http://www.openstreetmap.org/?lat=51.561638&lon=-0.056906
 DIV_Chi http://www.openstreetmap.org/?lat=51.568494&lon=-0.050554
 DIV_Str http://www.openstreetmap.org/?lat=51.573996&lon=-0.052421
-TotHale +TOM http://www.openstreetmap.org/?lat=51.588203&lon=-0.059856
+TotHale http://www.openstreetmap.org/?lat=51.588203&lon=-0.059856
 SKIP_NorPark http://www.openstreetmap.org/?lat=51.601933&lon=-0.053945
 SKIP_MerWat http://www.openstreetmap.org/?lat=51.610009&lon=-0.050254
 SKIP_PonEnd http://www.openstreetmap.org/?lat=51.643044&lon=-0.034633
@@ -28,4 +28,4 @@ BisSto http://www.openstreetmap.org/?lat=51.866409&lon=0.165482
 StaMou http://www.openstreetmap.org/?lat=51.901250&lon=0.199234
 DIV_Cam http://www.openstreetmap.org/?lat=51.903441&lon=0.216894
 +X115375 http://www.openstreetmap.org/?lat=51.882386&lon=0.243330
-StaAir +SSD http://www.openstreetmap.org/?lat=51.889220&lon=0.262127
+StaAir http://www.openstreetmap.org/?lat=51.889220&lon=0.262127

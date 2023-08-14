@@ -2,7 +2,7 @@ ChaCro http://www.openstreetmap.org/?lat=51.507721&lon=-0.124090
 WatEast http://www.openstreetmap.org/?lat=51.504115&lon=-0.108876
 DIV_TL http://www.openstreetmap.org/?lat=51.504070&lon=-0.099784
 DIV_Can http://www.openstreetmap.org/?lat=51.505616&lon=-0.089060
-LonBri +LBG http://www.openstreetmap.org/?lat=51.504232&lon=-0.084994
+LonBri http://www.openstreetmap.org/?lat=51.504232&lon=-0.084994
 DIV_Pec http://www.openstreetmap.org/?lat=51.492015&lon=-0.059727
 DIV_Bri http://www.openstreetmap.org/?lat=51.488989&lon=-0.052485
 DIV_Gre http://www.openstreetmap.org/?lat=51.483447&lon=-0.039096
@@ -15,7 +15,7 @@ DIV_Lad http://www.openstreetmap.org/?lat=51.461508&lon=-0.016265
 DIV_Cou http://www.openstreetmap.org/?lat=51.458646&lon=-0.013690
 HitGre http://www.openstreetmap.org/?lat=51.451587&lon=-0.000129
 Lee http://www.openstreetmap.org/?lat=51.449681&lon=0.014548
-Mot +MTG http://www.openstreetmap.org/?lat=51.440253&lon=0.049975
+Mot http://www.openstreetmap.org/?lat=51.440253&lon=0.049975
 NewElt http://www.openstreetmap.org/?lat=51.438032&lon=0.070918
 Sid http://www.openstreetmap.org/?lat=51.434033&lon=0.103512
 AlbPark http://www.openstreetmap.org/?lat=51.435397&lon=0.125957

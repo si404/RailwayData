@@ -17,7 +17,7 @@ DIV_Bir http://www.openstreetmap.org/?lat=51.411259&lon=-0.036156
 SKIP_BecJct http://www.openstreetmap.org/?lat=51.411018&lon=-0.025620
 DIV_Cat http://www.openstreetmap.org/?lat=51.408168&lon=-0.002317
 SKIP_Sho http://www.openstreetmap.org/?lat=51.405879&lon=0.002146
-BroSou +BMS http://www.openstreetmap.org/?lat=51.400143&lon=0.017595
+BroSou http://www.openstreetmap.org/?lat=51.400143&lon=0.017595
 SKIP_Bic http://www.openstreetmap.org/?lat=51.400089&lon=0.044460
 DIV_Orp http://www.openstreetmap.org/?lat=51.400779&lon=0.057485
 DIV_SE http://www.openstreetmap.org/?lat=51.400444&lon=0.062850
@@ -49,7 +49,7 @@ Sel http://www.openstreetmap.org/?lat=51.277260&lon=0.941219
 +X337791 http://www.openstreetmap.org/?lat=51.268172&lon=0.956497
 +X556249 http://www.openstreetmap.org/?lat=51.261566&lon=1.014948
 +X668013 http://www.openstreetmap.org/?lat=51.275421&lon=1.045160
-CanEast +CBE http://www.openstreetmap.org/?lat=51.274226&lon=1.075759
+CanEast http://www.openstreetmap.org/?lat=51.274226&lon=1.075759
 Bek http://www.openstreetmap.org/?lat=51.261364&lon=1.137214
 Adi http://www.openstreetmap.org/?lat=51.241333&lon=1.198776
 Ayl http://www.openstreetmap.org/?lat=51.227427&lon=1.209612

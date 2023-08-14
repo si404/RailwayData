@@ -1,4 +1,4 @@
-BirNewSt +BNM http://www.openstreetmap.org/?lat=52.477651&lon=-1.898704
+BirNewSt http://www.openstreetmap.org/?lat=52.477651&lon=-1.898704
 DIV_Uni http://www.openstreetmap.org/?lat=52.478383&lon=-1.903102
 DIV_Sme http://www.openstreetmap.org/?lat=52.492671&lon=-1.942778
 DIV_Ast http://www.openstreetmap.org/?lat=52.521352&lon=-1.916878
@@ -12,7 +12,7 @@ DIV_Wal http://www.openstreetmap.org/?lat=52.571567&lon=-2.014918
 +X316135 http://www.openstreetmap.org/?lat=52.581895&lon=-2.059057
 +X804309 http://www.openstreetmap.org/?lat=52.591001&lon=-2.103753
 DIV_Cos http://www.openstreetmap.org/?lat=52.586742&lon=-2.115211
-WVH http://www.openstreetmap.org/?lat=52.587811&lon=-2.120104
+Wol +WVH http://www.openstreetmap.org/?lat=52.587811&lon=-2.120104
 DIV_Tel http://www.openstreetmap.org/?lat=52.594837&lon=-2.125425
 +X587688 http://www.openstreetmap.org/?lat=52.641970&lon=-2.117958
 +X328582 http://www.openstreetmap.org/?lat=52.700912&lon=-2.128344

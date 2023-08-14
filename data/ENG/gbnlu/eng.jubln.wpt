@@ -1,4 +1,4 @@
-Sta +STM http://www.openstreetmap.org/?lat=51.618846&lon=-0.302628
+Sta http://www.openstreetmap.org/?lat=51.618846&lon=-0.302628
 CanPark http://www.openstreetmap.org/?lat=51.608010&lon=-0.294785
 Que http://www.openstreetmap.org/?lat=51.594229&lon=-0.286202
 Kin http://www.openstreetmap.org/?lat=51.584363&lon=-0.278606
@@ -30,4 +30,4 @@ SKIP_StarLn http://www.openstreetmap.org/?lat=51.520614&lon=0.004163
 WestHam http://www.openstreetmap.org/?lat=51.528223&lon=0.004549
 SKIP_AbbRd http://www.openstreetmap.org/?lat=51.532468&lon=0.003605
 SKIP_StrHighSt http://www.openstreetmap.org/?lat=51.537647&lon=-0.000129
-Str +SRA http://www.openstreetmap.org/?lat=51.541671&lon=-0.003927
+Str http://www.openstreetmap.org/?lat=51.541671&lon=-0.003927
