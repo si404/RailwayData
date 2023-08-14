@@ -1,0 +1,23 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+gbnsw;ENG;SWML;;;South Western Main Line;eng.swml;
+gbnsw;ENG;PorDirLn;;;Portsmouth Direct Line;eng.pordirln;
+gbnsw;ENG;BotLn;;;Botley Line;eng.botln;
+gbnsw;ENG;WoELn;;;West of England Line;eng.woeln;
+gbnsw;ENG;ReaLn;;;Reading Line;eng.realn;
+gbnsw;ENG;AltLn;;;Alton Line;eng.altln;
+gbnsw;ENG;BasLn;;;Basingstoke Line;eng.basln;
+gbnsw;ENG;WinLn;;;Windsor Line;eng.winln;
+gbnsw;ENG;CheLp;;;Chertsey Loop;eng.chelp;
+gbnsw;ENG;KinLp;;;Kingston Loop;eng.kinlp;
+gbnsw;ENG;SheLn;;;Shepperton Line;eng.sheln;
+gbnsw;ENG;HamCouLn;;;Hampton Court Branch;eng.hamcoubra;
+gbnsw;ENG;WokLn;;;Woking Line;eng.wokln;
+gbnsw;ENG;NewGuiLn;;;New Guildford Line;eng.newguiln;
+gbnsw;ENG;CheLn;;;Chessington Branch;eng.chebra;
+gbnsw;ENG;BooLn;;;Bookham Line;eng.booln;
+gbnsw;ENG;MoleVlyLn;;;Mole Valley Line;eng.molevlyln;
+gbnsw;ENG;BlaVlyLn;;;Blackwater Valley Line;eng.blavlyln;
+gbnsw;ENG;WeyVlyLn;;;Wey Valley Line;eng.weyvlyln;
+gbnsw;ENG;NetLn;;;Netley Line;eng.netln;
+gbnsw;ENG;TestVlyLn;;;Test Valley Line;eng.testvlyln;
+gbnsw;ENG;NewForLn;;;New Forest Line;eng.newforln;
