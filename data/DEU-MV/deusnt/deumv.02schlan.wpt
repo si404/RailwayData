@@ -10,7 +10,7 @@ SKIP_Blu http://www.openstreetmap.org/?lat=53.603205&lon=11.425695
 Gar http://www.openstreetmap.org/?lat=53.606496&lon=11.424960
 Ost http://www.openstreetmap.org/?lat=53.613679&lon=11.416015
 +X28 http://www.openstreetmap.org/?lat=53.619679&lon=11.407607
-+DIV http://www.openstreetmap.org/?lat=53.620799&lon=11.408916
+DIV_PlaJug http://www.openstreetmap.org/?lat=53.620799&lon=11.408916
 PlaJug http://www.openstreetmap.org/?lat=53.621139&lon=11.408905
 Sch http://www.openstreetmap.org/?lat=53.625041&lon=11.409355
 MarPla http://www.openstreetmap.org/?lat=53.628493&lon=11.410857
