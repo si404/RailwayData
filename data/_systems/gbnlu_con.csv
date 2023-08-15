@@ -1,24 +1,27 @@
 systemName;route;banner;groupName;roots
 gbnlu;BakLn;;Bakerloo Line;eng.bakln
-gbnlu;CenLn;;Central Line;eng.cenln
-gbnlu;CenLn;;Central Line (Ealing branch);eng.cenlneal
-gbnlu;CenLn;;Central Line (Hainault loop);eng.cenlnhai
+gbnlu;CenLn;;Central Line (West Ruislip - Epping);eng.cenln
+gbnlu;CenLn;;Central Line (Ealing - Hainault - Woodford);eng.cenlneal
 gbnlu;CirLn;;Circle Line;eng.cirln
-gbnlu;DisLn;;District Line;eng.disln
-gbnlu;DisLn;;District Line (Ealing branch);eng.dislneal
-gbnlu;DisLn;;District Line (Wimbledon - Edgware Road);eng.dislnwim
-gbnlu;DisLn;;District Line (Olympia branch);eng.dislnoly
+gbnlu;DisLn;;District Line (Richmond - Upminster);eng.disln
+gbnlu;DisLn;;District Line (Ealing - Upminster);eng.dislneal
+gbnlu;DisLn;;District Line (Wimbledon - Barking);eng.dislnwim
+gbnlu;DisLn;;District Line (Wimbledon - Edgware Road);eng.dislnedg
+gbnlu;DisLn;;District Line (Olympia);eng.dislnoly
 gbnlu;HaCLn;;Hammersmith & City Line;eng.hacln
 gbnlu;JubLn;;Jubilee Line;eng.jubln
-gbnlu;MetLn;;Metropolitan Line;eng.metln
-gbnlu;MetLn;;Metropolitan Line (Amersham branch);eng.metlname
-gbnlu;MetLn;;Metropolitan Line (Watford branch);eng.metlnwat
-gbnlu;MetLn;;Metropolitan Line (Uxbridge branch);eng.metlnuxb
-gbnlu;NorLn;;Northern Line (Barnet - Bank - Morden);eng.norln
-gbnlu;NorLn;;Northern Line (Edgware - Charing Cross - Battersea);eng.norlnbat
-gbnlu;NorLn;;Northern Line (Mill Hill East branch);eng.norlnmhe
-gbnlu;PicLn;;Piccadilly Line;eng.picln
-gbnlu;PicLn;;Piccadilly Line (Heathrow Terminal 4 loop);eng.piclnht4
-gbnlu;PicLn;;Piccadilly Line (Uxbridge branch);eng.piclnuxb
+gbnlu;MetLn;;Metropolitan Line (Amersham);eng.metlname
+gbnlu;MetLn;;Metropolitan Line (Chesham);eng.metln
+gbnlu;MetLn;;Metropolitan Line (Uxbridge);eng.metlnuxb
+gbnlu;MetLn;;Metropolitan Line (Watford);eng.metlnwat
+gbnlu;NorLn;;Northern Line (Barnet - Bank - Morden);eng.norlnbar
+gbnlu;NorLn;;Northern Line (Barnet - Charing Cross - Battersea);eng.norlnbat
+gbnlu;NorLn;;Northern Line (Edgware - Bank - Morden);eng.norln
+gbnlu;NorLn;;Northern Line (Edgware - Charing Cross - Kennington);eng.norlnedg
+gbnlu;NorLn;;Northern Line (Mill Hill East - Bank - Morden);eng.norlnmor
+gbnlu;NorLn;;Northern Line (Mill Hill East - Charing Cross - Battersea);eng.norlnmhe
+gbnlu;PicLn;;Piccadilly Line (Heathrow Terminal 4);eng.piclnht4
+gbnlu;PicLn;;Piccadilly Line (Heathrow Terminal 5);eng.picln
+gbnlu;PicLn;;Piccadilly Line (Uxbridge);eng.piclnuxb
 gbnlu;VicLn;;Victoria Line;eng.vicln
 gbnlu;WaCLn;;Waterloo & City Line;eng.wacln

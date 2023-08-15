@@ -1,6 +1,6 @@
 systemName;route;banner;groupName;roots
-gbnvt;WCMLA;;West Coast Main Line (A);eng.wcmla,sct.wcmla
-gbnvt;WCMLA;;West Coast Main Line (A, Glasgow);sct.wcmlagla
+gbnvt;WCMLA;;West Coast Main Line (A, Edinburgh);eng.wcmla,sct.wcmla
+gbnvt;WCMLA;;West Coast Main Line (A, Glasgow);eng.wcmlagla,sct.wcmlagla
 gbnvt;WCMLA;;West Coast Main Line (A, Blackpool);eng.wcmlabla
 gbnvt;WCMLB;;West Coast Main Line (B);eng.wcmlb
 gbnvt;WCMLC;;West Coast Main Line (C);eng.wcmlc,wls.wcmlc

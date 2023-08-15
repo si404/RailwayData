@@ -1,4 +1,6 @@
 systemName;route;banner;groupName;roots
 gbnlt;TLnk;;Tramlink (Croydon - New Addington);eng.tlnkcna
-gbnlt;TLnk;;Tramlink (Wimbledon - West Croydon - Elmers End);eng.tlnkwee
-gbnlt;TLnk;;Tramlink (Beckenham Jct - George St - Wimbledon);eng.tlnkbjw
+gbnlt;TLnk;;Tramlink (Wimbledon - Elmers End);eng.tlnkwee
+gbnlt;TLnk;;Tramlink (Elmers End - Wimbledon);eng.tlnkeew
+gbnlt;TLnk;;Tramlink (Wimbledon - Beckenham Jct);eng.tlnkwbj
+gbnlt;TLnk;;Tramlink (Beckenham Jct - Wimbledon);eng.tlnkbjw

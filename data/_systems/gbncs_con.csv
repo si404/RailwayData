@@ -1,6 +1,6 @@
 systemName;route;banner;groupName;roots
-gbncs;HigSle;;Highland Sleeper;eng.higsle,sct.higsle
-gbncs;HigSle;;Highland Sleeper (Aberdeen portion);sct.higsleabe
-gbncs;HigSle;;Highland Sleeper (Inverness portion);sct.higsleinv
-gbncs;LowSle;;Lowland Sleeper;eng.lowsle,sct.lowsle
-gbncs;LowSle;;Lowland Sleeper (Edinburgh portion);sct.lowsleedi
+gbncs;HigSle;;Highland Sleeper (Aberdeen portion);eng.higsleabe,sct.higsleabe
+gbncs;HigSle;;Highland Sleeper (Fort William portion);eng.higsle,sct.higsle
+gbncs;HigSle;;Highland Sleeper (Inverness portion);eng.higsleinv,sct.higsleinv
+gbncs;LowSle;;Lowland Sleeper (Glasgow portion);eng.lowsle,sct.lowsle
+gbncs;LowSle;;Lowland Sleeper (Edinburgh portion);eng.lowsleedi,sct.lowsleedi
