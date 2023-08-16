@@ -1,0 +1,9 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+gbnxc;ENG;XCML;;;Cross-Country Main Line (SW - NE);eng.xcml;
+gbnxc;SCT;XCML;;;Cross-Country Main Line (SW - NE);sct.xcml;
+gbnxc;ENG;XCML;;Sou;Cross-Country Main Line (NW - S Coast);eng.xcmlsou;
+gbnxc;ENG;XCML;;Man;Cross-Country Main Line (NW - SW);eng.xcmlman;
+gbnxc;ENG;XCML;;Don;Cross-Country Main Line (Reading - NE);eng.xcmldon;
+gbnxc;ENG;BirPetLn;;;Birmingham - Peterborough Line;eng.birpetln;
+gbnxc;WLS;CarNotLn;;;Cardiff - Nottingham Line;wls.carnotln;
+gbnxc;ENG;CarNotLn;;;Cardiff - Nottingham Line;eng.carnotln;
