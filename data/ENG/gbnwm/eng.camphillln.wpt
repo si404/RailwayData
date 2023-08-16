@@ -1,13 +1,13 @@
-BirNewSt +BHM http://www.openstreetmap.org/?lat=52.477651&lon=-1.898704
+BirNewSt http://www.openstreetmap.org/?lat=52.477651&lon=-1.898704
 DIV_Der http://www.openstreetmap.org/?lat=52.480813&lon=-1.884949
 DIV_Lic http://www.openstreetmap.org/?lat=52.481480&lon=-1.880937
 DIV_Cov http://www.openstreetmap.org/?lat=52.481467&lon=-1.876624
 DIV_Lei http://www.openstreetmap.org/?lat=52.481830&lon=-1.870658
 DIV_Dud http://www.openstreetmap.org/?lat=52.479961&lon=-1.867483
 DIV_Bor http://www.openstreetmap.org/?lat=52.473455&lon=-1.870980
-MosVil +MOV http://www.openstreetmap.org/?lat=52.446244&lon=-1.885765
-KinHea +KIH http://www.openstreetmap.org/?lat=52.439302&lon=-1.892910
-PinRd +PIR http://www.openstreetmap.org/?lat=52.430164&lon=-1.907930
+MosVil http://www.openstreetmap.org/?lat=52.446244&lon=-1.885765
+KinHea http://www.openstreetmap.org/?lat=52.439302&lon=-1.892910
+PinRd http://www.openstreetmap.org/?lat=52.430164&lon=-1.907930
 DIV_Lif http://www.openstreetmap.org/?lat=52.418155&lon=-1.921245
 DIV_Uni http://www.openstreetmap.org/?lat=52.414689&lon=-1.929957
-KinNor +KNN http://www.openstreetmap.org/?lat=52.414213&lon=-1.932693
+KinNor http://www.openstreetmap.org/?lat=52.414213&lon=-1.932693

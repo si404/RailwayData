@@ -1,13 +1,14 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-gbntp;ENG;TPASRte;;Liv;TransPennine Anglo-Scottish Route (Liverpool branch);eng.tpasrteliv;
-gbntp;ENG;TPASRte;;;TransPennine Anglo-Scottish Route;eng.tpasrte;
-gbntp;SCT;TPASRte;;;TransPennine Anglo-Scottish Route;sct.tpasrte;
-gbntp;SCT;TPASRte;;Gla;TransPennine Anglo-Scottish Route (Glasgow branch);sct.tpasrtegla;
-gbntp;ENG;TPNRte;;;TransPennine North Route;eng.tpnrte;
-gbntp;SCT;TPNRte;;;TransPennine North Route;sct.tpnrte;
-gbntp;ENG;TPNRte;;Air;TransPennine North Route (Airport branch);eng.tpnrteair;
-gbntp;ENG;TPNRte;;Pic;TransPennine North Route (Piccadilly branch);eng.tpnrtepic;
-gbntp;ENG;TPNRte;;Hul;TransPennine North Route (Hull branch);eng.tpnrtehul;
-gbntp;ENG;TPNRte;;Sca;TransPennine North Route (Scarborough branch);eng.tpnrtesca;
-gbntp;ENG;TPNRte;;Tee;TransPennine North Route (Teesside branch);eng.tpnrtetee;
+gbntp;ENG;TPASRte;;;TransPennine Anglo-Scottish Route (Manchester - Edinburgh);eng.tpasrte;
+gbntp;SCT;TPASRte;;;TransPennine Anglo-Scottish Route (Manchester - Edinburgh);sct.tpasrte;
+gbntp;ENG;TPASRte;;Gla;TransPennine Anglo-Scottish Route (Manchester - Glasgow);eng.tpasrtegla;
+gbntp;SCT;TPASRte;;Gla;TransPennine Anglo-Scottish Route (Manchester - Glasgow);sct.tpasrtegla;
+gbntp;ENG;TPASRte;;Liv;TransPennine Anglo-Scottish Route (Liverpool - Glasgow);eng.tpasrteliv;
+gbntp;SCT;TPASRte;;Liv;TransPennine Anglo-Scottish Route (Liverpool - Glasgow);sct.tpasrteliv;
+gbntp;ENG;TPNRte;;;TransPennine North Route (Liverpool - Edinburgh);eng.tpnrte;
+gbntp;SCT;TPNRte;;;TransPennine North Route (Liverpool - Edinburgh);sct.tpnrte;
+gbntp;ENG;TPNRte;;Hul;TransPennine North Route (Liverpool - Hull);eng.tpnrtehul;
+gbntp;ENG;TPNRte;;Tee;TransPennine North Route (Manchester - Saltburn);eng.tpnrtetee;TPNRteAir
+gbntp;ENG;TPNRte;;Sca;TransPennine North Route (Manchester - Scarborough);eng.tpnrtesca;
+gbntp;ENG;TPNRte;;Pic;TransPennine North Route (Manchester - Newcastle);eng.tpnrtepic;
 gbntp;ENG;TPSRte;;;TransPennine South Route;eng.tpsrte;

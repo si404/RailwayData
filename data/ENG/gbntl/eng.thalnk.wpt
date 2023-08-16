@@ -15,15 +15,15 @@ Harp http://www.openstreetmap.org/?lat=51.814757&lon=-0.351477
 StAlbCity http://www.openstreetmap.org/?lat=51.750428&lon=-0.327659
 +X209841 http://www.openstreetmap.org/?lat=51.734989&lon=-0.319033
 +X757903 http://www.openstreetmap.org/?lat=51.703590&lon=-0.325599
-Rad http://www.openstreetmap.org/?lat=51.685262&lon=-0.317016
-ElsBor http://www.openstreetmap.org/?lat=51.652124&lon=-0.279336
-MillHillBdwy http://www.openstreetmap.org/?lat=51.612620&lon=-0.248909
+SKIP_Rad http://www.openstreetmap.org/?lat=51.685262&lon=-0.317016
+SKIP_ElsBor http://www.openstreetmap.org/?lat=51.652124&lon=-0.279336
+SKIP_MillHillBdwy http://www.openstreetmap.org/?lat=51.612620&lon=-0.248909
 +X925546 http://www.openstreetmap.org/?lat=51.599560&lon=-0.237193
-Hen http://www.openstreetmap.org/?lat=51.580177&lon=-0.238953
-BreCroWest http://www.openstreetmap.org/?lat=51.568844&lon=-0.226518
-Cri http://www.openstreetmap.org/?lat=51.558303&lon=-0.212517
+SKIP_Hen http://www.openstreetmap.org/?lat=51.580177&lon=-0.238953
+SKIP_BreCroWest http://www.openstreetmap.org/?lat=51.568844&lon=-0.226518
+SKIP_Cri http://www.openstreetmap.org/?lat=51.558303&lon=-0.212517
 WestHam http://www.openstreetmap.org/?lat=51.548403&lon=-0.192261
-KenTown http://www.openstreetmap.org/?lat=51.550058&lon=-0.138831
+SKIP_KenTown http://www.openstreetmap.org/?lat=51.550058&lon=-0.138831
 DIV_StP http://www.openstreetmap.org/?lat=51.541614&lon=-0.130763
 DIV_Cam http://www.openstreetmap.org/?lat=51.536166&lon=-0.128725
 StPanInt http://www.openstreetmap.org/?lat=51.531881&lon=-0.126815
@@ -49,7 +49,7 @@ DIV_Pal http://www.openstreetmap.org/?lat=51.420761&lon=-0.057721
 SKIP_PenWest http://www.openstreetmap.org/?lat=51.417496&lon=-0.060725
 SKIP_Ane http://www.openstreetmap.org/?lat=51.412584&lon=-0.065575
 DIV_Cry http://www.openstreetmap.org/?lat=51.404580&lon=-0.070488
-NorJct http://www.openstreetmap.org/?lat=51.397218&lon=-0.074673
+SKIP_NorJct http://www.openstreetmap.org/?lat=51.397218&lon=-0.074673
 DIV_Wal http://www.openstreetmap.org/?lat=51.389157&lon=-0.081646
 DIV_Vic http://www.openstreetmap.org/?lat=51.384946&lon=-0.087483
 EastCro +ECR http://www.openstreetmap.org/?lat=51.375993&lon=-0.092697

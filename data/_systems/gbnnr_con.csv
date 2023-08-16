@@ -1,0 +1,57 @@
+systemName;route;banner;groupName;roots
+gbnnr;TyneVlyLn;;Tyne Valley Line;eng.tynevlyln
+gbnnr;DurCoaLn;;Durham Coast Line;eng.durcoaln
+gbnnr;EskVlyLn;;Esk Valley Line;eng.eskvlyln
+gbnnr;TeesVlyLn;;Tees Valley Line;eng.teesvlyln
+gbnnr;BenLn;;Bentham Line;eng.benln
+gbnnr;CumCoaLn;;Cumbrian Coast Line;eng.cumcoaln
+gbnnr;FurLn;;Furness Line;eng.furln
+gbnnr;LakLn;;Lakes Line;eng.lakln
+gbnnr;SaCLn;;Settle - Carlisle Line;eng.sacln
+gbnnr;CalLn;;Calderdale Line;eng.calln
+gbnnr;EreVlyLn;;Erewash Valley Line;eng.erevlyln
+gbnnr;LinLn;;Lincoln Line;eng.linln
+gbnnr;PilLn;;Pilgrim Line;eng.pilln
+gbnnr;RosLn;;Roses Line;eng.rosln
+gbnnr;YorCoaLn;;Yorkshire Coast Line;eng.yorcoaln
+gbnnr;YorWolLn;;Yorkshire Wolds Line;eng.yorwolln
+gbnnr;AdlLn;;Airedale Line (Bradford);eng.adllnbra
+gbnnr;AdlLn;;Airedale Line (Leeds);eng.adllnlee
+gbnnr;DeaVlyLn;;Dearne Valley Line;eng.deavlyln
+gbnnr;HalLn;;Hallam Line;eng.halln
+gbnnr;HarLn;;Harrogate Line;eng.harln
+gbnnr;HudLn;;Huddersfield Line;eng.hudln
+gbnnr;LeeBraLn;;Leeds - Bradford Line;eng.leebraln
+gbnnr;PenLn;;Penistone Line;eng.penln
+gbnnr;PonLn;;Pontefract Line (Castleford);eng.ponlncas
+gbnnr;PonLn;;Pontefract Line (Wakefield);eng.ponlnwak
+gbnnr;RotLn;;Rotherham Line;eng.rotln
+gbnnr;SelLn;;Selby Line;eng.selln
+gbnnr;SouHumLn;;South Humberside Line;eng.souhumln
+gbnnr;WakLn;;Wakefield Line (Doncaster);eng.waklndon
+gbnnr;WakLn;;Wakefield Line (Sheffield);eng.waklnshe
+gbnnr;WhaLn;;Wharfdale Line (Bradford);eng.whalnbra
+gbnnr;WhaLn;;Wharfedale Line (Leeds);eng.whalnlee
+gbnnr;YorkLn;;York Line;eng.yorkln
+gbnnr;AirLn;;Airport Line;eng.airln
+gbnnr;AthLn;;Atherton Line;eng.athln
+gbnnr;BlaLn;;Blackpool Line;eng.blaln
+gbnnr;BuxLn;;Buxton Line;eng.buxln
+gbnnr;CalVlyLn;;Calder Valley Line;eng.calvlyln
+gbnnr;ChatMossLn;;Chat Moss Line;eng.chatmossln
+gbnnr;CityLn;;City Line;eng.cityln
+gbnnr;CLCLn;;CLC Line;eng.clcln
+gbnnr;CreLn;;Crewe Line;eng.creln
+gbnnr;EastLanLn;;East Lancashire Line;eng.eastlanln
+gbnnr;GloLn;;Glossop Line;eng.gloln
+gbnnr;HopeVlyLn;;Hope Valley Line;eng.hopevlyln
+gbnnr;MplLn;;Marple Line;eng.mplln
+gbnnr;MidCheLn;;Mid-Cheshire Line;eng.midcheln
+gbnnr;NorCheLn;;North Cheshire Line;eng.norcheln
+gbnnr;RibVlyLn;;Ribble Valley Line;eng.ribvlyln
+gbnnr;SouFylLn;;South Fylde Line;eng.soufylln
+gbnnr;SptLn;;Southport Line;eng.sptln
+gbnnr;StaLn;;Stalybridge Line;eng.staln
+gbnnr;StoLn;;Stoke Line;eng.stoln
+gbnnr;StoStaLn;;Stockport - Stalybridge Line;eng.stostaln
+gbnnr;WestLanLn;;West Lancashire Line;eng.westlanln

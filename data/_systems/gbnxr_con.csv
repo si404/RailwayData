@@ -1,5 +1,4 @@
 systemName;route;banner;groupName;roots
-gbnxr;EliLn;;Elizabeth Line;eng.eliln
-gbnxr;EliLn;;Elizabeth Line (Heathrow branch);eng.elilnhea
-gbnxr;EliLn;;Elizabeth Line (Heathrow Terminal 5 branch);eng.elilnht5
-gbnxr;EliLn;;Elizabeth Line (Shenfield branch);eng.elilnshe
+gbnxr;EliLn;;Elizabeth Line (Reading - Abbey Wood);eng.eliln
+gbnxr;EliLn;;Elizabeth Line (Heathrow Terminal 4 - Abbey Wood);eng.elilnhea
+gbnxr;EliLn;;Elizabeth Line (Heathrow Terminal 5 - Shenfield);eng.elilnshe

@@ -15,6 +15,7 @@ Bar http://www.openstreetmap.org/?lat=51.540263&lon=0.079436
 DIV_Dag http://www.openstreetmap.org/?lat=51.538001&lon=0.083857
 SKIP_Upn http://www.openstreetmap.org/?lat=51.538208&lon=0.099649
 SKIP_Bec http://www.openstreetmap.org/?lat=51.540236&lon=0.126514
+SKIP_DagHea http://www.openstreetmap.org/?lat=51.541461&lon=0.145601
 SKIP_DagEast http://www.openstreetmap.org/?lat=51.543920&lon=0.164967
 SKIP_ElmPark http://www.openstreetmap.org/?lat=51.549524&lon=0.197453
 SKIP_Hor http://www.openstreetmap.org/?lat=51.553820&lon=0.218310

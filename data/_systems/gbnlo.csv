@@ -1,13 +1,13 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-gbnlo;ENG;ELL;;;East London Line;eng.ell;
-gbnlo;ENG;ELL;;Cla;East London Line (Clapham Junction branch);eng.ellcla;
-gbnlo;ENG;ELL;;Cry;East London Line (Crystal Palace branch);eng.ellcry;
-gbnlo;ENG;ELL;;New;East London Line (New Cross branch);eng.ellnew;
+gbnlo;ENG;ELL;;Cry;East London Line (Crystal Palace);eng.ellcry;
+gbnlo;ENG;ELL;;Cla;East London Line (Clapham Junction);eng.ellcla;
+gbnlo;ENG;ELL;;New;East London Line (New Cross);eng.ellnew;
+gbnlo;ENG;ELL;;;East London Line (West Croydon);eng.ell;
 gbnlo;ENG;Goblin;;;Gospel Oak - Barking Line;eng.goblin;
-gbnlo;ENG;LVL;;;Lea Valley Line;eng.lvl;
-gbnlo;ENG;LVL;;Chi;Lea Valley Line (Chingford branch);eng.lvlchi;
-gbnlo;ENG;LVL;;Enf;Lea Valley Line (Enfield branch);eng.lvlenf;
-gbnlo;ENG;NLL;;;North London Line;eng.nll;
-gbnlo;ENG;NLL;;Ric;North London Line (Richmond branch);eng.nllric;
+gbnlo;ENG;LVL;;;Lea Valley Line (Cheshunt);eng.lvl;
+gbnlo;ENG;LVL;;Chi;Lea Valley Line (Chingford);eng.lvlchi;
+gbnlo;ENG;LVL;;Enf;Lea Valley Line (Enfield);eng.lvlenf;
+gbnlo;ENG;NLL;;;North London Line (Clapham Junction);eng.nll;
+gbnlo;ENG;NLL;;Ric;North London Line (Richmond);eng.nllric;
 gbnlo;ENG;RomUpmShu;;;Romford - Upminster Shuttle;eng.romupmshu;
 gbnlo;ENG;WatDC;;;Watford DC Line;eng.watdc;

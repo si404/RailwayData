@@ -1,8 +1,8 @@
 systemName;route;banner;groupName;roots
-gbntl;ThaLnk;;Thameslink (Peterborough branch);eng.thalnkpet
-gbntl;ThaLnk;;Thameslink (Cambridge branch);eng.thalnkcam
-gbntl;ThaLnk;;Thameslink;eng.thalnk
-gbntl;ThaLnk;;Thameslink (Sutton loop);eng.thalnksut
-gbntl;ThaLnk;;Thameslink (Sevenoaks branch);eng.thalnksev
-gbntl;ThaLnk;;Thameslink (Rainham branch);eng.thalnkrai
-gbntl;ThaLnk;;Thameslink (Redhill branch);eng.thalnkred
+gbntl;ThaLnk;;Thameslink (Cambridge - Brighton);eng.thalnkcam
+gbntl;ThaLnk;;Thameslink (Bedford - Brighton);eng.thalnk
+gbntl;ThaLnk;;Thameslink (Bedford - Three Bridges);eng.thalnkbed
+gbntl;ThaLnk;;Thameslink (Peterborough - Horsham);eng.thalnkpet
+gbntl;ThaLnk;;Thameslink (St Albans - Sutton);eng.thalnksut
+gbntl;ThaLnk;;Thameslink (Blackfriars - Sevenoaks);eng.thalnksev
+gbntl;ThaLnk;;Thameslink (Luton - Rainham);eng.thalnkrai

@@ -229,14 +229,16 @@ fralhf;FRA;Funicular de Havre;TMyellow;5;preview
 fralyf;FRA;Lyon Funiculars;TMyellow;5;preview
 frattp;FRA;Toulouse Téléphérique urbain Téléo;TMyellow;5;preview
 fraval;FRA;Véhicule Automatique Léger;TMyellow;5;preview
-gbnvt;GBR;Avanti West Coast;TMgray;1;preview
 gbncs;GBR;Caledonian Sleeper;TMgray;1;preview
 gbngc;GBR;Great Central;TMgray;1;preview
+gbngr;GBR;London North Eastern Railway;TMgray;1;preview
 gbngx;GBR;Gatwick Express;TMgray;1;preview
 gbnht;GBR;Hull Trains;TMgray;1;preview
 gbnhx;GBR;Heathrow Express;TMgray;1;preview
 gbnld;GBR;Lumo;TMgray;1;preview
 gbnsx;GBR;Stansted Express;TMgray;1;preview
+gbnvt;GBR;Avanti West Coast;TMgray;1;preview
+gbnxc;GBR;CrossCountry;TMgray;1;preview
 gbnaw;GBR;Transport for Wales Rail;TMgreen;2;preview
 gbncc;GBR;c2c;TMgreen;2;preview
 gbnch;GBR;Chiltern Railways;TMgreen;2;preview
@@ -248,6 +250,7 @@ gbnle;GBR;Greater Anglia;TMgreen;2;preview
 gbnln;GBR;London Northwestern Railway;TMgreen;2;preview
 gbnlo;GBR;London Overground;TMgreen;2;preview
 gbnme;GBR;Merseyrail;TMgreen;2;preview
+gbnnr;GBR;Northern;TMgreen;2;preview
 gbnse;GBR;Southeastern;TMgreen;2;preview
 gbnsn;GBR;Southern;TMgreen;2;preview
 gbnsr;GBR;Scotrail;TMgreen;2;preview
