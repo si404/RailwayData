@@ -3,5 +3,5 @@ gbnxc;XCML;;Cross-Country Main Line (SW - NE);eng.xcml,sct.xcml
 gbnxc;XCML;;Cross-Country Main Line (NW - S Coast);eng.xcmlsou
 gbnxc;XCML;;Cross-Country Main Line (NW - SW);eng.xcmlman
 gbnxc;XCML;;Cross-Country Main Line (Reading - NE);eng.xcmldon
-gbnxc;BirPetLn;;;Birmingham - Peterborough Line;eng.birpetln
-gbnxc;CarNotLn;;;Cardiff - Nottingham Line;wls.carnotln,eng.carnotln
+gbnxc;BirPetLn;;Birmingham - Peterborough Line;eng.birpetln
+gbnxc;CarNotLn;;Cardiff - Nottingham Line;wls.carnotln,eng.carnotln
