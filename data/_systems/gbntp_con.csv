@@ -1,7 +1,6 @@
 systemName;route;banner;groupName;roots
 gbntp;TPASRte;;TransPennine Anglo-Scottish Route (Manchester - Edinburgh);eng.tpasrte,sct.tpasrte
 gbntp;TPASRte;;TransPennine Anglo-Scottish Route (Manchester - Glasgow);eng.tpasrtegla,sct.tpasrtegla
-gbntp;TPASRte;;TransPennine Anglo-Scottish Route (Liverpool - Glasgow);eng.tpasrteliv,sct.tpasrteliv
 gbntp;TPNRte;;TransPennine North Route (Liverpool - Edinburgh);eng.tpnrte,sct.tpnrte
 gbntp;TPNRte;;TransPennine North Route (Liverpool - Hull);eng.tpnrtehul
 gbntp;TPNRte;;TransPennine North Route (Manchester - Saltburn);eng.tpnrtetee

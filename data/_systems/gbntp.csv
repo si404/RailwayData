@@ -3,8 +3,6 @@ gbntp;ENG;TPASRte;;;TransPennine Anglo-Scottish Route (Manchester - Edinburgh);e
 gbntp;SCT;TPASRte;;;TransPennine Anglo-Scottish Route (Manchester - Edinburgh);sct.tpasrte;
 gbntp;ENG;TPASRte;;Gla;TransPennine Anglo-Scottish Route (Manchester - Glasgow);eng.tpasrtegla;
 gbntp;SCT;TPASRte;;Gla;TransPennine Anglo-Scottish Route (Manchester - Glasgow);sct.tpasrtegla;
-gbntp;ENG;TPASRte;;Liv;TransPennine Anglo-Scottish Route (Liverpool - Glasgow);eng.tpasrteliv;
-gbntp;SCT;TPASRte;;Liv;TransPennine Anglo-Scottish Route (Liverpool - Glasgow);sct.tpasrteliv;
 gbntp;ENG;TPNRte;;;TransPennine North Route (Liverpool - Edinburgh);eng.tpnrte;
 gbntp;SCT;TPNRte;;;TransPennine North Route (Liverpool - Edinburgh);sct.tpnrte;
 gbntp;ENG;TPNRte;;Hul;TransPennine North Route (Liverpool - Hull);eng.tpnrtehul;

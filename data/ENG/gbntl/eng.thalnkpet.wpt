@@ -34,7 +34,7 @@ FinPark http://www.openstreetmap.org/?lat=51.564760&lon=-0.106344
 DIV_NCL http://www.openstreetmap.org/?lat=51.558757&lon=-0.107889
 DIV_Kin http://www.openstreetmap.org/?lat=51.541364&lon=-0.122695
 DIV_Cam http://www.openstreetmap.org/?lat=51.536166&lon=-0.128725
-StPanInt +STP http://www.openstreetmap.org/?lat=51.531881&lon=-0.126815
+StPanInt http://www.openstreetmap.org/?lat=51.531881&lon=-0.126815
 DIV_MetN http://www.openstreetmap.org/?lat=51.530703&lon=-0.122180
 DIV_MetS http://www.openstreetmap.org/?lat=51.526445&lon=-0.112846
 Far http://www.openstreetmap.org/?lat=51.520080&lon=-0.104842
@@ -60,7 +60,7 @@ DIV_Cry http://www.openstreetmap.org/?lat=51.404580&lon=-0.070488
 SKIP_NorJct http://www.openstreetmap.org/?lat=51.397218&lon=-0.074673
 DIV_Wal http://www.openstreetmap.org/?lat=51.389157&lon=-0.081646
 DIV_Vic http://www.openstreetmap.org/?lat=51.384946&lon=-0.087483
-EastCro +ECR http://www.openstreetmap.org/?lat=51.375993&lon=-0.092697
+EastCro http://www.openstreetmap.org/?lat=51.375993&lon=-0.092697
 SKIP_SouCro http://www.openstreetmap.org/?lat=51.362878&lon=-0.093319
 DIV_Oxt http://www.openstreetmap.org/?lat=51.361204&lon=-0.093405
 SKIP_PurOaks http://www.openstreetmap.org/?lat=51.347026&lon=-0.098770
@@ -78,7 +78,7 @@ SKIP_Ear http://www.openstreetmap.org/?lat=51.227696&lon=-0.170739
 SKIP_Sal http://www.openstreetmap.org/?lat=51.201795&lon=-0.162134
 Horl http://www.openstreetmap.org/?lat=51.168782&lon=-0.160997
 GatAir http://www.openstreetmap.org/?lat=51.156766&lon=-0.160933
-ThrBri TheBri http://www.openstreetmap.org/?lat=51.117401&lon=-0.161051
+ThrBri http://www.openstreetmap.org/?lat=51.117401&lon=-0.161051
 +X251721 http://www.openstreetmap.org/?lat=51.113343&lon=-0.163507
 Cra http://www.openstreetmap.org/?lat=51.112077&lon=-0.187154
 Ifi http://www.openstreetmap.org/?lat=51.115525&lon=-0.214491
