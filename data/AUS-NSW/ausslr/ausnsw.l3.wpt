@@ -1,16 +1,16 @@
-CircularQuay http://www.openstreetmap.org/?lat=-33.861369&lon=151.210660
-BridgeSt http://www.openstreetmap.org/?lat=-33.864113&lon=151.207473
-Wynyard http://www.openstreetmap.org/?lat=-33.866670&lon=151.207173
+CirQuay +CircularQuay http://www.openstreetmap.org/?lat=-33.861369&lon=151.210660
+BriSt +BridgeSt http://www.openstreetmap.org/?lat=-33.864113&lon=151.207473
+Wyn +Wynyard http://www.openstreetmap.org/?lat=-33.866670&lon=151.207173
 QVB http://www.openstreetmap.org/?lat=-33.871596&lon=151.206980
 TownHall http://www.openstreetmap.org/?lat=-33.873689&lon=151.206894
-Chinatown http://www.openstreetmap.org/?lat=-33.878615&lon=151.205553
-Haymarket http://www.openstreetmap.org/?lat=-33.881474&lon=151.205328
-CentralChalmersSt http://www.openstreetmap.org/?lat=-33.882922&lon=151.207200
-SurryHills http://www.openstreetmap.org/?lat=-33.888110&lon=151.211883
-MoorePk http://www.openstreetmap.org/?lat=-33.893694&lon=151.221775
-+X153318 http://www.openstreetmap.org/?lat=-33.899411&lon=151.222719
-ESMarks http://www.openstreetmap.org/?lat=-33.905707&lon=151.223921
-Kensington http://www.openstreetmap.org/?lat=-33.909420&lon=151.223330
-UNSWAnzacParade http://www.openstreetmap.org/?lat=-33.916765&lon=151.225938
-Kingsford http://www.openstreetmap.org/?lat=-33.921805&lon=151.226892
-JuniorsKingsford http://www.openstreetmap.org/?lat=-33.925001&lon=151.229028
+Chi +Chinatown http://www.openstreetmap.org/?lat=-33.878615&lon=151.205553
+Hay +Haymarket http://www.openstreetmap.org/?lat=-33.881474&lon=151.205328
+CenChaSt +CentralChalmersSt http://www.openstreetmap.org/?lat=-33.882922&lon=151.207200
+SurHil +SurryHills http://www.openstreetmap.org/?lat=-33.888110&lon=151.211883
+MooPark +MoorePk http://www.openstreetmap.org/?lat=-33.893694&lon=151.221775
+DIV_T2 http://www.openstreetmap.org/?lat=-33.899411&lon=151.222719
+ESMar  +ESMarks http://www.openstreetmap.org/?lat=-33.905707&lon=151.223921
+Ken +Kensington http://www.openstreetmap.org/?lat=-33.909420&lon=151.223330
+UNSWAnzPar +UNSWAnzacParade http://www.openstreetmap.org/?lat=-33.916765&lon=151.225938
+Kin +Kingsford http://www.openstreetmap.org/?lat=-33.921805&lon=151.226892
+JunKin +JuniorsKingsford http://www.openstreetmap.org/?lat=-33.925001&lon=151.229028

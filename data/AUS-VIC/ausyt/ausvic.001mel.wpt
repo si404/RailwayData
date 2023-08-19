@@ -16,7 +16,7 @@ WesSt http://www.openstreetmap.org/?lat=-37.775591&lon=144.971080
 BruRd http://www.openstreetmap.org/?lat=-37.778254&lon=144.970694
 ParkSt http://www.openstreetmap.org/?lat=-37.779390&lon=144.970522
 PigSt http://www.openstreetmap.org/?lat=-37.781561&lon=144.970157
-RicSt http://www.openstreetmap.org/?lat=-37.784033&lon=144.969782
+RicLygSt http://www.openstreetmap.org/?lat=-37.784033&lon=144.969782
 FenSt http://www.openstreetmap.org/?lat=-37.787178&lon=144.969277
 MelCemE http://www.openstreetmap.org/?lat=-37.789459&lon=144.968891
 PriSt http://www.openstreetmap.org/?lat=-37.792384&lon=144.968376
@@ -32,9 +32,9 @@ BouStMall http://www.openstreetmap.org/?lat=-37.813518&lon=144.965630
 CitySq http://www.openstreetmap.org/?lat=-37.815493&lon=144.966563
 FliStSta http://www.openstreetmap.org/?lat=-37.817505&lon=144.967475
 ArtsPre http://www.openstreetmap.org/?lat=-37.821824&lon=144.969417
-+X988446 http://www.openstreetmap.org/?lat=-37.823239&lon=144.970039
+DIV_SK http://www.openstreetmap.org/?lat=-37.823239&lon=144.970039
 StuSt http://www.openstreetmap.org/?lat=-37.823951&lon=144.967217
-GraSt http://www.openstreetmap.org/?lat=-37.825832&lon=144.966660
+GraStuSt http://www.openstreetmap.org/?lat=-37.825832&lon=144.966660
 MilSt http://www.openstreetmap.org/?lat=-37.828315&lon=144.965909
 KinWay http://www.openstreetmap.org/?lat=-37.830790&lon=144.965136
 DorSt http://www.openstreetmap.org/?lat=-37.832239&lon=144.965072
@@ -45,6 +45,6 @@ FerSt http://www.openstreetmap.org/?lat=-37.836653&lon=144.956650
 MonSt http://www.openstreetmap.org/?lat=-37.837416&lon=144.954268
 BriMonSt http://www.openstreetmap.org/?lat=-37.840729&lon=144.955566
 MerSt http://www.openstreetmap.org/?lat=-37.841627&lon=144.953313
-RicSt http://www.openstreetmap.org/?lat=-37.843889&lon=144.951446
-GraSt http://www.openstreetmap.org/?lat=-37.845728&lon=144.949933
+RicStVIcAve http://www.openstreetmap.org/?lat=-37.843889&lon=144.951446
+LPGraSt http://www.openstreetmap.org/?lat=-37.845728&lon=144.949933
 BeaPar http://www.openstreetmap.org/?lat=-37.847151&lon=144.948775

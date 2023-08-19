@@ -1,76 +1,74 @@
-CEN http://www.openstreetmap.org/?lat=-33.882922&lon=151.207216
-+X352781 http://www.openstreetmap.org/?lat=-33.885295&lon=151.205478
-+X839783 http://www.openstreetmap.org/?lat=-33.886257&lon=151.204802
-+REF http://www.openstreetmap.org/?lat=-33.892313&lon=151.198128
-+X310197 http://www.openstreetmap.org/?lat=-33.895600&lon=151.189696
-+MAC http://www.openstreetmap.org/?lat=-33.896793&lon=151.185801
-+NTN http://www.openstreetmap.org/?lat=-33.897817&lon=151.179568
-+SMN http://www.openstreetmap.org/?lat=-33.894451&lon=151.163893
-+PSM http://www.openstreetmap.org/?lat=-33.893836&lon=151.155277
-+LWI http://www.openstreetmap.org/?lat=-33.893338&lon=151.147649
-+SMH http://www.openstreetmap.org/?lat=-33.890310&lon=151.138862
-+AFD http://www.openstreetmap.org/?lat=-33.887669&lon=151.125827
-+CYD http://www.openstreetmap.org/?lat=-33.883251&lon=151.115592
-+BWD http://www.openstreetmap.org/?lat=-33.877105&lon=151.104069
-STR http://www.openstreetmap.org/?lat=-33.871747&lon=151.094252
-+X328886 http://www.openstreetmap.org/?lat=-33.870073&lon=151.092213
-+NST http://www.openstreetmap.org/?lat=-33.859057&lon=151.088061
-+CDW http://www.openstreetmap.org/?lat=-33.848418&lon=151.085615
-+RDS http://www.openstreetmap.org/?lat=-33.830417&lon=151.087053
-+MEB http://www.openstreetmap.org/?lat=-33.815943&lon=151.090057
-+WSR http://www.openstreetmap.org/?lat=-33.806975&lon=151.090293
-+DST http://www.openstreetmap.org/?lat=-33.799834&lon=151.087310
-+EWD http://www.openstreetmap.org/?lat=-33.790124&lon=151.082246
-EPG http://www.openstreetmap.org/?lat=-33.772789&lon=151.082075
-+CHA http://www.openstreetmap.org/?lat=-33.755731&lon=151.078566
-+BCF http://www.openstreetmap.org/?lat=-33.749647&lon=151.066389
-+PNT http://www.openstreetmap.org/?lat=-33.738014&lon=151.072505
-+THO http://www.openstreetmap.org/?lat=-33.731848&lon=151.078373
-+NOR http://www.openstreetmap.org/?lat=-33.720855&lon=151.096977
-HBY http://www.openstreetmap.org/?lat=-33.703541&lon=151.098382
-+ASQ http://www.openstreetmap.org/?lat=-33.688666&lon=151.108060
-+MOC http://www.openstreetmap.org/?lat=-33.671952&lon=151.114583
-+MKI http://www.openstreetmap.org/?lat=-33.653186&lon=151.136835
-BEW http://www.openstreetmap.org/?lat=-33.623531&lon=151.153153
-CWN http://www.openstreetmap.org/?lat=-33.593414&lon=151.171811
+Cen http://www.openstreetmap.org/?lat=-33.882922&lon=151.207216
+DIV_12E http://www.openstreetmap.org/?lat=-33.888079&lon=151.202366
+SKIP_Red +REF http://www.openstreetmap.org/?lat=-33.892313&lon=151.198128
+DIV_38 http://www.openstreetmap.org/?lat=-33.895600&lon=151.189696
+SKIP_Mac http://www.openstreetmap.org/?lat=-33.896793&lon=151.185801
+SKIP_New http://www.openstreetmap.org/?lat=-33.897817&lon=151.179568
+SKIP_Sta http://www.openstreetmap.org/?lat=-33.894451&lon=151.163893
+SKIP_Pet http://www.openstreetmap.org/?lat=-33.893836&lon=151.155277
+SKIP_Lew http://www.openstreetmap.org/?lat=-33.893338&lon=151.147649
+SKIP_SumHill http://www.openstreetmap.org/?lat=-33.890310&lon=151.138862
+SKIP_Ash http://www.openstreetmap.org/?lat=-33.887669&lon=151.125827
+SKIP_Cro http://www.openstreetmap.org/?lat=-33.883251&lon=151.115592
+SKIP_Bur http://www.openstreetmap.org/?lat=-33.877105&lon=151.104069
+Str http://www.openstreetmap.org/?lat=-33.871747&lon=151.094252
+DIV_12W http://www.openstreetmap.org/?lat=-33.870073&lon=151.092213
+SKIP_NorStr http://www.openstreetmap.org/?lat=-33.859057&lon=151.088061
+SKIP_ConWest http://www.openstreetmap.org/?lat=-33.848418&lon=151.085615
+SKIP_Rho http://www.openstreetmap.org/?lat=-33.830417&lon=151.087053
+SKIP_Mea http://www.openstreetmap.org/?lat=-33.815943&lon=151.090057
+SKIP_WestRyde http://www.openstreetmap.org/?lat=-33.806975&lon=151.090293
+SKIP_Den http://www.openstreetmap.org/?lat=-33.799834&lon=151.087310
+SKIP_Eas http://www.openstreetmap.org/?lat=-33.790124&lon=151.082246
+Epp +EPG http://www.openstreetmap.org/?lat=-33.772789&lon=151.082075
+SKIP_Che http://www.openstreetmap.org/?lat=-33.755731&lon=151.078566
+SKIP_Bee http://www.openstreetmap.org/?lat=-33.749647&lon=151.066389
+SKIP_PenHil http://www.openstreetmap.org/?lat=-33.738014&lon=151.072505
+SKIP_Tho http://www.openstreetmap.org/?lat=-33.731848&lon=151.078373
+SKIP_Nor http://www.openstreetmap.org/?lat=-33.720855&lon=151.096977
+Hor +HBY http://www.openstreetmap.org/?lat=-33.703541&lon=151.098382
+SKIP_Asq http://www.openstreetmap.org/?lat=-33.688666&lon=151.108060
+SKIP_MouCol http://www.openstreetmap.org/?lat=-33.671952&lon=151.114583
+SKIP_MouKurGai http://www.openstreetmap.org/?lat=-33.653186&lon=151.136835
+Ber +BEW http://www.openstreetmap.org/?lat=-33.623531&lon=151.153153
+Cow  +CWN http://www.openstreetmap.org/?lat=-33.593414&lon=151.171811
 +X152153 http://www.openstreetmap.org/?lat=-33.576951&lon=151.191144
 +X823503 http://www.openstreetmap.org/?lat=-33.552688&lon=151.197410
-HKR http://www.openstreetmap.org/?lat=-33.546948&lon=151.226549
+HawRiv +HKR http://www.openstreetmap.org/?lat=-33.546948&lon=151.226549
 +X340622 http://www.openstreetmap.org/?lat=-33.508320&lon=151.230884
-WDB http://www.openstreetmap.org/?lat=-33.492144&lon=151.256933
+Won +WDB http://www.openstreetmap.org/?lat=-33.492144&lon=151.256933
 +X858953 http://www.openstreetmap.org/?lat=-33.484735&lon=151.267233
 +X355117 http://www.openstreetmap.org/?lat=-33.497369&lon=151.300235
-WOY http://www.openstreetmap.org/?lat=-33.485952&lon=151.323066
-KWG http://www.openstreetmap.org/?lat=-33.466434&lon=151.318560
-TSC http://www.openstreetmap.org/?lat=-33.450896&lon=151.318645
-PCL http://www.openstreetmap.org/?lat=-33.446169&lon=151.328495
-GOS http://www.openstreetmap.org/?lat=-33.423374&lon=151.341755
-NRR http://www.openstreetmap.org/?lat=-33.394750&lon=151.344438
-NIA http://www.openstreetmap.org/?lat=-33.383123&lon=151.354501
-LRW http://www.openstreetmap.org/?lat=-33.382245&lon=151.369929
-OUR http://www.openstreetmap.org/?lat=-33.359621&lon=151.370101
-TGG http://www.openstreetmap.org/?lat=-33.307810&lon=151.420097
-WYG http://www.openstreetmap.org/?lat=-33.285607&lon=151.425247
-WNV http://www.openstreetmap.org/?lat=-33.247499&lon=151.448765
+WoyWoy +WOY http://www.openstreetmap.org/?lat=-33.485952&lon=151.323066
+Koo +KWG http://www.openstreetmap.org/?lat=-33.466434&lon=151.318560
+Tas +TSC http://www.openstreetmap.org/?lat=-33.450896&lon=151.318645
+PoiCla +PCL http://www.openstreetmap.org/?lat=-33.446169&lon=151.328495
+Gos http://www.openstreetmap.org/?lat=-33.423374&lon=151.341755
+Nar +NRR http://www.openstreetmap.org/?lat=-33.394750&lon=151.344438
+NiaPark +NIA http://www.openstreetmap.org/?lat=-33.383123&lon=151.354501
+Lis +LRW http://www.openstreetmap.org/?lat=-33.382245&lon=151.369929
+Our http://www.openstreetmap.org/?lat=-33.359621&lon=151.370101
+Tug +TGG http://www.openstreetmap.org/?lat=-33.307810&lon=151.420097
+Wyo +WYG http://www.openstreetmap.org/?lat=-33.285607&lon=151.425247
+War +WNV http://www.openstreetmap.org/?lat=-33.247499&lon=151.448765
 +X737164 http://www.openstreetmap.org/?lat=-33.210237&lon=151.486831
-WYE http://www.openstreetmap.org/?lat=-33.180107&lon=151.487088
+Wyee +WYE http://www.openstreetmap.org/?lat=-33.180107&lon=151.487088
 +X611213 http://www.openstreetmap.org/?lat=-33.136635&lon=151.478891
-MOI http://www.openstreetmap.org/?lat=-33.109139&lon=151.487861
+Mor +MOI http://www.openstreetmap.org/?lat=-33.109139&lon=151.487861
 +X192922 http://www.openstreetmap.org/?lat=-33.103783&lon=151.500821
-DRK http://www.openstreetmap.org/?lat=-33.083712&lon=151.500907
+DoraCre +DRK http://www.openstreetmap.org/?lat=-33.083712&lon=151.500907
 +X871111 http://www.openstreetmap.org/?lat=-33.043223&lon=151.521378
 +X698332 http://www.openstreetmap.org/?lat=-33.025864&lon=151.517644
-AWB http://www.openstreetmap.org/?lat=-33.012856&lon=151.541677
-FSN http://www.openstreetmap.org/?lat=-32.985538&lon=151.581030
+Awa +AWB http://www.openstreetmap.org/?lat=-33.012856&lon=151.541677
+Fas +FSN http://www.openstreetmap.org/?lat=-32.985538&lon=151.581030
 +X418003 http://www.openstreetmap.org/?lat=-32.977060&lon=151.585107
-BGL http://www.openstreetmap.org/?lat=-32.971678&lon=151.605020
-TBR http://www.openstreetmap.org/?lat=-32.962352&lon=151.603732
-CCK http://www.openstreetmap.org/?lat=-32.942762&lon=151.623774
-CDF http://www.openstreetmap.org/?lat=-32.941646&lon=151.662869
-KRZ http://www.openstreetmap.org/?lat=-32.941394&lon=151.698532
-ADT http://www.openstreetmap.org/?lat=-32.933794&lon=151.719990
-BMD http://www.openstreetmap.org/?lat=-32.923168&lon=151.734409
-+X104564 http://www.openstreetmap.org/?lat=-32.917188&lon=151.742477
-+X986340 http://www.openstreetmap.org/?lat=-32.916864&lon=151.746640
-HAM http://www.openstreetmap.org/?lat=-32.918629&lon=151.748743
-NEW http://www.openstreetmap.org/?lat=-32.924186&lon=151.759386
+Boo +BGL http://www.openstreetmap.org/?lat=-32.971678&lon=151.605020
+Ter +TBR http://www.openstreetmap.org/?lat=-32.962352&lon=151.603732
+CocCre +CCK http://www.openstreetmap.org/?lat=-32.942762&lon=151.623774
+Car +CDF http://www.openstreetmap.org/?lat=-32.941646&lon=151.662869
+Kot +KRZ http://www.openstreetmap.org/?lat=-32.941394&lon=151.698532
+Ada +ADT http://www.openstreetmap.org/?lat=-32.933794&lon=151.719990
+Bro +BMD http://www.openstreetmap.org/?lat=-32.923168&lon=151.734409
+DIV_Hun http://www.openstreetmap.org/?lat=-32.915594&lon=151.744516
+Ham http://www.openstreetmap.org/?lat=-32.918629&lon=151.748743
+NewInt +NEW http://www.openstreetmap.org/?lat=-32.924186&lon=151.759386

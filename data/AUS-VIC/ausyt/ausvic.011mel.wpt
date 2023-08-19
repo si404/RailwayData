@@ -3,7 +3,7 @@ ColLan http://www.openstreetmap.org/?lat=-37.821468&lon=144.945352
 HarEsp http://www.openstreetmap.org/?lat=-37.821014&lon=144.947433
 BatHill http://www.openstreetmap.org/?lat=-37.820188&lon=144.950373
 SouCroSta http://www.openstreetmap.org/?lat=-37.818311&lon=144.952326
-+X693908 http://www.openstreetmap.org/?lat=-37.819029&lon=144.954284
+DIV_12 http://www.openstreetmap.org/?lat=-37.819069&lon=144.954166
 SpeSt http://www.openstreetmap.org/?lat=-37.818811&lon=144.955083
 WilSt http://www.openstreetmap.org/?lat=-37.817654&lon=144.959117
 EliSt http://www.openstreetmap.org/?lat=-37.816204&lon=144.964063
@@ -13,9 +13,9 @@ SprSt http://www.openstreetmap.org/?lat=-37.813484&lon=144.973419
 +X906263 http://www.openstreetmap.org/?lat=-37.813407&lon=144.973698
 ParSt http://www.openstreetmap.org/?lat=-37.812371&lon=144.974368
 AlbSt http://www.openstreetmap.org/?lat=-37.809583&lon=144.975634
-+X883126 http://www.openstreetmap.org/?lat=-37.808226&lon=144.975908
+DIV_30W http://www.openstreetmap.org/?lat=-37.808226&lon=144.975908
 StVinPla http://www.openstreetmap.org/?lat=-37.808265&lon=144.976332
-+X387606 http://www.openstreetmap.org/?lat=-37.808298&lon=144.976637
+DIV_12/30 http://www.openstreetmap.org/?lat=-37.808298&lon=144.976637
 GerSt http://www.openstreetmap.org/?lat=-37.805755&lon=144.977211
 HanSt http://www.openstreetmap.org/?lat=-37.802784&lon=144.977721
 StDavSt http://www.openstreetmap.org/?lat=-37.800489&lon=144.978096

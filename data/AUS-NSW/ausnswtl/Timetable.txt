@@ -1,0 +1,58 @@
+WESTERN NSW
+
+1tpw	Broken Hill - all stations - Orange - Blayney - Bathurst - Lithgow - Katoomba - Penrith - Paramatta - Strathfield - Central
+
+1tpd	Dubbo - all stations - Lithgow - Katoomba - Penrith - Blacktown - Paramatta - Strathfield - Central
+1tpd	Lithgow - Katoomba - Penrith - Blacktown - Paramatta - Strathfield - Central
+
+BMT	Blue Mountains
+1tp2h	Lithgow - all stops - Penrith - Blacktown - Parramatta - Stratfield - Central
+supplimented by short turns from various places in the opposite hour
+
+----
+NORTH COAST NSW
+
+1tpd	Grafton - all stops - Dungog - Maitland - Broadmeadow - Fassifern - Wyong - Gosford - Hornsby - Stratfield - Central
+1tpd	Casino - all stops - Dungog - Maitland - Broadmeadow - Fassifern - Wyong - Gosford - Hornsby - Stratfield - Central
+1tpd	Brisbane - Kyogle - Casino - all stations - Urunga - Macksville - Kempsey - all stops - Dungog - Maitland - Broadmeadow - Fassifern - Wyong - Gosford - Hornsby - Stratfield - Central
+
+
+CCN	Central Coast & Newcastle
+1tph	Newcastle - Hamilton - Broadmeadow - Cardiff - Fassifern - Morisset - Wyong - Tuggerah - Gosford - Woy Woy - Hornsby - Epping - Strathfield - Central
+1tph	Newcastle - all stops - Berowra - Hornsby - Epping - Strathfield - Central
+
+some peak short turns and going via Gordon.
+
+----
+NORTH WESTERN NSW
+
+1tpd	Armadale - all stops - Singleton - Maitland - Broadmeadow - Fassifern - Wyong - Gosford - Hornsby - Strathfield - Central
+1tpd	Moree - all stops - Singleton - Maitland - Broadmeadow - Fassifern - Wyong - Gosford - Hornsby - Strathfield - Central
+
+HUN	Hunter
+1tph	Telarah - all stations - Newcastle
+1tph	Telarah - Maitland - Victoria Street - Metford - Thornton - Beresfield - Warabrook - Waratah - Hamilton - Newcastle
+infrequent Scone branch and Dungog trains taking the semi-fast pattern (though running additionally)
+
+----
+
+SCO	South Coast
+1tph	Bomaderry - Kiama
+1tph	Kiama - all stops (except Kembla Grange) - North Wollongong - Thirroul - Helensburg - Sutherland - Hurstville - Wolli Creek - Redfern - Central
+1tph	Port Kembla - all stops - Waterfall
+
+peak service goes to Bondi Junction
+----
+
+SOUTHERN NSW
+
+3tpd	Sydney - Campbelltown - Mittagong - Bowral - Moss Vale - Bundanoon - Goulburn - Tarago - Bungendore - Queanbeyan - Canberra
+1tpd	Sydney - Campbelltown - Moss Vale - Goulburn - Gunning - Yass Junction - Harden - Cootamundra - Junee - Wagga Wagga - The Rock - Henty - Culcairn - Albury - Wangaratta - Benalla - Seymour - Broadmeadows - Melbourne Southern Cross
+2tpw	Sydney - Campbelltown - Mittagong - Bowral - Moss Vale - Bundanoon - Goulburn - Gunning - Yass Junction - Harden - Cootsmundra - Junee - Coolamon - Narrandera - Griffith
+
+SHL	Southern Highlands
+
+1tph	Moss Vale - all stops - Campbelltown
+
+2 peak trains per day: Goulburn - all stops - Moss Vale - Bowral - Mittagong - Tahmoor - Picton - Macarthur - Campbelltown, one of which stops at Glenfield and Central
+2 evening trains per day: Goulburn - all stops - Campbelltown
