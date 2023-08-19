@@ -1,8 +1,9 @@
 NY/NJ http://www.openstreetmap.org/?lat=40.758566&lon=-74.012479
 +X397935 http://www.openstreetmap.org/?lat=40.772596&lon=-74.046650
 SecJct http://www.openstreetmap.org/?lat=40.761317&lon=-74.075789
-DIV_Hob http://www.openstreetmap.org/?lat=40.743615&lon=-74.126816
-DIV_Main http://www.openstreetmap.org/?lat=40.741811&lon=-74.148059
+DIV_Hob/Nwk http://www.openstreetmap.org/?lat=40.743859&lon=-74.125099
++X254785 http://www.openstreetmap.org/?lat=40.742152&lon=-74.154528
++X533231 http://www.openstreetmap.org/?lat=40.747192&lon=-74.163616
 NewBroSt http://www.openstreetmap.org/?lat=40.747533&lon=-74.171920
 DIV_MonBoo http://www.openstreetmap.org/?lat=40.754653&lon=-74.190845
 *GroSt http://www.openstreetmap.org/?lat=40.758241&lon=-74.202513
