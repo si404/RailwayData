@@ -1,22 +1,22 @@
-BowenHills http://www.openstreetmap.org/?lat=-27.445246&lon=153.037587
-FortitudeValley http://www.openstreetmap.org/?lat=-27.455907&lon=153.034004
-Central http://www.openstreetmap.org/?lat=-27.465808&lon=153.025839
+BowHil +BowenHills http://www.openstreetmap.org/?lat=-27.445246&lon=153.037587
+ForVal +FortitudeValley http://www.openstreetmap.org/?lat=-27.455907&lon=153.034004
+Cen +Central http://www.openstreetmap.org/?lat=-27.465808&lon=153.025839
 RomaSt http://www.openstreetmap.org/?lat=-27.465087&lon=153.018833
-+X371227 http://www.openstreetmap.org/?lat=-27.464787&lon=153.017862
-+X156297 http://www.openstreetmap.org/?lat=-27.465972&lon=153.013700
-Milton http://www.openstreetmap.org/?lat=-27.468840&lon=153.005240
-Auchenflower http://www.openstreetmap.org/?lat=-27.476132&lon=152.996914
-Toowong http://www.openstreetmap.org/?lat=-27.484946&lon=152.993331
-Taringa http://www.openstreetmap.org/?lat=-27.493054&lon=152.981937
-Indooroopilly http://www.openstreetmap.org/?lat=-27.502838&lon=152.975950
-Chelmer http://www.openstreetmap.org/?lat=-27.512144&lon=152.972753
-Graceville http://www.openstreetmap.org/?lat=-27.520746&lon=152.975929
-Sherwood http://www.openstreetmap.org/?lat=-27.531236&lon=152.979491
-Corinda http://www.openstreetmap.org/?lat=-27.538899&lon=152.980156
-Oxley http://www.openstreetmap.org/?lat=-27.552045&lon=152.973890
-Darra http://www.openstreetmap.org/?lat=-27.565913&lon=152.952518
-+X229096 http://www.openstreetmap.org/?lat=-27.569128&lon=152.946639
-Richlands http://www.openstreetmap.org/?lat=-27.595830&lon=152.946982
+DIV_Exh http://www.openstreetmap.org/?lat=-27.464787&lon=153.017862
+DIV_GC http://www.openstreetmap.org/?lat=-27.465972&lon=153.013700
+Mil +Milton http://www.openstreetmap.org/?lat=-27.468840&lon=153.005240
+Auc +Auchenflower http://www.openstreetmap.org/?lat=-27.476132&lon=152.996914
+Too +Toowong http://www.openstreetmap.org/?lat=-27.484946&lon=152.993331
+Tar +Taringa http://www.openstreetmap.org/?lat=-27.493054&lon=152.981937
+Ind +Indooroopilly http://www.openstreetmap.org/?lat=-27.502838&lon=152.975950
+Che +Chelmer http://www.openstreetmap.org/?lat=-27.512144&lon=152.972753
+Gra +Graceville http://www.openstreetmap.org/?lat=-27.520746&lon=152.975929
+She +Sherwood http://www.openstreetmap.org/?lat=-27.531236&lon=152.979491
+Cor +Corinda http://www.openstreetmap.org/?lat=-27.538899&lon=152.980156
+Oxl +Oxley http://www.openstreetmap.org/?lat=-27.552045&lon=152.973890
+Dar +Darra http://www.openstreetmap.org/?lat=-27.565913&lon=152.952518
+DIV_Ips http://www.openstreetmap.org/?lat=-27.569128&lon=152.946639
+Ric +Richlands http://www.openstreetmap.org/?lat=-27.595830&lon=152.946982
 +X951997 http://www.openstreetmap.org/?lat=-27.642962&lon=152.936983
-Springfield http://www.openstreetmap.org/?lat=-27.660068&lon=152.921984
-SpringfieldCentral http://www.openstreetmap.org/?lat=-27.674341&lon=152.902629
+Spr +Springfield http://www.openstreetmap.org/?lat=-27.660068&lon=152.921984
+SprCen +SpringfieldCentral http://www.openstreetmap.org/?lat=-27.674341&lon=152.902629

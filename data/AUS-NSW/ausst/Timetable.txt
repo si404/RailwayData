@@ -1,0 +1,42 @@
+T1
+2tph	Berowra - all stops - Redfern - Burwood - Stratfield (and presumably onto Hornsby)
+2tph	Hornsby - all stops - Redfern - Burwood - Stratfield (and presumably onto Hornsby)
+2tph	Lindfield - Chatswood - St Leonards - North Sydney - Milsons Point - Wynyard - Town Hall - Central - Redfern - Strathfield - Parramatta - all stops Richmond
+2tph	Gordon - all stops - Redfern - Strathfield - Lidcombe - Parramatta - Westmead - Seven Hills - Blacktown - all stops - Penrith
+2tph	Gordon - all stops - Redfern - Strathfield - Lidcombe - Parramatta - Westmead - Seven Hills - Blacktown - all stops - Emu Plains
+
+note that the Berowa/Hornsby-Strathfield T1 services are at the same time as the Gordon-Strathfield-Hornsby T9 services
+
+T2
+4tph	Leppington - all stops - Flemington - Stratfield - Burwood - Ashfield - Newtown - Redfern - all stops - Museum
+2tph	Parramatta - all stops - Museum
+2tph	Homebush - all stops - Museum
+
+
+T3
+4tph	Lidcombe - all stops - Museum
+2tph	Liverpool - all stops - Birrong - Bankstown - Lakemba - Campsie - Marrickville - Sydenham - Redfern - all stops - Museum
+
+T4
+2tph	Waterfall - all stops - Sutherland - Mortdale - all stops - Bondi Junction
+2tph	Cronulla - all stops - Rockdale - Wolli Creek - Sydenham - all stops - Bondi Junction
+2tph	Cronulla - all stops - Sutherland - Oatley - Hurstville - Kogarah - Rockdale - Wolli Creek - Sydenham - all stops - Bondi Junction
+
+T5
+2tph	Leppington - Schofields
+
+late night services extend to Richmond
+
+T7
+6tph	Lidcome - Olympic Park
+
+T8
+4tph	Revesby - all stops via Airport - Central - all stops - Town Hall
+4tph	Macarthur - all stops - Revesby - Wolli Creek - all stops - Central - all stops - Town Hall
+
+peak 4tph Campbelltown - all stops but Macquarie Fields - Revesby - Sydenham - St Peters - Redfern - all stops - Town Hall
+
+T9
+4tph	Hornsby - Gordon (and presumably onto Berowa/Hornsby)
+
+note that the Berowa/Hornsby-Strathfield T1 services are at the same time as the Gordon-Hornsby T9 services

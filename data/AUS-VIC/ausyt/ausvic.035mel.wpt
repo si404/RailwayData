@@ -1,7 +1,7 @@
 TheDis http://www.openstreetmap.org/?lat=-37.814456&lon=144.938652
 NewQuayPro http://www.openstreetmap.org/?lat=-37.813545&lon=144.941012
 CenPier_1 http://www.openstreetmap.org/?lat=-37.814473&lon=144.944735
-+X847520_A http://www.openstreetmap.org/?lat=-37.814856&lon=144.944901
+DIV_LpA http://www.openstreetmap.org/?lat=-37.814856&lon=144.944901
 StaPre_N http://www.openstreetmap.org/?lat=-37.814577&lon=144.946618
 SpeSt_N http://www.openstreetmap.org/?lat=-37.813181&lon=144.951446
 KingSt http://www.openstreetmap.org/?lat=-37.812465&lon=144.953919
@@ -12,16 +12,14 @@ SwaSt_N http://www.openstreetmap.org/?lat=-37.809691&lon=144.963881
 RusSt_N http://www.openstreetmap.org/?lat=-37.808858&lon=144.966300
 ExhSt http://www.openstreetmap.org/?lat=-37.808154&lon=144.968762
 VicStLaTroSt http://www.openstreetmap.org/?lat=-37.807601&lon=144.970656
-+X390638 http://www.openstreetmap.org/?lat=-37.807887&lon=144.972850
-+X879027 http://www.openstreetmap.org/?lat=-37.808120&lon=144.973167
+DIV_30/86 http://www.openstreetmap.org/?lat=-37.807919&lon=144.973188
 ParSta http://www.openstreetmap.org/?lat=-37.809712&lon=144.972316
-+X985536 http://www.openstreetmap.org/?lat=-37.811211&lon=144.972998
+DIV_86 http://www.openstreetmap.org/?lat=-37.811211&lon=144.972998
 BouSt http://www.openstreetmap.org/?lat=-37.811642&lon=144.973188
-+X645587 http://www.openstreetmap.org/?lat=-37.813512&lon=144.974049
-+X269537 http://www.openstreetmap.org/?lat=-37.815121&lon=144.974797
-+X175766 http://www.openstreetmap.org/?lat=-37.815346&lon=144.974685
+DIV_48 http://www.openstreetmap.org/?lat=-37.813512&lon=144.974049
+DIV_35/75 +35 +75 http://www.openstreetmap.org/?lat=-37.815253&lon=144.974856
 SprSt http://www.openstreetmap.org/?lat=-37.815457&lon=144.974309
-+X957745 http://www.openstreetmap.org/?lat=-37.816067&lon=144.972233
+DIV_70 http://www.openstreetmap.org/?lat=-37.816067&lon=144.972233
 RusSt_S http://www.openstreetmap.org/?lat=-37.816512&lon=144.970779
 SwaSt_S http://www.openstreetmap.org/?lat=-37.817505&lon=144.967475
 FliStSta http://www.openstreetmap.org/?lat=-37.818427&lon=144.965914
@@ -32,5 +30,5 @@ FliStW http://www.openstreetmap.org/?lat=-37.821576&lon=144.953463
 GooShed http://www.openstreetmap.org/?lat=-37.821910&lon=144.951054
 DocPk http://www.openstreetmap.org/?lat=-37.821014&lon=144.947433
 StaPre_W http://www.openstreetmap.org/?lat=-37.817643&lon=144.946098
-+X847520_B http://www.openstreetmap.org/?lat=-37.814856&lon=144.944901
+DIV_Lp2 http://www.openstreetmap.org/?lat=-37.814856&lon=144.944901
 CenPier_2 http://www.openstreetmap.org/?lat=-37.814473&lon=144.944735

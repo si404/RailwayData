@@ -1,17 +1,15 @@
-Adelaide http://www.openstreetmap.org/?lat=-34.920959&lon=138.595855
-+X422759 http://www.openstreetmap.org/?lat=-34.919609&lon=138.588281
-+X894566 http://www.openstreetmap.org/?lat=-34.919512&lon=138.584579
+Ade +Adelaide http://www.openstreetmap.org/?lat=-34.920959&lon=138.595855
+DIV_Gaw http://www.openstreetmap.org/?lat=-34.919609&lon=138.588281
 MileEnd http://www.openstreetmap.org/?lat=-34.925094&lon=138.580234
-AdelaideShowground http://www.openstreetmap.org/?lat=-34.944110&lon=138.583345
-Goodwood http://www.openstreetmap.org/?lat=-34.951836&lon=138.585051
-+X656044 http://www.openstreetmap.org/?lat=-34.953374&lon=138.585845
+AdeSho +AdelaideShowground http://www.openstreetmap.org/?lat=-34.944110&lon=138.583345
+Goo +Goodwood http://www.openstreetmap.org/?lat=-34.951836&lon=138.585051
+DIV_Bel http://www.openstreetmap.org/?lat=-34.953374&lon=138.585845
 +X453213 http://www.openstreetmap.org/?lat=-34.954097&lon=138.586352
-+X395271 http://www.openstreetmap.org/?lat=-34.956949&lon=138.586028
-ClarencePk http://www.openstreetmap.org/?lat=-34.961455&lon=138.580395
-Emerson http://www.openstreetmap.org/?lat=-34.966568&lon=138.573840
-Edwardstown http://www.openstreetmap.org/?lat=-34.972160&lon=138.571243
-WoodlandsPk http://www.openstreetmap.org/?lat=-34.982940&lon=138.567188
-+X785369 http://www.openstreetmap.org/?lat=-34.990112&lon=138.562000
-MitchellPk http://www.openstreetmap.org/?lat=-35.002081&lon=138.566780
-Tonsley http://www.openstreetmap.org/?lat=-35.009234&lon=138.567274
-Flinders http://www.openstreetmap.org/?lat=-35.018988&lon=138.569248
+ClaPark +ClarencePk http://www.openstreetmap.org/?lat=-34.961455&lon=138.580395
+Eme +Emerson http://www.openstreetmap.org/?lat=-34.966568&lon=138.573840
+Edw +Edwardstown http://www.openstreetmap.org/?lat=-34.972160&lon=138.571243
+WooPark +WoodlandsPk http://www.openstreetmap.org/?lat=-34.982940&lon=138.567188
+DIV_Sea http://www.openstreetmap.org/?lat=-34.990112&lon=138.562000
+MitPark +MitchellPk http://www.openstreetmap.org/?lat=-35.002081&lon=138.566780
+Ton +Tonsley http://www.openstreetmap.org/?lat=-35.009234&lon=138.567274
+Fli +Flinders http://www.openstreetmap.org/?lat=-35.018988&lon=138.569248

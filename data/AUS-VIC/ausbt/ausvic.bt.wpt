@@ -1,5 +1,5 @@
 CenDebMine http://www.openstreetmap.org/?lat=-36.765176&lon=144.269907
-CharingCross http://www.openstreetmap.org/?lat=-36.759409&lon=144.278812
-LakeWeeroona http://www.openstreetmap.org/?lat=-36.748939&lon=144.289552
-TysonsReef http://www.openstreetmap.org/?lat=-36.745809&lon=144.288898
-JossHouse http://www.openstreetmap.org/?lat=-36.740694&lon=144.291108
+ChaCro +CharingCross http://www.openstreetmap.org/?lat=-36.759409&lon=144.278812
+LakeWee +LakeWeeroona http://www.openstreetmap.org/?lat=-36.748939&lon=144.289552
+TysReef +TysonsReef http://www.openstreetmap.org/?lat=-36.745809&lon=144.288898
+JossHou +JossHouse http://www.openstreetmap.org/?lat=-36.740694&lon=144.291108

@@ -1,31 +1,31 @@
 RomaSt http://www.openstreetmap.org/?lat=-27.465087&lon=153.018833
-Central http://www.openstreetmap.org/?lat=-27.465808&lon=153.025839
-FortitudeValley http://www.openstreetmap.org/?lat=-27.455907&lon=153.034004
-BowenHills http://www.openstreetmap.org/?lat=-27.445246&lon=153.037587
-+X179407 http://www.openstreetmap.org/?lat=-27.442466&lon=153.037657
-+Albion http://www.openstreetmap.org/?lat=-27.429233&lon=153.040302
-+Wooloowin http://www.openstreetmap.org/?lat=-27.419995&lon=153.043478
-EagleJct http://www.openstreetmap.org/?lat=-27.415386&lon=153.049529
-+X832448 http://www.openstreetmap.org/?lat=-27.415567&lon=153.051653
-+X511463 http://www.openstreetmap.org/?lat=-27.411033&lon=153.056288
-+Toombul http://www.openstreetmap.org/?lat=-27.407728&lon=153.058841
-+Nundah http://www.openstreetmap.org/?lat=-27.400909&lon=153.062038
-Northgate http://www.openstreetmap.org/?lat=-27.392850&lon=153.069227
-+X568119 http://www.openstreetmap.org/?lat=-27.391745&lon=153.069420
-Virginia http://www.openstreetmap.org/?lat=-27.382219&lon=153.062468
-Sunshine http://www.openstreetmap.org/?lat=-27.375721&lon=153.056266
-Geebung http://www.openstreetmap.org/?lat=-27.368742&lon=153.047254
-Zillmere http://www.openstreetmap.org/?lat=-27.358757&lon=153.036772
-Carseldine http://www.openstreetmap.org/?lat=-27.347012&lon=153.028865
-BaldHills http://www.openstreetmap.org/?lat=-27.320897&lon=153.011098
-Strathpine http://www.openstreetmap.org/?lat=-27.311365&lon=152.989683
+Cen +Central http://www.openstreetmap.org/?lat=-27.465808&lon=153.025839
+ForVal +FortitudeValley http://www.openstreetmap.org/?lat=-27.455907&lon=153.034004
+BowHil +BowenHills http://www.openstreetmap.org/?lat=-27.445246&lon=153.037587
+DIV_FG http://www.openstreetmap.org/?lat=-27.443597&lon=153.037174
+Alb +Albion http://www.openstreetmap.org/?lat=-27.429233&lon=153.040302
+Woo +Wooloowin http://www.openstreetmap.org/?lat=-27.419995&lon=153.043478
+EagJct +EagleJct http://www.openstreetmap.org/?lat=-27.415386&lon=153.049529
+DIV_Doo http://www.openstreetmap.org/?lat=-27.415567&lon=153.051653
+DIV_Air http://www.openstreetmap.org/?lat=-27.411033&lon=153.056288
+SKIP_Too http://www.openstreetmap.org/?lat=-27.407728&lon=153.058841
+SKIP_Nun http://www.openstreetmap.org/?lat=-27.400909&lon=153.062038
+Nor +Northgate http://www.openstreetmap.org/?lat=-27.392850&lon=153.069227
+DIV_Sho http://www.openstreetmap.org/?lat=-27.391745&lon=153.069420
+Vir +Virginia http://www.openstreetmap.org/?lat=-27.382219&lon=153.062468
+Sun +Sunshine http://www.openstreetmap.org/?lat=-27.375721&lon=153.056266
+Gee +Geebung http://www.openstreetmap.org/?lat=-27.368742&lon=153.047254
+Zil +Zillmere http://www.openstreetmap.org/?lat=-27.358757&lon=153.036772
+Car +Carseldine http://www.openstreetmap.org/?lat=-27.347012&lon=153.028865
+BaldHil +BaldHills http://www.openstreetmap.org/?lat=-27.320897&lon=153.011098
+Str +Strathpine http://www.openstreetmap.org/?lat=-27.311365&lon=152.989683
 BrayPark http://www.openstreetmap.org/?lat=-27.299124&lon=152.986035
-Lawnton http://www.openstreetmap.org/?lat=-27.281694&lon=152.980886
-Petrie http://www.openstreetmap.org/?lat=-27.268458&lon=152.982001
-+X303041 http://www.openstreetmap.org/?lat=-27.265750&lon=152.983289
-Kallangur http://www.openstreetmap.org/?lat=-27.256594&lon=152.999682
-MurrumbaDowns http://www.openstreetmap.org/?lat=-27.252245&lon=153.011913
-MangoHill http://www.openstreetmap.org/?lat=-27.246408&lon=153.027620
-MangoHillE http://www.openstreetmap.org/?lat=-27.233244&lon=153.036160
-Rothwell http://www.openstreetmap.org/?lat=-27.223895&lon=153.048391
-KippaRing http://www.openstreetmap.org/?lat=-27.225488&lon=153.081715
+Law +Lawnton http://www.openstreetmap.org/?lat=-27.281694&lon=152.980886
+Pet +Petrie http://www.openstreetmap.org/?lat=-27.268458&lon=152.982001
+DIV_Nor http://www.openstreetmap.org/?lat=-27.265750&lon=152.983289
+Kal +Kallangur http://www.openstreetmap.org/?lat=-27.256594&lon=152.999682
+MurDow +MurrumbaDowns http://www.openstreetmap.org/?lat=-27.252245&lon=153.011913
+ManHill +MangoHill http://www.openstreetmap.org/?lat=-27.246408&lon=153.027620
+ManHillEast +MangoHillE http://www.openstreetmap.org/?lat=-27.233244&lon=153.036160
+Rot +Rothwell http://www.openstreetmap.org/?lat=-27.223895&lon=153.048391
+KipRing +KippaRing http://www.openstreetmap.org/?lat=-27.225488&lon=153.081715

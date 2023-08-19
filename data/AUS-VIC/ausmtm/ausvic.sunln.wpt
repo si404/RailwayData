@@ -1,35 +1,32 @@
-SSS http://www.openstreetmap.org/?lat=-37.818311&lon=144.952326
+SouCro +SSS http://www.openstreetmap.org/?lat=-37.818311&lon=144.952326
 +X834955 http://www.openstreetmap.org/?lat=-37.821294&lon=144.954922
-FSS http://www.openstreetmap.org/?lat=-37.818427&lon=144.965914
-+X884139 http://www.openstreetmap.org/?lat=-37.816861&lon=144.971809
-+X380289 http://www.openstreetmap.org/?lat=-37.814501&lon=144.974492
-PAR http://www.openstreetmap.org/?lat=-37.809712&lon=144.972316
-MCE http://www.openstreetmap.org/?lat=-37.809996&lon=144.962572
-FGS http://www.openstreetmap.org/?lat=-37.811721&lon=144.956424
-+X115535 http://www.openstreetmap.org/?lat=-37.813213&lon=144.951360
-+X696523 http://www.openstreetmap.org/?lat=-37.810504&lon=144.944639
-+X669937 http://www.openstreetmap.org/?lat=-37.808873&lon=144.943260
-NME http://www.openstreetmap.org/?lat=-37.807165&lon=144.941865
-+X875709 http://www.openstreetmap.org/?lat=-37.805787&lon=144.940792
-+X900032 http://www.openstreetmap.org/?lat=-37.803914&lon=144.938936
-+X810416 http://www.openstreetmap.org/?lat=-37.801748&lon=144.934934
-+X530267 http://www.openstreetmap.org/?lat=-37.796971&lon=144.844565
-SKN http://www.openstreetmap.org/?lat=-37.799557&lon=144.924881
+FliSt +FSS http://www.openstreetmap.org/?lat=-37.818427&lon=144.965914
+DIV_LpE http://www.openstreetmap.org/?lat=-37.816412&lon=144.974792
+Par http://www.openstreetmap.org/?lat=-37.809712&lon=144.972316
+MelCen +MCE http://www.openstreetmap.org/?lat=-37.809996&lon=144.962572
+Fla +FGS http://www.openstreetmap.org/?lat=-37.811721&lon=144.956424
+DIV_LpW http://www.openstreetmap.org/?lat=-37.814081&lon=144.949429
+DIV_Syd1 http://www.openstreetmap.org/?lat=-37.808873&lon=144.943260
+NorMel +NME http://www.openstreetmap.org/?lat=-37.807165&lon=144.941865
+DIV_FR http://www.openstreetmap.org/?lat=-37.805787&lon=144.940792
+DIV_Upf http://www.openstreetmap.org/?lat=-37.803914&lon=144.938936
+DIV_Cra http://www.openstreetmap.org/?lat=-37.801748&lon=144.934934
+SouKen +SKN http://www.openstreetmap.org/?lat=-37.799557&lon=144.924881
 FSY http://www.openstreetmap.org/?lat=-37.801481&lon=144.902426
-+X804810 http://www.openstreetmap.org/?lat=-37.802435&lon=144.899561
-MFY http://www.openstreetmap.org/?lat=-37.802532&lon=144.891397
-WFY http://www.openstreetmap.org/?lat=-37.801727&lon=144.883876
-TOT http://www.openstreetmap.org/?lat=-37.799264&lon=144.863212
+DIV_SG http://www.openstreetmap.org/?lat=-37.802435&lon=144.899561
+MidFoo +MFY http://www.openstreetmap.org/?lat=-37.802532&lon=144.891397
+WestFoo +WFY http://www.openstreetmap.org/?lat=-37.801727&lon=144.883876
+Tot http://www.openstreetmap.org/?lat=-37.799264&lon=144.863212
 +X912354 http://www.openstreetmap.org/?lat=-37.797683&lon=144.848320
 +X530267 http://www.openstreetmap.org/?lat=-37.796971&lon=144.844565
-SUN http://www.openstreetmap.org/?lat=-37.788628&lon=144.832968
-+X468938 http://www.openstreetmap.org/?lat=-37.786661&lon=144.831401
-ALB http://www.openstreetmap.org/?lat=-37.777249&lon=144.824395
-+X676057 http://www.openstreetmap.org/?lat=-37.775324&lon=144.823054
-GIN http://www.openstreetmap.org/?lat=-37.759973&lon=144.811263
-SAB http://www.openstreetmap.org/?lat=-37.744704&lon=144.799740
-KPL http://www.openstreetmap.org/?lat=-37.729576&lon=144.793818
-WGS http://www.openstreetmap.org/?lat=-37.700779&lon=144.773819
-DRT http://www.openstreetmap.org/?lat=-37.627637&lon=144.720004
+Sun http://www.openstreetmap.org/?lat=-37.788628&lon=144.832968
+DIV_Ara http://www.openstreetmap.org/?lat=-37.786661&lon=144.831401
+Alb http://www.openstreetmap.org/?lat=-37.777249&lon=144.824395
+DIV_Syd2 http://www.openstreetmap.org/?lat=-37.775324&lon=144.823054
+Gin http://www.openstreetmap.org/?lat=-37.759973&lon=144.811263
+StAlb +SAB http://www.openstreetmap.org/?lat=-37.744704&lon=144.799740
+KeiPla +KPL http://www.openstreetmap.org/?lat=-37.729576&lon=144.793818
+Wat +WGS http://www.openstreetmap.org/?lat=-37.700779&lon=144.773819
+DigRest +DRT http://www.openstreetmap.org/?lat=-37.627637&lon=144.720004
 +X661495 http://www.openstreetmap.org/?lat=-37.594440&lon=144.718437
-SUY http://www.openstreetmap.org/?lat=-37.579247&lon=144.727921
+Sun +SUY http://www.openstreetmap.org/?lat=-37.579247&lon=144.727921
