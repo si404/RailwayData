@@ -5,12 +5,12 @@ gbngw;WLS;SWalML;;;South Wales Main Line;wls.swalml;
 gbngw;ENG;DevML;;;Devon Main Line;eng.devml;
 gbngw;ENG;CotLn;;;Cotswolds Line;eng.cotln;
 gbngw;ENG;OxfLn;;;Oxford Line;eng.oxfln;
-gbngw;ENG;BerHanLn;;;Berks & Hants Line;eng.berhanln;KenVlyLn,NewLn
+gbngw;ENG;BerHanLn;;;Berks & Hants Line;eng.berhanln;
 gbngw;ENG;GolVlyLn;;;Golden Valley Line;eng.golvlyln;
 gbngw;WLS;CorML;;;Cornish Main Line;wls.corml;
 gbngw;ENG;CorML;;;Cornish Main Line;eng.corml;
 gbngw;WLS;WesML;;;Wessex Mainline;wls.wesml;
-gbngw;ENG;WesML;;;Wessex Mainline;eng.wesml;AvonVlyLn,FilLn
+gbngw;ENG;WesML;;;Wessex Mainline;eng.wesml;AvonVlyLn
 gbngw;ENG;ThaVlyLn;;;Thames Valley Line;eng.thavlyln;
 gbngw;ENG;GreBra;;;Greenford Branch;eng.grebra;
 gbngw;ENG;WinBra;;;Windsor Branch;eng.winbra;
@@ -22,7 +22,7 @@ gbngw;ENG;OxCanLn;;;Oxford Canal Line;eng.oxfcanln;
 gbngw;ENG;TraWilLn;;;Trans-Wilts Line;eng.trawilln;
 gbngw;ENG;SevVlyLn;;;Severn Valley Line;eng.sevvlyln;
 gbngw;ENG;HeaWesLn;;;Heart of Wessex Line;eng.heawesln;
-gbngw;ENG;SevBeaLn;;;Severn Beach Line;eng.sevbealn;SevLn
+gbngw;ENG;SevBeaLn;;;Severn Beach Line;eng.sevbealn;
 gbngw;ENG;AvoLn;;;Avocet Line;eng.avoln;
 gbngw;ENG;TarLn;;;Tarka Line;eng.tarln;
 gbngw;ENG;DarLn;;;Dartmoor Line;eng.darln;

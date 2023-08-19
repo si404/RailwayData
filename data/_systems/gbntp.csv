@@ -6,7 +6,7 @@ gbntp;SCT;TPASRte;;Gla;TransPennine Anglo-Scottish Route (Manchester - Glasgow);
 gbntp;ENG;TPNRte;;;TransPennine North Route (Liverpool - Edinburgh);eng.tpnrte;
 gbntp;SCT;TPNRte;;;TransPennine North Route (Liverpool - Edinburgh);sct.tpnrte;
 gbntp;ENG;TPNRte;;Hul;TransPennine North Route (Liverpool - Hull);eng.tpnrtehul;
-gbntp;ENG;TPNRte;;Tee;TransPennine North Route (Manchester - Saltburn);eng.tpnrtetee;TPNRteAir
+gbntp;ENG;TPNRte;;Tee;TransPennine North Route (Manchester - Saltburn);eng.tpnrtetee;
 gbntp;ENG;TPNRte;;Sca;TransPennine North Route (Manchester - Scarborough);eng.tpnrtesca;
 gbntp;ENG;TPNRte;;Pic;TransPennine North Route (Manchester - Newcastle);eng.tpnrtepic;
 gbntp;ENG;TPSRte;;;TransPennine South Route;eng.tpsrte;

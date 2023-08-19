@@ -52,7 +52,7 @@ DIV_Cry http://www.openstreetmap.org/?lat=51.404580&lon=-0.070488
 SKIP_NorJct http://www.openstreetmap.org/?lat=51.397218&lon=-0.074673
 DIV_Wal http://www.openstreetmap.org/?lat=51.389157&lon=-0.081646
 DIV_Vic http://www.openstreetmap.org/?lat=51.384946&lon=-0.087483
-EastCro +ECR http://www.openstreetmap.org/?lat=51.375993&lon=-0.092697
+EastCro http://www.openstreetmap.org/?lat=51.375993&lon=-0.092697
 SKIP_SouCro http://www.openstreetmap.org/?lat=51.362878&lon=-0.093319
 DIV_Oxt http://www.openstreetmap.org/?lat=51.361204&lon=-0.093405
 SKIP_PurOak http://www.openstreetmap.org/?lat=51.347026&lon=-0.098770
@@ -82,4 +82,4 @@ Has http://www.openstreetmap.org/?lat=50.924740&lon=-0.145741
 PrePark http://www.openstreetmap.org/?lat=50.845900&lon=-0.155311
 DIV_WCW http://www.openstreetmap.org/?lat=50.841578&lon=-0.153251
 DIV_ECW http://www.openstreetmap.org/?lat=50.833122&lon=-0.142736
-Bri +BTN http://www.openstreetmap.org/?lat=50.829327&lon=-0.140977
+Bri http://www.openstreetmap.org/?lat=50.829327&lon=-0.140977
