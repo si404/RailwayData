@@ -4,8 +4,8 @@ usanjtr;BerCouLn;;Bergen County Line;nj.bercouln,ny.bercouln
 usanjtr;GlaBra;;Gladstone Branch;nj.glabra
 usanjtr;MainLn;;Main Line;nj.mainln,ny.mainln
 usanjtr;MeaRailLn;;Meadowlands Rail Line;nj.mearailln
-usanjtr;MonBooLn;;Montclair-Boontown Line;nj.monbooln
-usanjtr;MorLn;;Morristown Line;nj.morln
+usanjtr;MonBooLn;;Montclair-Boontown Line;ny.monbooln,nj.monbooln
+usanjtr;MorEssLn;;Morris and Essex Line;ny.moressln,nj.moressln
 usanjtr;NECorLn;;Northeast Corridor Line;ny.necorln,nj.necorln
 usanjtr;NECorLn;;Northeast Corridor Line (Princeton Branch);nj.necorlnpri
 usanjtr;NJerCoaLn;;North Jersey Coast Line;ny.njercoaln,nj.njercoaln
