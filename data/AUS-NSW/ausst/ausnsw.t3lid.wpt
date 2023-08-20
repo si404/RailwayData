@@ -1,7 +1,39 @@
-BIO http://www.openstreetmap.org/?lat=-33.893315&lon=151.024075
-+X232142 http://www.openstreetmap.org/?lat=-33.888595&lon=151.022058
-+X963591 http://www.openstreetmap.org/?lat=-33.885068&lon=151.022100
-RGP http://www.openstreetmap.org/?lat=-33.882842&lon=151.024289
-BEJ http://www.openstreetmap.org/?lat=-33.871939&lon=151.032314
-+X989992 http://www.openstreetmap.org/?lat=-33.863079&lon=151.043526
-LDC http://www.openstreetmap.org/?lat=-33.863837&lon=151.045232
+Cen_1 http://www.openstreetmap.org/?lat=-33.882922&lon=151.207216
+DIV_LpA http://www.openstreetmap.org/?lat=-33.879559&lon=151.208847
+Mus http://www.openstreetmap.org/?lat=-33.876032&lon=151.210016
+StJam http://www.openstreetmap.org/?lat=-33.870883&lon=151.211872
++X734055 http://www.openstreetmap.org/?lat=-33.862999&lon=151.214919
+CirQuay http://www.openstreetmap.org/?lat=-33.861369&lon=151.210660
+DIV_19 http://www.openstreetmap.org/?lat=-33.863264&lon=151.205370
+Wyn http://www.openstreetmap.org/?lat=-33.865975&lon=151.205821
+TownHall http://www.openstreetmap.org/?lat=-33.873689&lon=151.206894
++X189676 http://www.openstreetmap.org/?lat=-33.878125&lon=151.208675
+DIV_LpB http://www.openstreetmap.org/?lat=-33.879559&lon=151.208847
+Cen_2 http://www.openstreetmap.org/?lat=-33.882922&lon=151.207216
+DIV_8 http://www.openstreetmap.org/?lat=-33.886257&lon=151.204802
+DIV_Main http://www.openstreetmap.org/?lat=-33.888079&lon=151.202366
+Red http://www.openstreetmap.org/?lat=-33.892313&lon=151.198128
+DIV_12E http://www.openstreetmap.org/?lat=-33.895600&lon=151.189696
+DIV_4N http://www.openstreetmap.org/?lat=-33.899507&lon=151.185806
+Ers http://www.openstreetmap.org/?lat=-33.900992&lon=151.185265
+StPet http://www.openstreetmap.org/?lat=-33.907314&lon=151.180651
+DIV_SM http://www.openstreetmap.org/?lat=-33.911495&lon=151.170888
+Syd http://www.openstreetmap.org/?lat=-33.914735&lon=151.166081
+DIV_4S http://www.openstreetmap.org/?lat=-33.915773&lon=151.164440
+Mar http://www.openstreetmap.org/?lat=-33.913970&lon=151.153507
+DulHIll http://www.openstreetmap.org/?lat=-33.910945&lon=151.140885
+HurPark http://www.openstreetmap.org/?lat=-33.910555&lon=151.131706
+Can http://www.openstreetmap.org/?lat=-33.911980&lon=151.118660
+Cam http://www.openstreetmap.org/?lat=-33.910502&lon=151.102588
+Bel http://www.openstreetmap.org/?lat=-33.917162&lon=151.088769
+Lak http://www.openstreetmap.org/?lat=-33.920162&lon=151.075916
+WilPark http://www.openstreetmap.org/?lat=-33.922962&lon=151.067322
+Pun http://www.openstreetmap.org/?lat=-33.925326&lon=151.055746
+Ban http://www.openstreetmap.org/?lat=-33.917856&lon=151.034632
+Yag http://www.openstreetmap.org/?lat=-33.906744&lon=151.024268
+Bir +BIO http://www.openstreetmap.org/?lat=-33.893315&lon=151.024075
+DIV_Liv http://www.openstreetmap.org/?lat=-33.886573&lon=151.020083
+RegPark +RGP http://www.openstreetmap.org/?lat=-33.882842&lon=151.024289
+Ber +BEJ http://www.openstreetmap.org/?lat=-33.871939&lon=151.032314
+DIV_12W http://www.openstreetmap.org/?lat=-33.863079&lon=151.043526
+Lid +LDC http://www.openstreetmap.org/?lat=-33.863837&lon=151.045232

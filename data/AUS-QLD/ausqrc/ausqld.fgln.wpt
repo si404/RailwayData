@@ -1,16 +1,16 @@
 RomaSt http://www.openstreetmap.org/?lat=-27.465087&lon=153.018833
-Central http://www.openstreetmap.org/?lat=-27.465808&lon=153.025839
-FortitudeValley http://www.openstreetmap.org/?lat=-27.455907&lon=153.034004
-BowenHills http://www.openstreetmap.org/?lat=-27.445246&lon=153.037587
-+X179407 http://www.openstreetmap.org/?lat=-27.442466&lon=153.037657
-+X494674 http://www.openstreetmap.org/?lat=-27.440493&lon=153.038864
-Windsor http://www.openstreetmap.org/?lat=-27.435313&lon=153.029015
-Wilston http://www.openstreetmap.org/?lat=-27.436289&lon=153.019252
-Newmarket http://www.openstreetmap.org/?lat=-27.432913&lon=153.010626
-Alderley http://www.openstreetmap.org/?lat=-27.423228&lon=153.000841
-Gaythorne http://www.openstreetmap.org/?lat=-27.419124&lon=152.984726
-Mitchelton http://www.openstreetmap.org/?lat=-27.411686&lon=152.975982
-OxfordPk http://www.openstreetmap.org/?lat=-27.404485&lon=152.969073
-Grovely http://www.openstreetmap.org/?lat=-27.404580&lon=152.962507
-Keppara http://www.openstreetmap.org/?lat=-27.409138&lon=152.956789
-FernyGrove http://www.openstreetmap.org/?lat=-27.401585&lon=152.935352
+Cen +Central http://www.openstreetmap.org/?lat=-27.465808&lon=153.025839
+ForVal +FortitudeValley http://www.openstreetmap.org/?lat=-27.455907&lon=153.034004
+BowHil +BowenHills http://www.openstreetmap.org/?lat=-27.445246&lon=153.037587
+DIV_Air http://www.openstreetmap.org/?lat=-27.443597&lon=153.037174
++X929526 http://www.openstreetmap.org/?lat=-27.440512&lon=153.038875
+Win +Windsor http://www.openstreetmap.org/?lat=-27.435313&lon=153.029015
+Wil +Wilston http://www.openstreetmap.org/?lat=-27.436289&lon=153.019252
+New +Newmarket http://www.openstreetmap.org/?lat=-27.432913&lon=153.010626
+Ald +Alderley http://www.openstreetmap.org/?lat=-27.423228&lon=153.000841
+Gay +Gaythorne http://www.openstreetmap.org/?lat=-27.419124&lon=152.984726
+Mit +Mitchelton http://www.openstreetmap.org/?lat=-27.411686&lon=152.975982
+OxfPark +OxfordPk http://www.openstreetmap.org/?lat=-27.404485&lon=152.969073
+Gro +Grovely http://www.openstreetmap.org/?lat=-27.404580&lon=152.962507
+Kep +Keppara http://www.openstreetmap.org/?lat=-27.409138&lon=152.956789
+FerGro +FernyGrove http://www.openstreetmap.org/?lat=-27.401585&lon=152.935352
