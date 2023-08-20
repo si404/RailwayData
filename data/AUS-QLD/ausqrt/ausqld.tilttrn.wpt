@@ -27,18 +27,18 @@ SKIP_Dak http://www.openstreetmap.org/?lat=-27.230497&lon=152.975736
 SKIP_Nar http://www.openstreetmap.org/?lat=-27.202370&lon=152.959857
 SKIP_Bur http://www.openstreetmap.org/?lat=-27.162171&lon=152.957239
 SKIP_Mor http://www.openstreetmap.org/?lat=-27.110230&lon=152.952604
-Cab +Caboolture http://www.openstreetmap.org/?lat=-27.082837&lon=152.953763
+Cab http://www.openstreetmap.org/?lat=-27.082837&lon=152.953763
 SKIP_Eli http://www.openstreetmap.org/?lat=-27.011162&lon=152.945824
 SKIP_Beeb http://www.openstreetmap.org/?lat=-26.959897&lon=152.959213
 SKIP_GlaMou http://www.openstreetmap.org/?lat=-26.899329&lon=152.956295
 +X933153 http://www.openstreetmap.org/?lat=-26.885856&lon=152.949922
 SKIP_Beer http://www.openstreetmap.org/?lat=-26.857064&lon=152.958409
-Lan +Landsborough http://www.openstreetmap.org/?lat=-26.808052&lon=152.966316
+Lan http://www.openstreetmap.org/?lat=-26.808052&lon=152.966316
 SKIP_Moo http://www.openstreetmap.org/?lat=-26.766026&lon=152.963226
 SKIP_Eud http://www.openstreetmap.org/?lat=-26.725881&lon=152.956789
 SKIP_Pal http://www.openstreetmap.org/?lat=-26.688695&lon=152.960737
 SKIP_Wom http://www.openstreetmap.org/?lat=-26.660643&lon=152.962775
-Nam +Nambour http://www.openstreetmap.org/?lat=-26.625636&lon=152.957829
+Nam http://www.openstreetmap.org/?lat=-26.625636&lon=152.957829
 SKIP_Yam http://www.openstreetmap.org/?lat=-26.560888&lon=152.958205
 SKIP_Eum http://www.openstreetmap.org/?lat=-26.480321&lon=152.955029
 +X889157 http://www.openstreetmap.org/?lat=-26.461641&lon=152.962174
@@ -52,7 +52,7 @@ SKIP_Tra http://www.openstreetmap.org/?lat=-26.319777&lon=152.782810
 +X470047 http://www.openstreetmap.org/?lat=-26.314911&lon=152.767231
 +X761037 http://www.openstreetmap.org/?lat=-26.261053&lon=152.738714
 +X426583 http://www.openstreetmap.org/?lat=-26.222176&lon=152.697430
-GymNor +GympieN http://www.openstreetmap.org/?lat=-26.159155&lon=152.682495
+GymNor http://www.openstreetmap.org/?lat=-26.159155&lon=152.682495
 +X915752 http://www.openstreetmap.org/?lat=-26.132053&lon=152.667389
 +X115362 http://www.openstreetmap.org/?lat=-26.073167&lon=152.593231
 +X682697 http://www.openstreetmap.org/?lat=-26.021193&lon=152.561646
@@ -65,11 +65,11 @@ GymNor +GympieN http://www.openstreetmap.org/?lat=-26.159155&lon=152.682495
 +X903892 http://www.openstreetmap.org/?lat=-25.664254&lon=152.606192
 +X239021 http://www.openstreetmap.org/?lat=-25.607224&lon=152.593489
 +X971935 http://www.openstreetmap.org/?lat=-25.529024&lon=152.613873
-MarWest MaryboroughW http://www.openstreetmap.org/?lat=-25.508110&lon=152.636662
+MarWest http://www.openstreetmap.org/?lat=-25.508110&lon=152.636662
 +X882837 http://www.openstreetmap.org/?lat=-25.475861&lon=152.668333
 +X655169 http://www.openstreetmap.org/?lat=-25.405950&lon=152.642412
 +X735192 http://www.openstreetmap.org/?lat=-25.352675&lon=152.604647
-How Howard http://www.openstreetmap.org/?lat=-25.318464&lon=152.564564
+How http://www.openstreetmap.org/?lat=-25.318464&lon=152.564564
 +X580020 http://www.openstreetmap.org/?lat=-25.295264&lon=152.518473
 +X781810 http://www.openstreetmap.org/?lat=-25.268876&lon=152.503366
 +X927836 http://www.openstreetmap.org/?lat=-25.233866&lon=152.453756
@@ -77,7 +77,7 @@ How Howard http://www.openstreetmap.org/?lat=-25.318464&lon=152.564564
 +X686284 http://www.openstreetmap.org/?lat=-25.151073&lon=152.413330
 +X293743 http://www.openstreetmap.org/?lat=-25.000333&lon=152.386551
 +X999104 http://www.openstreetmap.org/?lat=-24.982324&lon=152.375629
-Bun Bundaberg http://www.openstreetmap.org/?lat=-24.868333&lon=152.345181
+Bun http://www.openstreetmap.org/?lat=-24.868333&lon=152.345181
 +X473236 http://www.openstreetmap.org/?lat=-24.744201&lon=152.177382
 +X435103 http://www.openstreetmap.org/?lat=-24.726816&lon=152.119875
 +X808102 http://www.openstreetmap.org/?lat=-24.655130&lon=152.057991
@@ -90,7 +90,7 @@ Bun Bundaberg http://www.openstreetmap.org/?lat=-24.868333&lon=152.345181
 +X629075 http://www.openstreetmap.org/?lat=-24.457268&lon=151.658192
 +X682659 http://www.openstreetmap.org/?lat=-24.407255&lon=151.638107
 +X390328 http://www.openstreetmap.org/?lat=-24.375557&lon=151.590900
-MirVale MiriamVale http://www.openstreetmap.org/?lat=-24.328895&lon=151.563435
+MirVale http://www.openstreetmap.org/?lat=-24.328895&lon=151.563435
 +X714759 http://www.openstreetmap.org/?lat=-24.285325&lon=151.514511
 +X487047 http://www.openstreetmap.org/?lat=-24.221410&lon=151.487989
 +X691441 http://www.openstreetmap.org/?lat=-24.176160&lon=151.482582
@@ -101,14 +101,14 @@ MirVale MiriamVale http://www.openstreetmap.org/?lat=-24.328895&lon=151.563435
 +X113180 http://www.openstreetmap.org/?lat=-24.026161&lon=151.323795
 +X877159 http://www.openstreetmap.org/?lat=-23.968725&lon=151.282425
 +X932522 http://www.openstreetmap.org/?lat=-23.932642&lon=151.289892
-Gla Gladstone http://www.openstreetmap.org/?lat=-23.846288&lon=151.263049
+Gla http://www.openstreetmap.org/?lat=-23.846288&lon=151.263049
 +X251983 http://www.openstreetmap.org/?lat=-23.865706&lon=151.226807
 +X546384 http://www.openstreetmap.org/?lat=-23.872064&lon=151.184235
 +X558234 http://www.openstreetmap.org/?lat=-23.841293&lon=151.149130
 +X577267 http://www.openstreetmap.org/?lat=-23.847887&lon=151.103897
 +X420072 http://www.openstreetmap.org/?lat=-23.834306&lon=151.071711
 +X948375 http://www.openstreetmap.org/?lat=-23.837367&lon=151.041498
-MouLar MountLarcom http://www.openstreetmap.org/?lat=-23.807825&lon=150.978627
+MouLar http://www.openstreetmap.org/?lat=-23.807825&lon=150.978627
 +X123780 http://www.openstreetmap.org/?lat=-23.765983&lon=150.897045
 +X216093 http://www.openstreetmap.org/?lat=-23.751922&lon=150.855503
 +X581450 http://www.openstreetmap.org/?lat=-23.703716&lon=150.805378
@@ -117,4 +117,4 @@ MouLar MountLarcom http://www.openstreetmap.org/?lat=-23.807825&lon=150.978627
 +X958791 http://www.openstreetmap.org/?lat=-23.458542&lon=150.532908
 +X531909 http://www.openstreetmap.org/?lat=-23.435480&lon=150.514605
 +X133185 http://www.openstreetmap.org/?lat=-23.414806&lon=150.499306
-Roc Rockhampton http://www.openstreetmap.org/?lat=-23.390023&lon=150.512309
+Roc http://www.openstreetmap.org/?lat=-23.390023&lon=150.512309

@@ -1,13 +1,13 @@
 MosSqu http://www.openstreetmap.org/?lat=-34.980456&lon=138.511945
 JetRd http://www.openstreetmap.org/?lat=-34.980193&lon=138.516821
 BriRd http://www.openstreetmap.org/?lat=-34.980017&lon=138.520737
-GleEast +GleE http://www.openstreetmap.org/?lat=-34.979777&lon=138.525624
+GleEast http://www.openstreetmap.org/?lat=-34.979777&lon=138.525624
 Gle http://www.openstreetmap.org/?lat=-34.978845&lon=138.531439
 MorRd http://www.openstreetmap.org/?lat=-34.975716&lon=138.538198
 MorRac http://www.openstreetmap.org/?lat=-34.975004&lon=138.539701
-PlyPark +PlyPk http://www.openstreetmap.org/?lat=-34.970757&lon=138.548037
+PlyPark http://www.openstreetmap.org/?lat=-34.970757&lon=138.548037
 MarRd http://www.openstreetmap.org/?lat=-34.967214&lon=138.554989
-SouPly +SPly http://www.openstreetmap.org/?lat=-34.964788&lon=138.559871
+SouPly http://www.openstreetmap.org/?lat=-34.964788&lon=138.559871
 BecSt http://www.openstreetmap.org/?lat=-34.962906&lon=138.563529
 Gla http://www.openstreetmap.org/?lat=-34.960453&lon=138.568304
 SouRd http://www.openstreetmap.org/?lat=-34.958483&lon=138.572273
@@ -17,7 +17,7 @@ GooRd http://www.openstreetmap.org/?lat=-34.949734&lon=138.589514
 Way http://www.openstreetmap.org/?lat=-34.947430&lon=138.594117
 GreRd http://www.openstreetmap.org/?lat=-34.941625&lon=138.600222
 SouTer http://www.openstreetmap.org/?lat=-34.936498&lon=138.600329
-CitySou +CityS http://www.openstreetmap.org/?lat=-34.933138&lon=138.600286
+CitySou http://www.openstreetmap.org/?lat=-34.933138&lon=138.600286
 VicSq http://www.openstreetmap.org/?lat=-34.929074&lon=138.599374
 PineSt http://www.openstreetmap.org/?lat=-34.925380&lon=138.599685
 RunMall http://www.openstreetmap.org/?lat=-34.922732&lon=138.599514
