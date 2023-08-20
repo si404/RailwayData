@@ -2,6 +2,7 @@ systemName;route;banner;groupName;roots
 deueft;1;;Erfurt;deuth.01erf
 deueft;2;;Erfurt;deuth.02erf
 deueft;3;;Erfurt;deuth.03erf
-deueft;4;;Erfurt;deuth.04erf
+deueft;4;;Erfurt (Ringelberg bound);deuth.04erf
+deueft;4;;Erfurt (Bindersleben bound);deuth.04erfbin
 deueft;5;;Erfurt;deuth.05erf
 deueft;6;;Erfurt;deuth.06erf
