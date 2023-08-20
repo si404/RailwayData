@@ -1,11 +1,11 @@
 RomaSt http://www.openstreetmap.org/?lat=-27.465087&lon=153.018833
-Cen +Central http://www.openstreetmap.org/?lat=-27.465808&lon=153.025839
-ForVal +FortitudeValley http://www.openstreetmap.org/?lat=-27.455907&lon=153.034004
-BowHil +BowenHills http://www.openstreetmap.org/?lat=-27.445246&lon=153.037587
+Cen http://www.openstreetmap.org/?lat=-27.465808&lon=153.025839
+ForVal http://www.openstreetmap.org/?lat=-27.455907&lon=153.034004
+BowHil http://www.openstreetmap.org/?lat=-27.445246&lon=153.037587
 DIV_FG http://www.openstreetmap.org/?lat=-27.443597&lon=153.037174
 SKIP_Alb http://www.openstreetmap.org/?lat=-27.429233&lon=153.040302
 SKIP_Woo http://www.openstreetmap.org/?lat=-27.419995&lon=153.043478
-EagJct +EagleJct http://www.openstreetmap.org/?lat=-27.415386&lon=153.049529
+EagJct http://www.openstreetmap.org/?lat=-27.415386&lon=153.049529
 DIV_Pin http://www.openstreetmap.org/?lat=-27.415567&lon=153.051653
 DIV_Air http://www.openstreetmap.org/?lat=-27.411033&lon=153.056288
 SKIP_Too http://www.openstreetmap.org/?lat=-27.407728&lon=153.058841
@@ -21,10 +21,10 @@ SKIP_BaldHil http://www.openstreetmap.org/?lat=-27.320897&lon=153.011098
 SKIP_Str http://www.openstreetmap.org/?lat=-27.311365&lon=152.989683
 SKIP_BrayPark http://www.openstreetmap.org/?lat=-27.299124&lon=152.986035
 SKIP_Law http://www.openstreetmap.org/?lat=-27.281694&lon=152.980886
-Pet +Petrie http://www.openstreetmap.org/?lat=-27.268458&lon=152.982001
+Pet http://www.openstreetmap.org/?lat=-27.268458&lon=152.982001
 DIV_RP http://www.openstreetmap.org/?lat=-27.265750&lon=152.983289
-Dak +Dakabin http://www.openstreetmap.org/?lat=-27.230497&lon=152.975736
-Nar +Narangba http://www.openstreetmap.org/?lat=-27.202370&lon=152.959857
-Bur +Burpengary http://www.openstreetmap.org/?lat=-27.162171&lon=152.957239
-Mor +Morayfield http://www.openstreetmap.org/?lat=-27.110230&lon=152.952604
-Cab +Caboolture http://www.openstreetmap.org/?lat=-27.082837&lon=152.953763
+Dak http://www.openstreetmap.org/?lat=-27.230497&lon=152.975736
+Nar http://www.openstreetmap.org/?lat=-27.202370&lon=152.959857
+Bur http://www.openstreetmap.org/?lat=-27.162171&lon=152.957239
+Mor http://www.openstreetmap.org/?lat=-27.110230&lon=152.952604
+Cab http://www.openstreetmap.org/?lat=-27.082837&lon=152.953763

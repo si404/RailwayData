@@ -1,13 +1,13 @@
 ﻿System;CountryCode;Name;Color;Tier;Level
+ausnswtl;AUS;New South Wales TrainLink;TMgray;1;preview
+ausqrt;AUS;Queensland Rail Traveltrain;TMgray;1;preview
+austwa;AUS;Transwa;TMgray;1;preview
+ausvln;AUS;V/Line;TMgray;1;preview
 ausasr;AUS;Adelaide Suburban Railway;TMgreen;2;preview
 ausmtm;AUS;Metro Trains Melbourne;TMgreen;2;preview
-ausnswtl;AUS;New South Wales TrainLink;TMgreen;2;preview
 ausqrc;AUS;Queensland Rail Citytrain;TMgreen;2;preview
-ausqrt;AUS;Queensland Rail Traveltrain;TMgreen;2;preview
 ausst;AUS;Sydney Trains;TMgreen;2;preview
-ausvln;AUS;V/Line;TMgreen;2;preview
 austto;AUS;Transperth Train Operations;TMgreen;2;preview
-austwa;AUS;Transwa;TMgreen;2;preview
 aussm;AUS;Sydney Metro;TMblue;3;preview
 ausat;AUS;Adelaide Trams;TMred;4;preview
 ausbt;AUS;Bendigo Tramways;TMred;4;preview

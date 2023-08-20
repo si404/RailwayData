@@ -27,18 +27,18 @@ SKIP_Dak http://www.openstreetmap.org/?lat=-27.230497&lon=152.975736
 SKIP_Nar http://www.openstreetmap.org/?lat=-27.202370&lon=152.959857
 SKIP_Bur http://www.openstreetmap.org/?lat=-27.162171&lon=152.957239
 SKIP_Mor http://www.openstreetmap.org/?lat=-27.110230&lon=152.952604
-Cab +Caboolture http://www.openstreetmap.org/?lat=-27.082837&lon=152.953763
+Cab http://www.openstreetmap.org/?lat=-27.082837&lon=152.953763
 SKIP_Eli http://www.openstreetmap.org/?lat=-27.011162&lon=152.945824
 SKIP_Beeb http://www.openstreetmap.org/?lat=-26.959897&lon=152.959213
 SKIP_GlaMou http://www.openstreetmap.org/?lat=-26.899329&lon=152.956295
 +X933153 http://www.openstreetmap.org/?lat=-26.885856&lon=152.949922
 SKIP_Beer http://www.openstreetmap.org/?lat=-26.857064&lon=152.958409
-Lan +Landsborough http://www.openstreetmap.org/?lat=-26.808052&lon=152.966316
+Lan http://www.openstreetmap.org/?lat=-26.808052&lon=152.966316
 SKIP_Moo http://www.openstreetmap.org/?lat=-26.766026&lon=152.963226
 SKIP_Eud http://www.openstreetmap.org/?lat=-26.725881&lon=152.956789
 SKIP_Pal http://www.openstreetmap.org/?lat=-26.688695&lon=152.960737
 SKIP_Wom http://www.openstreetmap.org/?lat=-26.660643&lon=152.962775
-Nam +Nambour http://www.openstreetmap.org/?lat=-26.625636&lon=152.957829
+Nam http://www.openstreetmap.org/?lat=-26.625636&lon=152.957829
 SKIP_Yam http://www.openstreetmap.org/?lat=-26.560888&lon=152.958205
 SKIP_Eum http://www.openstreetmap.org/?lat=-26.480321&lon=152.955029
 +X889157 http://www.openstreetmap.org/?lat=-26.461641&lon=152.962174
@@ -52,7 +52,7 @@ SKIP_Tra http://www.openstreetmap.org/?lat=-26.319777&lon=152.782810
 +X470047 http://www.openstreetmap.org/?lat=-26.314911&lon=152.767231
 +X761037 http://www.openstreetmap.org/?lat=-26.261053&lon=152.738714
 +X426583 http://www.openstreetmap.org/?lat=-26.222176&lon=152.697430
-GymNor +GympieN http://www.openstreetmap.org/?lat=-26.159155&lon=152.682495
+GymNor http://www.openstreetmap.org/?lat=-26.159155&lon=152.682495
 +X915752 http://www.openstreetmap.org/?lat=-26.132053&lon=152.667389
 +X115362 http://www.openstreetmap.org/?lat=-26.073167&lon=152.593231
 +X682697 http://www.openstreetmap.org/?lat=-26.021193&lon=152.561646
@@ -65,11 +65,11 @@ GymNor +GympieN http://www.openstreetmap.org/?lat=-26.159155&lon=152.682495
 +X903892 http://www.openstreetmap.org/?lat=-25.664254&lon=152.606192
 +X239021 http://www.openstreetmap.org/?lat=-25.607224&lon=152.593489
 +X971935 http://www.openstreetmap.org/?lat=-25.529024&lon=152.613873
-MarWest +MaryboroughW http://www.openstreetmap.org/?lat=-25.508110&lon=152.636662
+MarWest http://www.openstreetmap.org/?lat=-25.508110&lon=152.636662
 +X882837 http://www.openstreetmap.org/?lat=-25.475861&lon=152.668333
 +X655169 http://www.openstreetmap.org/?lat=-25.405950&lon=152.642412
 +X735192 http://www.openstreetmap.org/?lat=-25.352675&lon=152.604647
-How +Howard http://www.openstreetmap.org/?lat=-25.318464&lon=152.564564
+How http://www.openstreetmap.org/?lat=-25.318464&lon=152.564564
 +X580020 http://www.openstreetmap.org/?lat=-25.295264&lon=152.518473
 +X781810 http://www.openstreetmap.org/?lat=-25.268876&lon=152.503366
 +X927836 http://www.openstreetmap.org/?lat=-25.233866&lon=152.453756
@@ -77,7 +77,7 @@ How +Howard http://www.openstreetmap.org/?lat=-25.318464&lon=152.564564
 +X686284 http://www.openstreetmap.org/?lat=-25.151073&lon=152.413330
 +X293743 http://www.openstreetmap.org/?lat=-25.000333&lon=152.386551
 +X999104 http://www.openstreetmap.org/?lat=-24.982324&lon=152.375629
-Bun +Bundaberg http://www.openstreetmap.org/?lat=-24.868333&lon=152.345181
+Bun http://www.openstreetmap.org/?lat=-24.868333&lon=152.345181
 +X473236 http://www.openstreetmap.org/?lat=-24.744201&lon=152.177382
 +X435103 http://www.openstreetmap.org/?lat=-24.726816&lon=152.119875
 +X808102 http://www.openstreetmap.org/?lat=-24.655130&lon=152.057991
@@ -101,7 +101,7 @@ SKIP_MirVale http://www.openstreetmap.org/?lat=-24.328895&lon=151.563435
 +X113180 http://www.openstreetmap.org/?lat=-24.026161&lon=151.323795
 +X877159 http://www.openstreetmap.org/?lat=-23.968725&lon=151.282425
 +X932522 http://www.openstreetmap.org/?lat=-23.932642&lon=151.289892
-Gla +Gladstone http://www.openstreetmap.org/?lat=-23.846288&lon=151.263049
+Gla http://www.openstreetmap.org/?lat=-23.846288&lon=151.263049
 +X251983 http://www.openstreetmap.org/?lat=-23.865706&lon=151.226807
 +X546384 http://www.openstreetmap.org/?lat=-23.872064&lon=151.184235
 +X558234 http://www.openstreetmap.org/?lat=-23.841293&lon=151.149130
@@ -117,7 +117,7 @@ SKIP_MouLar http://www.openstreetmap.org/?lat=-23.807825&lon=150.978627
 +X958791 http://www.openstreetmap.org/?lat=-23.458542&lon=150.532908
 DIV_Cen http://www.openstreetmap.org/?lat=-23.435480&lon=150.514605
 +X133185 http://www.openstreetmap.org/?lat=-23.414806&lon=150.499306
-Roc +Rockhampton http://www.openstreetmap.org/?lat=-23.390023&lon=150.512309
+Roc http://www.openstreetmap.org/?lat=-23.390023&lon=150.512309
 +X965235 http://www.openstreetmap.org/?lat=-23.292086&lon=150.510464
 +X196530 http://www.openstreetmap.org/?lat=-23.197135&lon=150.473728
 +X404572 http://www.openstreetmap.org/?lat=-23.133671&lon=150.417852
@@ -131,7 +131,7 @@ Roc +Rockhampton http://www.openstreetmap.org/?lat=-23.390023&lon=150.512309
 +X548318 http://www.openstreetmap.org/?lat=-22.860378&lon=150.025048
 +X345257 http://www.openstreetmap.org/?lat=-22.858005&lon=150.003333
 +X263069 http://www.openstreetmap.org/?lat=-22.828877&lon=149.965739
-SKIP_Mar +Marlborough http://www.openstreetmap.org/?lat=-22.814311&lon=149.890208
+SKIP_Mar http://www.openstreetmap.org/?lat=-22.814311&lon=149.890208
 +X289903 http://www.openstreetmap.org/?lat=-22.791336&lon=149.831028
 +X691230 http://www.openstreetmap.org/?lat=-22.671640&lon=149.696531
 +X903772 http://www.openstreetmap.org/?lat=-22.592854&lon=149.637909
@@ -140,13 +140,13 @@ SKIP_Mar +Marlborough http://www.openstreetmap.org/?lat=-22.814311&lon=149.89020
 +X428583 http://www.openstreetmap.org/?lat=-22.461366&lon=149.550362
 +X431636 http://www.openstreetmap.org/?lat=-22.447802&lon=149.556198
 +X742103 http://www.openstreetmap.org/?lat=-22.384107&lon=149.519377
-StLaw +StLawrence http://www.openstreetmap.org/?lat=-22.351038&lon=149.522831
+StLaw http://www.openstreetmap.org/?lat=-22.351038&lon=149.522831
 +X670571 http://www.openstreetmap.org/?lat=-22.247873&lon=149.521179
 +X701323 http://www.openstreetmap.org/?lat=-22.219271&lon=149.508820
 +X953711 http://www.openstreetmap.org/?lat=-22.172979&lon=149.517317
 +X220815 http://www.openstreetmap.org/?lat=-22.147145&lon=149.533195
 +X463932 http://www.openstreetmap.org/?lat=-22.116933&lon=149.534225
-Carm +Carmila http://www.openstreetmap.org/?lat=-21.909963&lon=149.415779
+Carm http://www.openstreetmap.org/?lat=-21.909963&lon=149.415779
 +X305606 http://www.openstreetmap.org/?lat=-21.776319&lon=149.358444
 +X405717 http://www.openstreetmap.org/?lat=-21.706479&lon=149.358101
 +X987550 http://www.openstreetmap.org/?lat=-21.676612&lon=149.333124
@@ -154,10 +154,10 @@ Carm +Carmila http://www.openstreetmap.org/?lat=-21.909963&lon=149.415779
 +X520408 http://www.openstreetmap.org/?lat=-21.503826&lon=149.231157
 +X926975 http://www.openstreetmap.org/?lat=-21.471261&lon=149.234118
 +X902431 http://www.openstreetmap.org/?lat=-21.466509&lon=149.235492
-Sar +Sarina http://www.openstreetmap.org/?lat=-21.426085&lon=149.216952
+Sar http://www.openstreetmap.org/?lat=-21.426085&lon=149.216952
 +X721354 http://www.openstreetmap.org/?lat=-21.357896&lon=149.150047
 +X328518 http://www.openstreetmap.org/?lat=-21.294293&lon=149.119577
-Mac +Mackay http://www.openstreetmap.org/?lat=-21.171967&lon=149.159660
+Mac http://www.openstreetmap.org/?lat=-21.171967&lon=149.159660
 +X926336 http://www.openstreetmap.org/?lat=-21.131582&lon=149.138718
 +X759983 http://www.openstreetmap.org/?lat=-21.098834&lon=149.103870
 +X375696 http://www.openstreetmap.org/?lat=-21.070485&lon=149.013577
@@ -169,12 +169,12 @@ Mac +Mackay http://www.openstreetmap.org/?lat=-21.171967&lon=149.159660
 +X238828 http://www.openstreetmap.org/?lat=-20.784202&lon=148.613434
 +X709826 http://www.openstreetmap.org/?lat=-20.634150&lon=148.579273
 +X858597 http://www.openstreetmap.org/?lat=-20.596714&lon=148.555069
-Pro +Proserpine http://www.openstreetmap.org/?lat=-20.403162&lon=148.578415
+Pro http://www.openstreetmap.org/?lat=-20.403162&lon=148.578415
 +X595921 http://www.openstreetmap.org/?lat=-20.361607&lon=148.555241
 +X157894 http://www.openstreetmap.org/?lat=-20.172956&lon=148.340149
 +X598191 http://www.openstreetmap.org/?lat=-20.114293&lon=148.231487
 +X477883 http://www.openstreetmap.org/?lat=-20.057786&lon=148.201103
-Bow +Bowen http://www.openstreetmap.org/?lat=-20.021803&lon=148.205738
+Bow http://www.openstreetmap.org/?lat=-20.021803&lon=148.205738
 +X967320 http://www.openstreetmap.org/?lat=-20.012307&lon=148.199387
 +X984697 http://www.openstreetmap.org/?lat=-20.010694&lon=148.104630
 +X765291 http://www.openstreetmap.org/?lat=-19.968105&lon=148.064976
@@ -195,7 +195,7 @@ Giru http://www.openstreetmap.org/?lat=-19.511600&lon=147.105174
 +X758645 http://www.openstreetmap.org/?lat=-19.388927&lon=146.958876
 +X735012 http://www.openstreetmap.org/?lat=-19.356073&lon=146.880534
 DIV_Inl http://www.openstreetmap.org/?lat=-19.345616&lon=146.835387
-Tow +Townsville http://www.openstreetmap.org/?lat=-19.269361&lon=146.807771
+Tow http://www.openstreetmap.org/?lat=-19.269361&lon=146.807771
 +X357952 http://www.openstreetmap.org/?lat=-19.262454&lon=146.707821
 +X374446 http://www.openstreetmap.org/?lat=-19.207185&lon=146.592464
 +X815199 http://www.openstreetmap.org/?lat=-19.052139&lon=146.397629
@@ -204,7 +204,7 @@ Tow +Townsville http://www.openstreetmap.org/?lat=-19.269361&lon=146.807771
 +X365808 http://www.openstreetmap.org/?lat=-18.886513&lon=146.234722
 +X471642 http://www.openstreetmap.org/?lat=-18.838999&lon=146.176786
 +X410613 http://www.openstreetmap.org/?lat=-18.730599&lon=146.146059
-Ing +Ingham http://www.openstreetmap.org/?lat=-18.646662&lon=146.164942
+Ing http://www.openstreetmap.org/?lat=-18.646662&lon=146.164942
 +X477035 http://www.openstreetmap.org/?lat=-18.587742&lon=146.218457
 +X910201 http://www.openstreetmap.org/?lat=-18.545392&lon=146.222920
 +X389514 http://www.openstreetmap.org/?lat=-18.521344&lon=146.191764
@@ -212,31 +212,31 @@ Ing +Ingham http://www.openstreetmap.org/?lat=-18.646662&lon=146.164942
 +X533227 http://www.openstreetmap.org/?lat=-18.404883&lon=146.137390
 +X916035 http://www.openstreetmap.org/?lat=-18.330899&lon=146.057482
 +X364677 http://www.openstreetmap.org/?lat=-18.310407&lon=146.057653
-Card +Cardwell http://www.openstreetmap.org/?lat=-18.267938&lon=146.027977
+Card http://www.openstreetmap.org/?lat=-18.267938&lon=146.027977
 +X248673 http://www.openstreetmap.org/?lat=-18.190807&lon=145.941052
 +X726146 http://www.openstreetmap.org/?lat=-18.104128&lon=145.906935
 +X588003 http://www.openstreetmap.org/?lat=-18.046603&lon=145.911827
 +X178849 http://www.openstreetmap.org/?lat=-17.984162&lon=145.939722
-Tul +Tully http://www.openstreetmap.org/?lat=-17.932335&lon=145.932813
+Tul http://www.openstreetmap.org/?lat=-17.932335&lon=145.932813
 +X173660 http://www.openstreetmap.org/?lat=-17.861092&lon=145.984955
 +X590205 http://www.openstreetmap.org/?lat=-17.729925&lon=146.024866
 +X215517 http://www.openstreetmap.org/?lat=-17.708423&lon=146.016283
 +X290005 http://www.openstreetmap.org/?lat=-17.661893&lon=146.024437
 +X692345 http://www.openstreetmap.org/?lat=-17.590726&lon=146.007442
-Inn +Innisfall http://www.openstreetmap.org/?lat=-17.526171&lon=146.018901
+Inn http://www.openstreetmap.org/?lat=-17.526171&lon=146.018901
 +X555908 http://www.openstreetmap.org/?lat=-17.463384&lon=145.996306
 +X669040 http://www.openstreetmap.org/?lat=-17.421582&lon=145.909274
-Bab +Babinda http://www.openstreetmap.org/?lat=-17.343244&lon=145.925303
+Bab http://www.openstreetmap.org/?lat=-17.343244&lon=145.925303
 +X835265 http://www.openstreetmap.org/?lat=-17.295146&lon=145.928607
 +X710346 http://www.openstreetmap.org/?lat=-17.272588&lon=145.920410
 +X342678 http://www.openstreetmap.org/?lat=-17.232997&lon=145.921698
 +X312219 http://www.openstreetmap.org/?lat=-17.156250&lon=145.867195
 +X366856 http://www.openstreetmap.org/?lat=-17.130825&lon=145.839815
 +X269200 http://www.openstreetmap.org/?lat=-17.108021&lon=145.832348
-Gor +Gordonvale http://www.openstreetmap.org/?lat=-17.093162&lon=145.787909
+Gor http://www.openstreetmap.org/?lat=-17.093162&lon=145.787909
 +X672154 http://www.openstreetmap.org/?lat=-17.081369&lon=145.775936
 +X395201 http://www.openstreetmap.org/?lat=-17.041388&lon=145.766451
 +X234479 http://www.openstreetmap.org/?lat=-17.017117&lon=145.744693
 +X806502 http://www.openstreetmap.org/?lat=-16.972772&lon=145.744436
 +X948286 http://www.openstreetmap.org/?lat=-16.933158&lon=145.777180
-Cai +Cairns http://www.openstreetmap.org/?lat=-16.925470&lon=145.771108
+Cai http://www.openstreetmap.org/?lat=-16.925470&lon=145.771108

@@ -30,11 +30,11 @@ Mor http://www.openstreetmap.org/?lat=-33.970867&lon=151.081152
 SKIP_Oat http://www.openstreetmap.org/?lat=-33.980529&lon=151.079006
 SKIP_Como http://www.openstreetmap.org/?lat=-34.004369&lon=151.068063
 SKIP_Jan http://www.openstreetmap.org/?lat=-34.015984&lon=151.064651
-Sut +SLD http://www.openstreetmap.org/?lat=-34.031687&lon=151.057355
+Sut http://www.openstreetmap.org/?lat=-34.031687&lon=151.057355
 DIV_Cro http://www.openstreetmap.org/?lat=-34.033928&lon=151.055639
 +X765398 http://www.openstreetmap.org/?lat=-34.036809&lon=151.053557
 Lof http://www.openstreetmap.org/?lat=-34.045423&lon=151.051283
-Eng +EGD http://www.openstreetmap.org/?lat=-34.067894&lon=151.014805
-Hea +HTC http://www.openstreetmap.org/?lat=-34.088013&lon=151.008196
+Eng http://www.openstreetmap.org/?lat=-34.067894&lon=151.014805
+Hea http://www.openstreetmap.org/?lat=-34.088013&lon=151.008196
 +X435009 http://www.openstreetmap.org/?lat=-34.103081&lon=150.994763
-Wat +WFL http://www.openstreetmap.org/?lat=-34.134480&lon=150.994463
+Wat http://www.openstreetmap.org/?lat=-34.134480&lon=150.994463

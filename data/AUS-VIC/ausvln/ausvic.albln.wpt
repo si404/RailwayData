@@ -1,4 +1,4 @@
-SouCro +SSS http://www.openstreetmap.org/?lat=-37.818311&lon=144.952326
+SouCro http://www.openstreetmap.org/?lat=-37.818311&lon=144.952326
 DIV_LpW http://www.openstreetmap.org/?lat=-37.814081&lon=144.949429
 DIV_Upf http://www.openstreetmap.org/?lat=-37.808873&lon=144.943260
 +X997974 http://www.openstreetmap.org/?lat=-37.807432&lon=144.940417
@@ -20,7 +20,7 @@ DIV_Sun http://www.openstreetmap.org/?lat=-37.775324&lon=144.823054
 +X598606 http://www.openstreetmap.org/?lat=-37.721001&lon=144.870958
 +X981358 http://www.openstreetmap.org/?lat=-37.708304&lon=144.903831
 DIV_Cra http://www.openstreetmap.org/?lat=-37.689131&lon=144.916427
-Bro +BMS http://www.openstreetmap.org/?lat=-37.683086&lon=144.919635
+Bro http://www.openstreetmap.org/?lat=-37.683086&lon=144.919635
 SKIP_Coo http://www.openstreetmap.org/?lat=-37.661295&lon=144.926062
 SKIP_RoxPark http://www.openstreetmap.org/?lat=-37.638139&lon=144.935482
 SKIP_Cra http://www.openstreetmap.org/?lat=-37.602362&lon=144.943249
@@ -42,20 +42,20 @@ SKIP_Tal http://www.openstreetmap.org/?lat=-37.092388&lon=145.102873
 +X519845 http://www.openstreetmap.org/?lat=-37.050827&lon=145.115490
 Sey http://www.openstreetmap.org/?lat=-37.024475&lon=145.138471
 +X346992 http://www.openstreetmap.org/?lat=-36.936875&lon=145.176387
-Ave +AVL http://www.openstreetmap.org/?lat=-36.893608&lon=145.229602
+Ave http://www.openstreetmap.org/?lat=-36.893608&lon=145.229602
 +X483629 http://www.openstreetmap.org/?lat=-36.813099&lon=145.359077
 +X223077 http://www.openstreetmap.org/?lat=-36.797086&lon=145.449371
 +X432065 http://www.openstreetmap.org/?lat=-36.774316&lon=145.491772
-Eur +EOA http://www.openstreetmap.org/?lat=-36.749149&lon=145.568161
+Eur http://www.openstreetmap.org/?lat=-36.749149&lon=145.568161
 +X812008 http://www.openstreetmap.org/?lat=-36.649725&lon=145.685749
-VioTown +VTN http://www.openstreetmap.org/?lat=-36.637966&lon=145.719051
+VioTown http://www.openstreetmap.org/?lat=-36.637966&lon=145.719051
 Ben http://www.openstreetmap.org/?lat=-36.544846&lon=145.983582
 +X371170 http://www.openstreetmap.org/?lat=-36.483348&lon=146.131554
 +X907795 http://www.openstreetmap.org/?lat=-36.460433&lon=146.232491
 +X646375 http://www.openstreetmap.org/?lat=-36.370779&lon=146.286907
-Wan +WAG http://www.openstreetmap.org/?lat=-36.355279&lon=146.316991
+Wan http://www.openstreetmap.org/?lat=-36.355279&lon=146.316991
 +X815383 http://www.openstreetmap.org/?lat=-36.315886&lon=146.367588
-Spr +SPT http://www.openstreetmap.org/?lat=-36.186433&lon=146.470413
+Spr http://www.openstreetmap.org/?lat=-36.186433&lon=146.470413
 +X224782 http://www.openstreetmap.org/?lat=-36.173565&lon=146.482601
 Chi http://www.openstreetmap.org/?lat=-36.155670&lon=146.611991
 +X100879 http://www.openstreetmap.org/?lat=-36.145049&lon=146.639156
