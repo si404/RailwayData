@@ -1,30 +1,29 @@
-RobertsauEscale http://www.openstreetmap.org/?lat=48.609270&lon=7.785273
-Melanie http://www.openstreetmap.org/?lat=48.603311&lon=7.784843
-Jardiniers http://www.openstreetmap.org/?lat=48.599438&lon=7.783148
-Boecklin http://www.openstreetmap.org/?lat=48.597976&lon=7.777977
-DroitsHomme http://www.openstreetmap.org/?lat=48.596159&lon=7.774029
-ParlementEuropeen http://www.openstreetmap.org/?lat=48.599370&lon=7.766991
-+X842370 http://www.openstreetmap.org/?lat=48.598958&lon=7.760878
-Wacken http://www.openstreetmap.org/?lat=48.598604&lon=7.760628
-LyceeKleber http://www.openstreetmap.org/?lat=48.594063&lon=7.757753
-ParcContades http://www.openstreetmap.org/?lat=48.590252&lon=7.755972
-Republique http://www.openstreetmap.org/?lat=48.586171&lon=7.754502
-Gallia http://www.openstreetmap.org/?lat=48.584340&lon=7.758386
-Universite http://www.openstreetmap.org/?lat=48.582743&lon=7.763965
-Observatoire http://www.openstreetmap.org/?lat=48.581402&lon=7.768847
+RobEsc +RobertsauEscale http://www.openstreetmap.org/?lat=48.609270&lon=7.785273
+Mel +Melanie http://www.openstreetmap.org/?lat=48.603311&lon=7.784843
+Jar +Jardiniers http://www.openstreetmap.org/?lat=48.599438&lon=7.783148
+Boe +Boecklin http://www.openstreetmap.org/?lat=48.597976&lon=7.777977
+DroHom +DroitsHomme http://www.openstreetmap.org/?lat=48.596159&lon=7.774029
+ParEur +ParlementEuropeen http://www.openstreetmap.org/?lat=48.599370&lon=7.766991
++DIV_B http://www.openstreetmap.org/?lat=48.598958&lon=7.760878
+Wac +Wacken http://www.openstreetmap.org/?lat=48.598604&lon=7.760628
+LycKle +LyceeKleber http://www.openstreetmap.org/?lat=48.594063&lon=7.757753
+ParcCon +ParcContades http://www.openstreetmap.org/?lat=48.590252&lon=7.755972
+Rep +Republique http://www.openstreetmap.org/?lat=48.586171&lon=7.754502
+Gal +Gallia http://www.openstreetmap.org/?lat=48.584340&lon=7.758386
+Uni +Universite http://www.openstreetmap.org/?lat=48.582743&lon=7.763965
+Obs +Observatoire http://www.openstreetmap.org/?lat=48.581402&lon=7.768847
 +X319608 http://www.openstreetmap.org/?lat=48.581153&lon=7.769651
-Esplanade http://www.openstreetmap.org/?lat=48.578389&lon=7.769437
-WinstonChurchill http://www.openstreetmap.org/?lat=48.573746&lon=7.766712
-Landsberg http://www.openstreetmap.org/?lat=48.569629&lon=7.763128
-EtoilePolygone http://www.openstreetmap.org/?lat=48.571503&lon=7.755661
-+X926270 http://www.openstreetmap.org/?lat=48.571702&lon=7.754223
-+X549159 http://www.openstreetmap.org/?lat=48.571565&lon=7.753724
-Schluthfeld http://www.openstreetmap.org/?lat=48.568513&lon=7.751670
-KrimmeriStadeMeinau http://www.openstreetmap.org/?lat=48.563523&lon=7.752614
-LyceeCouffignal http://www.openstreetmap.org/?lat=48.558851&lon=7.749202
-EmileMathis http://www.openstreetmap.org/?lat=48.553241&lon=7.744267
-Hohwart http://www.openstreetmap.org/?lat=48.549221&lon=7.741606
-Baggersee http://www.openstreetmap.org/?lat=48.544931&lon=7.737916
-Colonne http://www.openstreetmap.org/?lat=48.538027&lon=7.733517
-Leclerc http://www.openstreetmap.org/?lat=48.534390&lon=7.734461
-CampusIllkirck http://www.openstreetmap.org/?lat=48.529402&lon=7.732809
+Esp +Esplanade http://www.openstreetmap.org/?lat=48.578389&lon=7.769437
+WinChu +WinstonChurchill http://www.openstreetmap.org/?lat=48.573746&lon=7.766712
+Lan +Landsberg http://www.openstreetmap.org/?lat=48.569629&lon=7.763128
+EtoPol +EtoilePolygone http://www.openstreetmap.org/?lat=48.571503&lon=7.755661
++DIV_AD http://www.openstreetmap.org/?lat=48.571789&lon=7.753885
+Sch +Schluthfeld http://www.openstreetmap.org/?lat=48.568513&lon=7.751670
+KriStaMei +KrimmeriStadeMeinau http://www.openstreetmap.org/?lat=48.563523&lon=7.752614
+LycCou +LyceeCouffignal http://www.openstreetmap.org/?lat=48.558851&lon=7.749202
+EmiMat +EmileMathis http://www.openstreetmap.org/?lat=48.553241&lon=7.744267
+Hoh +Hohwart http://www.openstreetmap.org/?lat=48.549221&lon=7.741606
+Bag +Baggersee http://www.openstreetmap.org/?lat=48.544931&lon=7.737916
+Col +Colonne http://www.openstreetmap.org/?lat=48.538027&lon=7.733517
+Lec +Leclerc http://www.openstreetmap.org/?lat=48.534390&lon=7.734461
+CamIll +CampusIllkirck http://www.openstreetmap.org/?lat=48.529402&lon=7.732809
