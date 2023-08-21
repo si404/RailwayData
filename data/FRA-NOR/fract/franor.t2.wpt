@@ -1,19 +1,19 @@
-CaenPresquile http://www.openstreetmap.org/?lat=49.181616&lon=-0.348022
-GareRivesOrne http://www.openstreetmap.org/?lat=49.178390&lon=-0.350683
-+X375285 http://www.openstreetmap.org/?lat=49.177643&lon=-0.352646
-QuaiJuillet http://www.openstreetmap.org/?lat=49.178593&lon=-0.353665
-ResistanceSaintJean http://www.openstreetmap.org/?lat=49.180844&lon=-0.356026
-Bernieres http://www.openstreetmap.org/?lat=49.182478&lon=-0.357742
-SaintPierre http://www.openstreetmap.org/?lat=49.183769&lon=-0.360017
-ChateauQuatrans http://www.openstreetmap.org/?lat=49.185199&lon=-0.363708
-PlaceMare http://www.openstreetmap.org/?lat=49.186882&lon=-0.366122
-Universite http://www.openstreetmap.org/?lat=49.188881&lon=-0.363879
-CROUSSUAPS http://www.openstreetmap.org/?lat=49.193754&lon=-0.363622
-CalvaireSaintPierre http://www.openstreetmap.org/?lat=49.197889&lon=-0.363992
-Copernic http://www.openstreetmap.org/?lat=49.198425&lon=-0.359389
-+X883550 http://www.openstreetmap.org/?lat=49.198460&lon=-0.358853
+CaenPre +CaenPresquile http://www.openstreetmap.org/?lat=49.181616&lon=-0.348022
+GareRivOrne +GareRivesOrne http://www.openstreetmap.org/?lat=49.178390&lon=-0.350683
++DIV_13 http://www.openstreetmap.org/?lat=49.177643&lon=-0.352646
+QuaiJui +QuaiJuillet http://www.openstreetmap.org/?lat=49.178593&lon=-0.353665
+ResStJean +ResistanceSaintJean http://www.openstreetmap.org/?lat=49.180844&lon=-0.356026
+Ber +Bernieres http://www.openstreetmap.org/?lat=49.182478&lon=-0.357742
+StPie +SaintPierre http://www.openstreetmap.org/?lat=49.183769&lon=-0.360017
+ChaQua +ChateauQuatrans http://www.openstreetmap.org/?lat=49.185199&lon=-0.363708
+PlaMare +PlaceMare http://www.openstreetmap.org/?lat=49.186882&lon=-0.366122
+Uni +Universite http://www.openstreetmap.org/?lat=49.188881&lon=-0.363879
+CROSUA +CROUSSUAPS http://www.openstreetmap.org/?lat=49.193754&lon=-0.363622
+CalStPie +CalvaireSaintPierre http://www.openstreetmap.org/?lat=49.197889&lon=-0.363992
+Cop +Copernic http://www.openstreetmap.org/?lat=49.198425&lon=-0.359389
++DIV_1 http://www.openstreetmap.org/?lat=49.198460&lon=-0.358853
 CHU http://www.openstreetmap.org/?lat=49.204256&lon=-0.359491
-Campus4 http://www.openstreetmap.org/?lat=49.208938&lon=-0.358901
-Citis http://www.openstreetmap.org/?lat=49.211419&lon=-0.356680
-CoteNacre http://www.openstreetmap.org/?lat=49.210964&lon=-0.362184
-CaenCampus2 http://www.openstreetmap.org/?lat=49.212604&lon=-0.364448
+Cam4 Campus4 http://www.openstreetmap.org/?lat=49.208938&lon=-0.358901
+Cit Citis http://www.openstreetmap.org/?lat=49.211419&lon=-0.356680
+CoteNac CoteNacre http://www.openstreetmap.org/?lat=49.210964&lon=-0.362184
+CaenCam2  +CaenCampus2 http://www.openstreetmap.org/?lat=49.212604&lon=-0.364448

@@ -1,16 +1,33 @@
-ConflansSainteHonorine http://www.openstreetmap.org/?lat=48.996952&lon=2.098389
-+X769605 http://www.openstreetmap.org/?lat=48.995558&lon=2.094033
-ConflansFinOise http://www.openstreetmap.org/?lat=48.991862&lon=2.073627
-Maurecourt http://www.openstreetmap.org/?lat=48.987005&lon=2.059851
-Andresy http://www.openstreetmap.org/?lat=48.974950&lon=2.049294
-ChanteloupVignes http://www.openstreetmap.org/?lat=48.970330&lon=2.027664
-TrielSeine http://www.openstreetmap.org/?lat=48.980808&lon=2.006207
-VauxSeine http://www.openstreetmap.org/?lat=49.007179&lon=1.963549
-ThunParadis http://www.openstreetmap.org/?lat=49.006644&lon=1.919346
-MeulanHadricourt http://www.openstreetmap.org/?lat=49.005771&lon=1.901836
-Juziers http://www.openstreetmap.org/?lat=48.992228&lon=1.845789
-Gargenville http://www.openstreetmap.org/?lat=48.983048&lon=1.809096
-IssouPorcheville http://www.openstreetmap.org/?lat=48.979273&lon=1.784034
-Limay http://www.openstreetmap.org/?lat=48.984202&lon=1.747384
-+X705518 http://www.openstreetmap.org/?lat=48.982618&lon=1.717880
-Mantes http://www.openstreetmap.org/?lat=48.983533&lon=1.715348
+ParStLaz http://www.openstreetmap.org/?lat=48.876532&lon=2.325261
++SKIP_PontCar http://www.openstreetmap.org/?lat=48.888014&lon=2.314038
++SKIP_CliLev http://www.openstreetmap.org/?lat=48.897184&lon=2.298331
++SKIP_AsnSei http://www.openstreetmap.org/?lat=48.905986&lon=2.283268
++DIV_Poi http://www.openstreetmap.org/?lat=48.909004&lon=2.278504
++SKIP_BoisCol http://www.openstreetmap.org/?lat=48.914018&lon=2.271938
++SKIP_Col http://www.openstreetmap.org/?lat=48.923959&lon=2.259300
++SKIP_Sta http://www.openstreetmap.org/?lat=48.931374&lon=2.260716
+Arg http://www.openstreetmap.org/?lat=48.946878&lon=2.257926
++DIV_Erm http://www.openstreetmap.org/?lat=48.951388&lon=2.255030
++X188249 http://www.openstreetmap.org/?lat=48.955918&lon=2.247090
+ValArg http://www.openstreetmap.org/?lat=48.950479&lon=2.231812
+CorPar http://www.openstreetmap.org/?lat=48.968400&lon=2.193403
+FreMon http://www.openstreetmap.org/?lat=48.980259&lon=2.180099
+Her http://www.openstreetmap.org/?lat=48.990201&lon=2.161946
++X364111 http://www.openstreetmap.org/?lat=48.999859&lon=2.114139
+ConStHon +ConflansSainteHonorine http://www.openstreetmap.org/?lat=48.996952&lon=2.098389
++DIV_Gis http://www.openstreetmap.org/?lat=48.995558&lon=2.094033
+ConFinOise ConflansFinOise http://www.openstreetmap.org/?lat=48.991862&lon=2.073627
+Mau Maurecourt http://www.openstreetmap.org/?lat=48.987005&lon=2.059851
+And Andresy http://www.openstreetmap.org/?lat=48.974950&lon=2.049294
+ChaVig ChanteloupVignes http://www.openstreetmap.org/?lat=48.970330&lon=2.027664
+TriSei TrielSeine http://www.openstreetmap.org/?lat=48.980808&lon=2.006207
+VauxSei VauxSeine http://www.openstreetmap.org/?lat=49.007179&lon=1.963549
+ThunPar ThunParadis http://www.openstreetmap.org/?lat=49.006644&lon=1.919346
+MeuHad MeulanHadricourt http://www.openstreetmap.org/?lat=49.005771&lon=1.901836
+Juz Juziers http://www.openstreetmap.org/?lat=48.992228&lon=1.845789
+Gar Gargenville http://www.openstreetmap.org/?lat=48.983048&lon=1.809096
+IssPor IssouPorcheville http://www.openstreetmap.org/?lat=48.979273&lon=1.784034
+Lim Limay http://www.openstreetmap.org/?lat=48.984202&lon=1.747384
++DIV_N http://www.openstreetmap.org/?lat=48.982618&lon=1.717880
+Man Mantes http://www.openstreetmap.org/?lat=48.983533&lon=1.715348
+ManJol http://www.openstreetmap.org/?lat=48.989419&lon=1.703160

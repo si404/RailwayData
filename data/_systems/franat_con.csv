@@ -1,6 +1,5 @@
 systemName;route;banner;groupName;roots
-franat;1;;;frapdl.1
-franat;1;;Jamet branch;frapdl.1jam
-franat;1;;Ranzay branch;frapdl.1ran
-franat;2;;;frapdl.2
-franat;3;;;frapdl.3
+franat;1;;Beaujoire - Francois Mitterand, Nantes;frapdl.1nan
+franat;1;;Ranzay - Jamet, Nantes;frapdl.1jam
+franat;2;;Nantes;frapdl.2nan
+franat;3;;Nantes;frapdl.3nan

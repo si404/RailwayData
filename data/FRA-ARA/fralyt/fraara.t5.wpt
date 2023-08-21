@@ -1,12 +1,12 @@
-GrangeBlanche http://www.openstreetmap.org/?lat=45.742618&lon=4.879142
-AmbrosePare http://www.openstreetmap.org/?lat=45.741506&lon=4.883959
-Desgenettes http://www.openstreetmap.org/?lat=45.739065&lon=4.892156
-EssartsIris http://www.openstreetmap.org/?lat=45.737200&lon=4.898175
-BoutasseCamilleRousset http://www.openstreetmap.org/?lat=45.734888&lon=4.904564
-HotelVilleBron http://www.openstreetmap.org/?lat=45.733381&lon=4.909118
-LesAlizes http://www.openstreetmap.org/?lat=45.731531&lon=4.914773
-+X354245 http://www.openstreetmap.org/?lat=45.730693&lon=4.917305
-TassignyCurial http://www.openstreetmap.org/?lat=45.735789&lon=4.917047
-LyceeJeanPaulSartre http://www.openstreetmap.org/?lat=45.737990&lon=4.922218
-ParcChene http://www.openstreetmap.org/?lat=45.738994&lon=4.926617
-Eurexpo http://www.openstreetmap.org/?lat=45.731910&lon=4.948032
+GraBla +GrangeBlanche http://www.openstreetmap.org/?lat=45.742618&lon=4.879142
+AmbPare +AmbrosePare http://www.openstreetmap.org/?lat=45.741506&lon=4.883959
+Des +Desgenettes http://www.openstreetmap.org/?lat=45.739065&lon=4.892156
+EssIris +EssartsIris http://www.openstreetmap.org/?lat=45.737200&lon=4.898175
+BouCamRou +BoutasseCamilleRousset http://www.openstreetmap.org/?lat=45.734888&lon=4.904564
+HotVilBron +HotelVilleBron http://www.openstreetmap.org/?lat=45.733381&lon=4.909118
+Ali +LesAlizes http://www.openstreetmap.org/?lat=45.731531&lon=4.914773
++DIV_T2 http://www.openstreetmap.org/?lat=45.730693&lon=4.917305
+TasCur +TassignyCurial http://www.openstreetmap.org/?lat=45.735789&lon=4.917047
+LycJeanPaulSar +LyceeJeanPaulSartre http://www.openstreetmap.org/?lat=45.737990&lon=4.922218
+ParcChe +ParcChene http://www.openstreetmap.org/?lat=45.738994&lon=4.926617
+Eur +Eurexpo http://www.openstreetmap.org/?lat=45.731910&lon=4.948032

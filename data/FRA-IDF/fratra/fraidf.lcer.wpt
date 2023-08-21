@@ -1,24 +1,28 @@
-BeconBruyeres http://www.openstreetmap.org/?lat=48.905507&lon=2.268634
-Vallees http://www.openstreetmap.org/?lat=48.913574&lon=2.257991
-+X164505 http://www.openstreetmap.org/?lat=48.913270&lon=2.252004
-GarenneColombes http://www.openstreetmap.org/?lat=48.909674&lon=2.239859
-+X327384 http://www.openstreetmap.org/?lat=48.907925&lon=2.234752
-+X625265 http://www.openstreetmap.org/?lat=48.902054&lon=2.216663
-NanterreUniversite http://www.openstreetmap.org/?lat=48.901032&lon=2.213391
-+X198482 http://www.openstreetmap.org/?lat=48.901106&lon=2.208037
-+X141762 http://www.openstreetmap.org/?lat=48.916507&lon=2.193189
-HouillesCarrieresSurSeine http://www.openstreetmap.org/?lat=48.920286&lon=2.185464
+ParStLaz http://www.openstreetmap.org/?lat=48.876532&lon=2.325261
+PontCar http://www.openstreetmap.org/?lat=48.888014&lon=2.314038
+CliLev http://www.openstreetmap.org/?lat=48.897184&lon=2.298331
+AsnSei http://www.openstreetmap.org/?lat=48.905986&lon=2.283268
+BeaBru +BeconBruyeres http://www.openstreetmap.org/?lat=48.905507&lon=2.268634
+Val +Vallees http://www.openstreetmap.org/?lat=48.913574&lon=2.257991
+DIV_LE http://www.openstreetmap.org/?lat=48.913270&lon=2.252004
+GarCol +GarenneColombes http://www.openstreetmap.org/?lat=48.909674&lon=2.239859
++DIV_LW http://www.openstreetmap.org/?lat=48.907925&lon=2.234752
++DIV_AE http://www.openstreetmap.org/?lat=48.902054&lon=2.216663
+NanUni +NanterreUniversite http://www.openstreetmap.org/?lat=48.901032&lon=2.213391
++DIV_AW http://www.openstreetmap.org/?lat=48.901106&lon=2.208037
++DIV_LS http://www.openstreetmap.org/?lat=48.916507&lon=2.193189
+HouCarSei +HouillesCarrieresSurSeine http://www.openstreetmap.org/?lat=48.920286&lon=2.185464
 +X214609 http://www.openstreetmap.org/?lat=48.933369&lon=2.163963
-Sartrouville http://www.openstreetmap.org/?lat=48.937738&lon=2.157140
-MaisonsLaffitte http://www.openstreetmap.org/?lat=48.945828&lon=2.144437
-+X900916 http://www.openstreetmap.org/?lat=48.956129&lon=2.128086
+Sar +Sartrouville http://www.openstreetmap.org/?lat=48.937738&lon=2.157140
+MaiLaf +MaisonsLaffitte http://www.openstreetmap.org/?lat=48.945828&lon=2.144437
++DIV_LN http://www.openstreetmap.org/?lat=48.956129&lon=2.128086
 +X398283 http://www.openstreetmap.org/?lat=48.958003&lon=2.082038
-AcheresVille http://www.openstreetmap.org/?lat=48.970175&lon=2.077789
-ConflansFinOise http://www.openstreetmap.org/?lat=48.991862&lon=2.073627
+AchVil +AcheresVille http://www.openstreetmap.org/?lat=48.970175&lon=2.077789
+ConFinOise +ConflansFinOise http://www.openstreetmap.org/?lat=48.991862&lon=2.073627
 +X488379 http://www.openstreetmap.org/?lat=49.009853&lon=2.077274
-NeuvilleUniversite http://www.openstreetmap.org/?lat=49.014300&lon=2.078304
+NeuUni +NeuvilleUniversite http://www.openstreetmap.org/?lat=49.014300&lon=2.078304
 +X405808 http://www.openstreetmap.org/?lat=49.028400&lon=2.091222
-CergyPrefecture http://www.openstreetmap.org/?lat=49.036623&lon=2.079506
+CerPre +CergyPrefecture http://www.openstreetmap.org/?lat=49.036623&lon=2.079506
 +X678758 http://www.openstreetmap.org/?lat=49.046174&lon=2.067211
-CergySaintChristophe http://www.openstreetmap.org/?lat=49.049619&lon=2.034724
-CergyHaut http://www.openstreetmap.org/?lat=49.048776&lon=2.012429
+CerStChr +CergySaintChristophe http://www.openstreetmap.org/?lat=49.049619&lon=2.034724
+CerHaut +CergyHaut http://www.openstreetmap.org/?lat=49.048776&lon=2.012429

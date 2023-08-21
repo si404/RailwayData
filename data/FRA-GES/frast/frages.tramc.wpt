@@ -1,20 +1,21 @@
-GareCentrale http://www.openstreetmap.org/?lat=48.585298&lon=7.733989
-FaubourgSaverne http://www.openstreetmap.org/?lat=48.585419&lon=7.740287
-+X318949 http://www.openstreetmap.org/?lat=48.583879&lon=7.741756
-HommeFer http://www.openstreetmap.org/?lat=48.584340&lon=7.744374
-Broglie http://www.openstreetmap.org/?lat=48.584709&lon=7.749245
-Republique http://www.openstreetmap.org/?lat=48.586171&lon=7.754502
-Gallia http://www.openstreetmap.org/?lat=48.584340&lon=7.758386
-Universite http://www.openstreetmap.org/?lat=48.582743&lon=7.763965
-Observatoire http://www.openstreetmap.org/?lat=48.581402&lon=7.768847
-+X319608 http://www.openstreetmap.org/?lat=48.581153&lon=7.769651
-Esplanade http://www.openstreetmap.org/?lat=48.578389&lon=7.769437
-WinstonChurchill http://www.openstreetmap.org/?lat=48.573746&lon=7.766712
-Landsberg http://www.openstreetmap.org/?lat=48.569629&lon=7.763128
-JeanJaures http://www.openstreetmap.org/?lat=48.567187&lon=7.772226
-+X147611 http://www.openstreetmap.org/?lat=48.567016&lon=7.772870
-JeanMonnet http://www.openstreetmap.org/?lat=48.564407&lon=7.769469
-Graviere http://www.openstreetmap.org/?lat=48.561368&lon=7.764384
-Kibitzenau http://www.openstreetmap.org/?lat=48.555084&lon=7.767184
-SaintChristophe http://www.openstreetmap.org/?lat=48.551100&lon=7.766325
-NeuhofRodolpheReuss http://www.openstreetmap.org/?lat=48.546132&lon=7.766787
+GareCen +GareCentrale http://www.openstreetmap.org/?lat=48.585298&lon=7.733989
++X142700 http://www.openstreetmap.org/?lat=48.587442&lon=7.738645
+FauSav +FaubourgSaverne http://www.openstreetmap.org/?lat=48.585419&lon=7.740287
++DIV_BF http://www.openstreetmap.org/?lat=48.583879&lon=7.741756
+HomFer +HommeFer http://www.openstreetmap.org/?lat=48.584340&lon=7.744374
+Bro +Broglie http://www.openstreetmap.org/?lat=48.584709&lon=7.749245
+Rep +Republique http://www.openstreetmap.org/?lat=48.586171&lon=7.754502
+Gal +Gallia http://www.openstreetmap.org/?lat=48.584340&lon=7.758386
+Uni +Universite http://www.openstreetmap.org/?lat=48.582743&lon=7.763965
+Obs +Observatoire http://www.openstreetmap.org/?lat=48.581402&lon=7.768847
++DIV_F http://www.openstreetmap.org/?lat=48.581153&lon=7.769651
+Esp +Esplanade http://www.openstreetmap.org/?lat=48.578389&lon=7.769437
+WinChu +WinstonChurchill http://www.openstreetmap.org/?lat=48.573746&lon=7.766712
+Lan +Landsberg http://www.openstreetmap.org/?lat=48.569629&lon=7.763128
+JeanJau +JeanJaures http://www.openstreetmap.org/?lat=48.567187&lon=7.772226
++DIV_D http://www.openstreetmap.org/?lat=48.567016&lon=7.772870
+JeanMon +JeanMonnet http://www.openstreetmap.org/?lat=48.564407&lon=7.769469
+Gra +Graviere http://www.openstreetmap.org/?lat=48.561368&lon=7.764384
+Kib +Kibitzenau http://www.openstreetmap.org/?lat=48.555084&lon=7.767184
+StChr +SaintChristophe http://www.openstreetmap.org/?lat=48.551100&lon=7.766325
+NeuRodReu +NeuhofRodolpheReuss http://www.openstreetmap.org/?lat=48.546132&lon=7.766787

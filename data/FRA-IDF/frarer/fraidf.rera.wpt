@@ -1,38 +1,36 @@
-CergyHaut http://www.openstreetmap.org/?lat=49.048776&lon=2.012429
-CergySaintChristophe http://www.openstreetmap.org/?lat=49.049619&lon=2.034724
-+X678758 http://www.openstreetmap.org/?lat=49.046174&lon=2.067211
-CergyPrefecture http://www.openstreetmap.org/?lat=49.036623&lon=2.079506
-+X405808 http://www.openstreetmap.org/?lat=49.028400&lon=2.091222
-NeuvilleUniversite http://www.openstreetmap.org/?lat=49.014300&lon=2.078304
-+X488379 http://www.openstreetmap.org/?lat=49.009853&lon=2.077274
-ConflansFinOise http://www.openstreetmap.org/?lat=48.991862&lon=2.073627
-AcheresVille http://www.openstreetmap.org/?lat=48.970175&lon=2.077789
-+X398283 http://www.openstreetmap.org/?lat=48.958003&lon=2.082038
-+X900916 http://www.openstreetmap.org/?lat=48.956129&lon=2.128086
-MaisonsLaffitte http://www.openstreetmap.org/?lat=48.945828&lon=2.144437
-Sartrouville http://www.openstreetmap.org/?lat=48.937738&lon=2.157140
-+X214609 http://www.openstreetmap.org/?lat=48.933369&lon=2.163963
-HouillesCarrieresSurSeine http://www.openstreetmap.org/?lat=48.920286&lon=2.185464
-+X141762 http://www.openstreetmap.org/?lat=48.916507&lon=2.193189
-+X198482 http://www.openstreetmap.org/?lat=48.901106&lon=2.208037
-+X185754 http://www.openstreetmap.org/?lat=48.897502&lon=2.221148
-NanterrePrefecture http://www.openstreetmap.org/?lat=48.895739&lon=2.223165
-LaDefense http://www.openstreetmap.org/?lat=48.891656&lon=2.238727
-CharlesGaulleEtoile http://www.openstreetmap.org/?lat=48.874267&lon=2.295284
-Auber http://www.openstreetmap.org/?lat=48.872231&lon=2.329810
-ChateletHalles http://www.openstreetmap.org/?lat=48.861567&lon=2.346911
-+X975219 http://www.openstreetmap.org/?lat=48.858228&lon=2.348607
+StGerLaye +SaintGermainLaye http://www.openstreetmap.org/?lat=48.900119&lon=2.095181
++X871920 http://www.openstreetmap.org/?lat=48.903906&lon=2.104354
+VesPecq +VesinetPecq http://www.openstreetmap.org/?lat=48.897953&lon=2.122142
+VesCen +VesinetCentre http://www.openstreetmap.org/?lat=48.890102&lon=2.134566
+ChaCro +ChatouCroissy http://www.openstreetmap.org/?lat=48.885221&lon=2.156239
+RueMal +RueilMalmaison http://www.openstreetmap.org/?lat=48.887281&lon=2.171516
+NanVil +NanterreVille http://www.openstreetmap.org/?lat=48.895463&lon=2.196364
+NanUni +NanterreUniversite http://www.openstreetmap.org/?lat=48.901032&lon=2.213391
+DIV_L http://www.openstreetmap.org/?lat=48.902054&lon=2.216663
++DIV_Cer http://www.openstreetmap.org/?lat=48.897502&lon=2.221148
+NanPre +NanterrePrefecture http://www.openstreetmap.org/?lat=48.895739&lon=2.223165
+LaDef +LaDefense http://www.openstreetmap.org/?lat=48.891656&lon=2.238727
+ChaGauEto +CharlesGaulleEtoile http://www.openstreetmap.org/?lat=48.874267&lon=2.295284
++X183233 http://www.openstreetmap.org/?lat=48.875286&lon=2.315969
+Aub +Auber http://www.openstreetmap.org/?lat=48.872231&lon=2.329810
++X452867 http://www.openstreetmap.org/?lat=48.867316&lon=2.343972
+ChaHal +ChateletHalles http://www.openstreetmap.org/?lat=48.861567&lon=2.346911
++DIV_B http://www.openstreetmap.org/?lat=48.858228&lon=2.348607
++X629379 http://www.openstreetmap.org/?lat=48.852023&lon=2.362533
 GareLyon http://www.openstreetmap.org/?lat=48.844794&lon=2.373497
-Nation http://www.openstreetmap.org/?lat=48.848204&lon=2.395985
-Vincennes http://www.openstreetmap.org/?lat=48.847286&lon=2.433450
-+X571511 http://www.openstreetmap.org/?lat=48.844589&lon=2.460465
-ValFontenay http://www.openstreetmap.org/?lat=48.854219&lon=2.489090
-NeuillyPlaisance http://www.openstreetmap.org/?lat=48.853357&lon=2.513916
-BryMarne http://www.openstreetmap.org/?lat=48.844644&lon=2.526174
-NoisyGrandMontEst http://www.openstreetmap.org/?lat=48.840818&lon=2.547734
-NoisyChamps http://www.openstreetmap.org/?lat=48.842986&lon=2.580929
-NoisielLuzard http://www.openstreetmap.org/?lat=48.843438&lon=2.616034
-Torcy http://www.openstreetmap.org/?lat=48.839512&lon=2.654743
-BussySaintGeorges http://www.openstreetmap.org/?lat=48.837054&lon=2.712550
-ValEurope http://www.openstreetmap.org/?lat=48.855553&lon=2.773705
-MarneValleeChessy http://www.openstreetmap.org/?lat=48.869669&lon=2.782502
++DIV_D http://www.openstreetmap.org/?lat=48.842449&lon=2.378840
++X219276 http://www.openstreetmap.org/?lat=48.848670&lon=2.386951
+Nat +Nation http://www.openstreetmap.org/?lat=48.848204&lon=2.395985
++X464753 http://www.openstreetmap.org/?lat=48.844313&lon=2.409589
+Vin +Vincennes http://www.openstreetmap.org/?lat=48.847286&lon=2.433450
++DIV_Boi http://www.openstreetmap.org/?lat=48.844589&lon=2.460465
+ValFon +ValFontenay http://www.openstreetmap.org/?lat=48.854219&lon=2.489090
+NeuPla +NeuillyPlaisance http://www.openstreetmap.org/?lat=48.853357&lon=2.513916
+BryMar +BryMarne http://www.openstreetmap.org/?lat=48.844644&lon=2.526174
+NoiGraMontEst +NoisyGrandMontEst http://www.openstreetmap.org/?lat=48.840818&lon=2.547734
+NoiCha +NoisyChamps http://www.openstreetmap.org/?lat=48.842986&lon=2.580929
+NoiLuz +NoisielLuzard http://www.openstreetmap.org/?lat=48.843438&lon=2.616034
+Tor +Torcy http://www.openstreetmap.org/?lat=48.839512&lon=2.654743
+BusStGeo +BussySaintGeorges http://www.openstreetmap.org/?lat=48.837054&lon=2.712550
+ValEur +ValEurope http://www.openstreetmap.org/?lat=48.855553&lon=2.773705
+MarValChe +MarneValleeChessy http://www.openstreetmap.org/?lat=48.869669&lon=2.782502

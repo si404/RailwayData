@@ -1,20 +1,20 @@
-Amiens http://www.openstreetmap.org/?lat=49.890097&lon=2.309114
-+X766947 http://www.openstreetmap.org/?lat=49.880758&lon=2.337470
-+X810210 http://www.openstreetmap.org/?lat=49.880498&lon=2.361159
-+X702561 http://www.openstreetmap.org/?lat=49.882406&lon=2.375236
+Ami +Amiens http://www.openstreetmap.org/?lat=49.890097&lon=2.309114
++DIV_K10 http://www.openstreetmap.org/?lat=49.880758&lon=2.337470
++DIV_K12S http://www.openstreetmap.org/?lat=49.880498&lon=2.361159
++DIV_K12N http://www.openstreetmap.org/?lat=49.882406&lon=2.375236
 +X569545 http://www.openstreetmap.org/?lat=49.867658&lon=2.448363
 +X838148 http://www.openstreetmap.org/?lat=49.871821&lon=2.496707
-+VillersBretonneux http://www.openstreetmap.org/?lat=49.862707&lon=2.521491
-+Marcelcave http://www.openstreetmap.org/?lat=49.853162&lon=2.582388
-+Rosieres http://www.openstreetmap.org/?lat=49.822688&lon=2.711349
-+Chaulnes http://www.openstreetmap.org/?lat=49.807457&lon=2.801085
-+Nesle http://www.openstreetmap.org/?lat=49.764066&lon=2.908931
++SKIP_VilBre http://www.openstreetmap.org/?lat=49.862707&lon=2.521491
++SKIP_Mar http://www.openstreetmap.org/?lat=49.853162&lon=2.582388
++SKIP_Ros http://www.openstreetmap.org/?lat=49.822688&lon=2.711349
++SKIP_Cha http://www.openstreetmap.org/?lat=49.807457&lon=2.801085
++SKIP_Nes http://www.openstreetmap.org/?lat=49.764066&lon=2.908931
 +X853874 http://www.openstreetmap.org/?lat=49.742412&lon=3.027463
 Ham http://www.openstreetmap.org/?lat=49.739632&lon=3.070550
-+FlavyMartel http://www.openstreetmap.org/?lat=49.718840&lon=3.189983
-+X498281 http://www.openstreetmap.org/?lat=49.707615&lon=3.241353
-+X992780 http://www.openstreetmap.org/?lat=49.714178&lon=3.254120
-+Montescourt http://www.openstreetmap.org/?lat=49.737995&lon=3.251889
++SKIP_FlaMar http://www.openstreetmap.org/?lat=49.718840&lon=3.189983
++DIV_P20 http://www.openstreetmap.org/?lat=49.707615&lon=3.241353
++DIV_K13 http://www.openstreetmap.org/?lat=49.714178&lon=3.254120
++SKIP_Mon http://www.openstreetmap.org/?lat=49.737995&lon=3.251889
 +X420687 http://www.openstreetmap.org/?lat=49.825235&lon=3.274398
 +X578813 http://www.openstreetmap.org/?lat=49.837709&lon=3.293109
-SaintQuentin http://www.openstreetmap.org/?lat=49.839688&lon=3.297207
+StQue +SaintQuentin http://www.openstreetmap.org/?lat=49.839688&lon=3.297207

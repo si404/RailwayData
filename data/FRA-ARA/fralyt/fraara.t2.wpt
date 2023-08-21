@@ -1,34 +1,34 @@
-HotelRegionMontrochet http://www.openstreetmap.org/?lat=45.740596&lon=4.819050
-SainteBlandine http://www.openstreetmap.org/?lat=45.744190&lon=4.822097
-PlaceArchives http://www.openstreetmap.org/?lat=45.747080&lon=4.824543
-Perrache http://www.openstreetmap.org/?lat=45.748267&lon=4.825584
-+X646910 http://www.openstreetmap.org/?lat=45.747937&lon=4.833555
-CentreBerthelotSciencePoLyon http://www.openstreetmap.org/?lat=45.747036&lon=4.836342
+HotRegMon +HotelRegionMontrochet http://www.openstreetmap.org/?lat=45.740596&lon=4.819050
+StBla +SainteBlandine http://www.openstreetmap.org/?lat=45.744190&lon=4.822097
+PlaArc +PlaceArchives http://www.openstreetmap.org/?lat=45.747080&lon=4.824543
+Per +Perrache http://www.openstreetmap.org/?lat=45.748267&lon=4.825584
++DIV_T1 http://www.openstreetmap.org/?lat=45.747937&lon=4.833555
+CenBerSciPoLyon +CentreBerthelotSciencePoLyon http://www.openstreetmap.org/?lat=45.747036&lon=4.836342
 JeanMace http://www.openstreetmap.org/?lat=45.745051&lon=4.842052
-GaribaldiBerthelot http://www.openstreetmap.org/?lat=45.743670&lon=4.846870
-RouteVienne http://www.openstreetmap.org/?lat=45.742120&lon=4.851794
-JetEauMendesFrance http://www.openstreetmap.org/?lat=45.739649&lon=4.859465
-Villon http://www.openstreetmap.org/?lat=45.738398&lon=4.863296
-BachutMairie8eme http://www.openstreetmap.org/?lat=45.736833&lon=4.868242
-JeanXXIIIMaryseBastie http://www.openstreetmap.org/?lat=45.740225&lon=4.874507
-GrangeBlanche http://www.openstreetmap.org/?lat=45.742618&lon=4.879142
-AmbrosePare http://www.openstreetmap.org/?lat=45.741506&lon=4.883959
-Desgenettes http://www.openstreetmap.org/?lat=45.739065&lon=4.892156
-EssartsIris http://www.openstreetmap.org/?lat=45.737200&lon=4.898175
-BoutasseCamilleRousset http://www.openstreetmap.org/?lat=45.734888&lon=4.904564
-HotelVilleBron http://www.openstreetmap.org/?lat=45.733381&lon=4.909118
-LesAlizes http://www.openstreetmap.org/?lat=45.731531&lon=4.914773
-+X354245 http://www.openstreetmap.org/?lat=45.730693&lon=4.917305
-Rebufer http://www.openstreetmap.org/?lat=45.727525&lon=4.915652
-ParillyUniversiteHippodrome http://www.openstreetmap.org/?lat=45.722098&lon=4.915159
-EuropeUniversite http://www.openstreetmap.org/?lat=45.719611&lon=4.918120
-PorteAlpes http://www.openstreetmap.org/?lat=45.718323&lon=4.925802
-ParcTechnologique http://www.openstreetmap.org/?lat=45.714368&lon=4.931252
-HautsFeuilly http://www.openstreetmap.org/?lat=45.708110&lon=4.937598
+GarBer +GaribaldiBerthelot http://www.openstreetmap.org/?lat=45.743670&lon=4.846870
+RouVie +RouteVienne http://www.openstreetmap.org/?lat=45.742120&lon=4.851794
+JetEauMenFra +JetEauMendesFrance http://www.openstreetmap.org/?lat=45.739649&lon=4.859465
+Vil +Villon http://www.openstreetmap.org/?lat=45.738398&lon=4.863296
+BacMar8eme +BachutMairie8eme http://www.openstreetmap.org/?lat=45.736833&lon=4.868242
+JeanXXIIIMarBas +JeanXXIIIMaryseBastie http://www.openstreetmap.org/?lat=45.740225&lon=4.874507
+GraBla +GrangeBlanche http://www.openstreetmap.org/?lat=45.742618&lon=4.879142
+AmbPare +AmbrosePare http://www.openstreetmap.org/?lat=45.741506&lon=4.883959
+Des +Desgenettes http://www.openstreetmap.org/?lat=45.739065&lon=4.892156
+EssIris +EssartsIris http://www.openstreetmap.org/?lat=45.737200&lon=4.898175
+BouCamRou +BoutasseCamilleRousset http://www.openstreetmap.org/?lat=45.734888&lon=4.904564
+HotVilBron +HotelVilleBron http://www.openstreetmap.org/?lat=45.733381&lon=4.909118
+Ali +LesAlizes http://www.openstreetmap.org/?lat=45.731531&lon=4.914773
++DIV_T5 http://www.openstreetmap.org/?lat=45.730693&lon=4.917305
+Reb +Rebufer http://www.openstreetmap.org/?lat=45.727525&lon=4.915652
+ParUniHip +ParillyUniversiteHippodrome http://www.openstreetmap.org/?lat=45.722098&lon=4.915159
+EurUni +EuropeUniversite http://www.openstreetmap.org/?lat=45.719611&lon=4.918120
+PorAlp +PorteAlpes http://www.openstreetmap.org/?lat=45.718323&lon=4.925802
+ParcTec +ParcTechnologique http://www.openstreetmap.org/?lat=45.714368&lon=4.931252
+HauFeu +HautsFeuilly http://www.openstreetmap.org/?lat=45.708110&lon=4.937598
 SalvadorAllende http://www.openstreetmap.org/?lat=45.703435&lon=4.934894
-AlfredVigny http://www.openstreetmap.org/?lat=45.699617&lon=4.936112
-SaintPriesteHotelVille http://www.openstreetmap.org/?lat=45.695043&lon=4.936858
-EsplanadeArts http://www.openstreetmap.org/?lat=45.694488&lon=4.940624
-JulesFerry http://www.openstreetmap.org/?lat=45.694717&lon=4.946846
-Cordiere http://www.openstreetmap.org/?lat=45.693653&lon=4.949727
-SaintPriestBelAir http://www.openstreetmap.org/?lat=45.692652&lon=4.955853
+AlfVig +AlfredVigny http://www.openstreetmap.org/?lat=45.699617&lon=4.936112
+StPriHotVil +SaintPriesteHotelVille http://www.openstreetmap.org/?lat=45.695043&lon=4.936858
+EspArts +EsplanadeArts http://www.openstreetmap.org/?lat=45.694488&lon=4.940624
+JulFry +JulesFerry http://www.openstreetmap.org/?lat=45.694717&lon=4.946846
+Cor +Cordiere http://www.openstreetmap.org/?lat=45.693653&lon=4.949727
+StPriBelAir +SaintPriestBelAir http://www.openstreetmap.org/?lat=45.692652&lon=4.955853

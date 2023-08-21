@@ -1,26 +1,26 @@
 systemName;route;banner;groupName;roots
-fratra;H;;Pontoise branch;fraidf.h
-fratra;H;;Valmondois branch;fraidf.hval
-fratra;H;;Persan-Beaumont branch;fraidf.hper
-fratra;H;;Luzarches branch;fraidf.hluz
+fratra;H;;Pontoise;fraidf.h
+fratra;H;;Persan Beaumont via Valmondois;fraidf.hval
+fratra;H;;Persan-Beaumont via Montsoult-Maffliers;fraidf.hper
+fratra;H;;Luzarches;fraidf.hluz
 fratra;H;;Transversal;fraidf.htra,frahdf.h
-fratra;J;;Gisors branch;fraidf.j,frahdf.j,franor.j
-fratra;J;;Ermont-Eaubonne branch;fraidf.jerm
-fratra;J;;Juziers branch;fraidf.jjuz
-fratra;J;;Vernon branch;fraidf.jver,franor.jver
+fratra;J;;Gisors;fraidf.j,frahdf.j,franor.j
+fratra;J;;Ermont-Eaubonne;fraidf.jerm
+fratra;J;;Mantes-la-Jolie via Juziers;fraidf.jjuz
+fratra;J;;Vernon;fraidf.jver,franor.jver
 fratra;K;;;fraidf.k,frahdf.k
-fratra;L;;Versailles branch;fraidf.l
-fratra;L;;Cergy branch;fraidf.lcer
-fratra;L;;Marly branch;fraidf.lmar
-fratra;N;;Mantes branch;fraidf.n
-fratra;N;;Ramboullet branch;fraidf.nram
-fratra;N;;Dreux branch;fraidf.ndre,fracvl.n
-fratra;P;;Meaux branch;fraidf.p,frahdf.p
-fratra;P;;Crecy-la-Chapelle branch;fraidf.pcre
-fratra;P;;La Ferte Milon branch;fraidf.pfer,frahdf.pfer
-fratra;P;;Coulommiers branch;fraidf.pcou
-fratra;P;;Provins branch;fraidf.ppro
-fratra;R;;Montargis branch;fraidf.r,fracvl.r
-fratra;R;;Montereau branch;fraidf.rmon
+fratra;L;;Versailles-Rive-Droite;fraidf.l
+fratra;L;;Cergy-le-Haut;fraidf.lcer
+fratra;L;;Saint-Nom-la-Breteche;fraidf.lmar
+fratra;N;;Mantes-la-Jolie;fraidf.n
+fratra;N;;Ramboullet;fraidf.nram
+fratra;N;;Dreux;fraidf.ndre,fracvl.n
+fratra;P;;Chateau-Thierry;fraidf.p,frahdf.p
+fratra;P;;Crecy-la-Chapelle;fraidf.pcre
+fratra;P;;La Ferte Milon;fraidf.pfer,frahdf.pfer
+fratra;P;;Coulommiers;fraidf.pcou
+fratra;P;;Provins;fraidf.ppro
+fratra;R;;Montargis;fraidf.r,fracvl.r
+fratra;R;;Montereau;fraidf.rmon
 fratra;R;;Melun - Montereau;fraidf.rcha
 fratra;U;;;fraidf.u

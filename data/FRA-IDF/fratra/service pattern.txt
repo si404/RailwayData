@@ -1,46 +1,46 @@
 H
-Luz	2tph	Paris-Nord - Montsoult-Maffliers	all stops
-Luz	2tph	Paris-Nord - Luzarches	all stops
-Per	1tph	Paris-Nord - Montsoult-Maffliers - Persan-Beaumont	all stops
-Val	1tph	Paris-Nord - Valmondois - Persan-Beaumont	all stops
-Val	1tph	Paris-Nord - Valmondois	all stops
--	2tph	Paris-Nord - Pontoise	all stops
-Tra	1tph	Pontoise - Persan-Beaumont	all stops, some trains extend to Creil
+Luz	2tph	Paris-Nord - all - Montsoult-Maffliers
+Luz	1tph	Paris-Nord - all - Luzarches
+Per	1tph	Paris-Nord - all - Montsoult-Maffliers - all - Persan-Beaumont
+Val	1tph	Paris-Nord - all - Valmondois - all - Persan-Beaumont
+Val	1tph	Paris-Nord - all - Valmondois
+-	2tph	Paris-Nord - all - Pontoise
+Tra	1tph	Pontoise - all - Persan-Beaumont, some trains extend to Creil
 
 J
-Erm	4tph	Paris-Saint-Lazare - Ermont-Eaubonne	all stops
-Ver	2tph	Paris-Saint-Lazare - Poissy - Mantes-la-Jolie	all stops (peak extension to Vernon-Giverny)
--	1tph	Paris-Saint-Lazare - Gisors	all stops from Argenteuil
--	1tph	Paris-Saint-Lazare - Pontoise or Boissy-l'Aillerie	all stops
-Juz	1tph	Paris-Saint-Lazare - Andresy - Mantes-la-Jolie	all stops from Argenteuil
+Erm	4tph	Paris-Saint-Lazare - Asnieres-sur-Seine - all - Ermont-Eaubonne
+Ver	2tph	Paris-Saint-Lazare - Houilles-Carriers-sur-Seine - Poissy - all - Mantes-la-Jolie (peak extension to Vernon-Giverny)
+-	1tph	Paris-Saint-Lazare - Argenteuil - all - Gisors
+-	1tph	Paris-Saint-Lazare - Argenteuil - all - Pontoise or Boissy-l'Aillerie
+Juz	2tph	Paris-Saint-Lazare - Argenteuil - all - Mantes-la-Jolie
 
 K
--	10tpd	Paris-Nord - Crepy-en-Valois	all stops
+-	some	Paris-Nord - all - Crepy-en-Valois
 
 L
--	4tph	Paris-Saint-Lazare - Saint-Nom-la-Breteche	all stops from Becon-les-Bruyeres, except Surenes-Mont-Valerien
-Mar	4tph	Paris-Saint-Lazare - Versailles-Rive-Droite	all stops to Asnières- sur-Seine, then La Défense - Grande Arche, Suresnes-Mont-Valérien and all stations from Saint-Cloud to Versailles-Rive-Droite
-Cer	3tph	Paris-Saint-Lazare - Nanterre-Universitie	all stops
-Cer	1tph	Paris-Saint-Lazare - Cergy-le-Haut	all stops
+-	4tph	Paris-Saint-Lazare - Becon-les-Bruyeres - all (except Suresnes-Mont-Valerien) -Saint-Nom-la-Breteche
+Mar	4tph	Paris-Saint-Lazare - Asnières-sur-Seine - La Défense-Grande Arche - Suresnes-Mont-Valérien - Saint-Cloud - all - Versailles-Rive-Droite
+Cer	6tph	Paris-Saint-Lazare - all - Nanterre-Universitie
+Cer	1tph	Paris-Saint-Lazare - all - Cergy-le-Haut
 
 N
--	2tph	Paris-Montparnasse - Plaisir-Grignon	all stops
-Dre	limited	Paris-Montparnasse - Dreux	Versailles-Chantiers, Plaisir-Grignon, then all stops
--	1tph	Paris-Montparnasse - Mantes-la-Jolie	all stops
-Ram	2tph	Paris-Montparnasse - Rambouillet	all stops
+-	2tph	Paris-Montparnasse - all - Plaisir-Grignon
+Dre	limited	Paris-Montparnasse - Versailles-Chantiers - Plaisir-Grignon - all - Dreux
+-	1tph	Paris-Montparnasse - all - Mantes-la-Jolie
+Ram	2tph	Paris-Montparnasse - all - Rambouillet
 
 P
--	2tph	Paris-Est - Meaux	all stops from Chelles
--	1tph	Paris-Est - Chateau-Thierry	all stops from Meaux
-Fer	1tph	Meaux - La Ferte-Milon	all stops
-Pro	1tph	Paris-Est - Provins	all stops from Verneuil-l'Etang
-Cou	1tph	Paris-Est - Coulommiers	all stops from Tournan
-Cre	1tph	Esbly - Crecy-la-Chapelle	all stops
+-	2tph	Paris-Est - Chelles-Gournay - all - Meaux
+-	1tph	Paris-Est - Meaux - all - Chateau-Thierry
+Fer	1tph	Meaux - all - La Ferte-Milon
+Pro	1tph	Paris-Est - Verneuil-l'Etang - all - Provins
+Cou	1tph	Paris-Est - Tournan - all - Coulommiers
+Cre	1tph	Esbly - all - Crecy-la-Chapelle
 
 R
-Mon	1tph	Paris-Gare-du-Lyon - Monterau	all stops
--	1tph	Paris-Gare-du-Lyon - Montargis	stops at Melun and various stations beyond
-Cha	1tph	Melun - Monterau	all stops
+Mon	1tph	Paris-Gare-du-Lyon - all - Monterau
+-	1tph	Paris-Gare-du-Lyon - all - Montargis	irregular stopping pattern
+Cha	1tph	Melun - all - Monterau
 
 U
--	1tph	La Defense - La Verriere	all stops
+-	1tph	La Defense - all - La Verriere

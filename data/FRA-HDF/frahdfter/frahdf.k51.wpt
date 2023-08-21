@@ -1,25 +1,25 @@
-LilleFlanders http://www.openstreetmap.org/?lat=50.636309&lon=3.070765
-+X991088 http://www.openstreetmap.org/?lat=50.634472&lon=3.077931
-+X728977 http://www.openstreetmap.org/?lat=50.630361&lon=3.083360
-+X564882 http://www.openstreetmap.org/?lat=50.623011&lon=3.089690
-+X471258 http://www.openstreetmap.org/?lat=50.618382&lon=3.091278
+LilFla +LilleFlanders http://www.openstreetmap.org/?lat=50.636309&lon=3.070765
++DIV_C70 http://www.openstreetmap.org/?lat=50.634472&lon=3.077931
++DIV_K90 http://www.openstreetmap.org/?lat=50.630361&lon=3.083360
++DIV_C60 http://www.openstreetmap.org/?lat=50.623011&lon=3.089690
++DIV_C40 http://www.openstreetmap.org/?lat=50.618382&lon=3.091278
 +X434022 http://www.openstreetmap.org/?lat=50.611179&lon=3.082373
-+LillePorteDouai http://www.openstreetmap.org/?lat=50.611901&lon=3.075871
-LilleCHR http://www.openstreetmap.org/?lat=50.614556&lon=3.034372
-+LoosLezLille http://www.openstreetmap.org/?lat=50.612827&lon=3.017056
-+Haubourdin http://www.openstreetmap.org/?lat=50.606890&lon=2.990170
++SKIP_LilPorDou http://www.openstreetmap.org/?lat=50.611901&lon=3.075871
+LilCHR +LilleCHR http://www.openstreetmap.org/?lat=50.614556&lon=3.034372
++SKIP_LoosLezLil http://www.openstreetmap.org/?lat=50.612827&lon=3.017056
++SKIP_Hau http://www.openstreetmap.org/?lat=50.606890&lon=2.990170
 +X320662 http://www.openstreetmap.org/?lat=50.605024&lon=2.985277
 +X655441 http://www.openstreetmap.org/?lat=50.599788&lon=2.975707
-+Santes http://www.openstreetmap.org/?lat=50.591779&lon=2.962189
-+Wavrin http://www.openstreetmap.org/?lat=50.574557&lon=2.936354
-+LaFontaine http://www.openstreetmap.org/?lat=50.566135&lon=2.926097
-DonSainghin http://www.openstreetmap.org/?lat=50.551712&lon=2.913823
-+X625379 http://www.openstreetmap.org/?lat=50.548658&lon=2.907729
-BauvinProvin http://www.openstreetmap.org/?lat=50.511612&lon=2.905208
-+Meurchin http://www.openstreetmap.org/?lat=50.497773&lon=2.893395
-PontVendin http://www.openstreetmap.org/?lat=50.471368&lon=2.875028
-+Loison http://www.openstreetmap.org/?lat=50.440220&lon=2.859192
-+Sallaumines http://www.openstreetmap.org/?lat=50.422068&lon=2.855544
-+X681730 http://www.openstreetmap.org/?lat=50.416312&lon=2.847390
-+X538009 http://www.openstreetmap.org/?lat=50.422615&lon=2.835760
++SKIP_San http://www.openstreetmap.org/?lat=50.591779&lon=2.962189
++SKIP_Wav http://www.openstreetmap.org/?lat=50.574557&lon=2.936354
++SKIP_Fon http://www.openstreetmap.org/?lat=50.566135&lon=2.926097
+DonSai +DonSainghin http://www.openstreetmap.org/?lat=50.551712&lon=2.913823
++DIV_C50 http://www.openstreetmap.org/?lat=50.548658&lon=2.907729
+BauPro BauvinProvin http://www.openstreetmap.org/?lat=50.511612&lon=2.905208
++SKIP_Meu http://www.openstreetmap.org/?lat=50.497773&lon=2.893395
+PontVen PontVendin http://www.openstreetmap.org/?lat=50.471368&lon=2.875028
++SKIP_Loi http://www.openstreetmap.org/?lat=50.440220&lon=2.859192
++SKIP_Sal http://www.openstreetmap.org/?lat=50.422068&lon=2.855544
++DIV_P42 http://www.openstreetmap.org/?lat=50.416312&lon=2.847390
++DIV_P54 http://www.openstreetmap.org/?lat=50.422615&lon=2.835760
 Lens http://www.openstreetmap.org/?lat=50.426634&lon=2.827992

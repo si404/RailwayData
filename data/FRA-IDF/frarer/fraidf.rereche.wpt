@@ -1,8 +1,14 @@
-NoisySec http://www.openstreetmap.org/?lat=48.896592&lon=2.459779
-+X709112 http://www.openstreetmap.org/?lat=48.895294&lon=2.467976
-Bondy http://www.openstreetmap.org/?lat=48.894081&lon=2.479262
-+X743764 http://www.openstreetmap.org/?lat=48.892332&lon=2.491622
-RaincyVillemombleMontfermeil http://www.openstreetmap.org/?lat=48.888946&lon=2.512822
-Gagny http://www.openstreetmap.org/?lat=48.883810&lon=2.525268
-ChenayGagny http://www.openstreetmap.org/?lat=48.877064&lon=2.553205
-ChellesGournay http://www.openstreetmap.org/?lat=48.874157&lon=2.582731
+HauStLaz +HaussmannSaintLazare http://www.openstreetmap.org/?lat=48.874983&lon=2.328715
++X263030 http://www.openstreetmap.org/?lat=48.875025&lon=2.343800
++X151998 http://www.openstreetmap.org/?lat=48.876747&lon=2.354207
+Mag +Magenta http://www.openstreetmap.org/?lat=48.880741&lon=2.358713
++DIV_Est http://www.openstreetmap.org/?lat=48.889242&lon=2.366030
+RosaPar +RosaParks http://www.openstreetmap.org/?lat=48.896423&lon=2.374077
+Pan +Pantin http://www.openstreetmap.org/?lat=48.898003&lon=2.400427
+NoiSec +NoisySec http://www.openstreetmap.org/?lat=48.896592&lon=2.459779
++DIV_Tou http://www.openstreetmap.org/?lat=48.895294&lon=2.467976
+Bon +Bondy http://www.openstreetmap.org/?lat=48.894081&lon=2.479262
+RaiVilMon +RaincyVillemombleMontfermeil http://www.openstreetmap.org/?lat=48.888946&lon=2.512822
+Gag +Gagny http://www.openstreetmap.org/?lat=48.883810&lon=2.525268
+CheGag +ChenayGagny http://www.openstreetmap.org/?lat=48.877064&lon=2.553205
+CheGou +ChellesGournay http://www.openstreetmap.org/?lat=48.874157&lon=2.582731

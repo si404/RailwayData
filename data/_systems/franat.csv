@@ -1,6 +1,5 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-franat;FRA-PDL;1;;;;frapdl.1;
-franat;FRA-PDL;1;;Jam;Jamet branch;frapdl.1jam;
-franat;FRA-PDL;1;;Ran;Ranzay branch;frapdl.1ran;
-franat;FRA-PDL;2;;;;frapdl.2;
-franat;FRA-PDL;3;;;;frapdl.3;
+franat;FRA-PDL;1;;Nan;Beaujoire - Francois Mitterand, Nantes;frapdl.1nan;
+franat;FRA-PDL;1;;Jam;Ranzay - Jamet, Nantes;frapdl.1jam;1Ran
+franat;FRA-PDL;2;;Nan;Nantes;frapdl.2nan;
+franat;FRA-PDL;3;;Nan;Nantes;frapdl.3nan;

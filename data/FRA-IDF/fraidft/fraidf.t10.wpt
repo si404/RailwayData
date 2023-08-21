@@ -1,13 +1,13 @@
-JardinParisien http://www.openstreetmap.org/?lat=48.791309&lon=2.252562
-HopitalBeclere http://www.openstreetmap.org/?lat=48.786333&lon=2.253571
-Hameau http://www.openstreetmap.org/?lat=48.782642&lon=2.253163
-ParcSports http://www.openstreetmap.org/?lat=48.779730&lon=2.251832
-Noveos http://www.openstreetmap.org/?lat=48.776831&lon=2.250116
-Malabry http://www.openstreetmap.org/?lat=48.769435&lon=2.249494
-ValleeLoups http://www.openstreetmap.org/?lat=48.766621&lon=2.254493
-CiteJardin http://www.openstreetmap.org/?lat=48.765560&lon=2.259557
-LesPeintres http://www.openstreetmap.org/?lat=48.764725&lon=2.265780
-TheatrePiscine http://www.openstreetmap.org/?lat=48.763792&lon=2.272561
-PetitChatenay http://www.openstreetmap.org/?lat=48.762759&lon=2.280350
-Vallee http://www.openstreetmap.org/?lat=48.761430&lon=2.290370
-CroixBerny http://www.openstreetmap.org/?lat=48.762455&lon=2.304640
+JarPar JardinParisien http://www.openstreetmap.org/?lat=48.791309&lon=2.252562
+HopBec HopitalBeclere http://www.openstreetmap.org/?lat=48.786333&lon=2.253571
+Ham Hameau http://www.openstreetmap.org/?lat=48.782642&lon=2.253163
+ParcSpo ParcSports http://www.openstreetmap.org/?lat=48.779730&lon=2.251832
+Nov Noveos http://www.openstreetmap.org/?lat=48.776831&lon=2.250116
+Mal Malabry http://www.openstreetmap.org/?lat=48.769435&lon=2.249494
+ValLou ValleeLoups http://www.openstreetmap.org/?lat=48.766621&lon=2.254493
+CiteJar CiteJardin http://www.openstreetmap.org/?lat=48.765560&lon=2.259557
+LesPei LesPeintres http://www.openstreetmap.org/?lat=48.764725&lon=2.265780
+ThePis TheatrePiscine http://www.openstreetmap.org/?lat=48.763792&lon=2.272561
+PetCha PetitChatenay http://www.openstreetmap.org/?lat=48.762759&lon=2.280350
+Val Vallee http://www.openstreetmap.org/?lat=48.761430&lon=2.290370
+CroBer CroixBerny http://www.openstreetmap.org/?lat=48.762455&lon=2.304640

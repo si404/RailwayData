@@ -1,14 +1,14 @@
-GareCentrale http://www.openstreetmap.org/?lat=47.742171&lon=7.343636
-Republique http://www.openstreetmap.org/?lat=47.746001&lon=7.341388
-+X893631 http://www.openstreetmap.org/?lat=47.749514&lon=7.340959
-PorteJeune http://www.openstreetmap.org/?lat=47.749564&lon=7.340155
-+X297834 http://www.openstreetmap.org/?lat=47.749629&lon=7.339168
-GrandRex http://www.openstreetmap.org/?lat=47.752493&lon=7.337408
-CiteAdministrative http://www.openstreetmap.org/?lat=47.756244&lon=7.335992
+GareCen +GareCentrale http://www.openstreetmap.org/?lat=47.742171&lon=7.343636
+Rep +Republique http://www.openstreetmap.org/?lat=47.746001&lon=7.341388
++DIV_2 http://www.openstreetmap.org/?lat=47.749514&lon=7.340959
+PorJeu +PorteJeune http://www.openstreetmap.org/?lat=47.749564&lon=7.340155
++DIV_23 http://www.openstreetmap.org/?lat=47.749629&lon=7.339168
+GraRex +GrandRex http://www.openstreetmap.org/?lat=47.752493&lon=7.337408
+CiteAdm +CiteAdministrative http://www.openstreetmap.org/?lat=47.756244&lon=7.335992
 CiteAuto http://www.openstreetmap.org/?lat=47.760348&lon=7.332172
-Dolier http://www.openstreetmap.org/?lat=47.762822&lon=7.325767
-StadeBourtzwiller http://www.openstreetmap.org/?lat=47.767408&lon=7.321991
-Rattachement http://www.openstreetmap.org/?lat=47.769874&lon=7.321143
-Tuilerie http://www.openstreetmap.org/?lat=47.770942&lon=7.325542
-SaintNazaier http://www.openstreetmap.org/?lat=47.773083&lon=7.329522
-Chataignier http://www.openstreetmap.org/?lat=47.776840&lon=7.328814
+Dol +Dolier http://www.openstreetmap.org/?lat=47.762822&lon=7.325767
+StaBou +StadeBourtzwiller http://www.openstreetmap.org/?lat=47.767408&lon=7.321991
+Rat +Rattachement http://www.openstreetmap.org/?lat=47.769874&lon=7.321143
+Tui +Tuilerie http://www.openstreetmap.org/?lat=47.770942&lon=7.325542
+StNaz +SaintNazaier http://www.openstreetmap.org/?lat=47.773083&lon=7.329522
+Cha +Chataignier http://www.openstreetmap.org/?lat=47.776840&lon=7.328814

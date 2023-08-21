@@ -1,28 +1,29 @@
-Amiens http://www.openstreetmap.org/?lat=49.890097&lon=2.309114
-+X766947 http://www.openstreetmap.org/?lat=49.880758&lon=2.337470
-+X810210 http://www.openstreetmap.org/?lat=49.880498&lon=2.361159
-+X702561 http://www.openstreetmap.org/?lat=49.882406&lon=2.375236
+Ami +Amiens http://www.openstreetmap.org/?lat=49.890097&lon=2.309114
++DIV_P10 http://www.openstreetmap.org/?lat=49.880758&lon=2.337470
++DIV_K12S http://www.openstreetmap.org/?lat=49.880498&lon=2.361159
++DIV_K12N http://www.openstreetmap.org/?lat=49.882406&lon=2.375236
 +X569545 http://www.openstreetmap.org/?lat=49.867658&lon=2.448363
 +X838148 http://www.openstreetmap.org/?lat=49.871821&lon=2.496707
-VillersBretonneux http://www.openstreetmap.org/?lat=49.862707&lon=2.521491
-Marcelcave http://www.openstreetmap.org/?lat=49.853162&lon=2.582388
-Rosieres http://www.openstreetmap.org/?lat=49.822688&lon=2.711349
-Chaulnes http://www.openstreetmap.org/?lat=49.807457&lon=2.801085
-Nesle http://www.openstreetmap.org/?lat=49.764066&lon=2.908931
+VilBre +VillersBretonneux http://www.openstreetmap.org/?lat=49.862707&lon=2.521491
+Mar +Marcelcave http://www.openstreetmap.org/?lat=49.853162&lon=2.582388
+Ros +Rosieres http://www.openstreetmap.org/?lat=49.822688&lon=2.711349
+Cha +Chaulnes http://www.openstreetmap.org/?lat=49.807457&lon=2.801085
+Nes +Nesle http://www.openstreetmap.org/?lat=49.764066&lon=2.908931
 +X853874 http://www.openstreetmap.org/?lat=49.742412&lon=3.027463
 Ham http://www.openstreetmap.org/?lat=49.739632&lon=3.070550
-FlavyMartel http://www.openstreetmap.org/?lat=49.718840&lon=3.189983
-+X498281 http://www.openstreetmap.org/?lat=49.707615&lon=3.241353
-+X933021 http://www.openstreetmap.org/?lat=49.698970&lon=3.260837
-+X204308 http://www.openstreetmap.org/?lat=49.694944&lon=3.266244
-Mennessis http://www.openstreetmap.org/?lat=49.691273&lon=3.271480
+FlaMar +FlavyMartel http://www.openstreetmap.org/?lat=49.718840&lon=3.189983
++DIV_K20 http://www.openstreetmap.org/?lat=49.707615&lon=3.241353
++X933021 http://www.openstreetmap.org/?lat=49.699254&lon=3.261287
++DIV_P14N http://www.openstreetmap.org/?lat=49.694944&lon=3.266244
+Men +Mennessis http://www.openstreetmap.org/?lat=49.691273&lon=3.271480
 +X730241 http://www.openstreetmap.org/?lat=49.676529&lon=3.290534
-Tergnier http://www.openstreetmap.org/?lat=49.659155&lon=3.296499
-+X561943 http://www.openstreetmap.org/?lat=49.655801&lon=3.296113
+Ter +Tergnier http://www.openstreetmap.org/?lat=49.659155&lon=3.296499
++DIV_P14S http://www.openstreetmap.org/?lat=49.655801&lon=3.296113
 +X831049 http://www.openstreetmap.org/?lat=49.650918&lon=3.301091
 Fere http://www.openstreetmap.org/?lat=49.657836&lon=3.369713
 +X589806 http://www.openstreetmap.org/?lat=49.663170&lon=3.418078
+Versigny http://www.openstreetmap.org/?lat=49.657891&lon=3.432455
 +X897084 http://www.openstreetmap.org/?lat=49.639816&lon=3.461637
-CrepyCouvron http://www.openstreetmap.org/?lat=49.623410&lon=3.516719
-+X966751 http://www.openstreetmap.org/?lat=49.572020&lon=3.608494
+CreCou +CrepyCouvron http://www.openstreetmap.org/?lat=49.623410&lon=3.516719
++DIV_P15 http://www.openstreetmap.org/?lat=49.572020&lon=3.608494
 Laon http://www.openstreetmap.org/?lat=49.570879&lon=3.625596
