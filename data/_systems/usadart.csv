@@ -1,0 +1,5 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+usadart;TX;BlueLn;;;Blue Line;tx.blueln;
+usadart;TX;GreLn;;;Green Line;tx.greln;
+usadart;TX;OraLn;;;Orange Line;tx.oraln;
+usadart;TX;RedLn;;;Red Line;tx.redln;
