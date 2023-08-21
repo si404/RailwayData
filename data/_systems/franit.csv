@@ -1,5 +1,5 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-franit;FRA-PAC;1;;;;frapac.1;
-franit;FRA-PAC;2;;;;frapac.2;
-franit;FRA-PAC;2;;Aer;Aeroport branch;frapac.2aer;
-franit;FRA-PAC;3;;;;frapac.3;
+franit;FRA-PAC;1;;Nic;Nice;frapac.1nic;
+franit;FRA-PAC;2;;Nic;CADAM, Nice;frapac.2nic;
+franit;FRA-PAC;2;;Aer;Aeroport, Nice;frapac.2aer;
+franit;FRA-PAC;3;;Nic;Nice;frapac.3nic;

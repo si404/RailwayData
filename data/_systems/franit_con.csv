@@ -1,5 +1,5 @@
 systemName;route;banner;groupName;roots
-franit;1;;;frapac.1
-franit;2;;;frapac.2
-franit;2;;Aeroport branch;frapac.2aer
-franit;3;;;frapac.3
+franit;1;;Nice;frapac.1nic
+franit;2;;CADAM, Nice;frapac.2nic
+franit;2;;Aeroport, Nice;frapac.2aer
+franit;3;;Nice;frapac.3nic

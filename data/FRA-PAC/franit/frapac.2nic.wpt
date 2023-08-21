@@ -1,5 +1,7 @@
-AerTer2 +AeroportTerminal2 http://www.openstreetmap.org/?lat=43.660658&lon=7.205122
-AerTer1 +AeroportTerminal1 http://www.openstreetmap.org/?lat=43.665283&lon=7.210851
+CADAMCenAdm CADAMCentreAdministrative http://www.openstreetmap.org/?lat=43.676753&lon=7.199199
++DIV_3 http://www.openstreetmap.org/?lat=43.677591&lon=7.205240
+DigFra +DigueFrancais http://www.openstreetmap.org/?lat=43.676644&lon=7.205926
+PaulMonMou +PaulMontelMoulins http://www.openstreetmap.org/?lat=43.673424&lon=7.208565
 GraAre +GrandArenas http://www.openstreetmap.org/?lat=43.669633&lon=7.211355
 ParcPho ParcPhoenix http://www.openstreetmap.org/?lat=43.669428&lon=7.219176
 CasKir CassinKirchner http://www.openstreetmap.org/?lat=43.672283&lon=7.224112

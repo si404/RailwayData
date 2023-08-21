@@ -1,30 +1,30 @@
-SaintJeanVedasCentre http://www.openstreetmap.org/?lat=43.574900&lon=3.830699
-SaintJeanSec http://www.openstreetmap.org/?lat=43.570885&lon=3.837898
-Condamine http://www.openstreetmap.org/?lat=43.572020&lon=3.844442
-Victoire2 http://www.openstreetmap.org/?lat=43.575176&lon=3.849871
-Sabines http://www.openstreetmap.org/?lat=43.583772&lon=3.860149
-VilleneuveAngouleme http://www.openstreetmap.org/?lat=43.588761&lon=3.865685
-CroixArgent http://www.openstreetmap.org/?lat=43.592429&lon=3.866436
-MasDrevon http://www.openstreetmap.org/?lat=43.595490&lon=3.867853
-Lemasson http://www.openstreetmap.org/?lat=43.593656&lon=3.873196
-+X778327 http://www.openstreetmap.org/?lat=43.597079&lon=3.876125
-NouveauSaintRoch http://www.openstreetmap.org/?lat=43.599332&lon=3.875685
-Rondelet http://www.openstreetmap.org/?lat=43.603108&lon=3.876082
-GareSaintRoch http://www.openstreetmap.org/?lat=43.604235&lon=3.880298
-Comedie http://www.openstreetmap.org/?lat=43.608391&lon=3.879794
+StJeanVedCen +SaintJeanVedasCentre http://www.openstreetmap.org/?lat=43.574900&lon=3.830699
+StJeanSec +SaintJeanSec http://www.openstreetmap.org/?lat=43.570885&lon=3.837898
+Con +Condamine http://www.openstreetmap.org/?lat=43.572020&lon=3.844442
+Vic2 +Victoire2 http://www.openstreetmap.org/?lat=43.575176&lon=3.849871
+Sab +Sabines http://www.openstreetmap.org/?lat=43.583772&lon=3.860149
+VilAng +VilleneuveAngouleme http://www.openstreetmap.org/?lat=43.588761&lon=3.865685
+CroArg +CroixArgent http://www.openstreetmap.org/?lat=43.592429&lon=3.866436
+MasDre +MasDrevon http://www.openstreetmap.org/?lat=43.595490&lon=3.867853
+Lem +Lemasson http://www.openstreetmap.org/?lat=43.593656&lon=3.873196
++DIV_4S http://www.openstreetmap.org/?lat=43.597079&lon=3.876125
+NouStRoch +NouveauSaintRoch http://www.openstreetmap.org/?lat=43.599332&lon=3.875685
+Ron +Rondelet http://www.openstreetmap.org/?lat=43.603108&lon=3.876082
+GareStRoch +GareSaintRoch http://www.openstreetmap.org/?lat=43.604235&lon=3.880298
+Com +Comedie http://www.openstreetmap.org/?lat=43.608391&lon=3.879794
 +X763438 http://www.openstreetmap.org/?lat=43.610065&lon=3.883007
-+X465027 http://www.openstreetmap.org/?lat=43.614502&lon=3.882578
-Corum http://www.openstreetmap.org/?lat=43.614390&lon=3.882047
-BeauxArts http://www.openstreetmap.org/?lat=43.616978&lon=3.883517
-JeauMailAbbes http://www.openstreetmap.org/?lat=43.620396&lon=3.884032
-Aiguelongue http://www.openstreetmap.org/?lat=43.626298&lon=3.883195
-SaintLazare http://www.openstreetmap.org/?lat=43.626749&lon=3.888710
-CharlesGaulle http://www.openstreetmap.org/?lat=43.628597&lon=3.897765
-Clairval http://www.openstreetmap.org/?lat=43.630150&lon=3.902657
-Galine http://www.openstreetmap.org/?lat=43.631408&lon=3.909073
-Centurions http://www.openstreetmap.org/?lat=43.632775&lon=3.915768
-NotreDameSablassou http://www.openstreetmap.org/?lat=43.634247&lon=3.922259
-AubeRouge http://www.openstreetmap.org/?lat=43.638614&lon=3.924823
-ViaDomitia http://www.openstreetmap.org/?lat=43.646720&lon=3.929436
-GeorgesPompidou http://www.openstreetmap.org/?lat=43.649204&lon=3.921068
-Jacou http://www.openstreetmap.org/?lat=43.654467&lon=3.912807
++DIV_14 http://www.openstreetmap.org/?lat=43.614502&lon=3.882578
+Cor +Corum http://www.openstreetmap.org/?lat=43.614390&lon=3.882047
+BeaArts +BeauxArts http://www.openstreetmap.org/?lat=43.616978&lon=3.883517
+JeauMailAbb +JeauMailAbbes http://www.openstreetmap.org/?lat=43.620396&lon=3.884032
+Aig +Aiguelongue http://www.openstreetmap.org/?lat=43.626298&lon=3.883195
+StLaz +SaintLazare http://www.openstreetmap.org/?lat=43.626749&lon=3.888710
+ChaGau +CharlesGaulle http://www.openstreetmap.org/?lat=43.628597&lon=3.897765
+Cla +Clairval http://www.openstreetmap.org/?lat=43.630150&lon=3.902657
+Gal +Galine http://www.openstreetmap.org/?lat=43.631408&lon=3.909073
+Cen +Centurions http://www.openstreetmap.org/?lat=43.632775&lon=3.915768
+NotDameSab +NotreDameSablassou http://www.openstreetmap.org/?lat=43.634247&lon=3.922259
+AubeRou +AubeRouge http://www.openstreetmap.org/?lat=43.638614&lon=3.924823
+ViaDom +ViaDomitia http://www.openstreetmap.org/?lat=43.646720&lon=3.929436
+GeoPom +GeorgesPompidou http://www.openstreetmap.org/?lat=43.649204&lon=3.921068
+Jac +Jacou http://www.openstreetmap.org/?lat=43.654467&lon=3.912807
