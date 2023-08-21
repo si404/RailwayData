@@ -1,63 +1,63 @@
-LilleFlanders http://www.openstreetmap.org/?lat=50.636309&lon=3.070765
-+X991088 http://www.openstreetmap.org/?lat=50.634472&lon=3.077931
-+X728977 http://www.openstreetmap.org/?lat=50.630361&lon=3.083360
-+X564882 http://www.openstreetmap.org/?lat=50.623011&lon=3.089690
-+X471258 http://www.openstreetmap.org/?lat=50.618382&lon=3.091278
-+Ronchin http://www.openstreetmap.org/?lat=50.604500&lon=3.078189
-+WattigniesTemplemars http://www.openstreetmap.org/?lat=50.579435&lon=3.051753
-+Seclin http://www.openstreetmap.org/?lat=50.548304&lon=3.035316
-+Phalempin http://www.openstreetmap.org/?lat=50.515487&lon=3.020253
-+Libercourt http://www.openstreetmap.org/?lat=50.480108&lon=3.008838
+LilFla +LilleFlanders http://www.openstreetmap.org/?lat=50.636309&lon=3.070765
++DIV_C70 http://www.openstreetmap.org/?lat=50.634472&lon=3.077931
++DIV_K92 http://www.openstreetmap.org/?lat=50.630361&lon=3.083360
++DIV_C60 http://www.openstreetmap.org/?lat=50.623011&lon=3.089690
++DIV_C50 http://www.openstreetmap.org/?lat=50.618382&lon=3.091278
++SKIP_Ron http://www.openstreetmap.org/?lat=50.604500&lon=3.078189
++SKIP_WatTem http://www.openstreetmap.org/?lat=50.579435&lon=3.051753
++SKIP_Sec http://www.openstreetmap.org/?lat=50.548304&lon=3.035316
++SKIP_Pha http://www.openstreetmap.org/?lat=50.515487&lon=3.020253
++SKIP_Lib http://www.openstreetmap.org/?lat=50.480108&lon=3.008838
 +X451958 http://www.openstreetmap.org/?lat=50.464047&lon=3.007293
-+X208215 http://www.openstreetmap.org/?lat=50.453091&lon=3.019910
-+X118332 http://www.openstreetmap.org/?lat=50.446724&lon=3.029780
-+Ostricourt http://www.openstreetmap.org/?lat=50.445194&lon=3.032269
-+Leforest http://www.openstreetmap.org/?lat=50.427618&lon=3.059564
-+PontDeule http://www.openstreetmap.org/?lat=50.397863&lon=3.084712
-Douai http://www.openstreetmap.org/?lat=50.371758&lon=3.090591
-+X892975 http://www.openstreetmap.org/?lat=50.364011&lon=3.092437
-+Corbehem http://www.openstreetmap.org/?lat=50.342954&lon=3.040552
-+Brebieres http://www.openstreetmap.org/?lat=50.336353&lon=3.014030
-+VitryArtois http://www.openstreetmap.org/?lat=50.327258&lon=2.980857
-+BiacheSaintVaast http://www.openstreetmap.org/?lat=50.316435&lon=2.941418
-+Roeux http://www.openstreetmap.org/?lat=50.303691&lon=2.894855
-+X226013 http://www.openstreetmap.org/?lat=50.300018&lon=2.882323
++DIV_C41 http://www.openstreetmap.org/?lat=50.453091&lon=3.019910
++DIV_P42 http://www.openstreetmap.org/?lat=50.446724&lon=3.029780
++SKIP_Ost http://www.openstreetmap.org/?lat=50.445194&lon=3.032269
++SKIP_Lef http://www.openstreetmap.org/?lat=50.427618&lon=3.059564
++SKIP_PontDeu http://www.openstreetmap.org/?lat=50.397863&lon=3.084712
+Dou +Douai http://www.openstreetmap.org/?lat=50.371758&lon=3.090591
++DIV_P43 http://www.openstreetmap.org/?lat=50.364011&lon=3.092437
++SKIP_Cor http://www.openstreetmap.org/?lat=50.342954&lon=3.040552
++SKIP_Bre http://www.openstreetmap.org/?lat=50.336353&lon=3.014030
++SKIP_VitArt http://www.openstreetmap.org/?lat=50.327258&lon=2.980857
++SKIP_BiaStVaa http://www.openstreetmap.org/?lat=50.316435&lon=2.941418
++SKIP_Roe http://www.openstreetmap.org/?lat=50.303691&lon=2.894855
++DIV_K90 http://www.openstreetmap.org/?lat=50.300018&lon=2.882323
 +X976754 http://www.openstreetmap.org/?lat=50.290888&lon=2.852454
-+X186808 http://www.openstreetmap.org/?lat=50.293493&lon=2.811770
-Arras http://www.openstreetmap.org/?lat=50.286625&lon=2.781687
-+X157900 http://www.openstreetmap.org/?lat=50.279735&lon=2.768576
-+X371800 http://www.openstreetmap.org/?lat=50.240536&lon=2.766323
-+Boisleux http://www.openstreetmap.org/?lat=50.210609&lon=2.771473
++DIV_P54 http://www.openstreetmap.org/?lat=50.293493&lon=2.811770
+Arr +Arras http://www.openstreetmap.org/?lat=50.286625&lon=2.781687
++DIV_P53 http://www.openstreetmap.org/?lat=50.279735&lon=2.768576
++DIV_Nord http://www.openstreetmap.org/?lat=50.240536&lon=2.766323
++SKIP_Boi http://www.openstreetmap.org/?lat=50.210609&lon=2.771473
 +X138619 http://www.openstreetmap.org/?lat=50.190940&lon=2.788725
-+CourcellesComte http://www.openstreetmap.org/?lat=50.169394&lon=2.788124
-+Achlet http://www.openstreetmap.org/?lat=50.131556&lon=2.780657
-+Miraumont http://www.openstreetmap.org/?lat=50.095559&lon=2.734652
++SKIP_CouCom http://www.openstreetmap.org/?lat=50.169394&lon=2.788124
++SKIP_Ach http://www.openstreetmap.org/?lat=50.131556&lon=2.780657
++SKIP_Mir http://www.openstreetmap.org/?lat=50.095559&lon=2.734652
 +X427585 http://www.openstreetmap.org/?lat=50.063861&lon=2.665086
-Albert http://www.openstreetmap.org/?lat=50.005629&lon=2.644444
+Alb Albert http://www.openstreetmap.org/?lat=50.005629&lon=2.644444
 +X937141 http://www.openstreetmap.org/?lat=49.978894&lon=2.633801
 +BuireAncre http://www.openstreetmap.org/?lat=49.964762&lon=2.598224
 +MericourtAbbe http://www.openstreetmap.org/?lat=49.955665&lon=2.572775
 +Heilly http://www.openstreetmap.org/?lat=49.943626&lon=2.539558
-Corbie http://www.openstreetmap.org/?lat=49.911744&lon=2.499733
+Cor Corbie http://www.openstreetmap.org/?lat=49.911744&lon=2.499733
 +Doaurs http://www.openstreetmap.org/?lat=49.899320&lon=2.459092
 +X928596 http://www.openstreetmap.org/?lat=49.886755&lon=2.436562
 +X702561 http://www.openstreetmap.org/?lat=49.882406&lon=2.375236
 +X810210 http://www.openstreetmap.org/?lat=49.880498&lon=2.361159
 +X766947 http://www.openstreetmap.org/?lat=49.880758&lon=2.337470
-Amiens http://www.openstreetmap.org/?lat=49.890097&lon=2.309114
-SaintRoch http://www.openstreetmap.org/?lat=49.893231&lon=2.283354
+Ami Amiens http://www.openstreetmap.org/?lat=49.890097&lon=2.309114
+StRoch SaintRoch http://www.openstreetmap.org/?lat=49.893231&lon=2.283354
 +X289388 http://www.openstreetmap.org/?lat=49.874642&lon=2.239580
 +X392209 http://www.openstreetmap.org/?lat=49.834965&lon=2.208681
-+NampsQuevauvilliers http://www.openstreetmap.org/?lat=49.808219&lon=2.105427
++SKIP_NamQue http://www.openstreetmap.org/?lat=49.808219&lon=2.105427
 +X782528 http://www.openstreetmap.org/?lat=49.769167&lon=2.051439
 +X177233 http://www.openstreetmap.org/?lat=49.764510&lon=2.024789
-PoixPicardie http://www.openstreetmap.org/?lat=49.777980&lon=1.989813
+PoixPic PoixPicardie http://www.openstreetmap.org/?lat=49.777980&lon=1.989813
 +X769747 http://www.openstreetmap.org/?lat=49.782553&lon=1.973205
 +X706314 http://www.openstreetmap.org/?lat=49.753227&lon=1.918445
 +X171045 http://www.openstreetmap.org/?lat=49.751563&lon=1.882825
-+Fouilloy http://www.openstreetmap.org/?lat=49.736643&lon=1.826134
-+X545933 http://www.openstreetmap.org/?lat=49.687969&lon=1.776738
-Abancourt http://www.openstreetmap.org/?lat=49.685054&lon=1.774163
-+X460325 http://www.openstreetmap.org/?lat=49.681396&lon=1.770923
-+Formerie http://www.openstreetmap.org/?lat=49.654301&lon=1.722836
++SKIP_Fou http://www.openstreetmap.org/?lat=49.736643&lon=1.826134
++DIV_P30N http://www.openstreetmap.org/?lat=49.687969&lon=1.776738
+Aba Abancourt http://www.openstreetmap.org/?lat=49.685054&lon=1.774163
++DIV_P30S http://www.openstreetmap.org/?lat=49.681396&lon=1.770923
++SKIP_For http://www.openstreetmap.org/?lat=49.654301&lon=1.722836
 HDF/NOR http://www.openstreetmap.org/?lat=49.648764&lon=1.710230

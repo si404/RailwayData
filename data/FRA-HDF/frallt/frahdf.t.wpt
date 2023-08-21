@@ -1,23 +1,25 @@
-GareLilleFlanders http://www.openstreetmap.org/?lat=50.636309&lon=3.070765
-GareLilleEurope http://www.openstreetmap.org/?lat=50.638969&lon=3.075786
-Romarin http://www.openstreetmap.org/?lat=50.645658&lon=3.075314
-Botanique http://www.openstreetmap.org/?lat=50.648964&lon=3.078811
-SaintMaur http://www.openstreetmap.org/?lat=50.651807&lon=3.081815
-Buisson http://www.openstreetmap.org/?lat=50.656528&lon=3.088617
-Brossolette http://www.openstreetmap.org/?lat=50.660242&lon=3.094025
-ClemenceauHippodrome http://www.openstreetmap.org/?lat=50.662024&lon=3.096685
-CroiseLaroche http://www.openstreetmap.org/?lat=50.664798&lon=3.102372
-+X811360 http://www.openstreetmap.org/?lat=50.665179&lon=3.103166
+GareLilFla GareLilleFlanders http://www.openstreetmap.org/?lat=50.636309&lon=3.070765
++X769550 http://www.openstreetmap.org/?lat=50.637816&lon=3.073629
+GareLilEur +GareLilleEurope http://www.openstreetmap.org/?lat=50.638969&lon=3.075786
++X974732 http://www.openstreetmap.org/?lat=50.641749&lon=3.072395
+Rom Romarin http://www.openstreetmap.org/?lat=50.645658&lon=3.075314
+Bot Botanique http://www.openstreetmap.org/?lat=50.648964&lon=3.078811
+StMaur SaintMaur http://www.openstreetmap.org/?lat=50.651807&lon=3.081815
+Bui Buisson http://www.openstreetmap.org/?lat=50.656528&lon=3.088617
+Bro Brossolette http://www.openstreetmap.org/?lat=50.660242&lon=3.094025
+CleHip ClemenceauHippodrome http://www.openstreetmap.org/?lat=50.662024&lon=3.096685
+CroLar CroiseLaroche http://www.openstreetmap.org/?lat=50.664798&lon=3.102372
++DIV_R http://www.openstreetmap.org/?lat=50.665179&lon=3.103166
 Foch http://www.openstreetmap.org/?lat=50.666253&lon=3.103659
-Quesne http://www.openstreetmap.org/?lat=50.673162&lon=3.106599
-CerisaieCentreAffaires http://www.openstreetmap.org/?lat=50.677337&lon=3.111470
-ChateauRouge http://www.openstreetmap.org/?lat=50.679635&lon=3.114431
-Cartelot http://www.openstreetmap.org/?lat=50.683523&lon=3.119452
-GrandCottignies http://www.openstreetmap.org/?lat=50.687031&lon=3.123958
-Triez http://www.openstreetmap.org/?lat=50.692577&lon=3.131275
-TroisSuisses http://www.openstreetmap.org/?lat=50.699020&lon=3.138764
-Faidherbe http://www.openstreetmap.org/?lat=50.703586&lon=3.142691
-MaCampagne http://www.openstreetmap.org/?lat=50.709796&lon=3.152862
-PontHydraulique http://www.openstreetmap.org/?lat=50.712622&lon=3.156166
-Victorie http://www.openstreetmap.org/?lat=50.717772&lon=3.157046
-TourcoingCentre http://www.openstreetmap.org/?lat=50.720951&lon=3.160028
+Que Quesne http://www.openstreetmap.org/?lat=50.673162&lon=3.106599
+CerCenAff CerisaieCentreAffaires http://www.openstreetmap.org/?lat=50.677337&lon=3.111470
+ChaRou ChateauRouge http://www.openstreetmap.org/?lat=50.679635&lon=3.114431
+Car Cartelot http://www.openstreetmap.org/?lat=50.683523&lon=3.119452
+GraCot GrandCottignies http://www.openstreetmap.org/?lat=50.687031&lon=3.123958
+Tri Triez http://www.openstreetmap.org/?lat=50.692577&lon=3.131275
+TroSui TroisSuisses http://www.openstreetmap.org/?lat=50.699020&lon=3.138764
+Fai Faidherbe http://www.openstreetmap.org/?lat=50.703586&lon=3.142691
+MaCam MaCampagne http://www.openstreetmap.org/?lat=50.709796&lon=3.152862
+PontHyd PontHydraulique http://www.openstreetmap.org/?lat=50.712622&lon=3.156166
+Vic Victorie http://www.openstreetmap.org/?lat=50.717772&lon=3.157046
+TouCen TourcoingCentre http://www.openstreetmap.org/?lat=50.720951&lon=3.160028

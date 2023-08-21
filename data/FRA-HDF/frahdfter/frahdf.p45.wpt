@@ -1,17 +1,17 @@
 NOR/HDF http://www.openstreetmap.org/?lat=49.648764&lon=1.710230
-Formerie http://www.openstreetmap.org/?lat=49.654301&lon=1.722836
-+X460325 http://www.openstreetmap.org/?lat=49.681396&lon=1.770923
-Abancourt http://www.openstreetmap.org/?lat=49.685054&lon=1.774163
-+X545933 http://www.openstreetmap.org/?lat=49.687969&lon=1.776738
-+Fouilloy http://www.openstreetmap.org/?lat=49.736643&lon=1.826134
+For Formerie http://www.openstreetmap.org/?lat=49.654301&lon=1.722836
++DIV_P30S http://www.openstreetmap.org/?lat=49.681396&lon=1.770923
+Aba Abancourt http://www.openstreetmap.org/?lat=49.685054&lon=1.774163
++DIV_P30N http://www.openstreetmap.org/?lat=49.687969&lon=1.776738
++SKIP_Fou http://www.openstreetmap.org/?lat=49.736643&lon=1.826134
 +X171045 http://www.openstreetmap.org/?lat=49.751563&lon=1.882825
 +X706314 http://www.openstreetmap.org/?lat=49.753227&lon=1.918445
 +X769747 http://www.openstreetmap.org/?lat=49.782553&lon=1.973205
-PoixPicardie http://www.openstreetmap.org/?lat=49.777980&lon=1.989813
+PoixPic PoixPicardie http://www.openstreetmap.org/?lat=49.777980&lon=1.989813
 +X177233 http://www.openstreetmap.org/?lat=49.764510&lon=2.024789
 +X782528 http://www.openstreetmap.org/?lat=49.769167&lon=2.051439
-+NampsQuevauvilliers http://www.openstreetmap.org/?lat=49.808219&lon=2.105427
++SKIP_NamQue http://www.openstreetmap.org/?lat=49.808219&lon=2.105427
 +X392209 http://www.openstreetmap.org/?lat=49.834965&lon=2.208681
 +X289388 http://www.openstreetmap.org/?lat=49.874642&lon=2.239580
-SaintRoch http://www.openstreetmap.org/?lat=49.893231&lon=2.283354
-Amiens http://www.openstreetmap.org/?lat=49.890097&lon=2.309114
+StRoch SaintRoch http://www.openstreetmap.org/?lat=49.893231&lon=2.283354
+Ami Amiens http://www.openstreetmap.org/?lat=49.890097&lon=2.309114

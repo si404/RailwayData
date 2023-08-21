@@ -1,21 +1,21 @@
-LilleFlanders http://www.openstreetmap.org/?lat=50.636309&lon=3.070765
-+X991088 http://www.openstreetmap.org/?lat=50.634472&lon=3.077931
-+X728977 http://www.openstreetmap.org/?lat=50.630361&lon=3.083360
-+X564882 http://www.openstreetmap.org/?lat=50.623011&lon=3.089690
-+X471258 http://www.openstreetmap.org/?lat=50.618382&lon=3.091278
-+Ronchin http://www.openstreetmap.org/?lat=50.604500&lon=3.078189
-WattigniesTemplemars http://www.openstreetmap.org/?lat=50.579435&lon=3.051753
-Seclin http://www.openstreetmap.org/?lat=50.548304&lon=3.035316
-+Phalempin http://www.openstreetmap.org/?lat=50.515487&lon=3.020253
-Libercourt http://www.openstreetmap.org/?lat=50.480108&lon=3.008838
+LilFla +LilleFlanders http://www.openstreetmap.org/?lat=50.636309&lon=3.070765
++DIV_C70 http://www.openstreetmap.org/?lat=50.634472&lon=3.077931
++DIV_K90 http://www.openstreetmap.org/?lat=50.630361&lon=3.083360
++DIV_C60 http://www.openstreetmap.org/?lat=50.623011&lon=3.089690
++DIV_C50 http://www.openstreetmap.org/?lat=50.618382&lon=3.091278
++SKIP_Ron http://www.openstreetmap.org/?lat=50.604500&lon=3.078189
+WatTem WattigniesTemplemars http://www.openstreetmap.org/?lat=50.579435&lon=3.051753
+Sec Seclin http://www.openstreetmap.org/?lat=50.548304&lon=3.035316
++SKIP_Pha http://www.openstreetmap.org/?lat=50.515487&lon=3.020253
+Lib Libercourt http://www.openstreetmap.org/?lat=50.480108&lon=3.008838
 +X451958 http://www.openstreetmap.org/?lat=50.464047&lon=3.007293
-+X208215 http://www.openstreetmap.org/?lat=50.453091&lon=3.019910
-+X265151 http://www.openstreetmap.org/?lat=50.445419&lon=3.016906
-Dourges http://www.openstreetmap.org/?lat=50.432259&lon=2.987015
-HeninBeaumont http://www.openstreetmap.org/?lat=50.416824&lon=2.952297
-BillyMontigny http://www.openstreetmap.org/?lat=50.415252&lon=2.909918
-CoronMericourt http://www.openstreetmap.org/?lat=50.415006&lon=2.885370
-+PontSallaumines http://www.openstreetmap.org/?lat=50.415840&lon=2.863183
-+X681730 http://www.openstreetmap.org/?lat=50.416312&lon=2.847390
-+X538009 http://www.openstreetmap.org/?lat=50.422615&lon=2.835760
++DIV_C40 http://www.openstreetmap.org/?lat=50.453091&lon=3.019910
++DIV_P42 http://www.openstreetmap.org/?lat=50.445419&lon=3.016906
+Dou Dourges http://www.openstreetmap.org/?lat=50.432259&lon=2.987015
+HenBea HeninBeaumont http://www.openstreetmap.org/?lat=50.416824&lon=2.952297
+BilMon BillyMontigny http://www.openstreetmap.org/?lat=50.415252&lon=2.909918
+CorMer CoronMericourt http://www.openstreetmap.org/?lat=50.415006&lon=2.885370
++SKIP_PontSal http://www.openstreetmap.org/?lat=50.415840&lon=2.863183
++DIV_C51 http://www.openstreetmap.org/?lat=50.416312&lon=2.847390
++DIV_P52 http://www.openstreetmap.org/?lat=50.422615&lon=2.835760
 Lens http://www.openstreetmap.org/?lat=50.426634&lon=2.827992

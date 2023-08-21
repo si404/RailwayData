@@ -1,49 +1,49 @@
-LilleFlanders http://www.openstreetmap.org/?lat=50.636309&lon=3.070765
-+X991088 http://www.openstreetmap.org/?lat=50.634472&lon=3.077931
-+X728977 http://www.openstreetmap.org/?lat=50.630361&lon=3.083360
-+X564882 http://www.openstreetmap.org/?lat=50.623011&lon=3.089690
-+X471258 http://www.openstreetmap.org/?lat=50.618382&lon=3.091278
-+Ronchin http://www.openstreetmap.org/?lat=50.604500&lon=3.078189
-+WattigniesTemplemars http://www.openstreetmap.org/?lat=50.579435&lon=3.051753
-+Seclin http://www.openstreetmap.org/?lat=50.548304&lon=3.035316
-+Phalempin http://www.openstreetmap.org/?lat=50.515487&lon=3.020253
-+Libercourt http://www.openstreetmap.org/?lat=50.480108&lon=3.008838
+LilFla +LilleFlanders http://www.openstreetmap.org/?lat=50.636309&lon=3.070765
++DIV_C70 http://www.openstreetmap.org/?lat=50.634472&lon=3.077931
++DIV_K92 http://www.openstreetmap.org/?lat=50.630361&lon=3.083360
++DIV_C60 http://www.openstreetmap.org/?lat=50.623011&lon=3.089690
++DIV_C50 http://www.openstreetmap.org/?lat=50.618382&lon=3.091278
++SKIP_Ron http://www.openstreetmap.org/?lat=50.604500&lon=3.078189
++SKIP_WatTem http://www.openstreetmap.org/?lat=50.579435&lon=3.051753
++SKIP_Sec http://www.openstreetmap.org/?lat=50.548304&lon=3.035316
++SKIP_Pha http://www.openstreetmap.org/?lat=50.515487&lon=3.020253
++SKIP_Lib http://www.openstreetmap.org/?lat=50.480108&lon=3.008838
 +X451958 http://www.openstreetmap.org/?lat=50.464047&lon=3.007293
-+X208215 http://www.openstreetmap.org/?lat=50.453091&lon=3.019910
-+X118332 http://www.openstreetmap.org/?lat=50.446724&lon=3.029780
-+Ostricourt http://www.openstreetmap.org/?lat=50.445194&lon=3.032269
-+Leforest http://www.openstreetmap.org/?lat=50.427618&lon=3.059564
-+PontDeule http://www.openstreetmap.org/?lat=50.397863&lon=3.084712
-Douai http://www.openstreetmap.org/?lat=50.371758&lon=3.090591
-+X892975 http://www.openstreetmap.org/?lat=50.364011&lon=3.092437
-+X269434 http://www.openstreetmap.org/?lat=50.358152&lon=3.105912
-MontignyOstrevent http://www.openstreetmap.org/?lat=50.361356&lon=3.188696
-Somain http://www.openstreetmap.org/?lat=50.355497&lon=3.277917
-+X706500 http://www.openstreetmap.org/?lat=50.355743&lon=3.285770
++DIV_C41 http://www.openstreetmap.org/?lat=50.453091&lon=3.019910
++DIV_P42 http://www.openstreetmap.org/?lat=50.446724&lon=3.029780
++SKIP_Ost http://www.openstreetmap.org/?lat=50.445194&lon=3.032269
++SKIP_Lef http://www.openstreetmap.org/?lat=50.427618&lon=3.059564
++SKIP_PontDeu http://www.openstreetmap.org/?lat=50.397863&lon=3.084712
+Dou +Douai http://www.openstreetmap.org/?lat=50.371758&lon=3.090591
++DIV_P44 http://www.openstreetmap.org/?lat=50.364011&lon=3.092437
++DIV_P41 http://www.openstreetmap.org/?lat=50.358152&lon=3.105912
+MonOst +MontignyOstrevent http://www.openstreetmap.org/?lat=50.361356&lon=3.188696
+Som +Somain http://www.openstreetmap.org/?lat=50.355497&lon=3.277917
++DIV_P43 http://www.openstreetmap.org/?lat=50.355743&lon=3.285770
 +X128120 http://www.openstreetmap.org/?lat=50.346186&lon=3.320231
-+X246237 http://www.openstreetmap.org/?lat=50.314079&lon=3.342247
-+Lourches http://www.openstreetmap.org/?lat=50.310379&lon=3.343492
-+Bouchain http://www.openstreetmap.org/?lat=50.278069&lon=3.331861
-+Iwuy http://www.openstreetmap.org/?lat=50.225506&lon=3.329844
-+Escaudoeuvres http://www.openstreetmap.org/?lat=50.191929&lon=3.275385
++DIV_P63 http://www.openstreetmap.org/?lat=50.314079&lon=3.342247
++SKIP_Lou http://www.openstreetmap.org/?lat=50.310379&lon=3.343492
++SKIP_Bou http://www.openstreetmap.org/?lat=50.278069&lon=3.331861
++SKIP_Iwuy http://www.openstreetmap.org/?lat=50.225506&lon=3.329844
++SKIP_Esc http://www.openstreetmap.org/?lat=50.191929&lon=3.275385
 +X941619 http://www.openstreetmap.org/?lat=50.182237&lon=3.255472
-+X920668 http://www.openstreetmap.org/?lat=50.167786&lon=3.254056
-Cambrai http://www.openstreetmap.org/?lat=50.176884&lon=3.241525
-+X920668 http://www.openstreetmap.org/?lat=50.167786&lon=3.254056
++DIV_P40 http://www.openstreetmap.org/?lat=50.167786&lon=3.254056
+Cam +Cambrai http://www.openstreetmap.org/?lat=50.176884&lon=3.241525
++DIV_P63S http://www.openstreetmap.org/?lat=50.167786&lon=3.254056
 +X628154 http://www.openstreetmap.org/?lat=50.160666&lon=3.283496
 +X734152 http://www.openstreetmap.org/?lat=50.143700&lon=3.284054
-+Wambaix http://www.openstreetmap.org/?lat=50.133825&lon=3.311219
-+Cattenieres http://www.openstreetmap.org/?lat=50.128158&lon=3.333793
++SKIP_Wam http://www.openstreetmap.org/?lat=50.133825&lon=3.311219
++SKIP_Cat http://www.openstreetmap.org/?lat=50.128158&lon=3.333793
 +X637503 http://www.openstreetmap.org/?lat=50.117400&lon=3.359370
-Caudry http://www.openstreetmap.org/?lat=50.111290&lon=3.409882
+Cau +Caudry http://www.openstreetmap.org/?lat=50.111290&lon=3.409882
 +X653858 http://www.openstreetmap.org/?lat=50.103804&lon=3.446231
-+Bertry http://www.openstreetmap.org/?lat=50.091251&lon=3.449020
-+Maurois http://www.openstreetmap.org/?lat=50.067208&lon=3.456488
-+X434214 http://www.openstreetmap.org/?lat=50.052675&lon=3.455501
-Busigny http://www.openstreetmap.org/?lat=50.039764&lon=3.446016
-+Bohain http://www.openstreetmap.org/?lat=49.988470&lon=3.442883
-+FresnoyGrande http://www.openstreetmap.org/?lat=49.950143&lon=3.432713
++SKIP_Ber http://www.openstreetmap.org/?lat=50.091251&lon=3.449020
++SKIP_Mau http://www.openstreetmap.org/?lat=50.067208&lon=3.456488
++DIV_P62 http://www.openstreetmap.org/?lat=50.052675&lon=3.455501
+Bus +Busigny http://www.openstreetmap.org/?lat=50.039764&lon=3.446016
++SKIP_Boh http://www.openstreetmap.org/?lat=49.988470&lon=3.442883
++SKIP_FreGra http://www.openstreetmap.org/?lat=49.950143&lon=3.432713
 +X922683 http://www.openstreetmap.org/?lat=49.901670&lon=3.379540
 +X952279 http://www.openstreetmap.org/?lat=49.882234&lon=3.322420
 +X676942 http://www.openstreetmap.org/?lat=49.846742&lon=3.315639
-SaintQuentin http://www.openstreetmap.org/?lat=49.839688&lon=3.297207
+StQue +SaintQuentin http://www.openstreetmap.org/?lat=49.839688&lon=3.297207
