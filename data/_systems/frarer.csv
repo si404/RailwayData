@@ -1,22 +1,18 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-frarer;FRA-IDF;A;;;;fraidf.rera;
-frarer;FRA-IDF;A;;StG;Saint-Germain-en-Laye branch;fraidf.rerastg;
-frarer;FRA-IDF;A;;Boi;Boissy Saint-Leger branch;fraidf.reraboi;
-frarer;FRA-IDF;A;;Poi;Poissy branch;fraidf.rerapoi;
-frarer;FRA-IDF;B;;;;fraidf.rerb;
-frarer;FRA-IDF;B;;Mit;Mitry Claye branch;fraidf.rerbmit;
-frarer;FRA-IDF;B;;Rob;Robinson branch;fraidf.rerbrob;
-frarer;FRA-IDF;C;;;;fraidf.rerc;
-frarer;FRA-IDF;C;;Ver;Versailles Chateau Rive Gauche branch;fraidf.rercver;
-frarer;FRA-IDF;C;;Pon;Pontoise branch;fraidf.rercpon;
-frarer;FRA-IDF;C;;Run;Rungis branch;fraidf.rercrun;
-frarer;FRA-IDF;C;;Cha;Versailles Chantiers branch;fraidf.rerccha;
-frarer;FRA-IDF;C;;Dou;Doudan La Foret branch;fraidf.rercdou;
-frarer;FRA-HDF;D;;;;frahdf.rerd;
-frarer;FRA-IDF;D;;;;fraidf.rerd;
-frarer;FRA-IDF;D;;Mel;Melun branch;fraidf.rerdmel;
-frarer;FRA-IDF;D;;Mal;Malesherbes branch;fraidf.rerdmal;
-frarer;FRA-CVL;D;;;Malesherbes branch;fracvl.rerd;
-frarer;FRA-IDF;D;;Ess;Essonnes branch;fraidf.rerdess;
-frarer;FRA-IDF;E;;;;fraidf.rere;
-frarer;FRA-IDF;E;;Che;Chelles Gournay branch;fraidf.rereche;
+frarer;FRA-IDF;A;;;Saint-Germain-en-Laye - Marne-la-Vallee-Chessy;fraidf.rera;AStG
+frarer;FRA-IDF;A;;Boi;Cergy-le-Haut - Boissy-Saint-Leger;fraidf.reraboi;
+frarer;FRA-IDF;A;;Poi;Poissy - Torcy;fraidf.rerapoi;
+frarer;FRA-IDF;B;;;Aeroport CDG - Massy-Plaiseau;fraidf.rerb;
+frarer;FRA-IDF;B;;Mit;Mitry-Claye - Robinson;fraidf.rerbmit;BRob
+frarer;FRA-IDF;C;;;Saint-Quentin-en-Yvelines - Saint-Martin-d'Etampes;fraidf.rerc;
+frarer;FRA-IDF;C;;Dou;Invalides - Doudan La Foret;fraidf.rercdou;
+frarer;FRA-IDF;C;;Ver;Versailles-Chateau-Rive-Gauche - Versailles-Chantiers;fraidf.rercver;CCha
+frarer;FRA-IDF;C;;Pon;Pontoise - Massy Palaiseau;fraidf.rercpon;CRun
+frarer;FRA-HDF;D;;;Creil - Corbeil-Essones;frahdf.rerd;
+frarer;FRA-IDF;D;;;Creil - Corbeil-Essones;fraidf.rerd;
+frarer;FRA-IDF;D;;Mel;Goussainville - Melun;fraidf.rerdmel;
+frarer;FRA-IDF;D;;Mal;Juvisy - Malesherbes;fraidf.rerdmal;
+frarer;FRA-CVL;D;;;Juvisy - Malesherbes;fracvl.rerd;
+frarer;FRA-IDF;D;;Pon;Juvisy - Melun;fraidf.rerdess;DEss
+frarer;FRA-IDF;E;;;Haussmann-Saint-Lazare - Tournan;fraidf.rere;
+frarer;FRA-IDF;E;;Che;Haussmann-Saint-Lazare - Chelles-Gournay;fraidf.rereche;

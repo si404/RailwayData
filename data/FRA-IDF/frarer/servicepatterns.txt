@@ -1,30 +1,29 @@
 RER A
-StG|Boi	6tph	St Germain - Boissy
--	6tph	Cergy - Chessy
-Poi	3tph	Poissy - Noisy
--	3tph	La Defense - Noisy
+	6tph	Saint-Germain-en-Laye - all - Marne-la-Vallee-Chessy
+Boi	6tph	Cergy-le-Haut - all - Boissy-Saint-Leger
+Poi	3tph	Poissy - all - Torcy
 
 RER B
--	4tph	CDG - fast - Paris - Massy P
--	4tph	CDG - local - Paris - semi - Massy P - St Remy
-Mit|Rob	4tph	Mitry Claye - Robinson
+-	4tph	Aeroport Charles-de-Gaulle 2 TGV - Aeroport Charles-de-Gaulle 1 - Aulnay-sous Bois - Gare du Nord - all - Massy-Palaiseau
+-	4tph	Aeroport Charles-de-Gaulle 2 TGV Airport - all - Cite Universitaire - Bourg-la-Reine - La Croix de Berny - Antony - Massy-Plaiseau - all - St Remy Chevreause
+Mit	4tph	Mitry Claye - all - Robinson
 
 RER C
-Pon|Run	2tph	Pontoise - Orly Airport - Massy P
-Pon|Run	2tph	Monigny - Orly Airport
--	2tph	St Quentin - all - Bibliotheque - Juvisy - all - St Martin
-Dou	2tph	Invalides - all - Bibliotheque - Juvisy - all - Dourdan
-Ver|Cha	2tph	Versailles Gauche - all - Bibliotheque - Choisy - all - Versailles Chantiers
-Ver	2tph	Versailles Gauche - all - Bibliotheque - Choisy - all - Juvisy
+Pon	2tph	Pontoise - all - Pont de Rungis - all - Massy-Palaiseau
+Pon	2tph	Monigny-Beauchamp - all - Pont de Rungis
+-	2tph	Saint-Quentin-en-Yvelines - all - Bibliotheque Francois-Mitterand - Juvisy - all - Saint-Martin-d'Etampes
+Dou	2tph	Invalides - all - Biblioteque Francois-Mitterand - Juvisy - all - Dourdan
+Ver	2tph	Versailles-Chateau-Rive-Gauche - all - Bibliotheque Francois-Mitterand - Choisy-le-Roi - all - Versailles Chantiers
+Ver	2tph	Versailles-Chateau-Rive-Gauche - all - Bibliotheque Francois-Mitterand - Choisy-le-Roi - all - Juvisy
 
 RER D
--	2tph	Creil - Corbeil
--	2tph	Villiers - all - Corbeil
-Mel	4tph	Goussainville - all - Maisons - Creteil - Villeneuve - all via Combs - Melun
-Mal	1tph	Juvisy - Ris Orangis - Malesherbes
-Mal|Ess	1tph	Juvisy - Ris Orangis - Melun
+-	2tph	Creil - all - Corbeil-Essonnes (some terminate in the north at Orry-la-Ville)
+-	2tph	Villiers-le-Bel - all - Corbeil-Essones
+Mel	4tph	Goussainville - all - Maisons-Alfort-Alfortville - Creteil-Pompadour - Villeneuve-Saint-Georges - all via Combs - Melun
+Mal	1tph	Juvisy - all - Ris Orangis - all - Malesherbes
+Pon	1tph	Juvisy - all - Ris Orangis - all - Melun
 
 RER E
-Che	4tph	Haussmann - Gournay
--	2tph	Haussmann - all - Noisy - Val Fontenay - Villiers - all - Tournan
--	4tph	Haussmann - Villiers
+Che	4tph	Haussmann-Saint-Lazare - all - Chelles-Gournay
+-	2tph	Haussmann-Saint-Lazare - all - Noisy-le-Sec - Val Fontenay - Villiers-sur-Marne - all - Tournan
+-	4tph	Haussmann-Saint-Lazare - all - Villiers-sur-Marne

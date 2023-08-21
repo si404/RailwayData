@@ -1,49 +1,49 @@
-SaintQuentinYvelines http://www.openstreetmap.org/?lat=48.787428&lon=2.044487
-+X330423 http://www.openstreetmap.org/?lat=48.797550&lon=2.066374
-SaintCyr http://www.openstreetmap.org/?lat=48.798815&lon=2.073390
-VersaillesChantiers http://www.openstreetmap.org/?lat=48.795140&lon=2.135532
-+X240124 http://www.openstreetmap.org/?lat=48.795832&lon=2.144909
-+X771733 http://www.openstreetmap.org/?lat=48.796030&lon=2.148278
-+Porchefontaine http://www.openstreetmap.org/?lat=48.796567&lon=2.153149
-+X823997 http://www.openstreetmap.org/?lat=48.799041&lon=2.162912
-ViroflayRiveGauche http://www.openstreetmap.org/?lat=48.800638&lon=2.171302
-+X841779 http://www.openstreetmap.org/?lat=48.800723&lon=2.178769
-ChavilleVelizy http://www.openstreetmap.org/?lat=48.799578&lon=2.184134
-MeudonValFleury http://www.openstreetmap.org/?lat=48.807874&lon=2.241232
+StQueYve +SaintQuentinYvelines http://www.openstreetmap.org/?lat=48.787428&lon=2.044487
++DIV_NW http://www.openstreetmap.org/?lat=48.797550&lon=2.066374
+StCyr +SaintCyr http://www.openstreetmap.org/?lat=48.798815&lon=2.073390
+VerCha +VersaillesChantiers http://www.openstreetmap.org/?lat=48.795140&lon=2.135532
++DIV_V http://www.openstreetmap.org/?lat=48.795832&lon=2.144909
++DIV_Ver http://www.openstreetmap.org/?lat=48.796030&lon=2.148278
++SKIP_Por http://www.openstreetmap.org/?lat=48.796567&lon=2.153149
++DIV_U http://www.openstreetmap.org/?lat=48.799041&lon=2.162912
+VirRiveGau +ViroflayRiveGauche http://www.openstreetmap.org/?lat=48.800638&lon=2.171302
++DIV_NE http://www.openstreetmap.org/?lat=48.800723&lon=2.178769
+ChaVel +ChavilleVelizy http://www.openstreetmap.org/?lat=48.799578&lon=2.184134
+MeuValFle +MeudonValFleury http://www.openstreetmap.org/?lat=48.807874&lon=2.241232
 Issy http://www.openstreetmap.org/?lat=48.819941&lon=2.259343
-IssyValSeine http://www.openstreetmap.org/?lat=48.829835&lon=2.263302
-PontGarigliano http://www.openstreetmap.org/?lat=48.839335&lon=2.270694
-Javel http://www.openstreetmap.org/?lat=48.846516&lon=2.277110
-+X592306 http://www.openstreetmap.org/?lat=48.852764&lon=2.286057
-ChampMarsTourEiffel http://www.openstreetmap.org/?lat=48.856689&lon=2.289748
+IssyValSei +IssyValSeine http://www.openstreetmap.org/?lat=48.829835&lon=2.263302
+PontGar +PontGarigliano http://www.openstreetmap.org/?lat=48.839335&lon=2.270694
+Jav +Javel http://www.openstreetmap.org/?lat=48.846516&lon=2.277110
++DIV_Pon http://www.openstreetmap.org/?lat=48.852764&lon=2.286057
+ChaMarsTourEif +ChampMarsTourEiffel http://www.openstreetmap.org/?lat=48.856689&lon=2.289748
 PontAlma http://www.openstreetmap.org/?lat=48.862520&lon=2.300048
-Invalides http://www.openstreetmap.org/?lat=48.862753&lon=2.314811
-MuseeOrsay http://www.openstreetmap.org/?lat=48.860501&lon=2.326055
-SaintMichelNotreDame http://www.openstreetmap.org/?lat=48.853470&lon=2.345431
-GareAusterlitz http://www.openstreetmap.org/?lat=48.842301&lon=2.365644
-BibliothequeFrancoisMitterand http://www.openstreetmap.org/?lat=48.829766&lon=2.377038
-IvrySeine http://www.openstreetmap.org/?lat=48.814416&lon=2.391286
-VitrySeine http://www.openstreetmap.org/?lat=48.800610&lon=2.402487
-Ardoines http://www.openstreetmap.org/?lat=48.782939&lon=2.409418
-ChoisyRoi http://www.openstreetmap.org/?lat=48.764329&lon=2.411242
-+X573260 http://www.openstreetmap.org/?lat=48.751782&lon=2.418859
-VilleneuveRoi http://www.openstreetmap.org/?lat=48.739847&lon=2.426305
-Ablon http://www.openstreetmap.org/?lat=48.725439&lon=2.419395
-AthisMons http://www.openstreetmap.org/?lat=48.712698&lon=2.403646
-+X825096 http://www.openstreetmap.org/?lat=48.702928&lon=2.395234
-Juvisy http://www.openstreetmap.org/?lat=48.690266&lon=2.383604
-SavignyOrge http://www.openstreetmap.org/?lat=48.676071&lon=2.352018
-+X716625 http://www.openstreetmap.org/?lat=48.670205&lon=2.341118
-EpinayOrge http://www.openstreetmap.org/?lat=48.669355&lon=2.332020
-SainteGenevieveBois http://www.openstreetmap.org/?lat=48.653112&lon=2.313309
-SaintMichelOrge http://www.openstreetmap.org/?lat=48.635844&lon=2.306828
-BretignyOrge http://www.openstreetmap.org/?lat=48.606823&lon=2.302108
-+X742060 http://www.openstreetmap.org/?lat=48.598622&lon=2.297773
-MarollesHurepoix http://www.openstreetmap.org/?lat=48.565121&lon=2.290907
-Bouray http://www.openstreetmap.org/?lat=48.533189&lon=2.290392
-Lardy http://www.openstreetmap.org/?lat=48.520769&lon=2.255545
-Chamarande http://www.openstreetmap.org/?lat=48.514344&lon=2.215676
-Etrechy http://www.openstreetmap.org/?lat=48.493708&lon=2.194562
-Etampes http://www.openstreetmap.org/?lat=48.436953&lon=2.159522
-+X415709 http://www.openstreetmap.org/?lat=48.431229&lon=2.145896
-SaintMartinEtampes http://www.openstreetmap.org/?lat=48.427485&lon=2.145274
+Inv +Invalides http://www.openstreetmap.org/?lat=48.862753&lon=2.314811
+MusOrs +MuseeOrsay http://www.openstreetmap.org/?lat=48.860501&lon=2.326055
+StMicNotDame +SaintMichelNotreDame http://www.openstreetmap.org/?lat=48.853470&lon=2.345431
+GareAus +GareAusterlitz http://www.openstreetmap.org/?lat=48.842301&lon=2.365644
+BibFraMit +BibliothequeFrancoisMitterand http://www.openstreetmap.org/?lat=48.829766&lon=2.377038
++SKIP_IvrySei +IvrySeine http://www.openstreetmap.org/?lat=48.814416&lon=2.391286
++SKIP_VitSei +VitrySeine http://www.openstreetmap.org/?lat=48.800610&lon=2.402487
++SKIP_Ard +Ardoines http://www.openstreetmap.org/?lat=48.782939&lon=2.409418
++SKIP_ChoRoi +ChoisyRoi http://www.openstreetmap.org/?lat=48.764329&lon=2.411242
++DIV_Run http://www.openstreetmap.org/?lat=48.751782&lon=2.418859
++SKIP_VilRoi +VilleneuveRoi http://www.openstreetmap.org/?lat=48.739847&lon=2.426305
++SKIP_Abl +Ablon http://www.openstreetmap.org/?lat=48.725439&lon=2.419395
++SKIP_AthMons +AthisMons http://www.openstreetmap.org/?lat=48.712698&lon=2.403646
++DIV_D http://www.openstreetmap.org/?lat=48.702928&lon=2.395234
+Juv +Juvisy http://www.openstreetmap.org/?lat=48.690266&lon=2.383604
+SavOrge +SavignyOrge http://www.openstreetmap.org/?lat=48.676071&lon=2.352018
++DIV_Chi http://www.openstreetmap.org/?lat=48.670205&lon=2.341118
+EpiOrge +EpinayOrge http://www.openstreetmap.org/?lat=48.669596&lon=2.333372
+StGenBois +SainteGenevieveBois http://www.openstreetmap.org/?lat=48.653112&lon=2.313309
+StMicOrge +SaintMichelOrge http://www.openstreetmap.org/?lat=48.635844&lon=2.306828
+BreOrge +BretignyOrge http://www.openstreetmap.org/?lat=48.606823&lon=2.302108
++DIV_Dou http://www.openstreetmap.org/?lat=48.598622&lon=2.297773
+MarHur +MarollesHurepoix http://www.openstreetmap.org/?lat=48.565121&lon=2.290907
+Bou +Bouray http://www.openstreetmap.org/?lat=48.533189&lon=2.290392
+Lar +Lardy http://www.openstreetmap.org/?lat=48.520769&lon=2.255545
+Cha +Chamarande http://www.openstreetmap.org/?lat=48.514344&lon=2.215676
+Etr +Etrechy http://www.openstreetmap.org/?lat=48.493708&lon=2.194562
+Eta +Etampes http://www.openstreetmap.org/?lat=48.436953&lon=2.159522
+DIV_Eta http://www.openstreetmap.org/?lat=48.431229&lon=2.145896
+StMarEta +SaintMartinEtampes http://www.openstreetmap.org/?lat=48.427485&lon=2.145274

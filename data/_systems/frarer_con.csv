@@ -1,20 +1,16 @@
 systemName;route;banner;groupName;roots
-frarer;A;;;fraidf.rera
-frarer;A;;Saint-Germain-en-Laye branch;fraidf.rerastg
-frarer;A;;Boissy Saint-Leger branch;fraidf.reraboi
-frarer;A;;Poissy branch;fraidf.rerapoi
-frarer;B;;;fraidf.rerb
-frarer;B;;Mitry Claye branch;fraidf.rerbmit
-frarer;B;;Robinson branch;fraidf.rerbrob
-frarer;C;;;fraidf.rerc
-frarer;C;;Versailles Chateau Rive Gauche branch;fraidf.rercver
-frarer;C;;Pontoise branch;fraidf.rercpon
-frarer;C;;Rungis branch;fraidf.rercrun
-frarer;C;;Versailles Chantiers branch;fraidf.rerccha
-frarer;C;;Doudan La Foret branch;fraidf.rercdou
-frarer;D;;;frahdf.rerd,fraidf.rerd
-frarer;D;;Melun branch;fraidf.rerdmel
-frarer;D;;Malesherbes branch;fraidf.rerdmal,fracvl.rerd
-frarer;D;;Essonnes branch;fraidf.rerdess
-frarer;E;;;fraidf.rere
-frarer;E;;Chelles Gournay branch;fraidf.rereche
+frarer;A;;Saint-Germain-en-Laye - Marne-la-Vallee-Chessy;fraidf.rera
+frarer;A;;Cergy-le-Haut - Boissy-Saint-Leger;fraidf.reraboi
+frarer;A;;Poissy - Torcy;fraidf.rerapoi
+frarer;B;;Aeroport CDG - Massy-Plaiseau;fraidf.rerb
+frarer;B;;Mitry-Claye - Robinson;fraidf.rerbmit
+frarer;C;;Saint-Quentin-en-Yvelines - Saint-Martin-d'Etampes;fraidf.rerc
+frarer;C;;Invalides - Doudan La Foret;fraidf.rercdou
+frarer;C;;Versailles-Chateau-Rive-Gauche - Versailles-Chantiers;fraidf.rercver
+frarer;C;;Pontoise - Massy Palaiseau;fraidf.rercpon
+frarer;D;;Creil - Corbeil-Essones;frahdf.rerd,fraidf.rerd
+frarer;D;;Goussainville - Melun;fraidf.rerdmel
+frarer;D;;Juvisy - Malesherbes;fraidf.rerdmal,fracvl.rerd;
+frarer;D;;Juvisy - Melun;fraidf.rerdess
+frarer;E;;Haussmann-Saint-Lazare - Tournan;fraidf.rere
+frarer;E;;Haussmann-Saint-Lazare - Chelles-Gournay;fraidf.rereche

@@ -1,31 +1,31 @@
-SaintLazare http://www.openstreetmap.org/?lat=48.876532&lon=2.325261
-+PontCardinet http://www.openstreetmap.org/?lat=48.888014&lon=2.314038
-+ClichyLevallois http://www.openstreetmap.org/?lat=48.897184&lon=2.298331
-AsnieresSeine http://www.openstreetmap.org/?lat=48.905986&lon=2.283268
-+X812130 http://www.openstreetmap.org/?lat=48.909004&lon=2.278504
-BoisColombes http://www.openstreetmap.org/?lat=48.914018&lon=2.271938
-Colombes http://www.openstreetmap.org/?lat=48.923959&lon=2.259300
-Stade http://www.openstreetmap.org/?lat=48.931374&lon=2.260716
-Argenteuil http://www.openstreetmap.org/?lat=48.946878&lon=2.257926
-+X893587 http://www.openstreetmap.org/?lat=48.951388&lon=2.255030
+ParStLaz +SaintLazare http://www.openstreetmap.org/?lat=48.876532&lon=2.325261
++SKIP_PontCar http://www.openstreetmap.org/?lat=48.888014&lon=2.314038
++SKIP_CliLev http://www.openstreetmap.org/?lat=48.897184&lon=2.298331
++SKIP_AsnSei +AsnieresSeine http://www.openstreetmap.org/?lat=48.905986&lon=2.283268
++DIV_Poi http://www.openstreetmap.org/?lat=48.909004&lon=2.278504
++SKIP_BoisCol +BoisColombes http://www.openstreetmap.org/?lat=48.914018&lon=2.271938
++SKIP_Col +Colombes http://www.openstreetmap.org/?lat=48.923959&lon=2.259300
++SKIP_Sta +Stade http://www.openstreetmap.org/?lat=48.931374&lon=2.260716
+Arg +Argenteuil http://www.openstreetmap.org/?lat=48.946878&lon=2.257926
++DIV_Erm http://www.openstreetmap.org/?lat=48.951388&lon=2.255030
 +X188249 http://www.openstreetmap.org/?lat=48.955918&lon=2.247090
-ValArgenteuil http://www.openstreetmap.org/?lat=48.950479&lon=2.231812
-CormillesParisis http://www.openstreetmap.org/?lat=48.968400&lon=2.193403
-FretteMontigny http://www.openstreetmap.org/?lat=48.980259&lon=2.180099
-Herblay http://www.openstreetmap.org/?lat=48.990201&lon=2.161946
+ValArg +ValArgenteuil http://www.openstreetmap.org/?lat=48.950479&lon=2.231812
+CorPar +CormillesParisis http://www.openstreetmap.org/?lat=48.968400&lon=2.193403
+FreMon +FretteMontigny http://www.openstreetmap.org/?lat=48.980259&lon=2.180099
+Her +Herblay http://www.openstreetmap.org/?lat=48.990201&lon=2.161946
 +X364111 http://www.openstreetmap.org/?lat=48.999859&lon=2.114139
-ConflansSainteHonorine http://www.openstreetmap.org/?lat=48.996952&lon=2.098389
-+X769605 http://www.openstreetmap.org/?lat=48.995558&lon=2.094033
+ConStHon +ConflansSainteHonorine http://www.openstreetmap.org/?lat=48.996952&lon=2.098389
++DIV_Man http://www.openstreetmap.org/?lat=48.995558&lon=2.094033
 +X747335 http://www.openstreetmap.org/?lat=49.015398&lon=2.087102
-EragnyNeuville http://www.openstreetmap.org/?lat=49.018072&lon=2.090578
+EraNeu +EragnyNeuville http://www.openstreetmap.org/?lat=49.018072&lon=2.090578
 +X906616 http://www.openstreetmap.org/?lat=49.025755&lon=2.098861
-SaintOuenAumoneQuartierEglise http://www.openstreetmap.org/?lat=49.039626&lon=2.103796
-+X241698 http://www.openstreetmap.org/?lat=49.045499&lon=2.101908
-Pontoise http://www.openstreetmap.org/?lat=49.046708&lon=2.095256
+StOuenAumQuaEgl +SaintOuenAumoneQuartierEglise http://www.openstreetmap.org/?lat=49.039626&lon=2.103796
++DIV_C http://www.openstreetmap.org/?lat=49.045499&lon=2.101908
+Pon +Pontoise http://www.openstreetmap.org/?lat=49.046708&lon=2.095256
 Osny http://www.openstreetmap.org/?lat=49.063027&lon=2.057748
-BoissyAillerie http://www.openstreetmap.org/?lat=49.075679&lon=2.025218
-MontgeroultCourcelles http://www.openstreetmap.org/?lat=49.080570&lon=2.003503
+BoiAil +BoissyAillerie http://www.openstreetmap.org/?lat=49.075679&lon=2.025218
+MonCou +MontgeroultCourcelles http://www.openstreetmap.org/?lat=49.080570&lon=2.003503
 Us http://www.openstreetmap.org/?lat=49.099681&lon=1.970544
-SanteuilPerchay http://www.openstreetmap.org/?lat=49.124149&lon=1.949086
-Chars http://www.openstreetmap.org/?lat=49.162722&lon=1.936941
+SanPer +SanteuilPerchay http://www.openstreetmap.org/?lat=49.124149&lon=1.949086
+Cha +Chars http://www.openstreetmap.org/?lat=49.162722&lon=1.936941
 IDF/HDF http://www.openstreetmap.org/?lat=49.174283&lon=1.931920
