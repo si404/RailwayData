@@ -5,7 +5,7 @@ WimStr http://www.openstreetmap.org/?lat=48.838251&lon=9.161010
 SalzWieStr http://www.openstreetmap.org/?lat=48.836377&lon=9.162887
 KirTalStr http://www.openstreetmap.org/?lat=48.832192&lon=9.170719
 ZufHauRatHaus http://www.openstreetmap.org/?lat=48.830575&lon=9.174678
-DIV_KelPla http://www.openstreetmap.org/?lat=48.829740&lon=9.174952
++DIV_KelPla http://www.openstreetmap.org/?lat=48.829740&lon=9.174952
 HohSteStr http://www.openstreetmap.org/?lat=48.826922&lon=9.173707
 FriWahl http://www.openstreetmap.org/?lat=48.822855&lon=9.172844
 BorStr http://www.openstreetmap.org/?lat=48.819330&lon=9.175483
@@ -14,8 +14,8 @@ PragSat http://www.openstreetmap.org/?lat=48.809495&lon=9.183229
 LowTorBru http://www.openstreetmap.org/?lat=48.803747&lon=9.183476
 PragFriHof http://www.openstreetmap.org/?lat=48.798062&lon=9.182607
 StaBib http://www.openstreetmap.org/?lat=48.790591&lon=9.181148
-DIV_PostDor http://www.openstreetmap.org/?lat=48.787484&lon=9.179528
-DIV_HbfW http://www.openstreetmap.org/?lat=48.784047&lon=9.179198
++DIV_PostDor http://www.openstreetmap.org/?lat=48.787484&lon=9.179528
++DIV_HbfW http://www.openstreetmap.org/?lat=48.784047&lon=9.179198
 Hbf http://www.openstreetmap.org/?lat=48.783278&lon=9.180912
 SchPla http://www.openstreetmap.org/?lat=48.779009&lon=9.179034
 ChaPla http://www.openstreetmap.org/?lat=48.775871&lon=9.182934

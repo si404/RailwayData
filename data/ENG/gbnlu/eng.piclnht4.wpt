@@ -1,11 +1,11 @@
 HatCro_1 +HatCro http://www.openstreetmap.org/?lat=51.466527&lon=-0.423961
-DIV_Hea http://www.openstreetmap.org/?lat=51.466206&lon=-0.426278
++DIV_Hea http://www.openstreetmap.org/?lat=51.466206&lon=-0.426278
 HeaTer4 http://www.openstreetmap.org/?lat=51.458834&lon=-0.445418
 +X507720 http://www.openstreetmap.org/?lat=51.456006&lon=-0.455053
 +X105617 http://www.openstreetmap.org/?lat=51.467289&lon=-0.472133
-DIV_HT5 http://www.openstreetmap.org/?lat=51.473037&lon=-0.459816
++DIV_HT5 http://www.openstreetmap.org/?lat=51.473037&lon=-0.459816
 HeaTer23 http://www.openstreetmap.org/?lat=51.471961&lon=-0.454302
-DIV_T4E http://www.openstreetmap.org/?lat=51.466206&lon=-0.426278
++DIV_T4E http://www.openstreetmap.org/?lat=51.466206&lon=-0.426278
 HatCro_2 http://www.openstreetmap.org/?lat=51.466527&lon=-0.423961
 HouWest http://www.openstreetmap.org/?lat=51.473571&lon=-0.385745
 HouCen http://www.openstreetmap.org/?lat=51.471299&lon=-0.366240
@@ -14,16 +14,16 @@ Ost http://www.openstreetmap.org/?lat=51.481189&lon=-0.352249
 BosMan http://www.openstreetmap.org/?lat=51.495419&lon=-0.325277
 Nor http://www.openstreetmap.org/?lat=51.499693&lon=-0.313003
 SouEal http://www.openstreetmap.org/?lat=51.500909&lon=-0.307596
-DIV_Eal http://www.openstreetmap.org/?lat=51.505384&lon=-0.284786
++DIV_Eal http://www.openstreetmap.org/?lat=51.505384&lon=-0.284786
 ActTown http://www.openstreetmap.org/?lat=51.502699&lon=-0.279937
-SKIP_ChiPark http://www.openstreetmap.org/?lat=51.494574&lon=-0.267878
-DIV_Ric http://www.openstreetmap.org/?lat=51.494828&lon=-0.262620
++SKIP_ChiPark http://www.openstreetmap.org/?lat=51.494574&lon=-0.267878
++DIV_Ric http://www.openstreetmap.org/?lat=51.494828&lon=-0.262620
 TurGre http://www.openstreetmap.org/?lat=51.495135&lon=-0.254692
-SKIP_StaBro http://www.openstreetmap.org/?lat=51.494981&lon=-0.245894
-SKIP_RavPark http://www.openstreetmap.org/?lat=51.494133&lon=-0.235831
++SKIP_StaBro http://www.openstreetmap.org/?lat=51.494981&lon=-0.245894
++SKIP_RavPark http://www.openstreetmap.org/?lat=51.494133&lon=-0.235831
 Ham http://www.openstreetmap.org/?lat=51.492132&lon=-0.223310
 BarCou http://www.openstreetmap.org/?lat=51.490235&lon=-0.213697
-DIV_Dis http://www.openstreetmap.org/?lat=51.490048&lon=-0.208697
++DIV_Dis http://www.openstreetmap.org/?lat=51.490048&lon=-0.208697
 EarCou http://www.openstreetmap.org/?lat=51.491638&lon=-0.193913
 GloRd http://www.openstreetmap.org/?lat=51.494524&lon=-0.183785
 SouKen http://www.openstreetmap.org/?lat=51.494069&lon=-0.173056

@@ -6,10 +6,10 @@ PlaJug http://www.openstreetmap.org/?lat=54.081315&lon=12.104745
 ParkStr http://www.openstreetmap.org/?lat=54.084349&lon=12.109015
 SaarPla http://www.openstreetmap.org/?lat=54.085029&lon=12.116332
 DobPla http://www.openstreetmap.org/?lat=54.088200&lon=12.123220
-DIV_SchPla http://www.openstreetmap.org/?lat=54.087772&lon=12.126524
++DIV_SchPla http://www.openstreetmap.org/?lat=54.087772&lon=12.126524
 SchPla http://www.openstreetmap.org/?lat=54.087102&lon=12.126310
 GoePla http://www.openstreetmap.org/?lat=54.082791&lon=12.127243
-DIV_StaHal http://www.openstreetmap.org/?lat=54.078848&lon=12.125344
++DIV_StaHal http://www.openstreetmap.org/?lat=54.078848&lon=12.125344
 StaHal http://www.openstreetmap.org/?lat=54.078181&lon=12.127190
 Hbf http://www.openstreetmap.org/?lat=54.078397&lon=12.130883
 RosaLuxStr http://www.openstreetmap.org/?lat=54.080220&lon=12.136652
@@ -20,7 +20,7 @@ StaHaf http://www.openstreetmap.org/?lat=54.091447&lon=12.151973
 PetDamm http://www.openstreetmap.org/?lat=54.092593&lon=12.156823
 DieDamm http://www.openstreetmap.org/?lat=54.098457&lon=12.156844
 DieKre http://www.openstreetmap.org/?lat=54.103678&lon=12.154183
-SKIP_HinDorStr http://www.openstreetmap.org/?lat=54.106188&lon=12.158507
++SKIP_HinDorStr http://www.openstreetmap.org/?lat=54.106188&lon=12.158507
 LorStr http://www.openstreetmap.org/?lat=54.104680&lon=12.160055
 DieZen http://www.openstreetmap.org/?lat=54.102256&lon=12.167552
 KatWeg http://www.openstreetmap.org/?lat=54.100658&lon=12.172723

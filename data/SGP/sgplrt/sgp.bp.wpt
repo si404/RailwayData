@@ -4,7 +4,7 @@ BP3 http://www.openstreetmap.org/?lat=1.378662&lon=103.748982
 BP4 http://www.openstreetmap.org/?lat=1.376667&lon=103.753703
 BP5 http://www.openstreetmap.org/?lat=1.378597&lon=103.757994
 BP6_A http://www.openstreetmap.org/?lat=1.377882&lon=103.763101
-DIV_1 http://www.openstreetmap.org/?lat=1.378151&lon=103.764002
++DIV_1 http://www.openstreetmap.org/?lat=1.378151&lon=103.764002
 BP7 http://www.openstreetmap.org/?lat=1.377761&lon=103.766663
 BP8 http://www.openstreetmap.org/?lat=1.376195&lon=103.771298
 BP9 http://www.openstreetmap.org/?lat=1.380013&lon=103.772671
@@ -12,5 +12,5 @@ BP10 http://www.openstreetmap.org/?lat=1.384518&lon=103.770804
 BP11 http://www.openstreetmap.org/?lat=1.387779&lon=103.769560
 BP12 http://www.openstreetmap.org/?lat=1.386669&lon=103.764507
 BP13 http://www.openstreetmap.org/?lat=1.382668&lon=103.762372
-DIV_2 http://www.openstreetmap.org/?lat=1.378151&lon=103.764002
++DIV_2 http://www.openstreetmap.org/?lat=1.378151&lon=103.764002
 BP6_B http://www.openstreetmap.org/?lat=1.377882&lon=103.763101

@@ -6,7 +6,7 @@ SanSt http://www.openstreetmap.org/?lat=22.283525&lon=114.129378
 HolSt http://www.openstreetmap.org/?lat=22.284354&lon=114.130391
 QueRdWest http://www.openstreetmap.org/?lat=22.286438&lon=114.132264
 HillRd http://www.openstreetmap.org/?lat=22.287094&lon=114.134361
-DIV_34 http://www.openstreetmap.org/?lat=22.286947&lon=114.135026
++DIV_34 http://www.openstreetmap.org/?lat=22.286947&lon=114.135026
 WhiSt http://www.openstreetmap.org/?lat=22.286816&lon=114.136544
 WatSt http://www.openstreetmap.org/?lat=22.287431&lon=114.138830
 WesSt http://www.openstreetmap.org/?lat=22.287957&lon=114.140804
@@ -34,13 +34,13 @@ OBrRd http://www.openstreetmap.org/?lat=22.276576&lon=114.173344
 FleRd http://www.openstreetmap.org/?lat=22.276982&lon=114.175351
 BurSt http://www.openstreetmap.org/?lat=22.277340&lon=114.176000
 TonRd http://www.openstreetmap.org/?lat=22.278179&lon=114.177631
-DIV_25W http://www.openstreetmap.org/?lat=22.278695&lon=114.179567
++DIV_25W http://www.openstreetmap.org/?lat=22.278695&lon=114.179567
 CanRdWest http://www.openstreetmap.org/?lat=22.279330&lon=114.181117
-DIV_25E http://www.openstreetmap.org/?lat=22.279869&lon=114.182729
++DIV_25E http://www.openstreetmap.org/?lat=22.279869&lon=114.182729
 PerSt http://www.openstreetmap.org/?lat=22.280005&lon=114.182947
 PatSt http://www.openstreetmap.org/?lat=22.279757&lon=114.185881
 PenSt http://www.openstreetmap.org/?lat=22.279529&lon=114.186562
-DIV_4 http://www.openstreetmap.org/?lat=22.279410&lon=114.186954
++DIV_4 http://www.openstreetmap.org/?lat=22.279410&lon=114.186954
 SheSt http://www.openstreetmap.org/?lat=22.279633&lon=114.187995
 VicPark http://www.openstreetmap.org/?lat=22.280606&lon=114.189464
 HingFatSt http://www.openstreetmap.org/?lat=22.281728&lon=114.191122
@@ -49,9 +49,9 @@ LauLiSt http://www.openstreetmap.org/?lat=22.284483&lon=114.192742
 WingHingSt http://www.openstreetmap.org/?lat=22.284944&lon=114.192844
 JupSt http://www.openstreetmap.org/?lat=22.286503&lon=114.192908
 ForHill http://www.openstreetmap.org/?lat=22.289119&lon=114.194282
-DIV_3W http://www.openstreetmap.org/?lat=22.290419&lon=114.196567
++DIV_3W http://www.openstreetmap.org/?lat=22.290419&lon=114.196567
 NorPoiRd http://www.openstreetmap.org/?lat=22.290543&lon=114.197136
-DIV_3E http://www.openstreetmap.org/?lat=22.290861&lon=114.198691
++DIV_3E http://www.openstreetmap.org/?lat=22.290861&lon=114.198691
 ShuKukSt http://www.openstreetmap.org/?lat=22.290888&lon=114.200735
 TinChiuSt http://www.openstreetmap.org/?lat=22.291839&lon=114.203535
 HeaStWest http://www.openstreetmap.org/?lat=22.292092&lon=114.205188
