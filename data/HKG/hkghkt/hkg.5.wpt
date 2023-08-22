@@ -6,7 +6,7 @@ SanSt http://www.openstreetmap.org/?lat=22.283525&lon=114.129378
 HolSt http://www.openstreetmap.org/?lat=22.284354&lon=114.130391
 QueRdWest http://www.openstreetmap.org/?lat=22.286438&lon=114.132264
 HillRd http://www.openstreetmap.org/?lat=22.287094&lon=114.134361
-DIV_34 http://www.openstreetmap.org/?lat=22.286947&lon=114.135026
++DIV_34 http://www.openstreetmap.org/?lat=22.286947&lon=114.135026
 WhiSt http://www.openstreetmap.org/?lat=22.286816&lon=114.136544
 WatSt http://www.openstreetmap.org/?lat=22.287431&lon=114.138830
 WesSt http://www.openstreetmap.org/?lat=22.287957&lon=114.140804
@@ -34,9 +34,9 @@ OBrRd http://www.openstreetmap.org/?lat=22.276576&lon=114.173344
 FleRd http://www.openstreetmap.org/?lat=22.276982&lon=114.175351
 BurSt http://www.openstreetmap.org/?lat=22.277340&lon=114.176000
 TonRd_A http://www.openstreetmap.org/?lat=22.278179&lon=114.177631
-DIV_13W http://www.openstreetmap.org/?lat=22.278695&lon=114.179567
++DIV_13W http://www.openstreetmap.org/?lat=22.278695&lon=114.179567
 CanRdWest http://www.openstreetmap.org/?lat=22.279330&lon=114.181117
-DIV_13E http://www.openstreetmap.org/?lat=22.279869&lon=114.182729
++DIV_13E http://www.openstreetmap.org/?lat=22.279869&lon=114.182729
 FooMingSt http://www.openstreetmap.org/?lat=22.279392&lon=114.182947
 LeiRd http://www.openstreetmap.org/?lat=22.276991&lon=114.182367
 BroRd http://www.openstreetmap.org/?lat=22.273906&lon=114.183700
@@ -46,5 +46,5 @@ HongKongCem http://www.openstreetmap.org/?lat=22.272382&lon=114.179902
 QueRdEast http://www.openstreetmap.org/?lat=22.274395&lon=114.179452
 MorHillRd http://www.openstreetmap.org/?lat=22.275842&lon=114.180557
 TinLokLn http://www.openstreetmap.org/?lat=22.278507&lon=114.179656
-DIV_46 http://www.openstreetmap.org/?lat=22.278695&lon=114.179567
++DIV_46 http://www.openstreetmap.org/?lat=22.278695&lon=114.179567
 TonRd_B http://www.openstreetmap.org/?lat=22.278179&lon=114.177631

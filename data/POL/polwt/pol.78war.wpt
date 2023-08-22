@@ -8,14 +8,14 @@ SynPul http://www.openstreetmap.org/?lat=52.225595&lon=20.916252
 CieWola http://www.openstreetmap.org/?lat=52.220869&lon=20.918248
 PolSkaParPR http://www.openstreetmap.org/?lat=52.221940&lon=20.922807
 FortWola http://www.openstreetmap.org/?lat=52.223445&lon=20.929148
-DIV_CmWol http://www.openstreetmap.org/?lat=52.224205&lon=20.932324
++DIV_CmWol http://www.openstreetmap.org/?lat=52.224205&lon=20.932324
 SowSki http://www.openstreetmap.org/?lat=52.225529&lon=20.936894
 RedWolSka http://www.openstreetmap.org/?lat=52.226554&lon=20.941873
 Ele http://www.openstreetmap.org/?lat=52.229577&lon=20.951389
 PKPWola http://www.openstreetmap.org/?lat=52.230809&lon=20.955251
 SokSka http://www.openstreetmap.org/?lat=52.232429&lon=20.960788
 MetPlo http://www.openstreetmap.org/?lat=52.233663&lon=20.966855
-DIV_Plo http://www.openstreetmap.org/?lat=52.233802&lon=20.968212
++DIV_Plo http://www.openstreetmap.org/?lat=52.233802&lon=20.968212
 RogSka http://www.openstreetmap.org/?lat=52.231391&lon=20.968941
 SzpWol http://www.openstreetmap.org/?lat=52.229209&lon=20.969585
 Kar http://www.openstreetmap.org/?lat=52.229396&lon=20.979037
@@ -37,7 +37,7 @@ PlacBan http://www.openstreetmap.org/?lat=52.243309&lon=21.002609
 MetRatArs http://www.openstreetmap.org/?lat=52.244367&lon=21.001289
 Mur http://www.openstreetmap.org/?lat=52.249274&lon=20.998843
 MurSka http://www.openstreetmap.org/?lat=52.253658&lon=20.997770
-DIV_Pol http://www.openstreetmap.org/?lat=52.255398&lon=20.997550
++DIV_Pol http://www.openstreetmap.org/?lat=52.255398&lon=20.997550
 KSPol http://www.openstreetmap.org/?lat=52.255717&lon=20.998585
 ParkTrauGut http://www.openstreetmap.org/?lat=52.258764&lon=21.002587
 MostGda http://www.openstreetmap.org/?lat=52.260117&lon=21.007469

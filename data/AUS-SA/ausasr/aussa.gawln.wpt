@@ -1,6 +1,7 @@
 Ade http://www.openstreetmap.org/?lat=-34.920959&lon=138.595855
-DIV_Bel http://www.openstreetmap.org/?lat=-34.919609&lon=138.588281
-DIV_Gra http://www.openstreetmap.org/?lat=-34.914181&lon=138.583592
+Ade Adelaide http://www.openstreetmap.org/?lat=-34.920959&lon=138.595855
++DIV_Bel http://www.openstreetmap.org/?lat=-34.919609&lon=138.588281
++DIV_Gra http://www.openstreetmap.org/?lat=-34.914181&lon=138.583592
 +X665369 http://www.openstreetmap.org/?lat=-34.911550&lon=138.581607
 NorAde http://www.openstreetmap.org/?lat=-34.906227&lon=138.581618
 Ovi http://www.openstreetmap.org/?lat=-34.895981&lon=138.584247
@@ -14,7 +15,7 @@ ParGar http://www.openstreetmap.org/?lat=-34.791312&lon=138.623364
 Par http://www.openstreetmap.org/?lat=-34.782888&lon=138.630831
 Chi http://www.openstreetmap.org/?lat=-34.774869&lon=138.637869
 Sal http://www.openstreetmap.org/?lat=-34.763183&lon=138.642354
-DIV_Nor http://www.openstreetmap.org/?lat=-34.758229&lon=138.642375
++DIV_Nor http://www.openstreetmap.org/?lat=-34.758229&lon=138.642375
 Nur http://www.openstreetmap.org/?lat=-34.751292&lon=138.643985
 EliSou http://www.openstreetmap.org/?lat=-34.731191&lon=138.655958
 Eli http://www.openstreetmap.org/?lat=-34.717329&lon=138.664627

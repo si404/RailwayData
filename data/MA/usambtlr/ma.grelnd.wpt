@@ -11,10 +11,10 @@ BroHil http://www.openstreetmap.org/?lat=42.331337&lon=-71.126626
 BroVlg http://www.openstreetmap.org/?lat=42.332527&lon=-71.116948
 Lon http://www.openstreetmap.org/?lat=42.341711&lon=-71.109996
 Fen http://www.openstreetmap.org/?lat=42.345184&lon=-71.104589
-DIV_C http://www.openstreetmap.org/?lat=42.347471&lon=-71.102078
++DIV_C http://www.openstreetmap.org/?lat=42.347471&lon=-71.102078
 Ken http://www.openstreetmap.org/?lat=42.348938&lon=-71.095308
 HynConCen http://www.openstreetmap.org/?lat=42.348034&lon=-71.087658
-DIV_ES http://www.openstreetmap.org/?lat=42.349590&lon=-71.079231
++DIV_ES http://www.openstreetmap.org/?lat=42.349590&lon=-71.079231
 Cop http://www.openstreetmap.org/?lat=42.350017&lon=-71.077724
 Arl http://www.openstreetmap.org/?lat=42.351737&lon=-71.071275
 Boy http://www.openstreetmap.org/?lat=42.353220&lon=-71.064548
@@ -25,9 +25,9 @@ Hay http://www.openstreetmap.org/?lat=42.362115&lon=-71.057886
 NorSta http://www.openstreetmap.org/?lat=42.365239&lon=-71.060160
 SciPk http://www.openstreetmap.org/?lat=42.366749&lon=-71.067832
 Lec http://www.openstreetmap.org/?lat=42.371293&lon=-71.076162
-DIV_EN http://www.openstreetmap.org/?lat=42.374992&lon=-71.081758
++DIV_EN http://www.openstreetmap.org/?lat=42.374992&lon=-71.081758
 ESom http://www.openstreetmap.org/?lat=42.379722&lon=-71.086907
-DIV_Low http://www.openstreetmap.org/?lat=42.380544&lon=-71.087691
++DIV_Low http://www.openstreetmap.org/?lat=42.380544&lon=-71.087691
 GilSq http://www.openstreetmap.org/?lat=42.387988&lon=-71.096735
 MagSq http://www.openstreetmap.org/?lat=42.394247&lon=-71.106686
 BallSq http://www.openstreetmap.org/?lat=42.400257&lon=-71.111192

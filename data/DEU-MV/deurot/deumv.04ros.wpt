@@ -3,10 +3,10 @@ KliSud http://www.openstreetmap.org/?lat=54.073007&lon=12.107556
 RobKochStr http://www.openstreetmap.org/?lat=54.072138&lon=12.112298
 SudStaCen http://www.openstreetmap.org/?lat=54.072084&lon=12.117180
 EriSchStr http://www.openstreetmap.org/?lat=54.074980&lon=12.121965
-DIV_StaHal http://www.openstreetmap.org/?lat=54.078848&lon=12.125344
++DIV_StaHal http://www.openstreetmap.org/?lat=54.078848&lon=12.125344
 GoePla http://www.openstreetmap.org/?lat=54.082791&lon=12.127243
 SchPla http://www.openstreetmap.org/?lat=54.087102&lon=12.126310
-DIV_SchPla http://www.openstreetmap.org/?lat=54.087772&lon=12.126524
++DIV_SchPla http://www.openstreetmap.org/?lat=54.087772&lon=12.126524
 KroTor http://www.openstreetmap.org/?lat=54.089811&lon=12.129636
 LanStr http://www.openstreetmap.org/?lat=54.089912&lon=12.134442
 NeuMar http://www.openstreetmap.org/?lat=54.088943&lon=12.140515
@@ -16,7 +16,7 @@ StaHaf http://www.openstreetmap.org/?lat=54.091447&lon=12.151973
 PetDamm http://www.openstreetmap.org/?lat=54.092593&lon=12.156823
 DieDamm http://www.openstreetmap.org/?lat=54.098457&lon=12.156844
 DieKre http://www.openstreetmap.org/?lat=54.103678&lon=12.154183
-SKIP_HinDorStr http://www.openstreetmap.org/?lat=54.106188&lon=12.158507
++SKIP_HinDorStr http://www.openstreetmap.org/?lat=54.106188&lon=12.158507
 LorStr http://www.openstreetmap.org/?lat=54.104680&lon=12.160055
 DieZen http://www.openstreetmap.org/?lat=54.102256&lon=12.167552
 KatWeg http://www.openstreetmap.org/?lat=54.100658&lon=12.172723

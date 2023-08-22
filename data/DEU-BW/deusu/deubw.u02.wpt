@@ -10,7 +10,7 @@ SchBebStr http://www.openstreetmap.org/?lat=48.775025&lon=9.155045
 SchJohStr http://www.openstreetmap.org/?lat=48.776368&lon=9.162372
 BerPla http://www.openstreetmap.org/?lat=48.778107&lon=9.167737
 RotPla http://www.openstreetmap.org/?lat=48.774455&lon=9.172747
-DIV_WilPla http://www.openstreetmap.org/?lat=48.772027&lon=9.178141
++DIV_WilPla http://www.openstreetmap.org/?lat=48.772027&lon=9.178141
 RatHaus http://www.openstreetmap.org/?lat=48.773517&lon=9.179860
 ChaPla http://www.openstreetmap.org/?lat=48.775871&lon=9.182934
 StaGal http://www.openstreetmap.org/?lat=48.783127&lon=9.187317
@@ -18,9 +18,9 @@ NecTor http://www.openstreetmap.org/?lat=48.786056&lon=9.190098
 Sto http://www.openstreetmap.org/?lat=48.789008&lon=9.195031
 MetzStr http://www.openstreetmap.org/?lat=48.792203&lon=9.200524
 MinBad http://www.openstreetmap.org/?lat=48.796861&lon=9.205620
-DIV_Ros http://www.openstreetmap.org/?lat=48.798977&lon=9.208828
++DIV_Ros http://www.openstreetmap.org/?lat=48.798977&lon=9.208828
 MerStr http://www.openstreetmap.org/?lat=48.799988&lon=9.211822
-DIV_MerStr http://www.openstreetmap.org/?lat=48.800468&lon=9.213002
++DIV_MerStr http://www.openstreetmap.org/?lat=48.800468&lon=9.213002
 BadCanWilPla http://www.openstreetmap.org/?lat=48.802712&lon=9.215738
 DaiPla http://www.openstreetmap.org/?lat=48.805289&lon=9.219010
 KurSaal http://www.openstreetmap.org/?lat=48.809126&lon=9.222352

@@ -13,16 +13,16 @@ BakSt http://www.openstreetmap.org/?lat=51.522783&lon=-0.156770
 GrePorSt http://www.openstreetmap.org/?lat=51.523815&lon=-0.143702
 EusSq http://www.openstreetmap.org/?lat=51.525697&lon=-0.135580
 KXSP +KIC http://www.openstreetmap.org/?lat=51.530246&lon=-0.124090
-DIV_TLN http://www.openstreetmap.org/?lat=51.530703&lon=-0.122180
-DIV_TLS http://www.openstreetmap.org/?lat=51.526445&lon=-0.112846
++DIV_TLN http://www.openstreetmap.org/?lat=51.530703&lon=-0.122180
++DIV_TLS http://www.openstreetmap.org/?lat=51.526445&lon=-0.112846
 +X916611 http://www.openstreetmap.org/?lat=51.522373&lon=-0.106602
 Far http://www.openstreetmap.org/?lat=51.520080&lon=-0.104842
 Bar http://www.openstreetmap.org/?lat=51.520140&lon=-0.098641
 Moo http://www.openstreetmap.org/?lat=51.518270&lon=-0.088985
 LivSt http://www.openstreetmap.org/?lat=51.518057&lon=-0.081389
-DIV_HAC http://www.openstreetmap.org/?lat=51.514735&lon=-0.076250
++DIV_HAC http://www.openstreetmap.org/?lat=51.514735&lon=-0.076250
 Ald http://www.openstreetmap.org/?lat=51.514285&lon=-0.075660
-DIV_DE http://www.openstreetmap.org/?lat=51.513487&lon=-0.075381
++DIV_DE http://www.openstreetmap.org/?lat=51.513487&lon=-0.075381
 TowHill http://www.openstreetmap.org/?lat=51.509848&lon=-0.076679
 Mon http://www.openstreetmap.org/?lat=51.510636&lon=-0.086120
 CanSt http://www.openstreetmap.org/?lat=51.511357&lon=-0.090337
@@ -37,8 +37,8 @@ SloSqu http://www.openstreetmap.org/?lat=51.492279&lon=-0.156105
 SouKen +SKS http://www.openstreetmap.org/?lat=51.494069&lon=-0.173056
 +X196200 http://www.openstreetmap.org/?lat=51.493749&lon=-0.179172
 GloRd http://www.openstreetmap.org/?lat=51.494524&lon=-0.183785
-DIV_DW http://www.openstreetmap.org/?lat=51.494965&lon=-0.185609
-DIV_DS http://www.openstreetmap.org/?lat=51.497219&lon=-0.188366
++DIV_DW http://www.openstreetmap.org/?lat=51.494965&lon=-0.185609
++DIV_DS http://www.openstreetmap.org/?lat=51.497219&lon=-0.188366
 HighStKen http://www.openstreetmap.org/?lat=51.500291&lon=-0.192078
 NotHillGate http://www.openstreetmap.org/?lat=51.508933&lon=-0.196198
 Bay http://www.openstreetmap.org/?lat=51.512285&lon=-0.188409

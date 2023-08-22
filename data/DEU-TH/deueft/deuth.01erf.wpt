@@ -2,7 +2,7 @@ EurPla http://www.openstreetmap.org/?lat=51.012978&lon=10.991414
 ThuPark http://www.openstreetmap.org/?lat=51.008834&lon=10.994782
 StrNat http://www.openstreetmap.org/?lat=51.005890&lon=10.999160
 WarStr http://www.openstreetmap.org/?lat=51.002731&lon=11.003151
-DIV_AugStr http://www.openstreetmap.org/?lat=51.002191&lon=11.003859
++DIV_AugStr http://www.openstreetmap.org/?lat=51.002191&lon=11.003859
 BerStr http://www.openstreetmap.org/?lat=51.003068&lon=11.005812
 VilStr http://www.openstreetmap.org/?lat=51.005283&lon=11.011927
 Rie http://www.openstreetmap.org/?lat=51.005013&lon=11.015961
@@ -15,10 +15,10 @@ LutKirSWE http://www.openstreetmap.org/?lat=50.989955&lon=11.026390
 BoyBurgUfer http://www.openstreetmap.org/?lat=50.985430&lon=11.028192
 AugKlo http://www.openstreetmap.org/?lat=50.982553&lon=11.030638
 StaMusKaiSaal http://www.openstreetmap.org/?lat=50.979618&lon=11.034490
-DIV_Ang http://www.openstreetmap.org/?lat=50.977784&lon=11.035638
++DIV_Ang http://www.openstreetmap.org/?lat=50.977784&lon=11.035638
 Ang http://www.openstreetmap.org/?lat=50.976122&lon=11.034318
 Hbf http://www.openstreetmap.org/?lat=50.972042&lon=11.037290
-DIV_Hbf http://www.openstreetmap.org/?lat=50.971322&lon=11.037837
++DIV_Hbf http://www.openstreetmap.org/?lat=50.971322&lon=11.037837
 KafTri http://www.openstreetmap.org/?lat=50.968422&lon=11.032591
 LandTagIHKStaNord http://www.openstreetmap.org/?lat=50.963458&lon=11.033674
 HumStr http://www.openstreetmap.org/?lat=50.960789&lon=11.034533

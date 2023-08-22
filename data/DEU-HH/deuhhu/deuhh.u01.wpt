@@ -11,9 +11,9 @@ SenManStr http://www.openstreetmap.org/?lat=53.609389&lon=10.022004
 AlsDorf http://www.openstreetmap.org/?lat=53.606407&lon=10.011699
 LatKamp http://www.openstreetmap.org/?lat=53.599881&lon=9.994651
 HudtWalStr http://www.openstreetmap.org/?lat=53.594539&lon=9.996078
-DIV_EppN http://www.openstreetmap.org/?lat=53.589951&lon=9.993052
++DIV_EppN http://www.openstreetmap.org/?lat=53.589951&lon=9.993052
 KelHusStr http://www.openstreetmap.org/?lat=53.588690&lon=9.990649
-DIV_EppS http://www.openstreetmap.org/?lat=53.586355&lon=9.988021
++DIV_EppS http://www.openstreetmap.org/?lat=53.586355&lon=9.988021
 KloSte http://www.openstreetmap.org/?lat=53.581621&lon=9.988225
 HalStr http://www.openstreetmap.org/?lat=53.572820&lon=9.989029
 +X41 http://www.openstreetmap.org/?lat=53.560638&lon=9.988447
@@ -22,8 +22,8 @@ JunSti http://www.openstreetmap.org/?lat=53.552885&lon=9.994050
 MesBerg http://www.openstreetmap.org/?lat=53.547629&lon=10.000885
 SteStr http://www.openstreetmap.org/?lat=53.549248&lon=10.006249
 HbfSud http://www.openstreetmap.org/?lat=53.552157&lon=10.009333
-DIV_GeoW http://www.openstreetmap.org/?lat=53.552455&lon=10.013448
-DIV_GeoE http://www.openstreetmap.org/?lat=53.552539&lon=10.015331
++DIV_GeoW http://www.openstreetmap.org/?lat=53.552455&lon=10.013448
++DIV_GeoE http://www.openstreetmap.org/?lat=53.552539&lon=10.015331
 LohMuhStr http://www.openstreetmap.org/?lat=53.556530&lon=10.018909
 LubStr http://www.openstreetmap.org/?lat=53.559972&lon=10.028780
 War http://www.openstreetmap.org/?lat=53.564636&lon=10.035388
@@ -32,7 +32,7 @@ WanBekCha http://www.openstreetmap.org/?lat=53.570243&lon=10.059700
 WanBekMar http://www.openstreetmap.org/?lat=53.571645&lon=10.066738
 StrBurStr http://www.openstreetmap.org/?lat=53.582003&lon=10.067918
 AltTeiWeg http://www.openstreetmap.org/?lat=53.586194&lon=10.064979
-DIV_Wan http://www.openstreetmap.org/?lat=53.591795&lon=10.070601
++DIV_Wan http://www.openstreetmap.org/?lat=53.591795&lon=10.070601
 WanBekGarSta http://www.openstreetmap.org/?lat=53.592291&lon=10.074323
 TrabRennBahn http://www.openstreetmap.org/?lat=53.598433&lon=10.102894
 Far http://www.openstreetmap.org/?lat=53.607244&lon=10.117829
@@ -40,6 +40,6 @@ OldFel http://www.openstreetmap.org/?lat=53.617669&lon=10.128987
 Ber http://www.openstreetmap.org/?lat=53.627112&lon=10.139973
 MeiDorWeg http://www.openstreetmap.org/?lat=53.638627&lon=10.155938
 VolDorf http://www.openstreetmap.org/?lat=53.650635&lon=10.163190
-DIV_Vol http://www.openstreetmap.org/?lat=53.652797&lon=10.164006
++DIV_Vol http://www.openstreetmap.org/?lat=53.652797&lon=10.164006
 BucKamp http://www.openstreetmap.org/?lat=53.652949&lon=10.185077
 HH/SH http://www.openstreetmap.org/?lat=53.655022&lon=10.194261

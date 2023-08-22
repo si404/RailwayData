@@ -7,12 +7,12 @@ MarienEhe http://www.openstreetmap.org/?lat=54.111767&lon=12.080047
 Bramow http://www.openstreetmap.org/?lat=54.101753&lon=12.090476
 RostoHolPla http://www.openstreetmap.org/?lat=54.092756&lon=12.100056
 RostoParkStr http://www.openstreetmap.org/?lat=54.084349&lon=12.109015
-DIV_RostoW http://www.openstreetmap.org/?lat=54.081252&lon=12.120645
++DIV_RostoW http://www.openstreetmap.org/?lat=54.081252&lon=12.120645
 RostoHbf http://www.openstreetmap.org/?lat=54.078397&lon=12.130883
-DIV_RostoSte http://www.openstreetmap.org/?lat=54.074209&lon=12.137318
-DIV_RostoDal http://www.openstreetmap.org/?lat=54.062474&lon=12.146115
++DIV_RostoSte http://www.openstreetmap.org/?lat=54.074209&lon=12.137318
++DIV_RostoDal http://www.openstreetmap.org/?lat=54.062474&lon=12.146115
 +X40 http://www.openstreetmap.org/?lat=54.029112&lon=12.166457
-DIV_KavelsTorf http://www.openstreetmap.org/?lat=54.013638&lon=12.190061
++DIV_KavelsTorf http://www.openstreetmap.org/?lat=54.013638&lon=12.190061
 KavelsTorf http://www.openstreetmap.org/?lat=54.007353&lon=12.197528
 ScharsTorf http://www.openstreetmap.org/?lat=53.970047&lon=12.245808
 +X69 http://www.openstreetmap.org/?lat=53.941715&lon=12.287178
@@ -21,7 +21,7 @@ Laage http://www.openstreetmap.org/?lat=53.919429&lon=12.339621
 SubzinLiess http://www.openstreetmap.org/?lat=53.891935&lon=12.347646
 +X52 http://www.openstreetmap.org/?lat=53.861209&lon=12.353354
 Plaaz http://www.openstreetmap.org/?lat=53.840209&lon=12.337732
-DIV_Plaaz http://www.openstreetmap.org/?lat=53.835727&lon=12.334256
++DIV_Plaaz http://www.openstreetmap.org/?lat=53.835727&lon=12.334256
 +X75 http://www.openstreetmap.org/?lat=53.794713&lon=12.239617
 PriemerBurg http://www.openstreetmap.org/?lat=53.795867&lon=12.222934
 Gustr http://www.openstreetmap.org/?lat=53.800828&lon=12.172680
