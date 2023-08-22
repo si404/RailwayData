@@ -5,7 +5,6 @@ ParGareEst +GareEst http://www.openstreetmap.org/?lat=48.877075&lon=2.359453
 +SKIP_NoiSec http://www.openstreetmap.org/?lat=48.896592&lon=2.459779
 +DIV_EE http://www.openstreetmap.org/?lat=48.895294&lon=2.467976
 +SKIP_Bon http://www.openstreetmap.org/?lat=48.894081&lon=2.479262
-+X743764 http://www.openstreetmap.org/?lat=48.892332&lon=2.491622
 +SKIP_RaiVilMon http://www.openstreetmap.org/?lat=48.888946&lon=2.512822
 +SKIP_Gag http://www.openstreetmap.org/?lat=48.883810&lon=2.525268
 +SKIP_CheGag http://www.openstreetmap.org/?lat=48.877064&lon=2.553205

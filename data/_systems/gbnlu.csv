@@ -1,7 +1,7 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
 gbnlu;ENG;BakLn;;;Bakerloo Line;eng.bakln;
 gbnlu;ENG;CenLn;;;Central Line (West Ruislip - Epping);eng.cenln;
-gbnlu;ENG;CenLn;;Eal;Central Line (Ealing - Hainault - Woodford);eng.cenlneal;CenLnHai
+gbnlu;ENG;CenLn;;Eal;Central Line (Ealing - Hainault - Woodford);eng.cenlneal;
 gbnlu;ENG;CirLn;;;Circle Line;eng.cirln;
 gbnlu;ENG;DisLn;;;District Line (Richmond - Upminster);eng.disln;
 gbnlu;ENG;DisLn;;Eal;District Line (Ealing - Upminster);eng.dislneal;
