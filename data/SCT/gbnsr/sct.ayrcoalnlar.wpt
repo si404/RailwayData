@@ -1,10 +1,10 @@
 GlaCen http://www.openstreetmap.org/?lat=55.858515&lon=-4.258533
-DIV_WC http://www.openstreetmap.org/?lat=55.851860&lon=-4.260013
-SKIP_WestSt http://www.openstreetmap.org/?lat=55.849439&lon=-4.265678
-DIV_PC http://www.openstreetmap.org/?lat=55.847584&lon=-4.287350
-SKIP_Car http://www.openstreetmap.org/?lat=55.852734&lon=-4.340200
-SKIP_HilEast http://www.openstreetmap.org/?lat=55.854227&lon=-4.354877
-SKIP_HilWest http://www.openstreetmap.org/?lat=55.855913&lon=-4.371700
++DIV_WC http://www.openstreetmap.org/?lat=55.851860&lon=-4.260013
++SKIP_WestSt http://www.openstreetmap.org/?lat=55.849439&lon=-4.265678
++DIV_PC http://www.openstreetmap.org/?lat=55.847584&lon=-4.287350
++SKIP_Car http://www.openstreetmap.org/?lat=55.852734&lon=-4.340200
++SKIP_HilEast http://www.openstreetmap.org/?lat=55.854227&lon=-4.354877
++SKIP_HilWest http://www.openstreetmap.org/?lat=55.855913&lon=-4.371700
 PaiGilSt http://www.openstreetmap.org/?lat=55.847410&lon=-4.424486
 Joh http://www.openstreetmap.org/?lat=55.834253&lon=-4.503107
 MilPark http://www.openstreetmap.org/?lat=55.825045&lon=-4.533663
@@ -18,7 +18,7 @@ Kil http://www.openstreetmap.org/?lat=55.656478&lon=-4.709573
 Ste http://www.openstreetmap.org/?lat=55.634307&lon=-4.750171
 Sal http://www.openstreetmap.org/?lat=55.633895&lon=-4.784589
 ArdSouBea http://www.openstreetmap.org/?lat=55.641156&lon=-4.800510
-DIV_Ard http://www.openstreetmap.org/?lat=55.641870&lon=-4.802442
++DIV_Ard http://www.openstreetmap.org/?lat=55.641870&lon=-4.802442
 +X270253 http://www.openstreetmap.org/?lat=55.674076&lon=-4.845657
 WestKil http://www.openstreetmap.org/?lat=55.696242&lon=-4.851451
 +X168472 http://www.openstreetmap.org/?lat=55.727763&lon=-4.863939

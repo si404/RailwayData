@@ -1,19 +1,19 @@
 NewInt +NEW http://www.openstreetmap.org/?lat=-32.924186&lon=151.759386
 Ham http://www.openstreetmap.org/?lat=-32.918629&lon=151.748743
-DIV_Syd http://www.openstreetmap.org/?lat=-32.915594&lon=151.744516
++DIV_Syd http://www.openstreetmap.org/?lat=-32.915594&lon=151.744516
 Wart +WTH http://www.openstreetmap.org/?lat=-32.902353&lon=151.731212
 Warb +WBK http://www.openstreetmap.org/?lat=-32.887115&lon=151.709819
-SKIP_San +SDG http://www.openstreetmap.org/?lat=-32.872226&lon=151.702738
-SKIP_Hex +HXM http://www.openstreetmap.org/?lat=-32.829161&lon=151.684263
-SKIP_Tar +TRJ http://www.openstreetmap.org/?lat=-32.809216&lon=151.669714
++SKIP_San +SDG http://www.openstreetmap.org/?lat=-32.872226&lon=151.702738
++SKIP_Hex +HXM http://www.openstreetmap.org/?lat=-32.829161&lon=151.684263
++SKIP_Tar +TRJ http://www.openstreetmap.org/?lat=-32.809216&lon=151.669714
 Ber +BSF http://www.openstreetmap.org/?lat=-32.798990&lon=151.657870
 Tho http://www.openstreetmap.org/?lat=-32.783603&lon=151.639760
 Met http://www.openstreetmap.org/?lat=-32.764993&lon=151.617937
-SKIP_VicSt +VST http://www.openstreetmap.org/?lat=-32.751026&lon=151.593776
-SKIP_EastMai +EAM http://www.openstreetmap.org/?lat=-32.744782&lon=151.587253
-SKIP_HighSt +HGH http://www.openstreetmap.org/?lat=-32.741497&lon=151.563778
++SKIP_VicSt +VST http://www.openstreetmap.org/?lat=-32.751026&lon=151.593776
++SKIP_EastMai +EAM http://www.openstreetmap.org/?lat=-32.744782&lon=151.587253
++SKIP_HighSt +HGH http://www.openstreetmap.org/?lat=-32.741497&lon=151.563778
 Mai +MTL http://www.openstreetmap.org/?lat=-32.737996&lon=151.552062
-DIV_Dun http://www.openstreetmap.org/?lat=-32.734747&lon=151.543007
++DIV_Dun http://www.openstreetmap.org/?lat=-32.734747&lon=151.543007
 +X682758 http://www.openstreetmap.org/?lat=-32.717932&lon=151.479599
 Loc +LVR http://www.openstreetmap.org/?lat=-32.720514&lon=151.450202
 +X983008 http://www.openstreetmap.org/?lat=-32.721579&lon=151.416235

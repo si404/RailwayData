@@ -5,7 +5,7 @@ OriStre http://www.openstreetmap.org/?lat=50.972772&lon=10.966115
 VolRodWeg http://www.openstreetmap.org/?lat=50.972204&lon=10.971737
 Kre http://www.openstreetmap.org/?lat=50.971407&lon=10.982702
 HauFriHof http://www.openstreetmap.org/?lat=50.972596&lon=10.992851
-SKIP_BerSch http://www.openstreetmap.org/?lat=50.973136&lon=10.995040
++SKIP_BerSch http://www.openstreetmap.org/?lat=50.973136&lon=10.995040
 NibWeg http://www.openstreetmap.org/?lat=50.973839&lon=11.000855
 GamWeg http://www.openstreetmap.org/?lat=50.974839&lon=11.004374
 BunArbGer http://www.openstreetmap.org/?lat=50.976406&lon=11.010318
@@ -16,9 +16,9 @@ Gorkistrasse http://www.openstreetmap.org/?lat=50.972069&lon=11.018085
 BruGar http://www.openstreetmap.org/?lat=50.972981&lon=11.021395
 KarlMarxPla http://www.openstreetmap.org/?lat=50.972224&lon=11.025885
 HirGar http://www.openstreetmap.org/?lat=50.973576&lon=11.029721
-DIV_W http://www.openstreetmap.org/?lat=50.974454&lon=11.031384
++DIV_W http://www.openstreetmap.org/?lat=50.974454&lon=11.031384
 Ang http://www.openstreetmap.org/?lat=50.976122&lon=11.034318
-DIV_Ang http://www.openstreetmap.org/?lat=50.977784&lon=11.035638
++DIV_Ang http://www.openstreetmap.org/?lat=50.977784&lon=11.035638
 KraTor http://www.openstreetmap.org/?lat=50.979017&lon=11.037912
 LeiPla http://www.openstreetmap.org/?lat=50.981104&lon=11.040895
 HanPlaFH http://www.openstreetmap.org/?lat=50.984360&lon=11.045423

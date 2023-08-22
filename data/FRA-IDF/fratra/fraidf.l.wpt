@@ -1,13 +1,13 @@
 ParStLaz +SaintLazare http://www.openstreetmap.org/?lat=48.876532&lon=2.325261
-SKIP_PontCar +PontCardinet http://www.openstreetmap.org/?lat=48.888014&lon=2.314038
-SKIP_CliLev +ClichyLevallois http://www.openstreetmap.org/?lat=48.897184&lon=2.298331
++SKIP_PontCar +PontCardinet http://www.openstreetmap.org/?lat=48.888014&lon=2.314038
++SKIP_CliLev +ClichyLevallois http://www.openstreetmap.org/?lat=48.897184&lon=2.298331
 AsnSei +AsnieresSeine http://www.openstreetmap.org/?lat=48.905986&lon=2.283268
-SKIP_BecBru +BeconBruyeres http://www.openstreetmap.org/?lat=48.905507&lon=2.268634
-SKIP_Cou +Courbevoie http://www.openstreetmap.org/?lat=48.898285&lon=2.248464
++SKIP_BecBru +BeconBruyeres http://www.openstreetmap.org/?lat=48.905507&lon=2.268634
++SKIP_Cou +Courbevoie http://www.openstreetmap.org/?lat=48.898285&lon=2.248464
 LaDef +LaDefense http://www.openstreetmap.org/?lat=48.891656&lon=2.238727
-SKIP_Put +Puteaux http://www.openstreetmap.org/?lat=48.883330&lon=2.233744
++SKIP_Put +Puteaux http://www.openstreetmap.org/?lat=48.883330&lon=2.233744
 SurMontVal +SuresnesMontValerien http://www.openstreetmap.org/?lat=48.871589&lon=2.221041
-SKIP_ValOr http://www.openstreetmap.org/?lat=48.856711&lon=2.216535
++SKIP_ValOr http://www.openstreetmap.org/?lat=48.856711&lon=2.216535
 StClo +SaintCloud http://www.openstreetmap.org/?lat=48.846121&lon=2.217693
 +DIV_Mar http://www.openstreetmap.org/?lat=48.838544&lon=2.205184
 SevVilAvr +SevresVilleAvray http://www.openstreetmap.org/?lat=48.827414&lon=2.200742
