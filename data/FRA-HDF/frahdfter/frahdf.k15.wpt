@@ -3,10 +3,10 @@ IDF/HDF http://www.openstreetmap.org/?lat=49.075061&lon=2.729330
 +SKIP_NanHan http://www.openstreetmap.org/?lat=49.142724&lon=2.794390
 +SKIP_OrmVil http://www.openstreetmap.org/?lat=49.200509&lon=2.837777
 +X243947 http://www.openstreetmap.org/?lat=49.204827&lon=2.843571
-CreVal CrepyValois http://www.openstreetmap.org/?lat=49.231177&lon=2.886486
+CreVal http://www.openstreetmap.org/?lat=49.231177&lon=2.886486
 +SKIP_Vaum http://www.openstreetmap.org/?lat=49.233848&lon=2.988555
 +X649686 http://www.openstreetmap.org/?lat=49.223175&lon=3.052912
-VilCot VillersCotterets http://www.openstreetmap.org/?lat=49.250110&lon=3.093874
+VilCot http://www.openstreetmap.org/?lat=49.250110&lon=3.093874
 +X505828 http://www.openstreetmap.org/?lat=49.262393&lon=3.111277
 +X411602 http://www.openstreetmap.org/?lat=49.254599&lon=3.169084
 +SKIP_Cor http://www.openstreetmap.org/?lat=49.255075&lon=3.215690
@@ -21,7 +21,7 @@ Soi http://www.openstreetmap.org/?lat=49.368947&lon=3.338385
 +X668748 http://www.openstreetmap.org/?lat=49.455196&lon=3.412971
 +SKIP_Vaux http://www.openstreetmap.org/?lat=49.474106&lon=3.409796
 +X836581 http://www.openstreetmap.org/?lat=49.485928&lon=3.420868
-AnizyPinon http://www.openstreetmap.org/?lat=49.496040&lon=3.448827
+AniPin AnizyPinon http://www.openstreetmap.org/?lat=49.496040&lon=3.448827
 +X534326 http://www.openstreetmap.org/?lat=49.504492&lon=3.480434
 +X447833 http://www.openstreetmap.org/?lat=49.501524&lon=3.528585
 +X671296 http://www.openstreetmap.org/?lat=49.519818&lon=3.559270

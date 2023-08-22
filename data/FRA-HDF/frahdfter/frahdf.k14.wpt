@@ -1,4 +1,4 @@
-StQue SaintQuentin http://www.openstreetmap.org/?lat=49.839688&lon=3.297207
+StQue http://www.openstreetmap.org/?lat=49.839688&lon=3.297207
 +X578813 http://www.openstreetmap.org/?lat=49.837709&lon=3.293109
 +X420687 http://www.openstreetmap.org/?lat=49.825235&lon=3.274398
 +SKIP_Mon http://www.openstreetmap.org/?lat=49.737995&lon=3.251889
@@ -7,12 +7,12 @@ StQue SaintQuentin http://www.openstreetmap.org/?lat=49.839688&lon=3.297207
 +DIV_P20W http://www.openstreetmap.org/?lat=49.694944&lon=3.266244
 +SKIP_Men http://www.openstreetmap.org/?lat=49.691273&lon=3.271480
 +X730241 http://www.openstreetmap.org/?lat=49.676529&lon=3.290534
-Ter Tergnier http://www.openstreetmap.org/?lat=49.659155&lon=3.296499
+Ter http://www.openstreetmap.org/?lat=49.659155&lon=3.296499
 +DIV_P20E http://www.openstreetmap.org/?lat=49.655801&lon=3.296113
 +SKIP_ViryNou http://www.openstreetmap.org/?lat=49.627489&lon=3.250451
-Cha Chauny http://www.openstreetmap.org/?lat=49.610946&lon=3.223801
+Cha http://www.openstreetmap.org/?lat=49.610946&lon=3.223801
 +SKIP_App http://www.openstreetmap.org/?lat=49.580487&lon=3.120890
-Noy Noyon http://www.openstreetmap.org/?lat=49.577002&lon=3.006520
+Noy http://www.openstreetmap.org/?lat=49.577002&lon=3.006520
 +SKIP_ChiOur http://www.openstreetmap.org/?lat=49.533878&lon=2.953842
 +X121485 http://www.openstreetmap.org/?lat=49.512072&lon=2.943134
 +SKIP_Ribt http://www.openstreetmap.org/?lat=49.506137&lon=2.927299
@@ -20,7 +20,7 @@ Noy Noyon http://www.openstreetmap.org/?lat=49.577002&lon=3.006520
 +SKIP_Tho http://www.openstreetmap.org/?lat=49.475556&lon=2.881894
 +SKIP_LonAnn http://www.openstreetmap.org/?lat=49.466995&lon=2.862926
 +X182253 http://www.openstreetmap.org/?lat=49.443980&lon=2.863698
-Com +Compiegne http://www.openstreetmap.org/?lat=49.422245&lon=2.823443
+Com http://www.openstreetmap.org/?lat=49.422245&lon=2.823443
 +X432428 http://www.openstreetmap.org/?lat=49.420466&lon=2.819452
 +X663526 http://www.openstreetmap.org/?lat=49.412020&lon=2.798595
 +SKIP_Jaux http://www.openstreetmap.org/?lat=49.386773&lon=2.777352
@@ -29,11 +29,11 @@ Com +Compiegne http://www.openstreetmap.org/?lat=49.422245&lon=2.823443
 +SKIP_LonStMar http://www.openstreetmap.org/?lat=49.342643&lon=2.717786
 +SKIP_Che http://www.openstreetmap.org/?lat=49.337358&lon=2.682724
 +X166450 http://www.openstreetmap.org/?lat=49.329863&lon=2.636290
-PontStMax PontSainteMaxence http://www.openstreetmap.org/?lat=49.309890&lon=2.602859
+PontStMax http://www.openstreetmap.org/?lat=49.309890&lon=2.602859
 +SKIP_RieAng http://www.openstreetmap.org/?lat=49.298389&lon=2.521105
 +SKIP_VilStPaul http://www.openstreetmap.org/?lat=49.282630&lon=2.489905
 +DIV_K10 http://www.openstreetmap.org/?lat=49.269842&lon=2.473297
-Cre +Creil http://www.openstreetmap.org/?lat=49.264353&lon=2.469177
+Cre http://www.openstreetmap.org/?lat=49.264353&lon=2.469177
 +DIV_P32 http://www.openstreetmap.org/?lat=49.259634&lon=2.463963
 +DIV_H http://www.openstreetmap.org/?lat=49.241180&lon=2.445402
 +SKIP_ChaGou http://www.openstreetmap.org/?lat=49.187215&lon=2.459521

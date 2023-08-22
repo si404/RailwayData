@@ -1,16 +1,16 @@
-GarePartDieuVil +GarePartDieuVillette http://www.openstreetmap.org/?lat=45.760570&lon=4.861922
+GarePartDieuVil http://www.openstreetmap.org/?lat=45.760570&lon=4.861922
 +DIV_T4 http://www.openstreetmap.org/?lat=45.755555&lon=4.861815
 +SKIP_DauLac http://www.openstreetmap.org/?lat=45.752934&lon=4.868789
 +SKIP_RecBal http://www.openstreetmap.org/?lat=45.754492&lon=4.885075
 +SKIP_GareVil http://www.openstreetmap.org/?lat=45.755944&lon=4.892499
 +SKIP_BelAirBro http://www.openstreetmap.org/?lat=45.758414&lon=4.910460
-VauVelSoie +VaulxVelinSoie http://www.openstreetmap.org/?lat=45.761109&lon=4.922004
+VauVelSoie http://www.openstreetmap.org/?lat=45.761109&lon=4.922004
 +SKIP_DecCen http://www.openstreetmap.org/?lat=45.771871&lon=4.955864
 +SKIP_DecGraLar http://www.openstreetmap.org/?lat=45.774670&lon=4.976034
 +DIV_T7 http://www.openstreetmap.org/?lat=45.773817&lon=4.981098
 +SKIP_MeyzieuGare http://www.openstreetmap.org/?lat=45.771587&lon=4.998972
-MeyZoneInd +MeyzieuZoneIndustrielle http://www.openstreetmap.org/?lat=45.767755&lon=5.031695
+MeyZoneInd http://www.openstreetmap.org/?lat=45.767755&lon=5.031695
 +DIV_T3 http://www.openstreetmap.org/?lat=45.767545&lon=5.032640
 +X804445 http://www.openstreetmap.org/?lat=45.765779&lon=5.041587
 +X772832 http://www.openstreetmap.org/?lat=45.733999&lon=5.077186
-AerLyonStExu +AeroportLyonSaintExupery http://www.openstreetmap.org/?lat=45.720975&lon=5.075791
+AerLyonStExu http://www.openstreetmap.org/?lat=45.720975&lon=5.075791

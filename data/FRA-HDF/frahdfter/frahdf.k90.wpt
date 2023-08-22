@@ -1,4 +1,4 @@
-Dun +Dunkerque http://www.openstreetmap.org/?lat=51.030424&lon=2.368498
+Dun http://www.openstreetmap.org/?lat=51.030424&lon=2.368498
 +SKIP_CouBra http://www.openstreetmap.org/?lat=51.017501&lon=2.375085
 +DIV_P72 http://www.openstreetmap.org/?lat=51.016475&lon=2.375643
 +X730665 http://www.openstreetmap.org/?lat=51.004864&lon=2.381222
@@ -15,7 +15,7 @@ Dun +Dunkerque http://www.openstreetmap.org/?lat=51.030424&lon=2.368498
 +X759584 http://www.openstreetmap.org/?lat=50.644345&lon=2.907171
 +X164063 http://www.openstreetmap.org/?lat=50.663744&lon=3.006048
 +X235762 http://www.openstreetmap.org/?lat=50.650318&lon=3.060637
-LilEur +LilleEurope http://www.openstreetmap.org/?lat=50.638969&lon=3.075786
+LilEur http://www.openstreetmap.org/?lat=50.638969&lon=3.075786
 +DIV_K12 http://www.openstreetmap.org/?lat=50.630361&lon=3.083360
 +DIV_C40 http://www.openstreetmap.org/?lat=50.623011&lon=3.089690
 +DIV_P81 http://www.openstreetmap.org/?lat=50.621040&lon=3.092233
@@ -36,7 +36,7 @@ LilEur +LilleEurope http://www.openstreetmap.org/?lat=50.638969&lon=3.075786
 +DIV_P44 http://www.openstreetmap.org/?lat=50.300018&lon=2.882323
 +X976754 http://www.openstreetmap.org/?lat=50.290888&lon=2.852454
 +DIV_P54 http://www.openstreetmap.org/?lat=50.293493&lon=2.811770
-Arr +Arras http://www.openstreetmap.org/?lat=50.286625&lon=2.781687
+Arr http://www.openstreetmap.org/?lat=50.286625&lon=2.781687
 +DIV_P53 http://www.openstreetmap.org/?lat=50.279735&lon=2.768576
 +DIV_Nord http://www.openstreetmap.org/?lat=50.240536&lon=2.766323
 +SKIP_Boi http://www.openstreetmap.org/?lat=50.210609&lon=2.771473
@@ -56,4 +56,4 @@ Arr +Arras http://www.openstreetmap.org/?lat=50.286625&lon=2.781687
 +DIV_K20 http://www.openstreetmap.org/?lat=49.882406&lon=2.375236
 +DIV_K12 http://www.openstreetmap.org/?lat=49.880498&lon=2.361159
 +DIV_K10 http://www.openstreetmap.org/?lat=49.880758&lon=2.337470
-Ami +Amiens http://www.openstreetmap.org/?lat=49.890097&lon=2.309114
+Ami http://www.openstreetmap.org/?lat=49.890097&lon=2.309114

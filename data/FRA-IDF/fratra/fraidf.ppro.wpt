@@ -1,4 +1,4 @@
-ParGareEst +GareEst http://www.openstreetmap.org/?lat=48.877075&lon=2.359453
+ParGareEst http://www.openstreetmap.org/?lat=48.877075&lon=2.359453
 +DIV_EW http://www.openstreetmap.org/?lat=48.889242&lon=2.366030
 +SKIP_RosaPar http://www.openstreetmap.org/?lat=48.896423&lon=2.374077
 +SKIP_Pan http://www.openstreetmap.org/?lat=48.898003&lon=2.400427
@@ -21,15 +21,15 @@ ParGareEst +GareEst http://www.openstreetmap.org/?lat=48.877075&lon=2.359453
 +DIV_Cou http://www.openstreetmap.org/?lat=48.744262&lon=2.730060
 +X746397 http://www.openstreetmap.org/?lat=48.701583&lon=2.739286
 +X332569 http://www.openstreetmap.org/?lat=48.666265&lon=2.781172
-VerEta +VerneuilEtang http://www.openstreetmap.org/?lat=48.644493&lon=2.824988
-Mor +Mormant http://www.openstreetmap.org/?lat=48.613647&lon=2.889147
+VerEta http://www.openstreetmap.org/?lat=48.644493&lon=2.824988
+Mor http://www.openstreetmap.org/?lat=48.613647&lon=2.889147
 +X981232 http://www.openstreetmap.org/?lat=48.588219&lon=2.973948
-Nan +Nangis http://www.openstreetmap.org/?lat=48.561357&lon=3.012829
+Nan http://www.openstreetmap.org/?lat=48.561357&lon=3.012829
 +X460324 http://www.openstreetmap.org/?lat=48.534198&lon=3.157024
 +X233710 http://www.openstreetmap.org/?lat=48.536528&lon=3.193932
 +DIV_Pro http://www.openstreetmap.org/?lat=48.515005&lon=3.248563
-Lon +Longueville http://www.openstreetmap.org/?lat=48.513584&lon=3.250279
+Lon http://www.openstreetmap.org/?lat=48.513584&lon=3.250279
 +DIV_Par http://www.openstreetmap.org/?lat=48.515005&lon=3.248563
-StCol +SainteColombeSeptveilles http://www.openstreetmap.org/?lat=48.529377&lon=3.255719
-ChaPoi +ChampbenoistPoigny http://www.openstreetmap.org/?lat=48.545507&lon=3.287058
-Pro +Provins http://www.openstreetmap.org/?lat=48.555449&lon=3.302507
+StCol http://www.openstreetmap.org/?lat=48.529377&lon=3.255719
+ChaPoi http://www.openstreetmap.org/?lat=48.545507&lon=3.287058
+Pro http://www.openstreetmap.org/?lat=48.555449&lon=3.302507
