@@ -6,7 +6,9 @@ Tem http://www.openstreetmap.org/?lat=39.981518&lon=-75.149467
 NBro http://www.openstreetmap.org/?lat=39.992225&lon=-75.153919
 +DIV_Nor http://www.openstreetmap.org/?lat=39.998682&lon=-75.158308
 WayJct http://www.openstreetmap.org/?lat=40.022736&lon=-75.159820
+*Log http://www.openstreetmap.org/?lat=40.030184&lon=-75.146632
 +DIV_FC http://www.openstreetmap.org/?lat=40.032884&lon=-75.141506
+*Tab http://www.openstreetmap.org/?lat=40.036404&lon=-75.136485
 FernRock http://www.openstreetmap.org/?lat=40.041226&lon=-75.134768
 MelPk http://www.openstreetmap.org/?lat=40.059425&lon=-75.129189
 ElkPk http://www.openstreetmap.org/?lat=40.071200&lon=-75.127687
@@ -16,6 +18,7 @@ Gle http://www.openstreetmap.org/?lat=40.101325&lon=-75.153651
 +DIV_War http://www.openstreetmap.org/?lat=40.103196&lon=-75.158072
 NorHil http://www.openstreetmap.org/?lat=40.112156&lon=-75.169766
 Ore http://www.openstreetmap.org/?lat=40.118212&lon=-75.183842
+*Fel http://www.openstreetmap.org/?lat=40.124229&lon=-75.198466
 FortWas http://www.openstreetmap.org/?lat=40.135435&lon=-75.211823
 Amb http://www.openstreetmap.org/?lat=40.152809&lon=-75.224333
 Penl http://www.openstreetmap.org/?lat=40.169798&lon=-75.243988
