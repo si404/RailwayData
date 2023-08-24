@@ -16,7 +16,10 @@ KatTurm http://www.openstreetmap.org/?lat=52.134696&lon=11.638180
 AltMar http://www.openstreetmap.org/?lat=52.131898&lon=11.636860
 +DIV_AltMar http://www.openstreetmap.org/?lat=52.131022&lon=11.636335
 CityCar http://www.openstreetmap.org/?lat=52.131265&lon=11.632944
-Hbf http://www.openstreetmap.org/?lat=52.130775&lon=11.628739
++DIV_OGS http://www.openstreetmap.org/?lat=52.131264&lon=11.631888
++DIV_HbfN http://www.openstreetmap.org/?lat=52.131634&lon=11.629012
+HbfOst http://www.openstreetmap.org/?lat=52.130775&lon=11.628739
++DIV_LeiStr http://www.openstreetmap.org/?lat=52.128695&lon=11.630573
 VerBet http://www.openstreetmap.org/?lat=52.127857&lon=11.630251
 HaeStrMus http://www.openstreetmap.org/?lat=52.124550&lon=11.628621
 HasBachPla http://www.openstreetmap.org/?lat=52.120568&lon=11.627601

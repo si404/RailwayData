@@ -2,8 +2,7 @@ BosNor http://www.openstreetmap.org/?lat=42.366513&lon=-71.062564
 +DIV_Fit http://www.openstreetmap.org/?lat=42.371537&lon=-71.069033
 +DIV_Low http://www.openstreetmap.org/?lat=42.376375&lon=-71.075031
 +X518116 http://www.openstreetmap.org/?lat=42.378674&lon=-71.076726
-+SKIP_SulSq http://www.openstreetmap.org/?lat=42.384045&lon=-71.076903
-+DIV_Hav http://www.openstreetmap.org/?lat=42.388132&lon=-71.076908
++DIV_Hav http://www.openstreetmap.org/?lat=42.388033&lon=-71.076801
 +X712761 http://www.openstreetmap.org/?lat=42.401693&lon=-71.060439
 Che http://www.openstreetmap.org/?lat=42.397316&lon=-71.042533
 +X654199 http://www.openstreetmap.org/?lat=42.394733&lon=-71.027641
@@ -11,6 +10,7 @@ Che http://www.openstreetmap.org/?lat=42.397316&lon=-71.042533
 RivWor http://www.openstreetmap.org/?lat=42.449909&lon=-70.969716
 Lynn http://www.openstreetmap.org/?lat=42.462695&lon=-70.945920
 Swa http://www.openstreetmap.org/?lat=42.473688&lon=-70.922563
++X415317 http://www.openstreetmap.org/?lat=42.509248&lon=-70.897222
 Sal http://www.openstreetmap.org/?lat=42.524333&lon=-70.895977
 BevDep http://www.openstreetmap.org/?lat=42.547239&lon=-70.885463
 +DIV_Roc http://www.openstreetmap.org/?lat=42.552740&lon=-70.885119

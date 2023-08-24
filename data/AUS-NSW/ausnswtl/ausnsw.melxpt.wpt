@@ -55,7 +55,7 @@ Cam http://www.openstreetmap.org/?lat=-34.063592&lon=150.814304
 +X664098 http://www.openstreetmap.org/?lat=-34.396181&lon=150.535054
 +SKIP_Mit http://www.openstreetmap.org/?lat=-34.452590&lon=150.447936
 +X323840 http://www.openstreetmap.org/?lat=-34.458960&lon=150.421414
-+SKIP_Bow +BWL http://www.openstreetmap.org/?lat=-34.478030&lon=150.416694
++SKIP_Bow http://www.openstreetmap.org/?lat=-34.478030&lon=150.416694
 +SKIP_Bur http://www.openstreetmap.org/?lat=-34.494266&lon=150.398068
 +X455315 http://www.openstreetmap.org/?lat=-34.504099&lon=150.383391
 MossVale http://www.openstreetmap.org/?lat=-34.547658&lon=150.371847
@@ -76,7 +76,7 @@ MossVale http://www.openstreetmap.org/?lat=-34.547658&lon=150.371847
 +X965390 http://www.openstreetmap.org/?lat=-34.685487&lon=149.860296
 +X684312 http://www.openstreetmap.org/?lat=-34.722673&lon=149.828539
 +X305865 http://www.openstreetmap.org/?lat=-34.723114&lon=149.764466
-Gou +GUL http://www.openstreetmap.org/?lat=-34.758132&lon=149.719534
+Gou http://www.openstreetmap.org/?lat=-34.758132&lon=149.719534
 +X272070 http://www.openstreetmap.org/?lat=-34.781047&lon=149.700909
 +DIV_Can http://www.openstreetmap.org/?lat=-34.789850&lon=149.677885
 +X817205 http://www.openstreetmap.org/?lat=-34.783109&lon=149.589243
@@ -87,7 +87,7 @@ Gou +GUL http://www.openstreetmap.org/?lat=-34.758132&lon=149.719534
 +X142030 http://www.openstreetmap.org/?lat=-34.794880&lon=149.380331
 +X860013 http://www.openstreetmap.org/?lat=-34.764743&lon=149.358015
 +X980145 http://www.openstreetmap.org/?lat=-34.750234&lon=149.274545
-Gun +GNI http://www.openstreetmap.org/?lat=-34.779496&lon=149.261713
+Gun http://www.openstreetmap.org/?lat=-34.779496&lon=149.261713
 +X900060 http://www.openstreetmap.org/?lat=-34.784942&lon=149.216223
 +X218467 http://www.openstreetmap.org/?lat=-34.777610&lon=149.143009
 +X774057 http://www.openstreetmap.org/?lat=-34.787409&lon=149.137774
@@ -95,7 +95,7 @@ Gun +GNI http://www.openstreetmap.org/?lat=-34.779496&lon=149.261713
 +X377604 http://www.openstreetmap.org/?lat=-34.771688&lon=149.018211
 +X225174 http://www.openstreetmap.org/?lat=-34.793964&lon=149.000616
 +X147636 http://www.openstreetmap.org/?lat=-34.783285&lon=148.949890
-YassJct +YAS http://www.openstreetmap.org/?lat=-34.809082&lon=148.915215
+YassJct http://www.openstreetmap.org/?lat=-34.809082&lon=148.915215
 +X553176 http://www.openstreetmap.org/?lat=-34.810174&lon=148.888693
 +X742161 http://www.openstreetmap.org/?lat=-34.772710&lon=148.854704
 +X934495 http://www.openstreetmap.org/?lat=-34.764214&lon=148.810072
@@ -107,7 +107,7 @@ YassJct +YAS http://www.openstreetmap.org/?lat=-34.809082&lon=148.915215
 +X700316 http://www.openstreetmap.org/?lat=-34.571726&lon=148.491597
 +X588122 http://www.openstreetmap.org/?lat=-34.571550&lon=148.460827
 +X608967 http://www.openstreetmap.org/?lat=-34.556212&lon=148.434005
-Har +HRD http://www.openstreetmap.org/?lat=-34.553667&lon=148.371692
+Har http://www.openstreetmap.org/?lat=-34.553667&lon=148.371692
 +X488834 http://www.openstreetmap.org/?lat=-34.542586&lon=148.362980
 +X731965 http://www.openstreetmap.org/?lat=-34.547464&lon=148.348818
 +X262519 http://www.openstreetmap.org/?lat=-34.528162&lon=148.307705
@@ -116,7 +116,7 @@ Har +HRD http://www.openstreetmap.org/?lat=-34.553667&lon=148.371692
 +X620276 http://www.openstreetmap.org/?lat=-34.531132&lon=148.099308
 +X302975 http://www.openstreetmap.org/?lat=-34.564429&lon=148.096905
 +X331534 http://www.openstreetmap.org/?lat=-34.623497&lon=148.061886
-Coo +CMD http://www.openstreetmap.org/?lat=-34.641135&lon=148.030686
+Coo http://www.openstreetmap.org/?lat=-34.641135&lon=148.030686
 +X777673 http://www.openstreetmap.org/?lat=-34.653086&lon=148.016739
 +X176707 http://www.openstreetmap.org/?lat=-34.649273&lon=147.986355
 +X957496 http://www.openstreetmap.org/?lat=-34.681605&lon=147.925673
@@ -126,22 +126,22 @@ Coo +CMD http://www.openstreetmap.org/?lat=-34.641135&lon=148.030686
 +X442179 http://www.openstreetmap.org/?lat=-34.832193&lon=147.706890
 +X281740 http://www.openstreetmap.org/?lat=-34.853265&lon=147.589538
 +DIV_Gri http://www.openstreetmap.org/?lat=-34.866805&lon=147.584624
-Jun +JUE http://www.openstreetmap.org/?lat=-34.870132&lon=147.583895
+Jun http://www.openstreetmap.org/?lat=-34.870132&lon=147.583895
 +X350843 http://www.openstreetmap.org/?lat=-34.915531&lon=147.557631
 +X817824 http://www.openstreetmap.org/?lat=-35.005007&lon=147.477036
 +X538017 http://www.openstreetmap.org/?lat=-35.040714&lon=147.431116
 +X414145 http://www.openstreetmap.org/?lat=-35.109131&lon=147.388802
-WagWag  +WGA http://www.openstreetmap.org/?lat=-35.120365&lon=147.368374
+WagWag http://www.openstreetmap.org/?lat=-35.120365&lon=147.368374
 +X176861 http://www.openstreetmap.org/?lat=-35.134756&lon=147.317734
 +X750599 http://www.openstreetmap.org/?lat=-35.167178&lon=147.289839
-TheRock +TRK http://www.openstreetmap.org/?lat=-35.271665&lon=147.118542
+TheRock http://www.openstreetmap.org/?lat=-35.271665&lon=147.118542
 +X423265 http://www.openstreetmap.org/?lat=-35.279048&lon=147.094059
 +X919801 http://www.openstreetmap.org/?lat=-35.461439&lon=147.030888
-Hen +HTY http://www.openstreetmap.org/?lat=-35.517670&lon=147.035286
+Hen http://www.openstreetmap.org/?lat=-35.517670&lon=147.035286
 +X143702 http://www.openstreetmap.org/?lat=-35.634105&lon=147.044363
 Cul http://www.openstreetmap.org/?lat=-35.666031&lon=147.038226
 +X303580 http://www.openstreetmap.org/?lat=-35.810888&lon=146.993380
 +X288690 http://www.openstreetmap.org/?lat=-35.969497&lon=147.003851
 +X401119 http://www.openstreetmap.org/?lat=-36.040389&lon=146.970634
-Ald +ALX http://www.openstreetmap.org/?lat=-36.084500&lon=146.924629
+Ald http://www.openstreetmap.org/?lat=-36.084500&lon=146.924629
 NSW/VIC http://www.openstreetmap.org/?lat=-36.099932&lon=146.908879

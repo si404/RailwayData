@@ -1,4 +1,4 @@
-CalVil CalaisVille http://www.openstreetmap.org/?lat=50.953378&lon=1.850359
+CalVil http://www.openstreetmap.org/?lat=50.953378&lon=1.850359
 +X106515 http://www.openstreetmap.org/?lat=50.948904&lon=1.839094
 +SKIP_Fon http://www.openstreetmap.org/?lat=50.940819&lon=1.849673
 +X454959 http://www.openstreetmap.org/?lat=50.934734&lon=1.848707
@@ -10,14 +10,14 @@ CalVil CalaisVille http://www.openstreetmap.org/?lat=50.953378&lon=1.850359
 +X137104 http://www.openstreetmap.org/?lat=50.864762&lon=1.778884
 +SKIP_Caf http://www.openstreetmap.org/?lat=50.849646&lon=1.812272
 +SKIP_HautBanc http://www.openstreetmap.org/?lat=50.816355&lon=1.772189
-MarRin MarquiseRinxent http://www.openstreetmap.org/?lat=50.805535&lon=1.729853
+MarRin http://www.openstreetmap.org/?lat=50.805535&lon=1.729853
 +X634814 http://www.openstreetmap.org/?lat=50.797628&lon=1.679256
 +X830402 http://www.openstreetmap.org/?lat=50.784593&lon=1.659472
 +X959893 http://www.openstreetmap.org/?lat=50.778854&lon=1.625011
 +SKIP_WimWim http://www.openstreetmap.org/?lat=50.764388&lon=1.613681
 +X740280 http://www.openstreetmap.org/?lat=50.738350&lon=1.599455
-BouTin BoulogneTintelleries http://www.openstreetmap.org/?lat=50.727308&lon=1.609325
-BouVil BoulogneVille http://www.openstreetmap.org/?lat=50.715435&lon=1.610184
+BouTin http://www.openstreetmap.org/?lat=50.727308&lon=1.609325
+BouVil http://www.openstreetmap.org/?lat=50.715435&lon=1.610184
 +X907769 http://www.openstreetmap.org/?lat=50.690742&lon=1.607459
 +SKIP_PontBri http://www.openstreetmap.org/?lat=50.682745&lon=1.626899
 +SKIP_Hes http://www.openstreetmap.org/?lat=50.660956&lon=1.667089
@@ -25,19 +25,19 @@ BouVil BoulogneVille http://www.openstreetmap.org/?lat=50.715435&lon=1.610184
 +SKIP_NeuHar http://www.openstreetmap.org/?lat=50.623616&lon=1.643100
 +SKIP_Dan http://www.openstreetmap.org/?lat=50.575913&lon=1.614904
 +X509924 http://www.openstreetmap.org/?lat=50.541465&lon=1.617651
-EtaTou EtaplesLeTouquet http://www.openstreetmap.org/?lat=50.517008&lon=1.642585
-RangFliVerBer RangFliersVertonBerck http://www.openstreetmap.org/?lat=50.415724&lon=1.648164
+EtaTou http://www.openstreetmap.org/?lat=50.517008&lon=1.642585
+RangFliVerBer http://www.openstreetmap.org/?lat=50.415724&lon=1.648164
 +X474114 http://www.openstreetmap.org/?lat=50.368638&lon=1.662068
 +X887119 http://www.openstreetmap.org/?lat=50.339120&lon=1.655588
 +X478628 http://www.openstreetmap.org/?lat=50.293109&lon=1.664515
 Rue http://www.openstreetmap.org/?lat=50.273146&lon=1.675973
 +X229351 http://www.openstreetmap.org/?lat=50.215841&lon=1.706142
 +X926803 http://www.openstreetmap.org/?lat=50.189518&lon=1.704791
-NoySurMer NoyellesSurMer http://www.openstreetmap.org/?lat=50.187430&lon=1.704640
+NoySurMer http://www.openstreetmap.org/?lat=50.187430&lon=1.704640
 +X807911 http://www.openstreetmap.org/?lat=50.175180&lon=1.706014
 +X435157 http://www.openstreetmap.org/?lat=50.134183&lon=1.768799
 +X740033 http://www.openstreetmap.org/?lat=50.120791&lon=1.810620
-Abb +Abbeville http://www.openstreetmap.org/?lat=50.101987&lon=1.824245
+Abb http://www.openstreetmap.org/?lat=50.101987&lon=1.824245
 +X534541 http://www.openstreetmap.org/?lat=50.077069&lon=1.835103
 +SKIP_PontRemy http://www.openstreetmap.org/?lat=50.047122&lon=1.898789
 +X404253 http://www.openstreetmap.org/?lat=50.034347&lon=1.915312
@@ -49,4 +49,4 @@ Abb +Abbeville http://www.openstreetmap.org/?lat=50.101987&lon=1.824245
 +SKIP_DreAmi http://www.openstreetmap.org/?lat=49.914846&lon=2.229753
 +X316139 http://www.openstreetmap.org/?lat=49.906362&lon=2.264771
 StRoch http://www.openstreetmap.org/?lat=49.893231&lon=2.283354
-Ami +Amiens http://www.openstreetmap.org/?lat=49.890097&lon=2.309114
+Ami http://www.openstreetmap.org/?lat=49.890097&lon=2.309114

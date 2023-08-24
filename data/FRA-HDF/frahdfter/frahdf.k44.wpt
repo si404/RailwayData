@@ -1,4 +1,4 @@
-LilFla +LilleFlanders http://www.openstreetmap.org/?lat=50.636309&lon=3.070765
+LilFla http://www.openstreetmap.org/?lat=50.636309&lon=3.070765
 +DIV_C70 http://www.openstreetmap.org/?lat=50.634472&lon=3.077931
 +DIV_K92 http://www.openstreetmap.org/?lat=50.630361&lon=3.083360
 +DIV_C60 http://www.openstreetmap.org/?lat=50.623011&lon=3.089690
@@ -14,7 +14,7 @@ LilFla +LilleFlanders http://www.openstreetmap.org/?lat=50.636309&lon=3.070765
 +SKIP_Ost http://www.openstreetmap.org/?lat=50.445194&lon=3.032269
 +SKIP_Lef http://www.openstreetmap.org/?lat=50.427618&lon=3.059564
 +SKIP_PontDeu http://www.openstreetmap.org/?lat=50.397863&lon=3.084712
-Dou +Douai http://www.openstreetmap.org/?lat=50.371758&lon=3.090591
+Dou http://www.openstreetmap.org/?lat=50.371758&lon=3.090591
 +DIV_P43 http://www.openstreetmap.org/?lat=50.364011&lon=3.092437
 +SKIP_Cor http://www.openstreetmap.org/?lat=50.342954&lon=3.040552
 +SKIP_Bre http://www.openstreetmap.org/?lat=50.336353&lon=3.014030
@@ -24,7 +24,7 @@ Dou +Douai http://www.openstreetmap.org/?lat=50.371758&lon=3.090591
 +DIV_K90 http://www.openstreetmap.org/?lat=50.300018&lon=2.882323
 +X976754 http://www.openstreetmap.org/?lat=50.290888&lon=2.852454
 +DIV_P54 http://www.openstreetmap.org/?lat=50.293493&lon=2.811770
-Arr +Arras http://www.openstreetmap.org/?lat=50.286625&lon=2.781687
+Arr http://www.openstreetmap.org/?lat=50.286625&lon=2.781687
 +DIV_P53 http://www.openstreetmap.org/?lat=50.279735&lon=2.768576
 +DIV_Nord http://www.openstreetmap.org/?lat=50.240536&lon=2.766323
 +SKIP_Boi http://www.openstreetmap.org/?lat=50.210609&lon=2.771473
@@ -33,15 +33,15 @@ Arr +Arras http://www.openstreetmap.org/?lat=50.286625&lon=2.781687
 +SKIP_Ach http://www.openstreetmap.org/?lat=50.131556&lon=2.780657
 +SKIP_Mir http://www.openstreetmap.org/?lat=50.095559&lon=2.734652
 +X427585 http://www.openstreetmap.org/?lat=50.063861&lon=2.665086
-Alb Albert http://www.openstreetmap.org/?lat=50.005629&lon=2.644444
+Alb http://www.openstreetmap.org/?lat=50.005629&lon=2.644444
 +X937141 http://www.openstreetmap.org/?lat=49.978894&lon=2.633801
 +SKIP_BuiAnc http://www.openstreetmap.org/?lat=49.964762&lon=2.598224
 +SKIP_MerAbbe http://www.openstreetmap.org/?lat=49.955665&lon=2.572775
 +SKIP_Hei http://www.openstreetmap.org/?lat=49.943626&lon=2.539558
-Cor Corbie http://www.openstreetmap.org/?lat=49.911744&lon=2.499733
+Cor http://www.openstreetmap.org/?lat=49.911744&lon=2.499733
 +SKIP_Doa http://www.openstreetmap.org/?lat=49.899320&lon=2.459092
 +X928596 http://www.openstreetmap.org/?lat=49.886755&lon=2.436562
 +DIV_K20 http://www.openstreetmap.org/?lat=49.882406&lon=2.375236
 +DIV_K12 http://www.openstreetmap.org/?lat=49.880498&lon=2.361159
 +DIV_K10 http://www.openstreetmap.org/?lat=49.880758&lon=2.337470
-Ami Amiens http://www.openstreetmap.org/?lat=49.890097&lon=2.309114
+Ami http://www.openstreetmap.org/?lat=49.890097&lon=2.309114

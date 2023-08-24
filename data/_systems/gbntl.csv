@@ -2,7 +2,7 @@ systemName;region;route;banner;abbrev;city;root;altRouteNames
 gbntl;ENG;ThaLnk;;Cam;Thameslink (Cambridge - Brighton);eng.thalnkcam;
 gbntl;ENG;ThaLnk;;;Thameslink (Bedford - Brighton);eng.thalnk;
 gbntl;ENG;ThaLnk;;Bed;Thameslink (Bedford - Three Bridges);eng.thalnkbed;
-gbntl;ENG;ThaLnk;;Pet;Thameslink (Peterborough - Horsham);eng.thalnkpet;ThaLnkRed
+gbntl;ENG;ThaLnk;;Pet;Thameslink (Peterborough - Horsham);eng.thalnkpet;
 gbntl;ENG;ThaLnk;;Sut;Thameslink (St Albans - Sutton);eng.thalnksut;
 gbntl;ENG;ThaLnk;;Sev;Thameslink (Blackfriars - Sevenoaks);eng.thalnksev;
 gbntl;ENG;ThaLnk;;Rai;Thameslink (Luton - Rainham);eng.thalnkrai;

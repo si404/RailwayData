@@ -1,6 +1,6 @@
 HDF/IDF http://www.openstreetmap.org/?lat=49.157222&lon=2.270994
 +DIV_TraE http://www.openstreetmap.org/?lat=49.149194&lon=2.282410
-PerBea PersanBeaumont http://www.openstreetmap.org/?lat=49.147910&lon=2.278354
+PerBea http://www.openstreetmap.org/?lat=49.147910&lon=2.278354
 +DIV_TraW http://www.openstreetmap.org/?lat=49.145201&lon=2.270372
 +NoiMou http://www.openstreetmap.org/?lat=49.132532&lon=2.280564
 +PreCou http://www.openstreetmap.org/?lat=49.113504&lon=2.287946
@@ -19,4 +19,4 @@ PerBea PersanBeaumont http://www.openstreetmap.org/?lat=49.147910&lon=2.278354
 +SKIP_StDen http://www.openstreetmap.org/?lat=48.935117&lon=2.345495
 +SKIP_StaFraStDen http://www.openstreetmap.org/?lat=48.917663&lon=2.350345
 +DIV_B http://www.openstreetmap.org/?lat=48.909625&lon=2.352190
-ParGareNord GareNord http://www.openstreetmap.org/?lat=48.880381&lon=2.354990
+ParGareNord http://www.openstreetmap.org/?lat=48.880381&lon=2.354990

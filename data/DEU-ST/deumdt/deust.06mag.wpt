@@ -9,7 +9,9 @@ ArnStr http://www.openstreetmap.org/?lat=52.130264&lon=11.611068
 GerHauMannStr http://www.openstreetmap.org/?lat=52.130350&lon=11.616540
 DamPla http://www.openstreetmap.org/?lat=52.131628&lon=11.622130
 +DIV_EdiRing http://www.openstreetmap.org/?lat=52.132355&lon=11.622612
-Hbf http://www.openstreetmap.org/?lat=52.130775&lon=11.628739
+HbfNord http://www.openstreetmap.org/?lat=52.132016&lon=11.626577
++DIV_HbfN http://www.openstreetmap.org/?lat=52.131634&lon=11.629012
++DIV_OGS http://www.openstreetmap.org/?lat=52.131264&lon=11.631888
 CityCar http://www.openstreetmap.org/?lat=52.131265&lon=11.632944
 +DIV_AltMar http://www.openstreetmap.org/?lat=52.131022&lon=11.636335
 AltMar http://www.openstreetmap.org/?lat=52.131898&lon=11.636860

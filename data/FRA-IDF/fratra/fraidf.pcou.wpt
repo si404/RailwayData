@@ -1,4 +1,4 @@
-ParGareEst +GareEst http://www.openstreetmap.org/?lat=48.877075&lon=2.359453
+ParGareEst http://www.openstreetmap.org/?lat=48.877075&lon=2.359453
 +DIV_EW http://www.openstreetmap.org/?lat=48.889242&lon=2.366030
 +SKIP_RosaPar http://www.openstreetmap.org/?lat=48.896423&lon=2.374077
 +SKIP_Pan http://www.openstreetmap.org/?lat=48.898003&lon=2.400427
@@ -19,14 +19,14 @@ ParGareEst +GareEst http://www.openstreetmap.org/?lat=48.877075&lon=2.359453
 +SKIP_OzoFer http://www.openstreetmap.org/?lat=48.770715&lon=2.690234
 +SKIP_GreArm http://www.openstreetmap.org/?lat=48.745394&lon=2.728601
 +DIV_Pro http://www.openstreetmap.org/?lat=48.744262&lon=2.730060
-Tou +Tournan http://www.openstreetmap.org/?lat=48.739479&lon=2.758770
+Tou http://www.openstreetmap.org/?lat=48.739479&lon=2.758770
 +X368157 http://www.openstreetmap.org/?lat=48.729459&lon=2.802672
-MarBrie +MarlesBrie http://www.openstreetmap.org/?lat=48.734484&lon=2.868247
-Mor +Mortcerf http://www.openstreetmap.org/?lat=48.789209&lon=2.907557
+MarBrie http://www.openstreetmap.org/?lat=48.734484&lon=2.868247
+Mor http://www.openstreetmap.org/?lat=48.789209&lon=2.907557
 +X261690 http://www.openstreetmap.org/?lat=48.798624&lon=2.908115
 +X396575 http://www.openstreetmap.org/?lat=48.813152&lon=2.931676
-GueCelMor +GuerardCelleMorin http://www.openstreetmap.org/?lat=48.810495&lon=2.954593
+GueCelMor http://www.openstreetmap.org/?lat=48.810495&lon=2.954593
 +X556935 http://www.openstreetmap.org/?lat=48.804362&lon=2.965150
-FarPom +FaremoutiersPommeuse http://www.openstreetmap.org/?lat=48.808573&lon=2.993217
-Mou +Mouroux http://www.openstreetmap.org/?lat=48.813915&lon=3.042397
-Cou +Coulommiers http://www.openstreetmap.org/?lat=48.807697&lon=3.081923
+FarPom http://www.openstreetmap.org/?lat=48.808573&lon=2.993217
+Mou http://www.openstreetmap.org/?lat=48.813915&lon=3.042397
+Cou http://www.openstreetmap.org/?lat=48.807697&lon=3.081923
