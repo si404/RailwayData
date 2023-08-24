@@ -1,10 +1,9 @@
-SpielfeldStrass http://www.openstreetmap.org/?lat=46.709456&lon=15.629082
-+X444947 http://www.openstreetmap.org/?lat=46.710078&lon=15.628020
+SpiStr +SpielfeldStrass http://www.openstreetmap.org/?lat=46.709456&lon=15.629082
 +X525128 http://www.openstreetmap.org/?lat=46.718960&lon=15.637107
-Lichendorf http://www.openstreetmap.org/?lat=46.713929&lon=15.698304
-WeitersfeldMur http://www.openstreetmap.org/?lat=46.714635&lon=15.721650
-Mureck http://www.openstreetmap.org/?lat=46.711369&lon=15.771432
-Gosdorf http://www.openstreetmap.org/?lat=46.724550&lon=15.797782
-Purkla http://www.openstreetmap.org/?lat=46.731552&lon=15.903182
-Halbenrain http://www.openstreetmap.org/?lat=46.723727&lon=15.948930
-BadRadkersburg http://www.openstreetmap.org/?lat=46.699391&lon=15.993433
+Lic +Lichendorf http://www.openstreetmap.org/?lat=46.713929&lon=15.698304
+WeiMur +WeitersfeldMur http://www.openstreetmap.org/?lat=46.714635&lon=15.721650
+Mur +Mureck http://www.openstreetmap.org/?lat=46.711369&lon=15.771432
+Gos +Gosdorf http://www.openstreetmap.org/?lat=46.724550&lon=15.797782
+Pur +Purkla http://www.openstreetmap.org/?lat=46.731552&lon=15.903182
+Hal +Halbenrain http://www.openstreetmap.org/?lat=46.723727&lon=15.948930
+BadRad +BadRadkersburg http://www.openstreetmap.org/?lat=46.699391&lon=15.993433

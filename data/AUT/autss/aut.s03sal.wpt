@@ -1,52 +1,52 @@
 DEU/AUT http://www.openstreetmap.org/?lat=47.831870&lon=12.988887
-SalzburgLiefering http://www.openstreetmap.org/?lat=47.824235&lon=13.000517
-SalzburgTaxhamEuropark http://www.openstreetmap.org/?lat=47.816029&lon=13.010688
+SalLie +SalzburgLiefering http://www.openstreetmap.org/?lat=47.824235&lon=13.000517
+SalTaxEur +SalzburgTaxhamEuropark http://www.openstreetmap.org/?lat=47.816029&lon=13.010688
 +X170886 http://www.openstreetmap.org/?lat=47.809156&lon=13.020000
-SalzburgAiglhof http://www.openstreetmap.org/?lat=47.807830&lon=13.026266
-SalzburgMullnAltstadt http://www.openstreetmap.org/?lat=47.808421&lon=13.034592
-SalzburgHauptbahnhof http://www.openstreetmap.org/?lat=47.813075&lon=13.045814
-+X194742 http://www.openstreetmap.org/?lat=47.821922&lon=13.051264
-SalzburgSam http://www.openstreetmap.org/?lat=47.819563&lon=13.063141
-SalzburgGnigl http://www.openstreetmap.org/?lat=47.811951&lon=13.066285
-SalzburgParsch http://www.openstreetmap.org/?lat=47.799197&lon=13.073065
-SalzburgAigen http://www.openstreetmap.org/?lat=47.788522&lon=13.078709
-SalzburgSud http://www.openstreetmap.org/?lat=47.770008&lon=13.078537
-Elsbethen http://www.openstreetmap.org/?lat=47.760835&lon=13.080339
-PuchUrstein http://www.openstreetmap.org/?lat=47.724126&lon=13.088193
-PuchHallein http://www.openstreetmap.org/?lat=47.712952&lon=13.090596
-Oberalm http://www.openstreetmap.org/?lat=47.699928&lon=13.093171
+SalAih +SalzburgAiglhof http://www.openstreetmap.org/?lat=47.807830&lon=13.026266
+SalMulAlt +SalzburgMullnAltstadt http://www.openstreetmap.org/?lat=47.808421&lon=13.034592
+SalHau +SalzburgHauptbahnhof http://www.openstreetmap.org/?lat=47.813075&lon=13.045814
++DIV_S2 http://www.openstreetmap.org/?lat=47.821922&lon=13.051264
+SalSam +SalzburgSam http://www.openstreetmap.org/?lat=47.819563&lon=13.063141
+SalGni +SalzburgGnigl http://www.openstreetmap.org/?lat=47.811951&lon=13.066285
+SalPar +SalzburgParsch http://www.openstreetmap.org/?lat=47.799197&lon=13.073065
+SalAin +SalzburgAigen http://www.openstreetmap.org/?lat=47.788522&lon=13.078709
+SalSud +SalzburgSud http://www.openstreetmap.org/?lat=47.770008&lon=13.078537
+Els +Elsbethen http://www.openstreetmap.org/?lat=47.760835&lon=13.080339
+PuchUrs +PuchUrstein http://www.openstreetmap.org/?lat=47.724126&lon=13.088193
+PuchHal +PuchHallein http://www.openstreetmap.org/?lat=47.712952&lon=13.090596
+Obe +Oberalm http://www.openstreetmap.org/?lat=47.699928&lon=13.093171
 +X775993 http://www.openstreetmap.org/?lat=47.688171&lon=13.095789
-Hallein http://www.openstreetmap.org/?lat=47.684965&lon=13.099737
-HalleinBurgfried http://www.openstreetmap.org/?lat=47.675776&lon=13.114500
-BadVigaun http://www.openstreetmap.org/?lat=47.664304&lon=13.124199
-KuchlGarnei http://www.openstreetmap.org/?lat=47.651672&lon=13.128319
-Kuchl http://www.openstreetmap.org/?lat=47.625820&lon=13.141494
-GollingAbtenau http://www.openstreetmap.org/?lat=47.600824&lon=13.163981
+Hal +Hallein http://www.openstreetmap.org/?lat=47.684965&lon=13.099737
+HalBur +HalleinBurgfried http://www.openstreetmap.org/?lat=47.675776&lon=13.114500
+BadVig +BadVigaun http://www.openstreetmap.org/?lat=47.664304&lon=13.124199
+KucGar +KuchlGarnei http://www.openstreetmap.org/?lat=47.651672&lon=13.128319
+Kuc +Kuchl http://www.openstreetmap.org/?lat=47.625820&lon=13.141494
+GolAbt +GollingAbtenau http://www.openstreetmap.org/?lat=47.600824&lon=13.163981
 +X478703 http://www.openstreetmap.org/?lat=47.570359&lon=13.182693
 +X560058 http://www.openstreetmap.org/?lat=47.563569&lon=13.167586
 +X778636 http://www.openstreetmap.org/?lat=47.524714&lon=13.166106
-Tenneck http://www.openstreetmap.org/?lat=47.494407&lon=13.178916
-Werfen http://www.openstreetmap.org/?lat=47.472750&lon=13.195267
-Pfarrwerfen http://www.openstreetmap.org/?lat=47.461479&lon=13.199687
+Ten +Tenneck http://www.openstreetmap.org/?lat=47.494407&lon=13.178916
+Wer +Werfen http://www.openstreetmap.org/?lat=47.472750&lon=13.195267
+Pfa +Pfarrwerfen http://www.openstreetmap.org/?lat=47.461479&lon=13.199687
 +X803648 http://www.openstreetmap.org/?lat=47.451998&lon=13.212562
-+X834803 http://www.openstreetmap.org/?lat=47.421511&lon=13.219728
-Bischofshofen http://www.openstreetmap.org/?lat=47.417881&lon=13.219900
-Mitterberghutten http://www.openstreetmap.org/?lat=47.395284&lon=13.222346
-StJohannPongau http://www.openstreetmap.org/?lat=47.348317&lon=13.194880
++DIV_Rad http://www.openstreetmap.org/?lat=47.421511&lon=13.219728
+Bis +Bischofshofen http://www.openstreetmap.org/?lat=47.417881&lon=13.219900
+Mit +Mitterberghutten http://www.openstreetmap.org/?lat=47.395284&lon=13.222346
+StJohPon +StJohannPongau http://www.openstreetmap.org/?lat=47.348317&lon=13.194880
 +X881341 http://www.openstreetmap.org/?lat=47.329356&lon=13.185782
-SchwarzachStVeit http://www.openstreetmap.org/?lat=47.318509&lon=13.154626
-+X397216 http://www.openstreetmap.org/?lat=47.314923&lon=13.141859
+SchStVeit +SchwarzachStVeit http://www.openstreetmap.org/?lat=47.318509&lon=13.154626
++DIV_Hof http://www.openstreetmap.org/?lat=47.314923&lon=13.141859
 +X177014 http://www.openstreetmap.org/?lat=47.301424&lon=13.102140
 Lend http://www.openstreetmap.org/?lat=47.297554&lon=13.055363
-Eschenau http://www.openstreetmap.org/?lat=47.306750&lon=13.008327
+Esc +Eschenau http://www.openstreetmap.org/?lat=47.306750&lon=13.008327
 +X989560 http://www.openstreetmap.org/?lat=47.290393&lon=12.966871
-TaxenbachRauris http://www.openstreetmap.org/?lat=47.292751&lon=12.946830
-GriesPinzgau http://www.openstreetmap.org/?lat=47.288065&lon=12.890739
-BruckFusch http://www.openstreetmap.org/?lat=47.284637&lon=12.828405
+TaxRau +TaxenbachRauris http://www.openstreetmap.org/?lat=47.292751&lon=12.946830
+GriPin +GriesPinzgau http://www.openstreetmap.org/?lat=47.288065&lon=12.890739
+BruFus +BruckFusch http://www.openstreetmap.org/?lat=47.284637&lon=12.828405
 +X892610 http://www.openstreetmap.org/?lat=47.284564&lon=12.817762
 +X521186 http://www.openstreetmap.org/?lat=47.293763&lon=12.799180
-Tischlerhausl http://www.openstreetmap.org/?lat=47.307979&lon=12.794051
+Tis +Tischlerhausl http://www.openstreetmap.org/?lat=47.307979&lon=12.794051
 ZellSee http://www.openstreetmap.org/?lat=47.320676&lon=12.796916
-MaishofenSaalbach http://www.openstreetmap.org/?lat=47.358631&lon=12.810209
-GerlingPinzgau http://www.openstreetmap.org/?lat=47.390307&lon=12.827450
-Saalfelden http://www.openstreetmap.org/?lat=47.426766&lon=12.829800
+MaiSaa +MaishofenSaalbach http://www.openstreetmap.org/?lat=47.358631&lon=12.810209
+GerPin +GerlingPinzgau http://www.openstreetmap.org/?lat=47.390307&lon=12.827450
+Saa +Saalfelden http://www.openstreetmap.org/?lat=47.426766&lon=12.829800

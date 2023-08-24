@@ -1,46 +1,44 @@
-StPoltenHauptbahnhof http://www.openstreetmap.org/?lat=48.208288&lon=15.624704
-+X705337 http://www.openstreetmap.org/?lat=48.207887&lon=15.632687
-StPoltenTraisenpark http://www.openstreetmap.org/?lat=48.220370&lon=15.641141
-Viehofen http://www.openstreetmap.org/?lat=48.231034&lon=15.653286
-Oberradlberg http://www.openstreetmap.org/?lat=48.240638&lon=15.670495
-Unterradlberg http://www.openstreetmap.org/?lat=48.255241&lon=15.686975
-Herzogenburg http://www.openstreetmap.org/?lat=48.276610&lon=15.696502
+StPolHau +StPoltenHauptbahnhof http://www.openstreetmap.org/?lat=48.208288&lon=15.624704
++DIV_REX http://www.openstreetmap.org/?lat=48.207887&lon=15.632687
+StPolTra +StPoltenTraisenpark http://www.openstreetmap.org/?lat=48.220370&lon=15.641141
+Vie +Viehofen http://www.openstreetmap.org/?lat=48.231034&lon=15.653286
+Obe +Oberradlberg http://www.openstreetmap.org/?lat=48.240638&lon=15.670495
+Unt +Unterradlberg http://www.openstreetmap.org/?lat=48.255241&lon=15.686975
+Her +Herzogenburg http://www.openstreetmap.org/?lat=48.276610&lon=15.696502
 +X475644 http://www.openstreetmap.org/?lat=48.278895&lon=15.696802
-HerzogenburgStadt http://www.openstreetmap.org/?lat=48.284492&lon=15.700665
-Getzersdorf http://www.openstreetmap.org/?lat=48.324229&lon=15.715384
+HerSta +HerzogenburgStadt http://www.openstreetmap.org/?lat=48.284492&lon=15.700665
+Get +Getzersdorf http://www.openstreetmap.org/?lat=48.324229&lon=15.715384
 +X703442 http://www.openstreetmap.org/?lat=48.347736&lon=15.734310
-Traismauer http://www.openstreetmap.org/?lat=48.347907&lon=15.745554
-Gemeinlebarn http://www.openstreetmap.org/?lat=48.336126&lon=15.804391
-SitzenbergReidling http://www.openstreetmap.org/?lat=48.332189&lon=15.818810
-Trasdorf http://www.openstreetmap.org/?lat=48.315047&lon=15.880415
-MoosbierbaumHeiligeneich http://www.openstreetmap.org/?lat=48.305941&lon=15.900886
-Atzenbrugg http://www.openstreetmap.org/?lat=48.297313&lon=15.917859
-+X387393 http://www.openstreetmap.org/?lat=48.295600&lon=15.928974
-Michelhausen http://www.openstreetmap.org/?lat=48.296371&lon=15.934167
-Tullnerfeld http://www.openstreetmap.org/?lat=48.294986&lon=15.996437
-+X179489 http://www.openstreetmap.org/?lat=48.294658&lon=16.012015
+Trai +Traismauer http://www.openstreetmap.org/?lat=48.347907&lon=15.745554
+Gem +Gemeinlebarn http://www.openstreetmap.org/?lat=48.336126&lon=15.804391
+SitRei +SitzenbergReidling http://www.openstreetmap.org/?lat=48.332189&lon=15.818810
+Tras +Trasdorf http://www.openstreetmap.org/?lat=48.315047&lon=15.880415
+MooHei +MoosbierbaumHeiligeneich http://www.openstreetmap.org/?lat=48.305941&lon=15.900886
+Atz +Atzenbrugg http://www.openstreetmap.org/?lat=48.297313&lon=15.917859
++DIV_ICEW http://www.openstreetmap.org/?lat=48.295600&lon=15.928974
+Mic +Michelhausen http://www.openstreetmap.org/?lat=48.296371&lon=15.934167
+Tul +Tullnerfeld http://www.openstreetmap.org/?lat=48.294986&lon=15.996437
++DIV_ICEE http://www.openstreetmap.org/?lat=48.294658&lon=16.012015
 +X946183 http://www.openstreetmap.org/?lat=48.298683&lon=16.021671
-TulinStadt http://www.openstreetmap.org/?lat=48.328452&lon=16.054115
-+X124149 http://www.openstreetmap.org/?lat=48.329136&lon=16.056819
-+X552017 http://www.openstreetmap.org/?lat=48.329215&lon=16.060874
-TullnDonau http://www.openstreetmap.org/?lat=48.327389&lon=16.064758
+TulSta +TulinStadt http://www.openstreetmap.org/?lat=48.328452&lon=16.054115
++DIV_S40 http://www.openstreetmap.org/?lat=48.329992&lon=16.058965
+TulDon +TullnDonau http://www.openstreetmap.org/?lat=48.327389&lon=16.064758
 +X714935 http://www.openstreetmap.org/?lat=48.323030&lon=16.075444
-Langenlebarn http://www.openstreetmap.org/?lat=48.327567&lon=16.121793
-MuckendorfWipfing http://www.openstreetmap.org/?lat=48.328280&lon=16.150074
-ZeiselmauerKonigstetten http://www.openstreetmap.org/?lat=48.326625&lon=16.175051
-StAndraWordern http://www.openstreetmap.org/?lat=48.333872&lon=16.209040
-GreifensteinAltenberg http://www.openstreetmap.org/?lat=48.344798&lon=16.239810
-HofleinDonau http://www.openstreetmap.org/?lat=48.350075&lon=16.271567
-Kritzendorf http://www.openstreetmap.org/?lat=48.335869&lon=16.299119
-UnterKritzendorf http://www.openstreetmap.org/?lat=48.324029&lon=16.309333
-KlosteneuburgKierling http://www.openstreetmap.org/?lat=48.309902&lon=16.326199
-KlosterneuburgWeidling http://www.openstreetmap.org/?lat=48.297598&lon=16.334567
-WienNussdorf http://www.openstreetmap.org/?lat=48.260229&lon=16.367741
+Lan +Langenlebarn http://www.openstreetmap.org/?lat=48.327567&lon=16.121793
+MucWip +MuckendorfWipfing http://www.openstreetmap.org/?lat=48.328280&lon=16.150074
+ZeiKon +ZeiselmauerKonigstetten http://www.openstreetmap.org/?lat=48.326625&lon=16.175051
+StAndWor +StAndraWordern http://www.openstreetmap.org/?lat=48.333872&lon=16.209040
+GreAlt +GreifensteinAltenberg http://www.openstreetmap.org/?lat=48.344798&lon=16.239810
+HofDon +HofleinDonau http://www.openstreetmap.org/?lat=48.350075&lon=16.271567
+Kri +Kritzendorf http://www.openstreetmap.org/?lat=48.335869&lon=16.299119
+UntKri +UnterKritzendorf http://www.openstreetmap.org/?lat=48.324029&lon=16.309333
+KloKie +KlosteneuburgKierling http://www.openstreetmap.org/?lat=48.309902&lon=16.326199
+KloWei +KlosterneuburgWeidling http://www.openstreetmap.org/?lat=48.297598&lon=16.334567
+WienNus +WienNussdorf http://www.openstreetmap.org/?lat=48.260229&lon=16.367741
 +X436027 http://www.openstreetmap.org/?lat=48.258675&lon=16.368304
-+X620663 http://www.openstreetmap.org/?lat=48.254420&lon=16.368899
-WienHeiligenstadt http://www.openstreetmap.org/?lat=48.248733&lon=16.365681
-+X173407 http://www.openstreetmap.org/?lat=48.246633&lon=16.364350
++DIV_S45E http://www.openstreetmap.org/?lat=48.254420&lon=16.368899
+WienHei +WienHeiligenstadt http://www.openstreetmap.org/?lat=48.248733&lon=16.365681
++DIV_S45W http://www.openstreetmap.org/?lat=48.246633&lon=16.364350
 +X832227 http://www.openstreetmap.org/?lat=48.245275&lon=16.363342
-+X338039 http://www.openstreetmap.org/?lat=48.242760&lon=16.363084
-Spittelau http://www.openstreetmap.org/?lat=48.235586&lon=16.358085
-WienFranzJosefsBahnhof http://www.openstreetmap.org/?lat=48.226074&lon=16.361260
+Spi +Spittelau http://www.openstreetmap.org/?lat=48.235586&lon=16.358085
+WienFraJosBah +WienFranzJosefsBahnhof http://www.openstreetmap.org/?lat=48.226074&lon=16.361260

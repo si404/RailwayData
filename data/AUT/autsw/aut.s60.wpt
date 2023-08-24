@@ -1,54 +1,53 @@
-WeinerNeustadtHauptbahnhof http://www.openstreetmap.org/?lat=47.811065&lon=16.233630
-+X366107 http://www.openstreetmap.org/?lat=47.824782&lon=16.236806
-WienerNeustadtCivatasNova http://www.openstreetmap.org/?lat=47.833541&lon=16.255388
-Obereggendorf http://www.openstreetmap.org/?lat=47.849556&lon=16.296759
-Untereggendorf http://www.openstreetmap.org/?lat=47.861506&lon=16.321564
-+X239195 http://www.openstreetmap.org/?lat=47.874404&lon=16.346626
-Ebenfurth http://www.openstreetmap.org/?lat=47.877714&lon=16.362076
-+X482906 http://www.openstreetmap.org/?lat=47.878635&lon=16.366625
-+X952225 http://www.openstreetmap.org/?lat=47.884017&lon=16.372547
-PottendorfLandegg http://www.openstreetmap.org/?lat=47.905282&lon=16.396108
-Wampersdorf http://www.openstreetmap.org/?lat=47.930693&lon=16.417007
-+X130539 http://www.openstreetmap.org/?lat=47.935940&lon=16.419454
-Ebriechsdorf http://www.openstreetmap.org/?lat=47.961106&lon=16.408854
-+X459810 http://www.openstreetmap.org/?lat=47.998351&lon=16.392074
-Munchendorf http://www.openstreetmap.org/?lat=48.032261&lon=16.386216
+WieNeuHau +WeinerNeustadtHauptbahnhof http://www.openstreetmap.org/?lat=47.811065&lon=16.233630
++DIV_S3S4 http://www.openstreetmap.org/?lat=47.824782&lon=16.236806
+WieNeuCivNova +WienerNeustadtCivatasNova http://www.openstreetmap.org/?lat=47.833541&lon=16.255388
+Obe +Obereggendorf http://www.openstreetmap.org/?lat=47.849556&lon=16.296759
+Unt +Untereggendorf http://www.openstreetmap.org/?lat=47.861506&lon=16.321564
++DIV_EbeW http://www.openstreetmap.org/?lat=47.874404&lon=16.346626
+Ebe +Ebenfurth http://www.openstreetmap.org/?lat=47.877714&lon=16.362076
++DIV_REX6 http://www.openstreetmap.org/?lat=47.878635&lon=16.366625
++DIV_EbeE http://www.openstreetmap.org/?lat=47.884017&lon=16.372547
+PotLan +PottendorfLandegg http://www.openstreetmap.org/?lat=47.905282&lon=16.396108
+Wam +Wampersdorf http://www.openstreetmap.org/?lat=47.930693&lon=16.417007
+*DIV_EbrS http://www.openstreetmap.org/?lat=47.935940&lon=16.419454
+Ebr +Ebriechsdorf http://www.openstreetmap.org/?lat=47.963606&lon=16.419411
++X727211 http://www.openstreetmap.org/?lat=47.983358&lon=16.412416
+*DIV_EbrN http://www.openstreetmap.org/?lat=47.998351&lon=16.392074
+Mun +Munchendorf http://www.openstreetmap.org/?lat=48.032261&lon=16.386216
 +X954034 http://www.openstreetmap.org/?lat=48.067828&lon=16.388555
-Achau http://www.openstreetmap.org/?lat=48.080731&lon=16.378126
+Ach +Achau http://www.openstreetmap.org/?lat=48.080731&lon=16.378126
 +X661774 http://www.openstreetmap.org/?lat=48.100682&lon=16.358428
-Hennersdorf http://www.openstreetmap.org/?lat=48.112747&lon=16.358385
-WienBlumental http://www.openstreetmap.org/?lat=48.139559&lon=16.369629
+Hen +Hennersdorf http://www.openstreetmap.org/?lat=48.112747&lon=16.358385
+WienBlu +WienBlumental http://www.openstreetmap.org/?lat=48.139559&lon=16.369629
 +X423066 http://www.openstreetmap.org/?lat=48.149639&lon=16.368556
-+X510163 http://www.openstreetmap.org/?lat=48.151729&lon=16.359329
-+X906523 http://www.openstreetmap.org/?lat=48.154871&lon=16.338472
-+WienGutheilSchoderGasse http://www.openstreetmap.org/?lat=48.159394&lon=16.335919
-+WienSchopfwerk http://www.openstreetmap.org/?lat=48.164078&lon=16.330994
++DIVWLBS http://www.openstreetmap.org/?lat=48.154871&lon=16.338472
++SKIP_WienGutSchGas http://www.openstreetmap.org/?lat=48.159394&lon=16.335919
++SKIP_WienSch http://www.openstreetmap.org/?lat=48.164078&lon=16.330994
 +X782063 http://www.openstreetmap.org/?lat=48.167327&lon=16.328452
-+X348378 http://www.openstreetmap.org/?lat=48.167907&lon=16.328377
-+X714858 http://www.openstreetmap.org/?lat=48.169304&lon=16.329026
-+X710775 http://www.openstreetmap.org/?lat=48.172815&lon=16.331209
-WienMiedling http://www.openstreetmap.org/?lat=48.174174&lon=16.331778
-WienMatzleinsdorferPlatz http://www.openstreetmap.org/?lat=48.180157&lon=16.358449
-+X200280 http://www.openstreetmap.org/?lat=48.184541&lon=16.371528
-WienHauptbahnhof http://www.openstreetmap.org/?lat=48.184630&lon=16.380186
-+Autoreisezug http://www.openstreetmap.org/?lat=48.178002&lon=16.391129
-+X643944 http://www.openstreetmap.org/?lat=48.169298&lon=16.404390
-WienGrillgasse http://www.openstreetmap.org/?lat=48.167331&lon=16.406922
++X316875 http://www.openstreetmap.org/?lat=48.170694&lon=16.329846
++DIV_WLBN http://www.openstreetmap.org/?lat=48.172815&lon=16.331209
+WienMie +WienMiedling http://www.openstreetmap.org/?lat=48.174174&lon=16.331778
+WienMatPla +WienMatzleinsdorferPlatz http://www.openstreetmap.org/?lat=48.180157&lon=16.358449
++DIV_S1S2 http://www.openstreetmap.org/?lat=48.184541&lon=16.371528
+WienHau +WienHauptbahnhof http://www.openstreetmap.org/?lat=48.184630&lon=16.380186
++SKIP_Aut http://www.openstreetmap.org/?lat=48.178002&lon=16.391129
++DIV_S80 http://www.openstreetmap.org/?lat=48.169298&lon=16.404390
+WienGri +WienGrillgasse http://www.openstreetmap.org/?lat=48.167331&lon=16.406922
 +X883306 http://www.openstreetmap.org/?lat=48.162235&lon=16.412802
-+X779387 http://www.openstreetmap.org/?lat=48.145286&lon=16.427135
++DIV_RJ http://www.openstreetmap.org/?lat=48.145286&lon=16.427135
 +X493234 http://www.openstreetmap.org/?lat=48.139903&lon=16.433830
-Kledering http://www.openstreetmap.org/?lat=48.133344&lon=16.439109
-+X571931 http://www.openstreetmap.org/?lat=48.127043&lon=16.443572
+Kle +Kledering http://www.openstreetmap.org/?lat=48.133344&lon=16.439109
++DIV_R95 http://www.openstreetmap.org/?lat=48.127043&lon=16.443572
 +X904980 http://www.openstreetmap.org/?lat=48.120597&lon=16.446791
-LanzendorfRannersdorf http://www.openstreetmap.org/?lat=48.113434&lon=16.447434
-Himberg http://www.openstreetmap.org/?lat=48.081950&lon=16.445160
-Gramatneusiedl http://www.openstreetmap.org/?lat=48.035325&lon=16.490822
+LanRan +LanzendorfRannersdorf http://www.openstreetmap.org/?lat=48.113434&lon=16.447434
+Him +Himberg http://www.openstreetmap.org/?lat=48.081950&lon=16.445160
+Gra +Gramatneusiedl http://www.openstreetmap.org/?lat=48.035325&lon=16.490822
 +X340913 http://www.openstreetmap.org/?lat=48.034091&lon=16.495757
-GotzendorfLeitha http://www.openstreetmap.org/?lat=48.025653&lon=16.586351
+GotLei +GotzendorfLeitha http://www.openstreetmap.org/?lat=48.025653&lon=16.586351
 +X466498 http://www.openstreetmap.org/?lat=48.025653&lon=16.590343
 +X745078 http://www.openstreetmap.org/?lat=48.025567&lon=16.593475
-TrautmannsdorfLeitha http://www.openstreetmap.org/?lat=48.024189&lon=16.642442
-Sarasdorf http://www.openstreetmap.org/?lat=48.023185&lon=16.677160
-Wilfleinsdorf http://www.openstreetmap.org/?lat=48.021979&lon=16.719775
+TraLei +TrautmannsdorfLeitha http://www.openstreetmap.org/?lat=48.024189&lon=16.642442
+Sar +Sarasdorf http://www.openstreetmap.org/?lat=48.023185&lon=16.677160
+Wil +Wilfleinsdorf http://www.openstreetmap.org/?lat=48.021979&lon=16.719775
 +X738370 http://www.openstreetmap.org/?lat=48.020372&lon=16.761231
-BruckLeitha http://www.openstreetmap.org/?lat=48.019051&lon=16.781101
+BruLei +BruckLeitha http://www.openstreetmap.org/?lat=48.019051&lon=16.781101
