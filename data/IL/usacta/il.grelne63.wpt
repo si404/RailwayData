@@ -1,10 +1,8 @@
-HarLake http://www.openstreetmap.org/?lat=41.886923&lon=-87.804019
-+SKIP_OPMet http://www.openstreetmap.org/?lat=41.886979&lon=-87.801495
-OakPk http://www.openstreetmap.org/?lat=41.887091&lon=-87.793846
-Rid http://www.openstreetmap.org/?lat=41.887231&lon=-87.783709
-Aus http://www.openstreetmap.org/?lat=41.887361&lon=-87.774359
-Cen http://www.openstreetmap.org/?lat=41.887475&lon=-87.765548
-+DIV_Met http://www.openstreetmap.org/?lat=41.887576&lon=-87.757775
+HarLake http://www.openstreetmap.org/?lat=41.886864&lon=-87.804011
+OakPk http://www.openstreetmap.org/?lat=41.887045&lon=-87.793854
+Rid http://www.openstreetmap.org/?lat=41.887191&lon=-87.783707
+Aus http://www.openstreetmap.org/?lat=41.887307&lon=-87.774362
+Cen http://www.openstreetmap.org/?lat=41.887421&lon=-87.765548
 Lar http://www.openstreetmap.org/?lat=41.887149&lon=-87.754667
 Cic http://www.openstreetmap.org/?lat=41.886574&lon=-87.745129
 Pul http://www.openstreetmap.org/?lat=41.885498&lon=-87.726098
