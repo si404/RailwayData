@@ -43,6 +43,7 @@ belat;BEL;Antwerpse tram;TMred;4;preview
 belbt;BEL;Tramwway de Bruxelles / Brusselse tram;TMred;4;preview
 belgt;BEL;Gentse tram;TMred;4;preview
 belkt;BEL;Kusttram;TMred;4;preview
+bgrsm;BGR;Sofiyski Metropoliten;TMblue;3;preview
 canttc;CAN;Toronto Subway;TMblue;3;preview
 canstm;CAN;Montreal Metro;TMblue;3;preview
 canrem;CAN;Montreal Réseau Express Métropolitain;TMred;4;preview
@@ -357,6 +358,8 @@ usamncr;USA;Metro-North;TMgreen;2;preview
 usanjtr;USA;NJ Transit Rail;TMgreen;2;preview
 usasepa;USA;SEPTA Regional Rail;TMgreen;2;preview
 usavre;USA;Virginia Railway Express;TMgreen;2;preview
+usabhcr;USA;Black Hills Central Railroad;TMgreen;2;preview
+usapvhmr;USA;Prairie Village, Herman, & Milwaukee Railroad;TMgreen;2;preview
 usabmsl;USA;Baltimore Metro SubwayLink;TMblue;3;preview
 usambta;USA;MBTA Subway;TMblue;3;preview
 usapatco;USA;PATCO Speedline;TMblue;3;preview

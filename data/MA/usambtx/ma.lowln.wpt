@@ -1,11 +1,11 @@
 BosNor http://www.openstreetmap.org/?lat=42.366513&lon=-71.062564
 +DIV_Fit http://www.openstreetmap.org/?lat=42.371537&lon=-71.069033
-+DIV_New http://www.openstreetmap.org/?lat=42.376375&lon=-71.075031
-+DIV_Gre http://www.openstreetmap.org/?lat=42.380544&lon=-71.087691
-+SKIP_GilSq http://www.openstreetmap.org/?lat=42.387988&lon=-71.096735
-+SKIP_MagSq http://www.openstreetmap.org/?lat=42.394247&lon=-71.106686
-+SKIP_BallSq http://www.openstreetmap.org/?lat=42.400257&lon=-71.111192
-+SKIP_MedTuf http://www.openstreetmap.org/?lat=42.408362&lon=-71.117222
++DIV_Bew http://www.openstreetmap.org/?lat=42.376375&lon=-71.075031
++X921068 http://www.openstreetmap.org/?lat=42.378599&lon=-71.078496
++X624067 http://www.openstreetmap.org/?lat=42.379280&lon=-71.085577
++X688694 http://www.openstreetmap.org/?lat=42.386278&lon=-71.093280
++X533623 http://www.openstreetmap.org/?lat=42.392245&lon=-71.104953
++X398210 http://www.openstreetmap.org/?lat=42.408669&lon=-71.117388
 WestMed http://www.openstreetmap.org/?lat=42.421627&lon=-71.133235
 +X271679 http://www.openstreetmap.org/?lat=42.432936&lon=-71.144993
 Wed http://www.openstreetmap.org/?lat=42.444607&lon=-71.140273
@@ -14,7 +14,9 @@ WinCen http://www.openstreetmap.org/?lat=42.451067&lon=-71.137869
 Mis http://www.openstreetmap.org/?lat=42.503071&lon=-71.136990
 AndWob http://www.openstreetmap.org/?lat=42.517212&lon=-71.144607
 Wil http://www.openstreetmap.org/?lat=42.546718&lon=-71.174390
++X838026 http://www.openstreetmap.org/?lat=42.561489&lon=-71.192436
 +X778946 http://www.openstreetmap.org/?lat=42.587419&lon=-71.253376
++X493351 http://www.openstreetmap.org/?lat=42.588098&lon=-71.272173
 NorBil http://www.openstreetmap.org/?lat=42.593169&lon=-71.281013
 +X649424 http://www.openstreetmap.org/?lat=42.615944&lon=-71.290412
 Low http://www.openstreetmap.org/?lat=42.636777&lon=-71.315153
