@@ -1,29 +1,29 @@
-Langenthal http://www.openstreetmap.org/?lat=47.217360&lon=7.784672
-+X276686 http://www.openstreetmap.org/?lat=47.215320&lon=7.780466
-LangenthalSud http://www.openstreetmap.org/?lat=47.205277&lon=7.780209
-Lotzwil http://www.openstreetmap.org/?lat=47.189399&lon=7.788491
-Gutenburg http://www.openstreetmap.org/?lat=47.181699&lon=7.793298
-Madiswil http://www.openstreetmap.org/?lat=47.166938&lon=7.795701
-Lindenholz http://www.openstreetmap.org/?lat=47.154580&lon=7.790594
-Kleindietwil http://www.openstreetmap.org/?lat=47.146262&lon=7.791088
-Rohrbach http://www.openstreetmap.org/?lat=47.137315&lon=7.813554
-+X473879 http://www.openstreetmap.org/?lat=47.114569&lon=7.840891
-Huttwil http://www.openstreetmap.org/?lat=47.114540&lon=7.842522
-Huswil http://www.openstreetmap.org/?lat=47.128564&lon=7.905736
+Lan +Langenthal http://www.openstreetmap.org/?lat=47.217360&lon=7.784672
++DIV_IR17 http://www.openstreetmap.org/?lat=47.215320&lon=7.780466
+LanSud +LangenthalSud http://www.openstreetmap.org/?lat=47.205277&lon=7.780209
+Lot +Lotzwil http://www.openstreetmap.org/?lat=47.189399&lon=7.788491
+Gut +Gutenburg http://www.openstreetmap.org/?lat=47.181699&lon=7.793298
+Mad +Madiswil http://www.openstreetmap.org/?lat=47.166938&lon=7.795701
+Lin +Lindenholz http://www.openstreetmap.org/?lat=47.154580&lon=7.790594
+Kle +Kleindietwil http://www.openstreetmap.org/?lat=47.146262&lon=7.791088
+Roh +Rohrbach http://www.openstreetmap.org/?lat=47.137315&lon=7.813554
++DIV_Hut http://www.openstreetmap.org/?lat=47.114569&lon=7.840891
+Hut +Huttwil http://www.openstreetmap.org/?lat=47.114540&lon=7.842522
+Hus +Huswil http://www.openstreetmap.org/?lat=47.128564&lon=7.905736
 Zell http://www.openstreetmap.org/?lat=47.136797&lon=7.926292
-Gettnau http://www.openstreetmap.org/?lat=47.140008&lon=7.970195
+Get +Gettnau http://www.openstreetmap.org/?lat=47.140008&lon=7.970195
 +X456986 http://www.openstreetmap.org/?lat=47.138811&lon=7.990279
-Willisau http://www.openstreetmap.org/?lat=47.122636&lon=7.996931
+Wil +Willisau http://www.openstreetmap.org/?lat=47.122636&lon=7.996931
 +X583026 http://www.openstreetmap.org/?lat=47.093574&lon=8.018775
-Menznau http://www.openstreetmap.org/?lat=47.083434&lon=8.041048
-WolhusenWeid http://www.openstreetmap.org/?lat=47.065569&lon=8.069158
-+X788572 http://www.openstreetmap.org/?lat=47.056678&lon=8.076024
+Men +Menznau http://www.openstreetmap.org/?lat=47.083434&lon=8.041048
+WolWeid +WolhusenWeid http://www.openstreetmap.org/?lat=47.065569&lon=8.069158
++DIV_S6 http://www.openstreetmap.org/?lat=47.056678&lon=8.076024
 Wolhusen http://www.openstreetmap.org/?lat=47.055377&lon=8.079951
-+Werthenstein http://www.openstreetmap.org/?lat=47.057065&lon=8.101891
-+Schachen http://www.openstreetmap.org/?lat=47.038084&lon=8.143315
-Malters http://www.openstreetmap.org/?lat=47.038716&lon=8.181939
-+Littau http://www.openstreetmap.org/?lat=47.053210&lon=8.256998
-+X846852 http://www.openstreetmap.org/?lat=47.056843&lon=8.286738
-+X835404 http://www.openstreetmap.org/?lat=47.051781&lon=8.297017
-+X590814 http://www.openstreetmap.org/?lat=47.044909&lon=8.310127
-Luzern http://www.openstreetmap.org/?lat=47.050110&lon=8.310256
++SKIP_Wer http://www.openstreetmap.org/?lat=47.057065&lon=8.101891
++SKIP_Sch http://www.openstreetmap.org/?lat=47.038084&lon=8.143315
+Mal +Malters http://www.openstreetmap.org/?lat=47.038716&lon=8.181939
++SKIP_Lit http://www.openstreetmap.org/?lat=47.053210&lon=8.256998
++DIV_S1 http://www.openstreetmap.org/?lat=47.056843&lon=8.286738
++DIV_S3 http://www.openstreetmap.org/?lat=47.051781&lon=8.297017
++DIV_S4 http://www.openstreetmap.org/?lat=47.044909&lon=8.310127
+Luz +Luzern http://www.openstreetmap.org/?lat=47.050110&lon=8.310256

@@ -1,5 +1,5 @@
-Airolo http://www.openstreetmap.org/?lat=46.527439&lon=8.608475
-AmbriPiotta http://www.openstreetmap.org/?lat=46.510872&lon=8.689928
+Air +Airolo http://www.openstreetmap.org/?lat=46.527439&lon=8.608475
+AmbPio +AmbriPiotta http://www.openstreetmap.org/?lat=46.510872&lon=8.689928
 +X381064 http://www.openstreetmap.org/?lat=46.489093&lon=8.744130
 +X101019 http://www.openstreetmap.org/?lat=46.493902&lon=8.758206
 +X867186 http://www.openstreetmap.org/?lat=46.497550&lon=8.756962
@@ -8,9 +8,9 @@ AmbriPiotta http://www.openstreetmap.org/?lat=46.510872&lon=8.689928
 +X616807 http://www.openstreetmap.org/?lat=46.484343&lon=8.773956
 +X353182 http://www.openstreetmap.org/?lat=46.485880&lon=8.766832
 +X857453 http://www.openstreetmap.org/?lat=46.488982&lon=8.770995
-Faido http://www.openstreetmap.org/?lat=46.482836&lon=8.790736
+Fai +Faido http://www.openstreetmap.org/?lat=46.482836&lon=8.790736
 +X579301 http://www.openstreetmap.org/?lat=46.467401&lon=8.822773
-Lavorgo http://www.openstreetmap.org/?lat=46.440829&lon=8.839617
+Lav +Lavorgo http://www.openstreetmap.org/?lat=46.440829&lon=8.839617
 +X398688 http://www.openstreetmap.org/?lat=46.423341&lon=8.856761
 +X374976 http://www.openstreetmap.org/?lat=46.424561&lon=8.862813
 +X648956 http://www.openstreetmap.org/?lat=46.428074&lon=8.858178
@@ -20,33 +20,32 @@ Lavorgo http://www.openstreetmap.org/?lat=46.440829&lon=8.839617
 +X571476 http://www.openstreetmap.org/?lat=46.424125&lon=8.863027
 +X664603 http://www.openstreetmap.org/?lat=46.419296&lon=8.859873
 +X755757 http://www.openstreetmap.org/?lat=46.401571&lon=8.872833
-Bodio http://www.openstreetmap.org/?lat=46.380407&lon=8.906178
+Bod +Bodio http://www.openstreetmap.org/?lat=46.380407&lon=8.906178
 +X287027 http://www.openstreetmap.org/?lat=46.372532&lon=8.926263
-+X175538 http://www.openstreetmap.org/?lat=46.369126&lon=8.930511
-+X400249 http://www.openstreetmap.org/?lat=46.361486&lon=8.945961
-Biasca http://www.openstreetmap.org/?lat=46.352067&lon=8.974242
-+X908528 http://www.openstreetmap.org/?lat=46.325024&lon=8.981473
-+Claro http://www.openstreetmap.org/?lat=46.253184&lon=9.016964
-CastioneArbedo http://www.openstreetmap.org/?lat=46.224161&lon=9.041448
-Bellizona http://www.openstreetmap.org/?lat=46.195020&lon=9.029238
-Giubiasco http://www.openstreetmap.org/?lat=46.173984&lon=9.003510
-+X890169 http://www.openstreetmap.org/?lat=46.171328&lon=8.999455
-+X843889 http://www.openstreetmap.org/?lat=46.166115&lon=8.990035
-+X675360 http://www.openstreetmap.org/?lat=46.157139&lon=8.986130
++DIV_IC http://www.openstreetmap.org/?lat=46.369126&lon=8.930511
+DIV_BiaN http://www.openstreetmap.org/?lat=46.361486&lon=8.945961
+Bia +Biasca http://www.openstreetmap.org/?lat=46.352067&lon=8.974242
+DIV_BiaS http://www.openstreetmap.org/?lat=46.325024&lon=8.981473
++SKIP_Cla http://www.openstreetmap.org/?lat=46.253184&lon=9.016964
+CasArb +CastioneArbedo http://www.openstreetmap.org/?lat=46.224161&lon=9.041448
+Bel +Bellizona http://www.openstreetmap.org/?lat=46.195020&lon=9.029238
+Giu +Giubiasco http://www.openstreetmap.org/?lat=46.173984&lon=9.003510
++DIV_S90N http://www.openstreetmap.org/?lat=46.171328&lon=8.999455
++DIV_S20 http://www.openstreetmap.org/?lat=46.163158&lon=8.985100
 +X995255 http://www.openstreetmap.org/?lat=46.134616&lon=8.988962
-+X283875 http://www.openstreetmap.org/?lat=46.025880&lon=8.934674
-Lugano http://www.openstreetmap.org/?lat=46.005093&lon=8.946626
++DIV_S90S http://www.openstreetmap.org/?lat=46.025880&lon=8.934674
+Lug +Lugano http://www.openstreetmap.org/?lat=46.005093&lon=8.946626
 +X583450 http://www.openstreetmap.org/?lat=45.990902&lon=8.940532
-LuganoParadiso http://www.openstreetmap.org/?lat=45.989217&lon=8.946433
+LugPar +LuganoParadiso http://www.openstreetmap.org/?lat=45.989217&lon=8.946433
 +X274707 http://www.openstreetmap.org/?lat=45.978519&lon=8.955832
-Melide http://www.openstreetmap.org/?lat=45.955812&lon=8.948557
+Mel +Melide http://www.openstreetmap.org/?lat=45.955812&lon=8.948557
 +X894072 http://www.openstreetmap.org/?lat=45.951403&lon=8.965273
-MaroggiaMelano http://www.openstreetmap.org/?lat=45.932602&lon=8.974028
+MarMel +MaroggiaMelano http://www.openstreetmap.org/?lat=45.932602&lon=8.974028
 +X480954 http://www.openstreetmap.org/?lat=45.917826&lon=8.984199
-CapolagoRivaSanVitale http://www.openstreetmap.org/?lat=45.902829&lon=8.979135
+CapRivaSanVit +CapolagoRivaSanVitale http://www.openstreetmap.org/?lat=45.902829&lon=8.979135
 +X308400 http://www.openstreetmap.org/?lat=45.893458&lon=8.974113
-MendrisioSanMartino http://www.openstreetmap.org/?lat=45.876834&lon=8.983126
-Mendrisio http://www.openstreetmap.org/?lat=45.869229&lon=8.978405
-+X921151 http://www.openstreetmap.org/?lat=45.863858&lon=8.971839
-Stabio http://www.openstreetmap.org/?lat=45.849623&lon=8.944116
+MenSanMar +MendrisioSanMartino http://www.openstreetmap.org/?lat=45.876834&lon=8.983126
+Men +Mendrisio http://www.openstreetmap.org/?lat=45.869229&lon=8.978405
++DIV_S10 http://www.openstreetmap.org/?lat=45.863858&lon=8.971839
+Sta +Stabio http://www.openstreetmap.org/?lat=45.849623&lon=8.944116
 CHE/ITA http://www.openstreetmap.org/?lat=45.838517&lon=8.912916

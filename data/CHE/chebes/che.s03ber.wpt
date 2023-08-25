@@ -1,31 +1,30 @@
-Biel/Bienne http://www.openstreetmap.org/?lat=47.132582&lon=7.242726
-+X173828 http://www.openstreetmap.org/?lat=47.130108&lon=7.251964
+Biel/Bie +Biel/Bienne http://www.openstreetmap.org/?lat=47.132582&lon=7.242726
++DIV_S20 http://www.openstreetmap.org/?lat=47.130108&lon=7.251964
 +X744080 http://www.openstreetmap.org/?lat=47.128035&lon=7.259002
-Brugg http://www.openstreetmap.org/?lat=47.123494&lon=7.278110
-+X341467 http://www.openstreetmap.org/?lat=47.099336&lon=7.318633
-Busswil http://www.openstreetmap.org/?lat=47.098182&lon=7.318161
-+X692895 http://www.openstreetmap.org/?lat=47.078678&lon=7.305222
+Bru +Brugg http://www.openstreetmap.org/?lat=47.123494&lon=7.278110
++DIV_291N http://www.openstreetmap.org/?lat=47.099336&lon=7.318633
+Bus +Busswil http://www.openstreetmap.org/?lat=47.098182&lon=7.318161
++DIV_291S http://www.openstreetmap.org/?lat=47.078678&lon=7.305222
 Lyss http://www.openstreetmap.org/?lat=47.076311&lon=7.306530
-SubergGrossaffoltern http://www.openstreetmap.org/?lat=47.058465&lon=7.339189
-Schupfen http://www.openstreetmap.org/?lat=47.041710&lon=7.386181
-Munchenbuchsee http://www.openstreetmap.org/?lat=47.021469&lon=7.451928
-+X962519 http://www.openstreetmap.org/?lat=47.007029&lon=7.465682
-+X108176 http://www.openstreetmap.org/?lat=47.006158&lon=7.465081
-Zollikofen http://www.openstreetmap.org/?lat=47.000941&lon=7.462614
-+Oberzollikofen http://www.openstreetmap.org/?lat=46.997038&lon=7.461916
-+X291909 http://www.openstreetmap.org/?lat=46.989946&lon=7.466154
-+X236778 http://www.openstreetmap.org/?lat=46.986419&lon=7.465661
+SubGro +SubergGrossaffoltern http://www.openstreetmap.org/?lat=47.058465&lon=7.339189
+Sch +Schupfen http://www.openstreetmap.org/?lat=47.041710&lon=7.386181
+Mun +Munchenbuchsee http://www.openstreetmap.org/?lat=47.021469&lon=7.451928
++DIV_S4S8 http://www.openstreetmap.org/?lat=47.007029&lon=7.465682
+Zol +Zollikofen http://www.openstreetmap.org/?lat=47.000941&lon=7.462614
++SKIP_Obe http://www.openstreetmap.org/?lat=46.997038&lon=7.461916
++DIV_S8S http://www.openstreetmap.org/?lat=46.989946&lon=7.466154
++DIV_S44 http://www.openstreetmap.org/?lat=46.986419&lon=7.465661
 +X450698 http://www.openstreetmap.org/?lat=46.969909&lon=7.469845
-BernWankdorf http://www.openstreetmap.org/?lat=46.967207&lon=7.464373
+BernWan +BernWankdorf http://www.openstreetmap.org/?lat=46.967207&lon=7.464373
 +X829362 http://www.openstreetmap.org/?lat=46.962645&lon=7.446563
 Bern http://www.openstreetmap.org/?lat=46.949325&lon=7.438989
-+X188261 http://www.openstreetmap.org/?lat=46.947095&lon=7.410665
-+X520338 http://www.openstreetmap.org/?lat=46.946553&lon=7.409270
-BernEuropaplatz http://www.openstreetmap.org/?lat=46.943879&lon=7.406770
-+X401539 http://www.openstreetmap.org/?lat=46.941627&lon=7.413390
-BernWeissenbuhl http://www.openstreetmap.org/?lat=46.935766&lon=7.429826
-Wabern http://www.openstreetmap.org/?lat=46.928535&lon=7.446027
-KehrsatzNord http://www.openstreetmap.org/?lat=46.915375&lon=7.466369
-Kehrsatz http://www.openstreetmap.org/?lat=46.908837&lon=7.471991
-BelpSteinbach http://www.openstreetmap.org/?lat=46.895144&lon=7.493019
++DIV_S1 http://www.openstreetmap.org/?lat=46.947095&lon=7.410665
++DIV_S5 http://www.openstreetmap.org/?lat=46.946553&lon=7.409270
+BernEur +BernEuropaplatz http://www.openstreetmap.org/?lat=46.943879&lon=7.406770
++DIV_S6 http://www.openstreetmap.org/?lat=46.941627&lon=7.413390
+BernWei +BernWeissenbuhl http://www.openstreetmap.org/?lat=46.935766&lon=7.429826
+Wab +Wabern http://www.openstreetmap.org/?lat=46.928535&lon=7.446027
+KehNord +KehrsatzNord http://www.openstreetmap.org/?lat=46.915375&lon=7.466369
+Keh +Kehrsatz http://www.openstreetmap.org/?lat=46.908837&lon=7.471991
+BelpSte +BelpSteinbach http://www.openstreetmap.org/?lat=46.895144&lon=7.493019
 Belp http://www.openstreetmap.org/?lat=46.888780&lon=7.498512

@@ -1,11 +1,11 @@
 DEU/CHE http://www.openstreetmap.org/?lat=47.609252&lon=8.234060
 +X586849 http://www.openstreetmap.org/?lat=47.604449&lon=8.236613
-+X578494 http://www.openstreetmap.org/?lat=47.601985&lon=8.228084
-Koblenz http://www.openstreetmap.org/?lat=47.600264&lon=8.227215
+DIV_Kob http://www.openstreetmap.org/?lat=47.601985&lon=8.228084
+Kob +Koblenz http://www.openstreetmap.org/?lat=47.600264&lon=8.227215
 +X160027 http://www.openstreetmap.org/?lat=47.598777&lon=8.226700
-Klingnau http://www.openstreetmap.org/?lat=47.581653&lon=8.250067
-Dottingen http://www.openstreetmap.org/?lat=47.575295&lon=8.256483
-SiggenthalWurenlingen http://www.openstreetmap.org/?lat=47.519969&lon=8.240519
-+X258715 http://www.openstreetmap.org/?lat=47.492957&lon=8.249938
-Turgi http://www.openstreetmap.org/?lat=47.491957&lon=8.252900
-Baden http://www.openstreetmap.org/?lat=47.476311&lon=8.307488
+Kli +Klingnau http://www.openstreetmap.org/?lat=47.581653&lon=8.250067
+Dot +Dottingen http://www.openstreetmap.org/?lat=47.575295&lon=8.256483
+SigWur +SiggenthalWurenlingen http://www.openstreetmap.org/?lat=47.519969&lon=8.240519
++DIV_S23 http://www.openstreetmap.org/?lat=47.492957&lon=8.249938
+Tur +Turgi http://www.openstreetmap.org/?lat=47.491957&lon=8.252900
+Bad +Baden http://www.openstreetmap.org/?lat=47.476311&lon=8.307488

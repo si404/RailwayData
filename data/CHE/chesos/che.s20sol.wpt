@@ -1,30 +1,30 @@
-Biel/Bienne http://www.openstreetmap.org/?lat=47.132582&lon=7.242726
-+X173828 http://www.openstreetmap.org/?lat=47.130108&lon=7.251964
+Biel/Bie +Biel/Bienne http://www.openstreetmap.org/?lat=47.132582&lon=7.242726
++DIV_S3 http://www.openstreetmap.org/?lat=47.130108&lon=7.251964
 +X228128 http://www.openstreetmap.org/?lat=47.133323&lon=7.258058
-BienneMacheBielMett http://www.openstreetmap.org/?lat=47.144649&lon=7.272520
-BozingenfeldChampsBoujean http://www.openstreetmap.org/?lat=47.158366&lon=7.294664
-Pieterlen http://www.openstreetmap.org/?lat=47.171380&lon=7.340240
-Lengnau http://www.openstreetmap.org/?lat=47.179285&lon=7.366762
-+X386904 http://www.openstreetmap.org/?lat=47.181765&lon=7.372169
+BieMac/BielMett +BienneMacheBielMett http://www.openstreetmap.org/?lat=47.144649&lon=7.272520
+Boz/ChaBou +BozingenfeldChampsBoujean http://www.openstreetmap.org/?lat=47.158366&lon=7.294664
+Pie +Pieterlen http://www.openstreetmap.org/?lat=47.171380&lon=7.340240
+Len +Lengnau http://www.openstreetmap.org/?lat=47.179285&lon=7.366762
++DIV_IC51 http://www.openstreetmap.org/?lat=47.181765&lon=7.372169
 +X780833 http://www.openstreetmap.org/?lat=47.187336&lon=7.385130
-GrenchenSud http://www.openstreetmap.org/?lat=47.188692&lon=7.398262
-Selzach http://www.openstreetmap.org/?lat=47.200590&lon=7.456713
-SolothurnAllmend http://www.openstreetmap.org/?lat=47.208804&lon=7.521493
-+X764301 http://www.openstreetmap.org/?lat=47.208236&lon=7.529047
-SolothurnWest http://www.openstreetmap.org/?lat=47.206559&lon=7.531943
-+X921770 http://www.openstreetmap.org/?lat=47.203502&lon=7.538928
-Solothurn http://www.openstreetmap.org/?lat=47.204019&lon=7.542726
-+X369235 http://www.openstreetmap.org/?lat=47.205774&lon=7.555311
-LutterbachAttisholz http://www.openstreetmap.org/?lat=47.217251&lon=7.583528
-Deitingen http://www.openstreetmap.org/?lat=47.218358&lon=7.619019
-WangenAare http://www.openstreetmap.org/?lat=47.231765&lon=7.656441
-+X960398 http://www.openstreetmap.org/?lat=47.268798&lon=7.693262
-Niederbipp http://www.openstreetmap.org/?lat=47.270457&lon=7.695065
-Oensingen http://www.openstreetmap.org/?lat=47.285026&lon=7.709763
-Oberbuchsiten http://www.openstreetmap.org/?lat=47.305062&lon=7.771711
-Egerkingen http://www.openstreetmap.org/?lat=47.314781&lon=7.799263
-Hagendorf http://www.openstreetmap.org/?lat=47.330112&lon=7.843766
-Wangen http://www.openstreetmap.org/?lat=47.341222&lon=7.868400
-OltenHammer http://www.openstreetmap.org/?lat=47.348433&lon=7.897797
-+X572598 http://www.openstreetmap.org/?lat=47.347845&lon=7.907109
-Olten http://www.openstreetmap.org/?lat=47.351923&lon=7.907925
+GreSud +GrenchenSud http://www.openstreetmap.org/?lat=47.188692&lon=7.398262
+Sel +Selzach http://www.openstreetmap.org/?lat=47.200590&lon=7.456713
+SolAll +SolothurnAllmend http://www.openstreetmap.org/?lat=47.208804&lon=7.521493
++DIV_S21 http://www.openstreetmap.org/?lat=47.208236&lon=7.529047
+SolWest +SolothurnWest http://www.openstreetmap.org/?lat=47.206559&lon=7.531943
++DIV_S44 http://www.openstreetmap.org/?lat=47.203502&lon=7.538928
+Sol +Solothurn http://www.openstreetmap.org/?lat=47.204019&lon=7.542726
++DIV_IC5 http://www.openstreetmap.org/?lat=47.205774&lon=7.555311
+LutAtt +LutterbachAttisholz http://www.openstreetmap.org/?lat=47.217251&lon=7.583528
+Dei +Deitingen http://www.openstreetmap.org/?lat=47.218358&lon=7.619019
+WanAare +WangenAare http://www.openstreetmap.org/?lat=47.231765&lon=7.656441
++DIV_413 http://www.openstreetmap.org/?lat=47.268798&lon=7.693262
+Nie +Niederbipp http://www.openstreetmap.org/?lat=47.270457&lon=7.695065
+Oen +Oensingen http://www.openstreetmap.org/?lat=47.285026&lon=7.709763
+Obe +Oberbuchsiten http://www.openstreetmap.org/?lat=47.305062&lon=7.771711
+Ege +Egerkingen http://www.openstreetmap.org/?lat=47.314781&lon=7.799263
+Hag +Hagendorf http://www.openstreetmap.org/?lat=47.330112&lon=7.843766
+Wan +Wangen http://www.openstreetmap.org/?lat=47.341222&lon=7.868400
+OltHam +OltenHammer http://www.openstreetmap.org/?lat=47.348433&lon=7.897797
++DIV_S23 http://www.openstreetmap.org/?lat=47.347845&lon=7.907109
+Olt +Olten http://www.openstreetmap.org/?lat=47.351923&lon=7.907925
