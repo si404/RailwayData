@@ -1,22 +1,22 @@
 CHE/AUT http://www.openstreetmap.org/?lat=47.447695&lon=9.657884
 +X723328 http://www.openstreetmap.org/?lat=47.446389&lon=9.663377
-Lustenau http://www.openstreetmap.org/?lat=47.450568&lon=9.667454
-HardFussach http://www.openstreetmap.org/?lat=47.479900&lon=9.689684
-+LauterachUnterfeld http://www.openstreetmap.org/?lat=47.480799&lon=9.715734
-+X843433 http://www.openstreetmap.org/?lat=47.480973&lon=9.719381
-Lauterach http://www.openstreetmap.org/?lat=47.477699&lon=9.724263
-Wolfurt http://www.openstreetmap.org/?lat=47.457069&lon=9.741096
-SchwarzachVorarlberg http://www.openstreetmap.org/?lat=47.446012&lon=9.754400
-Haselstauden http://www.openstreetmap.org/?lat=47.432718&lon=9.749250
-Dornbirn http://www.openstreetmap.org/?lat=47.417591&lon=9.738693
-DornbirnSchoren http://www.openstreetmap.org/?lat=47.413264&lon=9.726806
-+Hatlerdorf http://www.openstreetmap.org/?lat=47.398647&lon=9.724874
-Hohenems http://www.openstreetmap.org/?lat=47.364914&lon=9.681294
-+Altach http://www.openstreetmap.org/?lat=47.352366&lon=9.661660
-Gotzis http://www.openstreetmap.org/?lat=47.336663&lon=9.636641
-KlausVorarlberg http://www.openstreetmap.org/?lat=47.308576&lon=9.624517
-+SuizRothis http://www.openstreetmap.org/?lat=47.294345&lon=9.634581
-Rankweil http://www.openstreetmap.org/?lat=47.271964&lon=9.637671
-+FeldkirchAmberg http://www.openstreetmap.org/?lat=47.255735&lon=9.621706
-+X525363 http://www.openstreetmap.org/?lat=47.250295&lon=9.616513
-Feldkirch http://www.openstreetmap.org/?lat=47.240885&lon=9.604239
+Lus +Lustenau http://www.openstreetmap.org/?lat=47.450568&lon=9.667454
+HardFus +HardFussach http://www.openstreetmap.org/?lat=47.479900&lon=9.689684
++SKIP_LauUnt http://www.openstreetmap.org/?lat=47.480799&lon=9.715734
++DIV_S1S3 http://www.openstreetmap.org/?lat=47.481162&lon=9.722857
+Lau +Lauterach http://www.openstreetmap.org/?lat=47.477699&lon=9.724263
+Wol +Wolfurt http://www.openstreetmap.org/?lat=47.457069&lon=9.741096
+SchVor +SchwarzachVorarlberg http://www.openstreetmap.org/?lat=47.446012&lon=9.754400
+Has +Haselstauden http://www.openstreetmap.org/?lat=47.432718&lon=9.749250
+Dor +Dornbirn http://www.openstreetmap.org/?lat=47.417591&lon=9.738693
+DorSch +DornbirnSchoren http://www.openstreetmap.org/?lat=47.413264&lon=9.726806
++SKIP_Hat http://www.openstreetmap.org/?lat=47.398647&lon=9.724874
+Hoh +Hohenems http://www.openstreetmap.org/?lat=47.364914&lon=9.681294
++SKIP_Alt http://www.openstreetmap.org/?lat=47.352366&lon=9.661660
+Got +Gotzis http://www.openstreetmap.org/?lat=47.336663&lon=9.636641
+KlaVor +KlausVorarlberg http://www.openstreetmap.org/?lat=47.308576&lon=9.624517
++SKIP_SuizRot http://www.openstreetmap.org/?lat=47.294345&lon=9.634581
+Ran +Rankweil http://www.openstreetmap.org/?lat=47.271964&lon=9.637671
++SKIP_FelAmb http://www.openstreetmap.org/?lat=47.255735&lon=9.621706
++DIV_S2 http://www.openstreetmap.org/?lat=47.250295&lon=9.616513
+Fel +Feldkirch http://www.openstreetmap.org/?lat=47.240885&lon=9.604239

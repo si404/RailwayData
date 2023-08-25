@@ -1,14 +1,13 @@
-Bellizona http://www.openstreetmap.org/?lat=46.195020&lon=9.029238
-Giubiasco http://www.openstreetmap.org/?lat=46.173984&lon=9.003510
-+X890169 http://www.openstreetmap.org/?lat=46.171328&lon=8.999455
-+X843889 http://www.openstreetmap.org/?lat=46.166115&lon=8.990035
-+X405622 http://www.openstreetmap.org/?lat=46.161869&lon=8.977911
-SanAntonino http://www.openstreetmap.org/?lat=46.158863&lon=8.969049
-Cadenazzo http://www.openstreetmap.org/?lat=46.152732&lon=8.941734
-+X490770 http://www.openstreetmap.org/?lat=46.154582&lon=8.919053
-+Quartino http://www.openstreetmap.org/?lat=46.151193&lon=8.887339
-MagadinoVira http://www.openstreetmap.org/?lat=46.145128&lon=8.850131
-SanNazzaro http://www.openstreetmap.org/?lat=46.135107&lon=8.807173
-Gerra http://www.openstreetmap.org/?lat=46.121961&lon=8.785114
-RanzoSanAbbondio http://www.openstreetmap.org/?lat=46.117082&lon=8.776617
+Bel +Bellizona http://www.openstreetmap.org/?lat=46.195020&lon=9.029238
+Giu +Giubiasco http://www.openstreetmap.org/?lat=46.173984&lon=9.003510
++DIV_S90 http://www.openstreetmap.org/?lat=46.171328&lon=8.999455
++DIV_S10 http://www.openstreetmap.org/?lat=46.163158&lon=8.985100
+SanAnt +SanAntonino http://www.openstreetmap.org/?lat=46.158863&lon=8.969049
+Cad +Cadenazzo http://www.openstreetmap.org/?lat=46.152732&lon=8.941734
++DIV_S20 http://www.openstreetmap.org/?lat=46.154582&lon=8.919053
++SKIP_Qua http://www.openstreetmap.org/?lat=46.151193&lon=8.887339
+MagVira +MagadinoVira http://www.openstreetmap.org/?lat=46.145128&lon=8.850131
+SanNaz +SanNazzaro http://www.openstreetmap.org/?lat=46.135107&lon=8.807173
+Ger +Gerra http://www.openstreetmap.org/?lat=46.121961&lon=8.785114
+RanSanAbb +RanzoSanAbbondio http://www.openstreetmap.org/?lat=46.117082&lon=8.776617
 CHE/ITA http://www.openstreetmap.org/?lat=46.103664&lon=8.756747

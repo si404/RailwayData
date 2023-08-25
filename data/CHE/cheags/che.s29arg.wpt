@@ -1,37 +1,37 @@
-Turgi http://www.openstreetmap.org/?lat=47.491957&lon=8.252900
-+X258715 http://www.openstreetmap.org/?lat=47.492957&lon=8.249938
-Brugg http://www.openstreetmap.org/?lat=47.480661&lon=8.208997
-+X395396 http://www.openstreetmap.org/?lat=47.478334&lon=8.206315
+Tur +Turgi http://www.openstreetmap.org/?lat=47.491957&lon=8.252900
++DIV_S27 http://www.openstreetmap.org/?lat=47.492957&lon=8.249938
+Bru +Brugg http://www.openstreetmap.org/?lat=47.480661&lon=8.208997
++DIV_S25 http://www.openstreetmap.org/?lat=47.478334&lon=8.206315
 +X993965 http://www.openstreetmap.org/?lat=47.460318&lon=8.169322
-SchinznachBad http://www.openstreetmap.org/?lat=47.451508&lon=8.166972
-Holderbank http://www.openstreetmap.org/?lat=47.428653&lon=8.166618
-Wildegg http://www.openstreetmap.org/?lat=47.415598&lon=8.163164
-+X935869 http://www.openstreetmap.org/?lat=47.404181&lon=8.132200
-Rupperswil http://www.openstreetmap.org/?lat=47.403396&lon=8.127115
-+X653729 http://www.openstreetmap.org/?lat=47.393977&lon=8.064179
-+AarauTorfeld http://www.openstreetmap.org/?lat=47.393679&lon=8.062527
-Aarau http://www.openstreetmap.org/?lat=47.391181&lon=8.051412
-+X965894 http://www.openstreetmap.org/?lat=47.383023&lon=8.021779
-+Schonenwerd http://www.openstreetmap.org/?lat=47.371283&lon=7.999978
-+X244763 http://www.openstreetmap.org/?lat=47.361545&lon=7.991996
-+Daniken http://www.openstreetmap.org/?lat=47.356400&lon=7.978520
+Sch +SchinznachBad http://www.openstreetmap.org/?lat=47.451508&lon=8.166972
+Hol +Holderbank http://www.openstreetmap.org/?lat=47.428653&lon=8.166618
+Wil +Wildegg http://www.openstreetmap.org/?lat=47.415598&lon=8.163164
++DIV_S26 http://www.openstreetmap.org/?lat=47.404181&lon=8.132200
+Rup +Rupperswil http://www.openstreetmap.org/?lat=47.403396&lon=8.127115
++DIV_S14 http://www.openstreetmap.org/?lat=47.393977&lon=8.064179
++SKIP_AarTor http://www.openstreetmap.org/?lat=47.393679&lon=8.062527
+Aar +Aarau http://www.openstreetmap.org/?lat=47.391181&lon=8.051412
++DIV_SchN http://www.openstreetmap.org/?lat=47.383023&lon=8.021779
++SKIP_Sch http://www.openstreetmap.org/?lat=47.371283&lon=7.999978
++DIV_SchS http://www.openstreetmap.org/?lat=47.361545&lon=7.991996
++SKIP_Dan http://www.openstreetmap.org/?lat=47.356400&lon=7.978520
 +X691266 http://www.openstreetmap.org/?lat=47.350236&lon=7.959337
-+Dulliken http://www.openstreetmap.org/?lat=47.354016&lon=7.946634
++SKIP_Dul http://www.openstreetmap.org/?lat=47.354016&lon=7.946634
 +X994743 http://www.openstreetmap.org/?lat=47.360150&lon=7.922559
-+X495698 http://www.openstreetmap.org/?lat=47.359947&lon=7.916293
-Olten http://www.openstreetmap.org/?lat=47.351923&lon=7.907925
-+X572598 http://www.openstreetmap.org/?lat=47.347845&lon=7.907109
-+X960578 http://www.openstreetmap.org/?lat=47.344021&lon=7.908161
-AarburgOftringen http://www.openstreetmap.org/?lat=47.320360&lon=7.908332
-+X889203 http://www.openstreetmap.org/?lat=47.318658&lon=7.910349
++DIV_S3 http://www.openstreetmap.org/?lat=47.359947&lon=7.916293
+Olt +Olten http://www.openstreetmap.org/?lat=47.351923&lon=7.907925
++DIV_S20 http://www.openstreetmap.org/?lat=47.347845&lon=7.907109
++DIV_AarN http://www.openstreetmap.org/?lat=47.344021&lon=7.908161
+AarOft +AarburgOftringen http://www.openstreetmap.org/?lat=47.320360&lon=7.908332
++DIV_S23 http://www.openstreetmap.org/?lat=47.318658&lon=7.910349
 +X446335 http://www.openstreetmap.org/?lat=47.313886&lon=7.916443
-+X746147 http://www.openstreetmap.org/?lat=47.291558&lon=7.939939
-Zofingen http://www.openstreetmap.org/?lat=47.288006&lon=7.942901
-BrittnauWikon http://www.openstreetmap.org/?lat=47.261655&lon=7.957792
-Reiden http://www.openstreetmap.org/?lat=47.241352&lon=7.968822
-Dagmersellen http://www.openstreetmap.org/?lat=47.217571&lon=7.978907
-Nebikon http://www.openstreetmap.org/?lat=47.192352&lon=7.977576
++DIV_S28 http://www.openstreetmap.org/?lat=47.291558&lon=7.939939
+Zof +Zofingen http://www.openstreetmap.org/?lat=47.288006&lon=7.942901
+BriWik +BrittnauWikon http://www.openstreetmap.org/?lat=47.261655&lon=7.957792
+Rei +Reiden http://www.openstreetmap.org/?lat=47.241352&lon=7.968822
+Dag +Dagmersellen http://www.openstreetmap.org/?lat=47.217571&lon=7.978907
+Neb +Nebikon http://www.openstreetmap.org/?lat=47.192352&lon=7.977576
 +X287341 http://www.openstreetmap.org/?lat=47.184156&lon=7.982554
-Wauwil http://www.openstreetmap.org/?lat=47.183865&lon=8.019075
+Wau +Wauwil http://www.openstreetmap.org/?lat=47.183865&lon=8.019075
 +X953809 http://www.openstreetmap.org/?lat=47.173626&lon=8.095765
-Sursee http://www.openstreetmap.org/?lat=47.170701&lon=8.097761
+Sur +Sursee http://www.openstreetmap.org/?lat=47.170701&lon=8.097761

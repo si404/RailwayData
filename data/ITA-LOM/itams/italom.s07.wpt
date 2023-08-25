@@ -1,33 +1,34 @@
-Lecco http://www.openstreetmap.org/?lat=45.856431&lon=9.393740
-+X670318 http://www.openstreetmap.org/?lat=45.849982&lon=9.398932
-Valmadrera http://www.openstreetmap.org/?lat=45.846395&lon=9.368205
-Civate http://www.openstreetmap.org/?lat=45.831296&lon=9.352841
-SalaBarroGalbiate http://www.openstreetmap.org/?lat=45.821069&lon=9.359193
+Lec +Lecco http://www.openstreetmap.org/?lat=45.856431&lon=9.393740
++DIV_S8N http://www.openstreetmap.org/?lat=45.849982&lon=9.398932
+Val +Valmadrera http://www.openstreetmap.org/?lat=45.846395&lon=9.368205
+Civ +Civate http://www.openstreetmap.org/?lat=45.831296&lon=9.352841
+SalaBarGal +SalaBarroGalbiate http://www.openstreetmap.org/?lat=45.821069&lon=9.359193
 +X105687 http://www.openstreetmap.org/?lat=45.796030&lon=9.354944
-Oggiono http://www.openstreetmap.org/?lat=45.788938&lon=9.337392
-Molteno http://www.openstreetmap.org/?lat=45.780918&lon=9.301815
+Ogg +Oggiono http://www.openstreetmap.org/?lat=45.788938&lon=9.337392
+Mol +Molteno http://www.openstreetmap.org/?lat=45.780918&lon=9.301815
 +X690506 http://www.openstreetmap.org/?lat=45.780918&lon=9.298382
-CostaMasnaga http://www.openstreetmap.org/?lat=45.763257&lon=9.284778
-CassagoNibionnoBulciago http://www.openstreetmap.org/?lat=45.746219&lon=9.279799
-RenateVeduggio http://www.openstreetmap.org/?lat=45.728307&lon=9.279799
+CosMas +CostaMasnaga http://www.openstreetmap.org/?lat=45.763257&lon=9.284778
+CasNibBul +CassagoNibionnoBulciago http://www.openstreetmap.org/?lat=45.746219&lon=9.279799
+RenVed +RenateVeduggio http://www.openstreetmap.org/?lat=45.728307&lon=9.279799
 +X207196 http://www.openstreetmap.org/?lat=45.707513&lon=9.290056
-Besana http://www.openstreetmap.org/?lat=45.702748&lon=9.282846
+Bes +Besana http://www.openstreetmap.org/?lat=45.702748&lon=9.282846
 +X940374 http://www.openstreetmap.org/?lat=45.699061&lon=9.265723
-VillaRaverio http://www.openstreetmap.org/?lat=45.690338&lon=9.261560
-CarateCalo http://www.openstreetmap.org/?lat=45.676397&lon=9.252334
-TriuggioPonteAlbiate http://www.openstreetmap.org/?lat=45.659077&lon=9.266882
-MacherioCanonica http://www.openstreetmap.org/?lat=45.645503&lon=9.286709
-BiassonoLesmoParco http://www.openstreetmap.org/?lat=45.632203&lon=9.298382
-Buttafava http://www.openstreetmap.org/?lat=45.621339&lon=9.301193
+VilRav +VillaRaverio http://www.openstreetmap.org/?lat=45.690338&lon=9.261560
+CarCalo +CarateCalo http://www.openstreetmap.org/?lat=45.676397&lon=9.252334
+TriPonAlb +TriuggioPonteAlbiate http://www.openstreetmap.org/?lat=45.659077&lon=9.266882
+MacCan +MacherioCanonica http://www.openstreetmap.org/?lat=45.645503&lon=9.286709
+BiaLesPar +BiassonoLesmoParco http://www.openstreetmap.org/?lat=45.632203&lon=9.298382
+But +Buttafava http://www.openstreetmap.org/?lat=45.621339&lon=9.301193
 +X441999 http://www.openstreetmap.org/?lat=45.608371&lon=9.310827
-+X713238 http://www.openstreetmap.org/?lat=45.605369&lon=9.306579
-Villasanta http://www.openstreetmap.org/?lat=45.603372&lon=9.304926
-MonzaSobborghi http://www.openstreetmap.org/?lat=45.582141&lon=9.284520
-+X712043 http://www.openstreetmap.org/?lat=45.578912&lon=9.273834
-Monza http://www.openstreetmap.org/?lat=45.577801&lon=9.273276
-SestoSanGiovanni http://www.openstreetmap.org/?lat=45.540999&lon=9.239287
-MilanoGrecoPirelli http://www.openstreetmap.org/?lat=45.512527&lon=9.214396
-+X835191 http://www.openstreetmap.org/?lat=45.509738&lon=9.212465
++DIV_S8S http://www.openstreetmap.org/?lat=45.605369&lon=9.306579
+Vil +Villasanta http://www.openstreetmap.org/?lat=45.603372&lon=9.304926
+MonSob +MonzaSobborghi http://www.openstreetmap.org/?lat=45.582141&lon=9.284520
++DIV_S9N http://www.openstreetmap.org/?lat=45.578912&lon=9.273834
+Mon +Monza http://www.openstreetmap.org/?lat=45.577801&lon=9.273276
+SesSanGio +SestoSanGiovanni http://www.openstreetmap.org/?lat=45.540999&lon=9.239287
+MilGrePir +MilanoGrecoPirelli http://www.openstreetmap.org/?lat=45.512527&lon=9.214396
++DIV_S9S http://www.openstreetmap.org/?lat=45.509738&lon=9.212465
 +X230096 http://www.openstreetmap.org/?lat=45.504625&lon=9.208388
 +X932502 http://www.openstreetmap.org/?lat=45.497902&lon=9.203260
-PortaGaribaldi http://www.openstreetmap.org/?lat=45.484409&lon=9.187424
++X922041 http://www.openstreetmap.org/?lat=45.484526&lon=9.192960
+MilPorGar +PortaGaribaldi http://www.openstreetmap.org/?lat=45.484409&lon=9.187424

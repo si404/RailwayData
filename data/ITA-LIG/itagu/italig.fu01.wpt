@@ -1,40 +1,42 @@
-Savona http://www.openstreetmap.org/?lat=44.307159&lon=8.469729
-+X119246 http://www.openstreetmap.org/?lat=44.318951&lon=8.471489
-Albisola http://www.openstreetmap.org/?lat=44.334639&lon=8.511701
-Celle http://www.openstreetmap.org/?lat=44.342466&lon=8.542643
-Varazze http://www.openstreetmap.org/?lat=44.356613&lon=8.566332
-Cogoleto http://www.openstreetmap.org/?lat=44.389735&lon=8.643858
-Arenzano http://www.openstreetmap.org/?lat=44.403001&lon=8.678094
-GenovaVesima http://www.openstreetmap.org/?lat=44.416172&lon=8.714046
-GenovaVoltri http://www.openstreetmap.org/?lat=44.428379&lon=8.758357
+Sav +Savona http://www.openstreetmap.org/?lat=44.307159&lon=8.469729
++DIV_Tor http://www.openstreetmap.org/?lat=44.318951&lon=8.471489
+Alb +Albisola http://www.openstreetmap.org/?lat=44.334639&lon=8.511701
+Cel +Celle http://www.openstreetmap.org/?lat=44.342466&lon=8.542643
+Var +Varazze http://www.openstreetmap.org/?lat=44.356613&lon=8.566332
+Cog +Cogoleto http://www.openstreetmap.org/?lat=44.389735&lon=8.643858
+Are +Arenzano http://www.openstreetmap.org/?lat=44.403001&lon=8.678094
+GenVes +GenovaVesima http://www.openstreetmap.org/?lat=44.416172&lon=8.714046
+GenVol +GenovaVoltri http://www.openstreetmap.org/?lat=44.428379&lon=8.758357
 +X374568 http://www.openstreetmap.org/?lat=44.426850&lon=8.776778
-GenovaPra http://www.openstreetmap.org/?lat=44.425314&lon=8.789127
-GenovaPegli http://www.openstreetmap.org/?lat=44.426249&lon=8.816893
-GenovaSestriPonenteAeroporto http://www.openstreetmap.org/?lat=44.422325&lon=8.848114
-GenovaCornigliano http://www.openstreetmap.org/?lat=44.414770&lon=8.865044
+GenPra +GenovaPra http://www.openstreetmap.org/?lat=44.425314&lon=8.789127
+GenPeg +GenovaPegli http://www.openstreetmap.org/?lat=44.426249&lon=8.816893
+GenSesPonAer +GenovaSestriPonenteAeroporto http://www.openstreetmap.org/?lat=44.422325&lon=8.848114
+GenCor +GenovaCornigliano http://www.openstreetmap.org/?lat=44.414770&lon=8.865044
 +X244366 http://www.openstreetmap.org/?lat=44.413605&lon=8.882468
-GenovaSampierdarena http://www.openstreetmap.org/?lat=44.412808&lon=8.887274
-+X425738 http://www.openstreetmap.org/?lat=44.408934&lon=8.899012
-GenovaViaDiFrancia http://www.openstreetmap.org/?lat=44.409466&lon=8.901093
-GenovaPiazzaPrincipe http://www.openstreetmap.org/?lat=44.417425&lon=8.920823
-+X478947 http://www.openstreetmap.org/?lat=44.418007&lon=8.925930
-+X129810 http://www.openstreetmap.org/?lat=44.415444&lon=8.934760
-GenovaBrignole http://www.openstreetmap.org/?lat=44.406799&lon=8.947442
-GenovaSturla http://www.openstreetmap.org/?lat=44.397869&lon=8.981409
-GenovaQuartoMille http://www.openstreetmap.org/?lat=44.388547&lon=8.995786
-GenovaQuintoMare http://www.openstreetmap.org/?lat=44.385112&lon=9.020505
-GenovaNervi http://www.openstreetmap.org/?lat=44.381064&lon=9.039903
-Bogliasco http://www.openstreetmap.org/?lat=44.379100&lon=9.066167
-Pontetto http://www.openstreetmap.org/?lat=44.377229&lon=9.076810
-PieveLigure http://www.openstreetmap.org/?lat=44.372567&lon=9.090972
+GenSam +GenovaSampierdarena http://www.openstreetmap.org/?lat=44.412808&lon=8.887274
++DIV_FU2 http://www.openstreetmap.org/?lat=44.408934&lon=8.899012
+GenViaDiFra +GenovaViaDiFrancia http://www.openstreetmap.org/?lat=44.409466&lon=8.901093
++X855608 http://www.openstreetmap.org/?lat=44.415034&lon=8.918506
+GenPiaPri +GenovaPiazzaPrincipe http://www.openstreetmap.org/?lat=44.417425&lon=8.920823
++X478947 http://www.openstreetmap.org/?lat=44.418257&lon=8.925169
++DIV_FU3 http://www.openstreetmap.org/?lat=44.415394&lon=8.934942
++X748218 http://www.openstreetmap.org/?lat=44.413980&lon=8.939792
+GenBri +GenovaBrignole http://www.openstreetmap.org/?lat=44.406799&lon=8.947442
+GenStu +GenovaSturla http://www.openstreetmap.org/?lat=44.397869&lon=8.981409
+GenQuaMil +GenovaQuartoMille http://www.openstreetmap.org/?lat=44.388547&lon=8.995786
+GenQuiMare +GenovaQuintoMare http://www.openstreetmap.org/?lat=44.385112&lon=9.020505
+GenNer +GenovaNerve http://www.openstreetmap.org/?lat=44.381064&lon=9.039903
+Bog +Bogliasco http://www.openstreetmap.org/?lat=44.379100&lon=9.066167
+Pon +Pontetto http://www.openstreetmap.org/?lat=44.377229&lon=9.076810
+PieLig +PieveLigure http://www.openstreetmap.org/?lat=44.372567&lon=9.090972
 Sori http://www.openstreetmap.org/?lat=44.369652&lon=9.105949
-Mulinetti http://www.openstreetmap.org/?lat=44.362197&lon=9.130325
-Recco http://www.openstreetmap.org/?lat=44.361062&lon=9.146848
-Camogli http://www.openstreetmap.org/?lat=44.348082&lon=9.156675
-SantaMargheritaLigurePortofino http://www.openstreetmap.org/?lat=44.336642&lon=9.216864
-Rapallo http://www.openstreetmap.org/?lat=44.351293&lon=9.231337
-Zaogli http://www.openstreetmap.org/?lat=44.335337&lon=9.269178
-Chiavari http://www.openstreetmap.org/?lat=44.315090&lon=9.322436
-Lavagna http://www.openstreetmap.org/?lat=44.305585&lon=9.346426
+Mul +Mulinetti http://www.openstreetmap.org/?lat=44.362197&lon=9.130325
+Rec +Recco http://www.openstreetmap.org/?lat=44.361062&lon=9.146848
+Cam +Camogli http://www.openstreetmap.org/?lat=44.348082&lon=9.156675
+SanMarLigPor +SantaMargheritaLigurePortofino http://www.openstreetmap.org/?lat=44.336642&lon=9.216864
+Rap +Rapallo http://www.openstreetmap.org/?lat=44.351293&lon=9.231337
+Zao +Zaogli http://www.openstreetmap.org/?lat=44.335337&lon=9.269178
+Chi +Chiavari http://www.openstreetmap.org/?lat=44.315090&lon=9.322436
+Lav +Lavagna http://www.openstreetmap.org/?lat=44.305585&lon=9.346426
 Cavi http://www.openstreetmap.org/?lat=44.293499&lon=9.372497
-SestriLevante http://www.openstreetmap.org/?lat=44.276233&lon=9.397602
+SesLev +SestriLevante http://www.openstreetmap.org/?lat=44.276233&lon=9.397602

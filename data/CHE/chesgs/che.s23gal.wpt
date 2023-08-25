@@ -1,20 +1,20 @@
-Gossau http://www.openstreetmap.org/?lat=47.411696&lon=9.253106
-+X225162 http://www.openstreetmap.org/?lat=47.411826&lon=9.260316
+Gos +Gossau http://www.openstreetmap.org/?lat=47.411696&lon=9.253106
++DIV_S1 http://www.openstreetmap.org/?lat=47.411826&lon=9.260316
 +X864385 http://www.openstreetmap.org/?lat=47.397180&lon=9.291945
 +X850544 http://www.openstreetmap.org/?lat=47.393447&lon=9.286451
-Herisau http://www.openstreetmap.org/?lat=47.390077&lon=9.276752
-Wilen http://www.openstreetmap.org/?lat=47.375621&lon=9.279199
-Waldstatt http://www.openstreetmap.org/?lat=47.357555&lon=9.286280
-Zurchersmuhle http://www.openstreetmap.org/?lat=47.330199&lon=9.292760
-Urnasch http://www.openstreetmap.org/?lat=47.317807&lon=9.285507
-+SkiliftBommeli http://www.openstreetmap.org/?lat=47.321909&lon=9.308167
+Her +Herisau http://www.openstreetmap.org/?lat=47.390077&lon=9.276752
+Wil +Wilen http://www.openstreetmap.org/?lat=47.375621&lon=9.279199
+Wal +Waldstatt http://www.openstreetmap.org/?lat=47.357555&lon=9.286280
+Zur +Zurchersmuhle http://www.openstreetmap.org/?lat=47.330199&lon=9.292760
+Urn +Urnasch http://www.openstreetmap.org/?lat=47.317807&lon=9.285507
++SKIP_SkiBom http://www.openstreetmap.org/?lat=47.321909&lon=9.308167
 Jakobsbad http://www.openstreetmap.org/?lat=47.320025&lon=9.328465
-+SkiliftAlpsteinblick http://www.openstreetmap.org/?lat=47.321291&lon=9.337435
-Gonten http://www.openstreetmap.org/?lat=47.328098&lon=9.347391
-Gontenbad http://www.openstreetmap.org/?lat=47.331621&lon=9.372325
-Appenzell http://www.openstreetmap.org/?lat=47.328432&lon=9.409597
-+X474197 http://www.openstreetmap.org/?lat=47.327850&lon=9.413352
-Steinegg http://www.openstreetmap.org/?lat=47.320571&lon=9.430389
-Weissbad http://www.openstreetmap.org/?lat=47.310533&lon=9.435883
-Schwende http://www.openstreetmap.org/?lat=47.300115&lon=9.435711
-Wasserauen http://www.openstreetmap.org/?lat=47.285561&lon=9.428630
++SKIP_SkiAlp http://www.openstreetmap.org/?lat=47.321291&lon=9.337435
+Gont +Gonten http://www.openstreetmap.org/?lat=47.328098&lon=9.347391
+Gonb +Gontenbad http://www.openstreetmap.org/?lat=47.331621&lon=9.372325
+App +Appenzell http://www.openstreetmap.org/?lat=47.328432&lon=9.409597
++DIV_S20 http://www.openstreetmap.org/?lat=47.327850&lon=9.413352
+Ste +Steinegg http://www.openstreetmap.org/?lat=47.320571&lon=9.430389
+Wei +Weissbad http://www.openstreetmap.org/?lat=47.310533&lon=9.435883
+Sch +Schwende http://www.openstreetmap.org/?lat=47.300115&lon=9.435711
+Was +Wasserauen http://www.openstreetmap.org/?lat=47.285561&lon=9.428630

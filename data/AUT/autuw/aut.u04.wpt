@@ -1,25 +1,23 @@
-WienHutteldorf http://www.openstreetmap.org/?lat=48.197225&lon=16.261246
+WienHut +WienHutteldorf http://www.openstreetmap.org/?lat=48.197225&lon=16.261246
 OberStVeit http://www.openstreetmap.org/?lat=48.192248&lon=16.276181
-UnterStVeit http://www.openstreetmap.org/?lat=48.191046&lon=16.286330
-Braunschweiggasse http://www.openstreetmap.org/?lat=48.189401&lon=16.295857
-Hietzing http://www.openstreetmap.org/?lat=48.187756&lon=16.303883
-Schonbrunn http://www.openstreetmap.org/?lat=48.185996&lon=16.319096
-MeidlingHauptstrasse http://www.openstreetmap.org/?lat=48.183664&lon=16.328087
-+X331792 http://www.openstreetmap.org/?lat=48.183891&lon=16.332813
-Langenfeldgasse http://www.openstreetmap.org/?lat=48.184882&lon=16.335039
-+X777972 http://www.openstreetmap.org/?lat=48.186166&lon=16.336745
-Margaretengurtel http://www.openstreetmap.org/?lat=48.188443&lon=16.342678
-Pilgramgasse http://www.openstreetmap.org/?lat=48.192105&lon=16.354330
-Kettenbruckengasse http://www.openstreetmap.org/?lat=48.196610&lon=16.358085
-Karlsplatz http://www.openstreetmap.org/?lat=48.200915&lon=16.369436
-Stadtpark http://www.openstreetmap.org/?lat=48.202961&lon=16.379907
-WeinMitte http://www.openstreetmap.org/?lat=48.206078&lon=16.384628
-Schwedenplatz http://www.openstreetmap.org/?lat=48.211741&lon=16.377718
-Schottenring http://www.openstreetmap.org/?lat=48.217103&lon=16.371281
-RossauerLande http://www.openstreetmap.org/?lat=48.222335&lon=16.367569
-Friedensbrucke http://www.openstreetmap.org/?lat=48.227110&lon=16.364822
-Spittelau http://www.openstreetmap.org/?lat=48.235586&lon=16.358085
-+X338039 http://www.openstreetmap.org/?lat=48.242760&lon=16.363084
-+X218501 http://www.openstreetmap.org/?lat=48.244904&lon=16.364415
-+X173407 http://www.openstreetmap.org/?lat=48.246633&lon=16.364350
-WeinHeiligenstadt http://www.openstreetmap.org/?lat=48.248733&lon=16.365681
+UntStVeit +UnterStVeit http://www.openstreetmap.org/?lat=48.191046&lon=16.286330
+Bra +Braunschweiggasse http://www.openstreetmap.org/?lat=48.189401&lon=16.295857
+Hie +Hietzing http://www.openstreetmap.org/?lat=48.187756&lon=16.303883
+Sch +Schonbrunn http://www.openstreetmap.org/?lat=48.185996&lon=16.319096
+MeiHau +MeidlingHauptstrasse http://www.openstreetmap.org/?lat=48.183664&lon=16.328087
++DIV_U6S http://www.openstreetmap.org/?lat=48.183891&lon=16.332813
+Lan +Langenfeldgasse http://www.openstreetmap.org/?lat=48.184882&lon=16.335039
++DIV_U6N http://www.openstreetmap.org/?lat=48.186166&lon=16.336745
+Mar +Margaretengurtel http://www.openstreetmap.org/?lat=48.188443&lon=16.342678
+Pil +Pilgramgasse http://www.openstreetmap.org/?lat=48.192105&lon=16.354330
+Ket +Kettenbruckengasse http://www.openstreetmap.org/?lat=48.196610&lon=16.358085
+Kar +Karlsplatz http://www.openstreetmap.org/?lat=48.200915&lon=16.369436
+Sta +Stadtpark http://www.openstreetmap.org/?lat=48.202961&lon=16.379907
+WienMit +WeinMitte http://www.openstreetmap.org/?lat=48.206078&lon=16.384628
+Schw +Schwedenplatz http://www.openstreetmap.org/?lat=48.211741&lon=16.377718
+Scho +Schottenring http://www.openstreetmap.org/?lat=48.217103&lon=16.371281
+Ros +RossauerLande http://www.openstreetmap.org/?lat=48.222335&lon=16.367569
+Fri +Friedensbrucke http://www.openstreetmap.org/?lat=48.227110&lon=16.364822
+Spi +Spittelau http://www.openstreetmap.org/?lat=48.235586&lon=16.358085
++X286174 http://www.openstreetmap.org/?lat=48.244116&lon=16.364055
+WienHei +WeinHeiligenstadt http://www.openstreetmap.org/?lat=48.248733&lon=16.365681

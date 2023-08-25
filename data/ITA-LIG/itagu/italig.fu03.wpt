@@ -16,10 +16,13 @@ GenovaSanBiagio http://www.openstreetmap.org/?lat=44.482847&lon=8.899741
 GenovaBolzaneto http://www.openstreetmap.org/?lat=44.459182&lon=8.900106
 +X970771 http://www.openstreetmap.org/?lat=44.440150&lon=8.890911
 GenovaRivarolo http://www.openstreetmap.org/?lat=44.436097&lon=8.891040
-+X987540 http://www.openstreetmap.org/?lat=44.433757&lon=8.891222
++DIV_FU2 http://www.openstreetmap.org/?lat=44.433757&lon=8.891222
 +X604106 http://www.openstreetmap.org/?lat=44.417207&lon=8.885043
-GenovaSampierdarena http://www.openstreetmap.org/?lat=44.412808&lon=8.887274
-+X425738 http://www.openstreetmap.org/?lat=44.408934&lon=8.899012
-GenovaPiazzaPrincipe http://www.openstreetmap.org/?lat=44.417425&lon=8.920823
-+X129810 http://www.openstreetmap.org/?lat=44.415444&lon=8.934760
-GenovaBrignole http://www.openstreetmap.org/?lat=44.406799&lon=8.947442
+GenSam +GenovaSampierdarena http://www.openstreetmap.org/?lat=44.412808&lon=8.887274
++DIV_FU1W http://www.openstreetmap.org/?lat=44.408934&lon=8.899012
++DIV_Mil http://www.openstreetmap.org/?lat=44.416680&lon=8.915695
+GenPiaPri +GenovaPiazzaPrincipe http://www.openstreetmap.org/?lat=44.417425&lon=8.920823
++X572287 http://www.openstreetmap.org/?lat=44.417575&lon=8.927271
++DIV_FU1E http://www.openstreetmap.org/?lat=44.415394&lon=8.934942
++X748218 http://www.openstreetmap.org/?lat=44.413980&lon=8.939792
+GenBri +GenovaBrignole http://www.openstreetmap.org/?lat=44.406799&lon=8.947442

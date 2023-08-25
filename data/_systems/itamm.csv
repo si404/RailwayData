@@ -1,9 +1,8 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-itamm;ITA-LOM;M1;;;;italom.m01;
-itamm;ITA-LOM;M1;;Bis;Bisceglie branch;italom.m01bis;
-itamm;ITA-LOM;M2;;;;italom.m02;
-itamm;ITA-LOM;M2;;Abb;Abbiategrasso branch;italom.m02abb;
-itamm;ITA-LOM;M2;;Col;Cologno branch;italom.m02col;
+itamm;ITA-LOM;M1;;;Rho;italom.m01;
+itamm;ITA-LOM;M1;;Bis;Bisceglie;italom.m01bis;
+itamm;ITA-LOM;M2;;;Gessate - Assago;italom.m02;
+itamm;ITA-LOM;M2;;Abb;Cologno - Abbiategrasso;italom.m02abb;M2Col
 itamm;ITA-LOM;M3;;;;italom.m03;
 itamm;ITA-LOM;M4;;;;italom.m04;
 itamm;ITA-LOM;M5;;;;italom.m05;

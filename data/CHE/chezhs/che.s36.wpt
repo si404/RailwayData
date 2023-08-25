@@ -1,20 +1,20 @@
 DEU/CHE http://www.openstreetmap.org/?lat=47.609252&lon=8.234060
 +X586849 http://www.openstreetmap.org/?lat=47.604449&lon=8.236613
-+X578494_A http://www.openstreetmap.org/?lat=47.601985&lon=8.228084
-Koblenz http://www.openstreetmap.org/?lat=47.600264&lon=8.227215
-+X578494_B http://www.openstreetmap.org/?lat=47.601985&lon=8.228084
-KoblenzDorf http://www.openstreetmap.org/?lat=47.609375&lon=8.240089
++DIV_Dorf http://www.openstreetmap.org/?lat=47.601985&lon=8.228084
+Kob +Koblenz http://www.openstreetmap.org/?lat=47.600264&lon=8.227215
++DIV_Wal http://www.openstreetmap.org/?lat=47.601985&lon=8.228084
+KobDor +KoblenzDorf http://www.openstreetmap.org/?lat=47.609375&lon=8.240089
 +X128053 http://www.openstreetmap.org/?lat=47.613563&lon=8.255711
-Rietheim http://www.openstreetmap.org/?lat=47.600777&lon=8.277308
-BadZurzach http://www.openstreetmap.org/?lat=47.588380&lon=8.295751
-Rekingen http://www.openstreetmap.org/?lat=47.570257&lon=8.327250
-Mellikon http://www.openstreetmap.org/?lat=47.568491&lon=8.352571
-Rumikon http://www.openstreetmap.org/?lat=47.565335&lon=8.374071
+Rie +Rietheim http://www.openstreetmap.org/?lat=47.600777&lon=8.277308
+BadZur +BadZurzach http://www.openstreetmap.org/?lat=47.588380&lon=8.295751
+Rek +Rekingen http://www.openstreetmap.org/?lat=47.570257&lon=8.327250
+Mel +Mellikon http://www.openstreetmap.org/?lat=47.568491&lon=8.352571
+Rum +Rumikon http://www.openstreetmap.org/?lat=47.565335&lon=8.374071
 +X503696 http://www.openstreetmap.org/?lat=47.575064&lon=8.399434
-Kaiserstuhl http://www.openstreetmap.org/?lat=47.566667&lon=8.418617
+Kai +Kaiserstuhl http://www.openstreetmap.org/?lat=47.566667&lon=8.418617
 +X120439 http://www.openstreetmap.org/?lat=47.561208&lon=8.434196
-Zweidlen http://www.openstreetmap.org/?lat=47.570518&lon=8.467798
-+X629300 http://www.openstreetmap.org/?lat=47.573500&lon=8.511744
-Eglisau http://www.openstreetmap.org/?lat=47.572255&lon=8.516464
-+Glattfelden http://www.openstreetmap.org/?lat=47.549145&lon=8.523889
-Bulach http://www.openstreetmap.org/?lat=47.523714&lon=8.536570
+Zwe +Zweidlen http://www.openstreetmap.org/?lat=47.570518&lon=8.467798
++DIV_S9 http://www.openstreetmap.org/?lat=47.573500&lon=8.511744
+Egl +Eglisau http://www.openstreetmap.org/?lat=47.572255&lon=8.516464
++SKIP_Gla http://www.openstreetmap.org/?lat=47.549145&lon=8.523889
+Bul +Bulach http://www.openstreetmap.org/?lat=47.523714&lon=8.536570

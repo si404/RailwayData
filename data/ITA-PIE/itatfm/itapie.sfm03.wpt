@@ -1,32 +1,32 @@
 FRA/ITA http://www.openstreetmap.org/?lat=45.140111&lon=6.682048
-Bardonecchia http://www.openstreetmap.org/?lat=45.076513&lon=6.710050
-Beaulard http://www.openstreetmap.org/?lat=45.046500&lon=6.759832
-OulxCesanaClaviereSestriere http://www.openstreetmap.org/?lat=45.038847&lon=6.831372
-Salbertrand http://www.openstreetmap.org/?lat=45.073331&lon=6.887355
+Bar +Bardonecchia http://www.openstreetmap.org/?lat=45.076513&lon=6.710050
+Bea +Beaulard http://www.openstreetmap.org/?lat=45.046500&lon=6.759832
+OulxCesClaSes +OulxCesanaClaviereSestriere http://www.openstreetmap.org/?lat=45.038847&lon=6.831372
+Sal +Salbertrand http://www.openstreetmap.org/?lat=45.073331&lon=6.887355
 +X967055 http://www.openstreetmap.org/?lat=45.080324&lon=6.914349
-Exilles http://www.openstreetmap.org/?lat=45.089975&lon=6.927352
+Exi +Exilles http://www.openstreetmap.org/?lat=45.089975&lon=6.927352
 +X197885 http://www.openstreetmap.org/?lat=45.098352&lon=6.959109
-Chiomonte http://www.openstreetmap.org/?lat=45.119886&lon=6.988721
+Chi +Chiomonte http://www.openstreetmap.org/?lat=45.119886&lon=6.988721
 +X933831 http://www.openstreetmap.org/?lat=45.132361&lon=7.008934
 +X463137 http://www.openstreetmap.org/?lat=45.123248&lon=7.035971
-Meana http://www.openstreetmap.org/?lat=45.124550&lon=7.059703
+Mea +Meana http://www.openstreetmap.org/?lat=45.124550&lon=7.059703
 +X124723 http://www.openstreetmap.org/?lat=45.128259&lon=7.122917
-+X434533 http://www.openstreetmap.org/?lat=45.137985&lon=7.131608
-Bussoleno http://www.openstreetmap.org/?lat=45.139695&lon=7.144825
-+Bruzolo http://www.openstreetmap.org/?lat=45.131105&lon=7.201517
-+Borgone http://www.openstreetmap.org/?lat=45.123270&lon=7.235956
-+SantAntonioVaie http://www.openstreetmap.org/?lat=45.109552&lon=7.275867
-+CondoveChiusaSanMichele http://www.openstreetmap.org/?lat=45.106765&lon=7.317002
-+SantAmbrogio http://www.openstreetmap.org/?lat=45.101176&lon=7.361012
-Avigliana http://www.openstreetmap.org/?lat=45.085354&lon=7.400880
-Rosta http://www.openstreetmap.org/?lat=45.078233&lon=7.461691
-Alpignano http://www.openstreetmap.org/?lat=45.091119&lon=7.523789
-Collegno http://www.openstreetmap.org/?lat=45.078839&lon=7.574172
-Grugliasco http://www.openstreetmap.org/?lat=45.068118&lon=7.599299
++DIV_Susa http://www.openstreetmap.org/?lat=45.137985&lon=7.131608
+Bus +Bussoleno http://www.openstreetmap.org/?lat=45.139695&lon=7.144825
++SKIP_Bru http://www.openstreetmap.org/?lat=45.131105&lon=7.201517
++SKIP_Bor http://www.openstreetmap.org/?lat=45.123270&lon=7.235956
++SKIP_SantAntVaie http://www.openstreetmap.org/?lat=45.109552&lon=7.275867
++SKIP_ConChiSanMic http://www.openstreetmap.org/?lat=45.106765&lon=7.317002
++SKIP_SantAmb http://www.openstreetmap.org/?lat=45.101176&lon=7.361012
+Avi +Avigliana http://www.openstreetmap.org/?lat=45.085354&lon=7.400880
+Ros +Rosta http://www.openstreetmap.org/?lat=45.078233&lon=7.461691
+Alp +Alpignano http://www.openstreetmap.org/?lat=45.091119&lon=7.523789
+Col +Collegno http://www.openstreetmap.org/?lat=45.078839&lon=7.574172
+Gru +Grugliasco http://www.openstreetmap.org/?lat=45.068118&lon=7.599299
 +X922712 http://www.openstreetmap.org/?lat=45.063829&lon=7.609212
 +X579455 http://www.openstreetmap.org/?lat=45.059828&lon=7.618203
-+X344877 http://www.openstreetmap.org/?lat=45.054106&lon=7.642021
-+X724813 http://www.openstreetmap.org/?lat=45.050881&lon=7.658468
-+X651042 http://www.openstreetmap.org/?lat=45.050081&lon=7.662127
-+X272603 http://www.openstreetmap.org/?lat=45.052893&lon=7.672319
-PortaNuova http://www.openstreetmap.org/?lat=45.060904&lon=7.677534
++DIV_PS http://www.openstreetmap.org/?lat=45.054106&lon=7.642021
++DIV_S1N http://www.openstreetmap.org/?lat=45.050881&lon=7.658468
++DIV_S1S http://www.openstreetmap.org/?lat=45.050081&lon=7.662127
++DIV_Sav http://www.openstreetmap.org/?lat=45.052893&lon=7.672319
+TorPorNuo +PortaNuova http://www.openstreetmap.org/?lat=45.060904&lon=7.677534

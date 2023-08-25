@@ -1,36 +1,36 @@
-NapoliPortaNolana http://www.openstreetmap.org/?lat=40.849069&lon=14.268762
-NapoliGaribaldi http://www.openstreetmap.org/?lat=40.852409&lon=14.270511
-+X570756 http://www.openstreetmap.org/?lat=40.851203&lon=14.278708
+NapPorNol +NapoliPortaNolana http://www.openstreetmap.org/?lat=40.849069&lon=14.268762
+NapGar +NapoliGaribaldi http://www.openstreetmap.org/?lat=40.852409&lon=14.270511
++DIV_121314 http://www.openstreetmap.org/?lat=40.851203&lon=14.278708
 +X561595 http://www.openstreetmap.org/?lat=40.852713&lon=14.282806
-+X960189 http://www.openstreetmap.org/?lat=40.853113&lon=14.282699
-CentroDirezionale http://www.openstreetmap.org/?lat=40.858349&lon=14.281797
-+Tribunale http://www.openstreetmap.org/?lat=40.862643&lon=14.284410
-Poggioreale http://www.openstreetmap.org/?lat=40.866605&lon=14.291850
-Botteghelle http://www.openstreetmap.org/?lat=40.872187&lon=14.315583
-+X576272 http://www.openstreetmap.org/?lat=40.876900&lon=14.323318
++DIV_1 http://www.openstreetmap.org/?lat=40.853113&lon=14.282699
+CenDir +CentroDirezionale http://www.openstreetmap.org/?lat=40.858349&lon=14.281797
++SKIP_Tri http://www.openstreetmap.org/?lat=40.862643&lon=14.284410
+Pog +Poggioreale http://www.openstreetmap.org/?lat=40.866605&lon=14.291850
+Bot +Botteghelle http://www.openstreetmap.org/?lat=40.872187&lon=14.315583
++DIV_7 http://www.openstreetmap.org/?lat=40.876900&lon=14.323318
 +X332791 http://www.openstreetmap.org/?lat=40.884695&lon=14.328843
-Volla http://www.openstreetmap.org/?lat=40.887851&lon=14.329830
-Salice http://www.openstreetmap.org/?lat=40.899472&lon=14.337351
-Casalnuovo http://www.openstreetmap.org/?lat=40.907817&lon=14.347469
-LaPigna http://www.openstreetmap.org/?lat=40.908899&lon=14.354990
-Talona http://www.openstreetmap.org/?lat=40.910261&lon=14.365418
-ParcoPiemonte http://www.openstreetmap.org/?lat=40.911202&lon=14.372799
-PratolaPonte http://www.openstreetmap.org/?lat=40.913423&lon=14.383099
-PomiglianoArco http://www.openstreetmap.org/?lat=40.914662&lon=14.392970
-+X562145 http://www.openstreetmap.org/?lat=40.916942&lon=14.403441
+Vol +Volla http://www.openstreetmap.org/?lat=40.887851&lon=14.329830
+Sal +Salice http://www.openstreetmap.org/?lat=40.899472&lon=14.337351
+Casa +Casalnuovo http://www.openstreetmap.org/?lat=40.907817&lon=14.347469
+Pig +LaPigna http://www.openstreetmap.org/?lat=40.908899&lon=14.354990
+Tal +Talona http://www.openstreetmap.org/?lat=40.910261&lon=14.365418
+ParPie +ParcoPiemonte http://www.openstreetmap.org/?lat=40.911202&lon=14.372799
+PraPon +PratolaPonte http://www.openstreetmap.org/?lat=40.913423&lon=14.383099
+PomArco +PomiglianoArco http://www.openstreetmap.org/?lat=40.914662&lon=14.392970
++DIV_Ace http://www.openstreetmap.org/?lat=40.916942&lon=14.403441
 +X735822 http://www.openstreetmap.org/?lat=40.920250&lon=14.408977
-Castelcisterna http://www.openstreetmap.org/?lat=40.920396&lon=14.412239
-Brusciano http://www.openstreetmap.org/?lat=40.917153&lon=14.417667
-DeRuggiero http://www.openstreetmap.org/?lat=40.916683&lon=14.429126
-VittorioVeneto http://www.openstreetmap.org/?lat=40.919472&lon=14.442365
-Marigliano http://www.openstreetmap.org/?lat=40.916942&lon=14.456334
-SanVitaliano http://www.openstreetmap.org/?lat=40.918385&lon=14.473243
-Scisciano http://www.openstreetmap.org/?lat=40.912532&lon=14.480689
-Saviano http://www.openstreetmap.org/?lat=40.912138&lon=14.509259
+Cast +Castelcisterna http://www.openstreetmap.org/?lat=40.920396&lon=14.412239
+Bru +Brusciano http://www.openstreetmap.org/?lat=40.917153&lon=14.417667
+Rug +DeRuggiero http://www.openstreetmap.org/?lat=40.916683&lon=14.429126
+VitVen +VittorioVeneto http://www.openstreetmap.org/?lat=40.919472&lon=14.442365
+Mar +Marigliano http://www.openstreetmap.org/?lat=40.916942&lon=14.456334
+SanVit +SanVitaliano http://www.openstreetmap.org/?lat=40.918385&lon=14.473243
+Sci +Scisciano http://www.openstreetmap.org/?lat=40.912532&lon=14.480689
+Sav +Saviano http://www.openstreetmap.org/?lat=40.912138&lon=14.509259
 Nola http://www.openstreetmap.org/?lat=40.929284&lon=14.526640
-Cimitile http://www.openstreetmap.org/?lat=40.938484&lon=14.530535
-Camposano http://www.openstreetmap.org/?lat=40.952212&lon=14.531447
-Cicciano http://www.openstreetmap.org/?lat=40.960590&lon=14.543431
-RoccarainolaTufino http://www.openstreetmap.org/?lat=40.966443&lon=14.559503
-Avella http://www.openstreetmap.org/?lat=40.955165&lon=14.602633
-Baiano http://www.openstreetmap.org/?lat=40.952820&lon=14.617256
+Cim +Cimitile http://www.openstreetmap.org/?lat=40.938484&lon=14.530535
+Cam +Camposano http://www.openstreetmap.org/?lat=40.952212&lon=14.531447
+Cic +Cicciano http://www.openstreetmap.org/?lat=40.960590&lon=14.543431
+RocTuf +RoccarainolaTufino http://www.openstreetmap.org/?lat=40.966443&lon=14.559503
+Ave +Avella http://www.openstreetmap.org/?lat=40.955165&lon=14.602633
+Bai +Baiano http://www.openstreetmap.org/?lat=40.952820&lon=14.617256

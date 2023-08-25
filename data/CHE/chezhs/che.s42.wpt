@@ -1,31 +1,30 @@
 Muri http://www.openstreetmap.org/?lat=47.276711&lon=8.340039
-BoswilBunzen http://www.openstreetmap.org/?lat=47.305033&lon=8.315105
-+X301799 http://www.openstreetmap.org/?lat=47.344806&lon=8.274336
-Wohlen http://www.openstreetmap.org/?lat=47.348295&lon=8.269873
-DottikonDintikon http://www.openstreetmap.org/?lat=47.373586&lon=8.234897
-Hendschiken http://www.openstreetmap.org/?lat=47.389416&lon=8.207645
-+X918928 http://www.openstreetmap.org/?lat=47.391293&lon=8.205392
+BosBun +BoswilBunzen http://www.openstreetmap.org/?lat=47.305033&lon=8.315105
++DIV_S17 http://www.openstreetmap.org/?lat=47.344806&lon=8.274336
+Woh +Wohlen http://www.openstreetmap.org/?lat=47.348295&lon=8.269873
+DotDin +DottikonDintikon http://www.openstreetmap.org/?lat=47.373586&lon=8.234897
+Hen +Hendschiken http://www.openstreetmap.org/?lat=47.389416&lon=8.207645
++DIV_S26 http://www.openstreetmap.org/?lat=47.391293&lon=8.205392
 +X439704 http://www.openstreetmap.org/?lat=47.396160&lon=8.204362
-+X442311 http://www.openstreetmap.org/?lat=47.401319&lon=8.207474
-Othmarsingen http://www.openstreetmap.org/?lat=47.407550&lon=8.214619
-+X421097 http://www.openstreetmap.org/?lat=47.409394&lon=8.217559
-Magenwil http://www.openstreetmap.org/?lat=47.414593&lon=8.235004
++DIV_IC3 http://www.openstreetmap.org/?lat=47.401319&lon=8.207474
+Oth +Othmarsingen http://www.openstreetmap.org/?lat=47.407550&lon=8.214619
++DIV_S25 http://www.openstreetmap.org/?lat=47.409394&lon=8.217559
+Mag +Magenwil http://www.openstreetmap.org/?lat=47.414593&lon=8.235004
 +X677640 http://www.openstreetmap.org/?lat=47.426875&lon=8.269486
-+MellingenHeitersberg http://www.openstreetmap.org/?lat=47.428036&lon=8.275924
-+X536843 http://www.openstreetmap.org/?lat=47.437123&lon=8.344567
++SKIP_MelHei http://www.openstreetmap.org/?lat=47.428036&lon=8.275924
++DIV_S12 http://www.openstreetmap.org/?lat=47.437123&lon=8.344567
 +X807412 http://www.openstreetmap.org/?lat=47.435476&lon=8.349094
-+KillwangenSpreitenbach http://www.openstreetmap.org/?lat=47.433563&lon=8.354234
++SKIP_KilSpr http://www.openstreetmap.org/?lat=47.433563&lon=8.354234
 +X836847 http://www.openstreetmap.org/?lat=47.422150&lon=8.385658
-Dietikon http://www.openstreetmap.org/?lat=47.405281&lon=8.405566
-+Glanzenberg http://www.openstreetmap.org/?lat=47.398879&lon=8.420055
-+Schlieren http://www.openstreetmap.org/?lat=47.399399&lon=8.447349
+Die +Dietikon http://www.openstreetmap.org/?lat=47.405281&lon=8.405566
++SKIP_Gla http://www.openstreetmap.org/?lat=47.398879&lon=8.420055
++SKIP_Sch http://www.openstreetmap.org/?lat=47.399399&lon=8.447349
 +X387080 http://www.openstreetmap.org/?lat=47.399787&lon=8.458872
-+X802772 http://www.openstreetmap.org/?lat=47.392430&lon=8.486531
-ZurichAltstetten http://www.openstreetmap.org/?lat=47.391633&lon=8.489320
-+X308493 http://www.openstreetmap.org/?lat=47.390415&lon=8.494545
-+X103379 http://www.openstreetmap.org/?lat=47.389565&lon=8.498590
-+X570976 http://www.openstreetmap.org/?lat=47.383122&lon=8.519833
-+X202652 http://www.openstreetmap.org/?lat=47.381251&lon=8.525240
-+X385302 http://www.openstreetmap.org/?lat=47.381098&lon=8.528416
-+X265751 http://www.openstreetmap.org/?lat=47.380321&lon=8.531742
-ZurichHauptbahnhof http://www.openstreetmap.org/?lat=47.378062&lon=8.539424
++DIV_S5 http://www.openstreetmap.org/?lat=47.392430&lon=8.486531
+ZurAlt +ZurichAltstetten http://www.openstreetmap.org/?lat=47.391633&lon=8.489320
++DIV_S14 http://www.openstreetmap.org/?lat=47.389565&lon=8.498590
++DIV_S3 http://www.openstreetmap.org/?lat=47.386187&lon=8.513492
++SKIP_ZurHau http://www.openstreetmap.org/?lat=47.378062&lon=8.539424
++DIV_S2 http://www.openstreetmap.org/?lat=47.381098&lon=8.528416
++DIV_S http://www.openstreetmap.org/?lat=47.380321&lon=8.531742
+ZurHau +ZurichHauptbahnhof http://www.openstreetmap.org/?lat=47.378062&lon=8.539424

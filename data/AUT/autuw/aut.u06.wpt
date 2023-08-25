@@ -1,33 +1,31 @@
-Floridsdorf http://www.openstreetmap.org/?lat=48.256420&lon=16.400056
-NeueDonau http://www.openstreetmap.org/?lat=48.246390&lon=16.394606
-Handelskai http://www.openstreetmap.org/?lat=48.242089&lon=16.385744
-+X899225 http://www.openstreetmap.org/?lat=48.239573&lon=16.382546
+Flo +Floridsdorf http://www.openstreetmap.org/?lat=48.256420&lon=16.400056
++X897219 http://www.openstreetmap.org/?lat=48.249190&lon=16.397030
+NeueDon +NeueDonau http://www.openstreetmap.org/?lat=48.246390&lon=16.394606
++X551829 http://www.openstreetmap.org/?lat=48.245318&lon=16.393383
+Han +Handelskai http://www.openstreetmap.org/?lat=48.242089&lon=16.385744
 +X796705 http://www.openstreetmap.org/?lat=48.238887&lon=16.382439
-DresdnerStrasse http://www.openstreetmap.org/?lat=48.237087&lon=16.379757
-Jagerstrasse http://www.openstreetmap.org/?lat=48.235243&lon=16.370080
-Spittelau http://www.openstreetmap.org/?lat=48.235586&lon=16.358085
-NussdorferStrasse http://www.openstreetmap.org/?lat=48.231523&lon=16.353010
-WahringerStrasseVolksoper http://www.openstreetmap.org/?lat=48.225127&lon=16.349394
-MichelbeuernAKH http://www.openstreetmap.org/?lat=48.221167&lon=16.344191
-AlserStrasse http://www.openstreetmap.org/?lat=48.217056&lon=16.341959
-JosefstadterStrasse http://www.openstreetmap.org/?lat=48.211158&lon=16.339138
-Thaliastrasse http://www.openstreetmap.org/?lat=48.208448&lon=16.338429
-BurggasseStadthalle http://www.openstreetmap.org/?lat=48.202621&lon=16.337292
-Westbahnhof http://www.openstreetmap.org/?lat=48.196836&lon=16.338344
-GumperdorferStrasse http://www.openstreetmap.org/?lat=48.190712&lon=16.337555
-+X777972 http://www.openstreetmap.org/?lat=48.186166&lon=16.336745
-Langenfeldgasse http://www.openstreetmap.org/?lat=48.184882&lon=16.335039
-+X331792 http://www.openstreetmap.org/?lat=48.183891&lon=16.332813
-Niederhofstrasse http://www.openstreetmap.org/?lat=48.180774&lon=16.331198
-WeinMiedling http://www.openstreetmap.org/?lat=48.174174&lon=16.331778
+DreStr +DresdnerStrasse http://www.openstreetmap.org/?lat=48.237087&lon=16.379757
+Jag +Jagerstrasse http://www.openstreetmap.org/?lat=48.235243&lon=16.370080
+Spi +Spittelau http://www.openstreetmap.org/?lat=48.235586&lon=16.358085
+NusStr +NussdorferStrasse http://www.openstreetmap.org/?lat=48.231523&lon=16.353010
+WahStrVol +WahringerStrasseVolksoper http://www.openstreetmap.org/?lat=48.225127&lon=16.349394
+MicAKH +MichelbeuernAKH http://www.openstreetmap.org/?lat=48.221167&lon=16.344191
+AlsStr +AlserStrasse http://www.openstreetmap.org/?lat=48.217056&lon=16.341959
+JosStr +JosefstadterStrasse http://www.openstreetmap.org/?lat=48.211158&lon=16.339138
+Tha +Thaliastrasse http://www.openstreetmap.org/?lat=48.208448&lon=16.338429
+BurSta +BurggasseStadthalle http://www.openstreetmap.org/?lat=48.202621&lon=16.337292
+Wes +Westbahnhof http://www.openstreetmap.org/?lat=48.196836&lon=16.338344
+GumStr +GumperdorferStrasse http://www.openstreetmap.org/?lat=48.190712&lon=16.337555
++DIV_U4E http://www.openstreetmap.org/?lat=48.186166&lon=16.336745
+Lan +Langenfeldgasse http://www.openstreetmap.org/?lat=48.184882&lon=16.335039
++DIV_U4W http://www.openstreetmap.org/?lat=48.183891&lon=16.332813
+Nie +Niederhofstrasse http://www.openstreetmap.org/?lat=48.180774&lon=16.331198
+WienMie +WeinMiedling http://www.openstreetmap.org/?lat=48.174174&lon=16.331778
 +X815282 http://www.openstreetmap.org/?lat=48.171293&lon=16.330715
-+X977120 http://www.openstreetmap.org/?lat=48.168724&lon=16.328484
-+X348378 http://www.openstreetmap.org/?lat=48.167907&lon=16.328377
-+X782063 http://www.openstreetmap.org/?lat=48.167327&lon=16.328452
-+X679700 http://www.openstreetmap.org/?lat=48.166547&lon=16.328259
-Tscherttegasse http://www.openstreetmap.org/?lat=48.164976&lon=16.327765
-Schopfwerk http://www.openstreetmap.org/?lat=48.160697&lon=16.324182
-Alterlaa http://www.openstreetmap.org/?lat=48.150490&lon=16.316864
-ErlaaerStrasse http://www.openstreetmap.org/?lat=48.142000&lon=16.316586
-Perfektastrasse http://www.openstreetmap.org/?lat=48.136602&lon=16.313260
-Siebenhirten http://www.openstreetmap.org/?lat=48.130530&lon=16.309848
++X977120 http://www.openstreetmap.org/?lat=48.168175&lon=16.328269
+Tsc +Tscherttegasse http://www.openstreetmap.org/?lat=48.164976&lon=16.327765
+Sch +Schopfwerk http://www.openstreetmap.org/?lat=48.160697&lon=16.324182
+Alt +Alterlaa http://www.openstreetmap.org/?lat=48.150490&lon=16.316864
+ErlStr +ErlaaerStrasse http://www.openstreetmap.org/?lat=48.142000&lon=16.316586
+Per +Perfektastrasse http://www.openstreetmap.org/?lat=48.136602&lon=16.313260
+Sie +Siebenhirten http://www.openstreetmap.org/?lat=48.130530&lon=16.309848

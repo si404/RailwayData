@@ -1,31 +1,31 @@
-Civitavecchia http://www.openstreetmap.org/?lat=42.088271&lon=11.798587
+Civ +Civitavecchia http://www.openstreetmap.org/?lat=42.088271&lon=11.798587
 +X711149 http://www.openstreetmap.org/?lat=42.046918&lon=11.824336
 +X743649 http://www.openstreetmap.org/?lat=42.034807&lon=11.847124
-SantaMarinella http://www.openstreetmap.org/?lat=42.035987&lon=11.863089
+SanMar +SantaMarinella http://www.openstreetmap.org/?lat=42.035987&lon=11.863089
 +X864487 http://www.openstreetmap.org/?lat=42.041469&lon=11.907377
-SantaSevera http://www.openstreetmap.org/?lat=42.020749&lon=11.968961
-MarinaCerveteri http://www.openstreetmap.org/?lat=41.979161&lon=12.047925
-LadispoliCerveteri http://www.openstreetmap.org/?lat=41.953331&lon=12.081871
+SanSev +SantaSevera http://www.openstreetmap.org/?lat=42.020749&lon=11.968961
+MarCer +MarinaCerveteri http://www.openstreetmap.org/?lat=41.979161&lon=12.047925
+LadCer +LadispoliCerveteri http://www.openstreetmap.org/?lat=41.953331&lon=12.081871
 +X256472 http://www.openstreetmap.org/?lat=41.934170&lon=12.118928
-TorrePietraPalidoro http://www.openstreetmap.org/?lat=41.924225&lon=12.183452
-MaccareseFregene http://www.openstreetmap.org/?lat=41.878780&lon=12.237396
+TorPiePal +TorrePietraPalidoro http://www.openstreetmap.org/?lat=41.924225&lon=12.183452
+MacFre +MaccareseFregene http://www.openstreetmap.org/?lat=41.878780&lon=12.237396
 +X115747 http://www.openstreetmap.org/?lat=41.869577&lon=12.246881
 +X413844 http://www.openstreetmap.org/?lat=41.867819&lon=12.322154
-RomaAurelia http://www.openstreetmap.org/?lat=41.883006&lon=12.394252
-+X756149 http://www.openstreetmap.org/?lat=41.898979&lon=12.448497
-+X786628 http://www.openstreetmap.org/?lat=41.897589&lon=12.452574
-RomaSanPietro http://www.openstreetmap.org/?lat=41.895960&lon=12.454526
-+X799430 http://www.openstreetmap.org/?lat=41.890821&lon=12.457992
+RomaAur +RomaAurelia http://www.openstreetmap.org/?lat=41.883006&lon=12.394252
++DIV_FL3W http://www.openstreetmap.org/?lat=41.898979&lon=12.448497
++DIV_Vat http://www.openstreetmap.org/?lat=41.897589&lon=12.452574
+RomaSanPie +RomaSanPietro http://www.openstreetmap.org/?lat=41.895960&lon=12.454526
++DIV_FL3N http://www.openstreetmap.org/?lat=41.890821&lon=12.457992
 +X717886 http://www.openstreetmap.org/?lat=41.880849&lon=12.456479
-+X108647 http://www.openstreetmap.org/?lat=41.874758&lon=12.458185
-+X887142 http://www.openstreetmap.org/?lat=41.871714&lon=12.462659
-RomaTrastevere http://www.openstreetmap.org/?lat=41.872315&lon=12.466108
-RomaOstiense http://www.openstreetmap.org/?lat=41.873755&lon=12.483827
++DIV_FL3S http://www.openstreetmap.org/?lat=41.874758&lon=12.458185
++DIV_FL1 http://www.openstreetmap.org/?lat=41.871714&lon=12.462659
+RomaTra +RomaTrastevere http://www.openstreetmap.org/?lat=41.872315&lon=12.466108
+RomaOst +RomaOstiense http://www.openstreetmap.org/?lat=41.873755&lon=12.483827
 +X222492 http://www.openstreetmap.org/?lat=41.871047&lon=12.504458
-RomaTuscolana http://www.openstreetmap.org/?lat=41.879163&lon=12.523685
-+X172197 http://www.openstreetmap.org/?lat=41.881392&lon=12.526217
-+X752454 http://www.openstreetmap.org/?lat=41.888153&lon=12.523899
-+PonteCailino http://www.openstreetmap.org/?lat=41.889128&lon=12.521989
-+X223269 http://www.openstreetmap.org/?lat=41.890550&lon=12.519243
+RomaTus +RomaTuscolana http://www.openstreetmap.org/?lat=41.879163&lon=12.523685
++DIV_FL123 http://www.openstreetmap.org/?lat=41.881392&lon=12.526217
++DIV_FL4678 http://www.openstreetmap.org/?lat=41.888153&lon=12.523899
++SKIP_PonCai http://www.openstreetmap.org/?lat=41.889128&lon=12.521989
++DIV_FC1 http://www.openstreetmap.org/?lat=41.890550&lon=12.519243
 +X186569 http://www.openstreetmap.org/?lat=41.892638&lon=12.515552
-RomaTermini http://www.openstreetmap.org/?lat=41.900576&lon=12.502420
+RomaTer +RomaTermini http://www.openstreetmap.org/?lat=41.900576&lon=12.502420

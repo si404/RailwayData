@@ -1,17 +1,17 @@
-CamnagoLentate http://www.openstreetmap.org/?lat=45.668330&lon=9.133587
-+X542793 http://www.openstreetmap.org/?lat=45.663532&lon=9.136333
+CamLen +CamnagoLentate http://www.openstreetmap.org/?lat=45.668330&lon=9.133587
++DIV_S11 http://www.openstreetmap.org/?lat=45.663532&lon=9.136333
 +X533625 http://www.openstreetmap.org/?lat=45.650183&lon=9.139981
-Seveso http://www.openstreetmap.org/?lat=45.648263&lon=9.140453
-CesanoMaderno http://www.openstreetmap.org/?lat=45.631821&lon=9.141827
-BovisioMasciagoMombello http://www.openstreetmap.org/?lat=45.612011&lon=9.141397
-Varedo http://www.openstreetmap.org/?lat=45.595498&lon=9.153199
-PalazzoloMilanese http://www.openstreetmap.org/?lat=45.581015&lon=9.156482
-PadernoDugnano http://www.openstreetmap.org/?lat=45.564928&lon=9.161246
-CormanoCusanoMilanino http://www.openstreetmap.org/?lat=45.545425&lon=9.173734
-MilanoBruzzano http://www.openstreetmap.org/?lat=45.533176&lon=9.172747
-MilanoAffori http://www.openstreetmap.org/?lat=45.521496&lon=9.167554
-+X618907 http://www.openstreetmap.org/?lat=45.504069&lon=9.158714
-MilanoBovisaPolitecnico http://www.openstreetmap.org/?lat=45.502174&lon=9.159272
-+DIV_Ghi http://www.openstreetmap.org/?lat=45.497860&lon=9.159969
-MilanoDomodossola http://www.openstreetmap.org/?lat=45.481231&lon=9.161932
-MilanoCadorna http://www.openstreetmap.org/?lat=45.468099&lon=9.175944
+Sev +Seveso http://www.openstreetmap.org/?lat=45.648263&lon=9.140453
+CesMad +CesanoMaderno http://www.openstreetmap.org/?lat=45.631821&lon=9.141827
+BovMasMom +BovisioMasciagoMombello http://www.openstreetmap.org/?lat=45.612011&lon=9.141397
+Var +Varedo http://www.openstreetmap.org/?lat=45.595498&lon=9.153199
+PalMil +PalazzoloMilanese http://www.openstreetmap.org/?lat=45.581015&lon=9.156482
+PadDug +PadernoDugnano http://www.openstreetmap.org/?lat=45.564928&lon=9.161246
+CorCusMil +CormanoCusanoMilanino http://www.openstreetmap.org/?lat=45.545425&lon=9.173734
+MilBru +MilanoBruzzano http://www.openstreetmap.org/?lat=45.533176&lon=9.172747
+MilAff +MilanoAffori http://www.openstreetmap.org/?lat=45.521496&lon=9.167554
++DIV_S13 http://www.openstreetmap.org/?lat=45.504069&lon=9.158714
+MilBovPol +MilanoBovisaPolitecnico http://www.openstreetmap.org/?lat=45.502174&lon=9.159272
++DIV_S12 http://www.openstreetmap.org/?lat=45.498970&lon=9.159873
+MilDom +MilanoDomodossola http://www.openstreetmap.org/?lat=45.481231&lon=9.161932
+MilCad +MilanoCadorna http://www.openstreetmap.org/?lat=45.468099&lon=9.175944

@@ -1,57 +1,54 @@
-ZurichFlughafen http://www.openstreetmap.org/?lat=47.450068&lon=8.561890
+ZurFlu +ZurichFlughafen http://www.openstreetmap.org/?lat=47.450068&lon=8.561890
 +X233366 http://www.openstreetmap.org/?lat=47.439503&lon=8.559229
 +X143320 http://www.openstreetmap.org/?lat=47.434206&lon=8.562727
-+X630841 http://www.openstreetmap.org/?lat=47.432663&lon=8.562459
-+Opfikon http://www.openstreetmap.org/?lat=47.429938&lon=8.561869
-+X421669 http://www.openstreetmap.org/?lat=47.427220&lon=8.559583
-+X217887 http://www.openstreetmap.org/?lat=47.425598&lon=8.558307
++DIV_S7 http://www.openstreetmap.org/?lat=47.432663&lon=8.562459
++SKIP_Opf http://www.openstreetmap.org/?lat=47.429938&lon=8.561869
 +X325456 http://www.openstreetmap.org/?lat=47.421507&lon=8.554616
-+X759768 http://www.openstreetmap.org/?lat=47.417656&lon=8.550797
-+X527750 http://www.openstreetmap.org/?lat=47.416175&lon=8.549595
++DIV_S3 http://www.openstreetmap.org/?lat=47.416175&lon=8.549595
 +X625525 http://www.openstreetmap.org/?lat=47.413315&lon=8.546913
-ZurichOerlikon http://www.openstreetmap.org/?lat=47.411801&lon=8.544027
+ZurOer +ZurichOerlikon http://www.openstreetmap.org/?lat=47.411801&lon=8.544027
 +X635147 http://www.openstreetmap.org/?lat=47.409372&lon=8.539295
-+X920861 http://www.openstreetmap.org/?lat=47.405753&lon=8.536484
-+X184391 http://www.openstreetmap.org/?lat=47.403832&lon=8.535519
++DIV_S6 http://www.openstreetmap.org/?lat=47.405753&lon=8.536484
++DIV_S24N http://www.openstreetmap.org/?lat=47.403832&lon=8.535519
 +X829533 http://www.openstreetmap.org/?lat=47.381730&lon=8.555839
 +X552431 http://www.openstreetmap.org/?lat=47.376165&lon=8.550539
 +X383971 http://www.openstreetmap.org/?lat=47.376115&lon=8.544402
-ZurichHauptbahnhof http://www.openstreetmap.org/?lat=47.378062&lon=8.539424
+ZurHau +ZurichHauptbahnhof http://www.openstreetmap.org/?lat=47.378062&lon=8.539424
 +X923436 http://www.openstreetmap.org/?lat=47.379696&lon=8.532300
-+X265751 http://www.openstreetmap.org/?lat=47.380321&lon=8.531742
-+X385302 http://www.openstreetmap.org/?lat=47.381098&lon=8.528416
-+X202652 http://www.openstreetmap.org/?lat=47.381251&lon=8.525240
++DIV_Zur http://www.openstreetmap.org/?lat=47.380321&lon=8.531742
++DIV_S3 http://www.openstreetmap.org/?lat=47.381098&lon=8.528416
++DIV_S14 http://www.openstreetmap.org/?lat=47.381251&lon=8.525240
 +X724612 http://www.openstreetmap.org/?lat=47.379823&lon=8.521035
-+X920298 http://www.openstreetmap.org/?lat=47.376420&lon=8.518610
-ZurichWiedikon http://www.openstreetmap.org/?lat=47.371632&lon=8.523116
-ZurichEnge http://www.openstreetmap.org/?lat=47.364213&lon=8.530648
-+ZurichWollishofen http://www.openstreetmap.org/?lat=47.347699&lon=8.533802
-+Kilchberg http://www.openstreetmap.org/?lat=47.324287&lon=8.547857
-+Ruschlikon http://www.openstreetmap.org/?lat=47.306728&lon=8.555174
-+X532336 http://www.openstreetmap.org/?lat=47.299715&lon=8.560281
-Thalwil http://www.openstreetmap.org/?lat=47.295742&lon=8.564637
-+X728170 http://www.openstreetmap.org/?lat=47.292642&lon=8.569443
-+Oberrieden http://www.openstreetmap.org/?lat=47.279680&lon=8.578563
-Horgen http://www.openstreetmap.org/?lat=47.261655&lon=8.596973
-+Au http://www.openstreetmap.org/?lat=47.246985&lon=8.643816
-Wadenswil http://www.openstreetmap.org/?lat=47.229357&lon=8.675348
-+X206885 http://www.openstreetmap.org/?lat=47.227077&lon=8.677107
-Richterswil http://www.openstreetmap.org/?lat=47.208538&lon=8.707502
-+Bach http://www.openstreetmap.org/?lat=47.200874&lon=8.727136
-+FreienbachSBB http://www.openstreetmap.org/?lat=47.207274&lon=8.755996
-+X621656 http://www.openstreetmap.org/?lat=47.204868&lon=8.767412
-Pfaffikon http://www.openstreetmap.org/?lat=47.203257&lon=8.778205
-+X705133 http://www.openstreetmap.org/?lat=47.202791&lon=8.786230
-Altendorf http://www.openstreetmap.org/?lat=47.194014&lon=8.822880
-Lachen http://www.openstreetmap.org/?lat=47.189960&lon=8.853092
-SiebnenWangen http://www.openstreetmap.org/?lat=47.182873&lon=8.900642
-+SchubelbachButtikon http://www.openstreetmap.org/?lat=47.176543&lon=8.938880
-+Reichenburg http://www.openstreetmap.org/?lat=47.172846&lon=8.982396
-+Bilten http://www.openstreetmap.org/?lat=47.152209&lon=9.030204
-+X603795 http://www.openstreetmap.org/?lat=47.139045&lon=9.054708
-Ziegelbrucke http://www.openstreetmap.org/?lat=47.136534&lon=9.060459
-+X378357 http://www.openstreetmap.org/?lat=47.133556&lon=9.064665
-+Weesen http://www.openstreetmap.org/?lat=47.129787&lon=9.094255
-Muhlehorn http://www.openstreetmap.org/?lat=47.117942&lon=9.172833
++DIV_S25N http://www.openstreetmap.org/?lat=47.376420&lon=8.518610
+ZurWie +ZurichWiedikon http://www.openstreetmap.org/?lat=47.371632&lon=8.523116
+ZurEng +ZurichEnge http://www.openstreetmap.org/?lat=47.364213&lon=8.530648
++SKIP_ZurWol http://www.openstreetmap.org/?lat=47.347699&lon=8.533802
++SKIP_Kil http://www.openstreetmap.org/?lat=47.324287&lon=8.547857
++SKIP_Rus http://www.openstreetmap.org/?lat=47.306728&lon=8.555174
++DIV_S25S http://www.openstreetmap.org/?lat=47.299715&lon=8.560281
+Tha +Thalwil http://www.openstreetmap.org/?lat=47.295742&lon=8.564637
++DIV_S24S http://www.openstreetmap.org/?lat=47.292642&lon=8.569443
++SKIP_Obe http://www.openstreetmap.org/?lat=47.279680&lon=8.578563
+Hor +Horgen http://www.openstreetmap.org/?lat=47.261655&lon=8.596973
++SKIP_Au http://www.openstreetmap.org/?lat=47.246985&lon=8.643816
+Wad +Wadenswil http://www.openstreetmap.org/?lat=47.229357&lon=8.675348
++DIV_S13 http://www.openstreetmap.org/?lat=47.227077&lon=8.677107
+Ric +Richterswil http://www.openstreetmap.org/?lat=47.208538&lon=8.707502
++SKIP_Bach http://www.openstreetmap.org/?lat=47.200874&lon=8.727136
++SKIP_FreSBB http://www.openstreetmap.org/?lat=47.207274&lon=8.755996
++DIV_S40 http://www.openstreetmap.org/?lat=47.204868&lon=8.767412
+Pfa +Pfaffikon http://www.openstreetmap.org/?lat=47.203257&lon=8.778205
++DIV_S5 http://www.openstreetmap.org/?lat=47.202791&lon=8.786230
+Alt +Altendorf http://www.openstreetmap.org/?lat=47.194014&lon=8.822880
+Lac +Lachen http://www.openstreetmap.org/?lat=47.189960&lon=8.853092
+SieWan +SiebnenWangen http://www.openstreetmap.org/?lat=47.182873&lon=8.900642
++SKIP_SchBut http://www.openstreetmap.org/?lat=47.176543&lon=8.938880
++SKIP_Rei http://www.openstreetmap.org/?lat=47.172846&lon=8.982396
++SKIP_Bil http://www.openstreetmap.org/?lat=47.152209&lon=9.030204
++DIV_S4 http://www.openstreetmap.org/?lat=47.139045&lon=9.054708
+Zie +Ziegelbrucke http://www.openstreetmap.org/?lat=47.136534&lon=9.060459
++DIV_S25 http://www.openstreetmap.org/?lat=47.133556&lon=9.064665
++SKIP_Wee http://www.openstreetmap.org/?lat=47.129787&lon=9.094255
+Muh +Muhlehorn http://www.openstreetmap.org/?lat=47.117942&lon=9.172833
 Murg http://www.openstreetmap.org/?lat=47.113342&lon=9.215040
-Unterterzen http://www.openstreetmap.org/?lat=47.113956&lon=9.254973
+Unt +Unterterzen http://www.openstreetmap.org/?lat=47.113956&lon=9.254973

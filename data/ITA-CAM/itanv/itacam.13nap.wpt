@@ -1,37 +1,37 @@
-NapoliPortaNolana http://www.openstreetmap.org/?lat=40.849069&lon=14.268762
-NapoliGaribaldi http://www.openstreetmap.org/?lat=40.852409&lon=14.270511
-+X570756 http://www.openstreetmap.org/?lat=40.851203&lon=14.278708
-ViaGianturco http://www.openstreetmap.org/?lat=40.845993&lon=14.287280
-SanGiovanniTeduccio http://www.openstreetmap.org/?lat=40.841781&lon=14.300230
-Barra http://www.openstreetmap.org/?lat=40.844175&lon=14.314113
-+X457098 http://www.openstreetmap.org/?lat=40.845011&lon=14.316376
-+X515513 http://www.openstreetmap.org/?lat=40.836882&lon=14.331322
-SanGiorgioCremano http://www.openstreetmap.org/?lat=40.832986&lon=14.337759
-SanGiorgioCavalliBronzo http://www.openstreetmap.org/?lat=40.828732&lon=14.340763
-PorticiBellavista http://www.openstreetmap.org/?lat=40.822010&lon=14.343467
-PorticiViaLiberta http://www.openstreetmap.org/?lat=40.816651&lon=14.346385
-ErcolanoScavi http://www.openstreetmap.org/?lat=40.808531&lon=14.355526
-ErcolanoMiglioOro http://www.openstreetmap.org/?lat=40.802132&lon=14.361491
-TorreGreco http://www.openstreetmap.org/?lat=40.793230&lon=14.369988
-ViaSantAntonio http://www.openstreetmap.org/?lat=40.784347&lon=14.384151
-ViaMonte http://www.openstreetmap.org/?lat=40.778133&lon=14.392240
-ViaMonaci http://www.openstreetmap.org/?lat=40.775809&lon=14.400061
-VillaDelleGinestre http://www.openstreetmap.org/?lat=40.772210&lon=14.408526
-Leopardi http://www.openstreetmap.org/?lat=40.766164&lon=14.417764
-ViaViuli http://www.openstreetmap.org/?lat=40.763800&lon=14.427946
-Trecase http://www.openstreetmap.org/?lat=40.761866&lon=14.439812
-TorreAnnunziataOplonti http://www.openstreetmap.org/?lat=40.759785&lon=14.451002
-+X389203 http://www.openstreetmap.org/?lat=40.759785&lon=14.454682
-VillaRegina http://www.openstreetmap.org/?lat=40.757189&lon=14.470410
-PompeiScaviVillaMisteri http://www.openstreetmap.org/?lat=40.748753&lon=14.480882
-Moregine http://www.openstreetmap.org/?lat=40.738153&lon=14.485130
-Pioppaino http://www.openstreetmap.org/?lat=40.718843&lon=14.491739
-ViaNocera http://www.openstreetmap.org/?lat=40.701138&lon=14.491053
-CastellammareStabia http://www.openstreetmap.org/?lat=40.695257&lon=14.483585
+NapPorNol +NapoliPortaNolana http://www.openstreetmap.org/?lat=40.849069&lon=14.268762
+NapGar +NapoliGaribaldi http://www.openstreetmap.org/?lat=40.852409&lon=14.270511
++DIV_79 http://www.openstreetmap.org/?lat=40.851203&lon=14.278708
+ViaGia +ViaGianturco http://www.openstreetmap.org/?lat=40.845993&lon=14.287280
+SanGioTed +SanGiovanniTeduccio http://www.openstreetmap.org/?lat=40.841781&lon=14.300230
+Bar +Barra http://www.openstreetmap.org/?lat=40.844175&lon=14.314113
++DIV_12 http://www.openstreetmap.org/?lat=40.845011&lon=14.316376
++DIV_7 http://www.openstreetmap.org/?lat=40.836882&lon=14.331322
+SanGioCre +SanGiorgioCremano http://www.openstreetmap.org/?lat=40.832986&lon=14.337759
+SanGioCavBro +SanGiorgioCavalliBronzo http://www.openstreetmap.org/?lat=40.828732&lon=14.340763
+PorBel +PorticiBellavista http://www.openstreetmap.org/?lat=40.822010&lon=14.343467
+PorViaLib +PorticiViaLiberta http://www.openstreetmap.org/?lat=40.816651&lon=14.346385
+ErcSca +ErcolanoScavi http://www.openstreetmap.org/?lat=40.808531&lon=14.355526
+ErcMigOro +ErcolanoMiglioOro http://www.openstreetmap.org/?lat=40.802132&lon=14.361491
+TorGre +TorreGreco http://www.openstreetmap.org/?lat=40.793230&lon=14.369988
+ViaSantAnt +ViaSantAntonio http://www.openstreetmap.org/?lat=40.784347&lon=14.384151
+ViaMont +ViaMonte http://www.openstreetmap.org/?lat=40.778133&lon=14.392240
+ViaMona +ViaMonaci http://www.openstreetmap.org/?lat=40.775809&lon=14.400061
+VilDelGin +VillaDelleGinestre http://www.openstreetmap.org/?lat=40.772210&lon=14.408526
+Leo +Leopardi http://www.openstreetmap.org/?lat=40.766164&lon=14.417764
+ViaViu +ViaViuli http://www.openstreetmap.org/?lat=40.763800&lon=14.427946
+Tre +Trecase http://www.openstreetmap.org/?lat=40.761866&lon=14.439812
+TorAnnOpl +TorreAnnunziataOplonti http://www.openstreetmap.org/?lat=40.759785&lon=14.451002
++DIV_14 http://www.openstreetmap.org/?lat=40.759785&lon=14.454682
+VilReg +VillaRegina http://www.openstreetmap.org/?lat=40.757189&lon=14.470410
+PomScaVilMis +PompeiScaviVillaMisteri http://www.openstreetmap.org/?lat=40.748753&lon=14.480882
+Mor +Moregine http://www.openstreetmap.org/?lat=40.738153&lon=14.485130
+Pio +Pioppaino http://www.openstreetmap.org/?lat=40.718843&lon=14.491739
+ViaNoc +ViaNocera http://www.openstreetmap.org/?lat=40.701138&lon=14.491053
+CasSta +CastellammareStabia http://www.openstreetmap.org/?lat=40.695257&lon=14.483585
 +X880612 http://www.openstreetmap.org/?lat=40.684844&lon=14.451828
-VicoEquense http://www.openstreetmap.org/?lat=40.662825&lon=14.429941
-Seiano http://www.openstreetmap.org/?lat=40.656038&lon=14.426873
+VicoEqu +VicoEquense http://www.openstreetmap.org/?lat=40.662825&lon=14.429941
+Sei +Seiano http://www.openstreetmap.org/?lat=40.656038&lon=14.426873
 Meta http://www.openstreetmap.org/?lat=40.640490&lon=14.416208
-PianoSorrento http://www.openstreetmap.org/?lat=40.634921&lon=14.410157
-SantAgnello http://www.openstreetmap.org/?lat=40.631159&lon=14.397991
-Sorrento http://www.openstreetmap.org/?lat=40.625683&lon=14.379859
+PiaSor +PianoSorrento http://www.openstreetmap.org/?lat=40.634921&lon=14.410157
+SantAgn +SantAgnello http://www.openstreetmap.org/?lat=40.631159&lon=14.397991
+Sor +Sorrento http://www.openstreetmap.org/?lat=40.625683&lon=14.379859
