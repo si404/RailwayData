@@ -1,23 +1,23 @@
-RomaTermini http://www.openstreetmap.org/?lat=41.900576&lon=12.502420
-+X223269 http://www.openstreetmap.org/?lat=41.890550&lon=12.519243
-+PonteCailino http://www.openstreetmap.org/?lat=41.889128&lon=12.521989
-+X752454 http://www.openstreetmap.org/?lat=41.888153&lon=12.523899
-+SantElena http://www.openstreetmap.org/?lat=41.886660&lon=12.526774
-+X635577 http://www.openstreetmap.org/?lat=41.884575&lon=12.530036
+RomaTer +RomaTermini http://www.openstreetmap.org/?lat=41.900576&lon=12.502420
+DIV_FC1W http://www.openstreetmap.org/?lat=41.890550&lon=12.519243
++SKIP_PonCai http://www.openstreetmap.org/?lat=41.889128&lon=12.521989
++DIV_FL5 http://www.openstreetmap.org/?lat=41.888153&lon=12.523899
++SKIP_SantEle http://www.openstreetmap.org/?lat=41.886660&lon=12.526774
++DIV_FC1E http://www.openstreetmap.org/?lat=41.884575&lon=12.530036
 +X294878 http://www.openstreetmap.org/?lat=41.880529&lon=12.535036
-+X816495 http://www.openstreetmap.org/?lat=41.864080&lon=12.544198
++DIV_FL46 http://www.openstreetmap.org/?lat=41.864080&lon=12.544198
 +X387824 http://www.openstreetmap.org/?lat=41.836252&lon=12.560517
-Torricora http://www.openstreetmap.org/?lat=41.809476&lon=12.557695
+Tor +Torricora http://www.openstreetmap.org/?lat=41.809476&lon=12.557695
 +X432051 http://www.openstreetmap.org/?lat=41.737488&lon=12.561665
-PomeziaSantaPalomba http://www.openstreetmap.org/?lat=41.706097&lon=12.573595
-Campoleone http://www.openstreetmap.org/?lat=41.642307&lon=12.648268
-+X340629 http://www.openstreetmap.org/?lat=41.640864&lon=12.651358
-Aprilia http://www.openstreetmap.org/?lat=41.592257&lon=12.639170
-CampoCarne http://www.openstreetmap.org/?lat=41.552029&lon=12.635179
-Padiglione http://www.openstreetmap.org/?lat=41.513414&lon=12.629428
-Lavinio http://www.openstreetmap.org/?lat=41.500751&lon=12.625995
-VillaClaudia http://www.openstreetmap.org/?lat=41.484293&lon=12.617154
-Marechiaro http://www.openstreetmap.org/?lat=41.471368&lon=12.612605
-AnzioColonia http://www.openstreetmap.org/?lat=41.461599&lon=12.616081
-Anzio http://www.openstreetmap.org/?lat=41.452143&lon=12.629278
-Nettuno http://www.openstreetmap.org/?lat=41.459565&lon=12.662044
+PomSanPal +PomeziaSantaPalomba http://www.openstreetmap.org/?lat=41.706097&lon=12.573595
+Cam +Campoleone http://www.openstreetmap.org/?lat=41.642307&lon=12.648268
++DIV_FL7 http://www.openstreetmap.org/?lat=41.640864&lon=12.651358
+Apr Aprilia http://www.openstreetmap.org/?lat=41.592257&lon=12.639170
+CamCar CampoCarne http://www.openstreetmap.org/?lat=41.552029&lon=12.635179
+Pad Padiglione http://www.openstreetmap.org/?lat=41.513414&lon=12.629428
+Lav Lavinio http://www.openstreetmap.org/?lat=41.500751&lon=12.625995
+VilCla VillaClaudia http://www.openstreetmap.org/?lat=41.484293&lon=12.617154
+Mar Marechiaro http://www.openstreetmap.org/?lat=41.471368&lon=12.612605
+AnzCol AnzioColonia http://www.openstreetmap.org/?lat=41.461599&lon=12.616081
+Anz Anzio http://www.openstreetmap.org/?lat=41.452143&lon=12.629278
+Net Nettuno http://www.openstreetmap.org/?lat=41.459565&lon=12.662044

@@ -1,6 +1,24 @@
-PomiglianoArco http://www.openstreetmap.org/?lat=40.914662&lon=14.392970
-+X562145 http://www.openstreetmap.org/?lat=40.916942&lon=14.403441
+NapPorNol +NapoliPortaNolana http://www.openstreetmap.org/?lat=40.849069&lon=14.268762
+NapGar +NapoliGaribaldi http://www.openstreetmap.org/?lat=40.852409&lon=14.270511
++DIV_121314 http://www.openstreetmap.org/?lat=40.851203&lon=14.278708
++X561595 http://www.openstreetmap.org/?lat=40.852713&lon=14.282806
++DIV_1 http://www.openstreetmap.org/?lat=40.853113&lon=14.282699
+CenDir +CentroDirezionale http://www.openstreetmap.org/?lat=40.858349&lon=14.281797
++SKIP_Tri http://www.openstreetmap.org/?lat=40.862643&lon=14.284410
+Pog +Poggioreale http://www.openstreetmap.org/?lat=40.866605&lon=14.291850
+Bot +Botteghelle http://www.openstreetmap.org/?lat=40.872187&lon=14.315583
++DIV_7 http://www.openstreetmap.org/?lat=40.876900&lon=14.323318
++X332791 http://www.openstreetmap.org/?lat=40.884695&lon=14.328843
+Vol +Volla http://www.openstreetmap.org/?lat=40.887851&lon=14.329830
+Sal +Salice http://www.openstreetmap.org/?lat=40.899472&lon=14.337351
+Casa +Casalnuovo http://www.openstreetmap.org/?lat=40.907817&lon=14.347469
+Pig +LaPigna http://www.openstreetmap.org/?lat=40.908899&lon=14.354990
+Tal +Talona http://www.openstreetmap.org/?lat=40.910261&lon=14.365418
+ParPie +ParcoPiemonte http://www.openstreetmap.org/?lat=40.911202&lon=14.372799
+PraPon +PratolaPonte http://www.openstreetmap.org/?lat=40.913423&lon=14.383099
+PomArco PomiglianoArco http://www.openstreetmap.org/?lat=40.914662&lon=14.392970
++DIV_Cic http://www.openstreetmap.org/?lat=40.916942&lon=14.403441
 +X704885 http://www.openstreetmap.org/?lat=40.917915&lon=14.405737
-AlfaLancia2 http://www.openstreetmap.org/?lat=40.925811&lon=14.401166
-AlfaLancia4 http://www.openstreetmap.org/?lat=40.930237&lon=14.399986
-Acerra http://www.openstreetmap.org/?lat=40.947370&lon=14.382520
+AlfaLan2 AlfaLancia2 http://www.openstreetmap.org/?lat=40.925811&lon=14.401166
+AlfaLan4 AlfaLancia4 http://www.openstreetmap.org/?lat=40.930237&lon=14.399986
+Ace Acerra http://www.openstreetmap.org/?lat=40.947370&lon=14.382520
