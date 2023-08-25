@@ -1,5 +1,5 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-bgrsm;BGR;M1;;;;bgr.m01;
-bgrsm;BGR;M2;;;;bgr.m02;
-bgrsm;BGR;M3;;;;bgr.m03;
-bgrsm;BGR;M4;;;;bgr.m04;
+bgrsm;BGR;M1;;;Sofia;bgr.m01;
+bgrsm;BGR;M2;;;Sofia;bgr.m02;
+bgrsm;BGR;M3;;;Sofia;bgr.m03;
+bgrsm;BGR;M4;;;Sofia;bgr.m04;
