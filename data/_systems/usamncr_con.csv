@@ -1,8 +1,0 @@
-systemName;route;banner;groupName;roots
-usamncr;HarLn;;Harlem Line;ny.harln
-usamncr;HudLn;;Hudson Line;ny.hudln
-usamncr;NewHavLn;;New Haven Line;ny.newhavln,ct.newhavln
-usamncr;NewHavLn;;New Haven Line (New Canaan Branch);ct.newhavlncan
-usamncr;NewHavLn;;New Haven Line (Danbury Branch);ct.newhavlndan
-usamncr;NewHavLn;;New Haven Line (Waterbury Branch);ct.newhavlnwat
-usamncr;PortJerLn;;Port Jervis Line;nj.portjerln,ny.portjerln
