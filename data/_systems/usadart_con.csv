@@ -1,5 +1,5 @@
 systemName;route;banner;groupName;roots
 usadart;BlueLn;;Blue Line;tx.blueln
-usadart;GreLn;;Green Line;tx.greln
+usadart;GreLn;;Green Line (Dallas);tx.greln
 usadart;OraLn;;Orange Line;tx.oraln
-usadart;RedLn;;Red Line;tx.redln
+usadart;RedLn;;Red Line (Dallas);tx.redln
