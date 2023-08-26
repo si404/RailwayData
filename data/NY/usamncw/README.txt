@@ -6,7 +6,7 @@ Hudson Line
 
 New Haven Line
 	Grand Central - New Haven	NewHavLn
-	Stamford - New Caanan		NewHavLnCaa
+	Stamford - New Canaan		NewHavLnCan
 	South Norwalk - Danbury		NewHavLnDan
 	Bridgeport - Waterbury		NewHavLnWat
 
