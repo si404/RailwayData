@@ -1,0 +1,4 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+usamtahc;TX;GreLnHou;;;Green Line (Houston);tx.grelnhou;
+usamtahc;TX;PurLnHou;;;Purple Line;tx.purlnhou;
+usamtahc;TX;RedLnHou;;;Red Line (Houston);tx.redlnhou;
