@@ -11,7 +11,7 @@ New Haven Line
 	Grand Central - Stamford	2tph	NewHavLnInn
 	Grand Central - New Haven	2tph	NewHavLnOut
 	Stamford - New Caanan	1tph	NewHavLnCaa
-	South Norwalk - Danville	2tp3h (every 90 minutes ish)	NewHavLnDan
+	South Norwalk - Danvill	2tp3h (every 90 minutes ish)	NewHavLnDan
 	Bridgeport - Waterbury	2tp3h (every 90 minutes ish)	NewHavLnWat
 
 Port Jervis Line
