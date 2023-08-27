@@ -44,6 +44,7 @@ belbt;BEL;Tramwway de Bruxelles / Brusselse tram;TMred;4;preview
 belgt;BEL;Gentse tram;TMred;4;preview
 belkt;BEL;Kusttram;TMred;4;preview
 bgrsm;BGR;Sofiyski Metropoliten;TMblue;3;preview
+bgrst;BGR;Sofiyski Trams;TMred;4;preview
 canttc;CAN;Toronto Subway;TMblue;3;preview
 canstm;CAN;Montreal Metro;TMblue;3;preview
 canrem;CAN;Montreal Réseau Express Métropolitain;TMred;4;preview
@@ -287,6 +288,7 @@ hkgnpcc;CHN;Ngong Ping Cable Car;TMyellow;5;preview
 hkgop;CHN;Ocean Park Transport;TMyellow;5;preview
 hkgpt;CHN;Peak Tram;TMyellow;5;preview
 hrvzt;HRV;Tramvajski promet u Zagrebu;TMred;4;preview
+hunbm;HUN;Budapesti metró;TMblue;3;preview
 imnimr;IMN;Isle of Man Railways;TMred;4;preview
 irlent;IRL;Enterprise;TMgray;1;preview
 irlluas;IRL;Luas;TMred;4;preview
@@ -346,6 +348,7 @@ polwt;POL;Tramwaje w Warszawie;TMred;4;preview
 polwrt;POL;Tramwaje we Wrocławiu;TMred;4;preview
 sgpmrt;SGP;Singapore Mass Rapid Transit;TMblue;3;preview
 sgplrt;SGP;Singapore Light Rail Transit;TMyellow;5;preview
+srbbt;SRB;Belgrade trams;TMred;4;preview
 svkzdb;SVK;Železničná_doprava v Bratislave;TMgreen;2;preview
 svkedb;SVK;Električková_doprava v Bratislave;TMred;4;preview
 svkedk;SVK;Električková_doprava v Košiciach;TMred;4;preview
