@@ -16,8 +16,8 @@ RastattBeinle http://www.openstreetmap.org/?lat=48.852157&lon=8.225069
 Kuppenheim http://www.openstreetmap.org/?lat=48.834025&lon=8.256462
 Bischweier http://www.openstreetmap.org/?lat=48.832097&lon=8.277597
 BadRotenfelsSchloss http://www.openstreetmap.org/?lat=48.819983&lon=8.297081
-BadRotenfelsBahnhofRotherma http://www.openstreetmap.org/?lat=48.815688&lon=8.303347
-BadRotenfelsWeinbrennerstrasse http://www.openstreetmap.org/?lat=48.811209&lon=8.312466
+BadRotFelsBfRot http://www.openstreetmap.org/?lat=48.815688&lon=8.303347
+BadRotFelsWeinBreStr http://www.openstreetmap.org/?lat=48.811209&lon=8.312466
 Gaggenau http://www.openstreetmap.org/?lat=48.805535&lon=8.320169
 GaggenauMercedesBenzWerk http://www.openstreetmap.org/?lat=48.798009&lon=8.327444
 Ottenau http://www.openstreetmap.org/?lat=48.792835&lon=8.338344
@@ -43,8 +43,8 @@ BaiersbronnSchulzentrum http://www.openstreetmap.org/?lat=48.510620&lon=8.375831
 Baiersbronn http://www.openstreetmap.org/?lat=48.503654&lon=8.372054
 Friedrichstal http://www.openstreetmap.org/?lat=48.481442&lon=8.376904
 FreudenstadtStadt http://www.openstreetmap.org/?lat=48.467601&lon=8.411150
-FreudenstadtSchulzentrumPanoramabad http://www.openstreetmap.org/?lat=48.467416&lon=8.421235
-FreudenstadtIndustriegebietSchmid http://www.openstreetmap.org/?lat=48.464492&lon=8.435161
+FreStaSchZenPanBad http://www.openstreetmap.org/?lat=48.467416&lon=8.421235
+FreStaIndGebSch http://www.openstreetmap.org/?lat=48.464492&lon=8.435161
 +X380325_A http://www.openstreetmap.org/?lat=48.462130&lon=8.434389
 FreudenstadtHbf http://www.openstreetmap.org/?lat=48.460202&lon=8.428745
 +X380325_B http://www.openstreetmap.org/?lat=48.462130&lon=8.434389

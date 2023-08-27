@@ -6,8 +6,8 @@ Siemensallee http://www.openstreetmap.org/?lat=49.027690&lon=8.350017
 NeureuterStrasse http://www.openstreetmap.org/?lat=49.023637&lon=8.357484
 Feierabendweg http://www.openstreetmap.org/?lat=49.021991&lon=8.360553
 Hertzstrasse http://www.openstreetmap.org/?lat=49.019951&lon=8.364308
-StadtischesKlinikumKussmaulstrasse http://www.openstreetmap.org/?lat=49.016855&lon=8.369372
-StadtischesKlinikumMoltkestrasse http://www.openstreetmap.org/?lat=49.015106&lon=8.375058
+StaKliKussMaulStr http://www.openstreetmap.org/?lat=49.016855&lon=8.369372
+StaKliMolStr http://www.openstreetmap.org/?lat=49.015106&lon=8.375058
 +X257345 http://www.openstreetmap.org/?lat=49.011018&lon=8.374704
 Yorckstrasse http://www.openstreetmap.org/?lat=49.010912&lon=8.375680
 +X280890 http://www.openstreetmap.org/?lat=49.010694&lon=8.379843
@@ -37,11 +37,11 @@ Kronenplatz http://www.openstreetmap.org/?lat=49.009265&lon=8.410120
 DurlacherTorKITCampusSud http://www.openstreetmap.org/?lat=49.008989&lon=8.417158
 +X512423 http://www.openstreetmap.org/?lat=49.008280&lon=8.420902
 GottesauerPlatzBGV http://www.openstreetmap.org/?lat=49.007467&lon=8.424883
-TullastrasseAlterSchlachthof http://www.openstreetmap.org/?lat=49.006398&lon=8.431084
+TulStrAltSchHof http://www.openstreetmap.org/?lat=49.006398&lon=8.431084
 Weinweg http://www.openstreetmap.org/?lat=49.004441&lon=8.441298
 Untermuhlstrasse http://www.openstreetmap.org/?lat=49.001992&lon=8.455417
 +X654634 http://www.openstreetmap.org/?lat=49.001485&lon=8.458679
-AuerStrasseDrWillmarSchwabe http://www.openstreetmap.org/?lat=49.000415&lon=8.463442
+AuerStrWilSch http://www.openstreetmap.org/?lat=49.000415&lon=8.463442
 +X443565 http://www.openstreetmap.org/?lat=49.000077&lon=8.464751
 Gritznerstrasse http://www.openstreetmap.org/?lat=48.999303&lon=8.464000
 Killisfeldstrasse http://www.openstreetmap.org/?lat=48.997332&lon=8.461962

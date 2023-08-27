@@ -9,7 +9,7 @@ LinkenheimSud http://www.openstreetmap.org/?lat=49.116875&lon=8.411536
 FrankfurterStrasse http://www.openstreetmap.org/?lat=49.100925&lon=8.403876
 LeopoldshafenLeopolstrasse http://www.openstreetmap.org/?lat=49.097173&lon=8.401086
 Viermorgen http://www.openstreetmap.org/?lat=49.090341&lon=8.400861
-EggensteinSchwerinerStrasse http://www.openstreetmap.org/?lat=49.085753&lon=8.402159
+EggSteSchStr http://www.openstreetmap.org/?lat=49.085753&lon=8.402159
 EggensteinSpockerWeg http://www.openstreetmap.org/?lat=49.079745&lon=8.399670
 Eggenstein http://www.openstreetmap.org/?lat=49.075802&lon=8.397986
 EggensteinSud http://www.openstreetmap.org/?lat=49.071072&lon=8.396033
@@ -22,7 +22,7 @@ HausBethlehem http://www.openstreetmap.org/?lat=49.033440&lon=8.376614
 KurtSchumacherStrasse http://www.openstreetmap.org/?lat=49.030134&lon=8.376249
 AugustBebelStrasse http://www.openstreetmap.org/?lat=49.024021&lon=8.375745
 KnielingerAllee http://www.openstreetmap.org/?lat=49.018828&lon=8.375359
-StadtischesKlinikumMoltkestrasse http://www.openstreetmap.org/?lat=49.015106&lon=8.375058
+StaKliMolStr http://www.openstreetmap.org/?lat=49.015106&lon=8.375058
 +X257345 http://www.openstreetmap.org/?lat=49.011018&lon=8.374704
 Yorckstrasse http://www.openstreetmap.org/?lat=49.010912&lon=8.375680
 +X280890 http://www.openstreetmap.org/?lat=49.010694&lon=8.379843
@@ -54,7 +54,7 @@ Busenbach http://www.openstreetmap.org/?lat=48.929298&lon=8.450546
 +X353690 http://www.openstreetmap.org/?lat=48.926528&lon=8.452939
 ReichenbachKurpark http://www.openstreetmap.org/?lat=48.918812&lon=8.473120
 Reichenbach http://www.openstreetmap.org/?lat=48.920434&lon=8.479600
-LangensteinbachSchiesshuttenacker http://www.openstreetmap.org/?lat=48.920039&lon=8.499427
+LanSteBachSchHutAck http://www.openstreetmap.org/?lat=48.920039&lon=8.499427
 Langensteinbach http://www.openstreetmap.org/?lat=48.915372&lon=8.503118
 LangensteinbachStBarbara http://www.openstreetmap.org/?lat=48.909674&lon=8.499470
 Spielberg http://www.openstreetmap.org/?lat=48.897502&lon=8.474665
