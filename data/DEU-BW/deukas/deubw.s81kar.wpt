@@ -1,4 +1,4 @@
-KarlsruheHauptbahnhof http://www.openstreetmap.org/?lat=48.993538&lon=8.401880
+KarlsruheHbf http://www.openstreetmap.org/?lat=48.993538&lon=8.401880
 +X702902 http://www.openstreetmap.org/?lat=48.990518&lon=8.393244
 +X256953 http://www.openstreetmap.org/?lat=48.989360&lon=8.391162
 +X577660 http://www.openstreetmap.org/?lat=48.984456&lon=8.388577
@@ -46,7 +46,7 @@ FreudenstadtStadt http://www.openstreetmap.org/?lat=48.467601&lon=8.411150
 FreudenstadtSchulzentrumPanoramabad http://www.openstreetmap.org/?lat=48.467416&lon=8.421235
 FreudenstadtIndustriegebietSchmid http://www.openstreetmap.org/?lat=48.464492&lon=8.435161
 +X380325_A http://www.openstreetmap.org/?lat=48.462130&lon=8.434389
-FreudenstadtHauptbahnhof http://www.openstreetmap.org/?lat=48.460202&lon=8.428745
+FreudenstadtHbf http://www.openstreetmap.org/?lat=48.460202&lon=8.428745
 +X380325_B http://www.openstreetmap.org/?lat=48.462130&lon=8.434389
 GruntalWittlensweiler http://www.openstreetmap.org/?lat=48.475361&lon=8.460159
 DornstettenAach http://www.openstreetmap.org/?lat=48.473305&lon=8.482604

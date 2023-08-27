@@ -1,6 +1,6 @@
 Albtalbahnhof http://www.openstreetmap.org/?lat=48.993640&lon=8.396108
 +X730739 http://www.openstreetmap.org/?lat=48.994409&lon=8.396248
-Hauptbahnhof http://www.openstreetmap.org/?lat=48.993538&lon=8.401880
+Hbf http://www.openstreetmap.org/?lat=48.993538&lon=8.401880
 Poststrasse http://www.openstreetmap.org/?lat=48.995139&lon=8.403597
 +X351026 http://www.openstreetmap.org/?lat=48.995836&lon=8.404444
 Augartenstrasse http://www.openstreetmap.org/?lat=48.998641&lon=8.403704
@@ -61,7 +61,7 @@ BockingenWest http://www.openstreetmap.org/?lat=49.139256&lon=9.165473
 Berufsschulzentrum http://www.openstreetmap.org/?lat=49.140379&lon=9.181480
 BockingenSonnenbrunnen http://www.openstreetmap.org/?lat=49.140632&lon=9.191179
 +X508284 http://www.openstreetmap.org/?lat=49.140583&lon=9.199483
-HeilbronnHauptbahnhofWillyBrandtPlatz http://www.openstreetmap.org/?lat=49.143068&lon=9.207680
+HeilbronnHbfWillyBrandtPlatz http://www.openstreetmap.org/?lat=49.143068&lon=9.207680
 NeckarturmKurtSchumacherPlatz http://www.openstreetmap.org/?lat=49.142632&lon=9.213710
 Rathaus http://www.openstreetmap.org/?lat=49.142029&lon=9.218581
 Harmonie http://www.openstreetmap.org/?lat=49.141650&lon=9.222229
@@ -84,5 +84,5 @@ Scheppach http://www.openstreetmap.org/?lat=49.161663&lon=9.434273
 Bretzfeld http://www.openstreetmap.org/?lat=49.172943&lon=9.440539
 Bitzfeld http://www.openstreetmap.org/?lat=49.187208&lon=9.453306
 OhringenWest http://www.openstreetmap.org/?lat=49.200200&lon=9.485686
-OhringenHauptbahnhof http://www.openstreetmap.org/?lat=49.203257&lon=9.502702
+OhringenHbf http://www.openstreetmap.org/?lat=49.203257&lon=9.502702
 OhringenCappel http://www.openstreetmap.org/?lat=49.201897&lon=9.526906
