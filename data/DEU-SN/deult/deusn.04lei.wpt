@@ -1,9 +1,9 @@
 GohlisLandsbergerStrasse http://www.openstreetmap.org/?lat=51.381615&lon=12.355210
 Beyerleinstrasse http://www.openstreetmap.org/?lat=51.378668&lon=12.358857
-LandsbergerMaxLiebermannStrasse http://www.openstreetmap.org/?lat=51.375568&lon=12.361282
+LanBerMaxLieStr http://www.openstreetmap.org/?lat=51.375568&lon=12.361282
 Viertelsweg http://www.openstreetmap.org/?lat=51.371844&lon=12.364007
 BahnhofCoppiplatz http://www.openstreetmap.org/?lat=51.367032&lon=12.366250
-GeorgSchumannLindenthalerStrasse http://www.openstreetmap.org/?lat=51.362486&lon=12.365466
+GeoScLinThaStr http://www.openstreetmap.org/?lat=51.362486&lon=12.365466
 Menckestrasse http://www.openstreetmap.org/?lat=51.359432&lon=12.362312
 Stallebaumstrasse http://www.openstreetmap.org/?lat=51.357589&lon=12.359372
 AmMuckenschlosschen http://www.openstreetmap.org/?lat=51.349167&lon=12.355199
@@ -13,8 +13,8 @@ Leibnizstrasse http://www.openstreetmap.org/?lat=51.343330&lon=12.365627
 +X401107 http://www.openstreetmap.org/?lat=51.344275&lon=12.371131
 Goerdelerring http://www.openstreetmap.org/?lat=51.344235&lon=12.372816
 +X257822 http://www.openstreetmap.org/?lat=51.344513&lon=12.378834
-Hauptbahnhof http://www.openstreetmap.org/?lat=51.344677&lon=12.381195
-Hauptbahnhof http://www.openstreetmap.org/?lat=51.344677&lon=12.381195
+Hbf http://www.openstreetmap.org/?lat=51.344677&lon=12.381195
+Hbf http://www.openstreetmap.org/?lat=51.344677&lon=12.381195
 +X111135 http://www.openstreetmap.org/?lat=51.343477&lon=12.381452
 Augustusplatz http://www.openstreetmap.org/?lat=51.338732&lon=12.381924
 Johannisplatz http://www.openstreetmap.org/?lat=51.338136&lon=12.385122
@@ -30,4 +30,4 @@ BreslauerStrasse http://www.openstreetmap.org/?lat=51.323623&lon=12.415441
 Weissestrasse http://www.openstreetmap.org/?lat=51.321886&lon=12.418735
 RathausStotteritz http://www.openstreetmap.org/?lat=51.319211&lon=12.419497
 Kolmstrasse http://www.openstreetmap.org/?lat=51.320082&lon=12.426020
-StotteritzHolzhauserStrasse http://www.openstreetmap.org/?lat=51.319217&lon=12.429689
+StoHolzHauStr http://www.openstreetmap.org/?lat=51.319217&lon=12.429689
