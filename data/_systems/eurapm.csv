@@ -1,0 +1,9 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+eurapm;ENG;BARL;;;Birmingham Air-Rail Link;eng.barl;
+eurapm;ENG;GAST;;;London Gatwick Airport Shuttle Transit;eng.gast;
+eurapm;ENG;HPRT;5A;;London Heathrow PRT (Terminal 5 - Parking A);eng.hprt5a;
+eurapm;ENG;HPRT;5B;;London Heathrow PRT (Terminal 5 - Parking B);eng.hprt5b;
+eurapm;ENG;HPRT;AB;;London Heathrow PRT (Parking A - Parking B);eng.hprtab;
+eurapm;ENG;DART;;;London Luton Direct Air-Rail Transit;eng.dart;
+eurapm;FRA-IDF;CDGVAL;;;Paris CDG Véhicule Automatique Léger;fraidf.cdgval;
+eurapm;FRA-IDF;OrlyVAL;;;Paris Orly Véhicule Automatique Léger;fraidf.orlyval;

@@ -1,0 +1,6 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+eurat;FRA-BRE;TC;;;Brest Téléphérique 'Ligne C';frabre.tc;
+eurat;ITA-CAM;F;;;Funivie di Castellammare 'Del Faito';itacam.f;
+eurat;FRA-ARA;TGB;;;Téléphérique de Grenoble Bastille 'Les bulles';fraara.tgb;
+eurat;ENG;LCC;;;London Cable Car;eng.lcc;
+eurat;FRA-OCC;Teleo;;;Toulouse Téléphérique urbain 'Téléo';fraocc.teleo;
