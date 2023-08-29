@@ -1,5 +1,5 @@
-Flughafen http://www.openstreetmap.org/?lat=48.353754&lon=11.786227
-FlughafenBesucherpark http://www.openstreetmap.org/?lat=48.352100&lon=11.763783
+FlugHafMun +Flughafen http://www.openstreetmap.org/?lat=48.353754&lon=11.786227
+FlugHafMunBesPark http://www.openstreetmap.org/?lat=48.352100&lon=11.763783
 +X253584 http://www.openstreetmap.org/?lat=48.350331&lon=11.741295
 +X292393 http://www.openstreetmap.org/?lat=48.332482&lon=11.686707
 +X341257 http://www.openstreetmap.org/?lat=48.329129&lon=11.671085
@@ -23,7 +23,7 @@ Donnersbergerbrucke http://www.openstreetmap.org/?lat=48.142630&lon=11.536503
 Hackerbrucke http://www.openstreetmap.org/?lat=48.141943&lon=11.548541
 +X759321 http://www.openstreetmap.org/?lat=48.141399&lon=11.551201
 +X835204 http://www.openstreetmap.org/?lat=48.142172&lon=11.553197
-Hauptbahnhof http://www.openstreetmap.org/?lat=48.140325&lon=11.559076
+Hbf http://www.openstreetmap.org/?lat=48.140325&lon=11.559076
 KarlsplatzStachus http://www.openstreetmap.org/?lat=48.139452&lon=11.565664
 Marienplatz http://www.openstreetmap.org/?lat=48.137160&lon=11.575470
 Isartor http://www.openstreetmap.org/?lat=48.134211&lon=11.583152

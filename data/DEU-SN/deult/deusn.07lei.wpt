@@ -1,4 +1,4 @@
-BohlitzEhrenbergBerghausenerStrasse http://www.openstreetmap.org/?lat=51.361522&lon=12.271943
+BohEhrBergBergHauStr http://www.openstreetmap.org/?lat=51.361522&lon=12.271943
 Forstweg http://www.openstreetmap.org/?lat=51.361220&lon=12.277168
 LudwigJahnStrasse http://www.openstreetmap.org/?lat=51.360276&lon=12.285354
 Sudstrasse http://www.openstreetmap.org/?lat=51.359412&lon=12.292500
@@ -10,7 +10,7 @@ Pfingstweide http://www.openstreetmap.org/?lat=51.349455&lon=12.310020
 RathausLeutzsch http://www.openstreetmap.org/?lat=51.347507&lon=12.314188
 Diakonissenhaus http://www.openstreetmap.org/?lat=51.343625&lon=12.321038
 Wielandstrasse http://www.openstreetmap.org/?lat=51.341326&lon=12.324225
-GeorgSchwarzStrasseMerseburgerStrasse http://www.openstreetmap.org/?lat=51.338143&lon=12.327325
+GeoSchStrMerBurStr http://www.openstreetmap.org/?lat=51.338143&lon=12.327325
 +X445143 http://www.openstreetmap.org/?lat=51.337774&lon=12.332486
 LindenauerMarkt http://www.openstreetmap.org/?lat=51.337144&lon=12.334632
 AngerbruckeStrassenbahnhof http://www.openstreetmap.org/?lat=51.337345&lon=12.339996
@@ -20,7 +20,7 @@ Leibnizstrasse http://www.openstreetmap.org/?lat=51.343330&lon=12.365627
 +X401107 http://www.openstreetmap.org/?lat=51.344275&lon=12.371131
 Goerdelerring http://www.openstreetmap.org/?lat=51.344235&lon=12.372816
 +X257822 http://www.openstreetmap.org/?lat=51.344513&lon=12.378834
-Hauptbahnhof http://www.openstreetmap.org/?lat=51.344677&lon=12.381195
+Hbf http://www.openstreetmap.org/?lat=51.344677&lon=12.381195
 +X111135 http://www.openstreetmap.org/?lat=51.343477&lon=12.381452
 Augustusplatz http://www.openstreetmap.org/?lat=51.338732&lon=12.381924
 Johannisplatz http://www.openstreetmap.org/?lat=51.338136&lon=12.385122
@@ -41,6 +41,6 @@ AmVorwerk http://www.openstreetmap.org/?lat=51.352239&lon=12.458839
 Ahornstrasse http://www.openstreetmap.org/?lat=51.356149&lon=12.460223
 PaunsdorfNord http://www.openstreetmap.org/?lat=51.360788&lon=12.470448
 Hermelinstrasse http://www.openstreetmap.org/?lat=51.358725&lon=12.473688
-PaunsdorferAlleePermoserstrasse http://www.openstreetmap.org/?lat=51.351301&lon=12.479224
-PaunsdorfCenter http://www.openstreetmap.org/?lat=51.348822&lon=12.479095
+PauDorfAllPerStr http://www.openstreetmap.org/?lat=51.351301&lon=12.479224
+PauDorfCen http://www.openstreetmap.org/?lat=51.348822&lon=12.479095
 Sommerfeld http://www.openstreetmap.org/?lat=51.346222&lon=12.478752

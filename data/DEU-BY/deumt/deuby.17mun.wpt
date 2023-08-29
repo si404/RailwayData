@@ -12,9 +12,9 @@ Donnersbergerstrasse http://www.openstreetmap.org/?lat=48.146271&lon=11.535881
 Marsstrasse http://www.openstreetmap.org/?lat=48.145025&lon=11.541910
 Hackerbrucke http://www.openstreetmap.org/?lat=48.143615&lon=11.548423
 Hopfenstrasse http://www.openstreetmap.org/?lat=48.142326&lon=11.554495
-HauptbahnhofNord http://www.openstreetmap.org/?lat=48.141546&lon=11.560332
+HbfNord http://www.openstreetmap.org/?lat=48.141546&lon=11.560332
 +X991500 http://www.openstreetmap.org/?lat=48.141045&lon=11.561040
-Hauptbahnhof http://www.openstreetmap.org/?lat=48.140325&lon=11.559076
+Hbf http://www.openstreetmap.org/?lat=48.140325&lon=11.559076
 +X775299 http://www.openstreetmap.org/?lat=48.139326&lon=11.561040
 KarlsplatzStachus http://www.openstreetmap.org/?lat=48.139452&lon=11.565664
 +X784359 http://www.openstreetmap.org/?lat=48.136212&lon=11.564945
@@ -34,7 +34,7 @@ Bundesfinanzhof http://www.openstreetmap.org/?lat=48.148304&lon=11.605564
 Herkomerplatz http://www.openstreetmap.org/?lat=48.150866&lon=11.608837
 Effnerplatz http://www.openstreetmap.org/?lat=48.152062&lon=11.613203
 Arabellastrasse http://www.openstreetmap.org/?lat=48.153515&lon=11.618707
-ArabellaparkKlinikumBogenhausen http://www.openstreetmap.org/?lat=48.153683&lon=11.622548
+AraParkKliBogHau http://www.openstreetmap.org/?lat=48.153683&lon=11.622548
 Cosminabad http://www.openstreetmap.org/?lat=48.153536&lon=11.628771
 Schlosselgarten http://www.openstreetmap.org/?lat=48.158696&lon=11.629007
 PrinzEugenPark http://www.openstreetmap.org/?lat=48.162568&lon=11.629211

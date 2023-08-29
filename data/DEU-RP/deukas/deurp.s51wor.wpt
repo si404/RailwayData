@@ -9,7 +9,7 @@ RulzheimBahnhof http://www.openstreetmap.org/?lat=49.160730&lon=8.290300
 RulzheimFreizeitzentrum http://www.openstreetmap.org/?lat=49.151573&lon=8.279357
 RheinzabernBahnhof http://www.openstreetmap.org/?lat=49.119775&lon=8.274229
 RheinzabernRappengasse http://www.openstreetmap.org/?lat=49.114466&lon=8.273242
-RheinzabernAlteRomerstrasse http://www.openstreetmap.org/?lat=49.109452&lon=8.272984
+RheZabAlteRomStr http://www.openstreetmap.org/?lat=49.109452&lon=8.272984
 JockgrimBahnhof http://www.openstreetmap.org/?lat=49.091764&lon=8.272276
 WorthZugelstrasse http://www.openstreetmap.org/?lat=49.052755&lon=8.261955
 +X137487 http://www.openstreetmap.org/?lat=49.049834&lon=8.263865
@@ -18,5 +18,5 @@ WorthZugelstrasse http://www.openstreetmap.org/?lat=49.052755&lon=8.261955
 Worth http://www.openstreetmap.org/?lat=49.045678&lon=8.273156
 +X191844 http://www.openstreetmap.org/?lat=49.042450&lon=8.280398
 MaximiliansauWest http://www.openstreetmap.org/?lat=49.038919&lon=8.291802
-MaximiliansauEisenbahnstrasse http://www.openstreetmap.org/?lat=49.037154&lon=8.298637
+MaxEisBahnStr http://www.openstreetmap.org/?lat=49.037154&lon=8.298637
 RP/BW http://www.openstreetmap.org/?lat=49.036514&lon=8.303218

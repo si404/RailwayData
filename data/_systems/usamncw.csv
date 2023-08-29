@@ -1,0 +1,10 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+usamncw;NY;HarLn;;;Harlem Line;ny.harln;
+usamncw;NY;HudLn;;;Hudson Line;ny.hudln;
+usamncw;NY;NewHavLn;;;New Haven Line;ny.newhavln;
+usamncw;CT;NewHavLn;;;New Haven Line;ct.newhavln;
+usamncw;CT;NewHavLn;;Can;New Haven Line (New Canaan Branch);ct.newhavlncan;
+usamncw;CT;NewHavLn;;Dan;New Haven Line (Danbury Branch);ct.newhavlndan;
+usamncw;CT;NewHavLn;;Wat;New Haven Line (Waterbury Branch);ct.newhavlnwat;
+usamncw;NJ;PortJerLn;;;Port Jervis Line;nj.portjerln;
+usamncw;NY;PortJerLn;;;Port Jervis Line;ny.portjerln;

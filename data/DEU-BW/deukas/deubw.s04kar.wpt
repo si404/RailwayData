@@ -1,6 +1,6 @@
 Albtalbahnhof http://www.openstreetmap.org/?lat=48.993640&lon=8.396108
 +X730739 http://www.openstreetmap.org/?lat=48.994409&lon=8.396248
-Hauptbahnhof http://www.openstreetmap.org/?lat=48.993538&lon=8.401880
+Hbf http://www.openstreetmap.org/?lat=48.993538&lon=8.401880
 Poststrasse http://www.openstreetmap.org/?lat=48.995139&lon=8.403597
 +X351026 http://www.openstreetmap.org/?lat=48.995836&lon=8.404444
 Augartenstrasse http://www.openstreetmap.org/?lat=48.998641&lon=8.403704
@@ -11,7 +11,7 @@ Kronenplatz http://www.openstreetmap.org/?lat=49.009265&lon=8.410120
 DurlacherTorKITCampusSud http://www.openstreetmap.org/?lat=49.008989&lon=8.417158
 +X512423 http://www.openstreetmap.org/?lat=49.008280&lon=8.420902
 GottesauerPlatzBGV http://www.openstreetmap.org/?lat=49.007467&lon=8.424883
-TullastrasseAlterSchlachthof http://www.openstreetmap.org/?lat=49.006398&lon=8.431084
+TulStrAltSchHof http://www.openstreetmap.org/?lat=49.006398&lon=8.431084
 Weinweg http://www.openstreetmap.org/?lat=49.004441&lon=8.441298
 Untermuhlstrasse http://www.openstreetmap.org/?lat=49.001992&lon=8.455417
 +X654634 http://www.openstreetmap.org/?lat=49.001485&lon=8.458679
@@ -61,8 +61,8 @@ BockingenWest http://www.openstreetmap.org/?lat=49.139256&lon=9.165473
 Berufsschulzentrum http://www.openstreetmap.org/?lat=49.140379&lon=9.181480
 BockingenSonnenbrunnen http://www.openstreetmap.org/?lat=49.140632&lon=9.191179
 +X508284 http://www.openstreetmap.org/?lat=49.140583&lon=9.199483
-HeilbronnHauptbahnhofWillyBrandtPlatz http://www.openstreetmap.org/?lat=49.143068&lon=9.207680
-NeckarturmKurtSchumacherPlatz http://www.openstreetmap.org/?lat=49.142632&lon=9.213710
+HeilBroHbfWilBraPla http://www.openstreetmap.org/?lat=49.143068&lon=9.207680
+NecTurmKurtSchuPla http://www.openstreetmap.org/?lat=49.142632&lon=9.213710
 Rathaus http://www.openstreetmap.org/?lat=49.142029&lon=9.218581
 Harmonie http://www.openstreetmap.org/?lat=49.141650&lon=9.222229
 Friedensplatz http://www.openstreetmap.org/?lat=49.141271&lon=9.228880
@@ -72,7 +72,7 @@ Pfuhlpark http://www.openstreetmap.org/?lat=49.139965&lon=9.241154
 Trappensee http://www.openstreetmap.org/?lat=49.140260&lon=9.252677
 WeinsbergWest http://www.openstreetmap.org/?lat=49.151243&lon=9.273963
 Weinsberg http://www.openstreetmap.org/?lat=49.148184&lon=9.286194
-WeinsbergEllhofenGewerbegebiet http://www.openstreetmap.org/?lat=49.148717&lon=9.305463
+WeiBergEllHofGewGeb http://www.openstreetmap.org/?lat=49.148717&lon=9.305463
 Ellhofen http://www.openstreetmap.org/?lat=49.149868&lon=9.316063
 Sulzbach http://www.openstreetmap.org/?lat=49.148352&lon=9.340653
 SulzbachSchule http://www.openstreetmap.org/?lat=49.144899&lon=9.351382
@@ -84,5 +84,5 @@ Scheppach http://www.openstreetmap.org/?lat=49.161663&lon=9.434273
 Bretzfeld http://www.openstreetmap.org/?lat=49.172943&lon=9.440539
 Bitzfeld http://www.openstreetmap.org/?lat=49.187208&lon=9.453306
 OhringenWest http://www.openstreetmap.org/?lat=49.200200&lon=9.485686
-OhringenHauptbahnhof http://www.openstreetmap.org/?lat=49.203257&lon=9.502702
+OhringenHbf http://www.openstreetmap.org/?lat=49.203257&lon=9.502702
 OhringenCappel http://www.openstreetmap.org/?lat=49.201897&lon=9.526906

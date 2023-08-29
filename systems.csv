@@ -44,6 +44,7 @@ belbt;BEL;Tramwway de Bruxelles / Brusselse tram;TMred;4;preview
 belgt;BEL;Gentse tram;TMred;4;preview
 belkt;BEL;Kusttram;TMred;4;preview
 bgrsm;BGR;Sofiyski Metropoliten;TMblue;3;preview
+bgrst;BGR;Sofiyski Trams;TMred;4;preview
 canttc;CAN;Toronto Subway;TMblue;3;preview
 canstm;CAN;Montreal Metro;TMblue;3;preview
 canrem;CAN;Montreal Réseau Express Métropolitain;TMred;4;preview
@@ -287,6 +288,7 @@ hkgnpcc;CHN;Ngong Ping Cable Car;TMyellow;5;preview
 hkgop;CHN;Ocean Park Transport;TMyellow;5;preview
 hkgpt;CHN;Peak Tram;TMyellow;5;preview
 hrvzt;HRV;Tramvajski promet u Zagrebu;TMred;4;preview
+hunbm;HUN;Budapesti metró;TMblue;3;preview
 imnimr;IMN;Isle of Man Railways;TMred;4;preview
 irlent;IRL;Enterprise;TMgray;1;preview
 irlluas;IRL;Luas;TMred;4;preview
@@ -346,6 +348,7 @@ polwt;POL;Tramwaje w Warszawie;TMred;4;preview
 polwrt;POL;Tramwaje we Wrocławiu;TMred;4;preview
 sgpmrt;SGP;Singapore Mass Rapid Transit;TMblue;3;preview
 sgplrt;SGP;Singapore Light Rail Transit;TMyellow;5;preview
+srbbt;SRB;Belgrade trams;TMred;4;preview
 svkzdb;SVK;Železničná_doprava v Bratislave;TMgreen;2;preview
 svkedb;SVK;Električková_doprava v Bratislave;TMred;4;preview
 svkedk;SVK;Električková_doprava v Košiciach;TMred;4;preview
@@ -354,12 +357,14 @@ usacndx;USA;CTrail;TMgreen;2;preview
 usalirr;USA;Long Island Rail Road;TMgreen;2;preview
 usamarc;USA;MARC Train;TMgreen;2;preview
 usambtx;USA;MBTA Commuter Rail;TMgreen;2;preview
-usamncr;USA;Metro-North;TMgreen;2;preview
+usamncw;USA;Metro-North;TMgreen;2;preview
 usanjtr;USA;NJ Transit Rail;TMgreen;2;preview
 usasepa;USA;SEPTA Regional Rail;TMgreen;2;preview
-usavre;USA;Virginia Railway Express;TMgreen;2;preview
+usavrex;USA;Virginia Railway Express;TMgreen;2;preview
 usabhcr;USA;Black Hills Central Railroad;TMgreen;2;preview
 usapvhmr;USA;Prairie Village, Herman, & Milwaukee Railroad;TMgreen;2;preview
+usavale;USA;Essex Steam Train;TMgreen;2;preview
+usasrc;USA;Strasburg Rail Roard;TMgreen;2;preview
 usabmsl;USA;Baltimore Metro SubwayLink;TMblue;3;preview
 usambta;USA;MBTA Subway;TMblue;3;preview
 usapatco;USA;PATCO Speedline;TMblue;3;preview
@@ -387,6 +392,7 @@ usapitlr;USA;Pittsburgh Light Rail (The T);TMred;4;preview
 usatide;USA;The Tide;TMred;4;preview
 usartalr;USA;Cleveland RTA Light Rail;TMred;4;preview
 usadart;USA;DART Light Rail;TMred;4;preview
+usamtahc;USA;Houston METRORail;TMred;4;preview
 usaairtrn;USA;AirTrain;TMYellow;5;preview
 usaatl;USA;ATL Sky Train;TMyellow;5;preview
 usahunhts;USA;Huntsville Hospital Tram System;TMYellow;5;preview
