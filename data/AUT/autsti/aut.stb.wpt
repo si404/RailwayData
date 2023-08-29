@@ -1,40 +1,40 @@
-Maximilianstrasse_1 http://www.openstreetmap.org/?lat=47.262380&lon=11.391181
-+X245842_A http://www.openstreetmap.org/?lat=47.264209&lon=11.390623
-+X534683 http://www.openstreetmap.org/?lat=47.264478&lon=11.390532
-Burgerstrasse http://www.openstreetmap.org/?lat=47.264741&lon=11.390333
-+X769957 http://www.openstreetmap.org/?lat=47.266064&lon=11.389496
-TerminalMarktplatz http://www.openstreetmap.org/?lat=47.266465&lon=11.390014
-MariaTheresienStrasse http://www.openstreetmap.org/?lat=47.266923&lon=11.393026
-Museumstrasse http://www.openstreetmap.org/?lat=47.267272&lon=11.395451
-Landesmuseum http://www.openstreetmap.org/?lat=47.266828&lon=11.398669
-+X787721 http://www.openstreetmap.org/?lat=47.266552&lon=11.400912
-+X623467 http://www.openstreetmap.org/?lat=47.266253&lon=11.401073
-Hauptbahnhof http://www.openstreetmap.org/?lat=47.263293&lon=11.401041
-TriumphpforteCasino http://www.openstreetmap.org/?lat=47.262700&lon=11.395419
-AnichstrasseRathausgalerien http://www.openstreetmap.org/?lat=47.265103&lon=11.393552
-+X607236 http://www.openstreetmap.org/?lat=47.264413&lon=11.390746
-+X245842_B http://www.openstreetmap.org/?lat=47.264209&lon=11.390623
-Maximilianstrasse_2 http://www.openstreetmap.org/?lat=47.262380&lon=11.391181
-FranzFischer http://www.openstreetmap.org/?lat=47.259285&lon=11.391835
-Westbahnhof http://www.openstreetmap.org/?lat=47.255528&lon=11.391492
-Cineplexx http://www.openstreetmap.org/?lat=47.256278&lon=11.395386
-Stubaitalbahnhof http://www.openstreetmap.org/?lat=47.253735&lon=11.397661
+Max_1 +Maximilianstrasse_1 http://www.openstreetmap.org/?lat=47.262380&lon=11.391181
++DIV_STB http://www.openstreetmap.org/?lat=47.264209&lon=11.390623
++DIV_13 http://www.openstreetmap.org/?lat=47.264478&lon=11.390532
+Bur +Burgerstrasse http://www.openstreetmap.org/?lat=47.264741&lon=11.390333
++DIV_2 http://www.openstreetmap.org/?lat=47.266064&lon=11.389496
+TerMar +TerminalMarktplatz http://www.openstreetmap.org/?lat=47.266465&lon=11.390014
+MarTheStr +MariaTheresienStrasse http://www.openstreetmap.org/?lat=47.266923&lon=11.393026
+Mus +Museumstrasse http://www.openstreetmap.org/?lat=47.267272&lon=11.395451
+Lan +Landesmuseum http://www.openstreetmap.org/?lat=47.266828&lon=11.398669
++DIV_12 http://www.openstreetmap.org/?lat=47.266552&lon=11.400912
++DIV_5E http://www.openstreetmap.org/?lat=47.266253&lon=11.401073
+Hau +Hauptbahnhof http://www.openstreetmap.org/?lat=47.263293&lon=11.401041
+TriCas +TriumphpforteCasino http://www.openstreetmap.org/?lat=47.262700&lon=11.395419
+AniRat +AnichstrasseRathausgalerien http://www.openstreetmap.org/?lat=47.265103&lon=11.393552
++DIV_5W http://www.openstreetmap.org/?lat=47.264413&lon=11.390746
++DIV_1 http://www.openstreetmap.org/?lat=47.264209&lon=11.390623
+Max_2 +Maximilianstrasse_2 http://www.openstreetmap.org/?lat=47.262380&lon=11.391181
+FraFis +FranzFischer http://www.openstreetmap.org/?lat=47.259285&lon=11.391835
+Wes +Westbahnhof http://www.openstreetmap.org/?lat=47.255528&lon=11.391492
+Cin +Cineplexx http://www.openstreetmap.org/?lat=47.256278&lon=11.395386
+Stu +Stubaitalbahnhof http://www.openstreetmap.org/?lat=47.253735&lon=11.397661
 +X347286 http://www.openstreetmap.org/?lat=47.252517&lon=11.388724
-InnsbruckSonnenburgerhof http://www.openstreetmap.org/?lat=47.246399&lon=11.393595
-NattersGarberbach http://www.openstreetmap.org/?lat=47.242277&lon=11.389711
-NattersHolltal http://www.openstreetmap.org/?lat=47.238547&lon=11.384711
-Natters http://www.openstreetmap.org/?lat=47.232938&lon=11.378553
-MuttersBurgstall http://www.openstreetmap.org/?lat=47.230272&lon=11.382093
-Mutters http://www.openstreetmap.org/?lat=47.228731&lon=11.378424
-MuttersBirchfield http://www.openstreetmap.org/?lat=47.228465&lon=11.367803
-MuttersNockhofweg http://www.openstreetmap.org/?lat=47.224239&lon=11.371708
-MuttersRaitis http://www.openstreetmap.org/?lat=47.218351&lon=11.374819
-MuttersFeldeler http://www.openstreetmap.org/?lat=47.214970&lon=11.375334
-MuttersAusserkreith http://www.openstreetmap.org/?lat=47.209358&lon=11.378188
-MuttersKreith http://www.openstreetmap.org/?lat=47.202623&lon=11.380806
-MuttersBrandeck http://www.openstreetmap.org/?lat=47.196864&lon=11.382737
-TelfesTelferWiesen http://www.openstreetmap.org/?lat=47.189195&lon=11.385977
-TelfesLuimes http://www.openstreetmap.org/?lat=47.172860&lon=11.367288
-TelfesOrt http://www.openstreetmap.org/?lat=47.165140&lon=11.359895
-TelfesStuBay http://www.openstreetmap.org/?lat=47.159424&lon=11.352954
-Fulpmes http://www.openstreetmap.org/?lat=47.155572&lon=11.352396
+InnSon +InnsbruckSonnenburgerhof http://www.openstreetmap.org/?lat=47.246399&lon=11.393595
+NatGar +NattersGarberbach http://www.openstreetmap.org/?lat=47.242277&lon=11.389711
+NatHol +NattersHolltal http://www.openstreetmap.org/?lat=47.238547&lon=11.384711
+Nat +Natters http://www.openstreetmap.org/?lat=47.232938&lon=11.378553
+MutBur +MuttersBurgstall http://www.openstreetmap.org/?lat=47.230272&lon=11.382093
+Mut +Mutters http://www.openstreetmap.org/?lat=47.228731&lon=11.378424
+MutBir +MuttersBirchfield http://www.openstreetmap.org/?lat=47.228465&lon=11.367803
+MutNoc +MuttersNockhofweg http://www.openstreetmap.org/?lat=47.224239&lon=11.371708
+MutRai +MuttersRaitis http://www.openstreetmap.org/?lat=47.218351&lon=11.374819
+MutFel +MuttersFeldeler http://www.openstreetmap.org/?lat=47.214970&lon=11.375334
+MutAus +MuttersAusserkreith http://www.openstreetmap.org/?lat=47.209358&lon=11.378188
+MutKre +MuttersKreith http://www.openstreetmap.org/?lat=47.202623&lon=11.380806
+MutBra +MuttersBrandeck http://www.openstreetmap.org/?lat=47.196864&lon=11.382737
+TelTelWie +TelfesTelferWiesen http://www.openstreetmap.org/?lat=47.189195&lon=11.385977
+TelLui +TelfesLuimes http://www.openstreetmap.org/?lat=47.172860&lon=11.367288
+TelOrt +TelfesOrt http://www.openstreetmap.org/?lat=47.165140&lon=11.359895
+TelStuBay +TelfesStuBay http://www.openstreetmap.org/?lat=47.159424&lon=11.352954
+Ful +Fulpmes http://www.openstreetmap.org/?lat=47.155572&lon=11.352396

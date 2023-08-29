@@ -1,26 +1,26 @@
-Sillpark_1 http://www.openstreetmap.org/?lat=47.265813&lon=11.402693
-+X415327_A http://www.openstreetmap.org/?lat=47.266399&lon=11.401459
-+X623467 http://www.openstreetmap.org/?lat=47.266253&lon=11.401073
-Hauptbahnhof http://www.openstreetmap.org/?lat=47.263293&lon=11.401041
-TriumphpforteCasino http://www.openstreetmap.org/?lat=47.262700&lon=11.395419
-AnichstrasseRathausgalerien http://www.openstreetmap.org/?lat=47.265103&lon=11.393552
-+X607236 http://www.openstreetmap.org/?lat=47.264413&lon=11.390746
-+X534683 http://www.openstreetmap.org/?lat=47.264478&lon=11.390532
-Burgerstrasse http://www.openstreetmap.org/?lat=47.264741&lon=11.390333
-+X769957 http://www.openstreetmap.org/?lat=47.266064&lon=11.389496
-TerminalMarktplatz http://www.openstreetmap.org/?lat=47.266465&lon=11.390014
-MariaTheresienStrasse http://www.openstreetmap.org/?lat=47.266923&lon=11.393026
-Museumstrasse http://www.openstreetmap.org/?lat=47.267272&lon=11.395451
-Landesmuseum http://www.openstreetmap.org/?lat=47.266828&lon=11.398669
-+X787721 http://www.openstreetmap.org/?lat=47.266552&lon=11.400912
-+X415327_B http://www.openstreetmap.org/?lat=47.266399&lon=11.401459
-Sillpark_2 http://www.openstreetmap.org/?lat=47.265813&lon=11.402693
-LeipzigerPlatz http://www.openstreetmap.org/?lat=47.264484&lon=11.405686
-+X726285 http://www.openstreetmap.org/?lat=47.264418&lon=11.406437
-Sonnpark http://www.openstreetmap.org/?lat=47.263334&lon=11.408679
-DrGlatzStrasse http://www.openstreetmap.org/?lat=47.262489&lon=11.413218
-RudolfGreinzStrasse http://www.openstreetmap.org/?lat=47.261826&lon=11.416254
-Sudring http://www.openstreetmap.org/?lat=47.260851&lon=11.419333
-PradlerFriedhof http://www.openstreetmap.org/?lat=47.259198&lon=11.421168
-PhilippineWelserStrasse http://www.openstreetmap.org/?lat=47.257873&lon=11.422799
-Amras http://www.openstreetmap.org/?lat=47.258677&lon=11.426007
+Sil_1 +Sillpark_1 http://www.openstreetmap.org/?lat=47.265813&lon=11.402693
++DIV_1A http://www.openstreetmap.org/?lat=47.266399&lon=11.401459
++DIV_STBS http://www.openstreetmap.org/?lat=47.266253&lon=11.401073
+Hau +Hauptbahnhof http://www.openstreetmap.org/?lat=47.263293&lon=11.401041
+TriCas +TriumphpforteCasino http://www.openstreetmap.org/?lat=47.262700&lon=11.395419
+AniRat +AnichstrasseRathausgalerien http://www.openstreetmap.org/?lat=47.265103&lon=11.393552
++DIV_5 http://www.openstreetmap.org/?lat=47.264413&lon=11.390746
++DIV_STB http://www.openstreetmap.org/?lat=47.264478&lon=11.390532
+Bur +Burgerstrasse http://www.openstreetmap.org/?lat=47.264741&lon=11.390333
++DIV_2 http://www.openstreetmap.org/?lat=47.266064&lon=11.389496
+TerMar +TerminalMarktplatz http://www.openstreetmap.org/?lat=47.266465&lon=11.390014
+MarTheStr +MariaTheresienStrasse http://www.openstreetmap.org/?lat=47.266923&lon=11.393026
+Mus +Museumstrasse http://www.openstreetmap.org/?lat=47.267272&lon=11.395451
+Lan +Landesmuseum http://www.openstreetmap.org/?lat=47.266828&lon=11.398669
++DIV_STBN http://www.openstreetmap.org/?lat=47.266552&lon=11.400912
++DIV_1B http://www.openstreetmap.org/?lat=47.266399&lon=11.401459
+Sil_2 +Sillpark_2 http://www.openstreetmap.org/?lat=47.265813&lon=11.402693
+LeiPla +LeipzigerPlatz http://www.openstreetmap.org/?lat=47.264484&lon=11.405686
++DIV_25 http://www.openstreetmap.org/?lat=47.264418&lon=11.406437
+Son +Sonnpark http://www.openstreetmap.org/?lat=47.263334&lon=11.408679
+DrGlaStr +DrGlatzStrasse http://www.openstreetmap.org/?lat=47.262489&lon=11.413218
+RudGreStr +RudolfGreinzStrasse http://www.openstreetmap.org/?lat=47.261826&lon=11.416254
+Sud +Sudring http://www.openstreetmap.org/?lat=47.260851&lon=11.419333
+PraFri +PradlerFriedhof http://www.openstreetmap.org/?lat=47.259198&lon=11.421168
+PhiWelStr +PhilippineWelserStrasse http://www.openstreetmap.org/?lat=47.257873&lon=11.422799
+Amr +Amras http://www.openstreetmap.org/?lat=47.258677&lon=11.426007

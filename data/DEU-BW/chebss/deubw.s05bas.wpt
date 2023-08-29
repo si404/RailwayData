@@ -1,20 +1,20 @@
-WeilRhe +WeilRhein http://www.openstreetmap.org/?lat=47.593130&lon=7.608140
-WeilRheGar +WeilRheinGartenstadt http://www.openstreetmap.org/?lat=47.588720&lon=7.616358
-WeilRhePfa +WeilRheinPfadlistrasse http://www.openstreetmap.org/?lat=47.588937&lon=7.626679
-WeilRheOst +WeilRheinOst http://www.openstreetmap.org/?lat=47.590760&lon=7.634940
-LorDam +LorrachDammstrasse http://www.openstreetmap.org/?lat=47.597648&lon=7.655003
+WeilRhe http://www.openstreetmap.org/?lat=47.593130&lon=7.608140
+WeilRheGar http://www.openstreetmap.org/?lat=47.588720&lon=7.616358
+WeilRhePfa http://www.openstreetmap.org/?lat=47.588937&lon=7.626679
+WeilRheOst http://www.openstreetmap.org/?lat=47.590760&lon=7.634940
+LorDam http://www.openstreetmap.org/?lat=47.597648&lon=7.655003
 +DIV_S6 http://www.openstreetmap.org/?lat=47.600340&lon=7.658758
-LorSte +LorrachStetten http://www.openstreetmap.org/?lat=47.601859&lon=7.659209
-LorMusBur +LorrachMuseumBurghof http://www.openstreetmap.org/?lat=47.608051&lon=7.661312
-LorHau +LorrachHauptbahnhof http://www.openstreetmap.org/?lat=47.613960&lon=7.665324
+LorSte http://www.openstreetmap.org/?lat=47.601859&lon=7.659209
+LorMusBur http://www.openstreetmap.org/?lat=47.608051&lon=7.661312
+LorHau http://www.openstreetmap.org/?lat=47.613960&lon=7.665324
 +SKIP_LorAutTer http://www.openstreetmap.org/?lat=47.618061&lon=7.668178
-LorSch +LorrachSchwarzwaldstrasse http://www.openstreetmap.org/?lat=47.624512&lon=7.672577
-LorHaaMes +LorrachHaagenMesse http://www.openstreetmap.org/?lat=47.633347&lon=7.681568
-LorBroHau +LorrachBrombachHauingen http://www.openstreetmap.org/?lat=47.637598&lon=7.695301
-Ste +Steinen http://www.openstreetmap.org/?lat=47.641675&lon=7.741649
-Mau +Maulburg http://www.openstreetmap.org/?lat=47.644379&lon=7.781174
-Sch +Schopfheim http://www.openstreetmap.org/?lat=47.647964&lon=7.822459
-SchSch +SchopfheimSchlattholz http://www.openstreetmap.org/?lat=47.653370&lon=7.832437
-Fah +Fahrnau http://www.openstreetmap.org/?lat=47.661767&lon=7.839534
-HauRai +HausenRaitbach http://www.openstreetmap.org/?lat=47.679208&lon=7.846148
-ZellWie +ZellWiesental http://www.openstreetmap.org/?lat=47.705405&lon=7.848884
+LorSch http://www.openstreetmap.org/?lat=47.624512&lon=7.672577
+LorHaaMes http://www.openstreetmap.org/?lat=47.633347&lon=7.681568
+LorBroHau http://www.openstreetmap.org/?lat=47.637598&lon=7.695301
+Ste http://www.openstreetmap.org/?lat=47.641675&lon=7.741649
+Mau http://www.openstreetmap.org/?lat=47.644379&lon=7.781174
+Sch http://www.openstreetmap.org/?lat=47.647964&lon=7.822459
+SchSch http://www.openstreetmap.org/?lat=47.653370&lon=7.832437
+Fah  http://www.openstreetmap.org/?lat=47.661767&lon=7.839534
+HauRai http://www.openstreetmap.org/?lat=47.679208&lon=7.846148
+ZellWie http://www.openstreetmap.org/?lat=47.705405&lon=7.848884

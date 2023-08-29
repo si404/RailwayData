@@ -1,31 +1,31 @@
-BernexVailly http://www.openstreetmap.org/?lat=46.175024&lon=6.061063
-BernexHainard http://www.openstreetmap.org/?lat=46.176049&lon=6.066427
-Bernexluchepelet http://www.openstreetmap.org/?lat=46.178278&lon=6.073015
-BernexPre-Marais http://www.openstreetmap.org/?lat=46.179585&lon=6.078186
-BernexPR http://www.openstreetmap.org/?lat=46.179303&lon=6.082284
-ConfignonCroisee http://www.openstreetmap.org/?lat=46.178668&lon=6.089301
+BerVai +BernexVailly http://www.openstreetmap.org/?lat=46.175024&lon=6.061063
+BerHai +BernexHainard http://www.openstreetmap.org/?lat=46.176049&lon=6.066427
+Ber +Bernexluchepelet http://www.openstreetmap.org/?lat=46.178278&lon=6.073015
+BerPreMar +BernexPre-Marais http://www.openstreetmap.org/?lat=46.179585&lon=6.078186
+BerPR +BernexPR http://www.openstreetmap.org/?lat=46.179303&lon=6.082284
+ConCro +ConfignonCroisee http://www.openstreetmap.org/?lat=46.178668&lon=6.089301
 Dode http://www.openstreetmap.org/?lat=46.180830&lon=6.094773
-OnexSalleCommunale http://www.openstreetmap.org/?lat=46.183407&lon=6.100266
-Bandol http://www.openstreetmap.org/?lat=46.185888&lon=6.106392
-Esserts http://www.openstreetmap.org/?lat=46.188057&lon=6.112990
-PetitLancyPlace http://www.openstreetmap.org/?lat=46.190322&lon=6.119267
-Quidort http://www.openstreetmap.org/?lat=46.193657&lon=6.123784
-Jonction http://www.openstreetmap.org/?lat=46.200831&lon=6.129770
-Palladium http://www.openstreetmap.org/?lat=46.203021&lon=6.133718
-Stand http://www.openstreetmap.org/?lat=46.203823&lon=6.139920
+OnexSalCom +OnexSalleCommunale http://www.openstreetmap.org/?lat=46.183407&lon=6.100266
+Ban +Bandol http://www.openstreetmap.org/?lat=46.185888&lon=6.106392
+Ess +Esserts http://www.openstreetmap.org/?lat=46.188057&lon=6.112990
+PetLanPla +PetitLancyPlace http://www.openstreetmap.org/?lat=46.190322&lon=6.119267
+Qui +Quidort http://www.openstreetmap.org/?lat=46.193657&lon=6.123784
+Jon +Jonction http://www.openstreetmap.org/?lat=46.200831&lon=6.129770
+Pal +Palladium http://www.openstreetmap.org/?lat=46.203021&lon=6.133718
+Sta +Stand http://www.openstreetmap.org/?lat=46.203823&lon=6.139920
 BelAir http://www.openstreetmap.org/?lat=46.203786&lon=6.142902
-Coutance http://www.openstreetmap.org/?lat=46.207415&lon=6.142141
-GareCornavin http://www.openstreetmap.org/?lat=46.210352&lon=6.142259
+Cou +Coutance http://www.openstreetmap.org/?lat=46.207415&lon=6.142141
+GareCor +GareCornavin http://www.openstreetmap.org/?lat=46.210352&lon=6.142259
 Lyon http://www.openstreetmap.org/?lat=46.209815&lon=6.138203
-Poterie http://www.openstreetmap.org/?lat=46.211768&lon=6.133600
-Servette http://www.openstreetmap.org/?lat=46.213386&lon=6.130264
-Vieusseux http://www.openstreetmap.org/?lat=46.214997&lon=6.125189
-Bouchet http://www.openstreetmap.org/?lat=46.216423&lon=6.117958
-Balexert http://www.openstreetmap.org/?lat=46.218449&lon=6.110437
-Avanchet http://www.openstreetmap.org/?lat=46.219696&lon=6.105598
-Blandonnet http://www.openstreetmap.org/?lat=46.222005&lon=6.097219
-JardinAlpinVivarium http://www.openstreetmap.org/?lat=46.225724&lon=6.083518
-+X184743 http://www.openstreetmap.org/?lat=46.225872&lon=6.082950
-Forumeyrin http://www.openstreetmap.org/?lat=46.230682&lon=6.080986
-Vaudagne http://www.openstreetmap.org/?lat=46.233153&lon=6.077746
-MeyrinGraviere http://www.openstreetmap.org/?lat=46.236574&lon=6.081791
+Pot +Poterie http://www.openstreetmap.org/?lat=46.211768&lon=6.133600
+Ser +Servette http://www.openstreetmap.org/?lat=46.213386&lon=6.130264
+Vie +Vieusseux http://www.openstreetmap.org/?lat=46.214997&lon=6.125189
+Bou +Bouchet http://www.openstreetmap.org/?lat=46.216423&lon=6.117958
+Bal +Balexert http://www.openstreetmap.org/?lat=46.218449&lon=6.110437
+Ava +Avanchet http://www.openstreetmap.org/?lat=46.219696&lon=6.105598
+Bla +Blandonnet http://www.openstreetmap.org/?lat=46.222005&lon=6.097219
+JarAlpViv +JardinAlpinVivarium http://www.openstreetmap.org/?lat=46.225724&lon=6.083518
++DIV_18 http://www.openstreetmap.org/?lat=46.225872&lon=6.082950
+For +Forumeyrin http://www.openstreetmap.org/?lat=46.230682&lon=6.080986
+Vau +Vaudagne http://www.openstreetmap.org/?lat=46.233153&lon=6.077746
+MeyGra +MeyrinGraviere http://www.openstreetmap.org/?lat=46.236574&lon=6.081791

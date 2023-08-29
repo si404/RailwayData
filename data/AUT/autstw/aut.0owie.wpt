@@ -1,24 +1,23 @@
-BrunoMarekAllee http://www.openstreetmap.org/?lat=48.228639&lon=16.392524
-KrakauerStrasse http://www.openstreetmap.org/?lat=48.224565&lon=16.393168
-Nordbahnstrasse http://www.openstreetmap.org/?lat=48.223588&lon=16.389375
-+X462709 http://www.openstreetmap.org/?lat=48.220675&lon=16.390065
-Muhlfeldgasse http://www.openstreetmap.org/?lat=48.220452&lon=16.390110
-Praterstern http://www.openstreetmap.org/?lat=48.218940&lon=16.392117
-Franzensbrucke http://www.openstreetmap.org/?lat=48.213896&lon=16.391526
-Radetzkyplatz http://www.openstreetmap.org/?lat=48.210972&lon=16.389992
-HintereZollamtsstrass http://www.openstreetmap.org/?lat=48.211130&lon=16.387010
-Marxergasse http://www.openstreetmap.org/?lat=48.207508&lon=16.386602
-Landstrasse http://www.openstreetmap.org/?lat=48.206078&lon=16.384628
-Sechskrugelgasse http://www.openstreetmap.org/?lat=48.201931&lon=16.387310
-UngargasseNeulinggasse http://www.openstreetmap.org/?lat=48.199038&lon=16.387407
-Rennweg http://www.openstreetmap.org/?lat=48.194944&lon=16.386194
-Fasangasse http://www.openstreetmap.org/?lat=48.188282&lon=16.385003
-QuartierBelvedere http://www.openstreetmap.org/?lat=48.188013&lon=16.381881
-Hauptbahnhof http://www.openstreetmap.org/?lat=48.185993&lon=16.374285
-Columbusplatz http://www.openstreetmap.org/?lat=48.182023&lon=16.373738
-LaxenburgerStrasseGudrunstrasse http://www.openstreetmap.org/?lat=48.178331&lon=16.373760
-Quellenplatz http://www.openstreetmap.org/?lat=48.175627&lon=16.373502
-Arthaberplatz http://www.openstreetmap.org/?lat=48.172493&lon=16.372150
-LaxenburgerStrasseTroststrasse http://www.openstreetmap.org/?lat=48.169266&lon=16.369425
-NeilreichgasseTroststrasse http://www.openstreetmap.org/?lat=48.169899&lon=16.364393
-RaxstrasseRudolfshugelgasse http://www.openstreetmap.org/?lat=48.165720&lon=16.363728
+BruMarAll +BrunoMarekAllee http://www.openstreetmap.org/?lat=48.228639&lon=16.392524
+KraStr +KrakauerStrasse http://www.openstreetmap.org/?lat=48.224565&lon=16.393168
+Nor +Nordbahnstrasse http://www.openstreetmap.org/?lat=48.223588&lon=16.389375
+Muh +Muhlfeldgasse http://www.openstreetmap.org/?lat=48.220452&lon=16.390110
+Pra +Praterstern http://www.openstreetmap.org/?lat=48.218940&lon=16.392117
+Fra +Franzensbrucke http://www.openstreetmap.org/?lat=48.213896&lon=16.391526
+Rad +Radetzkyplatz http://www.openstreetmap.org/?lat=48.210972&lon=16.389992
+HinZol +HintereZollamtsstrass http://www.openstreetmap.org/?lat=48.211130&lon=16.387010
+Mar +Marxergasse http://www.openstreetmap.org/?lat=48.207508&lon=16.386602
+Lan +Landstrasse http://www.openstreetmap.org/?lat=48.206078&lon=16.384628
+Sec +Sechskrugelgasse http://www.openstreetmap.org/?lat=48.201931&lon=16.387310
+UngNeu +UngargasseNeulinggasse http://www.openstreetmap.org/?lat=48.199038&lon=16.387407
+Ran +Rennweg http://www.openstreetmap.org/?lat=48.194944&lon=16.386194
+Fas +Fasangasse http://www.openstreetmap.org/?lat=48.188282&lon=16.385003
+QuaBel +QuartierBelvedere http://www.openstreetmap.org/?lat=48.188013&lon=16.381881
+Hbf +Hauptbahnhof http://www.openstreetmap.org/?lat=48.185993&lon=16.374285
+Col +Columbusplatz http://www.openstreetmap.org/?lat=48.182023&lon=16.373738
+LaxStrGun +LaxenburgerStrasseGudrunstrasse http://www.openstreetmap.org/?lat=48.178331&lon=16.373760
+Que +Quellenplatz http://www.openstreetmap.org/?lat=48.175627&lon=16.373502
+Art +Arthaberplatz http://www.openstreetmap.org/?lat=48.172493&lon=16.372150
+Lax +LaxenburgerStrasseTroststrasse http://www.openstreetmap.org/?lat=48.169266&lon=16.369425
+NeiTro +NeilreichgasseTroststrasse http://www.openstreetmap.org/?lat=48.169899&lon=16.364393
+RaxRud +RaxstrasseRudolfshugelgasse http://www.openstreetmap.org/?lat=48.165720&lon=16.363728

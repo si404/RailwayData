@@ -1,16 +1,16 @@
-Schwedenplatz_1 http://www.openstreetmap.org/?lat=48.211741&lon=16.377718
-+JuliusRaabPlatz http://www.openstreetmap.org/?lat=48.211165&lon=16.382793
-+Stubentor http://www.openstreetmap.org/?lat=48.206865&lon=16.379993
-+Weihburggasse http://www.openstreetmap.org/?lat=48.204391&lon=16.377633
-+Schwarzenbergplatz http://www.openstreetmap.org/?lat=48.201591&lon=16.374253
-+OperKarlsplatz http://www.openstreetmap.org/?lat=48.202099&lon=16.370487
-+Burgring http://www.openstreetmap.org/?lat=48.203879&lon=16.363750
-+RingVolkstheater http://www.openstreetmap.org/?lat=48.206697&lon=16.359941
-+Parlament http://www.openstreetmap.org/?lat=48.208577&lon=16.360080
-+RathausplatzBurgtheater http://www.openstreetmap.org/?lat=48.210493&lon=16.360649
-+Schottentor http://www.openstreetmap.org/?lat=48.214132&lon=16.361861
-+Borse http://www.openstreetmap.org/?lat=48.215612&lon=16.366153
-+Schottenring http://www.openstreetmap.org/?lat=48.217103&lon=16.371281
-+Salztorbrucke http://www.openstreetmap.org/?lat=48.213896&lon=16.374006
+Sch_1 Schwedenplatz_1 http://www.openstreetmap.org/?lat=48.211741&lon=16.377718
++SKIP_JulRaabPla http://www.openstreetmap.org/?lat=48.211165&lon=16.382793
++SKIP_Stu http://www.openstreetmap.org/?lat=48.206865&lon=16.379993
++SKIP_Wei http://www.openstreetmap.org/?lat=48.204391&lon=16.377633
++SKIP_Schw http://www.openstreetmap.org/?lat=48.201591&lon=16.374253
++SKIP_OperKar http://www.openstreetmap.org/?lat=48.202099&lon=16.370487
++SKIP_Bur http://www.openstreetmap.org/?lat=48.203879&lon=16.363750
++SKIP_RingVol http://www.openstreetmap.org/?lat=48.206697&lon=16.359941
++SKIP_Par http://www.openstreetmap.org/?lat=48.208577&lon=16.360080
++SKIP_RatBur http://www.openstreetmap.org/?lat=48.210493&lon=16.360649
++SKIP_Scht http://www.openstreetmap.org/?lat=48.214132&lon=16.361861
++SKIP_Bor http://www.openstreetmap.org/?lat=48.215612&lon=16.366153
++SKIP_Schr http://www.openstreetmap.org/?lat=48.217103&lon=16.371281
++SKIP_Sal http://www.openstreetmap.org/?lat=48.213896&lon=16.374006
 +X680420 http://www.openstreetmap.org/?lat=48.211916&lon=16.376721
-Schwedenplatz_2 http://www.openstreetmap.org/?lat=48.211741&lon=16.377718
+Sch_2 Schwedenplatz_2 http://www.openstreetmap.org/?lat=48.211741&lon=16.377718

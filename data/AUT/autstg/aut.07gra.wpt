@@ -1,29 +1,29 @@
-LKHMedUniKlinikumNord http://www.openstreetmap.org/?lat=47.082068&lon=15.469093
-SanktLeonhardKlinikumMitte http://www.openstreetmap.org/?lat=47.079759&lon=15.467656
-OdilienInstiutKlinikumSud http://www.openstreetmap.org/?lat=47.078150&lon=15.464110
-+X493172 http://www.openstreetmap.org/?lat=47.075314&lon=15.458611
-Reiterkaserne http://www.openstreetmap.org/?lat=47.075175&lon=15.458300
-Merangasse http://www.openstreetmap.org/?lat=47.073436&lon=15.454159
-LichtenfelsgasseKunstuniversitat http://www.openstreetmap.org/?lat=47.072120&lon=15.450661
-Maiffredygasse http://www.openstreetmap.org/?lat=47.070878&lon=15.448076
-KaiserJosefPlatzOper http://www.openstreetmap.org/?lat=47.068556&lon=15.445973
-Jakominiplatz http://www.openstreetmap.org/?lat=47.067361&lon=15.442121
-HauptplatzCongress http://www.openstreetmap.org/?lat=47.071205&lon=15.438307
-+X570225 http://www.openstreetmap.org/?lat=47.071494&lon=15.437824
-SudtirolerPlatzKunsthaus http://www.openstreetmap.org/?lat=47.070900&lon=15.434203
-Roseggerhaus http://www.openstreetmap.org/?lat=47.071083&lon=15.428302
-EsperantoplatzArbeiterkammer http://www.openstreetmap.org/?lat=47.071236&lon=15.424343
-Hauptbahnhof http://www.openstreetmap.org/?lat=47.072354&lon=15.416554
-KollacherGassePVA http://www.openstreetmap.org/?lat=47.070624&lon=15.413931
-+X165863 http://www.openstreetmap.org/?lat=47.070535&lon=15.413271
-EggenbergerStrasse http://www.openstreetmap.org/?lat=47.070277&lon=15.411227
-AltePoststrasse http://www.openstreetmap.org/?lat=47.070120&lon=15.409961
-+X971541 http://www.openstreetmap.org/?lat=47.070036&lon=15.409377
-FachhochschuleJoanneum http://www.openstreetmap.org/?lat=47.070104&lon=15.406233
-EggenbergerAllee http://www.openstreetmap.org/?lat=47.070549&lon=15.402811
-KarlMorreStrasse http://www.openstreetmap.org/?lat=47.068405&lon=15.400922
-Absengerstrasse http://www.openstreetmap.org/?lat=47.069091&lon=15.396094
-Baierdorf http://www.openstreetmap.org/?lat=47.068463&lon=15.392168
-JohannHaidenStrasse http://www.openstreetmap.org/?lat=47.065145&lon=15.392253
-Handelstrasse http://www.openstreetmap.org/?lat=47.063201&lon=15.392318
-Wetzelsdorf http://www.openstreetmap.org/?lat=47.060468&lon=15.392618
+LKHMedUniKliNord +LKHMedUniKlinikumNord http://www.openstreetmap.org/?lat=47.082068&lon=15.469093
+StLeoKliMit +SanktLeonhardKlinikumMitte http://www.openstreetmap.org/?lat=47.079759&lon=15.467656
+OdiInsKliSud +OdilienInstiutKlinikumSud http://www.openstreetmap.org/?lat=47.078150&lon=15.464110
++DIV_1 http://www.openstreetmap.org/?lat=47.075314&lon=15.458611
+Rei +Reiterkaserne http://www.openstreetmap.org/?lat=47.075175&lon=15.458300
+Mer +Merangasse http://www.openstreetmap.org/?lat=47.073436&lon=15.454159
+Lic +LichtenfelsgasseKunstuniversitat http://www.openstreetmap.org/?lat=47.072120&lon=15.450661
+Mai +Maiffredygasse http://www.openstreetmap.org/?lat=47.070878&lon=15.448076
+KaiJosPlaOper +KaiserJosefPlatzOper http://www.openstreetmap.org/?lat=47.068556&lon=15.445973
+Jak +Jakominiplatz http://www.openstreetmap.org/?lat=47.067361&lon=15.442121
+HauCon +HauptplatzCongress http://www.openstreetmap.org/?lat=47.071205&lon=15.438307
++DIV_35 http://www.openstreetmap.org/?lat=47.071494&lon=15.437824
+SudPlaKun +SudtirolerPlatzKunsthaus http://www.openstreetmap.org/?lat=47.070900&lon=15.434203
+Ros +Roseggerhaus http://www.openstreetmap.org/?lat=47.071083&lon=15.428302
+EspArb +EsperantoplatzArbeiterkammer http://www.openstreetmap.org/?lat=47.071236&lon=15.424343
+Hau +Hauptbahnhof http://www.openstreetmap.org/?lat=47.072354&lon=15.416554
+KolGasPVA +KollacherGassePVA http://www.openstreetmap.org/?lat=47.070624&lon=15.413931
+DIV_16 http://www.openstreetmap.org/?lat=47.070535&lon=15.413271
+EggStr +EggenbergerStrasse http://www.openstreetmap.org/?lat=47.070277&lon=15.411227
+AltePos +AltePoststrasse http://www.openstreetmap.org/?lat=47.070120&lon=15.409961
++DIV_4 http://www.openstreetmap.org/?lat=47.070036&lon=15.409377
+FacJoa +FachhochschuleJoanneum http://www.openstreetmap.org/?lat=47.070104&lon=15.406233
+EggAll +EggenbergerAllee http://www.openstreetmap.org/?lat=47.070549&lon=15.402811
+KarlMorStr +KarlMorreStrasse http://www.openstreetmap.org/?lat=47.068405&lon=15.400922
+Abs +Absengerstrasse http://www.openstreetmap.org/?lat=47.069091&lon=15.396094
+Bai +Baierdorf http://www.openstreetmap.org/?lat=47.068463&lon=15.392168
+JohHaiStr +JohannHaidenStrasse http://www.openstreetmap.org/?lat=47.065145&lon=15.392253
+Han +Handelstrasse http://www.openstreetmap.org/?lat=47.063201&lon=15.392318
+Wet +Wetzelsdorf http://www.openstreetmap.org/?lat=47.060468&lon=15.392618

@@ -1,6 +1,6 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
 gbndlr;ENG;DLR;;;Docklands Light Railway (Bank - Lewisham);eng.dlr;
-gbndlr;ENG;DLR;;Roy;Docklands Light Railway (Tower Gateway - Beckton);eng.dlrroy;DLRTow
+gbndlr;ENG;DLR;;Roy;Docklands Light Railway (Tower Gateway - Beckton);eng.dlrroy;
 gbndlr;ENG;DLR;;Str;Docklands Light Railway (Stratford - Canary Wharf);eng.dlrstr;
 gbndlr;ENG;DLR;;StI;Docklands Light Railway (Stratford International - Woolwich Arsenal);eng.dlrsti;
 gbndlr;ENG;DLR;;Woo;Docklands Light Railway (Bank - Woolwich Arsenal);eng.dlrwoo;

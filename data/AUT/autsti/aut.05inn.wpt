@@ -1,34 +1,34 @@
-TechnikWest http://www.openstreetmap.org/?lat=47.264997&lon=11.340659
-+X230887 http://www.openstreetmap.org/?lat=47.265259&lon=11.345873
-Technik http://www.openstreetmap.org/?lat=47.265216&lon=11.346881
-LohbachsledlungWest http://www.openstreetmap.org/?lat=47.263497&lon=11.351688
-LohbachsiedlungOst http://www.openstreetmap.org/?lat=47.263497&lon=11.356902
-Vogelebichl http://www.openstreetmap.org/?lat=47.264022&lon=11.363790
-HottingerAuEKZWest http://www.openstreetmap.org/?lat=47.264866&lon=11.372502
-HottingerAuffahrt http://www.openstreetmap.org/?lat=47.265012&lon=11.377780
-Furstenweg http://www.openstreetmap.org/?lat=47.266089&lon=11.383381
-KlinikUniversitat http://www.openstreetmap.org/?lat=47.263971&lon=11.386600
-+X607236 http://www.openstreetmap.org/?lat=47.264413&lon=11.390746
-AnichstrasseRathausgalerien http://www.openstreetmap.org/?lat=47.265103&lon=11.393552
-TriumphpforteCasino http://www.openstreetmap.org/?lat=47.262700&lon=11.395419
-Hauptbahnhof http://www.openstreetmap.org/?lat=47.263293&lon=11.401041
-+X623467 http://www.openstreetmap.org/?lat=47.266253&lon=11.401073
-+X415327 http://www.openstreetmap.org/?lat=47.266399&lon=11.401459
-Sillpark http://www.openstreetmap.org/?lat=47.265813&lon=11.402693
-LeipzigerPlatz http://www.openstreetmap.org/?lat=47.264484&lon=11.405686
-+X726285 http://www.openstreetmap.org/?lat=47.264418&lon=11.406437
-Defreggerstrasse http://www.openstreetmap.org/?lat=47.265015&lon=11.409237
-Gabelsbergerstrasse http://www.openstreetmap.org/?lat=47.265816&lon=11.412070
-Rennerschule http://www.openstreetmap.org/?lat=47.268510&lon=11.411769
-Mitterhoferstrasse http://www.openstreetmap.org/?lat=47.270876&lon=11.412853
-Pauluskirche http://www.openstreetmap.org/?lat=47.273111&lon=11.416061
-Radetzkystrasse http://www.openstreetmap.org/?lat=47.275178&lon=11.419859
-Rossbachstrasse http://www.openstreetmap.org/?lat=47.275098&lon=11.423625
-Jugendherberge http://www.openstreetmap.org/?lat=47.273569&lon=11.428142
-HochhausSchutzenstrasse http://www.openstreetmap.org/?lat=47.275266&lon=11.432015
-Piuskirche http://www.openstreetmap.org/?lat=47.274181&lon=11.438216
-Schutzenstrasse http://www.openstreetmap.org/?lat=47.273839&lon=11.442196
-+X727693 http://www.openstreetmap.org/?lat=47.273821&lon=11.442776
-NeuRumVolksschuleSerlesstrasse http://www.openstreetmap.org/?lat=47.274825&lon=11.449106
-NeuRumFlurstrasse http://www.openstreetmap.org/?lat=47.275961&lon=11.451960
+TecWest +TechnikWest http://www.openstreetmap.org/?lat=47.264997&lon=11.340659
++DIV_2W http://www.openstreetmap.org/?lat=47.265259&lon=11.345873
+Tec +Technik http://www.openstreetmap.org/?lat=47.265216&lon=11.346881
+LohWest +LohbachsledlungWest http://www.openstreetmap.org/?lat=47.263497&lon=11.351688
+LohOst +LohbachsiedlungOst http://www.openstreetmap.org/?lat=47.263497&lon=11.356902
+Vog +Vogelebichl http://www.openstreetmap.org/?lat=47.264022&lon=11.363790
+HotAuEKZWest +HottingerAuEKZWest http://www.openstreetmap.org/?lat=47.264866&lon=11.372502
+HotAuf +HottingerAuffahrt http://www.openstreetmap.org/?lat=47.265012&lon=11.377780
+Fur +Furstenweg http://www.openstreetmap.org/?lat=47.266089&lon=11.383381
+KliUni +KlinikUniversitat http://www.openstreetmap.org/?lat=47.263971&lon=11.386600
++DIV_13 http://www.openstreetmap.org/?lat=47.264413&lon=11.390746
+AniRat +AnichstrasseRathausgalerien http://www.openstreetmap.org/?lat=47.265103&lon=11.393552
+TriCas +TriumphpforteCasino http://www.openstreetmap.org/?lat=47.262700&lon=11.395419
+Hau +Hauptbahnhof http://www.openstreetmap.org/?lat=47.263293&lon=11.401041
++DIV_STB http://www.openstreetmap.org/?lat=47.266253&lon=11.401073
++DIV_12 http://www.openstreetmap.org/?lat=47.266399&lon=11.401459
+Sil +Sillpark http://www.openstreetmap.org/?lat=47.265813&lon=11.402693
+LeiPla +LeipzigerPlatz http://www.openstreetmap.org/?lat=47.264484&lon=11.405686
++DIV_3 http://www.openstreetmap.org/?lat=47.264418&lon=11.406437
+Def +Defreggerstrasse http://www.openstreetmap.org/?lat=47.265015&lon=11.409237
+Gab +Gabelsbergerstrasse http://www.openstreetmap.org/?lat=47.265816&lon=11.412070
+Ren +Rennerschule http://www.openstreetmap.org/?lat=47.268510&lon=11.411769
+Mit +Mitterhoferstrasse http://www.openstreetmap.org/?lat=47.270876&lon=11.412853
+Pau +Pauluskirche http://www.openstreetmap.org/?lat=47.273111&lon=11.416061
+Rad +Radetzkystrasse http://www.openstreetmap.org/?lat=47.275178&lon=11.419859
+Ros +Rossbachstrasse http://www.openstreetmap.org/?lat=47.275098&lon=11.423625
+Jug +Jugendherberge http://www.openstreetmap.org/?lat=47.273569&lon=11.428142
+HocSch +HochhausSchutzenstrasse http://www.openstreetmap.org/?lat=47.275266&lon=11.432015
+Piu +Piuskirche http://www.openstreetmap.org/?lat=47.274181&lon=11.438216
+Sch +Schutzenstrasse http://www.openstreetmap.org/?lat=47.273839&lon=11.442196
++DIV_2E http://www.openstreetmap.org/?lat=47.273821&lon=11.442776
+NeuRumVolSer +NeuRumVolksschuleSerlesstrasse http://www.openstreetmap.org/?lat=47.274825&lon=11.449106
+NeuRumFlu +NeuRumFlurstrasse http://www.openstreetmap.org/?lat=47.275961&lon=11.451960
 Rum http://www.openstreetmap.org/?lat=47.278010&lon=11.456122
