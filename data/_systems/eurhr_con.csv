@@ -12,7 +12,7 @@ eurhr;BalaLakeRwy;;Bala Lake Railway;wls.balalakerwy
 eurhr;BarTouRwy;;Barry Tourist Railway;wls.bartourwy
 eurhr;BatLn;;Battlefield Line;eng.batln
 eurhr;BeaTwy;;Beamish Tramway;eng.beatwy
-eurhr;BHLR;;Beer Heights Light Railway;eng.bhlrl
+eurhr;BHLR;;Beer Heights Light Railway;eng.bhlr
 eurhr;BicSR;;Bickington Steam Railway;eng.bicsr
 eurhr;BTCT;;Blackpool Trams Coastal Tour;eng.btct
 eurhr;BTPT;;Blackpool Trams Promenade Tour;eng.btpt
@@ -23,7 +23,7 @@ eurhr;BreMouRwy;;Brecon Mountain Railway;wls.bremourwy
 eurhr;BWLR;;Bredgar & Wormshill Light Railway;eng.bwlr
 eurhr;BluRwy;;Bluebell Railway;eng.blurwy
 eurhr;BotWenRwy;;Bodmin & Wenford Railway;eng.bodwenrwy
-eurhr;BriHarRwy;;Bristol Harbour Railway;eng.briharwy
+eurhr;BriHarRwy;;Bristol Harbour Railway;eng.briharrwy
 eurhr;BureVlyRwy;;Bure Valley Railway;eng.burevlyrwy
 eurhr;CalRwy;;Caledonian Railway;sct.calrwy
 eurhr;CamHerRwy;;Cambrian Heritage Railways;eng.camherrwy
@@ -72,7 +72,7 @@ eurhr;HytPierRwy;;Hythe Pier Railway;eng.hytpierrwy
 eurhr;IoWSR;;Isle of Wight Steam Railway;eng.iowsr
 eurhr;Jac;;The Jacobite;sct.jac
 eurhr;KeiWVRwy;;Keighley & Worth Valley Railway;eng.keiwvrwy
-eurhr;KeiDufRwy;;Keith & Dufftown Railway;eng.keidufrwy
+eurhr;KeiDufRwy;;Keith & Dufftown Railway;sct.keidufrwy
 eurhr;KESSR;;Kent & East Sussex Steam Railway;eng.kessr
 eurhr;LakHavRwy;;Lakeside & Haverthwaite Railway;eng.lakhavrwy
 eurhr;LakMR;;Lakeside Miniature Railway;eng.lakmr
@@ -105,7 +105,7 @@ eurhr;NorLamRwy;;Northampton & Lamport Railway;eng.norlamrwy
 eurhr;OKLR;;Old Kiln Light Railway;eng.oklr
 eurhr;PeakRail;;Peak Rail;eng.peakrail
 eurhr;PerRwy;;Perrygrove Railway;eng.perrwy
-eurhr;Plym Valley Railway;eng.plymvlyrwy
+eurhr;PlyVlyRwy;;Plym Valley Railway;eng.plymvlyrwy
 eurhr;PonBlaRwy;;Pontypool & Blaenavon Railway;wls.ponblarwy
 eurhr;PLR;;Pugney Light Railway;eng.plr
 eurhr;RavEskRwy;;Ravenglass & Eskdale Railway;eng.raveskrwy
@@ -135,7 +135,7 @@ eurhr;TeiVlyRwy;;Teifi Valley Railway;wls.teivlyrwy
 eurhr;TelSR;;Telford Steam Railway;eng.telsr
 eurhr;TQMR;;Threkeld Quarry & Mining Railway;eng.tqmr
 eurhr;TNGR;;Toddington Narrow Gauge Railway;eng.tngr
-eurhr;ValRheRwy;;Vale of Rheidol Railway;wls.valrherwy
+eurhr;ValeRheRwy;;Vale of Rheidol Railway;wls.valerherwy
 eurhr;VolER;;Volk's Electric Railway;eng.voler
 eurhr;WatLn;;Watercress Line;eng.watln
 eurhr;WatSVRwy;;Waterford & Suir Valley Railway;irl.watsvrwy
