@@ -25,9 +25,8 @@ Ber http://www.openstreetmap.org/?lat=51.497723&lon=-0.064287
 CanWat http://www.openstreetmap.org/?lat=51.497890&lon=-0.049889
 CanWha +CYF http://www.openstreetmap.org/?lat=51.503520&lon=-0.018582
 NorGre +NGW http://www.openstreetmap.org/?lat=51.500582&lon=0.004292
++X594379 http://www.openstreetmap.org/?lat=51.510121&lon=0.010804
 CanTown http://www.openstreetmap.org/?lat=51.513857&lon=0.008411
-+SKIP_StarLn http://www.openstreetmap.org/?lat=51.520614&lon=0.004163
++X860753 http://www.openstreetmap.org/?lat=51.520190&lon=0.004184
 WestHam http://www.openstreetmap.org/?lat=51.528223&lon=0.004549
-+SKIP_AbbRd http://www.openstreetmap.org/?lat=51.532468&lon=0.003605
-+SKIP_StrHighSt http://www.openstreetmap.org/?lat=51.537647&lon=-0.000129
 Str http://www.openstreetmap.org/?lat=51.541671&lon=-0.003927
