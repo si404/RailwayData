@@ -2,10 +2,10 @@ systemName;region;route;banner;abbrev;city;root;altRouteNames
 eurat;ENG;ATCC;;;Alton Towers Cable Car;eng.atcc;
 eurat;FRA-BRE;TC;;;Brest Téléphérique 'Ligne C';frabre.tc;
 eurat;ITA-CAM;F;;;Funivie di Castellammare 'Del Faito';itacam.f;
-eurat;IRL;DICC;;Dursey Island Cable Car;irl.dicc;
-eurat;GIB;GibCC;;Gibraltar Cable Car;gib.gibcc;
+eurat;IRL;DICC;;;Dursey Island Cable Car;irl.dicc;
+eurat;GIB;GibCC;;;Gibraltar Cable Car;gib.gibcc;
 eurat;FRA-ARA;TGB;;;Téléphérique de Grenoble Bastille 'Les bulles';fraara.tgb;
-eurat;ENG;HeiAbrCC;;Heights of Abraham Cable Car;eng.heiabrcc;
-eurat;WLS;LlaCC;;Llandudno Cable Car;wls.llacc;
+eurat;ENG;HeiAbrCC;;;Heights of Abraham Cable Car;eng.heiabrcc;
+eurat;WLS;LlaCC;;;Llandudno Cable Car;wls.llacc;
 eurat;ENG;LCC;;;London Cable Car;eng.lcc;
 eurat;FRA-OCC;Teleo;;;Toulouse Téléphérique urbain 'Téléo';fraocc.teleo;
