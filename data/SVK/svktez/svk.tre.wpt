@@ -1,7 +1,7 @@
-TrencianskaTepla http://www.openstreetmap.org/?lat=48.937608&lon=18.113580
-TrencianskaTeplaObec http://www.openstreetmap.org/?lat=48.934472&lon=18.117356
-TrencianskaTeplaZastavka http://www.openstreetmap.org/?lat=48.929975&lon=18.128858
-Kanova http://www.openstreetmap.org/?lat=48.921650&lon=18.144404
-TrencianskaTepliceSidlisko http://www.openstreetmap.org/?lat=48.915164&lon=18.157471
-TrencianskeTepliceZastavka http://www.openstreetmap.org/?lat=48.912787&lon=18.164241
-TrencianskeTeplice http://www.openstreetmap.org/?lat=48.910126&lon=18.170550
+TreTepa TrencianskaTepla http://www.openstreetmap.org/?lat=48.937608&lon=18.113580
+TreTepaObec TrencianskaTeplaObec http://www.openstreetmap.org/?lat=48.934472&lon=18.117356
+TreTepaZas TrencianskaTeplaZastavka http://www.openstreetmap.org/?lat=48.929975&lon=18.128858
+Kan Kanova http://www.openstreetmap.org/?lat=48.921650&lon=18.144404
+TreTepiSid TrencianskaTepliceSidlisko http://www.openstreetmap.org/?lat=48.915164&lon=18.157471
+TreTepiZas TrencianskeTepliceZastavka http://www.openstreetmap.org/?lat=48.912787&lon=18.164241
+TreTepi TrencianskeTeplice http://www.openstreetmap.org/?lat=48.910126&lon=18.170550
