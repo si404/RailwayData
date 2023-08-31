@@ -16,7 +16,7 @@ FrankfurtMesse http://www.openstreetmap.org/?lat=50.111848&lon=8.643408
 FrankfurtGalluswarte http://www.openstreetmap.org/?lat=50.103852&lon=8.644738
 +X648620 http://www.openstreetmap.org/?lat=50.102682&lon=8.645961
 +X974366 http://www.openstreetmap.org/?lat=50.102242&lon=8.651519
-FrankfurtHauptbahnhof http://www.openstreetmap.org/?lat=50.106722&lon=8.662763
+FrankfurtHbf http://www.openstreetmap.org/?lat=50.106722&lon=8.662763
 Taunusanlage http://www.openstreetmap.org/?lat=50.113492&lon=8.668942
 +X290394 http://www.openstreetmap.org/?lat=50.114837&lon=8.673170
 Hauptwache http://www.openstreetmap.org/?lat=50.113791&lon=8.678899
@@ -47,4 +47,4 @@ DarmstadtArheilgen http://www.openstreetmap.org/?lat=49.913831&lon=8.645382
 +X641658 http://www.openstreetmap.org/?lat=49.895367&lon=8.639717
 +X635202 http://www.openstreetmap.org/?lat=49.892409&lon=8.635340
 +X153289 http://www.openstreetmap.org/?lat=49.885192&lon=8.626499
-DarmstadtHauptbahnhof http://www.openstreetmap.org/?lat=49.872824&lon=8.629503
+DarmstadtHbf http://www.openstreetmap.org/?lat=49.872824&lon=8.629503

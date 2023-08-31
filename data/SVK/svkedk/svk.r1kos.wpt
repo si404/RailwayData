@@ -1,18 +1,18 @@
-StanicneNamestie http://www.openstreetmap.org/?lat=48.722789&lon=21.268651
-SennyTrh http://www.openstreetmap.org/?lat=48.718754&lon=21.264231
-NamestieOsloboditelov http://www.openstreetmap.org/?lat=48.716879&lon=21.260154
-DomUmenia http://www.openstreetmap.org/?lat=48.716362&lon=21.254672
-KrajskySud http://www.openstreetmap.org/?lat=48.716638&lon=21.251249
-Janosikova http://www.openstreetmap.org/?lat=48.712936&lon=21.246121
-Idanska http://www.openstreetmap.org/?lat=48.709081&lon=21.246271
-SOSAutomobilova http://www.openstreetmap.org/?lat=48.705597&lon=21.243739
-+X902508 http://www.openstreetmap.org/?lat=48.704847&lon=21.243052
-KruhovyObjazdMoldovska http://www.openstreetmap.org/?lat=48.703863&lon=21.242151
-MoldovskaObchodneCentra http://www.openstreetmap.org/?lat=48.699862&lon=21.238503
-ObchodneCentrumOptima http://www.openstreetmap.org/?lat=48.696746&lon=21.235778
-Peresska http://www.openstreetmap.org/?lat=48.683870&lon=21.218097
-PolovRazcestie http://www.openstreetmap.org/?lat=48.662814&lon=21.208398
-LudvikovDvor http://www.openstreetmap.org/?lat=48.643281&lon=21.202025
-ValcovneUSSteel http://www.openstreetmap.org/?lat=48.632632&lon=21.194344
+StaNam +StanicneNamestie http://www.openstreetmap.org/?lat=48.722789&lon=21.268651
+SenTrh +SennyTrh http://www.openstreetmap.org/?lat=48.718754&lon=21.264231
+NamOsl +NamestieOsloboditelov http://www.openstreetmap.org/?lat=48.716879&lon=21.260154
+DomUme +DomUmenia http://www.openstreetmap.org/?lat=48.716362&lon=21.254672
+KraSud +KrajskySud http://www.openstreetmap.org/?lat=48.716638&lon=21.251249
+Jan +Janosikova http://www.openstreetmap.org/?lat=48.712936&lon=21.246121
+Ida +Idanska http://www.openstreetmap.org/?lat=48.709081&lon=21.246271
+SOSAut +SOSAutomobilova http://www.openstreetmap.org/?lat=48.705597&lon=21.243739
++DIV_69 http://www.openstreetmap.org/?lat=48.704847&lon=21.243052
+KruObjMol +KruhovyObjazdMoldovska http://www.openstreetmap.org/?lat=48.703863&lon=21.242151
+MolObcCen +MoldovskaObchodneCentra http://www.openstreetmap.org/?lat=48.699862&lon=21.238503
+ObcCenOpt +ObchodneCentrumOptima http://www.openstreetmap.org/?lat=48.696746&lon=21.235778
+Per +Peresska http://www.openstreetmap.org/?lat=48.683870&lon=21.218097
+PolRaz +PolovRazcestie http://www.openstreetmap.org/?lat=48.662814&lon=21.208398
+LudDvor +LudvikovDvor http://www.openstreetmap.org/?lat=48.643281&lon=21.202025
+ValUSSte +ValcovneUSSteel http://www.openstreetmap.org/?lat=48.632632&lon=21.194344
 +X635819 http://www.openstreetmap.org/?lat=48.628080&lon=21.186297
-VstupnyArealUSSteel http://www.openstreetmap.org/?lat=48.622917&lon=21.192369
+VstAreUSSte +VstupnyArealUSSteel http://www.openstreetmap.org/?lat=48.622917&lon=21.192369

@@ -1,0 +1,153 @@
+systemName;route;banner;groupName;roots
+eurhr;AldRwy;;Alderney Railway;ggy.aldrwy
+eurhr;AlfVlyRwy;;Alford Valley Railway;sct.alfvlyrwy
+eurhr;AlmVlyRwy;;Almond Valley Railway;sct.almvlyrwy
+eurhr;AlnVlyRwy;;Aln Valley Railway;eng.alnvlyrwy
+eurhr;AltTowMon;;Alton Towers Monorail;eng.alttowmon
+eurhr;AmbMusRwy;;Amberley Museum Railway;eng.ambmusrwy
+eurhr;AVLR;;Apdale Valley Light Railway;eng.avlr
+eurhr;AppFroRwy;;Appleby - Frodingham Railway;eng.appfrorwy
+eurhr;AvonVlyRwy;;Avon Valley Railway;eng.avonvlyrwy
+eurhr;BalaLakeRwy;;Bala Lake Railway;wls.balalakerwy
+eurhr;BarTouRwy;;Barry Tourist Railway;wls.bartourwy
+eurhr;BatLn;;Battlefield Line;eng.batln
+eurhr;BeaTwy;;Beamish Tramway;eng.beatwy
+eurhr;BHLR;;Beer Heights Light Railway;eng.bhlr
+eurhr;BicSR;;Bickington Steam Railway;eng.bicsr
+eurhr;BTCT;;Blackpool Trams Coastal Tour;eng.btct
+eurhr;BTPT;;Blackpool Trams Promenade Tour;eng.btpt
+eurhr;BlaZooRwy;;Blackpool Zoo Railway;eng.blazoorwy
+eurhr;BlePkRwy;;Blenheim Park Railway;eng.blepkrwy
+eurhr;BonKinRwy;;Bo'ness & Kinneil Railway;sct.bonkinrwy
+eurhr;BreMouRwy;;Brecon Mountain Railway;wls.bremourwy
+eurhr;BWLR;;Bredgar & Wormshill Light Railway;eng.bwlr
+eurhr;BluRwy;;Bluebell Railway;eng.blurwy
+eurhr;BotWenRwy;;Bodmin & Wenford Railway;eng.bodwenrwy
+eurhr;BriHarRwy;;Bristol Harbour Railway;eng.briharrwy
+eurhr;BureVlyRwy;;Bure Valley Railway;eng.burevlyrwy
+eurhr;CalRwy;;Caledonian Railway;sct.calrwy
+eurhr;CamHerRwy;;Cambrian Heritage Railways;eng.camherrwy
+eurhr;ChaRwy;;Chasewater Railway;eng.charwy
+eurhr;ChiPRRwy;;Chinnor & Princes Risborough Railway;eng.chiprrwy
+eurhr;ChoWalRwy;;Cholsey & Wallingford Railway;eng.chowalrwy
+eurhr;ChuVlyRwy;;Churnet Valley Railway;eng.chuvlyrwy
+eurhr;CCLR;;Cleethorpes Coast Light Railway;eng.cclr
+eurhr;CorRwy;;Corris Railway;wls.corrwy
+eurhr;CriTwy;;Crich Tramway;eng.critwy
+eurhr;DarSR;;Dartmouth Steam Railway;eng.darsr
+eurhr;DeanForRwy;;Dean Forest Railway;eng.deanforrwy
+eurhr;DRCMainLn;;Didcot Railway Centre Main Line;eng.drcmainln
+eurhr;DRCBraLn;;Didcot Railway Centre Branch Line;eng.drcbraln
+eurhr;DHT;;Douglas Horse Tram;imn.dht
+eurhr;DowCDRwy;;Downpatrick & County Down Railway;nir.dowcdrwy
+eurhr;EKenRwy;;East Kent Railway;eng.ekentrwy
+eurhr;ELanRwy;;East Lancashire Railway;eng.elanrwy
+eurhr;ESomRwy;;East Somerset Railway;eng.esomrwy
+eurhr;ELSR;;Eastleigh Lakeside Steam Railway;eng.elsr
+eurhr;EccVlyRwy;;Ecclesbourne Valley Railway;eng.eccvlyrwy
+eurhr;EchWoodRwy;;Echills Wood Railway;eng.echwoodrwy
+eurhr;EmbBASR;;Embsay & Bolton Abbey Steam Railway;eng.embbasr
+eurhr;EppOngRwy;;Epping & Ongar Railway;eng.eppongrwy
+eurhr;EVLR;;Evesham Vale Light Railway;eng.evlr
+eurhr;ExbGarRwy;;Exbury Gardens Railway;eng.exbgarrwy
+eurhr;FaiRwy;;Fairbourne Railway;wls.fairwy
+eurhr;FfeRwy;;Ffestiniog Railway;wls.fferwy
+eurhr;FoxRwy;;Foxfield Railway;eng.foxrwy
+eurhr;GarLR;;Gartell Light Railway;eng.garlr
+eurhr;GCBusRwy;;Giant's Causeway & Bushmills Railway;nir.gcbusrwy
+eurhr;GloWarRwy;;Gloucestershire - Warwickshire Railway;eng.glowarrwy
+eurhr;GtBushRwy;;Great Bush Railway;eng.gtbushrwy
+eurhr;GtCenRwy;;Great Central Railway;eng.gtcenrwy
+eurhr;GtOrmeTwy;;Great Orme Tramway;wls.gtormetwy
+eurhr;GtWobRwy;;Great Woburn Railway;eng.gtwobrwy
+eurhr;GGR;;Groundle Glen Railway;imn.ggr
+eurhr;GunRwy;;Gunpowder Railway;eng.gunrwy
+eurhr;GwiRwy;;Gwili Railway;wls.gwirwy
+eurhr;HasMR;;Hastings Minature Railway;eng.hasmr
+eurhr;HaySeaRwy;;Hayling Seaside Railway;eng.haysearwy
+eurhr;HeaLR;;Heatherslaw Light Railway;eng.healr
+eurhr;HeaPkTwy;;Heaton Park Tramway;eng.heapktwy
+eurhr;HelRwy;;Helston Railway;eng.helrwy
+eurhr;HytPierRwy;;Hythe Pier Railway;eng.hytpierrwy
+eurhr;IoWSR;;Isle of Wight Steam Railway;eng.iowsr
+eurhr;Jac;;The Jacobite;sct.jac
+eurhr;KeiWVRwy;;Keighley & Worth Valley Railway;eng.keiwvrwy
+eurhr;KeiDufRwy;;Keith & Dufftown Railway;sct.keidufrwy
+eurhr;KESSR;;Kent & East Sussex Steam Railway;eng.kessr
+eurhr;LakHavRwy;;Lakeside & Haverthwaite Railway;eng.lakhavrwy
+eurhr;LakMR;;Lakeside Miniature Railway;eng.lakmr
+eurhr;LVSR;;Lappa Valley Steam Railway;eng.lvsr
+eurhr;LauSR;;Launceston Steam Railway;eng.lausr
+eurhr;LavLn;;Lavender Line;eng.lavln
+eurhr;LMR;;Laxey Mine Railway;imn.lmr
+eurhr;LeaWanRwy;;Leadhills & Wanlockhead Railway;sct.leawanrwy
+eurhr;LBLR;;Leighton Buzzard Light Railway;eng.lblr
+eurhr;LinWolRwy;;Lincolnshire Wolds Railway;eng.linwolrwy
+eurhr;LitMR;;Littlehampton Miniature Railway;eng.litmr
+eurhr;LlaLakeRwy;;Llanberis Lake Railway;wls.llalakerwy
+eurhr;LlaCorRwy;;Llangollen & Corwen Railway;wls.llacorrwy
+eurhr;LTMR;;London Transport Miniature Railway;eng.ltmr
+eurhr;LytBarRwy;;Lyton and Barnstaple Railway;eng.lytbarrwy
+eurhr;MarParkRwy;;Margam Park Railway;wls.marparkrwy
+eurhr;MdtRwy;;Middleton Railway;eng.mdtrwy
+eurhr;MidRwy;;Midland Railway;eng.midrwy
+eurhr;MidNorRwy;;Mid-Norfolk Railway;eng.midnorrwy
+eurhr;MidSufLR;;Mid-Suffolk Light Railway;eng.midsuflr
+eurhr;MooVlyRwy;;Moors Valley Railway;eng.moovlyrwy
+eurhr;MouRwy;;Mountsorrel Railway;eng.mourwy
+eurhr;NMMM;;National Motor Museum Monorail;eng.nmmm
+eurhr;NeneVlyRwy;;Nene Valley Railway;eng.nenevlyrwy
+eurhr;NorBayRwy;;North Bay Railway;eng.norbayrwy
+eurhr;NNorRwy;;North Norfolk Railway;eng.nnorrwy
+eurhr;NTSR;;North Tyneside Steam Railway;eng.ntsr
+eurhr;NYMRwy;;North Yorkshire Moors Railway;eng.nymrwy
+eurhr;NorLamRwy;;Northampton & Lamport Railway;eng.norlamrwy
+eurhr;OKLR;;Old Kiln Light Railway;eng.oklr
+eurhr;PeakRail;;Peak Rail;eng.peakrail
+eurhr;PerRwy;;Perrygrove Railway;eng.perrwy
+eurhr;PlyVlyRwy;;Plym Valley Railway;eng.plymvlyrwy
+eurhr;PonBlaRwy;;Pontypool & Blaenavon Railway;wls.ponblarwy
+eurhr;PLR;;Pugney Light Railway;eng.plr
+eurhr;RavEskRwy;;Ravenglass & Eskdale Railway;eng.raveskrwy
+eurhr;RHDRwy;;Romney, Hythe & Dymchurch Railway;eng.rhdrwy
+eurhr;RoyDeeRwy;;Royal Deeside Railway;sct.roydeerwy
+eurhr;RLSR;;Rudyard Lake Steam Railway;eng.rlsr
+eurhr;RuiLidoRwy;;Ruislip Lido Railway;eng.ruilidorwy
+eurhr;SalMR;;Saltburn Miniature Railway;eng.salmr
+eurhr;SeaTwy;;Seaton Tramway;eng.seatwy
+eurhr;SevVlyRwy;;Severn Valley Railway;eng.sevvlyrwy
+eurhr;SGTwy;;Shipley Glen Tramway;eng.sgtwy
+eurhr;SitKemLR;;Sittingbourne & Kemsley Light Railway;eng.sitkemlr
+eurhr;SnoMouRwy;;Snowdon Mountain Railway;wls.snomourwy
+eurhr;SDevRwy;;South Devon Railway;eng.sdevrwy
+eurhr;STynRwy;;South Tynedale Railway;eng.stynrwy
+eurhr;SouPierRwy;;Southend Pier Railway;eng.soupierrwy
+eurhr;SpaVlyRwy;;Spa Valley Railway;eng.spavlyrwy
+eurhr;StaBarnRwy;;Statfold Barn Railway;eng.stabarnrwy
+eurhr;SGLR;;Steeple Grange Light Railway;eng.sglr
+eurhr;StrRwy;;Strathspey Railway;sct.strrwy
+eurhr;SHPTwy;;Summerlee Heritage Park Tramway;sct.shptwy
+eurhr;SwaRwy;;Swanage Railway;eng.swarwy
+eurhr;SwiCriRwy;;Swindon & Cricklade Railway;eng.swicrirwy
+eurhr;TalRwy;;Talyllyn Railway;wls.talrwy
+eurhr;TanRwy;;Tanfield Railway;eng.tanrwy
+eurhr;TeiVlyRwy;;Teifi Valley Railway;wls.teivlyrwy
+eurhr;TelSR;;Telford Steam Railway;eng.telsr
+eurhr;TQMR;;Threkeld Quarry & Mining Railway;eng.tqmr
+eurhr;TNGR;;Toddington Narrow Gauge Railway;eng.tngr
+eurhr;ValeRheRwy;;Vale of Rheidol Railway;wls.valerherwy
+eurhr;VolER;;Volk's Electric Railway;eng.voler
+eurhr;WatLn;;Watercress Line;eng.watln
+eurhr;WatSVRwy;;Waterford & Suir Valley Railway;irl.watsvrwy
+eurhr;WeaRwy;;Weardale Railway;eng.wearwy
+eurhr;WWLR;;Wells & Walsingham Light Railway;eng.wwlr
+eurhr;WelHigHR;;Welsh Highland Heritage Railway;wls.welhighr
+eurhr;WelHigRwy;;Welsh Highland Railway;wls.welhigrwy
+eurhr;WelLlaRwy;;Welshpool & Llanfair Railway;wls.welllarwy
+eurhr;WenRwy;;Wensleydale Railway;eng.wenrwy
+eurhr;WLLR;;West Lancashire Light Railway;eng.wllr
+eurhr;WSomRwy;;West Somerset Railway;eng.wsomrwy
+eurhr;WhiVly;;Whistlestop Valley;eng.whivly
+eurhr;WirTwy;;Wirral Tramway;eng.wirtwy
+eurhr;WokMR;;Woking Miniature Railway;eng.wokmr
+eurhr;WNGR;;Woodthorn Narrow Gauge Railway;eng.wngr

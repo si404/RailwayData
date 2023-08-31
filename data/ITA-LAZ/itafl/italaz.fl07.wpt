@@ -1,4 +1,5 @@
-RomaTer +RomaTermini http://www.openstreetmap.org/?lat=41.900576&lon=12.502420
+RomaTer http://www.openstreetmap.org/?lat=41.900576&lon=12.502420
++X186569 http://www.openstreetmap.org/?lat=41.892638&lon=12.515552
 DIV_FC1W http://www.openstreetmap.org/?lat=41.890550&lon=12.519243
 +SKIP_PonCai http://www.openstreetmap.org/?lat=41.889128&lon=12.521989
 +DIV_FL5 http://www.openstreetmap.org/?lat=41.888153&lon=12.523899
@@ -7,24 +8,24 @@ DIV_FC1W http://www.openstreetmap.org/?lat=41.890550&lon=12.519243
 +X294878 http://www.openstreetmap.org/?lat=41.880529&lon=12.535036
 +DIV_FL46 http://www.openstreetmap.org/?lat=41.864080&lon=12.544198
 +X387824 http://www.openstreetmap.org/?lat=41.836252&lon=12.560517
-Tor +Torricora http://www.openstreetmap.org/?lat=41.809476&lon=12.557695
+Tor http://www.openstreetmap.org/?lat=41.809476&lon=12.557695
 +X432051 http://www.openstreetmap.org/?lat=41.737488&lon=12.561665
-PomSanPal +PomeziaSantaPalomba http://www.openstreetmap.org/?lat=41.706097&lon=12.573595
-Cam +Campoleone http://www.openstreetmap.org/?lat=41.642307&lon=12.648268
+PomSanPal http://www.openstreetmap.org/?lat=41.706097&lon=12.573595
+Cam http://www.openstreetmap.org/?lat=41.642307&lon=12.648268
 +DIV_FL8 http://www.openstreetmap.org/?lat=41.640864&lon=12.651358
-Cis +CisternaLatina http://www.openstreetmap.org/?lat=41.586528&lon=12.827568
-Lat +Latina http://www.openstreetmap.org/?lat=41.538169&lon=12.946272
-SezRom +SezzeRomano http://www.openstreetmap.org/?lat=41.495496&lon=13.038454
+Cis http://www.openstreetmap.org/?lat=41.586528&lon=12.827568
+Lat http://www.openstreetmap.org/?lat=41.538169&lon=12.946272
+SezRom http://www.openstreetmap.org/?lat=41.495496&lon=13.038454
 +X646474 http://www.openstreetmap.org/?lat=41.478650&lon=13.092871
 +X518649 http://www.openstreetmap.org/?lat=41.436517&lon=13.150206
-PriFos +PrivernoFossanova http://www.openstreetmap.org/?lat=41.421652&lon=13.186941
+PriFos http://www.openstreetmap.org/?lat=41.421652&lon=13.186941
 +X508950 http://www.openstreetmap.org/?lat=41.401761&lon=13.208914
 +X140661 http://www.openstreetmap.org/?lat=41.335995&lon=13.326502
 +X777155 http://www.openstreetmap.org/?lat=41.349012&lon=13.366671
-FonSpe +FondiSperlonga http://www.openstreetmap.org/?lat=41.337590&lon=13.424950
+FonSpe http://www.openstreetmap.org/?lat=41.337590&lon=13.424950
 +X925415 http://www.openstreetmap.org/?lat=41.325103&lon=13.472071
 Itri http://www.openstreetmap.org/?lat=41.271372&lon=13.545413
 +X954847 http://www.openstreetmap.org/?lat=41.253533&lon=13.580818
-ForGae +FormiaGaeta http://www.openstreetmap.org/?lat=41.258783&lon=13.606246
+ForGae http://www.openstreetmap.org/?lat=41.258783&lon=13.606246
 +X852300 http://www.openstreetmap.org/?lat=41.265509&lon=13.621094
-MinSca +MinturnoScauri http://www.openstreetmap.org/?lat=41.257517&lon=13.720894
+MinSca http://www.openstreetmap.org/?lat=41.257517&lon=13.720894
