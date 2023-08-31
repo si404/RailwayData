@@ -1,36 +1,36 @@
 Bau http://www.openstreetmap.org/?lat=45.502273&lon=9.165317
 ViaSca http://www.openstreetmap.org/?lat=45.499062&lon=9.169282
 PiaNig http://www.openstreetmap.org/?lat=45.496551&lon=9.171143
-Lancetti http://www.openstreetmap.org/?lat=45.495204&lon=9.175703
-ViaBernina http://www.openstreetmap.org/?lat=45.495552&lon=9.181577
-ViaFariniViaStelvia http://www.openstreetmap.org/?lat=45.494559&lon=9.185311
-ViaAlseri http://www.openstreetmap.org/?lat=45.490934&lon=9.183809
-ViaValtellina http://www.openstreetmap.org/?lat=45.489161&lon=9.183063
-+X115576 http://www.openstreetmap.org/?lat=45.488503&lon=9.182639
-ViaFariniViaFerrari http://www.openstreetmap.org/?lat=45.485724&lon=9.182070
-PiazzaleBaiamonti http://www.openstreetmap.org/?lat=45.481703&lon=9.181411
-VialeMontello http://www.openstreetmap.org/?lat=45.479779&lon=9.181041
-PiazzaLegaLombarda http://www.openstreetmap.org/?lat=45.477793&lon=9.180654
-Arena http://www.openstreetmap.org/?lat=45.475160&lon=9.181545
-LanzaM2 http://www.openstreetmap.org/?lat=45.471790&lon=9.182349
-ViaCusani http://www.openstreetmap.org/?lat=45.468901&lon=9.185321
-CordusioM1 http://www.openstreetmap.org/?lat=45.465522&lon=9.186244
-ViaOrefici http://www.openstreetmap.org/?lat=45.464504&lon=9.187210
-DuomoM1M3 http://www.openstreetmap.org/?lat=45.464138&lon=9.188551
-ViaPalla http://www.openstreetmap.org/?lat=45.461585&lon=9.185568
-ViaSantaMariaValle http://www.openstreetmap.org/?lat=45.460719&lon=9.183208
-+X849253 http://www.openstreetmap.org/?lat=45.460339&lon=9.181480
-Carrobbio http://www.openstreetmap.org/?lat=45.459904&lon=9.180383
-CantiereM4 http://www.openstreetmap.org/?lat=45.458915&lon=9.177800
-ViaSapeto http://www.openstreetmap.org/?lat=45.458029&lon=9.176711
-ViaAriberto http://www.openstreetmap.org/?lat=45.457126&lon=9.175397
-PiazzaleCantore http://www.openstreetmap.org/?lat=45.455130&lon=9.172468
-PortaGenovaM2 http://www.openstreetmap.org/?lat=45.453030&lon=9.169829
-AlzaisaNaviglioGrande http://www.openstreetmap.org/?lat=45.450780&lon=9.168370
-ViaLombardini http://www.openstreetmap.org/?lat=45.449342&lon=9.163982
-PonteGuidoCrepax http://www.openstreetmap.org/?lat=45.448275&lon=9.158676
-ViaPestalozzi http://www.openstreetmap.org/?lat=45.447466&lon=9.155028
-ViaLodovicoMoro25 http://www.openstreetmap.org/?lat=45.446352&lon=9.149680
-CavalcaviaDonMilani http://www.openstreetmap.org/?lat=45.445769&lon=9.147143
-ViaGuintellino http://www.openstreetmap.org/?lat=45.444818&lon=9.142508
-PiazzaleNegrelli http://www.openstreetmap.org/?lat=45.443972&lon=9.139638
+Lan +Lancetti http://www.openstreetmap.org/?lat=45.495204&lon=9.175703
+ViaBer +ViaBernina http://www.openstreetmap.org/?lat=45.495552&lon=9.181577
+ViaFarViaSte +ViaFariniViaStelvia http://www.openstreetmap.org/?lat=45.494559&lon=9.185311
+ViaAls +ViaAlseri http://www.openstreetmap.org/?lat=45.490934&lon=9.183809
+ViaVal +ViaValtellina http://www.openstreetmap.org/?lat=45.489161&lon=9.183063
++DIV_33 http://www.openstreetmap.org/?lat=45.488503&lon=9.182639
+ViaFarViaFer +ViaFariniViaFerrari http://www.openstreetmap.org/?lat=45.485724&lon=9.182070
+PiaBai +PiazzaleBaiamonti http://www.openstreetmap.org/?lat=45.481703&lon=9.181411
+ViaMon +VialeMontello http://www.openstreetmap.org/?lat=45.479779&lon=9.181041
+PiaLegaLom +PiazzaLegaLombarda http://www.openstreetmap.org/?lat=45.477793&lon=9.180654
+Are +Arena http://www.openstreetmap.org/?lat=45.475160&lon=9.181545
+LanM2 +LanzaM2 http://www.openstreetmap.org/?lat=45.471790&lon=9.182349
+ViaCus +ViaCusani http://www.openstreetmap.org/?lat=45.468901&lon=9.185321
+CorM1 +CordusioM1 http://www.openstreetmap.org/?lat=45.465522&lon=9.186244
+ViaOre +ViaOrefici http://www.openstreetmap.org/?lat=45.464504&lon=9.187210
+DuoM1M3 +DuomoM1M3 http://www.openstreetmap.org/?lat=45.464138&lon=9.188551
+ViaPal +ViaPalla http://www.openstreetmap.org/?lat=45.461585&lon=9.185568
+ViaSanMarVil +ViaSantaMariaValle http://www.openstreetmap.org/?lat=45.460719&lon=9.183208
++DIV_3 http://www.openstreetmap.org/?lat=45.460339&lon=9.181480
+Car +Carrobbio http://www.openstreetmap.org/?lat=45.459904&lon=9.180383
+CanM4 +CantiereM4 http://www.openstreetmap.org/?lat=45.458915&lon=9.177800
+ViaSap +ViaSapeto http://www.openstreetmap.org/?lat=45.458029&lon=9.176711
+ViaAri +ViaAriberto http://www.openstreetmap.org/?lat=45.457126&lon=9.175397
+PiaCan +PiazzaleCantore http://www.openstreetmap.org/?lat=45.455130&lon=9.172468
+PorGenM2 +PortaGenovaM2 http://www.openstreetmap.org/?lat=45.453030&lon=9.169829
+AlzNavGra +AlzaisaNaviglioGrande http://www.openstreetmap.org/?lat=45.450780&lon=9.168370
+ViaLom +ViaLombardini http://www.openstreetmap.org/?lat=45.449342&lon=9.163982
+PonGuiCre +PonteGuidoCrepax http://www.openstreetmap.org/?lat=45.448275&lon=9.158676
+ViaPes +ViaPestalozzi http://www.openstreetmap.org/?lat=45.447466&lon=9.155028
+ViaLodMoro25 +ViaLodovicoMoro25 http://www.openstreetmap.org/?lat=45.446352&lon=9.149680
+CavDonMil +CavalcaviaDonMilani http://www.openstreetmap.org/?lat=45.445769&lon=9.147143
+ViaGui +ViaGuintellino http://www.openstreetmap.org/?lat=45.444818&lon=9.142508
+PiaNeg +PiazzaleNegrelli http://www.openstreetmap.org/?lat=45.443972&lon=9.139638
