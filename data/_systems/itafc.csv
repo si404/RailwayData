@@ -1,5 +1,4 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
 itafc;ITA-LAZ;FC1;;;Tranvétto;italaz.fc01;
 itafc;ITA-LAZ;FC2;;;Metromare;italaz.fc02;
-itafc;ITA-LAZ;FC3;;Urb;Ferrovia Roma-Viterbo (servizio urbano);italaz.fc03urb;
-itafc;ITA-LAZ;FC3;;Ext;Ferrovia Roma-Viterbo (servizio extraurbano);italaz.fc03ext;
+itafc;ITA-LAZ;FC3;;;Ferrovia Roma-Viterbo;italaz.fc03;

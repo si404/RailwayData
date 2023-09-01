@@ -2,7 +2,7 @@ systemName;region;route;banner;abbrev;city;root;altRouteNames
 deukas;DEU-BW;S1;;Kar;Karlsruhe;deubw.s01kar;
 deukas;DEU-BW;S2;;Kar;Karlsruhe;deubw.s02kar;
 deukas;DEU-BW;S4;;Kar;Karlsruhe;deubw.s04kar;
-deukas;DEU-RP;S5;;Wor;;deurp.s05wor;
+deukas;DEU-RP;S5;;Wor;Wörth am Rhein;deurp.s05wor;
 deukas;DEU-BW;S5;;Kar;Karlsruhe;deubw.s05kar;
 deukas;DEU-BW;S6;;Pfo;Pforzheim;deubw.s06pfo;
 deukas;DEU-BW;S7;;Kar;Karlsruhe;deubw.s07kar;

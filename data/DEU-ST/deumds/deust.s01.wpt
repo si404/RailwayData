@@ -13,7 +13,7 @@ StendalHochschule http://www.openstreetmap.org/?lat=52.616612&lon=11.849184
 StendalStadtsee http://www.openstreetmap.org/?lat=52.606709&lon=11.836824
 +X203307 http://www.openstreetmap.org/?lat=52.598395&lon=11.817641
 +X885391 http://www.openstreetmap.org/?lat=52.591669&lon=11.823692
-StendalHauptbahnhof http://www.openstreetmap.org/?lat=52.594667&lon=11.854806
+StendalHbf http://www.openstreetmap.org/?lat=52.594667&lon=11.854806
 +X612488 http://www.openstreetmap.org/?lat=52.595293&lon=11.861501
 +X896002 http://www.openstreetmap.org/?lat=52.536508&lon=11.863861
 Demker http://www.openstreetmap.org/?lat=52.517419&lon=11.854291
@@ -31,7 +31,7 @@ MagdeburgEichenweiler http://www.openstreetmap.org/?lat=52.166582&lon=11.657953
 +X865819 http://www.openstreetmap.org/?lat=52.157901&lon=11.660872
 +X269490 http://www.openstreetmap.org/?lat=52.153372&lon=11.655464
 MagdeburgNeustadt http://www.openstreetmap.org/?lat=52.148573&lon=11.641238
-Hauptbahnhof http://www.openstreetmap.org/?lat=52.130505&lon=11.626689
+Hbf http://www.openstreetmap.org/?lat=52.130505&lon=11.626689
 +X890491 http://www.openstreetmap.org/?lat=52.125828&lon=11.625359
 MagdeburgHasselbachplatz http://www.openstreetmap.org/?lat=52.122508&lon=11.625381
 +X971555 http://www.openstreetmap.org/?lat=52.116145&lon=11.624286

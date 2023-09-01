@@ -14,7 +14,7 @@ HannoverLedeburg http://www.openstreetmap.org/?lat=52.408585&lon=9.690886
 +X950790 http://www.openstreetmap.org/?lat=52.397097&lon=9.704103
 HannoverNordstadt http://www.openstreetmap.org/?lat=52.393643&lon=9.718587
 +X800058 http://www.openstreetmap.org/?lat=52.391938&lon=9.723973
-HannoverHauptbahnhof http://www.openstreetmap.org/?lat=52.376939&lon=9.741654
+HannoverHbf http://www.openstreetmap.org/?lat=52.376939&lon=9.741654
 +X872712 http://www.openstreetmap.org/?lat=52.373752&lon=9.751396
 +X864221 http://www.openstreetmap.org/?lat=52.368381&lon=9.763370
 HannoverBismarchstrasse http://www.openstreetmap.org/?lat=52.356221&lon=9.769936
@@ -32,4 +32,4 @@ Barnten http://www.openstreetmap.org/?lat=52.195153&lon=9.814954
 Emmerke http://www.openstreetmap.org/?lat=52.162429&lon=9.865808
 +X686357 http://www.openstreetmap.org/?lat=52.159856&lon=9.884992
 +X332090 http://www.openstreetmap.org/?lat=52.156486&lon=9.936297
-HildesheimHauptbahnhof http://www.openstreetmap.org/?lat=52.160738&lon=9.954257
+HildesheimHbf http://www.openstreetmap.org/?lat=52.160738&lon=9.954257

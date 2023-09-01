@@ -1,4 +1,4 @@
-Balsthal http://www.openstreetmap.org/?lat=47.313035&lon=7.694721
-+Thalbrucke http://www.openstreetmap.org/?lat=47.308496&lon=7.688284
-+Klus http://www.openstreetmap.org/?lat=47.304131&lon=7.693777
-Oensingen http://www.openstreetmap.org/?lat=47.285026&lon=7.709763
+Bal http://www.openstreetmap.org/?lat=47.313035&lon=7.694721
++SKIP_Tha http://www.openstreetmap.org/?lat=47.308496&lon=7.688284
++SKIP_Klus http://www.openstreetmap.org/?lat=47.304131&lon=7.693777
+Oen http://www.openstreetmap.org/?lat=47.285026&lon=7.709763

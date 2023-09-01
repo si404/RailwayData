@@ -1,24 +1,24 @@
-HlavnaStanica http://www.openstreetmap.org/?lat=48.158911&lon=17.106700
-PodStanicou http://www.openstreetmap.org/?lat=48.155884&lon=17.107472
-UradVladySR http://www.openstreetmap.org/?lat=48.154374&lon=17.110670
+HlaSta +HlavnaStanica http://www.openstreetmap.org/?lat=48.158911&lon=17.106700
+PodSta +PodStanicou http://www.openstreetmap.org/?lat=48.155884&lon=17.107472
+UradVlaSR +UradVladySR http://www.openstreetmap.org/?lat=48.154374&lon=17.110670
 STU http://www.openstreetmap.org/?lat=48.151818&lon=17.116828
-+X288823 http://www.openstreetmap.org/?lat=48.152978&lon=17.118598
-Blumental http://www.openstreetmap.org/?lat=48.153729&lon=17.118888
-+X604929 http://www.openstreetmap.org/?lat=48.154502&lon=17.119135
-RacianskeMyto http://www.openstreetmap.org/?lat=48.158181&lon=17.120744
-Ursinyho http://www.openstreetmap.org/?lat=48.162210&lon=17.124016
-Pionierska http://www.openstreetmap.org/?lat=48.168687&lon=17.127385
-Riazanska http://www.openstreetmap.org/?lat=48.173738&lon=17.127342
-MladaGarda http://www.openstreetmap.org/?lat=48.177580&lon=17.128050
-NamBielyKriz http://www.openstreetmap.org/?lat=48.182345&lon=17.129960
-StanicaVinohrady http://www.openstreetmap.org/?lat=48.186722&lon=17.133286
-DepoKrasnany http://www.openstreetmap.org/?lat=48.188482&lon=17.135754
-Malokrasnanska http://www.openstreetmap.org/?lat=48.191193&lon=17.138940
-PecknaCesta http://www.openstreetmap.org/?lat=48.195463&lon=17.143586
-Cernockeho http://www.openstreetmap.org/?lat=48.199539&lon=17.147427
-Heckova http://www.openstreetmap.org/?lat=48.203028&lon=17.149519
-Hybesova http://www.openstreetmap.org/?lat=48.207969&lon=17.150688
-Detvianska http://www.openstreetmap.org/?lat=48.211144&lon=17.154722
-Zahumenice http://www.openstreetmap.org/?lat=48.211988&lon=17.158874
-Puchovska http://www.openstreetmap.org/?lat=48.215069&lon=17.163928
-Komisarky http://www.openstreetmap.org/?lat=48.216248&lon=17.166427
++DIV_3 http://www.openstreetmap.org/?lat=48.152978&lon=17.118598
+Blu +Blumental http://www.openstreetmap.org/?lat=48.153729&lon=17.118888
++DIV_9 http://www.openstreetmap.org/?lat=48.154502&lon=17.119135
+Rac +RacianskeMyto http://www.openstreetmap.org/?lat=48.158181&lon=17.120744
+Urs +Ursinyho http://www.openstreetmap.org/?lat=48.162210&lon=17.124016
+Pio +Pionierska http://www.openstreetmap.org/?lat=48.168687&lon=17.127385
+Ria +Riazanska http://www.openstreetmap.org/?lat=48.173738&lon=17.127342
+MlaGar +MladaGarda http://www.openstreetmap.org/?lat=48.177580&lon=17.128050
+NamBieKriz +NamBielyKriz http://www.openstreetmap.org/?lat=48.182345&lon=17.129960
+StaVin +StanicaVinohrady http://www.openstreetmap.org/?lat=48.186722&lon=17.133286
+DepoKra +DepoKrasnany http://www.openstreetmap.org/?lat=48.188482&lon=17.135754
+Mal +Malokrasnanska http://www.openstreetmap.org/?lat=48.191193&lon=17.138940
+PecCes +PecknaCesta http://www.openstreetmap.org/?lat=48.195463&lon=17.143586
+Cer +Cernockeho http://www.openstreetmap.org/?lat=48.199539&lon=17.147427
+Hec +Heckova http://www.openstreetmap.org/?lat=48.203028&lon=17.149519
+Hyb +Hybesova http://www.openstreetmap.org/?lat=48.207969&lon=17.150688
+Det +Detvianska http://www.openstreetmap.org/?lat=48.211144&lon=17.154722
+Zah +Zahumenice http://www.openstreetmap.org/?lat=48.211988&lon=17.158874
+Puc +Puchovska http://www.openstreetmap.org/?lat=48.215069&lon=17.163928
+Kom +Komisarky http://www.openstreetmap.org/?lat=48.216248&lon=17.166427

@@ -3,7 +3,7 @@ FreiburgerStrasse http://www.openstreetmap.org/?lat=49.545240&lon=8.629825
 Blumenstrasse http://www.openstreetmap.org/?lat=49.544572&lon=8.638065
 Stahlbad http://www.openstreetmap.org/?lat=49.545031&lon=8.649180
 Handelstrasse http://www.openstreetmap.org/?lat=49.548707&lon=8.655703
-WeinheimHauptbahnhof http://www.openstreetmap.org/?lat=49.553440&lon=8.665509
+WeinheimHbf http://www.openstreetmap.org/?lat=49.553440&lon=8.665509
 WeinheimAlterOEGBahnhof http://www.openstreetmap.org/?lat=49.548832&lon=8.664994
 Rosenbrunnen http://www.openstreetmap.org/?lat=49.541091&lon=8.660853
 Pilgerhaus http://www.openstreetmap.org/?lat=49.532931&lon=8.658450
@@ -32,7 +32,7 @@ Seegarten http://www.openstreetmap.org/?lat=49.407085&lon=8.691773
 Stadtbucherei http://www.openstreetmap.org/?lat=49.406177&lon=8.686473
 +X184727 http://www.openstreetmap.org/?lat=49.405326&lon=8.684371
 Stadtwerke http://www.openstreetmap.org/?lat=49.404991&lon=8.681731
-HeidelbergHauptbahnhof http://www.openstreetmap.org/?lat=49.403538&lon=8.675444
+HeidelbergHbf http://www.openstreetmap.org/?lat=49.403538&lon=8.675444
 +X199584 http://www.openstreetmap.org/?lat=49.405074&lon=8.674951
 GneisenaustrasseSud http://www.openstreetmap.org/?lat=49.406624&lon=8.667290
 Berufsschule http://www.openstreetmap.org/?lat=49.408481&lon=8.660960
@@ -65,4 +65,4 @@ Paradeplatz http://www.openstreetmap.org/?lat=49.487758&lon=8.466232
 Schloss http://www.openstreetmap.org/?lat=49.484872&lon=8.463517
 Universitat http://www.openstreetmap.org/?lat=49.481987&lon=8.464601
 +X763287 http://www.openstreetmap.org/?lat=49.481192&lon=8.466350
-MannheimHauptbahnhof http://www.openstreetmap.org/?lat=49.479132&lon=8.469257
+MannheimHbf http://www.openstreetmap.org/?lat=49.479132&lon=8.469257

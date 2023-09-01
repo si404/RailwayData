@@ -61,8 +61,9 @@ She http://www.openstreetmap.org/?lat=53.378119&lon=-1.461954
 +DIV_Lin http://www.openstreetmap.org/?lat=53.384307&lon=-1.455281
 MeaInt http://www.openstreetmap.org/?lat=53.417007&lon=-1.414447
 +DIV_Sup http://www.openstreetmap.org/?lat=53.419706&lon=-1.409426
-+DIV_Mas http://www.openstreetmap.org/?lat=53.427493&lon=-1.378462
-+DIV_Rot http://www.openstreetmap.org/?lat=53.455611&lon=-1.326041
++DIV_RotS http://www.openstreetmap.org/?lat=53.427493&lon=-1.378462
++DIV_Mas http://www.openstreetmap.org/?lat=53.430593&lon=-1.371918
++DIV_RotN http://www.openstreetmap.org/?lat=53.455611&lon=-1.326041
 +DIV_Raw http://www.openstreetmap.org/?lat=53.459291&lon=-1.320913
 +X924800 http://www.openstreetmap.org/?lat=53.464573&lon=-1.304884
 +X907925 http://www.openstreetmap.org/?lat=53.481942&lon=-1.301794

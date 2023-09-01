@@ -1,4 +1,4 @@
-LDS http://www.openstreetmap.org/?lat=53.794358&lon=-1.547720
+Lee http://www.openstreetmap.org/?lat=53.794358&lon=-1.547720
 +DIV_Hal http://www.openstreetmap.org/?lat=53.792634&lon=-1.555617
 +DIV_Har http://www.openstreetmap.org/?lat=53.792402&lon=-1.561314
 +DIV_Hud http://www.openstreetmap.org/?lat=53.791329&lon=-1.568513
@@ -12,7 +12,7 @@ WakWes http://www.openstreetmap.org/?lat=53.682691&lon=-1.505942
 +DIV_HalS http://www.openstreetmap.org/?lat=53.677163&lon=-1.493497
 WakKir http://www.openstreetmap.org/?lat=53.678605&lon=-1.488647
 +DIV_HalN http://www.openstreetmap.org/?lat=53.679088&lon=-1.486309
-+X230558 http://www.openstreetmap.org/?lat=53.662963&lon=-1.458178
++DIV_Don http://www.openstreetmap.org/?lat=53.662963&lon=-1.458178
 Str http://www.openstreetmap.org/?lat=53.676159&lon=-1.399684
 Fea http://www.openstreetmap.org/?lat=53.679006&lon=-1.358442
 PonTan http://www.openstreetmap.org/?lat=53.693975&lon=-1.318831

@@ -1,7 +1,7 @@
 Thielenbruch http://www.openstreetmap.org/?lat=50.978027&lon=7.085516
 DellbruckHauptstrasse http://www.openstreetmap.org/?lat=50.974812&lon=7.074873
 DellbruckMauspfad http://www.openstreetmap.org/?lat=50.971880&lon=7.064981
-NeufelderStrasseKrankenhausHolweide http://www.openstreetmap.org/?lat=50.969556&lon=7.055562
+NeuFelStrKraHausHolWei http://www.openstreetmap.org/?lat=50.969556&lon=7.055562
 MariaHimmelfahrtStrasse http://www.openstreetmap.org/?lat=50.967880&lon=7.044683
 Vischeringstrasse http://www.openstreetmap.org/?lat=50.966569&lon=7.038417
 WichheimerStrasse http://www.openstreetmap.org/?lat=50.961515&lon=7.031250
@@ -62,4 +62,4 @@ BruhlerStrasse http://www.openstreetmap.org/?lat=50.740305&lon=7.069466
 BonnWest http://www.openstreetmap.org/?lat=50.736326&lon=7.081482
 +X193002 http://www.openstreetmap.org/?lat=50.735294&lon=7.086461
 +X858353 http://www.openstreetmap.org/?lat=50.733980&lon=7.092415
-BonnHauptbahnhof http://www.openstreetmap.org/?lat=50.732014&lon=7.096696
+BonnHbf http://www.openstreetmap.org/?lat=50.732014&lon=7.096696

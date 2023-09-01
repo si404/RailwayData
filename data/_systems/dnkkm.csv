@@ -1,5 +1,5 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-dnkkm;DNK;M1;;;;dnk.m01;
-dnkkm;DNK;M2;;;;dnk.m02;
-dnkkm;DNK;M3;;;;dnk.m03;
-dnkkm;DNK;M4;;;;dnk.m04;
+dnkkm;DNK;M1;;;København;dnk.m01;
+dnkkm;DNK;M2;;;København;dnk.m02;
+dnkkm;DNK;M3;;;København;dnk.m03;
+dnkkm;DNK;M4;;;København;dnk.m04;

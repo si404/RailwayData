@@ -1,26 +1,26 @@
-PortaNuova_1 http://www.openstreetmap.org/?lat=45.060904&lon=7.677534
-ReUmberto http://www.openstreetmap.org/?lat=45.064435&lon=7.674122
-GalileoFerraris http://www.openstreetmap.org/?lat=45.065993&lon=7.669734
-VittorioEmanueleII http://www.openstreetmap.org/?lat=45.067209&lon=7.666440
-Questura http://www.openstreetmap.org/?lat=45.071016&lon=7.668908
-+X372771 http://www.openstreetmap.org/?lat=45.072896&lon=7.670217
-Siccardi http://www.openstreetmap.org/?lat=45.071312&lon=7.674884
-Bertola http://www.openstreetmap.org/?lat=45.070228&lon=7.681214
-Garibaldi http://www.openstreetmap.org/?lat=45.071524&lon=7.681847
-+CorteDAppello http://www.openstreetmap.org/?lat=45.073373&lon=7.683027
-DuomoMuseiReali http://www.openstreetmap.org/?lat=45.074858&lon=7.683939
-XIFebbraio http://www.openstreetmap.org/?lat=45.075564&lon=7.687023
-GiardiniReali http://www.openstreetmap.org/?lat=45.074699&lon=7.689614
-Partigiani http://www.openstreetmap.org/?lat=45.072433&lon=7.689958
-+X475140 http://www.openstreetmap.org/?lat=45.070297&lon=7.686696
-Rossini http://www.openstreetmap.org/?lat=45.068160&lon=7.690183
-SantOttavio http://www.openstreetmap.org/?lat=45.066553&lon=7.692640
-VittorioVeneto http://www.openstreetmap.org/?lat=45.064958&lon=7.695644
-Giolitti http://www.openstreetmap.org/?lat=45.062492&lon=7.693906
-Mazzini http://www.openstreetmap.org/?lat=45.060415&lon=7.692221
-DellaRoca http://www.openstreetmap.org/?lat=45.058793&lon=7.689872
-+X275346 http://www.openstreetmap.org/?lat=45.059354&lon=7.688026
-DAzeglio http://www.openstreetmap.org/?lat=45.059616&lon=7.687511
-MadamaCristina http://www.openstreetmap.org/?lat=45.060567&lon=7.684894
-CarloAlberto http://www.openstreetmap.org/?lat=45.061613&lon=7.681900
-PortaNuova_2 http://www.openstreetmap.org/?lat=45.060904&lon=7.677534
+PorNuo_1 +PortaNuova_1 http://www.openstreetmap.org/?lat=45.060904&lon=7.677534
+ReUmb +ReUmberto http://www.openstreetmap.org/?lat=45.064435&lon=7.674122
+GalFer +GalileoFerraris http://www.openstreetmap.org/?lat=45.065993&lon=7.669734
+VitEmaII +VittorioEmanueleII http://www.openstreetmap.org/?lat=45.067209&lon=7.666440
+Que +Questura http://www.openstreetmap.org/?lat=45.071016&lon=7.668908
++DIV_13 http://www.openstreetmap.org/?lat=45.072896&lon=7.670217
+Sic +Siccardi http://www.openstreetmap.org/?lat=45.071312&lon=7.674884
+Ber +Bertola http://www.openstreetmap.org/?lat=45.070228&lon=7.681214
+Gar +Garibaldi http://www.openstreetmap.org/?lat=45.071524&lon=7.681847
++SKIP_CorApp http://www.openstreetmap.org/?lat=45.073373&lon=7.683027
+DuoMusRea +DuomoMuseiReali http://www.openstreetmap.org/?lat=45.074858&lon=7.683939
+XIFeb +XIFebbraio http://www.openstreetmap.org/?lat=45.075564&lon=7.687023
+GiaRea +GiardiniReali http://www.openstreetmap.org/?lat=45.074699&lon=7.689614
+Par +Partigiani http://www.openstreetmap.org/?lat=45.072433&lon=7.689958
++DIV_1315 http://www.openstreetmap.org/?lat=45.070297&lon=7.686696
+Ros +Rossini http://www.openstreetmap.org/?lat=45.068160&lon=7.690183
+SantOtt +SantOttavio http://www.openstreetmap.org/?lat=45.066553&lon=7.692640
+VitVen +VittorioVeneto http://www.openstreetmap.org/?lat=45.064958&lon=7.695644
+Gio +Giolitti http://www.openstreetmap.org/?lat=45.062492&lon=7.693906
+Maz +Mazzini http://www.openstreetmap.org/?lat=45.060415&lon=7.692221
+DelRoca +DellaRoca http://www.openstreetmap.org/?lat=45.058793&lon=7.689872
++DIV_9 http://www.openstreetmap.org/?lat=45.059354&lon=7.688026
+Aze +DAzeglio http://www.openstreetmap.org/?lat=45.059616&lon=7.687511
+MadCri +MadamaCristina http://www.openstreetmap.org/?lat=45.060567&lon=7.684894
+CarAlb +CarloAlberto http://www.openstreetmap.org/?lat=45.061613&lon=7.681900
+PorNuo_2 +PortaNuova_2 http://www.openstreetmap.org/?lat=45.060904&lon=7.677534

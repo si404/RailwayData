@@ -1,6 +1,6 @@
 RP/BW http://www.openstreetmap.org/?lat=49.480861&lon=8.456426
 +X678828 http://www.openstreetmap.org/?lat=49.482018&lon=8.460631
-MannheimHauptbahnhof http://www.openstreetmap.org/?lat=49.479132&lon=8.469257
+MannheimHbf http://www.openstreetmap.org/?lat=49.479132&lon=8.469257
 +X770519 http://www.openstreetmap.org/?lat=49.469916&lon=8.487883
 +X346465 http://www.openstreetmap.org/?lat=49.461946&lon=8.505735
 MannheimARENAMaimarkt http://www.openstreetmap.org/?lat=49.459903&lon=8.515949
@@ -8,10 +8,10 @@ MannheimSeckenheim http://www.openstreetmap.org/?lat=49.451004&lon=8.538673
 +X745486 http://www.openstreetmap.org/?lat=49.440178&lon=8.566761
 MannheimFriedrichsfeldSud http://www.openstreetmap.org/?lat=49.437862&lon=8.573005
 +X629110 http://www.openstreetmap.org/?lat=49.436550&lon=8.576739
-HeidelbergPfaffengrundWieblingen http://www.openstreetmap.org/?lat=49.411943&lon=8.641498
-HeidelbergHauptbahnhof http://www.openstreetmap.org/?lat=49.403538&lon=8.675444
+HeiBergPfaGruWie http://www.openstreetmap.org/?lat=49.411943&lon=8.641498
+HeidelbergHbf http://www.openstreetmap.org/?lat=49.403538&lon=8.675444
 +X646976 http://www.openstreetmap.org/?lat=49.399845&lon=8.681688
-HeidelbergKirchheimRohrbach http://www.openstreetmap.org/?lat=49.379397&lon=8.675380
+HeiBergKirHeimRohrBach http://www.openstreetmap.org/?lat=49.379397&lon=8.675380
 StIlgenSandhausen http://www.openstreetmap.org/?lat=49.341468&lon=8.668728
 WieslochWalldorf http://www.openstreetmap.org/?lat=49.291084&lon=8.664136
 RotMalsch http://www.openstreetmap.org/?lat=49.243338&lon=8.652248
@@ -27,7 +27,7 @@ UbstadtWeiher http://www.openstreetmap.org/?lat=49.166848&lon=8.623238
 +X362344 http://www.openstreetmap.org/?lat=49.130222&lon=8.593154
 Bruchsal http://www.openstreetmap.org/?lat=49.124409&lon=8.589785
 +X838570 http://www.openstreetmap.org/?lat=49.116460&lon=8.581588
-BruchsalGewerblichesBildungszentrum http://www.openstreetmap.org/?lat=49.110287&lon=8.574421
+BruGewBilZen http://www.openstreetmap.org/?lat=49.110287&lon=8.574421
 Untergrombach http://www.openstreetmap.org/?lat=49.087590&lon=8.548329
 Weingarten http://www.openstreetmap.org/?lat=49.059175&lon=8.521357
 +X819378 http://www.openstreetmap.org/?lat=49.006707&lon=8.472133
@@ -35,4 +35,4 @@ Weingarten http://www.openstreetmap.org/?lat=49.059175&lon=8.521357
 KarlsruheDurlach http://www.openstreetmap.org/?lat=49.001914&lon=8.462305
 +X754748 http://www.openstreetmap.org/?lat=48.999331&lon=8.446620
 +X544790 http://www.openstreetmap.org/?lat=49.000725&lon=8.428123
-KarlsruheHauptbahnhof http://www.openstreetmap.org/?lat=48.993538&lon=8.401880
+KarlsruheHbf http://www.openstreetmap.org/?lat=48.993538&lon=8.401880

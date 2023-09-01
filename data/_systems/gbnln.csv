@@ -1,6 +1,6 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
 gbnln;ENG;BirLivLn;;;Birmingham - Liverpool Line;eng.birlivln;
-gbnln;ENG;NhpLn;;;Northampton Line;eng.nhpln;GUCLn
+gbnln;ENG;NhpLn;;;Northampton Line;eng.nhpln;
 gbnln;ENG;TreVlyLn;;;Trent Valley Line;eng.trevlyln;
 gbnln;ENG;PotLn;;;Potteries Line;eng.potln;
 gbnln;ENG;AbbLn;;;Abbey Line;eng.abbln;
