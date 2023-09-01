@@ -1,19 +1,16 @@
-Flughafen http://www.openstreetmap.org/?lat=49.493992&lon=11.078382
-Ziegelstein http://www.openstreetmap.org/?lat=49.485043&lon=11.105289
-Herrnhutte http://www.openstreetmap.org/?lat=49.478547&lon=11.109967
-Nordostbahnhof http://www.openstreetmap.org/?lat=49.473688&lon=11.104753
-Schoppershof http://www.openstreetmap.org/?lat=49.464655&lon=11.100461
-Rennweg http://www.openstreetmap.org/?lat=49.460639&lon=11.092265
-+X745260 http://www.openstreetmap.org/?lat=49.459024&lon=11.089990
-Rathenauplatz http://www.openstreetmap.org/?lat=49.456918&lon=11.089261
-+X137702 http://www.openstreetmap.org/?lat=49.454829&lon=11.088713
-WohrderWiese http://www.openstreetmap.org/?lat=49.453129&lon=11.086847
-Hbf http://www.openstreetmap.org/?lat=49.445382&lon=11.082330
-Opernhaus http://www.openstreetmap.org/?lat=49.446861&lon=11.074648
-Plarrer http://www.openstreetmap.org/?lat=49.448312&lon=11.064949
-RothenburgerStrasse http://www.openstreetmap.org/?lat=49.445371&lon=11.055239
-+X631358 http://www.openstreetmap.org/?lat=49.442745&lon=11.052825
-StLeonhard http://www.openstreetmap.org/?lat=49.438797&lon=11.049972
-Schweinau http://www.openstreetmap.org/?lat=49.434931&lon=11.047225
-HoheMarter http://www.openstreetmap.org/?lat=49.428987&lon=11.043942
-Rothenbach http://www.openstreetmap.org/?lat=49.420878&lon=11.031711
+FlugHaf +Flughafen http://www.openstreetmap.org/?lat=49.493992&lon=11.078382
+ZieSte http://www.openstreetmap.org/?lat=49.485043&lon=11.105289
+HerHut http://www.openstreetmap.org/?lat=49.478547&lon=11.109967
+NordOstBf http://www.openstreetmap.org/?lat=49.472125&lon=11.104453
+SchHof http://www.openstreetmap.org/?lat=49.464655&lon=11.100461
+RennWeg http://www.openstreetmap.org/?lat=49.461047&lon=11.093541
+RatPla http://www.openstreetmap.org/?lat=49.456733&lon=11.089475
+WohWie http://www.openstreetmap.org/?lat=49.452465&lon=11.086841
+Hbf +Hauptbahnhof http://www.openstreetmap.org/?lat=49.446827&lon=11.081557
+OpeHaus http://www.openstreetmap.org/?lat=49.446861&lon=11.074648
+Pla http://www.openstreetmap.org/?lat=49.448312&lon=11.064949
+RotBurStr http://www.openstreetmap.org/?lat=49.444440&lon=11.055132
+StLeo http://www.openstreetmap.org/?lat=49.438797&lon=11.049972
+Sch http://www.openstreetmap.org/?lat=49.434247&lon=11.048298
+HoheMar http://www.openstreetmap.org/?lat=49.428987&lon=11.043942
+RotBach http://www.openstreetmap.org/?lat=49.420878&lon=11.031711
