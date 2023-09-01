@@ -9,10 +9,12 @@ AllSt http://www.openstreetmap.org/?lat=42.348590&lon=-71.137612
 GriSt http://www.openstreetmap.org/?lat=42.348851&lon=-71.134361
 HarAve http://www.openstreetmap.org/?lat=42.350401&lon=-71.131003
 PacCor http://www.openstreetmap.org/?lat=42.351765&lon=-71.125295
-BabSt http://www.openstreetmap.org/?lat=42.351833&lon=-71.121840
-PleSt http://www.openstreetmap.org/?lat=42.351507&lon=-71.119072
-StPaulSt http://www.openstreetmap.org/?lat=42.351174&lon=-71.116326
-BosUniW http://www.openstreetmap.org/?lat=42.350818&lon=-71.113354
+*OldBabSt http://www.openstreetmap.org/?lat=42.351833&lon=-71.121840
+BabSt http://www.openstreetmap.org/?lat=42.351611&lon=-71.119928
+*PleSt http://www.openstreetmap.org/?lat=42.351507&lon=-71.119072
+*StPaulSt http://www.openstreetmap.org/?lat=42.351174&lon=-71.116326
+AmoSt http://www.openstreetmap.org/?lat=42.350988&lon=-71.114743
+*BosUniW http://www.openstreetmap.org/?lat=42.350818&lon=-71.113354
 BosUniCen http://www.openstreetmap.org/?lat=42.350064&lon=-71.107174
 BosUniE http://www.openstreetmap.org/?lat=42.349731&lon=-71.104310
 BlaSt http://www.openstreetmap.org/?lat=42.349216&lon=-71.100115

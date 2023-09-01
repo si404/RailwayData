@@ -359,7 +359,7 @@ usavrex;USA;Virginia Railway Express;TMgreen;2;preview
 usabhcr;USA;Black Hills Central Railroad;TMgreen;2;preview
 usapvhmr;USA;Prairie Village, Herman, & Milwaukee Railroad;TMgreen;2;preview
 usavale;USA;Essex Steam Train;TMgreen;2;preview
-usasrc;USA;Strasburg Rail Roard;TMgreen;2;preview
+usasrc;USA;Strasburg Rail Road;TMgreen;2;preview
 usabmsl;USA;Baltimore Metro SubwayLink;TMblue;3;preview
 usambta;USA;MBTA Subway;TMblue;3;preview
 usapatco;USA;PATCO Speedline;TMblue;3;preview
@@ -388,10 +388,13 @@ usatide;USA;The Tide;TMred;4;preview
 usartalr;USA;Cleveland RTA Light Rail;TMred;4;preview
 usadart;USA;DART Light Rail;TMred;4;preview
 usamtahc;USA;Houston METRORail;TMred;4;preview
+usavmr;USA;Valley Metro Rail;TMred;4;preview
 usaairtrn;USA;AirTrain;TMYellow;5;preview
 usaatl;USA;ATL Sky Train;TMyellow;5;preview
+usamiam;USA;MIA Mover;TMYellow;5;preview
+usaphx;USA;PHX Sky Train;TMyellow;5;preview
 usahunhts;USA;Huntsville Hospital Tram System;TMYellow;5;preview
 usarooist;USA;Roosevelt Island Tramway;TMYellow;5;preview
 usawvuprt;USA;Morgantown Personal Rapid Transit;TMYellow;5;preview
-usamiam;USA;MIA Mover;TMYellow;5;preview
 usammm;USA;Miami Metromover;TMYellow;5;preview
+usatsc;USA;Tempe Streetcar;TMYellow;5;preview
