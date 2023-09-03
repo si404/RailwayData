@@ -1,4 +1,4 @@
 systemName;route;banner;groupName;roots
-usautat;RedLine;;UTA TRAX Red Line;ut.redline
-usautat;BlueLine;;UTA TRAX Blue Line;ut.blueline
-usautat;GreLine;;UTA TRAX Green Line;ut.greline
+usautat;RedLin;;UTA TRAX Red Line;ut.redlin
+usautat;BlueLin;;UTA TRAX Blue Line;ut.bluelin
+usautat;GreLin;;UTA TRAX Green Line;ut.grelin
