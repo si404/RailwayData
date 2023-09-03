@@ -1,3 +1,3 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-usalams;CA;B;;;B Line;ca.b;
-usalams;CA;D;;;D Line;ca.d;
+usalams;CA;B;;;B (Red) Line;ca.b;
+usalams;CA;D;;;D (Purple) Line;ca.d;
