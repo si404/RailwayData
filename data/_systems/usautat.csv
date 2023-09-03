@@ -1,4 +1,4 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-usautat;UT;RedLin;;;UTA TRAX Red Line;ut.redlin;
-usautat;UT;BlueLin;;;UTA TRAX Blue Line;ut.bluelin;
-usautat;UT;GreLin;;;UTA TRAX Green Line;ut.grelin;
+usautat;UT;RedLn;;;UTA TRAX Red Line;ut.redln;
+usautat;UT;BlueLn;;;UTA TRAX Blue Line;ut.blueln;
+usautat;UT;GreLn;;;UTA TRAX Green Line;ut.greln;
