@@ -1,5 +1,5 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-usalams;CA;A;;;A (Blue) Line;ca.a;
-usalams;CA;C;;;C (Green) Line;ca.c;
-usalams;CA;E;;;E (Expo) Line;ca.e;
-usalams;CA;K;;;K (Crenshaw/LAX) Line;ca.k;
+usalamlr;CA;A;;;A (Blue) Line;ca.a;
+usalamlr;CA;C;;;C (Green) Line;ca.c;
+usalamlr;CA;E;;;E (Expo) Line;ca.e;
+usalamlr;CA;K;;;K (Crenshaw/LAX) Line;ca.k;
