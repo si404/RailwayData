@@ -1,0 +1,9 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+usascax;CA;Arr;;;Arrow;ca.arr;
+usascax;CA;AntVlyLn;;;Antelope Valley Line;ca.antvlyln;
+usascax;CA;InlEmpLn;;;Inland Empire-Orange County Line;ca.inlempln;
+usascax;CA;OraCouLn;;;Orange County Line;ca.oracouln;
+usascax;CA;PerVlyLn;;;91/Perris Valley Line;ca.pervlyln;
+usascax;CA;RivLn;;;Riverside Line;ca.rivln;
+usascax;CA;SanBerLn;;;San Bernardino Line;ca.sanberln;
+usascax;CA;VenCouLn;;;Ventura County Line;ca.vencouln;
