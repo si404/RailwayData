@@ -9,14 +9,14 @@ irlie;WexInt;;Dublin - Wexford InterCity;irl.wexint
 irlie;LimGalLn;;Limerick - Galway InterCity;irl.limgalln
 irlie;TraInt;;Mallow - Tralee InterCity;irl.traint
 irlie;ManBalLn;;Manulla Junction - Ballina InterCity;irl.manballn
-irlie;LimWatLn;;Limerick - Ballybrophy InterCity;irl.limballn
+irlie;LimBalLn;;Limerick - Ballybrophy InterCity;irl.limballn
 irlie;LimWatLn;;Limerick Junction - Waterford InterCity;irl.limwatln
 irlie;CorkCom;;Cork Commuter (Cobh);irl.corkcom
 irlie;CorkCom;;Cork Commuter (Midleton);irl.corkcommid
 irlie;N;;Dublin Northern Commuter;irl.n
 irlie;SW;;Dublin Southwestern Commuter (Grand Canal Dock);irl.swgcd
 irlie;SW;;Dublin Southwestern Commuter (Heuston);irl.sw
-irlie;W;;Dublin Western Commuter (Maynooth);irl.wexint
+irlie;W;;Dublin Western Commuter (Maynooth);irl.w
 irlie;W;;Dublin Western Commuter (M3 Parkway);irl.wm3p
 irlie;DART;;Dublin Area Rapid Transit (Malahide);irl.dart
 irlie;DART;;Dublin Area Rapid Transit (Howth);irl.darthow
