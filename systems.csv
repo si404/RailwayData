@@ -353,7 +353,9 @@ usalirr;USA;Long Island Rail Road;TMgreen;2;preview
 usamarc;USA;MARC Train;TMgreen;2;preview
 usambtx;USA;MBTA Commuter Rail;TMgreen;2;preview
 usamncw;USA;Metro-North;TMgreen;2;preview
+usanctc;USA;San Diego NCTD Commuter Rail;TMgreen;2;preview
 usanjtr;USA;NJ Transit Rail;TMgreen;2;preview
+usascax;USA;L.A. Metrolink;TMgreen;2;preview
 usasepa;USA;SEPTA Regional Rail;TMgreen;2;preview
 usautax;USA;UTA FrontRunner;TMgreen;2;preview
 usavrex;USA;Virginia Railway Express;TMgreen;2;preview
@@ -375,6 +377,7 @@ usamdt;USA;Miami-Dade Metrorail;TMblue;3;preview
 usarta;USA;Cleveland RTA Heavy Rail;TMblue;3;preview
 usacta;USA;Chicago L;TMblue;3;preview
 usalvm;USA;Las Vegas Monorail;TMblue;3;preview
+usalams;USA;L.A. Metro Subway;TMblue;3;preview
 usablrl;USA;Baltimore Light RailLink;TMred;4;preview
 usanfta;USA;Buffalo Metro Rail;TMred;4;preview
 usadcsc;USA;DC Streetcar;TMred;4;preview
@@ -392,6 +395,8 @@ usadart;USA;DART Light Rail;TMred;4;preview
 usamtahc;USA;Houston METRORail;TMred;4;preview
 usavmr;USA;Valley Metro Rail;TMred;4;preview
 usautat;USA;UTA TRAX;TMred;4;preview
+usalamlr;USA;L.A. Metro Light Rail;TMred;4;preview
+usamts;USA;San Diego Trolley;TMred;4;preview
 usaairtrn;USA;AirTrain;TMYellow;5;preview
 usaatl;USA;ATL Sky Train;TMyellow;5;preview
 usamiam;USA;MIA Mover;TMYellow;5;preview
@@ -402,3 +407,4 @@ usawvuprt;USA;Morgantown Personal Rapid Transit;TMYellow;5;preview
 usammm;USA;Miami Metromover;TMYellow;5;preview
 usatsc;USA;Tempe Streetcar;TMYellow;5;preview
 usautas;USA;UTA S-Line;TMYellow;5;preview
+usarkcs;USA;RideKC Streetcar;TMYellow;5;preview
