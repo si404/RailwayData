@@ -1,0 +1,7 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+usanjlr;NJ;HBLR;;HTT;Hoboken - Tonnelle Avenue;nj.hblrhtt;
+usanjlr;NJ;HBLR;;WST;West Side Avenue - Tonnelle Avenue;nj.hblrwst;
+usanjlr;NJ;HBLR;;8HT;8th Street - Hoboken;nj.hblr8ht;
+usanjlr;NJ;NLR;;CS;Newark City Subway;nj.newcitysub;
+usanjlr;NJ;NLR;;BSE;Broad Street Extension;nj.brostext;
+usanjlr;NJ;RivLn;;;River LINE;nj.rivln;
