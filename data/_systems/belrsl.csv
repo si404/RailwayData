@@ -1,6 +1,6 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-belrsl;BEL;S41;;;;bel.s41;
-belrsl;BEL;S42;;;;bel.s42;
-belrsl;BEL;S43;;;;bel.s43;
-belrsl;NLD;S43;;;;nld.s43;
-belrsl;BEL;S44;;;;bel.s44;
+belrsl;BEL;S41;;;Liége;bel.s41;
+belrsl;BEL;S42;;;Liége;bel.s42;
+belrsl;BEL;S43;;;Liége;bel.s43;
+belrsl;NLD;S43;;;Liége;nld.s43;
+belrsl;BEL;S44;;;Liége;bel.s44;

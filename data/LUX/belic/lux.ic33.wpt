@@ -2,35 +2,35 @@ BEL/LUX http://www.openstreetmap.org/?lat=50.173047&lon=5.965362
 +X394482 http://www.openstreetmap.org/?lat=50.158137&lon=5.984287
 +X136868 http://www.openstreetmap.org/?lat=50.136494&lon=5.972099
 +X582499 http://www.openstreetmap.org/?lat=50.131136&lon=5.988472
-Troisvierges http://www.openstreetmap.org/?lat=50.119250&lon=5.990896
+Tro +Troisvierges http://www.openstreetmap.org/?lat=50.119250&lon=5.990896
 +X449814 http://www.openstreetmap.org/?lat=50.116299&lon=6.001668
 +X268265 http://www.openstreetmap.org/?lat=50.098822&lon=6.007934
 +X698112 http://www.openstreetmap.org/?lat=50.092847&lon=6.027975
-Clervaux http://www.openstreetmap.org/?lat=50.061599&lon=6.024778
+Cle +Clervaux http://www.openstreetmap.org/?lat=50.061599&lon=6.024778
 +X889057 http://www.openstreetmap.org/?lat=50.042327&lon=6.019392
 +X618776 http://www.openstreetmap.org/?lat=50.027366&lon=5.999351
-Drauffelt http://www.openstreetmap.org/?lat=50.016873&lon=6.007279
+Dra +Drauffelt http://www.openstreetmap.org/?lat=50.016873&lon=6.007279
 +X834892 http://www.openstreetmap.org/?lat=49.999523&lon=5.990617
-Wilwerwiltz http://www.openstreetmap.org/?lat=49.988254&lon=6.000681
+Wil +Wilwerwiltz http://www.openstreetmap.org/?lat=49.988254&lon=6.000681
 +X725491 http://www.openstreetmap.org/?lat=49.962174&lon=6.025507
-Kautenbach http://www.openstreetmap.org/?lat=49.948427&lon=6.022342
-Goebelsmuhle http://www.openstreetmap.org/?lat=49.921005&lon=6.053478
+Kau +Kautenbach http://www.openstreetmap.org/?lat=49.948427&lon=6.022342
+Goe +Goebelsmuhle http://www.openstreetmap.org/?lat=49.921005&lon=6.053478
 +X860679 http://www.openstreetmap.org/?lat=49.916235&lon=6.076984
-Michelau http://www.openstreetmap.org/?lat=49.896694&lon=6.092176
+Mic +Michelau http://www.openstreetmap.org/?lat=49.896694&lon=6.092176
 +X678292 http://www.openstreetmap.org/?lat=49.872361&lon=6.109257
-+X541626 http://www.openstreetmap.org/?lat=49.849672&lon=6.109922
-Ettlebruck http://www.openstreetmap.org/?lat=49.848433&lon=6.108452
-+Schieren http://www.openstreetmap.org/?lat=49.829741&lon=6.095223
++DIV_10 http://www.openstreetmap.org/?lat=49.849672&lon=6.109922
+Ett +Ettlebruck http://www.openstreetmap.org/?lat=49.848433&lon=6.108452
++SKIP_Sch http://www.openstreetmap.org/?lat=49.829741&lon=6.095223
 +X424226 http://www.openstreetmap.org/?lat=49.818292&lon=6.096876
-+ColmarBerg http://www.openstreetmap.org/?lat=49.815039&lon=6.100953
-+Cruchten http://www.openstreetmap.org/?lat=49.796149&lon=6.119878
++SKIP_ColBerg http://www.openstreetmap.org/?lat=49.815039&lon=6.100953
++SKIP_Cru http://www.openstreetmap.org/?lat=49.796149&lon=6.119878
 +X955821 http://www.openstreetmap.org/?lat=49.775237&lon=6.107755
-Mersch http://www.openstreetmap.org/?lat=49.751757&lon=6.110587
-+Lintgen http://www.openstreetmap.org/?lat=49.721524&lon=6.122775
-+Lorentzweiler http://www.openstreetmap.org/?lat=49.698324&lon=6.140242
-+Heisdorf http://www.openstreetmap.org/?lat=49.675057&lon=6.139383
-+Walferdange http://www.openstreetmap.org/?lat=49.661975&lon=6.136379
-+Dommeldange http://www.openstreetmap.org/?lat=49.633778&lon=6.136787
-PfaffenthalKirchberg http://www.openstreetmap.org/?lat=49.618947&lon=6.132925
-+X860220 http://www.openstreetmap.org/?lat=49.608795&lon=6.140167
-LuxembourgGareCentrale http://www.openstreetmap.org/?lat=49.599634&lon=6.134598
+Mer +Mersch http://www.openstreetmap.org/?lat=49.751757&lon=6.110587
++SKIP_Lin http://www.openstreetmap.org/?lat=49.721524&lon=6.122775
++SKIP_Lor http://www.openstreetmap.org/?lat=49.698324&lon=6.140242
++SKIP_Hei http://www.openstreetmap.org/?lat=49.675057&lon=6.139383
++SKIP_Wal http://www.openstreetmap.org/?lat=49.661975&lon=6.136379
++SKIP_Dom http://www.openstreetmap.org/?lat=49.633778&lon=6.136787
+PfaKir +PfaffenthalKirchberg http://www.openstreetmap.org/?lat=49.618947&lon=6.132925
++DIV_30 http://www.openstreetmap.org/?lat=49.608795&lon=6.140167
+LuxGareCen +LuxembourgGareCentrale http://www.openstreetmap.org/?lat=49.599634&lon=6.134598

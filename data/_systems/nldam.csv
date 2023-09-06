@@ -1,6 +1,6 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-nldam;NLD;AM50;;;;nld.am50;
-nldam;NLD;AM51;;;;nld.am51;
-nldam;NLD;AM52;;;;nld.am52;
-nldam;NLD;AM53;;;;nld.am53;
-nldam;NLD;AM54;;;;nld.am54;
+nldam;NLD;50;;Ams;Amsterdam;nld.50ams;AM50
+nldam;NLD;51;;Ams;Amsterdam;nld.51ams;AM51
+nldam;NLD;52;;Ams;Amsterdam;nld.52ams;AM52
+nldam;NLD;53;;Ams;Amsterdam;nld.53ams;AM53
+nldam;NLD;54;;Ams;Amsterdam;nld.54ams;AM54

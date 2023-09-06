@@ -1,6 +1,6 @@
 systemName;route;banner;groupName;roots
-nldrm;RMA;;;nld.rma
-nldrm;RMB;;;nld.rmb
-nldrm;RMC;;;nld.rmc
-nldrm;RMD;;;nld.rmd
-nldrm;RME;;;nld.rme
+nldrm;A;;Rotterdam;nld.a
+nldrm;B;;Rotterdam;nld.b
+nldrm;C;;Rotterdam;nld.c
+nldrm;D;;Rotterdam;nld.d
+nldrm;E;;Rotterdam;nld.e

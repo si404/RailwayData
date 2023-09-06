@@ -1,18 +1,18 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-belbt;BEL;BT3;;;;bel.bt03;
-belbt;BEL;BT4;;;;bel.bt04;
-belbt;BEL;BT7;;;;bel.bt07;
-belbt;BEL;BT8;;;;bel.bt08;
-belbt;BEL;BT9;;;;bel.bt09;
-belbt;BEL;BT19;;;;bel.bt19;
-belbt;BEL;BT25;;;;bel.bt25;
-belbt;BEL;BT39;;;;bel.bt39;
-belbt;BEL;BT44;;;;bel.bt44;
-belbt;BEL;BT51;;;;bel.bt51;
-belbt;BEL;BT55;;;;bel.bt55;
-belbt;BEL;BT62;;;;bel.bt62;
-belbt;BEL;BT81;;;;bel.bt81;
-belbt;BEL;BT82;;;;bel.bt82;
-belbt;BEL;BT92;;;;bel.bt92;
-belbt;BEL;BT93;;;;bel.bt93;
-belbt;BEL;BT97;;;;bel.bt97;
+belbt;BEL;3;;Bru;Bruxelles / Brussels;bel.03bru;BT3
+belbt;BEL;4;;Bru;Bruxelles / Brussels;bel.04bru;BT4
+belbt;BEL;7;;Bru;Bruxelles / Brussels;bel.07bru;BT7
+belbt;BEL;8;;Bru;Bruxelles / Brussels;bel.08bru;BT8
+belbt;BEL;9;;Bru;Bruxelles / Brussels;bel.09bru;BT9
+belbt;BEL;19;;Bru;Bruxelles / Brussels;bel.19bru;BT19
+belbt;BEL;25;;Bru;Bruxelles / Brussels;bel.25bru;BT25
+belbt;BEL;39;;Bru;Bruxelles / Brussels;bel.39bru;BT39
+belbt;BEL;44;;Bru;Bruxelles / Brussels;bel.44bru;BT44
+belbt;BEL;51;;Bru;Bruxelles / Brussels;bel.51bru;BT51
+belbt;BEL;55;;Bru;Bruxelles / Brussels;bel.55bru;BT55
+belbt;BEL;62;;Bru;Bruxelles / Brussels;bel.62bru;BT62
+belbt;BEL;81;;Bru;Bruxelles / Brussels;bel.81bru;BT81
+belbt;BEL;82;;Bru;Bruxelles / Brussels;bel.82bru;BT82
+belbt;BEL;92;;Bru;Bruxelles / Brussels;bel.92bru;BT92
+belbt;BEL;93;;Bru;Bruxelles / Brussels;bel.93bru;BT93
+belbt;BEL;97;;Bru;Bruxelles / Brussels;bel.97bru;BT97

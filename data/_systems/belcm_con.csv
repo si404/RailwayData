@@ -1,5 +1,5 @@
 systemName;route;banner;groupName;roots
-belcm;CM1;;;bel.cm01
-belcm;CM2;;;bel.cm02
-belcm;CM3;;;bel.cm03
-belcm;CM4;;;bel.cm04
+belcm;M1;;Charleroi;bel.m01
+belcm;M2;;Charleroi;bel.m02
+belcm;M3;;Charleroi;bel.m03
+belcm;M4;;Charleroi;bel.m04

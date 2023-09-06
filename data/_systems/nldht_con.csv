@@ -1,14 +1,14 @@
 systemName;route;banner;groupName;roots
-nldht;HT01;;;nld.ht01
-nldht;HT02;;;nld.ht02
-nldht;HT03;;;nld.ht03
-nldht;HT04;;;nld.ht04
-nldht;HT06;;;nld.ht06
-nldht;HT09;;;nld.ht09
-nldht;HT11;;;nld.ht11
-nldht;HT12;;;nld.ht12
-nldht;HT15;;;nld.ht15
-nldht;HT16;;;nld.ht16
-nldht;HT17;;;nld.ht17
-nldht;HT19;;;nld.ht19
-nldht;HT34;;;nld.ht34
+nldht;1;;Den Haag;nld.01haa
+nldht;2;;Den Haag;nld.02haa
+nldht;3;;Den Haag;nld.03haa
+nldht;4;;Den Haag;nld.04haa
+nldht;6;;Den Haag;nld.06haa
+nldht;9;;Den Haag;nld.09haa
+nldht;11;;Den Haag;nld.11haa
+nldht;12;;Den Haag;nld.12haa
+nldht;15;;Den Haag;nld.15haa
+nldht;16;;Den Haag;nld.16haa
+nldht;17;;Den Haag;nld.17haa
+nldht;19;;Den Haag;nld.19haa
+nldht;34;;Den Haag;nld.34haa
