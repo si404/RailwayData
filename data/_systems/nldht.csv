@@ -1,14 +1,14 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-nldht;NLD;HT01;;;;nld.ht01;
-nldht;NLD;HT02;;;;nld.ht02;
-nldht;NLD;HT03;;;;nld.ht03;
-nldht;NLD;HT04;;;;nld.ht04;
-nldht;NLD;HT06;;;;nld.ht06;
-nldht;NLD;HT09;;;;nld.ht09;
-nldht;NLD;HT11;;;;nld.ht11;
-nldht;NLD;HT12;;;;nld.ht12;
-nldht;NLD;HT15;;;;nld.ht15;
-nldht;NLD;HT16;;;;nld.ht16;
-nldht;NLD;HT17;;;;nld.ht17;
-nldht;NLD;HT19;;;;nld.ht19;
-nldht;NLD;HT34;;;;nld.ht34;
+nldht;NLD;1;;Haa;Den Haag;nld.01haa;HT01
+nldht;NLD;2;;Haa;Den Haag;nld.02haa;HT02
+nldht;NLD;3;;Haa;Den Haag;nld.03haa;HT03
+nldht;NLD;4;;Haa;Den Haag;nld.04haa;HT04
+nldht;NLD;6;;Haa;Den Haag;nld.06haa;HT06
+nldht;NLD;9;;Haa;Den Haag;nld.09haa;HT09
+nldht;NLD;11;;Haa;Den Haag;nld.11haa;HT11
+nldht;NLD;12;;Haa;Den Haag;nld.12haa;HT12
+nldht;NLD;15;;Haa;Den Haag;nld.15haa;HT15
+nldht;NLD;16;;Haa;Den Haag;nld.16haa;HT16
+nldht;NLD;17;;Haa;Den Haag;nld.17haa;HT17
+nldht;NLD;19;;Haa;Den Haag;nld.19haa;HT19
+nldht;NLD;34;;Haa;Den Haag;nld.34haa;HT34
