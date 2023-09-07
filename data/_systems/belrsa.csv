@@ -1,5 +1,5 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-belrsa;NLD;S32;;;;nld.s32;
-belrsa;BEL;S32;;;;bel.s32;
-belrsa;BEL;S33;;;;bel.s33;
-belrsa;BEL;S34;;;;bel.s34;
+belrsa;NLD;S32;;;Antwerp;nld.s32;
+belrsa;BEL;S32;;;Antwerp;bel.s32;
+belrsa;BEL;S33;;;Antwerp;bel.s33;
+belrsa;BEL;S34;;;Antwerp;bel.s34;

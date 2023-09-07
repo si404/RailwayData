@@ -1,11 +1,11 @@
 BEL/LUX http://www.openstreetmap.org/?lat=49.643929&lon=5.904207
-+Kleinbettingen http://www.openstreetmap.org/?lat=49.643839&lon=5.917103
-+Capellen http://www.openstreetmap.org/?lat=49.638350&lon=5.982249
-+Mamer http://www.openstreetmap.org/?lat=49.625717&lon=6.020143
-+MamerLycee http://www.openstreetmap.org/?lat=49.618405&lon=6.029799
-+BertrangeStrassen http://www.openstreetmap.org/?lat=49.612844&lon=6.060398
-+X930510 http://www.openstreetmap.org/?lat=49.596394&lon=6.114514
-+Hollerich http://www.openstreetmap.org/?lat=49.595865&lon=6.119127
++SKIP_Kle http://www.openstreetmap.org/?lat=49.643839&lon=5.917103
++SKIP_Cap http://www.openstreetmap.org/?lat=49.638350&lon=5.982249
++SKIP_Mam http://www.openstreetmap.org/?lat=49.625717&lon=6.020143
++SKIP_MamLyc http://www.openstreetmap.org/?lat=49.618405&lon=6.029799
++SKIP_BerStr http://www.openstreetmap.org/?lat=49.612844&lon=6.060398
++DIV_70 http://www.openstreetmap.org/?lat=49.596394&lon=6.114514
++SKIP_Hol http://www.openstreetmap.org/?lat=49.595865&lon=6.119127
 +X331496 http://www.openstreetmap.org/?lat=49.594864&lon=6.127603
-+X349756 http://www.openstreetmap.org/?lat=49.596505&lon=6.132581
-LuxembourgGareCentrale http://www.openstreetmap.org/?lat=49.599634&lon=6.134598
++DIV_60 http://www.openstreetmap.org/?lat=49.596505&lon=6.132581
+LuxGareCen +LuxembourgGareCentrale http://www.openstreetmap.org/?lat=49.599634&lon=6.134598

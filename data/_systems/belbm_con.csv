@@ -1,5 +1,5 @@
 systemName;route;banner;groupName;roots
-belbm;BM1;;;bel.bm01
-belbm;BM2;;;bel.bm02
-belbm;BM5;;;bel.bm05
-belbm;BM6;;;bel.bm06
+belbm;1;;Bruxelles / Brussels;bel.01bru
+belbm;2;;Bruxelles / Brussels;bel.02bru
+belbm;5;;Bruxelles / Brussels;bel.05bru
+belbm;6;;Bruxelles / Brussels;bel.06bru

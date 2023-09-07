@@ -1,41 +1,41 @@
-PiaCas +PiazzaCastelli http://www.openstreetmap.org/?lat=45.499042&lon=9.150882
-ViaBra +ViaBramantino http://www.openstreetmap.org/?lat=45.497665&lon=9.152974
-ViaMacViaArt +ViaMacMahonViaArtieri http://www.openstreetmap.org/?lat=45.495996&lon=9.155184
-PiaPre +PiazzaPrealpi http://www.openstreetmap.org/?lat=45.494622&lon=9.153457
-ViaPan +ViaPanicale http://www.openstreetmap.org/?lat=45.493257&lon=9.151354
-ViaMonCen +VialeMonteCeneri http://www.openstreetmap.org/?lat=45.491241&lon=9.153333
-PiaFir +PiazzaFirenze http://www.openstreetmap.org/?lat=45.487873&lon=9.156407
-CorSemViaFil +CorsoSempioneViaEFiliberto http://www.openstreetmap.org/?lat=45.485632&lon=9.158821
-CorSemViaAro +CorsoSempioneViaArone http://www.openstreetmap.org/?lat=45.483917&lon=9.161106
-DomM5 +DomodossolaM5 http://www.openstreetmap.org/?lat=45.481231&lon=9.161932
-LarQuiAlp +LargoQuintoAlpini http://www.openstreetmap.org/?lat=45.472354&lon=9.167297
-ViaVenSet +ViaVentiSettembre http://www.openstreetmap.org/?lat=45.469871&lon=9.170548
-PiaVir +PiazzaVirgilio http://www.openstreetmap.org/?lat=45.467802&lon=9.173316
+PiaCas http://www.openstreetmap.org/?lat=45.499042&lon=9.150882
+ViaBra http://www.openstreetmap.org/?lat=45.497665&lon=9.152974
+ViaMacViaArt http://www.openstreetmap.org/?lat=45.495996&lon=9.155184
+PiaPre http://www.openstreetmap.org/?lat=45.494622&lon=9.153457
+ViaPan http://www.openstreetmap.org/?lat=45.493257&lon=9.151354
+ViaMonCen http://www.openstreetmap.org/?lat=45.491241&lon=9.153333
+PiaFir http://www.openstreetmap.org/?lat=45.487873&lon=9.156407
+CorSemViaFil http://www.openstreetmap.org/?lat=45.485632&lon=9.158821
+CorSemViaAro http://www.openstreetmap.org/?lat=45.483917&lon=9.161106
+DomM5 http://www.openstreetmap.org/?lat=45.481231&lon=9.161932
+LarQuiAlp http://www.openstreetmap.org/?lat=45.472354&lon=9.167297
+ViaVenSet http://www.openstreetmap.org/?lat=45.469871&lon=9.170548
+PiaVir http://www.openstreetmap.org/?lat=45.467802&lon=9.173316
 +DIV_16 http://www.openstreetmap.org/?lat=45.465951&lon=9.175977
-ViaNir +ViaNirone http://www.openstreetmap.org/?lat=45.465808&lon=9.178015
-ViaMer +ViaMeravigli http://www.openstreetmap.org/?lat=45.465680&lon=9.181513
-CorM1 +CordusioM1 http://www.openstreetmap.org/?lat=45.465522&lon=9.186244
-ViaOre +ViaOrefici http://www.openstreetmap.org/?lat=45.464504&lon=9.187210
-DuoM1M3 +DuomoM1M3 http://www.openstreetmap.org/?lat=45.464138&lon=9.188551
+ViaNir http://www.openstreetmap.org/?lat=45.465808&lon=9.178015
+ViaMer http://www.openstreetmap.org/?lat=45.465680&lon=9.181513
+CorM1 http://www.openstreetmap.org/?lat=45.465522&lon=9.186244
+ViaOre http://www.openstreetmap.org/?lat=45.464504&lon=9.187210
+DuoM1M3 http://www.openstreetmap.org/?lat=45.464138&lon=9.188551
 +DIV_151624 http://www.openstreetmap.org/?lat=45.461305&lon=9.188567
-MisM3 +MissoriM3 http://www.openstreetmap.org/?lat=45.460827&lon=9.190267
-ViaLar +ViaLarga http://www.openstreetmap.org/?lat=45.462680&lon=9.194323
-LarAug +LargoAugusto http://www.openstreetmap.org/?lat=45.462638&lon=9.197799
-PalGiu +PalazzoGiustizia http://www.openstreetmap.org/?lat=45.462345&lon=9.200369
-CamLav +CameraLavoro http://www.openstreetmap.org/?lat=45.462311&lon=9.203571
-PiaCinGio +PiazzaCinqueGiornate http://www.openstreetmap.org/?lat=45.462230&lon=9.207616
-ViaPre +VialePremuda http://www.openstreetmap.org/?lat=45.465304&lon=9.207273
-PiaTri +PiazzaTricolore http://www.openstreetmap.org/?lat=45.467885&lon=9.207047
-ViaPia +VialePiave http://www.openstreetmap.org/?lat=45.471970&lon=9.206629
-ViaBix +ViaBixio http://www.openstreetmap.org/?lat=45.472422&lon=9.211135
-PiaAdeSav +PiazzaAdelaideSavoia http://www.openstreetmap.org/?lat=45.472948&lon=9.214911
-PiaAsc +PiazzaAscoli http://www.openstreetmap.org/?lat=45.473400&lon=9.217272
-PiaCarErba +PiazzaCarloErba http://www.openstreetmap.org/?lat=45.475115&lon=9.221252
-ViaRom +VialeRomagna http://www.openstreetmap.org/?lat=45.476101&lon=9.223688
-PiaLeoVin +PiazzaLeonardoVinci http://www.openstreetmap.org/?lat=45.476891&lon=9.225630
-PiaLeoVinPol +PiazzaLeonardoVinciPolitecnico http://www.openstreetmap.org/?lat=45.479298&lon=9.226155
-ViaPon +ViaPonzio http://www.openstreetmap.org/?lat=45.479313&lon=9.230018
-ViaGol +ViaGolgi http://www.openstreetmap.org/?lat=45.480404&lon=9.234288
-ViaValPer +ViaValvassoriPeroni http://www.openstreetmap.org/?lat=45.481322&lon=9.236584
+MisM3 http://www.openstreetmap.org/?lat=45.460827&lon=9.190267
+ViaLar http://www.openstreetmap.org/?lat=45.462680&lon=9.194323
+LarAug http://www.openstreetmap.org/?lat=45.462638&lon=9.197799
+PalGiu http://www.openstreetmap.org/?lat=45.462345&lon=9.200369
+CamLav http://www.openstreetmap.org/?lat=45.462311&lon=9.203571
+PiaCinGio http://www.openstreetmap.org/?lat=45.462230&lon=9.207616
+ViaPre http://www.openstreetmap.org/?lat=45.465304&lon=9.207273
+PiaTri http://www.openstreetmap.org/?lat=45.467885&lon=9.207047
+ViaPia http://www.openstreetmap.org/?lat=45.471970&lon=9.206629
+ViaBix http://www.openstreetmap.org/?lat=45.472422&lon=9.211135
+PiaAdeSav http://www.openstreetmap.org/?lat=45.472948&lon=9.214911
+PiaAsc http://www.openstreetmap.org/?lat=45.473400&lon=9.217272
+PiaCarErba http://www.openstreetmap.org/?lat=45.475115&lon=9.221252
+ViaRom http://www.openstreetmap.org/?lat=45.476101&lon=9.223688
+PiaLeoVin http://www.openstreetmap.org/?lat=45.476891&lon=9.225630
+PiaLeoVinPol http://www.openstreetmap.org/?lat=45.479298&lon=9.226155
+ViaPon http://www.openstreetmap.org/?lat=45.479313&lon=9.230018
+ViaGol http://www.openstreetmap.org/?lat=45.480404&lon=9.234288
+ViaValPer http://www.openstreetmap.org/?lat=45.481322&lon=9.236584
 +DIV_33 http://www.openstreetmap.org/?lat=45.481660&lon=9.237474
-Lam +Lambrate http://www.openstreetmap.org/?lat=45.485297&lon=9.237249
+Lam http://www.openstreetmap.org/?lat=45.485297&lon=9.237249
