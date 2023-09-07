@@ -356,6 +356,7 @@ usambtx;USA;MBTA Commuter Rail;TMgreen;2;preview
 usamncw;USA;Metro-North;TMgreen;2;preview
 usanctc;USA;San Diego NCTD Commuter Rail;TMgreen;2;preview
 usanjtr;USA;NJ Transit Rail;TMgreen;2;preview
+usartdx;USA;RTD Commuter Rail;TMgreen;2;preview
 usascax;USA;L.A. Metrolink;TMgreen;2;preview
 usasepa;USA;SEPTA Regional Rail;TMgreen;2;preview
 usautax;USA;UTA FrontRunner;TMgreen;2;preview
@@ -396,6 +397,7 @@ usavmr;USA;Valley Metro Rail;TMred;4;preview
 usautat;USA;UTA TRAX;TMred;4;preview
 usalamlr;USA;L.A. Metro Light Rail;TMred;4;preview
 usamts;USA;San Diego Trolley;TMred;4;preview
+usartdz;USA;RTD Light Rail;TMred;4;preview
 usaairtrn;USA;AirTrain;TMYellow;5;preview
 usaatl;USA;ATL Sky Train;TMyellow;5;preview
 usamiam;USA;MIA Mover;TMYellow;5;preview
