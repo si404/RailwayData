@@ -1,5 +1,5 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-belcm;BEL;M1;;;Charleroi;bel.m01;CM1
-belcm;BEL;M2;;;Charleroi;bel.m02;CM2
-belcm;BEL;M3;;;Charleroi;bel.m03;CM3
-belcm;BEL;M4;;;Charleroi;bel.m04;CM4
+belcm;BEL;M1;;;Charleroi;bel.m01;
+belcm;BEL;M2;;;Charleroi;bel.m02;
+belcm;BEL;M3;;;Charleroi;bel.m03;
+belcm;BEL;M4;;;Charleroi;bel.m04;

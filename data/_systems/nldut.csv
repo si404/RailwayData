@@ -1,4 +1,4 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-nldut;NLD;20;;Utr;Nieuwegeinlijn, Utrecht;nld.20utr;UT60
-nldut;NLD;21;;Utr;IJsselsteinlijn, Utrecht;nld.21utr;UT61
-nldut;NLD;22;;Utr;Uithoflijn, Utrecht;nld.22utr;UT22
+nldut;NLD;20;;Utr;Nieuwegeinlijn, Utrecht;nld.20utr;
+nldut;NLD;21;;Utr;IJsselsteinlijn, Utrecht;nld.21utr;
+nldut;NLD;22;;Utr;Uithoflijn, Utrecht;nld.22utr;

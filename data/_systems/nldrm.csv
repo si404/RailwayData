@@ -1,6 +1,6 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-nldrm;NLD;A;;;Rotterdam;nld.a;
-nldrm;NLD;B;;;Rotterdam;nld.b;
-nldrm;NLD;C;;;Rotterdam;nld.c;
-nldrm;NLD;D;;;Rotterdam;nld.d;
-nldrm;NLD;E;;;Rotterdam;nld.e;
+nldrm;NLD;A;;;Rotterdam;nld.a;RMA
+nldrm;NLD;B;;;Rotterdam;nld.b;RMB
+nldrm;NLD;C;;;Rotterdam;nld.c;RMC
+nldrm;NLD;D;;;Rotterdam;nld.d;RMD
+nldrm;NLD;E;;;Rotterdam;nld.e;RME

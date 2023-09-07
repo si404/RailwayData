@@ -1,5 +1,5 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-belbm;BEL;1;;Bru;Bruxelles / Brussels;bel.01bru;BM1
-belbm;BEL;2;;Bru;Bruxelles / Brussels;bel.02bru;BM2
-belbm;BEL;5;;Bru;Bruxelles / Brussels;bel.05bru;BM5
-belbm;BEL;6;;Bru;Bruxelles / Brussels;bel.06bru;BM6
+belbm;BEL;1;;Bru;Bruxelles / Brussels;bel.01bru;
+belbm;BEL;2;;Bru;Bruxelles / Brussels;bel.02bru;
+belbm;BEL;5;;Bru;Bruxelles / Brussels;bel.05bru;
+belbm;BEL;6;;Bru;Bruxelles / Brussels;bel.06bru;
