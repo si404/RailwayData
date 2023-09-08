@@ -1,29 +1,29 @@
-LasGdanskiPR http://www.openstreetmap.org/?lat=53.149701&lon=18.025389
-StadionZawisza http://www.openstreetmap.org/?lat=53.145705&lon=18.023576
-PowstancowWarszawy http://www.openstreetmap.org/?lat=53.141966&lon=18.019788
-Artyleryjska http://www.openstreetmap.org/?lat=53.138073&lon=18.015765
-GdanskaChodkiewicza http://www.openstreetmap.org/?lat=53.134449&lon=18.012353
-Cieszkowskiego http://www.openstreetmap.org/?lat=53.130252&lon=18.008051
-PlacWolnosci http://www.openstreetmap.org/?lat=53.126531&lon=18.004189
-PlacPrawKobiet http://www.openstreetmap.org/?lat=53.125212&lon=18.003169
-+X362838 http://www.openstreetmap.org/?lat=53.124247&lon=18.002509
-RondoJagiellonow http://www.openstreetmap.org/?lat=53.123409&lon=18.007879
-DworzecAutobusowy http://www.openstreetmap.org/?lat=53.123167&lon=18.018136
-Luzycka http://www.openstreetmap.org/?lat=53.121918&lon=18.027706
-Fordonskie http://www.openstreetmap.org/?lat=53.120914&lon=18.034916
-Baltycka http://www.openstreetmap.org/?lat=53.120669&lon=18.047383
-MostKazimierzaWielkiego http://www.openstreetmap.org/?lat=53.120798&lon=18.056867
-Fabryczna http://www.openstreetmap.org/?lat=53.121841&lon=18.065300
-Wyscigowa http://www.openstreetmap.org/?lat=53.124803&lon=18.076651
-DworzecWschod http://www.openstreetmap.org/?lat=53.127919&lon=18.082724
-Rejewskiego http://www.openstreetmap.org/?lat=53.142272&lon=18.109460
-Romanowskiej http://www.openstreetmap.org/?lat=53.144280&lon=18.116755
-PrzylesiePR http://www.openstreetmap.org/?lat=53.146339&lon=18.124416
-Kaliskiego http://www.openstreetmap.org/?lat=53.147755&lon=18.129480
-Igrzyskowa http://www.openstreetmap.org/?lat=53.148643&lon=18.137934
-Kleeberga http://www.openstreetmap.org/?lat=53.150946&lon=18.145702
-Bajka http://www.openstreetmap.org/?lat=53.151821&lon=18.153534
-Wolna http://www.openstreetmap.org/?lat=53.157612&lon=18.163555
-Niepodleglosci http://www.openstreetmap.org/?lat=53.160095&lon=18.166430
-+X228495 http://www.openstreetmap.org/?lat=53.161330&lon=18.168533
-NiepodleglosciPetla http://www.openstreetmap.org/?lat=53.160854&lon=18.169885
+LasGdaPR +LasGdanskiPR http://www.openstreetmap.org/?lat=53.149701&lon=18.025389
+StaZaw +StadionZawisza http://www.openstreetmap.org/?lat=53.145705&lon=18.023576
+PowWar +PowstancowWarszawy http://www.openstreetmap.org/?lat=53.141966&lon=18.019788
+Art +Artyleryjska http://www.openstreetmap.org/?lat=53.138073&lon=18.015765
+GdaCho +GdanskaChodkiewicza http://www.openstreetmap.org/?lat=53.134449&lon=18.012353
+Cie +Cieszkowskiego http://www.openstreetmap.org/?lat=53.130252&lon=18.008051
+PlacWol +PlacWolnosci http://www.openstreetmap.org/?lat=53.126531&lon=18.004189
+PlacPrawKob +PlacPrawKobiet http://www.openstreetmap.org/?lat=53.125212&lon=18.003169
++DIV_1358 http://www.openstreetmap.org/?lat=53.124247&lon=18.002509
+RonJag +RondoJagiellonow http://www.openstreetmap.org/?lat=53.123409&lon=18.007879
+DwoAut +DworzecAutobusowy http://www.openstreetmap.org/?lat=53.123167&lon=18.018136
+Luz +Luzycka http://www.openstreetmap.org/?lat=53.121918&lon=18.027706
+For +Fordonskie http://www.openstreetmap.org/?lat=53.120914&lon=18.034916
+Bal +Baltycka http://www.openstreetmap.org/?lat=53.120669&lon=18.047383
+MostKazWie +MostKazimierzaWielkiego http://www.openstreetmap.org/?lat=53.120798&lon=18.056867
+Fab +Fabryczna http://www.openstreetmap.org/?lat=53.121841&lon=18.065300
+Wys +Wyscigowa http://www.openstreetmap.org/?lat=53.124803&lon=18.076651
+DwoWsc +DworzecWschod http://www.openstreetmap.org/?lat=53.127919&lon=18.082724
+Rej +Rejewskiego http://www.openstreetmap.org/?lat=53.142272&lon=18.109460
+Rom +Romanowskiej http://www.openstreetmap.org/?lat=53.144280&lon=18.116755
+PrzPR +PrzylesiePR http://www.openstreetmap.org/?lat=53.146339&lon=18.124416
+Kal +Kaliskiego http://www.openstreetmap.org/?lat=53.147755&lon=18.129480
+Igr +Igrzyskowa http://www.openstreetmap.org/?lat=53.148643&lon=18.137934
+Kle +Kleeberga http://www.openstreetmap.org/?lat=53.150946&lon=18.145702
+Baj +Bajka http://www.openstreetmap.org/?lat=53.151821&lon=18.153534
+Wol +Wolna http://www.openstreetmap.org/?lat=53.157612&lon=18.163555
+Nie +Niepodleglosci http://www.openstreetmap.org/?lat=53.160095&lon=18.166430
++DIV_35 http://www.openstreetmap.org/?lat=53.161330&lon=18.168533
+NiePet +NiepodleglosciPetla http://www.openstreetmap.org/?lat=53.160854&lon=18.169885

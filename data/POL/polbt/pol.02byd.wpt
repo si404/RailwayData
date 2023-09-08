@@ -1,20 +1,20 @@
-LasGdanskiPR http://www.openstreetmap.org/?lat=53.149701&lon=18.025389
-StadionZawisza http://www.openstreetmap.org/?lat=53.145705&lon=18.023576
-PowstancowWarszawy http://www.openstreetmap.org/?lat=53.141966&lon=18.019788
-Artyleryjska http://www.openstreetmap.org/?lat=53.138073&lon=18.015765
-GdanskaChodkiewicza http://www.openstreetmap.org/?lat=53.134449&lon=18.012353
-Cieszkowskiego http://www.openstreetmap.org/?lat=53.130252&lon=18.008051
-PlacWolnosci http://www.openstreetmap.org/?lat=53.126531&lon=18.004189
-PlacPrawKobiet http://www.openstreetmap.org/?lat=53.125212&lon=18.003169
-+X362838 http://www.openstreetmap.org/?lat=53.124247&lon=18.002509
-RondoJagiellonow http://www.openstreetmap.org/?lat=53.123409&lon=18.007879
-ZbozowyRynek http://www.openstreetmap.org/?lat=53.119293&lon=18.005932
-RondoKujawskiePR http://www.openstreetmap.org/?lat=53.114583&lon=18.007713
-WzgorzeWolnosci http://www.openstreetmap.org/?lat=53.114723&lon=18.016634
-Ujejskiego http://www.openstreetmap.org/?lat=53.113802&lon=18.023103
-Kladka http://www.openstreetmap.org/?lat=53.110047&lon=18.030217
-Wyzyny http://www.openstreetmap.org/?lat=53.108001&lon=18.036751
-SzarychSzeregow http://www.openstreetmap.org/?lat=53.107555&lon=18.045462
-PrezydentaLechaKaczynskiego http://www.openstreetmap.org/?lat=53.106453&lon=18.049464
-Baczynskiego http://www.openstreetmap.org/?lat=53.103729&lon=18.056095
-Kapusciska http://www.openstreetmap.org/?lat=53.102370&lon=18.060021
+LasGdaPR +LasGdanskiPR http://www.openstreetmap.org/?lat=53.149701&lon=18.025389
+StaZaw +StadionZawisza http://www.openstreetmap.org/?lat=53.145705&lon=18.023576
+PowWar +PowstancowWarszawy http://www.openstreetmap.org/?lat=53.141966&lon=18.019788
+Art +Artyleryjska http://www.openstreetmap.org/?lat=53.138073&lon=18.015765
+GdaCho +GdanskaChodkiewicza http://www.openstreetmap.org/?lat=53.134449&lon=18.012353
+Cie +Cieszkowskiego http://www.openstreetmap.org/?lat=53.130252&lon=18.008051
+PlacWol +PlacWolnosci http://www.openstreetmap.org/?lat=53.126531&lon=18.004189
+PlacPrawKob +PlacPrawKobiet http://www.openstreetmap.org/?lat=53.125212&lon=18.003169
++DIV_1358 http://www.openstreetmap.org/?lat=53.124247&lon=18.002509
+RonJag +RondoJagiellonow http://www.openstreetmap.org/?lat=53.123409&lon=18.007879
+ZboRyn +ZbozowyRynek http://www.openstreetmap.org/?lat=53.119293&lon=18.005932
+RonKujPR +RondoKujawskiePR http://www.openstreetmap.org/?lat=53.114583&lon=18.007713
+WzgWol +WzgorzeWolnosci http://www.openstreetmap.org/?lat=53.114723&lon=18.016634
+Uje +Ujejskiego http://www.openstreetmap.org/?lat=53.113802&lon=18.023103
+Kla +Kladka http://www.openstreetmap.org/?lat=53.110047&lon=18.030217
+Wyz +Wyzyny http://www.openstreetmap.org/?lat=53.108001&lon=18.036751
+SzaSze +SzarychSzeregow http://www.openstreetmap.org/?lat=53.107555&lon=18.045462
+PreLecKac +PrezydentaLechaKaczynskiego http://www.openstreetmap.org/?lat=53.106453&lon=18.049464
+Bac +Baczynskiego http://www.openstreetmap.org/?lat=53.103729&lon=18.056095
+Kap +Kapusciska http://www.openstreetmap.org/?lat=53.102370&lon=18.060021
