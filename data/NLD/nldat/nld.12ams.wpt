@@ -1,24 +1,24 @@
-CentraalStation http://www.openstreetmap.org/?lat=52.378959&lon=4.900761
-NieuwezijdsKolk http://www.openstreetmap.org/?lat=52.375982&lon=4.893229
+CenSta +CentraalStation http://www.openstreetmap.org/?lat=52.378959&lon=4.900761
+Nie +NieuwezijdsKolk http://www.openstreetmap.org/?lat=52.375982&lon=4.893229
 Dam http://www.openstreetmap.org/?lat=52.373205&lon=4.890600
-Koningsplein http://www.openstreetmap.org/?lat=52.367853&lon=4.889174
-Keizersgracht http://www.openstreetmap.org/?lat=52.365954&lon=4.886459
-Prinsengracht http://www.openstreetmap.org/?lat=52.365023&lon=4.884485
-Leidseplein http://www.openstreetmap.org/?lat=52.363741&lon=4.882253
-+X534104 http://www.openstreetmap.org/?lat=52.363043&lon=4.880767
+Kon +Koningsplein http://www.openstreetmap.org/?lat=52.367853&lon=4.889174
+Kei +Keizersgracht http://www.openstreetmap.org/?lat=52.365954&lon=4.886459
+Pri +Prinsengracht http://www.openstreetmap.org/?lat=52.365023&lon=4.884485
+Lei +Leidseplein http://www.openstreetmap.org/?lat=52.363741&lon=4.882253
++DIV_1 http://www.openstreetmap.org/?lat=52.363043&lon=4.880767
 +X913470 http://www.openstreetmap.org/?lat=52.359585&lon=4.883584
-Museumplein http://www.openstreetmap.org/?lat=52.358775&lon=4.880891
-+X885177 http://www.openstreetmap.org/?lat=52.358221&lon=4.878858
-+X310821 http://www.openstreetmap.org/?lat=52.357973&lon=4.878697
-Concertgebow http://www.openstreetmap.org/?lat=52.356508&lon=4.879748
+Mus +Museumplein http://www.openstreetmap.org/?lat=52.358775&lon=4.880891
++DIV_2 http://www.openstreetmap.org/?lat=52.358221&lon=4.878858
++DIV_3 http://www.openstreetmap.org/?lat=52.357973&lon=4.878697
+Con +Concertgebow http://www.openstreetmap.org/?lat=52.356508&lon=4.879748
 +X703341 http://www.openstreetmap.org/?lat=52.356261&lon=4.879906
-RoelofHartplein http://www.openstreetmap.org/?lat=52.352838&lon=4.882393
+RoeHar +RoelofHartplein http://www.openstreetmap.org/?lat=52.352838&lon=4.882393
 Pijp http://www.openstreetmap.org/?lat=52.352695&lon=4.890397
-+X207440 http://www.openstreetmap.org/?lat=52.352767&lon=4.890879
-VanHilligaertstraat http://www.openstreetmap.org/?lat=52.349854&lon=4.891502
-Maasstraat http://www.openstreetmap.org/?lat=52.346918&lon=4.895064
-Waalstraat http://www.openstreetmap.org/?lat=52.346656&lon=4.899999
-+X855196 http://www.openstreetmap.org/?lat=52.346145&lon=4.904194
-Victorieplein http://www.openstreetmap.org/?lat=52.346296&lon=4.905224
-Amsteldijk http://www.openstreetmap.org/?lat=52.347105&lon=4.911103
-Amstelstation http://www.openstreetmap.org/?lat=52.346397&lon=4.917476
++DIV_324 http://www.openstreetmap.org/?lat=52.352767&lon=4.890879
+VanHil +VanHilligaertstraat http://www.openstreetmap.org/?lat=52.349854&lon=4.891502
+Maa +Maasstraat http://www.openstreetmap.org/?lat=52.346918&lon=4.895064
+Waa +Waalstraat http://www.openstreetmap.org/?lat=52.346656&lon=4.899999
++DIV_4 http://www.openstreetmap.org/?lat=52.346145&lon=4.904194
+Vic +Victorieplein http://www.openstreetmap.org/?lat=52.346296&lon=4.905224
+Amed +Amsteldijk http://www.openstreetmap.org/?lat=52.347105&lon=4.911103
+Amss +Amstelstation http://www.openstreetmap.org/?lat=52.346397&lon=4.917476

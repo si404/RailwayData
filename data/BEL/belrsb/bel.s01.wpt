@@ -1,61 +1,61 @@
-AntwerpenCentraal http://www.openstreetmap.org/?lat=51.215953&lon=4.420946
+AntCen +AntwerpenCentraal http://www.openstreetmap.org/?lat=51.215953&lon=4.420946
 +X491940 http://www.openstreetmap.org/?lat=51.206218&lon=4.426095
 +X654075 http://www.openstreetmap.org/?lat=51.201499&lon=4.430323
-AntwerpenBerchem http://www.openstreetmap.org/?lat=51.199630&lon=4.432340
-+X492074 http://www.openstreetmap.org/?lat=51.197452&lon=4.433820
-+X902473 http://www.openstreetmap.org/?lat=51.196420&lon=4.434700
-+X253348 http://www.openstreetmap.org/?lat=51.185581&lon=4.444313
-Mortsel http://www.openstreetmap.org/?lat=51.183072&lon=4.448347
-+X553924 http://www.openstreetmap.org/?lat=51.179360&lon=4.465685
+AntBer +AntwerpenBerchem http://www.openstreetmap.org/?lat=51.199630&lon=4.432340
++DIV_S32 http://www.openstreetmap.org/?lat=51.197452&lon=4.433820
++DIV_IC09 http://www.openstreetmap.org/?lat=51.196420&lon=4.434700
++DIV_IC5N http://www.openstreetmap.org/?lat=51.185581&lon=4.444313
+Mor +Mortsel http://www.openstreetmap.org/?lat=51.183072&lon=4.448347
++DIV_S33 http://www.openstreetmap.org/?lat=51.179360&lon=4.465685
 +X835093 http://www.openstreetmap.org/?lat=51.171604&lon=4.470320
-MortselLiersesteenweg http://www.openstreetmap.org/?lat=51.168893&lon=4.468732
-+X885766 http://www.openstreetmap.org/?lat=51.159639&lon=4.462166
+MorLie +MortselLiersesteenweg http://www.openstreetmap.org/?lat=51.168893&lon=4.468732
++DIV_IC5S http://www.openstreetmap.org/?lat=51.159639&lon=4.462166
 Hove http://www.openstreetmap.org/?lat=51.153341&lon=4.465621
-KontichLint http://www.openstreetmap.org/?lat=51.133929&lon=4.476714
+KonLint +KontichLint http://www.openstreetmap.org/?lat=51.133929&lon=4.476714
 +X495080 http://www.openstreetmap.org/?lat=51.132299&lon=4.477723
-+X129236 http://www.openstreetmap.org/?lat=51.122846&lon=4.482808
-Duffel http://www.openstreetmap.org/?lat=51.091327&lon=4.492893
-SintKatelijneWaver http://www.openstreetmap.org/?lat=51.070601&lon=4.495747
-MechelenNekkerspoel http://www.openstreetmap.org/?lat=51.030255&lon=4.490232
++DIV_IC11 http://www.openstreetmap.org/?lat=51.122846&lon=4.482808
+Duf +Duffel http://www.openstreetmap.org/?lat=51.091327&lon=4.492893
+StKatWav +SintKatelijneWaver http://www.openstreetmap.org/?lat=51.070601&lon=4.495747
+MecNek +MechelenNekkerspoel http://www.openstreetmap.org/?lat=51.030255&lon=4.490232
 +X524175 http://www.openstreetmap.org/?lat=51.026368&lon=4.490211
-+X547778 http://www.openstreetmap.org/?lat=51.021753&lon=4.488559
-Mechelen http://www.openstreetmap.org/?lat=51.017663&lon=4.483860
-+X677367 http://www.openstreetmap.org/?lat=51.014679&lon=4.479804
-+X872696 http://www.openstreetmap.org/?lat=51.000408&lon=4.476457
-Weerde http://www.openstreetmap.org/?lat=50.977760&lon=4.471436
-+X855944 http://www.openstreetmap.org/?lat=50.970529&lon=4.466608
-Eppegem http://www.openstreetmap.org/?lat=50.958653&lon=4.457724
-Vilvoorde http://www.openstreetmap.org/?lat=50.924392&lon=4.433112
-+X651195 http://www.openstreetmap.org/?lat=50.913360&lon=4.422716
++DIV_S4 http://www.openstreetmap.org/?lat=51.021753&lon=4.488559
+Mec +Mechelen http://www.openstreetmap.org/?lat=51.017663&lon=4.483860
++DIV_L22 http://www.openstreetmap.org/?lat=51.014679&lon=4.479804
++DIV_IC08 http://www.openstreetmap.org/?lat=51.000408&lon=4.476457
+Wee +Weerde http://www.openstreetmap.org/?lat=50.977760&lon=4.471436
++DIV_S5 http://www.openstreetmap.org/?lat=50.970529&lon=4.466608
+Epp +Eppegem http://www.openstreetmap.org/?lat=50.958653&lon=4.457724
+Vil +Vilvoorde http://www.openstreetmap.org/?lat=50.924392&lon=4.433112
++DIV_S7 http://www.openstreetmap.org/?lat=50.913360&lon=4.422716
 Buda http://www.openstreetmap.org/?lat=50.908100&lon=4.417641
 +X403580 http://www.openstreetmap.org/?lat=50.901659&lon=4.411676
 +X805139 http://www.openstreetmap.org/?lat=50.894595&lon=4.411097
-+X802048 http://www.openstreetmap.org/?lat=50.887106&lon=4.408039
++DIV_S2E http://www.openstreetmap.org/?lat=50.887106&lon=4.408039
 +X651499 http://www.openstreetmap.org/?lat=50.882602&lon=4.398372
 +X859430 http://www.openstreetmap.org/?lat=50.881519&lon=4.386828
-Schaerbeek http://www.openstreetmap.org/?lat=50.878351&lon=4.378846
-+X639578 http://www.openstreetmap.org/?lat=50.875792&lon=4.373953
-+X209967 http://www.openstreetmap.org/?lat=50.869807&lon=4.365692
-BruxellesNord http://www.openstreetmap.org/?lat=50.860174&lon=4.361250
-BruxellesCongres http://www.openstreetmap.org/?lat=50.851888&lon=4.362516
-BruxellesCentrale http://www.openstreetmap.org/?lat=50.845476&lon=4.357007
-BruxellesChapelle http://www.openstreetmap.org/?lat=50.841239&lon=4.348569
-BruxellesMidi http://www.openstreetmap.org/?lat=50.836662&lon=4.337690
-+X128820 http://www.openstreetmap.org/?lat=50.830764&lon=4.330480
-+X363659 http://www.openstreetmap.org/?lat=50.829029&lon=4.328270
+Sch +Schaerbeek http://www.openstreetmap.org/?lat=50.878351&lon=4.378846
++DIV_S19 http://www.openstreetmap.org/?lat=50.875792&lon=4.373953
++DIV_S3 http://www.openstreetmap.org/?lat=50.869807&lon=4.365692
+BruNor +BruxellesNord http://www.openstreetmap.org/?lat=50.860174&lon=4.361250
+BruCon +BruxellesCongres http://www.openstreetmap.org/?lat=50.851888&lon=4.362516
+BruCen +BruxellesCentrale http://www.openstreetmap.org/?lat=50.845476&lon=4.357007
+BruCha +BruxellesChapelle http://www.openstreetmap.org/?lat=50.841239&lon=4.348569
+BruMidi +BruxellesMidi http://www.openstreetmap.org/?lat=50.836662&lon=4.337690
++DIV_S10 http://www.openstreetmap.org/?lat=50.830764&lon=4.330480
++DIV_S2W http://www.openstreetmap.org/?lat=50.829029&lon=4.328270
 +X963470 http://www.openstreetmap.org/?lat=50.824664&lon=4.324687
-ForestEst http://www.openstreetmap.org/?lat=50.809616&lon=4.320803
-UccleStalle http://www.openstreetmap.org/?lat=50.802280&lon=4.323893
-UccleCalevoet http://www.openstreetmap.org/?lat=50.791467&lon=4.332401
-+X205044 http://www.openstreetmap.org/?lat=50.776490&lon=4.335480
-Linkebeek http://www.openstreetmap.org/?lat=50.773664&lon=4.339471
-Holleken http://www.openstreetmap.org/?lat=50.767286&lon=4.354320
-SintGenesiusRode http://www.openstreetmap.org/?lat=50.747956&lon=4.361916
+ForEst +ForestEst http://www.openstreetmap.org/?lat=50.809616&lon=4.320803
+UccSta +UccleStalle http://www.openstreetmap.org/?lat=50.802280&lon=4.323893
+UccCal +UccleCalevoet http://www.openstreetmap.org/?lat=50.791467&lon=4.332401
++DIV_S9 http://www.openstreetmap.org/?lat=50.776490&lon=4.335480
+Lin +Linkebeek http://www.openstreetmap.org/?lat=50.773664&lon=4.339471
+Hol +Holleken http://www.openstreetmap.org/?lat=50.767286&lon=4.354320
+StGenRode +SintGenesiusRode http://www.openstreetmap.org/?lat=50.747956&lon=4.361916
 Hoek http://www.openstreetmap.org/?lat=50.738804&lon=4.370756
-Waterloo http://www.openstreetmap.org/?lat=50.715632&lon=4.383416
-BraineAlleud http://www.openstreetmap.org/?lat=50.684590&lon=4.375906
-BraineAlliance http://www.openstreetmap.org/?lat=50.668545&lon=4.373417
-Lillois http://www.openstreetmap.org/?lat=50.645011&lon=4.365048
+Wat +Waterloo http://www.openstreetmap.org/?lat=50.715632&lon=4.383416
+BraAlle +BraineAlleud http://www.openstreetmap.org/?lat=50.684590&lon=4.375906
+BraAlli +BraineAlliance http://www.openstreetmap.org/?lat=50.668545&lon=4.373417
+Lil +Lillois http://www.openstreetmap.org/?lat=50.645011&lon=4.365048
 +X792810 http://www.openstreetmap.org/?lat=50.626952&lon=4.348269
 +X739441 http://www.openstreetmap.org/?lat=50.610832&lon=4.350157
-Nivelles http://www.openstreetmap.org/?lat=50.601177&lon=4.335480
+Niv +Nivelles http://www.openstreetmap.org/?lat=50.601177&lon=4.335480

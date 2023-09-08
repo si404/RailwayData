@@ -1,18 +1,18 @@
-StationZuid http://www.openstreetmap.org/?lat=52.340798&lon=4.873188
+StaZuid +StationZuid http://www.openstreetmap.org/?lat=52.340798&lon=4.873188
 +X832415 http://www.openstreetmap.org/?lat=52.340521&lon=4.868574
-Parnassusweg http://www.openstreetmap.org/?lat=52.338076&lon=4.868714
-AJErnststraat http://www.openstreetmap.org/?lat=52.332746&lon=4.868853
-VanBoshuizenstraat http://www.openstreetmap.org/?lat=52.324977&lon=4.869014
-Uilenstede http://www.openstreetmap.org/?lat=52.321553&lon=4.869153
-Kronenburg http://www.openstreetmap.org/?lat=52.315861&lon=4.870613
-Zonnestein http://www.openstreetmap.org/?lat=52.311775&lon=4.872319
-Onderuit http://www.openstreetmap.org/?lat=52.308200&lon=4.872576
-Oranjebaan http://www.openstreetmap.org/?lat=52.302925&lon=4.871868
-+X553291 http://www.openstreetmap.org/?lat=52.301029&lon=4.870527
-Ouderkerkerlaan http://www.openstreetmap.org/?lat=52.296335&lon=4.867673
-Sportlaan http://www.openstreetmap.org/?lat=52.290154&lon=4.863575
-Meent http://www.openstreetmap.org/?lat=52.280991&lon=4.857202
-Brink http://www.openstreetmap.org/?lat=52.280545&lon=4.851794
-Poortwachter http://www.openstreetmap.org/?lat=52.283184&lon=4.845614
-Sacharovlaan http://www.openstreetmap.org/?lat=52.282370&lon=4.832568
-Westwijk http://www.openstreetmap.org/?lat=52.274519&lon=4.830723
+Par +Parnassusweg http://www.openstreetmap.org/?lat=52.338076&lon=4.868714
+AJErn +AJErnststraat http://www.openstreetmap.org/?lat=52.332746&lon=4.868853
+VanBos +VanBoshuizenstraat http://www.openstreetmap.org/?lat=52.324977&lon=4.869014
+Uil +Uilenstede http://www.openstreetmap.org/?lat=52.321553&lon=4.869153
+Kro +Kronenburg http://www.openstreetmap.org/?lat=52.315861&lon=4.870613
+Zon +Zonnestein http://www.openstreetmap.org/?lat=52.311775&lon=4.872319
+Ond +Onderuit http://www.openstreetmap.org/?lat=52.308200&lon=4.872576
+Ora +Oranjebaan http://www.openstreetmap.org/?lat=52.302925&lon=4.871868
++DIV_5 http://www.openstreetmap.org/?lat=52.301029&lon=4.870527
+Oud +Ouderkerkerlaan http://www.openstreetmap.org/?lat=52.296335&lon=4.867673
+Spo +Sportlaan http://www.openstreetmap.org/?lat=52.290154&lon=4.863575
+Mee +Meent http://www.openstreetmap.org/?lat=52.280991&lon=4.857202
+Bri +Brink http://www.openstreetmap.org/?lat=52.280545&lon=4.851794
+Poo +Poortwachter http://www.openstreetmap.org/?lat=52.283184&lon=4.845614
+Sac +Sacharovlaan http://www.openstreetmap.org/?lat=52.282370&lon=4.832568
+Wes +Westwijk http://www.openstreetmap.org/?lat=52.274519&lon=4.830723

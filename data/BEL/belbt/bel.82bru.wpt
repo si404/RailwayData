@@ -1,39 +1,39 @@
-GareBerchem http://www.openstreetmap.org/?lat=50.872728&lon=4.290161
-BerchemShopping http://www.openstreetmap.org/?lat=50.870013&lon=4.291642
-Alcyons http://www.openstreetmap.org/?lat=50.867190&lon=4.294120
-Schweitzer http://www.openstreetmap.org/?lat=50.864488&lon=4.297349
-Genot http://www.openstreetmap.org/?lat=50.862308&lon=4.300482
-VanZande http://www.openstreetmap.org/?lat=50.860621&lon=4.305525
-CimetiereMolenbeek http://www.openstreetmap.org/?lat=50.858921&lon=4.311844
-Karreveld http://www.openstreetmap.org/?lat=50.857797&lon=4.318324
-Mennekens http://www.openstreetmap.org/?lat=50.855054&lon=4.315900
-JosephBaeck http://www.openstreetmap.org/?lat=50.851671&lon=4.316940
-GareOuest http://www.openstreetmap.org/?lat=50.850306&lon=4.321929
-QuatreVents http://www.openstreetmap.org/?lat=50.849148&lon=4.325770
-+X267306 http://www.openstreetmap.org/?lat=50.849244&lon=4.337685
-ArtsMetiers http://www.openstreetmap.org/?lat=50.847839&lon=4.337851
-PorteAnderlecht http://www.openstreetmap.org/?lat=50.844828&lon=4.339036
-Lemonnier http://www.openstreetmap.org/?lat=50.839957&lon=4.340839
-+X297519 http://www.openstreetmap.org/?lat=50.839083&lon=4.340037
-+X297518 http://www.openstreetmap.org/?lat=50.838718&lon=4.339605
+GareBer +GareBerchem http://www.openstreetmap.org/?lat=50.872728&lon=4.290161
+BerSho +BerchemShopping http://www.openstreetmap.org/?lat=50.870013&lon=4.291642
+Alc +Alcyons http://www.openstreetmap.org/?lat=50.867190&lon=4.294120
+Sch +Schweitzer http://www.openstreetmap.org/?lat=50.864488&lon=4.297349
+Gen +Genot http://www.openstreetmap.org/?lat=50.862308&lon=4.300482
+VanZan +VanZande http://www.openstreetmap.org/?lat=50.860621&lon=4.305525
+CimMol +CimetiereMolenbeek http://www.openstreetmap.org/?lat=50.858921&lon=4.311844
+Kar +Karreveld http://www.openstreetmap.org/?lat=50.857797&lon=4.318324
+Men +Mennekens http://www.openstreetmap.org/?lat=50.855054&lon=4.315900
+JosBae +JosephBaeck http://www.openstreetmap.org/?lat=50.851671&lon=4.316940
+GareOue +GareOuest http://www.openstreetmap.org/?lat=50.850306&lon=4.321929
+QuaVen +QuatreVents http://www.openstreetmap.org/?lat=50.849148&lon=4.325770
++DIV_51 http://www.openstreetmap.org/?lat=50.849244&lon=4.337685
+ArtsMet +ArtsMetiers http://www.openstreetmap.org/?lat=50.847839&lon=4.337851
+PorAnd +PorteAnderlecht http://www.openstreetmap.org/?lat=50.844828&lon=4.339036
+Lem +Lemonnier http://www.openstreetmap.org/?lat=50.839957&lon=4.340839
++DIV_34 http://www.openstreetmap.org/?lat=50.839083&lon=4.340037
++DIV_81 http://www.openstreetmap.org/?lat=50.838718&lon=4.339605
 GareMidi http://www.openstreetmap.org/?lat=50.836662&lon=4.337690
-Suede http://www.openstreetmap.org/?lat=50.834143&lon=4.335995
-AvenueRoi http://www.openstreetmap.org/?lat=50.831921&lon=4.333194
-Imprimerie http://www.openstreetmap.org/?lat=50.829476&lon=4.329965
-Orban http://www.openstreetmap.org/?lat=50.827063&lon=4.327304
-Wiels http://www.openstreetmap.org/?lat=50.824190&lon=4.326296
-Union http://www.openstreetmap.org/?lat=50.820123&lon=4.325674
-Chataignes http://www.openstreetmap.org/?lat=50.817204&lon=4.325303
-ZamanForestNational http://www.openstreetmap.org/?lat=50.813828&lon=4.324885
-Monaco http://www.openstreetmap.org/?lat=50.812916&lon=4.322825
-ForestCentre http://www.openstreetmap.org/?lat=50.811769&lon=4.318914
-SaintDenis http://www.openstreetmap.org/?lat=50.810108&lon=4.317681
-MaxWaller http://www.openstreetmap.org/?lat=50.806481&lon=4.314247
-Bempt http://www.openstreetmap.org/?lat=50.802412&lon=4.315975
-Neerstalle http://www.openstreetmap.org/?lat=50.801036&lon=4.317423
-Merlo http://www.openstreetmap.org/?lat=50.798880&lon=4.319397
-CarrefourStalle http://www.openstreetmap.org/?lat=50.795991&lon=4.321350
-Keyenbempt http://www.openstreetmap.org/?lat=50.793346&lon=4.320438
-Rodts http://www.openstreetmap.org/?lat=50.790497&lon=4.317938
-GroteBaan http://www.openstreetmap.org/?lat=50.787540&lon=4.317477
-Drogenbos http://www.openstreetmap.org/?lat=50.785675&lon=4.318163
+Sue +Suede http://www.openstreetmap.org/?lat=50.834143&lon=4.335995
+AveRoi +AvenueRoi http://www.openstreetmap.org/?lat=50.831921&lon=4.333194
+Imp +Imprimerie http://www.openstreetmap.org/?lat=50.829476&lon=4.329965
+Orb +Orban http://www.openstreetmap.org/?lat=50.827063&lon=4.327304
+Wie +Wiels http://www.openstreetmap.org/?lat=50.824190&lon=4.326296
+Uni +Union http://www.openstreetmap.org/?lat=50.820123&lon=4.325674
+Cha +Chataignes http://www.openstreetmap.org/?lat=50.817204&lon=4.325303
+ZamForNat +ZamanForestNational http://www.openstreetmap.org/?lat=50.813828&lon=4.324885
+Mon +Monaco http://www.openstreetmap.org/?lat=50.812916&lon=4.322825
+ForCen +ForestCentre http://www.openstreetmap.org/?lat=50.811769&lon=4.318914
+StDen +SaintDenis http://www.openstreetmap.org/?lat=50.810108&lon=4.317681
+MaxWal +MaxWaller http://www.openstreetmap.org/?lat=50.806481&lon=4.314247
+Bem +Bempt http://www.openstreetmap.org/?lat=50.802412&lon=4.315975
+Nee +Neerstalle http://www.openstreetmap.org/?lat=50.801036&lon=4.317423
+Mer +Merlo http://www.openstreetmap.org/?lat=50.798880&lon=4.319397
+CarSta +CarrefourStalle http://www.openstreetmap.org/?lat=50.795991&lon=4.321350
+Key +Keyenbempt http://www.openstreetmap.org/?lat=50.793346&lon=4.320438
+Rod +Rodts http://www.openstreetmap.org/?lat=50.790497&lon=4.317938
+GroBaan +GroteBaan http://www.openstreetmap.org/?lat=50.787540&lon=4.317477
+Dro +Drogenbos http://www.openstreetmap.org/?lat=50.785675&lon=4.318163
