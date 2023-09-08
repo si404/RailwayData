@@ -1,0 +1,5 @@
+systemName;route;banner;groupName;roots
+usartdx;ALn;;Denver RTD A Line;co.aln
+usartdx;BLn;;Denver RTD B Line;co.bln
+usartdx;GLn;;Denver RTD G Line;co.gln
+usartdx;NLn;;Denver RTD N Line;co.nln
