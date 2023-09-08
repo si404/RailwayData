@@ -1,49 +1,49 @@
-ZeebruggeDorp http://www.openstreetmap.org/?lat=51.326368&lon=3.194919
-+X304781 http://www.openstreetmap.org/?lat=51.321353&lon=3.187537
-Lissewege http://www.openstreetmap.org/?lat=51.294679&lon=3.194361
+ZeeDorp +ZeebruggeDorp http://www.openstreetmap.org/?lat=51.326368&lon=3.194919
++DIV_Str http://www.openstreetmap.org/?lat=51.321353&lon=3.187537
+Lis +Lissewege http://www.openstreetmap.org/?lat=51.294679&lon=3.194361
 +X865152 http://www.openstreetmap.org/?lat=51.280320&lon=3.198180
-+X521899 http://www.openstreetmap.org/?lat=51.261848&lon=3.202815
-+X693904 http://www.openstreetmap.org/?lat=51.247431&lon=3.206398
-BruggeSintPieters http://www.openstreetmap.org/?lat=51.222979&lon=3.201785
-+X417594 http://www.openstreetmap.org/?lat=51.204457&lon=3.209252
-Brugge http://www.openstreetmap.org/?lat=51.196995&lon=3.217278
-+X713192 http://www.openstreetmap.org/?lat=51.185049&lon=3.224208
-+X969062 http://www.openstreetmap.org/?lat=51.175967&lon=3.231139
-+X358046 http://www.openstreetmap.org/?lat=51.173323&lon=3.231418
-Oostkamp http://www.openstreetmap.org/?lat=51.154330&lon=3.257275
-Beernem http://www.openstreetmap.org/?lat=51.128132&lon=3.329501
-MariaAalter http://www.openstreetmap.org/?lat=51.108133&lon=3.385205
-Aalter http://www.openstreetmap.org/?lat=51.092021&lon=3.448935
-Bellem http://www.openstreetmap.org/?lat=51.083435&lon=3.488696
-Hansbeke http://www.openstreetmap.org/?lat=51.073180&lon=3.535935
-Landegem http://www.openstreetmap.org/?lat=51.064584&lon=3.575535
-Drongen http://www.openstreetmap.org/?lat=51.047353&lon=3.654445
-+X267553 http://www.openstreetmap.org/?lat=51.040713&lon=3.684604
-+X191428 http://www.openstreetmap.org/?lat=51.038938&lon=3.695526
-+X426093 http://www.openstreetmap.org/?lat=51.036928&lon=3.703551
-GentSintPieters http://www.openstreetmap.org/?lat=51.035575&lon=3.710879
-+X179333 http://www.openstreetmap.org/?lat=51.031861&lon=3.725224
-+X350625 http://www.openstreetmap.org/?lat=51.029634&lon=3.746681
++DIV_IC23A http://www.openstreetmap.org/?lat=51.261848&lon=3.202815
++DIV_IC3 http://www.openstreetmap.org/?lat=51.247431&lon=3.206398
+BruStPie +BruggeSintPieters http://www.openstreetmap.org/?lat=51.222979&lon=3.201785
++DIV_IC2 http://www.openstreetmap.org/?lat=51.204457&lon=3.209252
+Bru +Brugge http://www.openstreetmap.org/?lat=51.196995&lon=3.217278
++DIV_IC1N http://www.openstreetmap.org/?lat=51.185049&lon=3.224208
++DIV_L66 http://www.openstreetmap.org/?lat=51.175967&lon=3.231139
++DIV_IC1S http://www.openstreetmap.org/?lat=51.173323&lon=3.231418
+Oos +Oostkamp http://www.openstreetmap.org/?lat=51.154330&lon=3.257275
+Bee +Beernem http://www.openstreetmap.org/?lat=51.128132&lon=3.329501
+MarAal +MariaAalter http://www.openstreetmap.org/?lat=51.108133&lon=3.385205
+Aal +Aalter http://www.openstreetmap.org/?lat=51.092021&lon=3.448935
+Bel +Bellem http://www.openstreetmap.org/?lat=51.083435&lon=3.488696
+Han +Hansbeke http://www.openstreetmap.org/?lat=51.073180&lon=3.535935
+Lan +Landegem http://www.openstreetmap.org/?lat=51.064584&lon=3.575535
+Dro +Drongen http://www.openstreetmap.org/?lat=51.047353&lon=3.654445
++DIV_IC23 http://www.openstreetmap.org/?lat=51.040713&lon=3.684604
++DIV_S51 http://www.openstreetmap.org/?lat=51.038938&lon=3.695526
++DIV_IC1W http://www.openstreetmap.org/?lat=51.036928&lon=3.703551
+GentStPie +GentSintPieters http://www.openstreetmap.org/?lat=51.035575&lon=3.710879
++DIV_IC1E http://www.openstreetmap.org/?lat=51.031861&lon=3.725224
++DIV_S53 http://www.openstreetmap.org/?lat=51.029634&lon=3.746681
 +X822969 http://www.openstreetmap.org/?lat=51.025862&lon=3.753762
-Merelbeke http://www.openstreetmap.org/?lat=51.020140&lon=3.764620
-Melle http://www.openstreetmap.org/?lat=51.002508&lon=3.797321
-+X402619 http://www.openstreetmap.org/?lat=51.000915&lon=3.800368
-Kwatrecht http://www.openstreetmap.org/?lat=50.991721&lon=3.828928
-Wetteren http://www.openstreetmap.org/?lat=51.001583&lon=3.882422
-Schellebelle http://www.openstreetmap.org/?lat=51.003099&lon=3.920971
-+X254988 http://www.openstreetmap.org/?lat=51.003041&lon=3.923707
-Wichelen http://www.openstreetmap.org/?lat=51.001867&lon=3.970292
-Schoonaarde http://www.openstreetmap.org/?lat=51.003122&lon=4.011490
-Oudegem http://www.openstreetmap.org/?lat=51.015013&lon=4.063729
-Dendermonde http://www.openstreetmap.org/?lat=51.022805&lon=4.100883
-+X220612 http://www.openstreetmap.org/?lat=51.023929&lon=4.106698
-+X634663 http://www.openstreetmap.org/?lat=51.023139&lon=4.114573
+Mer +Merelbeke http://www.openstreetmap.org/?lat=51.020140&lon=3.764620
+Mel +Melle http://www.openstreetmap.org/?lat=51.002508&lon=3.797321
++DIV_S52 http://www.openstreetmap.org/?lat=51.000915&lon=3.800368
+Kwa +Kwatrecht http://www.openstreetmap.org/?lat=50.991721&lon=3.828928
+Wet +Wetteren http://www.openstreetmap.org/?lat=51.001583&lon=3.882422
+Sche +Schellebelle http://www.openstreetmap.org/?lat=51.003099&lon=3.920971
++DIV_IC20 http://www.openstreetmap.org/?lat=51.003041&lon=3.923707
+Wic +Wichelen http://www.openstreetmap.org/?lat=51.001867&lon=3.970292
+Scho +Schoonaarde http://www.openstreetmap.org/?lat=51.003122&lon=4.011490
+Oud +Oudegem http://www.openstreetmap.org/?lat=51.015013&lon=4.063729
+Den +Dendermonde http://www.openstreetmap.org/?lat=51.022805&lon=4.100883
++DIV_L30 http://www.openstreetmap.org/?lat=51.023929&lon=4.106698
++DIV_S3 http://www.openstreetmap.org/?lat=51.023139&lon=4.114573
 +X423509 http://www.openstreetmap.org/?lat=51.020707&lon=4.140429
-BaasrodeZuid http://www.openstreetmap.org/?lat=51.019411&lon=4.153991
-Buggenhout http://www.openstreetmap.org/?lat=51.016333&lon=4.201241
-Malderen http://www.openstreetmap.org/?lat=51.014443&lon=4.228706
-Londerzeel http://www.openstreetmap.org/?lat=51.009205&lon=4.298058
-KapelleBos http://www.openstreetmap.org/?lat=51.010771&lon=4.359083
-+X719490 http://www.openstreetmap.org/?lat=51.013208&lon=4.414358
-+X677367 http://www.openstreetmap.org/?lat=51.014679&lon=4.479804
-Mechelen http://www.openstreetmap.org/?lat=51.017663&lon=4.483860
+BasZuid +BaasrodeZuid http://www.openstreetmap.org/?lat=51.019411&lon=4.153991
+Bug +Buggenhout http://www.openstreetmap.org/?lat=51.016333&lon=4.201241
+Mal +Malderen http://www.openstreetmap.org/?lat=51.014443&lon=4.228706
+Lon +Londerzeel http://www.openstreetmap.org/?lat=51.009205&lon=4.298058
+KapBos +KapelleBos http://www.openstreetmap.org/?lat=51.010771&lon=4.359083
++DIV_L27 http://www.openstreetmap.org/?lat=51.013208&lon=4.414358
++DIV_S1 http://www.openstreetmap.org/?lat=51.014679&lon=4.479804
+Mec +Mechelen http://www.openstreetmap.org/?lat=51.017663&lon=4.483860

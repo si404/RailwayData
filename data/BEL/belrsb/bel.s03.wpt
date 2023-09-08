@@ -1,47 +1,47 @@
-Dendermonde http://www.openstreetmap.org/?lat=51.022805&lon=4.100883
-+X220612 http://www.openstreetmap.org/?lat=51.023929&lon=4.106698
-+X634663 http://www.openstreetmap.org/?lat=51.023139&lon=4.114573
-SintGillis http://www.openstreetmap.org/?lat=51.021149&lon=4.118468
-Lebbeke http://www.openstreetmap.org/?lat=51.005047&lon=4.134464
-Heizijde http://www.openstreetmap.org/?lat=50.989516&lon=4.156265
-Opwijk http://www.openstreetmap.org/?lat=50.974724&lon=4.187250
-Merchtem http://www.openstreetmap.org/?lat=50.953953&lon=4.223685
-Mollem http://www.openstreetmap.org/?lat=50.932726&lon=4.216475
+Denm +Dendermonde http://www.openstreetmap.org/?lat=51.022805&lon=4.100883
++DIV_L30 http://www.openstreetmap.org/?lat=51.023929&lon=4.106698
++DIV_L2 http://www.openstreetmap.org/?lat=51.023139&lon=4.114573
+StGil +SintGillis http://www.openstreetmap.org/?lat=51.021149&lon=4.118468
+Leb +Lebbeke http://www.openstreetmap.org/?lat=51.005047&lon=4.134464
+Hei +Heizijde http://www.openstreetmap.org/?lat=50.989516&lon=4.156265
+Opw +Opwijk http://www.openstreetmap.org/?lat=50.974724&lon=4.187250
+Mer +Merchtem http://www.openstreetmap.org/?lat=50.953953&lon=4.223685
+Mol +Mollem http://www.openstreetmap.org/?lat=50.932726&lon=4.216475
 +X247832 http://www.openstreetmap.org/?lat=50.920770&lon=4.204974
 Asse http://www.openstreetmap.org/?lat=50.906348&lon=4.208407
 +X373402 http://www.openstreetmap.org/?lat=50.896551&lon=4.224629
-Zelik http://www.openstreetmap.org/?lat=50.889296&lon=4.275699
-+X365062 http://www.openstreetmap.org/?lat=50.879935&lon=4.315245
-Jette http://www.openstreetmap.org/?lat=50.880937&lon=4.328227
-+X291709 http://www.openstreetmap.org/?lat=50.880727&lon=4.344535
-Bockstael http://www.openstreetmap.org/?lat=50.878770&lon=4.347947
+Zel +Zelik http://www.openstreetmap.org/?lat=50.889296&lon=4.275699
++DIV_S10W http://www.openstreetmap.org/?lat=50.879935&lon=4.315245
+Jet +Jette http://www.openstreetmap.org/?lat=50.880937&lon=4.328227
++DIV_S10E http://www.openstreetmap.org/?lat=50.880727&lon=4.344535
+Boc +Bockstael http://www.openstreetmap.org/?lat=50.878770&lon=4.347947
 +X384259 http://www.openstreetmap.org/?lat=50.877403&lon=4.355006
-+X209408 http://www.openstreetmap.org/?lat=50.874424&lon=4.363847
-+X209967 http://www.openstreetmap.org/?lat=50.869807&lon=4.365692
-BruxellesNord http://www.openstreetmap.org/?lat=50.860174&lon=4.361250
-+BruxellesCongres http://www.openstreetmap.org/?lat=50.851888&lon=4.362516
-BruxellesCentrale http://www.openstreetmap.org/?lat=50.845476&lon=4.357007
-+BruxellesChapelle http://www.openstreetmap.org/?lat=50.841239&lon=4.348569
-BruxellesMidi http://www.openstreetmap.org/?lat=50.836662&lon=4.337690
-+X128820 http://www.openstreetmap.org/?lat=50.830764&lon=4.330480
++DIV_S4 http://www.openstreetmap.org/?lat=50.874424&lon=4.363847
++DIV_S2 http://www.openstreetmap.org/?lat=50.869807&lon=4.365692
+BruNord +BruxellesNord http://www.openstreetmap.org/?lat=50.860174&lon=4.361250
++SKIP_BruCon http://www.openstreetmap.org/?lat=50.851888&lon=4.362516
+BruCen +BruxellesCentrale http://www.openstreetmap.org/?lat=50.845476&lon=4.357007
++SKIP_BruCha http://www.openstreetmap.org/?lat=50.841239&lon=4.348569
+BruMidi +BruxellesMidi http://www.openstreetmap.org/?lat=50.836662&lon=4.337690
++DIV_S1 http://www.openstreetmap.org/?lat=50.830764&lon=4.330480
 +X727465 http://www.openstreetmap.org/?lat=50.828073&lon=4.322605
 +X191696 http://www.openstreetmap.org/?lat=50.822008&lon=4.317734
-+X466472 http://www.openstreetmap.org/?lat=50.818239&lon=4.308743
-Anderlecht http://www.openstreetmap.org/?lat=50.817876&lon=4.292146
++DIV_IC3 http://www.openstreetmap.org/?lat=50.818239&lon=4.308743
+And +Anderlecht http://www.openstreetmap.org/?lat=50.817876&lon=4.292146
 +X449339 http://www.openstreetmap.org/?lat=50.822821&lon=4.247203
-+X801180 http://www.openstreetmap.org/?lat=50.880145&lon=4.115968
-+X930589 http://www.openstreetmap.org/?lat=50.882470&lon=4.108018
-Liedekerke http://www.openstreetmap.org/?lat=50.882561&lon=4.094896
-+X169109 http://www.openstreetmap.org/?lat=50.889973&lon=4.074769
-Denderleeuw http://www.openstreetmap.org/?lat=50.891895&lon=4.071422
-+X888881 http://www.openstreetmap.org/?lat=50.897968&lon=4.062243
-Welle http://www.openstreetmap.org/?lat=50.903080&lon=4.050801
-Haaltert http://www.openstreetmap.org/?lat=50.906855&lon=4.023657
++DIV_IC1 http://www.openstreetmap.org/?lat=50.880145&lon=4.115968
++DIV_S4E http://www.openstreetmap.org/?lat=50.882470&lon=4.108018
+Lie +Liedekerke http://www.openstreetmap.org/?lat=50.882561&lon=4.094896
++DIV_S6 http://www.openstreetmap.org/?lat=50.889973&lon=4.074769
+Denl +Denderleeuw http://www.openstreetmap.org/?lat=50.891895&lon=4.071422
++DIV_S4W http://www.openstreetmap.org/?lat=50.897968&lon=4.062243
+Wel +Welle http://www.openstreetmap.org/?lat=50.903080&lon=4.050801
+Haa +Haaltert http://www.openstreetmap.org/?lat=50.906855&lon=4.023657
 Ede http://www.openstreetmap.org/?lat=50.910969&lon=3.986986
 +X392489 http://www.openstreetmap.org/?lat=50.907302&lon=3.923471
-Burst http://www.openstreetmap.org/?lat=50.906862&lon=3.920918
-Terhagen http://www.openstreetmap.org/?lat=50.901504&lon=3.896499
-Herzele http://www.openstreetmap.org/?lat=50.897146&lon=3.880363
-Hillegem http://www.openstreetmap.org/?lat=50.891516&lon=3.858261
-+X683947 http://www.openstreetmap.org/?lat=50.873023&lon=3.814917
-Zottegem http://www.openstreetmap.org/?lat=50.868852&lon=3.814659
+Bur +Burst http://www.openstreetmap.org/?lat=50.906862&lon=3.920918
+Ter +Terhagen http://www.openstreetmap.org/?lat=50.901504&lon=3.896499
+Her +Herzele http://www.openstreetmap.org/?lat=50.897146&lon=3.880363
+Hil +Hillegem http://www.openstreetmap.org/?lat=50.891516&lon=3.858261
++DIV_S52 http://www.openstreetmap.org/?lat=50.873023&lon=3.814917
+Zot +Zottegem http://www.openstreetmap.org/?lat=50.868852&lon=3.814659

@@ -1,26 +1,25 @@
-StalleP http://www.openstreetmap.org/?lat=50.795096&lon=4.318957
+StaP +StalleP http://www.openstreetmap.org/?lat=50.795096&lon=4.318957
 +X780474 http://www.openstreetmap.org/?lat=50.795767&lon=4.318657
-CarrefourStalle http://www.openstreetmap.org/?lat=50.795991&lon=4.321350
-EgideVanOphem http://www.openstreetmap.org/?lat=50.796262&lon=4.323978
-Wagon http://www.openstreetmap.org/?lat=50.796804&lon=4.329386
-Globe http://www.openstreetmap.org/?lat=50.800243&lon=4.336488
-+X509660 http://www.openstreetmap.org/?lat=50.801741&lon=4.340115
-+X320732 http://www.openstreetmap.org/?lat=50.801978&lon=4.340544
-Heros http://www.openstreetmap.org/?lat=50.803443&lon=4.341499
-Boetendael http://www.openstreetmap.org/?lat=50.807057&lon=4.343773
-Messidor http://www.openstreetmap.org/?lat=50.810189&lon=4.345737
-Vanderkindere http://www.openstreetmap.org/?lat=50.813528&lon=4.347839
-Berkendael http://www.openstreetmap.org/?lat=50.817861&lon=4.346128
-Albert http://www.openstreetmap.org/?lat=50.821547&lon=4.342604
-Horta http://www.openstreetmap.org/?lat=50.825966&lon=4.345822
-ParvisSaintGilles http://www.openstreetmap.org/?lat=50.829828&lon=4.346144
-PorteHal http://www.openstreetmap.org/?lat=50.833474&lon=4.342883
+CarSta +CarrefourStalle http://www.openstreetmap.org/?lat=50.795991&lon=4.321350
+EgiVanOph +EgideVanOphem http://www.openstreetmap.org/?lat=50.796262&lon=4.323978
+Wag +Wagon http://www.openstreetmap.org/?lat=50.796804&lon=4.329386
+Glo +Globe http://www.openstreetmap.org/?lat=50.800243&lon=4.336488
++DIV_9297 http://www.openstreetmap.org/?lat=50.801782&lon=4.340372
+Her +Heros http://www.openstreetmap.org/?lat=50.803443&lon=4.341499
+Boe +Boetendael http://www.openstreetmap.org/?lat=50.807057&lon=4.343773
+Mes +Messidor http://www.openstreetmap.org/?lat=50.810189&lon=4.345737
+Van +Vanderkindere http://www.openstreetmap.org/?lat=50.813528&lon=4.347839
+Ber +Berkendael http://www.openstreetmap.org/?lat=50.817861&lon=4.346128
+Alb +Albert http://www.openstreetmap.org/?lat=50.821547&lon=4.342604
+Hor +Horta http://www.openstreetmap.org/?lat=50.825966&lon=4.345822
+ParStGil +ParvisSaintGilles http://www.openstreetmap.org/?lat=50.829828&lon=4.346144
+PorHal +PorteHal http://www.openstreetmap.org/?lat=50.833474&lon=4.342883
 GareMidi http://www.openstreetmap.org/?lat=50.836662&lon=4.337690
 +X475184 http://www.openstreetmap.org/?lat=50.838928&lon=4.337025
-+X297519 http://www.openstreetmap.org/?lat=50.839083&lon=4.340037
-Lemonnier http://www.openstreetmap.org/?lat=50.839957&lon=4.340839
-Anneessens http://www.openstreetmap.org/?lat=50.844245&lon=4.345388
-Bourse http://www.openstreetmap.org/?lat=50.847819&lon=4.349111
-DeBrouckere http://www.openstreetmap.org/?lat=50.849929&lon=4.352388
-Rogier http://www.openstreetmap.org/?lat=50.855369&lon=4.358182
++DIV_82 http://www.openstreetmap.org/?lat=50.839083&lon=4.340037
+Lem +Lemonnier http://www.openstreetmap.org/?lat=50.839957&lon=4.340839
+Ann +Anneessens http://www.openstreetmap.org/?lat=50.844245&lon=4.345388
+Bou +Bourse http://www.openstreetmap.org/?lat=50.847819&lon=4.349111
+Bro +DeBrouckere http://www.openstreetmap.org/?lat=50.849929&lon=4.352388
+Rog +Rogier http://www.openstreetmap.org/?lat=50.855369&lon=4.358182
 GareNord http://www.openstreetmap.org/?lat=50.860174&lon=4.361250
