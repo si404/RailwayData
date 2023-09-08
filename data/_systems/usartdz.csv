@@ -1,7 +1,7 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-usartdz;CO;DLn;;;RTD D Line;co.dln;
-usartdz;CO;ELn;;;RTD E Line;co.eln;
-usartdz;CO;HLn;;;RTD H Line;co.hln;
-usartdz;CO;LLn;;;RTD L Line;co.lln;
-usartdz;CO;RLn;;;RTD R Line;co.rln;
-usartdz;CO;WLn;;;RTD W Line;co.wln;
+usartdz;CO;DLn;;;Denver RTD D Line;co.dln;
+usartdz;CO;ELn;;;Denver RTD E Line;co.eln;
+usartdz;CO;HLn;;;Denver RTD H Line;co.hln;
+usartdz;CO;LLn;;;Denver RTD L Line;co.lln;
+usartdz;CO;RLn;;;Denver RTD R Line;co.rln;
+usartdz;CO;WLn;;;Denver RTD W Line;co.wln;
