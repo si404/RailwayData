@@ -1,5 +1,5 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-usartdx;CO;ALn;;;RTD A Line;co.aln;
-usartdx;CO;BLn;;;RTD B Line;co.bln;
-usartdx;CO;GLn;;;RTD G Line;co.gln;
-usartdx;CO;NLn;;;RTD N Line;co.nln;
+usartdx;CO;ALn;;;Denver RTD A Line;co.aln;
+usartdx;CO;BLn;;;Denver RTD B Line;co.bln;
+usartdx;CO;GLn;;;Denver RTD G Line;co.gln;
+usartdx;CO;NLn;;;Denver RTD N Line;co.nln;
