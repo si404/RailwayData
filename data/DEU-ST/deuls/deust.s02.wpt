@@ -1,14 +1,13 @@
-DessauHbf http://www.openstreetmap.org/?lat=51.839927&lon=12.234735
-+X682452 http://www.openstreetmap.org/?lat=51.836189&lon=12.232504
-DessauSud http://www.openstreetmap.org/?lat=51.801881&lon=12.236667
-Marke http://www.openstreetmap.org/?lat=51.739985&lon=12.257438
-Raguhn http://www.openstreetmap.org/?lat=51.708909&lon=12.270613
-Jessnitz http://www.openstreetmap.org/?lat=51.682681&lon=12.277350
-Wolfen http://www.openstreetmap.org/?lat=51.661176&lon=12.279539
-Greppin http://www.openstreetmap.org/?lat=51.645361&lon=12.298036
-+X140766 http://www.openstreetmap.org/?lat=51.628900&lon=12.318206
-+X428144 http://www.openstreetmap.org/?lat=51.625224&lon=12.317476
-Bitterfeld http://www.openstreetmap.org/?lat=51.622639&lon=12.316918
-+X312969 http://www.openstreetmap.org/?lat=51.599214&lon=12.301340
-Petersroda http://www.openstreetmap.org/?lat=51.570095&lon=12.285290
+DesHbf http://www.openstreetmap.org/?lat=51.839927&lon=12.234735
++DIV_HbfS http://www.openstreetmap.org/?lat=51.836189&lon=12.232504
+DesSud http://www.openstreetmap.org/?lat=51.801881&lon=12.236667
+Mar http://www.openstreetmap.org/?lat=51.739985&lon=12.257438
+Rag http://www.openstreetmap.org/?lat=51.708909&lon=12.270613
+Jes http://www.openstreetmap.org/?lat=51.682681&lon=12.277350
+Wol http://www.openstreetmap.org/?lat=51.661176&lon=12.279539
+Gre http://www.openstreetmap.org/?lat=51.645361&lon=12.298036
++DIV_Bit http://www.openstreetmap.org/?lat=51.628900&lon=12.318206
+BitFeld +Bitterfeld http://www.openstreetmap.org/?lat=51.622639&lon=12.316918
++DIV_Hol http://www.openstreetmap.org/?lat=51.599214&lon=12.301340
+PetRoda http://www.openstreetmap.org/?lat=51.570095&lon=12.285290
 ST/SN http://www.openstreetmap.org/?lat=51.561078&lon=12.293444
