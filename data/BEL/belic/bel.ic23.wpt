@@ -1,78 +1,76 @@
-Oostende http://www.openstreetmap.org/?lat=51.227736&lon=2.925925
+Oos +Oostende http://www.openstreetmap.org/?lat=51.227736&lon=2.925925
 +X757365 http://www.openstreetmap.org/?lat=51.217126&lon=2.942448
 +X842584 http://www.openstreetmap.org/?lat=51.197983&lon=3.055315
 +X382031 http://www.openstreetmap.org/?lat=51.210231&lon=3.193760
-+X417594 http://www.openstreetmap.org/?lat=51.204457&lon=3.209252
-Brugge http://www.openstreetmap.org/?lat=51.196995&lon=3.217278
-+X713192 http://www.openstreetmap.org/?lat=51.185049&lon=3.224208
-+X358046 http://www.openstreetmap.org/?lat=51.173323&lon=3.231418
++DIV_L2W http://www.openstreetmap.org/?lat=51.204457&lon=3.209252
+Bru +Brugge http://www.openstreetmap.org/?lat=51.196995&lon=3.217278
++DIV_IC1 http://www.openstreetmap.org/?lat=51.185049&lon=3.224208
++DIV_L2E http://www.openstreetmap.org/?lat=51.175967&lon=3.231139
++X852213 http://www.openstreetmap.org/?lat=51.169038&lon=3.226976
 +X792635 http://www.openstreetmap.org/?lat=51.159309&lon=3.192472
-Zedelgem http://www.openstreetmap.org/?lat=51.126570&lon=3.163633
-Torhout http://www.openstreetmap.org/?lat=51.064769&lon=3.105783
-+X155454 http://www.openstreetmap.org/?lat=51.027597&lon=3.122435
-Lichtervelde http://www.openstreetmap.org/?lat=51.025235&lon=3.126855
-+X524326 http://www.openstreetmap.org/?lat=51.023467&lon=3.129795
+Zed +Zedelgem http://www.openstreetmap.org/?lat=51.126570&lon=3.163633
+Tor +Torhout http://www.openstreetmap.org/?lat=51.064769&lon=3.105783
++DIV_IC29W http://www.openstreetmap.org/?lat=51.027597&lon=3.122435
+Lic +Lichtervelde http://www.openstreetmap.org/?lat=51.025235&lon=3.126855
++DIV_IC29E http://www.openstreetmap.org/?lat=51.023467&lon=3.129795
 +X903187 http://www.openstreetmap.org/?lat=50.991691&lon=3.121319
-Roeselare http://www.openstreetmap.org/?lat=50.948843&lon=3.130460
+Roe +Roeselare http://www.openstreetmap.org/?lat=50.948843&lon=3.130460
 +X575593 http://www.openstreetmap.org/?lat=50.941468&lon=3.137863
-Izegem http://www.openstreetmap.org/?lat=50.921135&lon=3.214617
-Inglemunster http://www.openstreetmap.org/?lat=50.913925&lon=3.255429
+Ize +Izegem http://www.openstreetmap.org/?lat=50.921135&lon=3.214617
+Ing +Inglemunster http://www.openstreetmap.org/?lat=50.913925&lon=3.255429
 +X788671 http://www.openstreetmap.org/?lat=50.842018&lon=3.239508
-+X126812 http://www.openstreetmap.org/?lat=50.829673&lon=3.247576
++DIV_IC4 http://www.openstreetmap.org/?lat=50.829673&lon=3.247576
 +X892091 http://www.openstreetmap.org/?lat=50.825471&lon=3.253155
-+X653127 http://www.openstreetmap.org/?lat=50.824170&lon=3.259034
-Kortrijk http://www.openstreetmap.org/?lat=50.824224&lon=3.264527
-+X263327 http://www.openstreetmap.org/?lat=50.836157&lon=3.292122
-+Vichte http://www.openstreetmap.org/?lat=50.833603&lon=3.391943
-+Anzegem http://www.openstreetmap.org/?lat=50.826284&lon=3.494811
-+X131802 http://www.openstreetmap.org/?lat=50.848535&lon=3.598623
-Oudenaarde http://www.openstreetmap.org/?lat=50.851353&lon=3.601584
-+X191396 http://www.openstreetmap.org/?lat=50.855958&lon=3.607593
-+SintDenijsBoekel http://www.openstreetmap.org/?lat=50.874194&lon=3.698487
-+Munkzwalm http://www.openstreetmap.org/?lat=50.875551&lon=3.732994
++DIV_K80 http://www.openstreetmap.org/?lat=50.824170&lon=3.259034
+Kor +Kortrijk http://www.openstreetmap.org/?lat=50.824224&lon=3.264527
++DIV_IC4 http://www.openstreetmap.org/?lat=50.836157&lon=3.292122
++SKIP_Vic http://www.openstreetmap.org/?lat=50.833603&lon=3.391943
++SKIP_Anz http://www.openstreetmap.org/?lat=50.826284&lon=3.494811
++X834073 http://www.openstreetmap.org/?lat=50.824685&lon=3.517814
++DIV_S51S http://www.openstreetmap.org/?lat=50.848535&lon=3.598623
+Oud +Oudenaarde http://www.openstreetmap.org/?lat=50.851353&lon=3.601584
++DIV_S51N http://www.openstreetmap.org/?lat=50.855958&lon=3.607593
++SKIP_StDenBoe http://www.openstreetmap.org/?lat=50.874194&lon=3.698487
++SKIP_Mun http://www.openstreetmap.org/?lat=50.875551&lon=3.732994
 +X811187 http://www.openstreetmap.org/?lat=50.856107&lon=3.798523
-+X523666 http://www.openstreetmap.org/?lat=50.862839&lon=3.813372
-Zottegem http://www.openstreetmap.org/?lat=50.868852&lon=3.814659
-+X683947 http://www.openstreetmap.org/?lat=50.873023&lon=3.814917
-+Hillegem http://www.openstreetmap.org/?lat=50.891516&lon=3.858261
-+Herzele http://www.openstreetmap.org/?lat=50.897146&lon=3.880363
-+Terhagen http://www.openstreetmap.org/?lat=50.901504&lon=3.896499
-+Burst http://www.openstreetmap.org/?lat=50.906862&lon=3.920918
++DIV_S52S http://www.openstreetmap.org/?lat=50.862839&lon=3.813372
+Zot +Zottegem http://www.openstreetmap.org/?lat=50.868852&lon=3.814659
++DIV_S52N http://www.openstreetmap.org/?lat=50.873023&lon=3.814917
++SKIP_Hil http://www.openstreetmap.org/?lat=50.891516&lon=3.858261
++SKIP_Her http://www.openstreetmap.org/?lat=50.897146&lon=3.880363
++SKIP_Ter http://www.openstreetmap.org/?lat=50.901504&lon=3.896499
++SKIP_Bur http://www.openstreetmap.org/?lat=50.906862&lon=3.920918
 +X392489 http://www.openstreetmap.org/?lat=50.907302&lon=3.923471
-+Ede http://www.openstreetmap.org/?lat=50.910969&lon=3.986986
-+Haaltert http://www.openstreetmap.org/?lat=50.906855&lon=4.023657
-+Welle http://www.openstreetmap.org/?lat=50.903080&lon=4.050801
-+X888881 http://www.openstreetmap.org/?lat=50.897968&lon=4.062243
-Denderleeuw http://www.openstreetmap.org/?lat=50.891895&lon=4.071422
-+X169109 http://www.openstreetmap.org/?lat=50.889973&lon=4.074769
-+Liedekerke http://www.openstreetmap.org/?lat=50.882561&lon=4.094896
-+X930589 http://www.openstreetmap.org/?lat=50.882470&lon=4.108018
-+X801180 http://www.openstreetmap.org/?lat=50.880145&lon=4.115968
++SKIP_Ede http://www.openstreetmap.org/?lat=50.910969&lon=3.986986
++SKIP_Haa http://www.openstreetmap.org/?lat=50.906855&lon=4.023657
++SKIP_Wel http://www.openstreetmap.org/?lat=50.903080&lon=4.050801
++DIV_S4S10 http://www.openstreetmap.org/?lat=50.897968&lon=4.062243
+Den +Denderleeuw http://www.openstreetmap.org/?lat=50.891895&lon=4.071422
++DIV_S6 http://www.openstreetmap.org/?lat=50.889973&lon=4.074769
++SKIP_Lie http://www.openstreetmap.org/?lat=50.882561&lon=4.094896
++DIV_S4 http://www.openstreetmap.org/?lat=50.882470&lon=4.108018
++DIV_IC3 http://www.openstreetmap.org/?lat=50.880145&lon=4.115968
 +X449339 http://www.openstreetmap.org/?lat=50.822821&lon=4.247203
-+Anderlecht http://www.openstreetmap.org/?lat=50.817876&lon=4.292146
-+X466472 http://www.openstreetmap.org/?lat=50.818239&lon=4.308743
++SKIP_And http://www.openstreetmap.org/?lat=50.817876&lon=4.292146
++DIV_S3S8 http://www.openstreetmap.org/?lat=50.818239&lon=4.308743
 +X191696 http://www.openstreetmap.org/?lat=50.822008&lon=4.317734
 +X727465 http://www.openstreetmap.org/?lat=50.828073&lon=4.322605
-+X128820 http://www.openstreetmap.org/?lat=50.830764&lon=4.330480
-BruxellesMidi http://www.openstreetmap.org/?lat=50.836662&lon=4.337690
-+BruxellesChapelle http://www.openstreetmap.org/?lat=50.841239&lon=4.348569
-BruxellesCentrale http://www.openstreetmap.org/?lat=50.845476&lon=4.357007
-+BruxellesCongres http://www.openstreetmap.org/?lat=50.851888&lon=4.362516
-BruxellesNord http://www.openstreetmap.org/?lat=50.860174&lon=4.361250
-+X209967 http://www.openstreetmap.org/?lat=50.869807&lon=4.365692
++DIV_S10 http://www.openstreetmap.org/?lat=50.830764&lon=4.330480
+BruMidi +BruxellesMidi http://www.openstreetmap.org/?lat=50.836662&lon=4.337690
++SKIP_BruCha http://www.openstreetmap.org/?lat=50.841239&lon=4.348569
+BruCen +BruxellesCentrale http://www.openstreetmap.org/?lat=50.845476&lon=4.357007
++SKIP_BruCon http://www.openstreetmap.org/?lat=50.851888&lon=4.362516
+BruNord +BruxellesNord http://www.openstreetmap.org/?lat=50.860174&lon=4.361250
++DIV_S3S10 http://www.openstreetmap.org/?lat=50.869807&lon=4.365692
 +X639578 http://www.openstreetmap.org/?lat=50.875792&lon=4.373953
-+Schaerbeek http://www.openstreetmap.org/?lat=50.878351&lon=4.378846
-+X859430 http://www.openstreetmap.org/?lat=50.881519&lon=4.386828
-+X141489 http://www.openstreetmap.org/?lat=50.884538&lon=4.396484
-+X288154 http://www.openstreetmap.org/?lat=50.888230&lon=4.410292
-+HarenSud http://www.openstreetmap.org/?lat=50.889702&lon=4.415689
-+X701987 http://www.openstreetmap.org/?lat=50.891435&lon=4.423285
++SKIP_Sch http://www.openstreetmap.org/?lat=50.878351&lon=4.378846
++DIV_S1 http://www.openstreetmap.org/?lat=50.881519&lon=4.386828
++DIV_IC6 http://www.openstreetmap.org/?lat=50.884538&lon=4.396484
++DIV_S2 http://www.openstreetmap.org/?lat=50.888230&lon=4.410292
++SKIP_HarSud http://www.openstreetmap.org/?lat=50.889702&lon=4.415689
++DIV_S9 http://www.openstreetmap.org/?lat=50.891435&lon=4.423285
 +X931208 http://www.openstreetmap.org/?lat=50.892003&lon=4.430966
-+Diegem http://www.openstreetmap.org/?lat=50.890000&lon=4.445300
-+Zaventem http://www.openstreetmap.org/?lat=50.884991&lon=4.473023
-+X449613 http://www.openstreetmap.org/?lat=50.883096&lon=4.483495
-+X167730 http://www.openstreetmap.org/?lat=50.886853&lon=4.488258
-BrusselsAirportZaventem http://www.openstreetmap.org/?lat=50.898337&lon=4.482336
-
-+X834073 http://www.openstreetmap.org/?lat=50.824685&lon=3.517814
-+DIV_S19 http://www.openstreetmap.org/?lat=50.883150&lon=4.488130
++SKIP_Die http://www.openstreetmap.org/?lat=50.890000&lon=4.445300
++SKIP_Zav http://www.openstreetmap.org/?lat=50.884991&lon=4.473023
++DIV_S2S9 http://www.openstreetmap.org/?lat=50.883150&lon=4.488130
+BruAirZav +BrusselsAirportZaventem http://www.openstreetmap.org/?lat=50.898337&lon=4.482336

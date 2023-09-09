@@ -1,55 +1,51 @@
-AntwerpenCentraal http://www.openstreetmap.org/?lat=51.215953&lon=4.420946
+AntCen +AntwerpenCentraal http://www.openstreetmap.org/?lat=51.215953&lon=4.420946
 +X491940 http://www.openstreetmap.org/?lat=51.206218&lon=4.426095
 +X654075 http://www.openstreetmap.org/?lat=51.201499&lon=4.430323
-AntwerpenBerchem http://www.openstreetmap.org/?lat=51.199630&lon=4.432340
-+X492074 http://www.openstreetmap.org/?lat=51.197452&lon=4.433820
-+X902473 http://www.openstreetmap.org/?lat=51.196420&lon=4.434700
-+X253348 http://www.openstreetmap.org/?lat=51.185581&lon=4.444313
-+MortselOudeGod http://www.openstreetmap.org/?lat=51.170111&lon=4.456437
-+X885766 http://www.openstreetmap.org/?lat=51.159639&lon=4.462166
-+Hove http://www.openstreetmap.org/?lat=51.153341&lon=4.465621
-+KontichLint http://www.openstreetmap.org/?lat=51.133929&lon=4.476714
+AntBer +AntwerpenBerchem http://www.openstreetmap.org/?lat=51.199630&lon=4.432340
++DIV_S32 http://www.openstreetmap.org/?lat=51.197452&lon=4.433820
++DIV_IC9 http://www.openstreetmap.org/?lat=51.196420&lon=4.434700
++DIV_S33 http://www.openstreetmap.org/?lat=51.185581&lon=4.444313
++SKIP_MorOudeGod http://www.openstreetmap.org/?lat=51.170111&lon=4.456437
++DIV_S1 http://www.openstreetmap.org/?lat=51.159639&lon=4.462166
++SKIP_Hove http://www.openstreetmap.org/?lat=51.153341&lon=4.465621
++SKIP_KonLint http://www.openstreetmap.org/?lat=51.133929&lon=4.476714
 +X495080 http://www.openstreetmap.org/?lat=51.132299&lon=4.477723
-+X129236 http://www.openstreetmap.org/?lat=51.122846&lon=4.482808
-+Duffel http://www.openstreetmap.org/?lat=51.091327&lon=4.492893
-+SintKatelijneWaver http://www.openstreetmap.org/?lat=51.070601&lon=4.495747
-+MechelenNekkerspoel http://www.openstreetmap.org/?lat=51.030255&lon=4.490232
++DIV_IC11 http://www.openstreetmap.org/?lat=51.122846&lon=4.482808
++SKIP_Duf http://www.openstreetmap.org/?lat=51.091327&lon=4.492893
++SKIP_StKatWav http://www.openstreetmap.org/?lat=51.070601&lon=4.495747
++SKIP_MecNek http://www.openstreetmap.org/?lat=51.030255&lon=4.490232
 +X524175 http://www.openstreetmap.org/?lat=51.026368&lon=4.490211
-+X547778 http://www.openstreetmap.org/?lat=51.021753&lon=4.488559
-Mechelen http://www.openstreetmap.org/?lat=51.017663&lon=4.483860
++DIV_S4 http://www.openstreetmap.org/?lat=51.021753&lon=4.488559
+Mec +Mechelen http://www.openstreetmap.org/?lat=51.017663&lon=4.483860
 +X677367 http://www.openstreetmap.org/?lat=51.014679&lon=4.479804
-+X872696 http://www.openstreetmap.org/?lat=51.000408&lon=4.476457
++DIV_S5 http://www.openstreetmap.org/?lat=51.000408&lon=4.476457
 +X787531 http://www.openstreetmap.org/?lat=50.964427&lon=4.490747
-+X408724 http://www.openstreetmap.org/?lat=50.915548&lon=4.458475
-+X792269 http://www.openstreetmap.org/?lat=50.909386&lon=4.461265
-BrusselsAirportZaventem http://www.openstreetmap.org/?lat=50.898337&lon=4.482336
-+DIV_IC8 http://www.openstreetmap.org/?lat=50.911246&lon=4.456458
-+X167730 http://www.openstreetmap.org/?lat=50.886853&lon=4.488258
++DIV_IC6 http://www.openstreetmap.org/?lat=50.911246&lon=4.456458
+BruAirZav +BrusselsAirportZaventem http://www.openstreetmap.org/?lat=50.898337&lon=4.482336
 +DIV_S19 http://www.openstreetmap.org/?lat=50.883150&lon=4.488130
-+X457683 http://www.openstreetmap.org/?lat=50.882257&lon=4.495211
-+Nossegem http://www.openstreetmap.org/?lat=50.883286&lon=4.505854
-+Kortenberg http://www.openstreetmap.org/?lat=50.892761&lon=4.541173
-+ErpsKwerps http://www.openstreetmap.org/?lat=50.896659&lon=4.586706
-+Veltem http://www.openstreetmap.org/?lat=50.900394&lon=4.632797
-+Herent http://www.openstreetmap.org/?lat=50.903757&lon=4.675176
-+X724632 http://www.openstreetmap.org/?lat=50.902586&lon=4.698887
++SKIP_Nos http://www.openstreetmap.org/?lat=50.883286&lon=4.505854
++SKIP_Kor http://www.openstreetmap.org/?lat=50.892761&lon=4.541173
++SKIP_ErpsKwe http://www.openstreetmap.org/?lat=50.896659&lon=4.586706
++SKIP_Veltem http://www.openstreetmap.org/?lat=50.900394&lon=4.632797
++SKIP_Herent http://www.openstreetmap.org/?lat=50.903757&lon=4.675176
++DIV_IC20W http://www.openstreetmap.org/?lat=50.902586&lon=4.698887
 +X674526_A http://www.openstreetmap.org/?lat=50.893979&lon=4.712663
-Leuven http://www.openstreetmap.org/?lat=50.881350&lon=4.716053
-+X674526_B http://www.openstreetmap.org/?lat=50.893979&lon=4.712663
-+X298200 http://www.openstreetmap.org/?lat=50.898019&lon=4.711740
-+X550146 http://www.openstreetmap.org/?lat=50.906104&lon=4.718585
+Leu +Leuven http://www.openstreetmap.org/?lat=50.881350&lon=4.716053
++DIV_S9 http://www.openstreetmap.org/?lat=50.893979&lon=4.712663
++DIV_L20 http://www.openstreetmap.org/?lat=50.898019&lon=4.711740
++DIV_IC20E http://www.openstreetmap.org/?lat=50.906104&lon=4.718585
 +X388296 http://www.openstreetmap.org/?lat=50.945788&lon=4.733090
-+Wezemaal http://www.openstreetmap.org/?lat=50.956386&lon=4.748154
-Aarschot http://www.openstreetmap.org/?lat=50.984491&lon=4.824028
-+X125053 http://www.openstreetmap.org/?lat=50.994027&lon=4.830937
-+X267011 http://www.openstreetmap.org/?lat=50.999105&lon=4.841366
-+Langdorp http://www.openstreetmap.org/?lat=51.002454&lon=4.863811
-+Testelt http://www.openstreetmap.org/?lat=51.009718&lon=4.946852
-+Zichem http://www.openstreetmap.org/?lat=51.006451&lon=4.988308
++SKIP_Wez http://www.openstreetmap.org/?lat=50.956386&lon=4.748154
+Aar +Aarschot http://www.openstreetmap.org/?lat=50.984491&lon=4.824028
++DIV_L28 http://www.openstreetmap.org/?lat=50.994027&lon=4.830937
++DIV_IC15 http://www.openstreetmap.org/?lat=50.999105&lon=4.841366
++SKIP_Lan http://www.openstreetmap.org/?lat=51.002454&lon=4.863811
++SKIP_Tes http://www.openstreetmap.org/?lat=51.009718&lon=4.946852
++SKIP_Zic http://www.openstreetmap.org/?lat=51.006451&lon=4.988308
 +X660823 http://www.openstreetmap.org/?lat=50.991839&lon=5.017920
-Diest http://www.openstreetmap.org/?lat=50.993109&lon=5.051093
+Die +Diest http://www.openstreetmap.org/?lat=50.993109&lon=5.051093
 +X193362 http://www.openstreetmap.org/?lat=50.991542&lon=5.060792
-+Schulen http://www.openstreetmap.org/?lat=50.964117&lon=5.185633
++SKIP_Sch http://www.openstreetmap.org/?lat=50.964117&lon=5.185633
 +X654940 http://www.openstreetmap.org/?lat=50.937946&lon=5.298972
-+X779447 http://www.openstreetmap.org/?lat=50.933943&lon=5.314937
-Hasselt http://www.openstreetmap.org/?lat=50.930657&lon=5.327511
++DIV_IC3 http://www.openstreetmap.org/?lat=50.933943&lon=5.314937
+Has +Hasselt http://www.openstreetmap.org/?lat=50.930657&lon=5.327511

@@ -1,29 +1,29 @@
-AntwerpenCentraal http://www.openstreetmap.org/?lat=51.215953&lon=4.420946
+AntCen +AntwerpenCentraal http://www.openstreetmap.org/?lat=51.215953&lon=4.420946
 +X491940 http://www.openstreetmap.org/?lat=51.206218&lon=4.426095
 +X654075 http://www.openstreetmap.org/?lat=51.201499&lon=4.430323
-AntwerpenBerchem http://www.openstreetmap.org/?lat=51.199630&lon=4.432340
-+X492074 http://www.openstreetmap.org/?lat=51.197452&lon=4.433820
-+X902473 http://www.openstreetmap.org/?lat=51.196420&lon=4.434700
+AntBer +AntwerpenBerchem http://www.openstreetmap.org/?lat=51.199630&lon=4.432340
++DIV_S32 http://www.openstreetmap.org/?lat=51.197452&lon=4.433820
++DIV_S1 http://www.openstreetmap.org/?lat=51.196420&lon=4.434700
 +X570665 http://www.openstreetmap.org/?lat=51.180439&lon=4.466372
-+X423309 http://www.openstreetmap.org/?lat=51.176323&lon=4.473281
-+Boechout http://www.openstreetmap.org/?lat=51.163131&lon=4.495125
-+X184743 http://www.openstreetmap.org/?lat=51.135268&lon=4.553447
++DIV_S33W http://www.openstreetmap.org/?lat=51.176323&lon=4.473281
++SKIP_Boe http://www.openstreetmap.org/?lat=51.163131&lon=4.495125
++DIV_IC11 http://www.openstreetmap.org/?lat=51.135268&lon=4.553447
 Lier http://www.openstreetmap.org/?lat=51.135995&lon=4.561944
-+X660014 http://www.openstreetmap.org/?lat=51.143642&lon=4.586620
-+Berlaar http://www.openstreetmap.org/?lat=51.113485&lon=4.638827
-+Melkouwen http://www.openstreetmap.org/?lat=51.094676&lon=4.671979
-HeistBerg http://www.openstreetmap.org/?lat=51.073891&lon=4.708650
-+Booischot http://www.openstreetmap.org/?lat=51.037245&lon=4.773602
-+Begijnendijk http://www.openstreetmap.org/?lat=51.022657&lon=4.799309
-+X356619 http://www.openstreetmap.org/?lat=51.000104&lon=4.832826
-+X267011 http://www.openstreetmap.org/?lat=50.999105&lon=4.841366
-+Langdorp http://www.openstreetmap.org/?lat=51.002454&lon=4.863811
-+Testelt http://www.openstreetmap.org/?lat=51.009718&lon=4.946852
-+Zichem http://www.openstreetmap.org/?lat=51.006451&lon=4.988308
++DIV_S33E http://www.openstreetmap.org/?lat=51.143642&lon=4.586620
++SKIP_Ber http://www.openstreetmap.org/?lat=51.113485&lon=4.638827
++SKIP_Mel http://www.openstreetmap.org/?lat=51.094676&lon=4.671979
+HeiBerg +HeistBerg http://www.openstreetmap.org/?lat=51.073891&lon=4.708650
++SKIP_Boo http://www.openstreetmap.org/?lat=51.037245&lon=4.773602
++SKIP_Beg http://www.openstreetmap.org/?lat=51.022657&lon=4.799309
++DIV_L23 http://www.openstreetmap.org/?lat=51.000104&lon=4.832826
++DIV_L3 http://www.openstreetmap.org/?lat=50.999105&lon=4.841366
++SKIP_Lan http://www.openstreetmap.org/?lat=51.002454&lon=4.863811
++SKIP_Tes http://www.openstreetmap.org/?lat=51.009718&lon=4.946852
++SKIP_Zic http://www.openstreetmap.org/?lat=51.006451&lon=4.988308
 +X660823 http://www.openstreetmap.org/?lat=50.991839&lon=5.017920
-Diest http://www.openstreetmap.org/?lat=50.993109&lon=5.051093
+Die +Diest http://www.openstreetmap.org/?lat=50.993109&lon=5.051093
 +X193362 http://www.openstreetmap.org/?lat=50.991542&lon=5.060792
-+Schulen http://www.openstreetmap.org/?lat=50.964117&lon=5.185633
++SKIP_Sch http://www.openstreetmap.org/?lat=50.964117&lon=5.185633
 +X654940 http://www.openstreetmap.org/?lat=50.937946&lon=5.298972
-+X779447 http://www.openstreetmap.org/?lat=50.933943&lon=5.314937
-Hasselt http://www.openstreetmap.org/?lat=50.930657&lon=5.327511
++DIV_IC3 http://www.openstreetmap.org/?lat=50.933943&lon=5.314937
+Has +Hasselt http://www.openstreetmap.org/?lat=50.930657&lon=5.327511

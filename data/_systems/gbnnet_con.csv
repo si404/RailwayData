@@ -1,3 +1,3 @@
 systemName;route;banner;groupName;roots
-gbnnet;NET1;;;eng.net1
-gbnnet;NET2;;;eng.net2
+gbnnet;NET1;;Nottingham Express Transit Line 1;eng.net1
+gbnnet;NET2;;Nottingham Express Transit Line 2;eng.net2

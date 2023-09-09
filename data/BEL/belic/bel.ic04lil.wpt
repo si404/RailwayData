@@ -1,47 +1,47 @@
-AntwerpenCentraal http://www.openstreetmap.org/?lat=51.215953&lon=4.420946
+AntCen +AntwerpenCentraal http://www.openstreetmap.org/?lat=51.215953&lon=4.420946
 +X491940 http://www.openstreetmap.org/?lat=51.206218&lon=4.426095
 +X654075 http://www.openstreetmap.org/?lat=51.201499&lon=4.430323
-AntwerpenBerchem http://www.openstreetmap.org/?lat=51.199630&lon=4.432340
-+X492074 http://www.openstreetmap.org/?lat=51.197452&lon=4.433820
+AntBer +AntwerpenBerchem http://www.openstreetmap.org/?lat=51.199630&lon=4.432340
++DIV_S1 http://www.openstreetmap.org/?lat=51.197452&lon=4.433820
 +X711000 http://www.openstreetmap.org/?lat=51.191515&lon=4.418821
-+AntwerpenZuid http://www.openstreetmap.org/?lat=51.198003&lon=4.389821
-+X833524 http://www.openstreetmap.org/?lat=51.201842&lon=4.379253
++SKIP_AntZuid http://www.openstreetmap.org/?lat=51.198003&lon=4.389821
++DIV_S32 http://www.openstreetmap.org/?lat=51.201842&lon=4.379253
 +X516262 http://www.openstreetmap.org/?lat=51.216004&lon=4.358053
-+Zwijndrecht http://www.openstreetmap.org/?lat=51.214136&lon=4.330652
++SKIP_Zwi http://www.openstreetmap.org/?lat=51.214136&lon=4.330652
 +X101105 http://www.openstreetmap.org/?lat=51.212529&lon=4.309967
 +X626847 http://www.openstreetmap.org/?lat=51.211178&lon=4.292564
-+Melsele http://www.openstreetmap.org/?lat=51.210721&lon=4.286771
-+Beveren http://www.openstreetmap.org/?lat=51.208261&lon=4.259691
-+NieuwkerkenWaas http://www.openstreetmap.org/?lat=51.185362&lon=4.185255
-+X972081 http://www.openstreetmap.org/?lat=51.173915&lon=4.151566
-SintNiklaas http://www.openstreetmap.org/?lat=51.171951&lon=4.144163
-+Belsele http://www.openstreetmap.org/?lat=51.150645&lon=4.087858
-+Sinaai http://www.openstreetmap.org/?lat=51.143269&lon=4.068203
-Lokeren http://www.openstreetmap.org/?lat=51.107544&lon=3.986320
-+X712275 http://www.openstreetmap.org/?lat=51.105051&lon=3.980763
-+Beervelde http://www.openstreetmap.org/?lat=51.087142&lon=3.879869
++SKIP_Mel http://www.openstreetmap.org/?lat=51.210721&lon=4.286771
++SKIP_Bev http://www.openstreetmap.org/?lat=51.208261&lon=4.259691
++SKIP_NieWaas http://www.openstreetmap.org/?lat=51.185362&lon=4.185255
++DIV_L27 http://www.openstreetmap.org/?lat=51.173915&lon=4.151566
+StNik +SintNiklaas http://www.openstreetmap.org/?lat=51.171951&lon=4.144163
++SKIP_Bel http://www.openstreetmap.org/?lat=51.150645&lon=4.087858
++SKIP_Sin http://www.openstreetmap.org/?lat=51.143269&lon=4.068203
+Lok +Lokeren http://www.openstreetmap.org/?lat=51.107544&lon=3.986320
++DIV_L30 http://www.openstreetmap.org/?lat=51.105051&lon=3.980763
++SKIP_Bee http://www.openstreetmap.org/?lat=51.087142&lon=3.879869
 +X442464 http://www.openstreetmap.org/?lat=51.068430&lon=3.790777
 +X125801 http://www.openstreetmap.org/?lat=51.077045&lon=3.751166
-+X712857 http://www.openstreetmap.org/?lat=51.070480&lon=3.743076
-GentDampoort http://www.openstreetmap.org/?lat=51.055983&lon=3.740652
-+Gentbrugge http://www.openstreetmap.org/?lat=51.038635&lon=3.756294
++DIV_S51 http://www.openstreetmap.org/?lat=51.070480&lon=3.743076
+GenDam +GentDampoort http://www.openstreetmap.org/?lat=51.055983&lon=3.740652
++SKIP_Gen http://www.openstreetmap.org/?lat=51.038635&lon=3.756294
 +X733723 http://www.openstreetmap.org/?lat=51.030835&lon=3.754213
-+X350625 http://www.openstreetmap.org/?lat=51.029634&lon=3.746681
-+X179333 http://www.openstreetmap.org/?lat=51.031861&lon=3.725224
-GentSintPieters http://www.openstreetmap.org/?lat=51.035575&lon=3.710879
-+X426093 http://www.openstreetmap.org/?lat=51.036928&lon=3.703551
-+X191428 http://www.openstreetmap.org/?lat=51.038938&lon=3.695526
-+Pinte http://www.openstreetmap.org/?lat=50.996566&lon=3.649521
-+Deinze http://www.openstreetmap.org/?lat=50.978149&lon=3.535001
-+X897296 http://www.openstreetmap.org/?lat=50.975494&lon=3.527620
-Waregem http://www.openstreetmap.org/?lat=50.891702&lon=3.424344
-+Harlebeke http://www.openstreetmap.org/?lat=50.856168&lon=3.314567
-+X263327 http://www.openstreetmap.org/?lat=50.836157&lon=3.292122
-Kortrijk http://www.openstreetmap.org/?lat=50.824224&lon=3.264527
-+X653127 http://www.openstreetmap.org/?lat=50.824170&lon=3.259034
++DIV_S52 http://www.openstreetmap.org/?lat=51.029634&lon=3.746681
++DIV_IC1 http://www.openstreetmap.org/?lat=51.031861&lon=3.725224
+GentStPie +GentSintPieters http://www.openstreetmap.org/?lat=51.035575&lon=3.710879
++DIV_IC2 http://www.openstreetmap.org/?lat=51.036928&lon=3.703551
++DIV_L2 http://www.openstreetmap.org/?lat=51.038938&lon=3.695526
++SKIP_Pin http://www.openstreetmap.org/?lat=50.996566&lon=3.649521
++SKIP_Dei http://www.openstreetmap.org/?lat=50.978149&lon=3.535001
++DIV_IC29 http://www.openstreetmap.org/?lat=50.975494&lon=3.527620
+War +Waregem http://www.openstreetmap.org/?lat=50.891702&lon=3.424344
++SKIP_Har http://www.openstreetmap.org/?lat=50.856168&lon=3.314567
++DIV_IC13 http://www.openstreetmap.org/?lat=50.836157&lon=3.292122
+Kor +Kortrijk http://www.openstreetmap.org/?lat=50.824224&lon=3.264527
++DIV_L66 http://www.openstreetmap.org/?lat=50.824170&lon=3.259034
 +X199865 http://www.openstreetmap.org/?lat=50.806599&lon=3.218522
 +X544718 http://www.openstreetmap.org/?lat=50.786282&lon=3.202214
 +X872421 http://www.openstreetmap.org/?lat=50.762115&lon=3.223543
 Mouscron http://www.openstreetmap.org/?lat=50.739782&lon=3.227491
-+X957987 http://www.openstreetmap.org/?lat=50.735545&lon=3.221354
++DIV_L29 http://www.openstreetmap.org/?lat=50.735545&lon=3.221354
 BEL/FRA http://www.openstreetmap.org/?lat=50.722017&lon=3.196163

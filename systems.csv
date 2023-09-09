@@ -15,7 +15,7 @@ auscm;AUS;Canberra Metro;TMred;4;preview
 ausgclr;AUS;Gold Coast Light Rail;TMred;4;preview
 ausnlr;AUS;Newcastle Light Rail;TMred;4;preview
 ausslr;AUS;Sydney Light Rail;TMred;4;preview
-ausyt;AUS;Yarra Trams;TMred;4;preview
+ausyt;AUS;Yarra Trams (Melbourne);TMred;4;preview
 autsk;AUT;S-Bahn Kärnten;TMgreen;2;preview
 autso;AUT;S-Bahn Oberösterreich;TMgreen;2;preview
 autss;AUT;S-Bahn Salzburg;TMgreen;2;preview
@@ -187,6 +187,7 @@ esptmu;ESP;Tranvia de Murcia;TMred;4;preview
 espts;ESP;Metrocentro de Sevilla;TMred;4;preview
 esptt;ESP;Tranvía de Tenerife;TMred;4;preview
 esptz;ESP;Tranvía de Zaragoza;TMred;4;preview
+eures;EUR;Eurostar;TMgray;1;preview
 euret;EUR;LeShuttle (Eurotunnel);TMgray;1;preview
 eurapm;EUR;Europe Airport People Movers (landside);TMyellow;5;preview
 eurapma;EUR;Europe Airport People Movers (airside);TMyellow;5;preview
@@ -309,7 +310,11 @@ itant;ITA;Tranviaria di Napoli;TMred;4;preview
 itatt;ITA;Tranviaria di Torino;TMred;4;preview
 itagf;ITA;Funicolari di Genova;TMyellow;5;preview
 itanfc;ITA;Funicolari di Napoli;TMyellow;5;preview
+luxcfl;LUX;Société Nationale des Chemins de Fer Luxembourgeois;TMgreen;2;preview
 luxst;LUX;Stater Tram;TMred;4;preview
+nldic;NLD;Netherlands;TMgray;1;preview
+nldre;NLD;Netherlands Sneltrein;TMgreen;2;preview
+nldrs;NLD;Netherlands Sprinter / Stoptrein;TMgreen;2;preview
 nldam;NLD;Amsterdam Metro;TMblue;3;preview
 nldrm;NLD;Rotterdam Metro;TMblue;3;preview
 nldat;NLD;Amsterdam Trams;TMred;4;preview

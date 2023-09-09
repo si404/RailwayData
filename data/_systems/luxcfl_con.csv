@@ -1,0 +1,11 @@
+systemName;route;banner;groupName;roots
+luxcfl;CFL10;;;;lux.cfl10
+luxcfl;CFL10a;;;;lux.cfl10a
+luxcfl;CFL10b;;;;lux.cfl10b
+luxcfl;CFL30;;;;lux.cfl30
+luxcfl;CFL50;;;;bel.cfl50,lux.cfl50
+luxcfl;CFL60;;;;lux.cfl60
+luxcfl;CFL60a;;;;lux.cfl60a,frages.cfl60a
+luxcfl;CFL60b;;;;lux.cfl60b
+luxcfl;CFL60a;;;;lux.cfl60c,fra-ges.cfl60c
+luxcfl;CFL70;;;;bel.cfl70,lux.cfl70

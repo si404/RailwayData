@@ -1,46 +1,43 @@
-BrusselsAirportZaventem http://www.openstreetmap.org/?lat=50.898337&lon=4.482336
+BruAirZav +BrusselsAirportZaventem http://www.openstreetmap.org/?lat=50.898337&lon=4.482336
 +DIV_IC8 http://www.openstreetmap.org/?lat=50.911246&lon=4.456458
-+DIV_S19 http://www.openstreetmap.org/?lat=50.883150&lon=4.488130
-+X792269 http://www.openstreetmap.org/?lat=50.909386&lon=4.461265
-+X895227 http://www.openstreetmap.org/?lat=50.908872&lon=4.451330
-+X756601 http://www.openstreetmap.org/?lat=50.900448&lon=4.427061
++DIV_IC17 http://www.openstreetmap.org/?lat=50.900448&lon=4.427061
 +X274574 http://www.openstreetmap.org/?lat=50.898202&lon=4.408264
-+X141489 http://www.openstreetmap.org/?lat=50.884538&lon=4.396484
-+X859430 http://www.openstreetmap.org/?lat=50.881519&lon=4.386828
-+Schaerbeek http://www.openstreetmap.org/?lat=50.878351&lon=4.378846
++DIV_IC6 http://www.openstreetmap.org/?lat=50.884538&lon=4.396484
++DIV_S2 http://www.openstreetmap.org/?lat=50.881519&lon=4.386828
++SKIP_Sch http://www.openstreetmap.org/?lat=50.878351&lon=4.378846
 +X639578 http://www.openstreetmap.org/?lat=50.875792&lon=4.373953
-+X209967 http://www.openstreetmap.org/?lat=50.869807&lon=4.365692
-BruxellesNord http://www.openstreetmap.org/?lat=50.860174&lon=4.361250
-+BruxellesCongres http://www.openstreetmap.org/?lat=50.851888&lon=4.362516
-BruxellesCentrale http://www.openstreetmap.org/?lat=50.845476&lon=4.357007
-+BruxellesChapelle http://www.openstreetmap.org/?lat=50.841239&lon=4.348569
-BruxellesMidi http://www.openstreetmap.org/?lat=50.836662&lon=4.337690
-+X128820 http://www.openstreetmap.org/?lat=50.830764&lon=4.330480
-+X363659 http://www.openstreetmap.org/?lat=50.829029&lon=4.328270
-+X585522 http://www.openstreetmap.org/?lat=50.823444&lon=4.321361
-+ForestMidi http://www.openstreetmap.org/?lat=50.807786&lon=4.308400
-+Ruisbroek http://www.openstreetmap.org/?lat=50.791118&lon=4.294968
-+Lot http://www.openstreetmap.org/?lat=50.765956&lon=4.273424
-+Buizingen http://www.openstreetmap.org/?lat=50.751357&lon=4.258468
-+X209000 http://www.openstreetmap.org/?lat=50.749307&lon=4.256301
-+Halle http://www.openstreetmap.org/?lat=50.733746&lon=4.240508
-+X434151 http://www.openstreetmap.org/?lat=50.730242&lon=4.236302
-+Lembeek http://www.openstreetmap.org/?lat=50.714022&lon=4.220617
-+X996905 http://www.openstreetmap.org/?lat=50.709079&lon=4.215585
-+Tubize http://www.openstreetmap.org/?lat=50.691687&lon=4.205832
-+Hennuyeres http://www.openstreetmap.org/?lat=50.651216&lon=4.176521
-BraineComte http://www.openstreetmap.org/?lat=50.605460&lon=4.138713
-+X506487 http://www.openstreetmap.org/?lat=50.597547&lon=4.129229
++DIV_S3S10 http://www.openstreetmap.org/?lat=50.869807&lon=4.365692
+BruNord +BruxellesNord http://www.openstreetmap.org/?lat=50.860174&lon=4.361250
++SKIP_BruCongres http://www.openstreetmap.org/?lat=50.851888&lon=4.362516
+BruCen +BruxellesCentrale http://www.openstreetmap.org/?lat=50.845476&lon=4.357007
++SKIP_BruCha http://www.openstreetmap.org/?lat=50.841239&lon=4.348569
+BruMidi +BruxellesMidi http://www.openstreetmap.org/?lat=50.836662&lon=4.337690
++DIV_S10 http://www.openstreetmap.org/?lat=50.830764&lon=4.330480
++DIV_S1 http://www.openstreetmap.org/?lat=50.829029&lon=4.328270
++DIV_S3 http://www.openstreetmap.org/?lat=50.823444&lon=4.321361
++SKIP_ForMidi http://www.openstreetmap.org/?lat=50.807786&lon=4.308400
++SKIP_Rui http://www.openstreetmap.org/?lat=50.791118&lon=4.294968
++SKIP_Lot http://www.openstreetmap.org/?lat=50.765956&lon=4.273424
++SKIP_Bui http://www.openstreetmap.org/?lat=50.751357&lon=4.258468
++DIV_S7 http://www.openstreetmap.org/?lat=50.749307&lon=4.256301
++SKIP_Hal http://www.openstreetmap.org/?lat=50.733746&lon=4.240508
++DIV_S5 http://www.openstreetmap.org/?lat=50.730242&lon=4.236302
++SKIP_Lem http://www.openstreetmap.org/?lat=50.714022&lon=4.220617
++DIV_HS1 http://www.openstreetmap.org/?lat=50.709079&lon=4.215585
++SKIP_Tub http://www.openstreetmap.org/?lat=50.691687&lon=4.205832
++SKIP_Hen http://www.openstreetmap.org/?lat=50.651216&lon=4.176521
+BraCom +BraineComte http://www.openstreetmap.org/?lat=50.605460&lon=4.138713
++DIV_L19 http://www.openstreetmap.org/?lat=50.597547&lon=4.129229
 +X686861 http://www.openstreetmap.org/?lat=50.586329&lon=4.112706
-Soignies http://www.openstreetmap.org/?lat=50.573085&lon=4.069319
-+Neufvilles http://www.openstreetmap.org/?lat=50.543395&lon=4.010396
-+MasnuySaintPierre http://www.openstreetmap.org/?lat=50.536385&lon=3.961687
+Soi +Soignies http://www.openstreetmap.org/?lat=50.573085&lon=4.069319
++SKIP_Neu http://www.openstreetmap.org/?lat=50.543395&lon=4.010396
++SKIP_MasStPie http://www.openstreetmap.org/?lat=50.536385&lon=3.961687
 +X537683 http://www.openstreetmap.org/?lat=50.535662&lon=3.925037
-+X659112 http://www.openstreetmap.org/?lat=50.531994&lon=3.913579
-Jurbise http://www.openstreetmap.org/?lat=50.530220&lon=3.909974
-+Erbisoeul http://www.openstreetmap.org/?lat=50.507126&lon=3.887937
++DIV_L29 http://www.openstreetmap.org/?lat=50.531994&lon=3.913579
+Jur +Jurbise http://www.openstreetmap.org/?lat=50.530220&lon=3.909974
++SKIP_Erb http://www.openstreetmap.org/?lat=50.507126&lon=3.887937
 +X917782 http://www.openstreetmap.org/?lat=50.494634&lon=3.889246
-+Ghlin http://www.openstreetmap.org/?lat=50.487480&lon=3.906326
++SKIP_Ghl http://www.openstreetmap.org/?lat=50.487480&lon=3.906326
 +X185536 http://www.openstreetmap.org/?lat=50.478729&lon=3.941088
-+X256985 http://www.openstreetmap.org/?lat=50.465024&lon=3.949714
++DIV_L26 http://www.openstreetmap.org/?lat=50.465024&lon=3.949714
 Mons http://www.openstreetmap.org/?lat=50.455305&lon=3.943233

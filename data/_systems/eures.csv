@@ -1,0 +1,8 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+eures;ENG;LonPar;;;Eurostar (London - Paris);eng.lonpar;
+eures;FRA-HDF;LonPar;;;Eurostar (London - Paris);frahdf.lonpar;
+eures;FRA-IDF;LonPar;;;Eurostar (London - Paris);fraidf.lonpar;
+eures;ENG;LonAms;;;Eurostar (London - Amsterdam);eng.lonams;
+eures;FRA-HDF;LonAms;;;Eurostar (London - Amsterdam);frahdf.lonams;
+eures;BEL;LonAms;;;Eurostar (London - Amsterdam);bel.lonams;
+eures;NLD;LonAms;;;Eurostar (London - Amsterdam);nld.lonams;

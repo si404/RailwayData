@@ -1,9 +1,9 @@
 systemName;route;banner;groupName;roots
-gbnman;MetLnk;;Metrolink (Manchester Airport - Victoria);eng.metlnkmav
-gbnman;MetLnk;;Metrolink (Altrincham - Bury);eng.metlnkalb
-gbnman;MetLnk;;Metrolink (Altrincham - Piccadilly);eng.metlnkalp
-gbnman;MetLnk;;Metrolink (East Didsbury - Rochdale);eng.metlnkedr
-gbnman;MetLnk;;Metrolink (East Didsbury - Shaw);eng.metlnkeds
-gbnman;MetLnk;;Metrolink (Trafford Centre - Cornbrook);eng.metlnktcc
-gbnman;MetLnk;;Metrolink (Eccles - Ashton-under-Lyne);eng.metlnkeal
-gbnman;MetLnk;;Metrolink (Piccadilly - Bury);eng.metlnkpby
+gbnman;MetLnk;;Manchester Metrolink (Airport - Victoria);eng.metlnkmav
+gbnman;MetLnk;;Manchester Metrolink (Altrincham - Bury);eng.metlnkalb
+gbnman;MetLnk;;Manchester Metrolink (Altrincham - Piccadilly);eng.metlnkalp
+gbnman;MetLnk;;Manchester Metrolink (East Didsbury - Rochdale);eng.metlnkedr
+gbnman;MetLnk;;Manchester Metrolink (East Didsbury - Shaw);eng.metlnkeds
+gbnman;MetLnk;;Manchester Metrolink (Trafford Centre - Cornbrook);eng.metlnktcc
+gbnman;MetLnk;;Manchester Metrolink (Eccles - Ashton-under-Lyne);eng.metlnkeal
+gbnman;MetLnk;;Manchester Metrolink (Piccadilly - Bury);eng.metlnkpby
