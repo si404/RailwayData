@@ -1,0 +1,15 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+luxcfl;LUX;CFL10;;;;lux.cfl10;
+luxcfl;LUX;CFL10a;;;;lux.cfl10a;
+luxcfl;LUX;CFL10b;;;;lux.cfl10b;
+luxcfl;LUX;CFL30;;;;lux.cfl30;
+luxcfl;BEL;CFL50;;;;bel.cfl50;
+luxcfl;LUX;CFL50;;;;lux.cfl50;
+luxcfl;LUX;CFL60;;;;lux.cfl60;
+luxcfl;LUX;CFL60a;;;;lux.cfl60a;
+luxcfl;FRA-GES;CFL60a;;;;frages.cfl60a;
+luxcfl;LUX;CFL60b;;;;lux.cfl60b;
+luxcfl;LUX;CFL60c;;;;lux.cfl60c;
+luxcfl;FRA-GES;CFL60c;;;;frages.cfl60c;
+luxcfl;BEL;CFL70;;;;bel.cfl70;
+luxcfl;LUX;CFL70;;;;lux.cfl70;

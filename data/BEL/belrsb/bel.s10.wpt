@@ -1,54 +1,54 @@
-Denm +Dendermonde http://www.openstreetmap.org/?lat=51.022805&lon=4.100883
+Denm http://www.openstreetmap.org/?lat=51.022805&lon=4.100883
 +DIV_L30 http://www.openstreetmap.org/?lat=51.023929&lon=4.106698
 +DIV_L2 http://www.openstreetmap.org/?lat=51.023139&lon=4.114573
-StGil +SintGillis http://www.openstreetmap.org/?lat=51.021149&lon=4.118468
-Leb +Lebbeke http://www.openstreetmap.org/?lat=51.005047&lon=4.134464
-Hei +Heizijde http://www.openstreetmap.org/?lat=50.989516&lon=4.156265
-Opw +Opwijk http://www.openstreetmap.org/?lat=50.974724&lon=4.187250
-Mer +Merchtem http://www.openstreetmap.org/?lat=50.953953&lon=4.223685
-Mol +Mollem http://www.openstreetmap.org/?lat=50.932726&lon=4.216475
+StGil http://www.openstreetmap.org/?lat=51.021149&lon=4.118468
+Leb http://www.openstreetmap.org/?lat=51.005047&lon=4.134464
+Hei http://www.openstreetmap.org/?lat=50.989516&lon=4.156265
+Opw http://www.openstreetmap.org/?lat=50.974724&lon=4.187250
+Mer http://www.openstreetmap.org/?lat=50.953953&lon=4.223685
+Mol http://www.openstreetmap.org/?lat=50.932726&lon=4.216475
 +X247832 http://www.openstreetmap.org/?lat=50.920770&lon=4.204974
 Asse http://www.openstreetmap.org/?lat=50.906348&lon=4.208407
 +X373402 http://www.openstreetmap.org/?lat=50.896551&lon=4.224629
-Zel +Zelik http://www.openstreetmap.org/?lat=50.889296&lon=4.275699
+Zel http://www.openstreetmap.org/?lat=50.889296&lon=4.275699
 +DIV_S4S10 http://www.openstreetmap.org/?lat=50.879935&lon=4.315245
-Jet_1 +Jette_1 http://www.openstreetmap.org/?lat=50.880937&lon=4.328227
+Jet_1 http://www.openstreetmap.org/?lat=50.880937&lon=4.328227
 +DIV_S3S4 http://www.openstreetmap.org/?lat=50.880727&lon=4.344535
 +DIV_6 http://www.openstreetmap.org/?lat=50.876635&lon=4.346756
-+SKIP_Pannenhuis http://www.openstreetmap.org/?lat=50.873432&lon=4.343011
-TourTax +TourTaxis http://www.openstreetmap.org/?lat=50.871780&lon=4.341048
++SKIP_Pan http://www.openstreetmap.org/?lat=50.873432&lon=4.343011
+TourTax http://www.openstreetmap.org/?lat=50.871780&lon=4.341048
 +SKIP_Bel http://www.openstreetmap.org/?lat=50.867664&lon=4.335920
-Sim +Simonis http://www.openstreetmap.org/?lat=50.863157&lon=4.330587
+Sim http://www.openstreetmap.org/?lat=50.863157&lon=4.330587
 +SKIP_Oss http://www.openstreetmap.org/?lat=50.856873&lon=4.325116
 +DIV_15 http://www.openstreetmap.org/?lat=50.855969&lon=4.324687
 +SKIP_Bee http://www.openstreetmap.org/?lat=50.853436&lon=4.323002
-GareOue +GareOuest http://www.openstreetmap.org/?lat=50.850306&lon=4.321929
+GareOue http://www.openstreetmap.org/?lat=50.850306&lon=4.321929
 +SKIP_JacBrel http://www.openstreetmap.org/?lat=50.843769&lon=4.318056
 +DIV_5 http://www.openstreetmap.org/?lat=50.843210&lon=4.317960
 +X497836 http://www.openstreetmap.org/?lat=50.831116&lon=4.323442
 +DIV_S2 http://www.openstreetmap.org/?lat=50.830764&lon=4.330480
-BruMidi +BruxellesMidi http://www.openstreetmap.org/?lat=50.836662&lon=4.337690
+BruMidi http://www.openstreetmap.org/?lat=50.836662&lon=4.337690
 +SKIP_BruCha http://www.openstreetmap.org/?lat=50.841239&lon=4.348569
-BruCen +BruxellesCentrale http://www.openstreetmap.org/?lat=50.845476&lon=4.357007
+BruCen http://www.openstreetmap.org/?lat=50.845476&lon=4.357007
 +SKIP_BruCon http://www.openstreetmap.org/?lat=50.851888&lon=4.362516
-BruNord +BruxellesNord http://www.openstreetmap.org/?lat=50.860174&lon=4.361250
+BruNord http://www.openstreetmap.org/?lat=50.860174&lon=4.361250
 +DIV_S1 http://www.openstreetmap.org/?lat=50.869807&lon=4.365692
 +DIV_S4 http://www.openstreetmap.org/?lat=50.874424&lon=4.363847
 +X384259 http://www.openstreetmap.org/?lat=50.877403&lon=4.355006
-Boc +Bockstael http://www.openstreetmap.org/?lat=50.878770&lon=4.347947
+Boc http://www.openstreetmap.org/?lat=50.878770&lon=4.347947
 +DIV_S10 http://www.openstreetmap.org/?lat=50.880727&lon=4.344535
-Jet_2 +Jette_2 http://www.openstreetmap.org/?lat=50.880937&lon=4.328227
+Jet_2 http://www.openstreetmap.org/?lat=50.880937&lon=4.328227
 +DIV_S3S10 http://www.openstreetmap.org/?lat=50.879935&lon=4.315245
-Ber +Berchem http://www.openstreetmap.org/?lat=50.872728&lon=4.290161
-GroBij +GrootBijgaarden http://www.openstreetmap.org/?lat=50.868358&lon=4.273832
-Dil +Dilbeek http://www.openstreetmap.org/?lat=50.866218&lon=4.244864
-StMarBod +SintMartensBodegem http://www.openstreetmap.org/?lat=50.867261&lon=4.206347
-Ter +Ternat http://www.openstreetmap.org/?lat=50.874638&lon=4.165878
-EssLom +EssenLombeek http://www.openstreetmap.org/?lat=50.882399&lon=4.117041
+Ber http://www.openstreetmap.org/?lat=50.872728&lon=4.290161
+GroBij http://www.openstreetmap.org/?lat=50.868358&lon=4.273832
+Dil http://www.openstreetmap.org/?lat=50.866218&lon=4.244864
+StMarBod http://www.openstreetmap.org/?lat=50.867261&lon=4.206347
+Ter http://www.openstreetmap.org/?lat=50.874638&lon=4.165878
+EssLom http://www.openstreetmap.org/?lat=50.882399&lon=4.117041
 +DIV_S8 http://www.openstreetmap.org/?lat=50.882470&lon=4.108018
-Lie +Liedekerke http://www.openstreetmap.org/?lat=50.882561&lon=4.094896
+Lie http://www.openstreetmap.org/?lat=50.882561&lon=4.094896
 +DIV_S6 http://www.openstreetmap.org/?lat=50.889973&lon=4.074769
-Denl +Denderleeuw http://www.openstreetmap.org/?lat=50.891895&lon=4.071422
+Denl http://www.openstreetmap.org/?lat=50.891895&lon=4.071422
 +DIV_S3 http://www.openstreetmap.org/?lat=50.897968&lon=4.062243
-Ere +Erembodgem http://www.openstreetmap.org/?lat=50.919661&lon=4.055457
-Aal +Aalst http://www.openstreetmap.org/?lat=50.942921&lon=4.039278
+Ere http://www.openstreetmap.org/?lat=50.919661&lon=4.055457
+Aal http://www.openstreetmap.org/?lat=50.942921&lon=4.039278

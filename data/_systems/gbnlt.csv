@@ -1,6 +1,6 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-gbnlt;ENG;TLnk;;CNA;Tramlink (Croydon - New Addington);eng.tlnkcna;
-gbnlt;ENG;TLnk;;WEE;Tramlink (Wimbledon - Elmers End);eng.tlnkwee;
-gbnlt;ENG;TLnk;;EEW;Tramlink (Elmers End - Wimbledon);eng.tlnkeew;
-gbnlt;ENG;TLnk;;WBJ;Tramlink (Wimbledon - Beckenham Jct);eng.tlnkwbj;
-gbnlt;ENG;TLnk;;BJW;Tramlink (Beckenham Jct - Wimbledon);eng.tlnkbjw;
+gbnlt;ENG;TLnk;;CNA;London Tramlink (Croydon - New Addington);eng.tlnkcna;
+gbnlt;ENG;TLnk;;WEE;London Tramlink (Wimbledon - Elmers End);eng.tlnkwee;
+gbnlt;ENG;TLnk;;EEW;London Tramlink (Elmers End - Wimbledon);eng.tlnkeew;
+gbnlt;ENG;TLnk;;WBJ;London Tramlink (Wimbledon - Beckenham Jct);eng.tlnkwbj;
+gbnlt;ENG;TLnk;;BJW;London Tramlink (Beckenham Jct - Wimbledon);eng.tlnkbjw;

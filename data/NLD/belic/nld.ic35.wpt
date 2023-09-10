@@ -1,4 +1,4 @@
-AmsCen AmsterdamCentraal http://www.openstreetmap.org/?lat=52.378959&lon=4.900761
+AmsCen http://www.openstreetmap.org/?lat=52.378959&lon=4.900761
 +X566067 http://www.openstreetmap.org/?lat=52.385600&lon=4.884067
 +X345661 http://www.openstreetmap.org/?lat=52.388730&lon=4.873145
 +SKIP_Isl http://www.openstreetmap.org/?lat=52.395349&lon=4.850764
@@ -11,7 +11,7 @@ AmsCen AmsterdamCentraal http://www.openstreetmap.org/?lat=52.378959&lon=4.90076
 +SKIP_HenkSne http://www.openstreetmap.org/?lat=52.346279&lon=4.834349
 +DIV_5051 http://www.openstreetmap.org/?lat=52.339613&lon=4.834242
 +X513549 http://www.openstreetmap.org/?lat=52.325386&lon=4.782400
-SchAir SchipholAirport http://www.openstreetmap.org/?lat=52.309515&lon=4.762273
+SchAir http://www.openstreetmap.org/?lat=52.309515&lon=4.762273
 +SKIP_Hoo http://www.openstreetmap.org/?lat=52.292824&lon=4.698801
 +X138485 http://www.openstreetmap.org/?lat=52.260554&lon=4.648032
 +X640994 http://www.openstreetmap.org/?lat=52.194127&lon=4.608293
@@ -22,7 +22,7 @@ SchAir SchipholAirport http://www.openstreetmap.org/?lat=52.309515&lon=4.762273
 +X610163 http://www.openstreetmap.org/?lat=51.926464&lon=4.448304
 +X229567 http://www.openstreetmap.org/?lat=51.923341&lon=4.456522
 +X208176 http://www.openstreetmap.org/?lat=51.923937&lon=4.462359
-RotCen RotterdamCentraal http://www.openstreetmap.org/?lat=51.924995&lon=4.469161
+RotCen http://www.openstreetmap.org/?lat=51.924995&lon=4.469161
 +X884214 http://www.openstreetmap.org/?lat=51.925995&lon=4.478860
 +SKIP_RotBla http://www.openstreetmap.org/?lat=51.919874&lon=4.489310
 +SKIP_RotZuid http://www.openstreetmap.org/?lat=51.904871&lon=4.509759
@@ -37,12 +37,12 @@ RotCen RotterdamCentraal http://www.openstreetmap.org/?lat=51.924995&lon=4.46916
 +X363262 http://www.openstreetmap.org/?lat=51.689898&lon=4.663053
 +X168611 http://www.openstreetmap.org/?lat=51.662328&lon=4.681635
 +X862102 http://www.openstreetmap.org/?lat=51.649794&lon=4.690819
-+X217359 http://www.openstreetmap.org/?lat=51.609669&lon=4.718564
++DIV_BreN http://www.openstreetmap.org/?lat=51.609669&lon=4.718564
 +SKIP_BrePri http://www.openstreetmap.org/?lat=51.605638&lon=4.721375
-+X559195 http://www.openstreetmap.org/?lat=51.592709&lon=4.751673
-Bre Breda http://www.openstreetmap.org/?lat=51.595335&lon=4.779997
-+X559195 http://www.openstreetmap.org/?lat=51.592709&lon=4.751673
++DIV_BreA http://www.openstreetmap.org/?lat=51.592709&lon=4.751673
+Bre http://www.openstreetmap.org/?lat=51.595335&lon=4.779997
++DIV_BreB http://www.openstreetmap.org/?lat=51.592709&lon=4.751673
 +X118019 http://www.openstreetmap.org/?lat=51.593642&lon=4.731588
-+X108336 http://www.openstreetmap.org/?lat=51.588663&lon=4.725022
++DIV_BreS http://www.openstreetmap.org/?lat=51.588663&lon=4.725022
 +X670969 http://www.openstreetmap.org/?lat=51.515353&lon=4.744205
 NLD/BEL http://www.openstreetmap.org/?lat=51.485699&lon=4.734550

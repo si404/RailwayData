@@ -1,28 +1,28 @@
-AntwerpenCentraal http://www.openstreetmap.org/?lat=51.215953&lon=4.420946
+AntCen +AntwerpenCentraal http://www.openstreetmap.org/?lat=51.215953&lon=4.420946
 +X491940 http://www.openstreetmap.org/?lat=51.206218&lon=4.426095
 +X654075 http://www.openstreetmap.org/?lat=51.201499&lon=4.430323
-AntwerpenBerchem http://www.openstreetmap.org/?lat=51.199630&lon=4.432340
-+X492074 http://www.openstreetmap.org/?lat=51.197452&lon=4.433820
-+X902473 http://www.openstreetmap.org/?lat=51.196420&lon=4.434700
+AntBer +AntwerpenBerchem http://www.openstreetmap.org/?lat=51.199630&lon=4.432340
++DIV_S32 http://www.openstreetmap.org/?lat=51.197452&lon=4.433820
++DIV_S1 http://www.openstreetmap.org/?lat=51.196420&lon=4.434700
 +X570665 http://www.openstreetmap.org/?lat=51.180439&lon=4.466372
-+X423309 http://www.openstreetmap.org/?lat=51.176323&lon=4.473281
-+Boechout http://www.openstreetmap.org/?lat=51.163131&lon=4.495125
-+X184743 http://www.openstreetmap.org/?lat=51.135268&lon=4.553447
++DIV_S33 http://www.openstreetmap.org/?lat=51.176323&lon=4.473281
++SKIP_Boe http://www.openstreetmap.org/?lat=51.163131&lon=4.495125
++DIV_IC11 http://www.openstreetmap.org/?lat=51.135268&lon=4.553447
 Lier http://www.openstreetmap.org/?lat=51.135995&lon=4.561944
-+X660014 http://www.openstreetmap.org/?lat=51.143642&lon=4.586620
-+Kessel http://www.openstreetmap.org/?lat=51.150830&lon=4.617991
-+Nijlen http://www.openstreetmap.org/?lat=51.159794&lon=4.666529
-+Bouwel http://www.openstreetmap.org/?lat=51.165634&lon=4.746351
-+Wolfstee http://www.openstreetmap.org/?lat=51.168594&lon=4.785018
++DIV_L28 http://www.openstreetmap.org/?lat=51.143642&lon=4.586620
++SKIP_Kes http://www.openstreetmap.org/?lat=51.150830&lon=4.617991
++SKIP_Nij http://www.openstreetmap.org/?lat=51.159794&lon=4.666529
++SKIP_Bou http://www.openstreetmap.org/?lat=51.165634&lon=4.746351
++SKIP_Wol http://www.openstreetmap.org/?lat=51.168594&lon=4.785018
 +X570134 http://www.openstreetmap.org/?lat=51.171958&lon=4.804287
-Herentals http://www.openstreetmap.org/?lat=51.181132&lon=4.828620
-+X705434 http://www.openstreetmap.org/?lat=51.187400&lon=4.836860
+Her +Herentals http://www.openstreetmap.org/?lat=51.181132&lon=4.828620
++DIV_IC30 http://www.openstreetmap.org/?lat=51.187400&lon=4.836860
 Olen http://www.openstreetmap.org/?lat=51.174029&lon=4.902177
 Geel http://www.openstreetmap.org/?lat=51.168998&lon=4.989510
 Mol http://www.openstreetmap.org/?lat=51.190607&lon=5.114479
-+X649279 http://www.openstreetmap.org/?lat=51.192813&lon=5.128148
-Lommel http://www.openstreetmap.org/?lat=51.211575&lon=5.312104
-Overpelt http://www.openstreetmap.org/?lat=51.215688&lon=5.424156
-Neerpelt http://www.openstreetmap.org/?lat=51.221924&lon=5.437331
++DIV_L5 http://www.openstreetmap.org/?lat=51.192813&lon=5.128148
+Lom +Lommel http://www.openstreetmap.org/?lat=51.211575&lon=5.312104
+Ove +Overpelt http://www.openstreetmap.org/?lat=51.215688&lon=5.424156
+Nee +Neerpelt http://www.openstreetmap.org/?lat=51.221924&lon=5.437331
 +X871868 http://www.openstreetmap.org/?lat=51.236087&lon=5.441623
-Haumont http://www.openstreetmap.org/?lat=51.246135&lon=5.542603
+Hau +Haumont http://www.openstreetmap.org/?lat=51.246135&lon=5.542603
