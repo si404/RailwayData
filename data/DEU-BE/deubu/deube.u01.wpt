@@ -1,16 +1,15 @@
-Uhlandstrasse http://www.openstreetmap.org/?lat=52.502805&lon=13.326695
-Kurfurstendamm http://www.openstreetmap.org/?lat=52.503804&lon=13.331405
-+X918640 http://www.openstreetmap.org/?lat=52.504072&lon=13.336941
-+X860287 http://www.openstreetmap.org/?lat=52.502609&lon=13.340600
-Wittenbergplatz http://www.openstreetmap.org/?lat=52.501835&lon=13.342981
-Nollendorfplatz http://www.openstreetmap.org/?lat=52.499566&lon=13.353742
-Kurfurstenstrasse http://www.openstreetmap.org/?lat=52.499971&lon=13.361939
-Gleisdreieck http://www.openstreetmap.org/?lat=52.499494&lon=13.374192
-+X219944 http://www.openstreetmap.org/?lat=52.499430&lon=13.376053
-Mockernbrucke http://www.openstreetmap.org/?lat=52.498893&lon=13.382968
-HalleschesTor http://www.openstreetmap.org/?lat=52.497773&lon=13.391519
-Prinzenstrasse http://www.openstreetmap.org/?lat=52.498348&lon=13.405895
-KottbusserTor http://www.openstreetmap.org/?lat=52.498984&lon=13.418308
-GorlitzerBahnhof http://www.openstreetmap.org/?lat=52.499259&lon=13.428029
-SchlesischesTor http://www.openstreetmap.org/?lat=52.500831&lon=13.441483
-WarschauerStrasse http://www.openstreetmap.org/?lat=52.506368&lon=13.449605
+UhlStr +Uhlandstrasse http://www.openstreetmap.org/?lat=52.502805&lon=13.326695
+KurFurDamm http://www.openstreetmap.org/?lat=52.503804&lon=13.331405
++DIV_EurCen http://www.openstreetmap.org/?lat=52.504072&lon=13.336941
++DIV_PasStr http://www.openstreetmap.org/?lat=52.502756&lon=13.340203
+WitBergPla http://www.openstreetmap.org/?lat=52.501835&lon=13.342981
+NolDorfPla http://www.openstreetmap.org/?lat=52.499566&lon=13.353742
+KurFurStr http://www.openstreetmap.org/?lat=52.500137&lon=13.361403
+GleDre http://www.openstreetmap.org/?lat=52.499494&lon=13.374192
+MocBru http://www.openstreetmap.org/?lat=52.499112&lon=13.382828
+HalTor http://www.openstreetmap.org/?lat=52.497779&lon=13.390285
+PriStr http://www.openstreetmap.org/?lat=52.498406&lon=13.405477
+KotTor http://www.openstreetmap.org/?lat=52.498968&lon=13.417879
+GorBf http://www.openstreetmap.org/?lat=52.499259&lon=13.428029
+SchTor http://www.openstreetmap.org/?lat=52.500831&lon=13.441483
+WarStr +WarschauerStrasse http://www.openstreetmap.org/?lat=52.504976&lon=13.448982
