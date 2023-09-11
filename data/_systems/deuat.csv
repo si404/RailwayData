@@ -1,5 +1,6 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-deuat;DEU-BY;1;;Aug;Augsburg;deuby.01aug;
+deuat;DEU-BY;1;;Aug;Augsburg (Göggingen bound);deuby.01aug;
+deuat;DEU-BY;1;;Lec;Augsburg (Lechhausen bound);deuby.01lec;
 deuat;DEU-BY;2;;Aug;Augsburg;deuby.02aug;
 deuat;DEU-BY;3;;Aug;Augsburg;deuby.03aug;
 deuat;DEU-BY;4;;Aug;Augsburg;deuby.04aug;
