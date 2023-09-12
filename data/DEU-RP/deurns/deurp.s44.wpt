@@ -1,6 +1,6 @@
-LudwigshafenBASFNord http://www.openstreetmap.org/?lat=49.520048&lon=8.427930
-LudwigshafenBASFMitte http://www.openstreetmap.org/?lat=49.511313&lon=8.431599
-LudwigshafenBASFSud http://www.openstreetmap.org/?lat=49.493992&lon=8.438916
-+X766584 http://www.openstreetmap.org/?lat=49.487148&lon=8.442285
-+X779996 http://www.openstreetmap.org/?lat=49.480331&lon=8.431320
-LudwigshafenHbf http://www.openstreetmap.org/?lat=49.476999&lon=8.433530
+LudHafBASFNord http://www.openstreetmap.org/?lat=49.520048&lon=8.427930
+LudHafBASFMit http://www.openstreetmap.org/?lat=49.511313&lon=8.431599
+LudHafBASFSud http://www.openstreetmap.org/?lat=49.493992&lon=8.438916
++X76 http://www.openstreetmap.org/?lat=49.487148&lon=8.442285
++X77 http://www.openstreetmap.org/?lat=49.480331&lon=8.431320
+LudHafHbf http://www.openstreetmap.org/?lat=49.476999&lon=8.433530

@@ -1,15 +1,14 @@
-Hbf +Hauptbahnhof http://www.openstreetmap.org/?lat=48.365470&lon=10.885681
-Konigsplatz http://www.openstreetmap.org/?lat=48.365249&lon=10.894500
-TheodorHeussPlatzIHK http://www.openstreetmap.org/?lat=48.360291&lon=10.897579
-RotesTor http://www.openstreetmap.org/?lat=48.358619&lon=10.902364
-HaunstetterStrasseBahnhof http://www.openstreetmap.org/?lat=48.354916&lon=10.901978
-Schertlinstrasse http://www.openstreetmap.org/?lat=48.351586&lon=10.902214
-VonParsevalStrasse http://www.openstreetmap.org/?lat=48.348171&lon=10.900626
-Fachoverschule http://www.openstreetmap.org/?lat=48.343279&lon=10.900369
-+X704554 http://www.openstreetmap.org/?lat=48.340851&lon=10.899811
-BukowinaInstituePCI http://www.openstreetmap.org/?lat=48.338055&lon=10.899285
-Universitat http://www.openstreetmap.org/?lat=48.333876&lon=10.898824
-BBWInstitutePhysik http://www.openstreetmap.org/?lat=48.330117&lon=10.898899
-InnovationsparkLfU http://www.openstreetmap.org/?lat=48.326486&lon=10.898030
-+X602459 http://www.openstreetmap.org/?lat=48.325780&lon=10.897343
-FussballArena http://www.openstreetmap.org/?lat=48.325748&lon=10.890777
+Hbf +Hauptbahnhof http://www.openstreetmap.org/?lat=48.365766&lon=10.887666
+KonPla http://www.openstreetmap.org/?lat=48.365392&lon=10.894468
+TheHeuPlaIHK http://www.openstreetmap.org/?lat=48.360291&lon=10.897579
+RotTor http://www.openstreetmap.org/?lat=48.358619&lon=10.902364
+HaunSteStrBf http://www.openstreetmap.org/?lat=48.354916&lon=10.901978
+ScheStr http://www.openstreetmap.org/?lat=48.351840&lon=10.902241
+ParStr http://www.openstreetmap.org/?lat=48.348171&lon=10.900626
+FachOberSch http://www.openstreetmap.org/?lat=48.343279&lon=10.900369
++DIV_Mes http://www.openstreetmap.org/?lat=48.340851&lon=10.899811
+BukInsPCI http://www.openstreetmap.org/?lat=48.338055&lon=10.899285
+Uni http://www.openstreetmap.org/?lat=48.333876&lon=10.898824
+BBWInsPhy http://www.openstreetmap.org/?lat=48.330117&lon=10.898899
+InnParkLfU http://www.openstreetmap.org/?lat=48.326486&lon=10.898030
+FusAre +FussballArena http://www.openstreetmap.org/?lat=48.325748&lon=10.890777

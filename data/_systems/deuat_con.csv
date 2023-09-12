@@ -1,5 +1,6 @@
 systemName;route;banner;groupName;roots
-deuat;1;;Augsburg;deuby.01aug
+deuat;1;;Augsburg (Göggingen bound);deuby.01aug
+deuat;1;;Augsburg (Lechhausen bound);deuby.01lec
 deuat;2;;Augsburg;deuby.02aug
 deuat;3;;Augsburg;deuby.03aug
 deuat;4;;Augsburg;deuby.04aug
