@@ -1,16 +1,15 @@
-Hbf +Hauptbahnhof http://www.openstreetmap.org/?lat=49.872824&lon=8.629503
-+X595981 http://www.openstreetmap.org/?lat=49.870400&lon=8.632840
-BerlinerAllee http://www.openstreetmap.org/?lat=49.870732&lon=8.636037
-RheinNeckarstrasse http://www.openstreetmap.org/?lat=49.871762&lon=8.644556
-Luisenplatz http://www.openstreetmap.org/?lat=49.872952&lon=8.651294
-+X581105 http://www.openstreetmap.org/?lat=49.873131&lon=8.653504
-Schloss http://www.openstreetmap.org/?lat=49.872820&lon=8.655006
-+X924314 http://www.openstreetmap.org/?lat=49.873021&lon=8.656411
-Schulstrasse http://www.openstreetmap.org/?lat=49.870186&lon=8.656658
-+X745249 http://www.openstreetmap.org/?lat=49.869577&lon=8.656615
-RossdorferPlatz http://www.openstreetmap.org/?lat=49.869162&lon=8.662226
-Herdweg http://www.openstreetmap.org/?lat=49.865380&lon=8.665327
-Jahnstrasse http://www.openstreetmap.org/?lat=49.861680&lon=8.667430
-+X402676 http://www.openstreetmap.org/?lat=49.861209&lon=8.667623
-Hochschulstadion http://www.openstreetmap.org/?lat=49.861597&lon=8.674146
-TULichtwieseCampus http://www.openstreetmap.org/?lat=49.862032&lon=8.680841
+Hbf +Hauptbahnhof http://www.openstreetmap.org/?lat=49.872561&lon=8.631520
++DIV_Hbf http://www.openstreetmap.org/?lat=49.870400&lon=8.632840
+BerAll http://www.openstreetmap.org/?lat=49.870732&lon=8.636037
+RheNecStr http://www.openstreetmap.org/?lat=49.871762&lon=8.644556
+LuiPla http://www.openstreetmap.org/?lat=49.872952&lon=8.651294
++DIV_Fri http://www.openstreetmap.org/?lat=49.873131&lon=8.653504
+Sch +Schloss http://www.openstreetmap.org/?lat=49.872820&lon=8.655006
++DIV_Mar http://www.openstreetmap.org/?lat=49.873021&lon=8.656411
+SchStr http://www.openstreetmap.org/?lat=49.870186&lon=8.656658
+RosDorPla http://www.openstreetmap.org/?lat=49.869162&lon=8.662226
+HerdWeg http://www.openstreetmap.org/?lat=49.865380&lon=8.665327
+JahnStr http://www.openstreetmap.org/?lat=49.861680&lon=8.667430
++DIV_Lic http://www.openstreetmap.org/?lat=49.861209&lon=8.667623
+HochSchSta http://www.openstreetmap.org/?lat=49.861597&lon=8.674146
+TULicWieCam http://www.openstreetmap.org/?lat=49.862032&lon=8.680841
