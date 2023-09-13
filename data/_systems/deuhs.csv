@@ -1,4 +1,5 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
+deuhs;DEU-NW;S1;;Min;Minden;deunw.s01min;
 deuhs;DEU-NI;S1;;;Hannover;deuni.s01;
 deuhs;DEU-NI;S2;;;Hannover;deuni.s02;
 deuhs;DEU-NI;S3;;;Hannover;deuni.s03;
