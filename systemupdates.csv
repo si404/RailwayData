@@ -1,5 +1,7 @@
 ﻿date;region;systemName;description;statusChange
 2023-09-13;USA;usatr;United States Tourist/Heritage Railroads;preview
+2023-09-13;USA;usaair;United States Landside Airport Rail Systems;preview
+2023-09-13;USA;usair;United States Incline Railways;preview
 2023-09-07;(USA) Colorado;usartdx;Denver RTD Commuter Rail;preview
 2023-09-07;(USA) Colorado;usartdz;Denver RTD Light Rail;preview
 2023-09-03;(USA) Missouri;usakcsc;RideKC Streetcar;preview
@@ -21,9 +23,7 @@
 2023-08-13;(USA) Ohio;usartalr;Cleveland RTA Light Rail;preview
 2023-08-13;(Canada) Ontario;canttc;Toronto Subway;preview
 2023-08-12;(USA) Florida;usamdt;Miami-Dade Metrorail;preview
-2023-08-12;(USA) Florida;usamiam;MIA Mover;preview
 2023-08-12;(USA) Florida;usammm;Miami Metromover;preview
 2023-08-10;(Canada) Quebec;canstm;Montreal Metro;preview
 2023-08-10;(Canada) Quebec;canrem;Montreal Réseau Express Métropolitain;preview
 2023-08-10;(USA) Georgia;usamarta;MARTA Rail;preview
-2023-08-10;(USA) Georgia;usaatl;ATL Sky Train;preview
