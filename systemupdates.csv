@@ -1,8 +1,8 @@
 ﻿date;region;systemName;description;statusChange
+2023-09-13;USA;usatr;United States Tourist/Heritage Railroads;preview
 2023-09-07;(USA) Colorado;usartdx;Denver RTD Commuter Rail;preview
 2023-09-07;(USA) Colorado;usartdz;Denver RTD Light Rail;preview
 2023-09-03;(USA) Missouri;usakcsc;RideKC Streetcar;preview
-2023-09-01;(USA) Utah;usahvrx;Heber Valley Railroad;preview
 2023-09-01;(USA) Utah;usautat;UTA TRAX;preview
 2023-09-01;(USA) Utah;usautax;UTA FrontRunner;preview
 2023-09-01;(USA) Utah;usautas;UTA S-Line;preview
@@ -11,8 +11,6 @@
 2023-08-26;Serbia;srbbt;Belgrade trams;preview
 2023-08-25;Hungary;hunbm;Budapesti metró;preview
 2023-08-25;Bulgaria;bgrsm;Sofiyski Metropoliten;preview
-2023-08-24;(USA) South Dakota;usapvhmr;Prairie Village, Herman, & Milwaukee Railroad;preview
-2023-08-24;(USA) South Dakota;usabhcr;Black Hills Central Railroad;preview
 2023-08-22;UK;gbnlu;London Underground;preview
 2023-08-19;Croatia;hrvt;Tramvajski promet u Zagrebu;preview
 2023-08-18;Denmark;dnkkm;Københavns Metro;preview
