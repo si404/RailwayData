@@ -2,7 +2,7 @@ systemName;route;banner;groupName;roots
 deubt;M1;;Berlin;deube.m01
 deubt;M1;;Niederschönhausen, Berlin;deube.m01nei
 deubt;M2;;Berlin;deube.m02
-deubt;M3;;Berlin;deube.m04
+deubt;M4;;Berlin;deube.m04
 deubt;M4;;Hohenschoenhausen, Berlin;deube.m04hoh
 deubt;M5;;Berlin;deube.m05
 deubt;M6;;Berlin;deube.m06
@@ -14,20 +14,26 @@ deubt;16;;Berlin;deube.16ber
 deubt;M17;;Berlin;deube.m17
 deubt;18;;Berlin;deube.18ber
 deubt;21;;Berlin;deube.21ber
-deubt;27;;Berlin;deube.27ber
+deubt;27;;Berlin (Weißensee bound);deube.27ber
+deubt;27;;Berlin (Köpenick bound);deube.27kop
 deubt;37;;Berlin;deube.37ber
 deubt;50;;Berlin;deube.50ber
 deubt;60;;Berlin;deube.60ber
-deubt;61;;Berlin;deube.61ber
-deubt;62;;Berlin;deube.62ber
-deubt;63;;Berlin;deube.63ber
-deubt;67;;Berlin;deube.67ber
-deubt;68;;Berlin;deube.68ber
+deubt;61;;Berlin (Schöneweide bound);deube.61ber
+deubt;61;;Berlin (Rahnsdorf bound);deube.61rah
+deubt;62;;Berlin (Mahnsdorf bound);deube.62ber
+deubt;62;;Berlin (Köpenick bound);deube.62kop
+deubt;63;;Berlin (Mahnsdorf bound);deube.63ber
+deubt;63;;Berlin (Adlergestell bound);deube.63adl
+deubt;67;;Berlin (Schöneweide bound);deube.67ber
+deubt;67;;Berlin (Köpenick bound);deube.67kop
+deubt;68;;Berlin (Köpenick bound);deube.68ber
+deubt;68;;Berlin (Schmöckwitz bound);deube.68sch
 deubt;87;;Woltersdorf;deube.87wol,deubb.87wol
 deubt;88;;Schöneiche bei Berlin;deube.88sch,deubb.88sch
 deubt;89;;Strausberg;deubb.89str
-deubt;91;;Potsdam;deubb.91pot
-deubt;91;;Charlottenhof, Potsdam;deubb.91cha
+deubt;91;;Potsdam (Rehbrücke bound);deubb.91pot
+deubt;91;;Potsdam (Pirschheide bound);deubb.91pir
 deubt;92;;Potsdam;deubb.92pot
 deubt;93;;Potsdam;deubb.93pot
 deubt;94;;Potsdam;deubb.94pot
