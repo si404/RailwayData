@@ -1,13 +1,13 @@
-BruMidi +BruxellesMidi http://www.openstreetmap.org/?lat=50.836662&lon=4.337690
+BruMidi http://www.openstreetmap.org/?lat=50.836662&lon=4.337690
 +SKIP_BruCha http://www.openstreetmap.org/?lat=50.841239&lon=4.348569
-BruCen +BruxellesCentrale http://www.openstreetmap.org/?lat=50.845476&lon=4.357007
+BruCen http://www.openstreetmap.org/?lat=50.845476&lon=4.357007
 +SKIP_BruCon http://www.openstreetmap.org/?lat=50.851888&lon=4.362516
-BruNord +BruxellesNord http://www.openstreetmap.org/?lat=50.860174&lon=4.361250
+BruNord http://www.openstreetmap.org/?lat=50.860174&lon=4.361250
 +DIV_S1 http://www.openstreetmap.org/?lat=50.869807&lon=4.365692
 +DIV_S4N http://www.openstreetmap.org/?lat=50.872000&lon=4.373202
 +X458146 http://www.openstreetmap.org/?lat=50.871445&lon=4.375648
-BruSch +BruxellesSchuman http://www.openstreetmap.org/?lat=50.842990&lon=4.380734
-BruLux +BruxellesLuxembourg http://www.openstreetmap.org/?lat=50.838220&lon=4.373685
+BruSch http://www.openstreetmap.org/?lat=50.842990&lon=4.380734
+BruLux http://www.openstreetmap.org/?lat=50.838220&lon=4.373685
 +SKIP_GerMou http://www.openstreetmap.org/?lat=50.830008&lon=4.379811
 +SKIP_Ett http://www.openstreetmap.org/?lat=50.822390&lon=4.389317
 +DIV_S4S http://www.openstreetmap.org/?lat=50.816999&lon=4.395261
@@ -21,14 +21,14 @@ BruLux +BruxellesLuxembourg http://www.openstreetmap.org/?lat=50.838220&lon=4.37
 +SKIP_Rix http://www.openstreetmap.org/?lat=50.713057&lon=4.531367
 +SKIP_Pro http://www.openstreetmap.org/?lat=50.699387&lon=4.545615
 +DIV_S20 http://www.openstreetmap.org/?lat=50.677677&lon=4.565871
-Ott +Ottignies http://www.openstreetmap.org/?lat=50.673441&lon=4.569325
+Ott http://www.openstreetmap.org/?lat=50.673441&lon=4.569325
 +X924680 http://www.openstreetmap.org/?lat=50.665342&lon=4.571922
 +DIV_S8 http://www.openstreetmap.org/?lat=50.651814&lon=4.588423
 +SKIP_MontStGui http://www.openstreetmap.org/?lat=50.638187&lon=4.612842
 +SKIP_Bla http://www.openstreetmap.org/?lat=50.620203&lon=4.635941
 +SKIP_Chas http://www.openstreetmap.org/?lat=50.607870&lon=4.649770
 +SKIP_Ern http://www.openstreetmap.org/?lat=50.591962&lon=4.667645
-Gem +Gembloux http://www.openstreetmap.org/?lat=50.570387&lon=4.691505
+Gem http://www.openstreetmap.org/?lat=50.570387&lon=4.691505
 +X346543 http://www.openstreetmap.org/?lat=50.565835&lon=4.698200
 +SKIP_Lon http://www.openstreetmap.org/?lat=50.551767&lon=4.720387
 +SKIP_Beu http://www.openstreetmap.org/?lat=50.533971&lon=4.748561
@@ -37,7 +37,7 @@ Gem +Gembloux http://www.openstreetmap.org/?lat=50.570387&lon=4.691505
 +X824469 http://www.openstreetmap.org/?lat=50.484668&lon=4.831195
 +X243426 http://www.openstreetmap.org/?lat=50.473498&lon=4.837246
 +DIV_S61N http://www.openstreetmap.org/?lat=50.468992&lon=4.856944
-Nam +Namur http://www.openstreetmap.org/?lat=50.469046&lon=4.862480
+Nam http://www.openstreetmap.org/?lat=50.469046&lon=4.862480
 +DIV_L1 http://www.openstreetmap.org/?lat=50.468008&lon=4.874969
 +DIV_S61S http://www.openstreetmap.org/?lat=50.462490&lon=4.880676
 +SKIP_JamEst http://www.openstreetmap.org/?lat=50.454949&lon=4.880290
@@ -51,7 +51,7 @@ Nam +Namur http://www.openstreetmap.org/?lat=50.469046&lon=4.862480
 +SKIP_Nat http://www.openstreetmap.org/?lat=50.343064&lon=5.061436
 +X477820 http://www.openstreetmap.org/?lat=50.320429&lon=5.066414
 +SKIP_Bra http://www.openstreetmap.org/?lat=50.316961&lon=5.067691
-Cin +Ciney http://www.openstreetmap.org/?lat=50.291320&lon=5.091133
+Cin http://www.openstreetmap.org/?lat=50.291320&lon=5.091133
 +SKIP_Lei http://www.openstreetmap.org/?lat=50.267708&lon=5.107613
 +SKIP_Chap http://www.openstreetmap.org/?lat=50.261782&lon=5.125079
 +X705140 http://www.openstreetmap.org/?lat=50.265451&lon=5.173273
@@ -60,8 +60,8 @@ Cin +Ciney http://www.openstreetmap.org/?lat=50.291320&lon=5.091133
 +X574638 http://www.openstreetmap.org/?lat=50.248755&lon=5.263782
 +SKIP_Aye http://www.openstreetmap.org/?lat=50.224459&lon=5.300968
 +DIV_L15 http://www.openstreetmap.org/?lat=50.204477&lon=5.315409
-Marl +Marloie http://www.openstreetmap.org/?lat=50.202595&lon=5.313585
-RocJem +RochefortJemelle http://www.openstreetmap.org/?lat=50.160089&lon=5.266743
+Marl http://www.openstreetmap.org/?lat=50.202595&lon=5.313585
+RocJem http://www.openstreetmap.org/?lat=50.160089&lon=5.266743
 +SKIP_For http://www.openstreetmap.org/?lat=50.132340&lon=5.276742
 +X390924 http://www.openstreetmap.org/?lat=50.109515&lon=5.296354
 +SKIP_Gru http://www.openstreetmap.org/?lat=50.090762&lon=5.280819
@@ -72,18 +72,18 @@ RocJem +RochefortJemelle http://www.openstreetmap.org/?lat=50.160089&lon=5.26674
 +X547101 http://www.openstreetmap.org/?lat=49.991601&lon=5.319185
 +X941101 http://www.openstreetmap.org/?lat=49.944509&lon=5.336266
 +DIV_L11 http://www.openstreetmap.org/?lat=49.922252&lon=5.372143
-Lib +Libramont http://www.openstreetmap.org/?lat=49.920090&lon=5.378838
+Lib http://www.openstreetmap.org/?lat=49.920090&lon=5.378838
 +SKIP_Neu http://www.openstreetmap.org/?lat=49.854234&lon=5.452459
 +X760632 http://www.openstreetmap.org/?lat=49.844832&lon=5.464625
 +X200077 http://www.openstreetmap.org/?lat=49.826453&lon=5.462866
 +X181715 http://www.openstreetmap.org/?lat=49.811833&lon=5.483422
-Marb +Marbehan http://www.openstreetmap.org/?lat=49.727468&lon=5.539598
+Marb http://www.openstreetmap.org/?lat=49.727468&lon=5.539598
 +X206647 http://www.openstreetmap.org/?lat=49.718861&lon=5.562043
 +SKIP_Hab http://www.openstreetmap.org/?lat=49.718119&lon=5.632639
 +X684942 http://www.openstreetmap.org/?lat=49.698352&lon=5.681005
 +SKIP_Sto http://www.openstreetmap.org/?lat=49.690884&lon=5.767865
 +SKIP_Viv http://www.openstreetmap.org/?lat=49.688164&lon=5.785890
-Arl +Arlon http://www.openstreetmap.org/?lat=49.680139&lon=5.809321
+Arl http://www.openstreetmap.org/?lat=49.680139&lon=5.809321
 +X472998 http://www.openstreetmap.org/?lat=49.667531&lon=5.829449
 +DIV_L13 http://www.openstreetmap.org/?lat=49.642922&lon=5.842302
 BEL/LUX http://www.openstreetmap.org/?lat=49.643929&lon=5.904207

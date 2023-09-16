@@ -1,23 +1,23 @@
-GentStPie +GentSintPieters http://www.openstreetmap.org/?lat=51.035575&lon=3.710879
+GentStPie http://www.openstreetmap.org/?lat=51.035575&lon=3.710879
 +DIV_IC3 http://www.openstreetmap.org/?lat=51.031861&lon=3.725224
 +DIV_S53 http://www.openstreetmap.org/?lat=51.029634&lon=3.746681
 +X822969 http://www.openstreetmap.org/?lat=51.025862&lon=3.753762
-Mer +Merelbeke http://www.openstreetmap.org/?lat=51.020140&lon=3.764620
-Mel +Melle http://www.openstreetmap.org/?lat=51.002508&lon=3.797321
+Mer http://www.openstreetmap.org/?lat=51.020140&lon=3.764620
+Mel http://www.openstreetmap.org/?lat=51.002508&lon=3.797321
 +DIV_S52 http://www.openstreetmap.org/?lat=51.000915&lon=3.800368
 +SKIP_Kwa http://www.openstreetmap.org/?lat=50.991721&lon=3.828928
-Wet +Wetteren http://www.openstreetmap.org/?lat=51.001583&lon=3.882422
+Wet http://www.openstreetmap.org/?lat=51.001583&lon=3.882422
 +SKIP_Sche http://www.openstreetmap.org/?lat=51.003099&lon=3.920971
 +DIV_L2 http://www.openstreetmap.org/?lat=51.003041&lon=3.923707
 +SKIP_Ser http://www.openstreetmap.org/?lat=50.985025&lon=3.958597
 Lede http://www.openstreetmap.org/?lat=50.970549&lon=3.985891
 +X837394 http://www.openstreetmap.org/?lat=50.947295&lon=4.030094
-Aal +Aalst http://www.openstreetmap.org/?lat=50.942921&lon=4.039278
+Aal http://www.openstreetmap.org/?lat=50.942921&lon=4.039278
 +SKIP_Ere http://www.openstreetmap.org/?lat=50.919661&lon=4.055457
 +DIV_S3S8W http://www.openstreetmap.org/?lat=50.897968&lon=4.062243
-Den +Denderleeuw http://www.openstreetmap.org/?lat=50.891895&lon=4.071422
+Den http://www.openstreetmap.org/?lat=50.891895&lon=4.071422
 +DIV_S6 http://www.openstreetmap.org/?lat=50.889973&lon=4.074769
-Lie +Liedekerke http://www.openstreetmap.org/?lat=50.882561&lon=4.094896
+Lie http://www.openstreetmap.org/?lat=50.882561&lon=4.094896
 +DIV_S4 http://www.openstreetmap.org/?lat=50.882470&lon=4.108018
 +DIV_IC1 http://www.openstreetmap.org/?lat=50.880145&lon=4.115968
 +X449339 http://www.openstreetmap.org/?lat=50.822821&lon=4.247203
@@ -26,11 +26,11 @@ Lie +Liedekerke http://www.openstreetmap.org/?lat=50.882561&lon=4.094896
 +X191696 http://www.openstreetmap.org/?lat=50.822008&lon=4.317734
 +X727465 http://www.openstreetmap.org/?lat=50.828073&lon=4.322605
 +DIV_S10 http://www.openstreetmap.org/?lat=50.830764&lon=4.330480
-BruMidi +BruxellesMidi http://www.openstreetmap.org/?lat=50.836662&lon=4.337690
+BruMidi http://www.openstreetmap.org/?lat=50.836662&lon=4.337690
 +SKIP_BruCha http://www.openstreetmap.org/?lat=50.841239&lon=4.348569
-BruCen +BruxellesCentrale http://www.openstreetmap.org/?lat=50.845476&lon=4.357007
+BruCen http://www.openstreetmap.org/?lat=50.845476&lon=4.357007
 +SKIP_BruCon http://www.openstreetmap.org/?lat=50.851888&lon=4.362516
-BruNord +BruxellesNord http://www.openstreetmap.org/?lat=50.860174&lon=4.361250
+BruNord http://www.openstreetmap.org/?lat=50.860174&lon=4.361250
 +DIV_S3S10 http://www.openstreetmap.org/?lat=50.869807&lon=4.365692
 +X639578 http://www.openstreetmap.org/?lat=50.875792&lon=4.373953
 +SKIP_Scha http://www.openstreetmap.org/?lat=50.878351&lon=4.378846
@@ -53,25 +53,25 @@ BruNord +BruxellesNord http://www.openstreetmap.org/?lat=50.860174&lon=4.361250
 +DIV_L3 http://www.openstreetmap.org/?lat=50.906104&lon=4.718585
 +X388296 http://www.openstreetmap.org/?lat=50.945788&lon=4.733090
 +SKIP_Wez http://www.openstreetmap.org/?lat=50.956386&lon=4.748154
-Aar +Aarschot http://www.openstreetmap.org/?lat=50.984491&lon=4.824028
+Aar http://www.openstreetmap.org/?lat=50.984491&lon=4.824028
 +DIV_L28 http://www.openstreetmap.org/?lat=50.994027&lon=4.830937
 +X267011 http://www.openstreetmap.org/?lat=50.999105&lon=4.841366
 +SKIP_Lan http://www.openstreetmap.org/?lat=51.002454&lon=4.863811
 +SKIP_Tes http://www.openstreetmap.org/?lat=51.009718&lon=4.946852
 +SKIP_Zic http://www.openstreetmap.org/?lat=51.006451&lon=4.988308
 +X660823 http://www.openstreetmap.org/?lat=50.991839&lon=5.017920
-Die +Diest http://www.openstreetmap.org/?lat=50.993109&lon=5.051093
+Die http://www.openstreetmap.org/?lat=50.993109&lon=5.051093
 +X193362 http://www.openstreetmap.org/?lat=50.991542&lon=5.060792
-Sch +Schulen http://www.openstreetmap.org/?lat=50.964117&lon=5.185633
+Sch http://www.openstreetmap.org/?lat=50.964117&lon=5.185633
 +X654940 http://www.openstreetmap.org/?lat=50.937946&lon=5.298972
 +DIV_IC10 http://www.openstreetmap.org/?lat=50.933943&lon=5.314937
-Has +Hasselt http://www.openstreetmap.org/?lat=50.930657&lon=5.327511
+Has http://www.openstreetmap.org/?lat=50.930657&lon=5.327511
 +DIV_IC3 http://www.openstreetmap.org/?lat=50.925362&lon=5.334978
 +X496353 http://www.openstreetmap.org/?lat=50.921811&lon=5.344119
 +X256161 http://www.openstreetmap.org/?lat=50.923698&lon=5.375726
-Dip +Dipenbeek http://www.openstreetmap.org/?lat=50.910515&lon=5.420380
+Dip http://www.openstreetmap.org/?lat=50.910515&lon=5.420380
 +X315529 http://www.openstreetmap.org/?lat=50.878987&lon=5.507219
-Bil +Bilzen http://www.openstreetmap.org/?lat=50.868473&lon=5.509429
+Bil http://www.openstreetmap.org/?lat=50.868473&lon=5.509429
 +X141558 http://www.openstreetmap.org/?lat=50.846340&lon=5.493293
 +X325687 http://www.openstreetmap.org/?lat=50.824359&lon=5.505953
-Ton +Tongeren http://www.openstreetmap.org/?lat=50.784111&lon=5.473981
+Ton http://www.openstreetmap.org/?lat=50.784111&lon=5.473981

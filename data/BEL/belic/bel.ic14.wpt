@@ -1,10 +1,10 @@
-Qui +Quievrain http://www.openstreetmap.org/?lat=50.410336&lon=3.686643
-Thu +Thulin http://www.openstreetmap.org/?lat=50.423271&lon=3.745308
-Hai +Hainin http://www.openstreetmap.org/?lat=50.428219&lon=3.767667
-Boi +Boussu http://www.openstreetmap.org/?lat=50.436209&lon=3.796613
-StGhi +SaintGhislain http://www.openstreetmap.org/?lat=50.442522&lon=3.818972
-Qua +Quaregnon http://www.openstreetmap.org/?lat=50.449785&lon=3.855901
-Jem +Jemappes http://www.openstreetmap.org/?lat=50.452599&lon=3.885899
+Qui http://www.openstreetmap.org/?lat=50.410336&lon=3.686643
+Thu http://www.openstreetmap.org/?lat=50.423271&lon=3.745308
+Hai http://www.openstreetmap.org/?lat=50.428219&lon=3.767667
+Boi http://www.openstreetmap.org/?lat=50.436209&lon=3.796613
+StGhi http://www.openstreetmap.org/?lat=50.442522&lon=3.818972
+Qua http://www.openstreetmap.org/?lat=50.449785&lon=3.855901
+Jem http://www.openstreetmap.org/?lat=50.452599&lon=3.885899
 +DIV_L26W http://www.openstreetmap.org/?lat=50.449539&lon=3.936067
 Mons http://www.openstreetmap.org/?lat=50.455305&lon=3.943233
 +DIV_L26E http://www.openstreetmap.org/?lat=50.465024&lon=3.949714
@@ -12,21 +12,21 @@ Mons http://www.openstreetmap.org/?lat=50.455305&lon=3.943233
 +SKIP_Ghl http://www.openstreetmap.org/?lat=50.487480&lon=3.906326
 +X917782 http://www.openstreetmap.org/?lat=50.494634&lon=3.889246
 +SKIP_Erb http://www.openstreetmap.org/?lat=50.507126&lon=3.887937
-Jur +Jurbise http://www.openstreetmap.org/?lat=50.530220&lon=3.909974
+Jur http://www.openstreetmap.org/?lat=50.530220&lon=3.909974
 +DIV_L29 http://www.openstreetmap.org/?lat=50.531994&lon=3.913579
 +X537683 http://www.openstreetmap.org/?lat=50.535662&lon=3.925037
 +SKIP_MasStPie http://www.openstreetmap.org/?lat=50.536385&lon=3.961687
 +SKIP_Neu http://www.openstreetmap.org/?lat=50.543395&lon=4.010396
-Soi +Soignies http://www.openstreetmap.org/?lat=50.573085&lon=4.069319
+Soi http://www.openstreetmap.org/?lat=50.573085&lon=4.069319
 +X686861 http://www.openstreetmap.org/?lat=50.586329&lon=4.112706
 +DIV_L19 http://www.openstreetmap.org/?lat=50.597547&lon=4.129229
-BraCom +BraineComte http://www.openstreetmap.org/?lat=50.605460&lon=4.138713
+BraCom http://www.openstreetmap.org/?lat=50.605460&lon=4.138713
 +SKIP_Hen http://www.openstreetmap.org/?lat=50.651216&lon=4.176521
 +SKIP_Tub http://www.openstreetmap.org/?lat=50.691687&lon=4.205832
 +DIV_HS1 http://www.openstreetmap.org/?lat=50.709079&lon=4.215585
 +SKIP_Lem http://www.openstreetmap.org/?lat=50.714022&lon=4.220617
 +DIV_S5 http://www.openstreetmap.org/?lat=50.730242&lon=4.236302
-Hal +Halle http://www.openstreetmap.org/?lat=50.733746&lon=4.240508
+Hal http://www.openstreetmap.org/?lat=50.733746&lon=4.240508
 +DIV_S7 http://www.openstreetmap.org/?lat=50.749307&lon=4.256301
 +SKIP_Bui http://www.openstreetmap.org/?lat=50.751357&lon=4.258468
 +SKIP_Lot http://www.openstreetmap.org/?lat=50.765956&lon=4.273424
@@ -35,11 +35,11 @@ Hal +Halle http://www.openstreetmap.org/?lat=50.733746&lon=4.240508
 +DIV_S8 http://www.openstreetmap.org/?lat=50.823444&lon=4.321361
 +DIV_S1 http://www.openstreetmap.org/?lat=50.829029&lon=4.328270
 +DIV_S10 http://www.openstreetmap.org/?lat=50.830764&lon=4.330480
-BruMidi +BruxellesMidi http://www.openstreetmap.org/?lat=50.836662&lon=4.337690
+BruMidi http://www.openstreetmap.org/?lat=50.836662&lon=4.337690
 +SKIP_BruCha http://www.openstreetmap.org/?lat=50.841239&lon=4.348569
-BruCen +BruxellesCentrale http://www.openstreetmap.org/?lat=50.845476&lon=4.357007
+BruCen http://www.openstreetmap.org/?lat=50.845476&lon=4.357007
 +SKIP_BruCon http://www.openstreetmap.org/?lat=50.851888&lon=4.362516
-BruNord +BruxellesNord http://www.openstreetmap.org/?lat=50.860174&lon=4.361250
+BruNord http://www.openstreetmap.org/?lat=50.860174&lon=4.361250
 +DIV_S3 http://www.openstreetmap.org/?lat=50.869807&lon=4.365692
 +X639578 http://www.openstreetmap.org/?lat=50.875792&lon=4.373953
 +SKIP_Sch http://www.openstreetmap.org/?lat=50.878351&lon=4.378846
@@ -59,18 +59,18 @@ BruNord +BruxellesNord http://www.openstreetmap.org/?lat=50.860174&lon=4.361250
 +SKIP_Her http://www.openstreetmap.org/?lat=50.903757&lon=4.675176
 +DIV_IC20 http://www.openstreetmap.org/?lat=50.902586&lon=4.698887
 +DIV_L20 http://www.openstreetmap.org/?lat=50.893979&lon=4.712663
-Leu +Leuven http://www.openstreetmap.org/?lat=50.881350&lon=4.716053
+Leu http://www.openstreetmap.org/?lat=50.881350&lon=4.716053
 +DIV_S20 http://www.openstreetmap.org/?lat=50.870558&lon=4.719143
 +DIV_IC1 http://www.openstreetmap.org/?lat=50.861451&lon=4.728327
 +SKIP_Ver http://www.openstreetmap.org/?lat=50.836042&lon=4.835787
-Tie +Tienen http://www.openstreetmap.org/?lat=50.807711&lon=4.925909
+Tie http://www.openstreetmap.org/?lat=50.807711&lon=4.925909
 +SKIP_Eze http://www.openstreetmap.org/?lat=50.771601&lon=4.995003
 +SKIP_Nee http://www.openstreetmap.org/?lat=50.763757&lon=5.036330
-Lan +Landen http://www.openstreetmap.org/?lat=50.747691&lon=5.079975
+Lan http://www.openstreetmap.org/?lat=50.747691&lon=5.079975
 +DIV_IC3 http://www.openstreetmap.org/?lat=50.745546&lon=5.090253
 +X658717 http://www.openstreetmap.org/?lat=50.727681&lon=5.177050
 +X683483 http://www.openstreetmap.org/?lat=50.709205&lon=5.199022
-War +Waremme http://www.openstreetmap.org/?lat=50.694419&lon=5.249491
+War http://www.openstreetmap.org/?lat=50.694419&lon=5.249491
 +SKIP_Ble http://www.openstreetmap.org/?lat=50.685321&lon=5.286033
 +SKIP_Rem http://www.openstreetmap.org/?lat=50.678754&lon=5.320773
 +SKIP_Mom http://www.openstreetmap.org/?lat=50.670007&lon=5.367014
@@ -82,4 +82,4 @@ War +Waremme http://www.openstreetmap.org/?lat=50.694419&lon=5.249491
 Ans http://www.openstreetmap.org/?lat=50.661126&lon=5.509686
 +X106454 http://www.openstreetmap.org/?lat=50.645086&lon=5.551465
 +DIV_S43 http://www.openstreetmap.org/?lat=50.631190&lon=5.561201
-LieGui +LiegeGuillemins http://www.openstreetmap.org/?lat=50.624270&lon=5.566721
+LieGui http://www.openstreetmap.org/?lat=50.624270&lon=5.566721

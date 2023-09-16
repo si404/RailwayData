@@ -1,7 +1,7 @@
-AntCen +AntwerpenCentraal http://www.openstreetmap.org/?lat=51.215953&lon=4.420946
+AntCen http://www.openstreetmap.org/?lat=51.215953&lon=4.420946
 +X491940 http://www.openstreetmap.org/?lat=51.206218&lon=4.426095
 +X654075 http://www.openstreetmap.org/?lat=51.201499&lon=4.430323
-AntBer +AntwerpenBerchem http://www.openstreetmap.org/?lat=51.199630&lon=4.432340
+AntBer http://www.openstreetmap.org/?lat=51.199630&lon=4.432340
 +DIV_S32 http://www.openstreetmap.org/?lat=51.197452&lon=4.433820
 +DIV_S1 http://www.openstreetmap.org/?lat=51.196420&lon=4.434700
 +X570665 http://www.openstreetmap.org/?lat=51.180439&lon=4.466372
@@ -12,7 +12,7 @@ Lier http://www.openstreetmap.org/?lat=51.135995&lon=4.561944
 +DIV_S33E http://www.openstreetmap.org/?lat=51.143642&lon=4.586620
 +SKIP_Ber http://www.openstreetmap.org/?lat=51.113485&lon=4.638827
 +SKIP_Mel http://www.openstreetmap.org/?lat=51.094676&lon=4.671979
-HeiBerg +HeistBerg http://www.openstreetmap.org/?lat=51.073891&lon=4.708650
+HeiBerg http://www.openstreetmap.org/?lat=51.073891&lon=4.708650
 +SKIP_Boo http://www.openstreetmap.org/?lat=51.037245&lon=4.773602
 +SKIP_Beg http://www.openstreetmap.org/?lat=51.022657&lon=4.799309
 +DIV_L23 http://www.openstreetmap.org/?lat=51.000104&lon=4.832826
@@ -21,9 +21,9 @@ HeiBerg +HeistBerg http://www.openstreetmap.org/?lat=51.073891&lon=4.708650
 +SKIP_Tes http://www.openstreetmap.org/?lat=51.009718&lon=4.946852
 +SKIP_Zic http://www.openstreetmap.org/?lat=51.006451&lon=4.988308
 +X660823 http://www.openstreetmap.org/?lat=50.991839&lon=5.017920
-Die +Diest http://www.openstreetmap.org/?lat=50.993109&lon=5.051093
+Die http://www.openstreetmap.org/?lat=50.993109&lon=5.051093
 +X193362 http://www.openstreetmap.org/?lat=50.991542&lon=5.060792
 +SKIP_Sch http://www.openstreetmap.org/?lat=50.964117&lon=5.185633
 +X654940 http://www.openstreetmap.org/?lat=50.937946&lon=5.298972
 +DIV_IC3 http://www.openstreetmap.org/?lat=50.933943&lon=5.314937
-Has +Hasselt http://www.openstreetmap.org/?lat=50.930657&lon=5.327511
+Has http://www.openstreetmap.org/?lat=50.930657&lon=5.327511

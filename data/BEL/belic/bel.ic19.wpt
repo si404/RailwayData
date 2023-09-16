@@ -1,4 +1,4 @@
-Tou +Tournai http://www.openstreetmap.org/?lat=50.612752&lon=3.397093
+Tou http://www.openstreetmap.org/?lat=50.612752&lon=3.397093
 +DIV_IC6 http://www.openstreetmap.org/?lat=50.610492&lon=3.405933
 +X997426 http://www.openstreetmap.org/?lat=50.598412&lon=3.434343
 +SKIP_Ant http://www.openstreetmap.org/?lat=50.569637&lon=3.451424
@@ -12,7 +12,7 @@ Tou +Tournai http://www.openstreetmap.org/?lat=50.612752&lon=3.397093
 +SKIP_VilPom http://www.openstreetmap.org/?lat=50.464921&lon=3.723764
 +X726927 http://www.openstreetmap.org/?lat=50.459212&lon=3.773761
 +X575831 http://www.openstreetmap.org/?lat=50.445085&lon=3.789124
-StGhi +SaintGhislain http://www.openstreetmap.org/?lat=50.442522&lon=3.818972
+StGhi http://www.openstreetmap.org/?lat=50.442522&lon=3.818972
 +SKIP_Qua http://www.openstreetmap.org/?lat=50.449785&lon=3.855901
 +SKIP_Jem http://www.openstreetmap.org/?lat=50.452599&lon=3.885899
 +DIV_L26 http://www.openstreetmap.org/?lat=50.449539&lon=3.936067
@@ -25,7 +25,7 @@ Mons http://www.openstreetmap.org/?lat=50.455305&lon=3.943233
 +SKIP_Bra http://www.openstreetmap.org/?lat=50.474127&lon=4.124980
 +X980097 http://www.openstreetmap.org/?lat=50.471614&lon=4.161329
 +DIV_S62 http://www.openstreetmap.org/?lat=50.470549&lon=4.172745
-LouSud +LouviereSud http://www.openstreetmap.org/?lat=50.465331&lon=4.188151
+LouSud http://www.openstreetmap.org/?lat=50.465331&lon=4.188151
 +DIV_IC11 http://www.openstreetmap.org/?lat=50.461206&lon=4.211583
 +SKIP_Mor http://www.openstreetmap.org/?lat=50.458474&lon=4.247117
 +SKIP_Car http://www.openstreetmap.org/?lat=50.447899&lon=4.264154
@@ -38,14 +38,14 @@ LouSud +LouviereSud http://www.openstreetmap.org/?lat=50.465331&lon=4.188151
 +DIV_S43 http://www.openstreetmap.org/?lat=50.407348&lon=4.416740
 +X159277 http://www.openstreetmap.org/?lat=50.406637&lon=4.426095
 +DIV_S61 http://www.openstreetmap.org/?lat=50.405064&lon=4.433756
-ChaCen +CharleroiCentrale http://www.openstreetmap.org/?lat=50.404336&lon=4.438348
+ChaCen http://www.openstreetmap.org/?lat=50.404336&lon=4.438348
 +SKIP_Cou http://www.openstreetmap.org/?lat=50.392730&lon=4.468936
 +SKIP_Cha http://www.openstreetmap.org/?lat=50.409639&lon=4.520788
 +SKIP_Cam http://www.openstreetmap.org/?lat=50.423954&lon=4.543233
 +SKIP_Far http://www.openstreetmap.org/?lat=50.429231&lon=4.552674
 +X169305 http://www.openstreetmap.org/?lat=50.434849&lon=4.561644
 +SKIP_Ais http://www.openstreetmap.org/?lat=50.429504&lon=4.584689
-Tam +Tamines http://www.openstreetmap.org/?lat=50.432429&lon=4.609580
+Tam http://www.openstreetmap.org/?lat=50.432429&lon=4.609580
 +X673802 http://www.openstreetmap.org/?lat=50.437343&lon=4.614322
 +X832457 http://www.openstreetmap.org/?lat=50.445119&lon=4.620051
 +SKIP_Auv http://www.openstreetmap.org/?lat=50.449191&lon=4.631488
@@ -61,4 +61,4 @@ Tam +Tamines http://www.openstreetmap.org/?lat=50.432429&lon=4.609580
 +SKIP_Ron http://www.openstreetmap.org/?lat=50.458146&lon=4.829307
 +X792848 http://www.openstreetmap.org/?lat=50.469756&lon=4.840250
 +DIV_L8 http://www.openstreetmap.org/?lat=50.468992&lon=4.856944
-Nam +Namur http://www.openstreetmap.org/?lat=50.469046&lon=4.862480
+Nam http://www.openstreetmap.org/?lat=50.469046&lon=4.862480
