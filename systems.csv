@@ -366,11 +366,7 @@ usascax;USA;L.A. Metrolink;TMgreen;2;preview
 usasepa;USA;SEPTA Regional Rail;TMgreen;2;preview
 usautax;USA;UTA FrontRunner;TMgreen;2;preview
 usavrex;USA;Virginia Railway Express;TMgreen;2;preview
-usabhcr;USA;Black Hills Central Railroad;TMgreen;2;preview
-usapvhmr;USA;Prairie Village, Herman, & Milwaukee Railroad;TMgreen;2;preview
-usavale;USA;Essex Steam Train;TMgreen;2;preview
-usasrc;USA;Strasburg Rail Road;TMgreen;2;preview
-usahvrx;USA;Heber Valley Railroad;TMgreen;2;preview
+usatr;USA;United States Tourist/Heritage Railroads;TMgreen;2;preview
 usabmsl;USA;Baltimore Metro SubwayLink;TMblue;3;preview
 usambta;USA;MBTA Subway;TMblue;3;preview
 usapatco;USA;PATCO Speedline;TMblue;3;preview
@@ -403,10 +399,8 @@ usautat;USA;UTA TRAX;TMred;4;preview
 usalamlr;USA;L.A. Metro Light Rail;TMred;4;preview
 usamts;USA;San Diego Trolley;TMred;4;preview
 usartdz;USA;Denver RTD Light Rail;TMred;4;preview
-usaairtrn;USA;AirTrain;TMYellow;5;preview
-usaatl;USA;ATL Sky Train;TMyellow;5;preview
-usamiam;USA;MIA Mover;TMYellow;5;preview
-usaphx;USA;PHX Sky Train;TMyellow;5;preview
+usaair;USA;United States Landside Airport Rail Systems;TMYellow;5;preview
+usair;USA;United States Incline Railways;TMYellow;5;preview
 usahunhts;USA;Huntsville Hospital Tram System;TMYellow;5;preview
 usarooist;USA;Roosevelt Island Tramway;TMYellow;5;preview
 usawvuprt;USA;Morgantown Personal Rapid Transit;TMYellow;5;preview

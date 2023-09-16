@@ -8,7 +8,7 @@ RatHausCos http://www.openstreetmap.org/?lat=51.127950&lon=13.577685
 CosZenBor http://www.openstreetmap.org/?lat=51.127263&lon=13.580883
 RadeBeuStr http://www.openstreetmap.org/?lat=51.125741&lon=13.588586
 EisBahnBru http://www.openstreetmap.org/?lat=51.121122&lon=13.594637
-GerHauMannStr http://www.openstreetmap.org/?lat=51.119694&lon=13.603628
+GerHauStr http://www.openstreetmap.org/?lat=51.119694&lon=13.603628
 JohBergStr http://www.openstreetmap.org/?lat=51.114576&lon=13.611417
 SchWacBar http://www.openstreetmap.org/?lat=51.112932&lon=13.618326
 FleStr http://www.openstreetmap.org/?lat=51.110144&lon=13.625128
@@ -49,11 +49,11 @@ KraHausJosSti http://www.openstreetmap.org/?lat=51.046757&lon=13.763294
 FetPla http://www.openstreetmap.org/?lat=51.046463&lon=13.771373
 MosStr http://www.openstreetmap.org/?lat=51.044817&lon=13.777714
 SpeStr http://www.openstreetmap.org/?lat=51.043603&lon=13.782467
-BergMannStr http://www.openstreetmap.org/?lat=51.043313&lon=13.787649
+BerStr http://www.openstreetmap.org/?lat=51.043313&lon=13.787649
 PohLandPla http://www.openstreetmap.org/?lat=51.042949&lon=13.794472
 GottLeuStr http://www.openstreetmap.org/?lat=51.041256&lon=13.800673
 AltBurStr http://www.openstreetmap.org/?lat=51.039488&lon=13.805898
-LudHartMannStr http://www.openstreetmap.org/?lat=51.038044&lon=13.808688
+LudHarStr http://www.openstreetmap.org/?lat=51.038044&lon=13.808688
 JohFriHof http://www.openstreetmap.org/?lat=51.036783&lon=13.812668
 TolWitzSchCam http://www.openstreetmap.org/?lat=51.035724&lon=13.816520
 WasWerkTolWitz http://www.openstreetmap.org/?lat=51.034098&lon=13.822689
