@@ -1,8 +1,8 @@
-LieGui +LiegeGuillemins http://www.openstreetmap.org/?lat=50.624270&lon=5.566721
+LieGui http://www.openstreetmap.org/?lat=50.624270&lon=5.566721
 +DIV_L1 http://www.openstreetmap.org/?lat=50.620438&lon=5.571914
 +DIV_S43 http://www.openstreetmap.org/?lat=50.616735&lon=5.581505
 +X581064 http://www.openstreetmap.org/?lat=50.614951&lon=5.589166
-Ang +Angleur http://www.openstreetmap.org/?lat=50.613099&lon=5.598671
+Ang http://www.openstreetmap.org/?lat=50.613099&lon=5.598671
 +DIV_IC1 http://www.openstreetmap.org/?lat=50.612310&lon=5.601525
 +X861690 http://www.openstreetmap.org/?lat=50.606080&lon=5.606589
 +X996526 http://www.openstreetmap.org/?lat=50.594285&lon=5.589380
@@ -11,15 +11,15 @@ Ang +Angleur http://www.openstreetmap.org/?lat=50.613099&lon=5.598671
 +X123884 http://www.openstreetmap.org/?lat=50.561936&lon=5.572429
 +SKIP_Mery http://www.openstreetmap.org/?lat=50.547922&lon=5.587234
 +SKIP_Hony http://www.openstreetmap.org/?lat=50.540095&lon=5.573888
-Esn +Esneux http://www.openstreetmap.org/?lat=50.530520&lon=5.572772
+Esn http://www.openstreetmap.org/?lat=50.530520&lon=5.572772
 +X300608 http://www.openstreetmap.org/?lat=50.511284&lon=5.562387
-Pou +Poulseur http://www.openstreetmap.org/?lat=50.509217&lon=5.578780
+Pou http://www.openstreetmap.org/?lat=50.509217&lon=5.578780
 +X575105 http://www.openstreetmap.org/?lat=50.507907&lon=5.592492
-Riv +Rivage http://www.openstreetmap.org/?lat=50.486071&lon=5.585550
+Riv http://www.openstreetmap.org/?lat=50.486071&lon=5.585550
 +DIV_L15 http://www.openstreetmap.org/?lat=50.483982&lon=5.586805
 +X971314 http://www.openstreetmap.org/?lat=50.478879&lon=5.616760
 +X159700 http://www.openstreetmap.org/?lat=50.488846&lon=5.626717
-Ayw +Aywaille http://www.openstreetmap.org/?lat=50.472816&lon=5.672894
+Ayw http://www.openstreetmap.org/?lat=50.472816&lon=5.672894
 +X866874 http://www.openstreetmap.org/?lat=50.479398&lon=5.703063
 +X427681 http://www.openstreetmap.org/?lat=50.467107&lon=5.740485
 +X618299 http://www.openstreetmap.org/?lat=50.427126&lon=5.733490
@@ -27,11 +27,11 @@ Ayw +Aywaille http://www.openstreetmap.org/?lat=50.472816&lon=5.672894
 +X912713 http://www.openstreetmap.org/?lat=50.400763&lon=5.795975
 +X753896 http://www.openstreetmap.org/?lat=50.403663&lon=5.860863
 Coo http://www.openstreetmap.org/?lat=50.391078&lon=5.880904
-TroPon +TroisPonts http://www.openstreetmap.org/?lat=50.369158&lon=5.873265
+TroPon http://www.openstreetmap.org/?lat=50.369158&lon=5.873265
 +X411501 http://www.openstreetmap.org/?lat=50.338483&lon=5.901761
-Vie +Vielsalm http://www.openstreetmap.org/?lat=50.278658&lon=5.909314
+Vie http://www.openstreetmap.org/?lat=50.278658&lon=5.909314
 +X317124 http://www.openstreetmap.org/?lat=50.259292&lon=5.905581
 +X568795 http://www.openstreetmap.org/?lat=50.247027&lon=5.920215
 +X112107 http://www.openstreetmap.org/?lat=50.218696&lon=5.917897
-Gou +Gouvy http://www.openstreetmap.org/?lat=50.189457&lon=5.954075
+Gou http://www.openstreetmap.org/?lat=50.189457&lon=5.954075
 BEL/LUX http://www.openstreetmap.org/?lat=50.173047&lon=5.965362

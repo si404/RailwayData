@@ -1,4 +1,4 @@
-Kno +Knokke http://www.openstreetmap.org/?lat=51.339842&lon=3.284376
+Kno http://www.openstreetmap.org/?lat=51.339842&lon=3.284376
 +X783034 http://www.openstreetmap.org/?lat=51.329351&lon=3.229380
 +X906376 http://www.openstreetmap.org/?lat=51.296370&lon=3.252683
 +X741471 http://www.openstreetmap.org/?lat=51.274058&lon=3.210154
@@ -6,20 +6,20 @@ Kno +Knokke http://www.openstreetmap.org/?lat=51.339842&lon=3.284376
 +DIV_IC3 http://www.openstreetmap.org/?lat=51.247431&lon=3.206398
 +SKIP_BruStPie http://www.openstreetmap.org/?lat=51.222979&lon=3.201785
 +DIV_IC1 http://www.openstreetmap.org/?lat=51.204457&lon=3.209252
-Bru +Brugge http://www.openstreetmap.org/?lat=51.196995&lon=3.217278
+Bru http://www.openstreetmap.org/?lat=51.196995&lon=3.217278
 +DIV_L2N http://www.openstreetmap.org/?lat=51.185049&lon=3.224208
 +DIV_L2S http://www.openstreetmap.org/?lat=51.173323&lon=3.231418
 +SKIP_Oos http://www.openstreetmap.org/?lat=51.154330&lon=3.257275
 +SKIP_Bee http://www.openstreetmap.org/?lat=51.128132&lon=3.329501
 +SKIP_MarAal http://www.openstreetmap.org/?lat=51.108133&lon=3.385205
-Aal +Aalter http://www.openstreetmap.org/?lat=51.092021&lon=3.448935
+Aal http://www.openstreetmap.org/?lat=51.092021&lon=3.448935
 +SKIP_Bel http://www.openstreetmap.org/?lat=51.083435&lon=3.488696
 +SKIP_Han http://www.openstreetmap.org/?lat=51.073180&lon=3.535935
 +SKIP_Lan http://www.openstreetmap.org/?lat=51.064584&lon=3.575535
 +SKIP_Dro http://www.openstreetmap.org/?lat=51.047353&lon=3.654445
 +DIV_L2E http://www.openstreetmap.org/?lat=51.040713&lon=3.684604
 +DIV_S51 http://www.openstreetmap.org/?lat=51.036928&lon=3.703551
-GentStPie +GentSintPieters http://www.openstreetmap.org/?lat=51.035575&lon=3.710879
+GentStPie http://www.openstreetmap.org/?lat=51.035575&lon=3.710879
 +DIV_S52 http://www.openstreetmap.org/?lat=51.031861&lon=3.725224
 +X168627 http://www.openstreetmap.org/?lat=50.992218&lon=3.807449
 +X962409 http://www.openstreetmap.org/?lat=50.966887&lon=3.863239
@@ -31,11 +31,11 @@ GentStPie +GentSintPieters http://www.openstreetmap.org/?lat=51.035575&lon=3.710
 +X191696 http://www.openstreetmap.org/?lat=50.822008&lon=4.317734
 +X727465 http://www.openstreetmap.org/?lat=50.828073&lon=4.322605
 +DIV_S10 http://www.openstreetmap.org/?lat=50.830764&lon=4.330480
-BruMidi +BruxellesMidi http://www.openstreetmap.org/?lat=50.836662&lon=4.337690
+BruMidi http://www.openstreetmap.org/?lat=50.836662&lon=4.337690
 +SKIP_BruCha http://www.openstreetmap.org/?lat=50.841239&lon=4.348569
-BruCen +BruxellesCentrale http://www.openstreetmap.org/?lat=50.845476&lon=4.357007
+BruCen http://www.openstreetmap.org/?lat=50.845476&lon=4.357007
 +SKIP_BruCon http://www.openstreetmap.org/?lat=50.851888&lon=4.362516
-BruNord +BruxellesNord http://www.openstreetmap.org/?lat=50.860174&lon=4.361250
+BruNord http://www.openstreetmap.org/?lat=50.860174&lon=4.361250
 +DIV_S3 http://www.openstreetmap.org/?lat=50.869807&lon=4.365692
 +X639578 http://www.openstreetmap.org/?lat=50.875792&lon=4.373953
 +SKIP_Sch http://www.openstreetmap.org/?lat=50.878351&lon=4.378846
@@ -44,4 +44,4 @@ BruNord +BruxellesNord http://www.openstreetmap.org/?lat=50.860174&lon=4.361250
 +X274574 http://www.openstreetmap.org/?lat=50.898202&lon=4.408264
 +DIV_IC17 http://www.openstreetmap.org/?lat=50.900448&lon=4.427061
 +DIV_IC8 http://www.openstreetmap.org/?lat=50.911246&lon=4.456458
-BruAirZav +BrusselsAirportZaventem http://www.openstreetmap.org/?lat=50.898337&lon=4.482336
+BruAirZav http://www.openstreetmap.org/?lat=50.898337&lon=4.482336

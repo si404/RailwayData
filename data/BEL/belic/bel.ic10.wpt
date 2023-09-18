@@ -1,7 +1,7 @@
-AntCen +AntwerpenCentraal http://www.openstreetmap.org/?lat=51.215953&lon=4.420946
+AntCen http://www.openstreetmap.org/?lat=51.215953&lon=4.420946
 +X491940 http://www.openstreetmap.org/?lat=51.206218&lon=4.426095
 +X654075 http://www.openstreetmap.org/?lat=51.201499&lon=4.430323
-AntBer +AntwerpenBerchem http://www.openstreetmap.org/?lat=51.199630&lon=4.432340
+AntBer http://www.openstreetmap.org/?lat=51.199630&lon=4.432340
 +DIV_S32 http://www.openstreetmap.org/?lat=51.197452&lon=4.433820
 +DIV_S1 http://www.openstreetmap.org/?lat=51.196420&lon=4.434700
 +X570665 http://www.openstreetmap.org/?lat=51.180439&lon=4.466372
@@ -15,14 +15,14 @@ Lier http://www.openstreetmap.org/?lat=51.135995&lon=4.561944
 +SKIP_Bou http://www.openstreetmap.org/?lat=51.165634&lon=4.746351
 +SKIP_Wol http://www.openstreetmap.org/?lat=51.168594&lon=4.785018
 +X570134 http://www.openstreetmap.org/?lat=51.171958&lon=4.804287
-Her +Herentals http://www.openstreetmap.org/?lat=51.181132&lon=4.828620
+Her http://www.openstreetmap.org/?lat=51.181132&lon=4.828620
 +DIV_IC30 http://www.openstreetmap.org/?lat=51.187400&lon=4.836860
 Olen http://www.openstreetmap.org/?lat=51.174029&lon=4.902177
 Geel http://www.openstreetmap.org/?lat=51.168998&lon=4.989510
 Mol http://www.openstreetmap.org/?lat=51.190607&lon=5.114479
 +DIV_L5 http://www.openstreetmap.org/?lat=51.192813&lon=5.128148
-Lom +Lommel http://www.openstreetmap.org/?lat=51.211575&lon=5.312104
-Ove +Overpelt http://www.openstreetmap.org/?lat=51.215688&lon=5.424156
-Nee +Neerpelt http://www.openstreetmap.org/?lat=51.221924&lon=5.437331
+Lom http://www.openstreetmap.org/?lat=51.211575&lon=5.312104
+Ove http://www.openstreetmap.org/?lat=51.215688&lon=5.424156
+Nee http://www.openstreetmap.org/?lat=51.221924&lon=5.437331
 +X871868 http://www.openstreetmap.org/?lat=51.236087&lon=5.441623
-Hau +Haumont http://www.openstreetmap.org/?lat=51.246135&lon=5.542603
+Hau http://www.openstreetmap.org/?lat=51.246135&lon=5.542603

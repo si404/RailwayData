@@ -1,13 +1,13 @@
-Kor +Kortrijk http://www.openstreetmap.org/?lat=50.824224&lon=3.264527
+Kor http://www.openstreetmap.org/?lat=50.824224&lon=3.264527
 +DIV_IC13 http://www.openstreetmap.org/?lat=50.836157&lon=3.292122
-Har +Harlebeke http://www.openstreetmap.org/?lat=50.856168&lon=3.314567
-War +Waregem http://www.openstreetmap.org/?lat=50.891702&lon=3.424344
+Har http://www.openstreetmap.org/?lat=50.856168&lon=3.314567
+War http://www.openstreetmap.org/?lat=50.891702&lon=3.424344
 +DIV_IC29 http://www.openstreetmap.org/?lat=50.975494&lon=3.527620
-Dei +Deinze http://www.openstreetmap.org/?lat=50.978149&lon=3.535001
-Pin +Pinte http://www.openstreetmap.org/?lat=50.996566&lon=3.649521
+Dei http://www.openstreetmap.org/?lat=50.978149&lon=3.535001
+Pin http://www.openstreetmap.org/?lat=50.996566&lon=3.649521
 +DIV_L2 http://www.openstreetmap.org/?lat=51.038938&lon=3.695526
 +DIV_IC2 http://www.openstreetmap.org/?lat=51.036928&lon=3.703551
-GentStPie +GentSintPieters http://www.openstreetmap.org/?lat=51.035575&lon=3.710879
+GentStPie http://www.openstreetmap.org/?lat=51.035575&lon=3.710879
 +DIV_S51 http://www.openstreetmap.org/?lat=51.031861&lon=3.725224
 +X168627 http://www.openstreetmap.org/?lat=50.992218&lon=3.807449
 +X962409 http://www.openstreetmap.org/?lat=50.966887&lon=3.863239
@@ -19,17 +19,17 @@ GentStPie +GentSintPieters http://www.openstreetmap.org/?lat=51.035575&lon=3.710
 +X191696 http://www.openstreetmap.org/?lat=50.822008&lon=4.317734
 +X727465 http://www.openstreetmap.org/?lat=50.828073&lon=4.322605
 +DIV_S10 http://www.openstreetmap.org/?lat=50.830764&lon=4.330480
-BruMidi +BruxellesMidi http://www.openstreetmap.org/?lat=50.836662&lon=4.337690
-+SKIP_BruxellesChapelle http://www.openstreetmap.org/?lat=50.841239&lon=4.348569
-BruCen +BruxellesCentrale http://www.openstreetmap.org/?lat=50.845476&lon=4.357007
-+SKIP_BruxellesCongres http://www.openstreetmap.org/?lat=50.851888&lon=4.362516
-BruNord +BruxellesNord http://www.openstreetmap.org/?lat=50.860174&lon=4.361250
-+DIV_S3S10 http://www.openstreetmap.org/?lat=50.869807&lon=4.365692
-+DIV_IC1 http://www.openstreetmap.org/?lat=50.875792&lon=4.373953
+BruMidi http://www.openstreetmap.org/?lat=50.836662&lon=4.337690
++SKIP_BruCha http://www.openstreetmap.org/?lat=50.841239&lon=4.348569
+BruCen http://www.openstreetmap.org/?lat=50.845476&lon=4.357007
++SKIP_BruCon http://www.openstreetmap.org/?lat=50.851888&lon=4.362516
+BruNord http://www.openstreetmap.org/?lat=50.860174&lon=4.361250
++DIV_S3 http://www.openstreetmap.org/?lat=50.869807&lon=4.365692
++X639578 http://www.openstreetmap.org/?lat=50.875792&lon=4.373953
 +SKIP_Sch http://www.openstreetmap.org/?lat=50.878351&lon=4.378846
-+X888888 http://www.openstreetmap.org/?lat=50.881519&lon=4.386828
-+X651499 http://www.openstreetmap.org/?lat=50.882602&lon=4.398372
-+DIV_S1 http://www.openstreetmap.org/?lat=50.887106&lon=4.408039
++DIV_IC6 http://www.openstreetmap.org/?lat=50.881519&lon=4.386828
++DIV_IC29 http://www.openstreetmap.org/?lat=50.884538&lon=4.396484
++DIV_S2 http://www.openstreetmap.org/?lat=50.888230&lon=4.410292
 +SKIP_HarSud http://www.openstreetmap.org/?lat=50.889702&lon=4.415689
 +DIV_S9S19 http://www.openstreetmap.org/?lat=50.891435&lon=4.423285
 +X931208 http://www.openstreetmap.org/?lat=50.892003&lon=4.430966
@@ -43,7 +43,7 @@ BruNord +BruxellesNord http://www.openstreetmap.org/?lat=50.860174&lon=4.361250
 +SKIP_Her http://www.openstreetmap.org/?lat=50.903757&lon=4.675176
 +DIV_IC20 http://www.openstreetmap.org/?lat=50.902586&lon=4.698887
 +DIV_L20 http://www.openstreetmap.org/?lat=50.893979&lon=4.712663
-Leu +Leuven http://www.openstreetmap.org/?lat=50.881350&lon=4.716053
+Leu http://www.openstreetmap.org/?lat=50.881350&lon=4.716053
 +DIV_S20 http://www.openstreetmap.org/?lat=50.870558&lon=4.719143
 +DIV_S9 http://www.openstreetmap.org/?lat=50.861451&lon=4.728327
 +X811676 http://www.openstreetmap.org/?lat=50.840514&lon=4.751158
@@ -58,11 +58,11 @@ Leu +Leuven http://www.openstreetmap.org/?lat=50.881350&lon=4.716053
 Ans http://www.openstreetmap.org/?lat=50.661126&lon=5.509686
 +X106454 http://www.openstreetmap.org/?lat=50.645086&lon=5.551465
 +DIV_S43 http://www.openstreetmap.org/?lat=50.631190&lon=5.561201
-LieGui +LiegeGuillemins http://www.openstreetmap.org/?lat=50.624270&lon=5.566721
+LieGui http://www.openstreetmap.org/?lat=50.624270&lon=5.566721
 +DIV_L1 http://www.openstreetmap.org/?lat=50.620438&lon=5.571914
 +DIV_S42 http://www.openstreetmap.org/?lat=50.616735&lon=5.581505
 +X581064 http://www.openstreetmap.org/?lat=50.614951&lon=5.589166
-Ang +Angleur http://www.openstreetmap.org/?lat=50.613099&lon=5.598671
+Ang http://www.openstreetmap.org/?lat=50.613099&lon=5.598671
 +DIV_L15 http://www.openstreetmap.org/?lat=50.612310&lon=5.601525
 +DIV_HS4 http://www.openstreetmap.org/?lat=50.608851&lon=5.613048
 +SKIP_Che http://www.openstreetmap.org/?lat=50.607544&lon=5.617404
@@ -71,11 +71,11 @@ Ang +Angleur http://www.openstreetmap.org/?lat=50.613099&lon=5.598671
 +SKIP_Fra http://www.openstreetmap.org/?lat=50.565099&lon=5.723705
 +SKIP_Nes http://www.openstreetmap.org/?lat=50.571995&lon=5.741987
 +X826362 http://www.openstreetmap.org/?lat=50.563354&lon=5.774217
-Pep +Pepinster http://www.openstreetmap.org/?lat=50.568213&lon=5.806360
+Pep http://www.openstreetmap.org/?lat=50.568213&lon=5.806360
 +X126412 http://www.openstreetmap.org/?lat=50.570230&lon=5.824900
-Ver +Verviers http://www.openstreetmap.org/?lat=50.588107&lon=5.855048
+Ver http://www.openstreetmap.org/?lat=50.588107&lon=5.855048
 +SKIP_VerPal http://www.openstreetmap.org/?lat=50.590770&lon=5.864253
 +X558211 http://www.openstreetmap.org/?lat=50.615285&lon=5.934849
 +SKIP_DolGil http://www.openstreetmap.org/?lat=50.626176&lon=5.938454
 +X413539 http://www.openstreetmap.org/?lat=50.659215&lon=5.971713
-Wel +Welkenraedt http://www.openstreetmap.org/?lat=50.659351&lon=5.975575
+Wel http://www.openstreetmap.org/?lat=50.659351&lon=5.975575

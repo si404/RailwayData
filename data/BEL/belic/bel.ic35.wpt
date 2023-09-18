@@ -1,16 +1,16 @@
 NLD/BEL http://www.openstreetmap.org/?lat=51.485699&lon=4.734550
 +X791054 http://www.openstreetmap.org/?lat=51.414224&lon=4.701805
-Noo +Nooderkempen http://www.openstreetmap.org/?lat=51.356963&lon=4.632969
+Noo http://www.openstreetmap.org/?lat=51.356963&lon=4.632969
 +X770624 http://www.openstreetmap.org/?lat=51.329995&lon=4.598808
 +X890488 http://www.openstreetmap.org/?lat=51.267796&lon=4.487743
 +X364853 http://www.openstreetmap.org/?lat=51.265970&lon=4.434443
 +DIV_S32N http://www.openstreetmap.org/?lat=51.258142&lon=4.426847
 +SKIP_AntLuc http://www.openstreetmap.org/?lat=51.244701&lon=4.424840
 +X806810 http://www.openstreetmap.org/?lat=51.233218&lon=4.425623
-AntCen +AntwerpenCentraal http://www.openstreetmap.org/?lat=51.215953&lon=4.420946
+AntCen http://www.openstreetmap.org/?lat=51.215953&lon=4.420946
 +X491940 http://www.openstreetmap.org/?lat=51.206218&lon=4.426095
 +X654075 http://www.openstreetmap.org/?lat=51.201499&lon=4.430323
-AntBer +AntwerpenBerchem http://www.openstreetmap.org/?lat=51.199630&lon=4.432340
+AntBer http://www.openstreetmap.org/?lat=51.199630&lon=4.432340
 +DIV_S32S http://www.openstreetmap.org/?lat=51.197452&lon=4.433820
 +DIV_IC9 http://www.openstreetmap.org/?lat=51.196420&lon=4.434700
 +DIV_S33 http://www.openstreetmap.org/?lat=51.185581&lon=4.444313
@@ -25,12 +25,12 @@ AntBer +AntwerpenBerchem http://www.openstreetmap.org/?lat=51.199630&lon=4.43234
 +SKIP_MecNek http://www.openstreetmap.org/?lat=51.030255&lon=4.490232
 +X524175 http://www.openstreetmap.org/?lat=51.026368&lon=4.490211
 +DIV_S4 http://www.openstreetmap.org/?lat=51.021753&lon=4.488559
-Mec +Mechelen http://www.openstreetmap.org/?lat=51.017663&lon=4.483860
+Mec http://www.openstreetmap.org/?lat=51.017663&lon=4.483860
 +DIV_L2 http://www.openstreetmap.org/?lat=51.014679&lon=4.479804
 +DIV_S5 http://www.openstreetmap.org/?lat=51.000408&lon=4.476457
 +X787531 http://www.openstreetmap.org/?lat=50.964427&lon=4.490747
 +DIV_IC17 http://www.openstreetmap.org/?lat=50.911246&lon=4.456458
-BruAirZav +BrusselsAirportZaventem http://www.openstreetmap.org/?lat=50.898337&lon=4.482336
+BruAirZav http://www.openstreetmap.org/?lat=50.898337&lon=4.482336
 +DIV_S2S9 http://www.openstreetmap.org/?lat=50.883150&lon=4.488130
 +SKIP_Zav http://www.openstreetmap.org/?lat=50.884991&lon=4.473023
 +SKIP_Die http://www.openstreetmap.org/?lat=50.890000&lon=4.445300
@@ -43,8 +43,8 @@ BruAirZav +BrusselsAirportZaventem http://www.openstreetmap.org/?lat=50.898337&l
 +SKIP_Sch http://www.openstreetmap.org/?lat=50.878351&lon=4.378846
 +X639578 http://www.openstreetmap.org/?lat=50.875792&lon=4.373953
 +DIV_S3 http://www.openstreetmap.org/?lat=50.869807&lon=4.365692
-BruNord +BruxellesNord http://www.openstreetmap.org/?lat=50.860174&lon=4.361250
+BruNord http://www.openstreetmap.org/?lat=50.860174&lon=4.361250
 +SKIP_BruCon http://www.openstreetmap.org/?lat=50.851888&lon=4.362516
-BruCen +BruxellesCentrale http://www.openstreetmap.org/?lat=50.845476&lon=4.357007
+BruCen http://www.openstreetmap.org/?lat=50.845476&lon=4.357007
 +SKIP_BruCha http://www.openstreetmap.org/?lat=50.841239&lon=4.348569
-BruMidi +BruxellesMidi http://www.openstreetmap.org/?lat=50.836662&lon=4.337690
+BruMidi http://www.openstreetmap.org/?lat=50.836662&lon=4.337690
