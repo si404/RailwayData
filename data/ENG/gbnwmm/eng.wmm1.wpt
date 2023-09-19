@@ -1,4 +1,6 @@
-WolStGeo http://www.openstreetmap.org/?lat=52.584007&lon=-2.124503
+WolSta http://www.openstreetmap.org/?lat=52.587811&lon=-2.120104
+PipRow http://www.openstreetmap.org/?lat=52.585154&lon=-2.122775
++DIV_Geo http://www.openstreetmap.org/?lat=52.583984&lon=-2.122840
 Roy http://www.openstreetmap.org/?lat=52.581060&lon=-2.116971
 Pri http://www.openstreetmap.org/?lat=52.571932&lon=-2.097970
 Cre http://www.openstreetmap.org/?lat=52.567953&lon=-2.080831
@@ -25,7 +27,7 @@ StPau http://www.openstreetmap.org/?lat=52.487151&lon=-1.904776
 StCha http://www.openstreetmap.org/?lat=52.484843&lon=-1.900683
 BullSt http://www.openstreetmap.org/?lat=52.482017&lon=-1.896477
 CorSt http://www.openstreetmap.org/?lat=52.479900&lon=-1.897019
-GraCen http://www.openstreetmap.org/?lat=52.478603&lon=-1.899245
+GraCen http://www.openstreetmap.org/?lat=52.477651&lon=-1.898704
 TownHall http://www.openstreetmap.org/?lat=52.479229&lon=-1.903306
 Lib http://www.openstreetmap.org/?lat=52.478706&lon=-1.908349
 BriPla http://www.openstreetmap.org/?lat=52.476713&lon=-1.912286
