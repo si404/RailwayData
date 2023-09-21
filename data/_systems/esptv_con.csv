@@ -1,7 +1,7 @@
 systemName;route;banner;groupName;roots
-esptv;4;;Valencia;espvc.4val
-esptv;4b;;Valencia;espvc.4bval
-esptv;4c;;Valencia;espvc.4cval
-esptv;6;;Valencia;espvc.6val
-esptv;8;;Valencia;espvc.8val
+esptv;4;;Valencia;espvc.04val
+esptv;4b;;Valencia;espvc.04bval
+esptv;4c;;Valencia;espvc.04cval
+esptv;6;;Valencia;espvc.06val
+esptv;8;;Valencia;espvc.08val
 esptv;10;;Valencia;espvc.10val
