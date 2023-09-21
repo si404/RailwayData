@@ -1,8 +1,8 @@
-Cuesta http://www.openstreetmap.org/?lat=28.467055&lon=-16.286019
-Ingenieros http://www.openstreetmap.org/?lat=28.462396&lon=-16.291029
-+X503819 http://www.openstreetmap.org/?lat=28.460690&lon=-16.292829
-HospitalUniversitario http://www.openstreetmap.org/?lat=28.457602&lon=-16.292719
-Cardonal http://www.openstreetmap.org/?lat=28.451650&lon=-16.293787
-+X477380 http://www.openstreetmap.org/?lat=28.449097&lon=-16.295879
-SanJeronimo http://www.openstreetmap.org/?lat=28.447879&lon=-16.298153
-Tincer http://www.openstreetmap.org/?lat=28.443737&lon=-16.304591
+Cue +Cuesta http://www.openstreetmap.org/?lat=28.467055&lon=-16.286019
+Ing +Ingenieros http://www.openstreetmap.org/?lat=28.462396&lon=-16.291029
++DIV_T1W http://www.openstreetmap.org/?lat=28.460690&lon=-16.292829
+HosUni +HospitalUniversitario http://www.openstreetmap.org/?lat=28.457602&lon=-16.292719
+Car +Cardonal http://www.openstreetmap.org/?lat=28.451650&lon=-16.293787
++DIV_T1E http://www.openstreetmap.org/?lat=28.449097&lon=-16.295879
+SanJer +SanJeronimo http://www.openstreetmap.org/?lat=28.447879&lon=-16.298153
+Tin +Tincer http://www.openstreetmap.org/?lat=28.443737&lon=-16.304591

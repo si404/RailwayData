@@ -1,32 +1,32 @@
-Utiel http://www.openstreetmap.org/?lat=39.570615&lon=-1.202316
-SanAntonioRequena http://www.openstreetmap.org/?lat=39.522300&lon=-1.150174
-Requena http://www.openstreetmap.org/?lat=39.491242&lon=-1.104598
-+X978005 http://www.openstreetmap.org/?lat=39.505249&lon=-1.069880
-+X143827 http://www.openstreetmap.org/?lat=39.487731&lon=-1.025763
-Rebollar http://www.openstreetmap.org/?lat=39.477397&lon=-1.011472
+Uti +Utiel http://www.openstreetmap.org/?lat=39.570615&lon=-1.202316
+SanAntReq +SanAntonioRequena http://www.openstreetmap.org/?lat=39.522300&lon=-1.150174
+Req +Requena http://www.openstreetmap.org/?lat=39.491242&lon=-1.104598
++DIV_AVE1 http://www.openstreetmap.org/?lat=39.505249&lon=-1.069880
++DIV_AVE2 http://www.openstreetmap.org/?lat=39.487731&lon=-1.025763
+Reb +Rebollar http://www.openstreetmap.org/?lat=39.477397&lon=-1.011472
 +X571279 http://www.openstreetmap.org/?lat=39.455530&lon=-0.932937
-SieteAguas http://www.openstreetmap.org/?lat=39.457253&lon=-0.901866
-VentaMina http://www.openstreetmap.org/?lat=39.454503&lon=-0.869894
+SieAgu +SieteAguas http://www.openstreetmap.org/?lat=39.457253&lon=-0.901866
+VenMina +VentaMina http://www.openstreetmap.org/?lat=39.454503&lon=-0.869894
 +X594552 http://www.openstreetmap.org/?lat=39.425188&lon=-0.840712
 +X410756 http://www.openstreetmap.org/?lat=39.418707&lon=-0.813031
-Bunol http://www.openstreetmap.org/?lat=39.427194&lon=-0.787368
+Bun +Bunol http://www.openstreetmap.org/?lat=39.427194&lon=-0.787368
 +X525880 http://www.openstreetmap.org/?lat=39.450966&lon=-0.734046
-Chiva http://www.openstreetmap.org/?lat=39.470953&lon=-0.723038
+Chi +Chiva http://www.openstreetmap.org/?lat=39.470953&lon=-0.723038
 +X482252 http://www.openstreetmap.org/?lat=39.489983&lon=-0.723510
-Cheste http://www.openstreetmap.org/?lat=39.490546&lon=-0.686216
+Che +Cheste http://www.openstreetmap.org/?lat=39.490546&lon=-0.686216
 +X975852 http://www.openstreetmap.org/?lat=39.502700&lon=-0.646605
-CircuitRicardoTormo http://www.openstreetmap.org/?lat=39.495547&lon=-0.625706
-LoriguillaReva http://www.openstreetmap.org/?lat=39.485553&lon=-0.567405
-Aldaia http://www.openstreetmap.org/?lat=39.461138&lon=-0.463743
-XirivellaAlqueries http://www.openstreetmap.org/?lat=39.462447&lon=-0.432179
-+X225330 http://www.openstreetmap.org/?lat=39.459912&lon=-0.417373
-ValenciaSantIsidre http://www.openstreetmap.org/?lat=39.449723&lon=-0.403876
-+X400984 http://www.openstreetmap.org/?lat=39.443542&lon=-0.397911
-+X102825 http://www.openstreetmap.org/?lat=39.441869&lon=-0.388663
-+X633696_B http://www.openstreetmap.org/?lat=39.442072&lon=-0.378063
-ValenciaFontSantLluis http://www.openstreetmap.org/?lat=39.441359&lon=-0.370746
-+X633696_A http://www.openstreetmap.org/?lat=39.442072&lon=-0.378063
-+X658156 http://www.openstreetmap.org/?lat=39.446376&lon=-0.383363
-+X555840 http://www.openstreetmap.org/?lat=39.451662&lon=-0.382140
-+X602260 http://www.openstreetmap.org/?lat=39.454528&lon=-0.381131
-ValenciaNord http://www.openstreetmap.org/?lat=39.465135&lon=-0.377795
+CirRicTor +CircuitRicardoTormo http://www.openstreetmap.org/?lat=39.495547&lon=-0.625706
+LorReva +LoriguillaReva http://www.openstreetmap.org/?lat=39.485553&lon=-0.567405
+Ald +Aldaia http://www.openstreetmap.org/?lat=39.461138&lon=-0.463743
+XirAlq +XirivellaAlqueries http://www.openstreetmap.org/?lat=39.462447&lon=-0.432179
++DIV_C4 http://www.openstreetmap.org/?lat=39.459912&lon=-0.417373
+ValSantIsi +ValenciaSantIsidre http://www.openstreetmap.org/?lat=39.449723&lon=-0.403876
++DIV_AVE3 http://www.openstreetmap.org/?lat=39.443542&lon=-0.397911
++DIV_AVE4 http://www.openstreetmap.org/?lat=39.441869&lon=-0.388663
++DIV_C5C6 http://www.openstreetmap.org/?lat=39.442072&lon=-0.378063
+ValFontSantLlu +ValenciaFontSantLluis http://www.openstreetmap.org/?lat=39.441359&lon=-0.370746
++DIV_C3 http://www.openstreetmap.org/?lat=39.442072&lon=-0.378063
++CIV_C1C2 http://www.openstreetmap.org/?lat=39.446376&lon=-0.383363
++DIV_AVES http://www.openstreetmap.org/?lat=39.451662&lon=-0.382140
++DIV_AVEN http://www.openstreetmap.org/?lat=39.454528&lon=-0.381131
+ValNord +ValenciaNord http://www.openstreetmap.org/?lat=39.465135&lon=-0.377795
