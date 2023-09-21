@@ -2,7 +2,8 @@ systemName;region;route;banner;abbrev;city;root;altRouteNames
 usaair;NY;AirTrn;;ATL;JFK (Airport Terminals Loop);ny.airtrnatl;
 usaair;NY;AirTrn;;How;JFK (Howard Beach);ny.airtrnhow;
 usaair;NY;AirTrn;;Jam;JFK (Jamaica);ny.airtrnjam;
-usaair;NJ;AirTrn;;;Newark;nj.airtrn;
+usaair;NJ;AirTrn;;;EWR Newark;nj.airtrn;
 usaair;GA;SkyTrn;;;ATL Sky Train;ga.skytrn;
 usaair;FL;MiaM;;;MIA Mover;fl.miam;
 usaair;AZ;PHX;;;PHX Sky Train;az.phx;
+usaair;IL;AirTraSys;;;ORD Airport Transit System;il.airtrasys;
