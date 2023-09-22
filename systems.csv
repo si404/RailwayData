@@ -176,7 +176,7 @@ espmm;ESP;Metro de Madrid;TMblue;3;preview
 espmma;ESP;Metro de Málaga;TMblue;3;preview
 espmp;ESP;Metro de Palma;TMblue;3;preview
 espms;ESP;Metro de Sevilla;TMblue;3;preview
-espmv;ESP;Metrovalencia;TMblue;3;preview
+espmv;ESP;Metrovalencia (Metro);TMblue;3;preview
 espetb;ESP;Euskotren Tranbia;TMred;4;preview
 espmg;ESP;Metro de Granada;TMred;4;preview
 espmlm;ESP;Metro Ligero de Madrid;TMred;4;preview
@@ -186,6 +186,7 @@ esptbc;ESP;TRAMBahía de Cádiz;TMred;4;preview
 esptmu;ESP;Tranvia de Murcia;TMred;4;preview
 espts;ESP;Metrocentro de Sevilla;TMred;4;preview
 esptt;ESP;Tranvía de Tenerife;TMred;4;preview
+esptv;ESP;Metrovalencia (Tramvia);TMred;4;preview
 esptz;ESP;Tranvía de Zaragoza;TMred;4;preview
 eures;EUR;Eurostar;TMgray;1;preview
 euret;EUR;LeShuttle (Eurotunnel);TMgray;1;preview

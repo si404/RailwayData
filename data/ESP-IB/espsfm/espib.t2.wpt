@@ -1,23 +1,23 @@
-PlacaEspanya http://www.openstreetmap.org/?lat=39.576478&lon=2.654314
-JacintVerdaguer http://www.openstreetmap.org/?lat=39.580067&lon=2.660000
-SonCostaSonFortesa http://www.openstreetmap.org/?lat=39.584135&lon=2.665815
-+X148277 http://www.openstreetmap.org/?lat=39.586080&lon=2.668594
-SonFuster http://www.openstreetmap.org/?lat=39.590200&lon=2.674592
-SonCladeraVivero http://www.openstreetmap.org/?lat=39.593499&lon=2.679344
-VergeLluc http://www.openstreetmap.org/?lat=39.596773&lon=2.686372
+PlaEsp PlacaEspanya http://www.openstreetmap.org/?lat=39.576478&lon=2.654314
+JacVer JacintVerdaguer http://www.openstreetmap.org/?lat=39.580067&lon=2.660000
+SonCosSonFor SonCostaSonFortesa http://www.openstreetmap.org/?lat=39.584135&lon=2.665815
++DIV_M1 http://www.openstreetmap.org/?lat=39.586080&lon=2.668594
+SonFus SonFuster http://www.openstreetmap.org/?lat=39.590200&lon=2.674592
+SonClaViv SonCladeraVivero http://www.openstreetmap.org/?lat=39.593499&lon=2.679344
+VerLluc VergeLluc http://www.openstreetmap.org/?lat=39.596773&lon=2.686372
 PontInca http://www.openstreetmap.org/?lat=39.598104&lon=2.691715
 PontIncaNou http://www.openstreetmap.org/?lat=39.604411&lon=2.701499
-PoligonMarratxi http://www.openstreetmap.org/?lat=39.615495&lon=2.716777
-Marratxi http://www.openstreetmap.org/?lat=39.625354&lon=2.725575
-Caulls http://www.openstreetmap.org/?lat=39.632010&lon=2.736475
+PolMar PoligonMarratxi http://www.openstreetmap.org/?lat=39.615495&lon=2.716777
+Mar Marratxi http://www.openstreetmap.org/?lat=39.625354&lon=2.725575
+Cau Caulls http://www.openstreetmap.org/?lat=39.632010&lon=2.736475
 +X115038 http://www.openstreetmap.org/?lat=39.654185&lon=2.753019
-SantaMaria http://www.openstreetmap.org/?lat=39.653144&lon=2.774048
-AleroConsell http://www.openstreetmap.org/?lat=39.677681&lon=2.808681
-Binissalem http://www.openstreetmap.org/?lat=39.692411&lon=2.841253
-Lloseta http://www.openstreetmap.org/?lat=39.716282&lon=2.869277
+SanMar SantaMaria http://www.openstreetmap.org/?lat=39.653144&lon=2.774048
+AleCon AleroConsell http://www.openstreetmap.org/?lat=39.677681&lon=2.808681
+Bin Binissalem http://www.openstreetmap.org/?lat=39.692411&lon=2.841253
+Llo Lloseta http://www.openstreetmap.org/?lat=39.716282&lon=2.869277
 Inca http://www.openstreetmap.org/?lat=39.717998&lon=2.905927
-Enllac http://www.openstreetmap.org/?lat=39.690636&lon=2.951267
-+X340108 http://www.openstreetmap.org/?lat=39.689438&lon=2.954164
-Llubi http://www.openstreetmap.org/?lat=39.711371&lon=2.994075
+Enl Enllac http://www.openstreetmap.org/?lat=39.690636&lon=2.951267
++DIV_T3 http://www.openstreetmap.org/?lat=39.689438&lon=2.954164
+Llu Llubi http://www.openstreetmap.org/?lat=39.711371&lon=2.994075
 Muro http://www.openstreetmap.org/?lat=39.733941&lon=3.031969
-SaPobla http://www.openstreetmap.org/?lat=39.764428&lon=3.029265
+SaPob SaPobla http://www.openstreetmap.org/?lat=39.764428&lon=3.029265
