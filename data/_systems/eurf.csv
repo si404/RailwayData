@@ -1,0 +1,27 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+eurf;WLS;AbeCliRwy;;;Rheilffordd y Graig, Aberystwyth;wls.abeclirwy;
+eurf;ENG;FWCliLift;;;Fisherman's Walk Cliff Lift, Bournemouth;eng.fwclilift;
+eurf;ENG;WestCliLift;;;West Cliff Lift, Bournemouth;eng.wesclilift;
+eurf;ENG;BriCliRwy;;;Bridgnorth Cliff Railway;eng.briclirwy;
+eurf;WLS;EbbwValeCab;;;Ebbw Vale Cableway;wls.ebbwvalecab;
+eurf;ITA-LIG;CPG;;;Cremagliera Principe - Granarolo, Genova;italig.cpg;
+eurf;ITA-LIG;FSA;;;Funicolare Sant'Anna, Genova;italig.fsa;
+eurf;ITA-LIG;FZR;;;Funicolare Zecca - Righi, Genova;italig.fzr;
+eurf;ENG;EastHillLift;;;East Hill Lift, Hastings;eng.easthilllift;
+eurf;ENG;WestHillLift;;;West Hill Lift, Hastings;eng.westhilllift;
+eurf;FRA-NOR;Fun;;;Funiculaire du Havre;franor.fun;
+eurf;WLS;DeepMineRwy;;;Deep Mine Railway, Llechwedd Slate Caverns;wls.deepminerwy;
+eurf;FRA-ARA;F1;;;Funiculaire de Saint-Just, Lyon;fraara.f1;
+eurf;FRA-ARA;F2;;;Funiculaire de Fourvière, Lyon;fraara.f2;
+eurf;ENG;LLCliRwy;;;Lynton and Lynmouth Cliff Railway;eng.llclirwy;
+eurf;WLS;CATFun;;;Centre for Alternative Technology Funicular, Machynlleth;wls.catfun;
+eurf;ITA-CAM;A;;;Funicolare Centrale, Napoli;itacam.a;
+eurf;ITA-CAM;B;;;Funicolare di Chiaia, Napoli;itacam.b;
+eurf;ITA-CAM;C;;;Funicolare di Montesanto, Napoli;itacam.c;
+eurf;ITA-CAM;D;;;Funicolare di Mergellina, Napoli;itacam.d;
+eurf;FRA-IDF;FunMon;;;Funiculaire de Montmartre, Paris;fraidf.funmon;
+eurf;ENG;SalCliTwy;;;Saltburn Cliff Tramway;eng.salclitwy;
+eurf;ENG;CenTwy;;;Central Tramway, Scarborough;eng.centwy;
+eurf;ENG;CliLift;;;Cliff Lift, Southend-on-Sea;eng.clilift;
+eurf;ENG;BabCliRwy;;;Babbacombe Cliff Railway, Torquay;eng.babclirwy;
+eurf;ENG;LegHillTrn;;;Legoland Hill Train, Windsor;eng.leghilltrn;

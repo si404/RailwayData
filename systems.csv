@@ -193,6 +193,7 @@ euret;EUR;LeShuttle (Eurotunnel);TMgray;1;preview
 eurapm;EUR;Europe Airport People Movers (landside);TMyellow;5;preview
 eurapma;EUR;Europe Airport People Movers (airside);TMyellow;5;preview
 eurat;EUR;Europe Aerial Tramways;TMyellow;5;preview
+eurf;EUR;Europe Funiculars;TMyellow;5;preview
 eurhr;EUR;Europe Heritage & Tourist Railways;TMbrown;5;preview
 fracp;FRA;Chemins de fer de Provence;TMgreen;2;preview
 frahdfter;FRA;TER Hauts-de-France;TMgreen;2;preview
@@ -233,9 +234,6 @@ frast;FRA;Strasbourg Tramway;TMred;4;preview
 fratot;FRA;Tours Tramway;TMred;4;preview
 fratt;FRA;Toulouse Tramway;TMred;4;preview
 fravt;FRA;Valenciennes Tramway;TMred;4;preview
-frafdm;FRA;Funiculaire de Montmartre;TMyellow;5;preview
-fralhf;FRA;Funicular de Havre;TMyellow;5;preview
-fralyf;FRA;Lyon Funiculars;TMyellow;5;preview
 gbncs;GBR;National Rail: Caledonian Sleeper;TMgray;1;preview
 gbnemi;GBR;National Rail: East Midlands Railway Intercity;TMgray;2;preview
 gbnemc;GBR;National Rail: East Midlands Railway Connect;TMgray;2;preview
@@ -312,8 +310,6 @@ itart;ITA;Tranviaria di Roma;TMred;4;preview
 itamt;ITA;Tranviaria di Milano;TMred;4;preview
 itant;ITA;Tranviaria di Napoli;TMred;4;preview
 itatt;ITA;Tranviaria di Torino;TMred;4;preview
-itagf;ITA;Funicolari di Genova;TMyellow;5;preview
-itanfc;ITA;Funicolari di Napoli;TMyellow;5;preview
 luxcfl;LUX;Société Nationale des Chemins de Fer Luxembourgeois;TMgreen;2;preview
 luxst;LUX;Stater Tram;TMred;4;preview
 nldic;NLD;Netherlands;TMgray;1;preview
