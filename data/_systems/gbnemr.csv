@@ -1,0 +1,11 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+gbnemr;ENG;BarLn;;;Barton Line;eng.barln;
+gbnemr;ENG;CasLn;;;Castle Line;eng.casln;
+gbnemr;ENG;DerVlyLn;;;Derwent Valley Line;eng.dervlyln;
+gbnemr;ENG;ImpsLn;;;Imps Line;eng.impsln;
+gbnemr;ENG;LivNorLn;;;Liverpool-Norwich Line;eng.livnorln;
+gbnemr;ENG;NorStaLn;;;North Staffordshire Line;eng.norstaln;
+gbnemr;ENG;PoaLn;;;Poacher Line;eng.poaln;
+gbnemr;ENG;RedLn;;;Redwing Line;eng.redln;
+gbnemr;ENG;RobHoodLn;;;Robin Hood Line;eng.robhoodln;
+gbnemr;ENG;RomLn;;;Roman Line;eng.romln;
