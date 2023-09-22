@@ -1,28 +1,28 @@
-LasarteOria http://www.openstreetmap.org/?lat=43.270886&lon=-2.020175
-+X177111 http://www.openstreetmap.org/?lat=43.276991&lon=-2.019006
-Errekalde http://www.openstreetmap.org/?lat=43.278732&lon=-2.007419
-Anorga http://www.openstreetmap.org/?lat=43.291806&lon=-1.994609
-Lugaritz http://www.openstreetmap.org/?lat=43.302426&lon=-2.000670
+LasOria +LasarteOria http://www.openstreetmap.org/?lat=43.270886&lon=-2.020175
++DIV_E1 http://www.openstreetmap.org/?lat=43.276991&lon=-2.019006
+Errk +Errekalde http://www.openstreetmap.org/?lat=43.278732&lon=-2.007419
+Anor +Anorga http://www.openstreetmap.org/?lat=43.291806&lon=-1.994609
+Lug +Lugaritz http://www.openstreetmap.org/?lat=43.302426&lon=-2.000670
 +X749657 http://www.openstreetmap.org/?lat=43.303886&lon=-1.998804
-+X938595_A http://www.openstreetmap.org/?lat=43.310530&lon=-1.981541
-AmaraDonostia http://www.openstreetmap.org/?lat=43.312583&lon=-1.981455
-+X938595_B http://www.openstreetmap.org/?lat=43.310530&lon=-1.981541
-Anoeta http://www.openstreetmap.org/?lat=43.302274&lon=-1.974792
-Loiola http://www.openstreetmap.org/?lat=43.310487&lon=-1.967926
-Intxaurrondo http://www.openstreetmap.org/?lat=43.314258&lon=-1.954837
-Herrera http://www.openstreetmap.org/?lat=43.319683&lon=-1.937177
-+X691018 http://www.openstreetmap.org/?lat=43.320454&lon=-1.935686
++DIV_E2E5 http://www.openstreetmap.org/?lat=43.310530&lon=-1.981541
+AmaDon +AmaraDonostia http://www.openstreetmap.org/?lat=43.312583&lon=-1.981455
++DIV_E1E2 http://www.openstreetmap.org/?lat=43.310530&lon=-1.981541
+Anoe +Anoeta http://www.openstreetmap.org/?lat=43.302274&lon=-1.974792
+Loi +Loiola http://www.openstreetmap.org/?lat=43.310487&lon=-1.967926
+Int +Intxaurrondo http://www.openstreetmap.org/?lat=43.314258&lon=-1.954837
+Her +Herrera http://www.openstreetmap.org/?lat=43.319683&lon=-1.937177
++DIV_E5 http://www.openstreetmap.org/?lat=43.320454&lon=-1.935686
 +X448776 http://www.openstreetmap.org/?lat=43.320897&lon=-1.924517
-Pasaia http://www.openstreetmap.org/?lat=43.318192&lon=-1.918015
-Galtzaraborda http://www.openstreetmap.org/?lat=43.312368&lon=-1.906385
-Errenteria http://www.openstreetmap.org/?lat=43.310963&lon=-1.898682
-Fanderia http://www.openstreetmap.org/?lat=43.308293&lon=-1.888876
-Oiartzun http://www.openstreetmap.org/?lat=43.308590&lon=-1.879156
-+X751812 http://www.openstreetmap.org/?lat=43.315694&lon=-1.871088
-Gaintxurizketa http://www.openstreetmap.org/?lat=43.326778&lon=-1.857591
-Bentak http://www.openstreetmap.org/?lat=43.330087&lon=-1.817701
-+X927831 http://www.openstreetmap.org/?lat=43.332350&lon=-1.813753
-Belaskoenea http://www.openstreetmap.org/?lat=43.336611&lon=-1.803432
+Pas +Pasaia http://www.openstreetmap.org/?lat=43.318192&lon=-1.918015
+Gal +Galtzaraborda http://www.openstreetmap.org/?lat=43.312368&lon=-1.906385
+Errn +Errenteria http://www.openstreetmap.org/?lat=43.310963&lon=-1.898682
+Fan +Fanderia http://www.openstreetmap.org/?lat=43.308293&lon=-1.888876
+Oia +Oiartzun http://www.openstreetmap.org/?lat=43.308590&lon=-1.879156
++DIV_C1 http://www.openstreetmap.org/?lat=43.315694&lon=-1.871088
+Gai +Gaintxurizketa http://www.openstreetmap.org/?lat=43.326778&lon=-1.857591
+Ben +Bentak http://www.openstreetmap.org/?lat=43.330087&lon=-1.817701
++DIV_C1E http://www.openstreetmap.org/?lat=43.332350&lon=-1.813753
+Bel +Belaskoenea http://www.openstreetmap.org/?lat=43.336611&lon=-1.803432
 Irun http://www.openstreetmap.org/?lat=43.340957&lon=-1.796179
-IrunFicoba http://www.openstreetmap.org/?lat=43.349470&lon=-1.786244
+IrunFic +IrunFicoba http://www.openstreetmap.org/?lat=43.349470&lon=-1.786244
 ESP/FRA http://www.openstreetmap.org/?lat=43.350078&lon=-1.785514

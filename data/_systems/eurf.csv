@@ -1,5 +1,8 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
 eurf;WLS;AbeCliRwy;;;Rheilffordd y Graig, Aberystwyth;wls.abeclirwy;
+eurf;ESP-PV;F;;;Artxandako funikularra, Bilbo;esppv.f;
+eurf;ESP-PV;FE;;;Larreinetako funikularra, Bilbo;esppv.fe;
+eurf;ESP-PV;L;;;Mamariga funikularra, Bilbo;esppv.l;
 eurf;ENG;FWCliLift;;;Fisherman's Walk Cliff Lift, Bournemouth;eng.fwclilift;
 eurf;ENG;WestCliLift;;;West Cliff Lift, Bournemouth;eng.wesclilift;
 eurf;ENG;BriCliRwy;;;Bridgnorth Cliff Railway;eng.briclirwy;

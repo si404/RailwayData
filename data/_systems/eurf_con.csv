@@ -1,9 +1,12 @@
 systemName;route;banner;groupName;roots
 eurf;AbeCliRwy;;Rheilffordd y Graig, Aberystwyth;wls.abeclirwy
-eurf;EbbwValeCab;;Ebbw Vale Cableway;wls.ebbwvalecab
+eurf;F;;Artxandako funikularra, Bilbo;esppv.f
+eurf;FE;;Larreinetako funikularra, Bilbo;esppv.fe
+eurf;L;;Mamariga funikularra, Bilbo;esppv.l
 eurf;FWCliLift;;Fisherman's Walk Cliff Lift, Bournemouth;eng.fwclilift
 eurf;WestCliLift;;West Cliff Lift, Bournemouth;eng.wesclilift
 eurf;BriCliRwy;;Bridgnorth Cliff Railway;eng.briclirwy
+eurf;EbbwValeCab;;Ebbw Vale Cableway;wls.ebbwvalecab
 eurf;CPG;;Cremagliera Principe - Granarolo, Genova;italig.cpg
 eurf;FSA;;Funicolare Sant'Anna, Genova;italig.fsa
 eurf;FZR;;Funicolare Zecca - Righi, Genova;italig.fzr

@@ -1,5 +1,4 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
 espbm;ESP-PV;L1;;;;esppv.l1;
 espbm;ESP-PV;L2;;;;esppv.l2;
-espbm;ESP-PV;L;;;;esppv.l;
 espbm;ESP-PV;L3;;;;esppv.l3;
