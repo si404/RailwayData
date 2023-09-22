@@ -4,7 +4,7 @@ Urd http://www.openstreetmap.org/?lat=43.378988&lon=-2.958144
 Sop http://www.openstreetmap.org/?lat=43.380216&lon=-2.978947
 Lar http://www.openstreetmap.org/?lat=43.375694&lon=-2.991457
 Ber http://www.openstreetmap.org/?lat=43.366959&lon=-2.999547
-Iba +IBB http://www.openstreetmap.org/?lat=43.363230&lon=-3.006928
+Iba http://www.openstreetmap.org/?lat=43.363230&lon=-3.006928
 Bid http://www.openstreetmap.org/?lat=43.356475&lon=-3.011241
 Alg http://www.openstreetmap.org/?lat=43.350328&lon=-3.009310
 Aib http://www.openstreetmap.org/?lat=43.344024&lon=-3.002636
@@ -18,10 +18,10 @@ Era http://www.openstreetmap.org/?lat=43.303488&lon=-2.974344
 +DIV_E3 http://www.openstreetmap.org/?lat=43.293969&lon=-2.970471
 Lut http://www.openstreetmap.org/?lat=43.290971&lon=-2.969903
 +DIV_L2 http://www.openstreetmap.org/?lat=43.285192&lon=-2.964678
-SanIgn +SIN http://www.openstreetmap.org/?lat=43.280771&lon=-2.962543
+SanIgn http://www.openstreetmap.org/?lat=43.280771&lon=-2.962543
 Sar http://www.openstreetmap.org/?lat=43.274772&lon=-2.958498
 Deu http://www.openstreetmap.org/?lat=43.271530&lon=-2.949582
-SanMam +SAM http://www.openstreetmap.org/?lat=43.262202&lon=-2.948563
+SanMam http://www.openstreetmap.org/?lat=43.262202&lon=-2.948563
 Ind http://www.openstreetmap.org/?lat=43.261296&lon=-2.941847
 Moy http://www.openstreetmap.org/?lat=43.262573&lon=-2.933028
 Aba http://www.openstreetmap.org/?lat=43.260562&lon=-2.926837
