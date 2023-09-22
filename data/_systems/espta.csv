@@ -1,7 +1,7 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-espta;ESP-VC;L1;;Ali;Alicante;espvc.l1ali;
-espta;ESP-VC;L2;;Ali;Alicante;espvc.l2ali;
-espta;ESP-VC;L3;;Ali;Alicante;espvc.l3ali;
-espta;ESP-VC;L4;;Ali;Alicante;espvc.l4ali;
-espta;ESP-VC;L5;;Ali;Alicante;espvc.l5ali;
-espta;ESP-VC;L9;;Ali;Alicante;espvc.l9ali;
+espta;ESP-VC;L1;;;Alicante;espvc.l1;L1Ali
+espta;ESP-VC;L2;;;Alicante;espvc.l2;L2Ali
+espta;ESP-VC;L3;;;Alicante;espvc.l3;L3Ali
+espta;ESP-VC;L4;;;Alicante;espvc.l4;L4Ali
+espta;ESP-VC;L5;;;Alicante;espvc.l5;L5Ali
+espta;ESP-VC;L9;;;Alicante;espvc.l9;L9Ali

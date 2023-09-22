@@ -1,7 +1,7 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-espmv;ESP-VC;1;;Val;Valencia;espvc.01val;L1
-espmv;ESP-VC;2;;Val;Valencia;espvc.02val;L2
-espmv;ESP-VC;3;;Val;Valencia;espvc.03val;L3
-espmv;ESP-VC;5;;Val;Valencia;espvc.05val;L5
-espmv;ESP-VC;7;;Val;Valencia;espvc.07val;L7
-espmv;ESP-VC;9;;Val;Valencia;espvc.09val;L9
+espmv;ESP-VC;1;;Val;Valencia;espvc.01val;
+espmv;ESP-VC;2;;Val;Valencia;espvc.02val;
+espmv;ESP-VC;3;;Val;Valencia;espvc.03val;
+espmv;ESP-VC;5;;Val;Valencia;espvc.05val;
+espmv;ESP-VC;7;;Val;Valencia;espvc.07val;
+espmv;ESP-VC;9;;Val;Valencia;espvc.09val;

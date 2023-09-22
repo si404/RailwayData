@@ -1,29 +1,29 @@
-RecTerNat_1 RectoresTerraNatura_1 http://www.openstreetmap.org/?lat=38.012453&lon=-1.162062
+RecTerNat_1 http://www.openstreetmap.org/?lat=38.012453&lon=-1.162062
 +DIV_1B1 http://www.openstreetmap.org/?lat=38.011790&lon=-1.166171
 +DIV_Lp1 http://www.openstreetmap.org/?lat=38.012339&lon=-1.168885
-UniMur UniversidadMurcia http://www.openstreetmap.org/?lat=38.014702&lon=-1.167619
-SerInv ServiciosInvestigacion http://www.openstreetmap.org/?lat=38.018506&lon=-1.166675
-CenSoc CentroSocial http://www.openstreetmap.org/?lat=38.021751&lon=-1.168907
-BibGen BibliotecaGeneral http://www.openstreetmap.org/?lat=38.018286&lon=-1.172168
-ResUni ResidenciaUniversaria http://www.openstreetmap.org/?lat=38.014110&lon=-1.173692
+UniMur http://www.openstreetmap.org/?lat=38.014702&lon=-1.167619
+SerInv http://www.openstreetmap.org/?lat=38.018506&lon=-1.166675
+CenSoc http://www.openstreetmap.org/?lat=38.021751&lon=-1.168907
+BibGen http://www.openstreetmap.org/?lat=38.018286&lon=-1.172168
+ResUni http://www.openstreetmap.org/?lat=38.014110&lon=-1.173692
 +DIV_Lp2 http://www.openstreetmap.org/?lat=38.012339&lon=-1.168885
 +DIV_1B2 http://www.openstreetmap.org/?lat=38.011790&lon=-1.166171
-RecTerNat_2 RectoresTerraNatura_2 http://www.openstreetmap.org/?lat=38.012453&lon=-1.162062
-Esp Espinardo http://www.openstreetmap.org/?lat=38.013620&lon=-1.155689
-Pun Puntal http://www.openstreetmap.org/?lat=38.012724&lon=-1.152148
-ParEmp ParqueEmpresarial http://www.openstreetmap.org/?lat=38.008294&lon=-1.146526
-SenGra SendaGranada http://www.openstreetmap.org/?lat=38.002952&lon=-1.141183
-BibReg BibliotecaRegional http://www.openstreetmap.org/?lat=37.998505&lon=-1.136677
-JuanCarI JuanCarlosI http://www.openstreetmap.org/?lat=37.994345&lon=-1.132600
-PlaCir PlazaCircular http://www.openstreetmap.org/?lat=37.992214&lon=-1.128974
-MarEsp MarinaEspanola http://www.openstreetmap.org/?lat=37.993854&lon=-1.124468
-Abe Abenarabi http://www.openstreetmap.org/?lat=37.998657&lon=-1.126764
-PriAst PrincipeAsturias http://www.openstreetmap.org/?lat=38.003442&lon=-1.129060
-SanZar SantiagoZaraiche http://www.openstreetmap.org/?lat=38.007618&lon=-1.129553
-Cub Cubos http://www.openstreetmap.org/?lat=38.012166&lon=-1.131785
-Ala Alameda http://www.openstreetmap.org/?lat=38.017694&lon=-1.137364
-Chu Churra http://www.openstreetmap.org/?lat=38.021717&lon=-1.139038
-PriFel PrincipeFelipe http://www.openstreetmap.org/?lat=38.026924&lon=-1.142406
-Inf Infantas http://www.openstreetmap.org/?lat=38.031453&lon=-1.145775
-Lad Ladera http://www.openstreetmap.org/?lat=38.034867&lon=-1.143694
-EstNueCon EstadioNuevaCondomina http://www.openstreetmap.org/?lat=38.040309&lon=-1.146398
+RecTerNat_2 http://www.openstreetmap.org/?lat=38.012453&lon=-1.162062
+Esp http://www.openstreetmap.org/?lat=38.013620&lon=-1.155689
+Pun http://www.openstreetmap.org/?lat=38.012724&lon=-1.152148
+ParEmp http://www.openstreetmap.org/?lat=38.008294&lon=-1.146526
+SenGra http://www.openstreetmap.org/?lat=38.002952&lon=-1.141183
+BibReg http://www.openstreetmap.org/?lat=37.998505&lon=-1.136677
+JuanCarI http://www.openstreetmap.org/?lat=37.994345&lon=-1.132600
+PlaCir http://www.openstreetmap.org/?lat=37.992214&lon=-1.128974
+MarEsp http://www.openstreetmap.org/?lat=37.993854&lon=-1.124468
+Abe http://www.openstreetmap.org/?lat=37.998657&lon=-1.126764
+PriAst http://www.openstreetmap.org/?lat=38.003442&lon=-1.129060
+SanZar http://www.openstreetmap.org/?lat=38.007618&lon=-1.129553
+Cub http://www.openstreetmap.org/?lat=38.012166&lon=-1.131785
+Ala http://www.openstreetmap.org/?lat=38.017694&lon=-1.137364
+Chu http://www.openstreetmap.org/?lat=38.021717&lon=-1.139038
+PriFel http://www.openstreetmap.org/?lat=38.026924&lon=-1.142406
+Inf http://www.openstreetmap.org/?lat=38.031453&lon=-1.145775
+Lad http://www.openstreetmap.org/?lat=38.034867&lon=-1.143694
+EstNueCon http://www.openstreetmap.org/?lat=38.040309&lon=-1.146398
