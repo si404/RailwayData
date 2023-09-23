@@ -1,48 +1,39 @@
-ColmenarViejo http://www.openstreetmap.org/?lat=40.644951&lon=-3.776100
-+X502617 http://www.openstreetmap.org/?lat=40.653254&lon=-3.751724
-+X959246 http://www.openstreetmap.org/?lat=40.645391&lon=-3.723400
-+X721862 http://www.openstreetmap.org/?lat=40.634888&lon=-3.728957
-+X164304 http://www.openstreetmap.org/?lat=40.619075&lon=-3.728957
-TresCantos http://www.openstreetmap.org/?lat=40.598501&lon=-3.715782
-+X406648 http://www.openstreetmap.org/?lat=40.593026&lon=-3.711855
-+X549608 http://www.openstreetmap.org/?lat=40.573935&lon=-3.711104
-+X207196 http://www.openstreetmap.org/?lat=40.565989&lon=-3.715847
-+X930635 http://www.openstreetmap.org/?lat=40.561034&lon=-3.714945
-Goloso http://www.openstreetmap.org/?lat=40.557838&lon=-3.713937
-+X229456 http://www.openstreetmap.org/?lat=40.553339&lon=-3.712413
-+X633654 http://www.openstreetmap.org/?lat=40.548203&lon=-3.710310
-+X959136 http://www.openstreetmap.org/?lat=40.545774&lon=-3.701599
-CantoblancoUniversidad http://www.openstreetmap.org/?lat=40.543735&lon=-3.700333
+AlcSanSebRey  +AlcobendasSanSebastianReyes http://www.openstreetmap.org/?lat=40.546572&lon=-3.635037
+Val +Valdelasfuentes http://www.openstreetmap.org/?lat=40.547437&lon=-3.654284
+UniPonCom +UniversidadPontifciaComillas http://www.openstreetmap.org/?lat=40.554024&lon=-3.683488
++DIV_C4b http://www.openstreetmap.org/?lat=40.545774&lon=-3.701599
+CanUni +CantoblancoUniversidad http://www.openstreetmap.org/?lat=40.543735&lon=-3.700333
 +X590386 http://www.openstreetmap.org/?lat=40.534978&lon=-3.698702
-+X403887 http://www.openstreetmap.org/?lat=40.531293&lon=-3.695784
++DIV_AVE2 http://www.openstreetmap.org/?lat=40.531293&lon=-3.695784
 +X943626 http://www.openstreetmap.org/?lat=40.513881&lon=-3.683939
-Fuencarral http://www.openstreetmap.org/?lat=40.501588&lon=-3.681107
-+X591843 http://www.openstreetmap.org/?lat=40.484686&lon=-3.676375
-Chamartin http://www.openstreetmap.org/?lat=40.473844&lon=-3.681579
-+X678965 http://www.openstreetmap.org/?lat=40.469062&lon=-3.683231
-+X483061 http://www.openstreetmap.org/?lat=40.466001&lon=-3.682823
-NuevosMinisterios http://www.openstreetmap.org/?lat=40.445241&lon=-3.691943
+Fue +Fuencarral http://www.openstreetmap.org/?lat=40.501588&lon=-3.681107
++DIV_C1C10N http://www.openstreetmap.org/?lat=40.484686&lon=-3.676375
++DIV_C3C7C8 http://www.openstreetmap.org/?lat=40.479410&lon=-3.679326
+Cha +Chamartin http://www.openstreetmap.org/?lat=40.473844&lon=-3.681579
++DIV_C1C2C7 http://www.openstreetmap.org/?lat=40.469062&lon=-3.683231
++X570380 http://www.openstreetmap.org/?lat=40.456915&lon=-3.690419
+NueMin +NuevosMinisterios http://www.openstreetmap.org/?lat=40.445241&lon=-3.691943
 +X863106 http://www.openstreetmap.org/?lat=40.430938&lon=-3.694067
 Sol http://www.openstreetmap.org/?lat=40.416935&lon=-3.703337
 +X155624 http://www.openstreetmap.org/?lat=40.413259&lon=-3.701363
-+X685554 http://www.openstreetmap.org/?lat=40.408084&lon=-3.691374
-Atocha http://www.openstreetmap.org/?lat=40.405919&lon=-3.689572
-+X251046 http://www.openstreetmap.org/?lat=40.402864&lon=-3.685162
-+X977799 http://www.openstreetmap.org/?lat=40.400641&lon=-3.679626
-+X839460 http://www.openstreetmap.org/?lat=40.397794&lon=-3.676933
-+X716815 http://www.openstreetmap.org/?lat=40.393880&lon=-3.673296
++DIV_C1C2C5 http://www.openstreetmap.org/?lat=40.408084&lon=-3.691374
+Ato +Atocha http://www.openstreetmap.org/?lat=40.405919&lon=-3.689572
++DIV_C5 http://www.openstreetmap.org/?lat=40.402864&lon=-3.685162
++DIV_C1C10S http://www.openstreetmap.org/?lat=40.400641&lon=-3.679626
++X719244 http://www.openstreetmap.org/?lat=40.397487&lon=-3.675184
++DIV_C2C7C8 http://www.openstreetmap.org/?lat=40.393880&lon=-3.673296
 +X309009 http://www.openstreetmap.org/?lat=40.377985&lon=-3.682394
-+X995812 http://www.openstreetmap.org/?lat=40.368283&lon=-3.677866
++DIV_AVE1 http://www.openstreetmap.org/?lat=40.368283&lon=-3.677866
 +X202904 http://www.openstreetmap.org/?lat=40.355808&lon=-3.683596
-VillaverdeBajo http://www.openstreetmap.org/?lat=40.352644&lon=-3.683960
-+X580170 http://www.openstreetmap.org/?lat=40.349892&lon=-3.683800
-+X629058 http://www.openstreetmap.org/?lat=40.341102&lon=-3.705869
-VillaverdaAlto http://www.openstreetmap.org/?lat=40.341280&lon=-3.711662
-+X555170 http://www.openstreetmap.org/?lat=40.341552&lon=-3.715589
+VilBajo +VillaverdeBajo http://www.openstreetmap.org/?lat=40.352644&lon=-3.683960
++DIV_C3 http://www.openstreetmap.org/?lat=40.349892&lon=-3.683800
++DIV_C5E http://www.openstreetmap.org/?lat=40.341102&lon=-3.705869
+VilAlto +VillaverdaAlto http://www.openstreetmap.org/?lat=40.341280&lon=-3.711662
++DIV_C5W http://www.openstreetmap.org/?lat=40.341552&lon=-3.715589
 +X720266 http://www.openstreetmap.org/?lat=40.339880&lon=-3.719215
-MargaritasUniversidad http://www.openstreetmap.org/?lat=40.322933&lon=-3.727477
-GetafeCentro http://www.openstreetmap.org/?lat=40.309934&lon=-3.734021
-GetafeSector3 http://www.openstreetmap.org/?lat=40.288087&lon=-3.737326
+MarUni +MargaritasUniversidad http://www.openstreetmap.org/?lat=40.322933&lon=-3.727477
+GetCen +GetafeCentro http://www.openstreetmap.org/?lat=40.309934&lon=-3.734021
+GetSec3 +GetafeSector3 http://www.openstreetmap.org/?lat=40.288087&lon=-3.737326
 +X592645 http://www.openstreetmap.org/?lat=40.246892&lon=-3.742647
 +X300325 http://www.openstreetmap.org/?lat=40.248587&lon=-3.765199
-Parla http://www.openstreetmap.org/?lat=40.241012&lon=-3.769362
+Par +Parla http://www.openstreetmap.org/?lat=40.241012&lon=-3.769362

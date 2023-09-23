@@ -1,59 +1,59 @@
 Oveido http://www.openstreetmap.org/?lat=43.366506&lon=-5.855026
-+Corredoria http://www.openstreetmap.org/?lat=43.388372&lon=-5.827217
++SKIP_Cord http://www.openstreetmap.org/?lat=43.388372&lon=-5.827217
 +X859753 http://www.openstreetmap.org/?lat=43.390823&lon=-5.826117
-+ParquePrincipado http://www.openstreetmap.org/?lat=43.386209&lon=-5.808721
-Colloto http://www.openstreetmap.org/?lat=43.379647&lon=-5.792112
++SKIP_ParPri http://www.openstreetmap.org/?lat=43.386209&lon=-5.808721
+Coll +Colloto http://www.openstreetmap.org/?lat=43.379647&lon=-5.792112
 +X706906 http://www.openstreetmap.org/?lat=43.373409&lon=-5.763488
-+Meres http://www.openstreetmap.org/?lat=43.380926&lon=-5.748510
-+Fonciello http://www.openstreetmap.org/?lat=43.381768&lon=-5.729756
-Berron http://www.openstreetmap.org/?lat=43.382328&lon=-5.702232
-+Carrera http://www.openstreetmap.org/?lat=43.386938&lon=-5.675168
++SKIP_Mer http://www.openstreetmap.org/?lat=43.380926&lon=-5.748510
++SKIP_Fon http://www.openstreetmap.org/?lat=43.381768&lon=-5.729756
+Ber +Berron http://www.openstreetmap.org/?lat=43.382328&lon=-5.702232
++SKIP_Car http://www.openstreetmap.org/?lat=43.386938&lon=-5.675168
 +X313069 http://www.openstreetmap.org/?lat=43.392224&lon=-5.668581
-PolaSiero http://www.openstreetmap.org/?lat=43.387936&lon=-5.664825
+PolaSie +PolaSiero http://www.openstreetmap.org/?lat=43.387936&lon=-5.664825
 +X496440 http://www.openstreetmap.org/?lat=43.389277&lon=-5.641093
-+Corros http://www.openstreetmap.org/?lat=43.376894&lon=-5.601418
-Lieres http://www.openstreetmap.org/?lat=43.380482&lon=-5.582621
-+Reanes http://www.openstreetmap.org/?lat=43.379156&lon=-5.562660
-+Remedio http://www.openstreetmap.org/?lat=43.374937&lon=-5.546250
-+Llames http://www.openstreetmap.org/?lat=43.368760&lon=-5.525136
++SKIP_Cors http://www.openstreetmap.org/?lat=43.376894&lon=-5.601418
+Lie +Lieres http://www.openstreetmap.org/?lat=43.380482&lon=-5.582621
++SKIP_Rea http://www.openstreetmap.org/?lat=43.379156&lon=-5.562660
++SKIP_Rem http://www.openstreetmap.org/?lat=43.374937&lon=-5.546250
++SKIP_Lla http://www.openstreetmap.org/?lat=43.368760&lon=-5.525136
 Nava http://www.openstreetmap.org/?lat=43.361179&lon=-5.508957
 +X109304 http://www.openstreetmap.org/?lat=43.363394&lon=-5.491276
-Fuensanta http://www.openstreetmap.org/?lat=43.355625&lon=-5.478487
-Cecea http://www.openstreetmap.org/?lat=43.356124&lon=-5.451150
-Carancos http://www.openstreetmap.org/?lat=43.355344&lon=-5.434585
-Pintueles http://www.openstreetmap.org/?lat=43.359837&lon=-5.384159
-Infiestu http://www.openstreetmap.org/?lat=43.351904&lon=-5.369096
-+InfiestuApeadero http://www.openstreetmap.org/?lat=43.343961&lon=-5.360663
-Villamayor http://www.openstreetmap.org/?lat=43.363051&lon=-5.302491
+Fues +Fuensanta http://www.openstreetmap.org/?lat=43.355625&lon=-5.478487
+Cec +Cecea http://www.openstreetmap.org/?lat=43.356124&lon=-5.451150
+Cara +Carancos http://www.openstreetmap.org/?lat=43.355344&lon=-5.434585
+Pin +Pintueles http://www.openstreetmap.org/?lat=43.359837&lon=-5.384159
+Inf +Infiestu http://www.openstreetmap.org/?lat=43.351904&lon=-5.369096
++SKIP_InfApe http://www.openstreetmap.org/?lat=43.343961&lon=-5.360663
+Vilm +Villamayor http://www.openstreetmap.org/?lat=43.363051&lon=-5.302491
 +X990001 http://www.openstreetmap.org/?lat=43.368386&lon=-5.293007
-Sebares http://www.openstreetmap.org/?lat=43.362271&lon=-5.257001
-SotuDuenes http://www.openstreetmap.org/?lat=43.358152&lon=-5.226746
-Ozanes http://www.openstreetmap.org/?lat=43.368292&lon=-5.185375
-Policlinico http://www.openstreetmap.org/?lat=43.378680&lon=-5.186019
-Arriondas http://www.openstreetmap.org/?lat=43.387476&lon=-5.188465
+Seb +Sebares http://www.openstreetmap.org/?lat=43.362271&lon=-5.257001
+SotuDue +SotuDuenes http://www.openstreetmap.org/?lat=43.358152&lon=-5.226746
+Oza +Ozanes http://www.openstreetmap.org/?lat=43.368292&lon=-5.185375
+Pol +Policlinico http://www.openstreetmap.org/?lat=43.378680&lon=-5.186019
+Arr +Arriondas http://www.openstreetmap.org/?lat=43.387476&lon=-5.188465
 +X519997 http://www.openstreetmap.org/?lat=43.397112&lon=-5.171771
-Fuentes http://www.openstreetmap.org/?lat=43.401384&lon=-5.142932
-Torano http://www.openstreetmap.org/?lat=43.412195&lon=-5.118041
+Fuet +Fuentes http://www.openstreetmap.org/?lat=43.401384&lon=-5.142932
+Tor +Torano http://www.openstreetmap.org/?lat=43.412195&lon=-5.118041
 +X644090 http://www.openstreetmap.org/?lat=43.412319&lon=-5.098000
-Cuevas http://www.openstreetmap.org/?lat=43.431162&lon=-5.073280
-Llovio http://www.openstreetmap.org/?lat=43.440573&lon=-5.055900
-Ribeseya http://www.openstreetmap.org/?lat=43.459360&lon=-5.054655
-Camangu http://www.openstreetmap.org/?lat=43.448339&lon=-5.019003
-Belmonte http://www.openstreetmap.org/?lat=43.439856&lon=-4.982257
-Nueva http://www.openstreetmap.org/?lat=43.440534&lon=-4.935393
-Villahormes http://www.openstreetmap.org/?lat=43.441967&lon=-4.903679
+Cue +Cuevas http://www.openstreetmap.org/?lat=43.431162&lon=-5.073280
+Llo +Llovio http://www.openstreetmap.org/?lat=43.440573&lon=-5.055900
+Rib +Ribeseya http://www.openstreetmap.org/?lat=43.459360&lon=-5.054655
+Cam +Camangu http://www.openstreetmap.org/?lat=43.448339&lon=-5.019003
+Bel +Belmonte http://www.openstreetmap.org/?lat=43.439856&lon=-4.982257
+Nue +Nueva http://www.openstreetmap.org/?lat=43.440534&lon=-4.935393
+Vilh +Villahormes http://www.openstreetmap.org/?lat=43.441967&lon=-4.903679
 +X867194 http://www.openstreetmap.org/?lat=43.438727&lon=-4.871235
 +X926684 http://www.openstreetmap.org/?lat=43.425887&lon=-4.876556
-Posada http://www.openstreetmap.org/?lat=43.425092&lon=-4.865227
-Valmori http://www.openstreetmap.org/?lat=43.421398&lon=-4.835916
-Celoriu http://www.openstreetmap.org/?lat=43.424765&lon=-4.811239
+Pos +Posada http://www.openstreetmap.org/?lat=43.425092&lon=-4.865227
+Val +Valmori http://www.openstreetmap.org/?lat=43.421398&lon=-4.835916
+Cel +Celoriu http://www.openstreetmap.org/?lat=43.424765&lon=-4.811239
 Po http://www.openstreetmap.org/?lat=43.424110&lon=-4.782357
-Llanes http://www.openstreetmap.org/?lat=43.420806&lon=-4.759011
+Lla +Llanes http://www.openstreetmap.org/?lat=43.420806&lon=-4.759011
 +X390082 http://www.openstreetmap.org/?lat=43.404502&lon=-4.765792
-SanRoqueAcebal http://www.openstreetmap.org/?lat=43.394680&lon=-4.729958
-Vidiago http://www.openstreetmap.org/?lat=43.396621&lon=-4.672773
-Pendueles http://www.openstreetmap.org/?lat=43.392840&lon=-4.630136
+SanRoqAce +SanRoqueAcebal http://www.openstreetmap.org/?lat=43.394680&lon=-4.729958
+Vid +Vidiago http://www.openstreetmap.org/?lat=43.396621&lon=-4.672773
+Pen +Pendueles http://www.openstreetmap.org/?lat=43.392840&lon=-4.630136
 +X490728 http://www.openstreetmap.org/?lat=43.393370&lon=-4.586449
-Colombres http://www.openstreetmap.org/?lat=43.382953&lon=-4.557009
+Colo +Colombres http://www.openstreetmap.org/?lat=43.382953&lon=-4.557009
 +X192132 http://www.openstreetmap.org/?lat=43.383390&lon=-4.532890
 AS/CB http://www.openstreetmap.org/?lat=43.375892&lon=-4.517301

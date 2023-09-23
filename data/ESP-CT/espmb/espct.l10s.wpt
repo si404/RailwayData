@@ -1,13 +1,13 @@
-Collblanc http://www.openstreetmap.org/?lat=41.375786&lon=2.118065
-Torrassa http://www.openstreetmap.org/?lat=41.368319&lon=2.115952
-CanTriesGornal http://www.openstreetmap.org/?lat=41.360681&lon=2.118194
-+X271289 http://www.openstreetmap.org/?lat=41.360568&lon=2.120705
-Provencana http://www.openstreetmap.org/?lat=41.361430&lon=2.124267
-CiutatJusticia http://www.openstreetmap.org/?lat=41.363105&lon=2.133193
-Foneria http://www.openstreetmap.org/?lat=41.360520&lon=2.138686
+Col +Collblanc http://www.openstreetmap.org/?lat=41.375786&lon=2.118065
+Tor +Torrassa http://www.openstreetmap.org/?lat=41.368319&lon=2.115952
+CanTriGor +CanTriesGornal http://www.openstreetmap.org/?lat=41.360681&lon=2.118194
++DIV_L9 http://www.openstreetmap.org/?lat=41.360560&lon=2.120640
+Pro +Provencana http://www.openstreetmap.org/?lat=41.361430&lon=2.124267
+CiuJus +CiutatJusticia http://www.openstreetmap.org/?lat=41.363105&lon=2.133193
+Fon +Foneria http://www.openstreetmap.org/?lat=41.360520&lon=2.138686
 Foc http://www.openstreetmap.org/?lat=41.355728&lon=2.142162
-+Motors http://www.openstreetmap.org/?lat=41.351231&lon=2.145456
-ZonaFranca http://www.openstreetmap.org/?lat=41.342971&lon=2.144995
-PortComercialFactoria http://www.openstreetmap.org/?lat=41.335979&lon=2.140703
-Ecoparc http://www.openstreetmap.org/?lat=41.330146&lon=2.137184
++SKIP_Mot http://www.openstreetmap.org/?lat=41.351231&lon=2.145456
+ZonaFra +ZonaFranca http://www.openstreetmap.org/?lat=41.342971&lon=2.144995
+PortComFac +PortComercialFactoria http://www.openstreetmap.org/?lat=41.335979&lon=2.140703
+Eco +Ecoparc http://www.openstreetmap.org/?lat=41.330146&lon=2.137184
 ZALRuiVell http://www.openstreetmap.org/?lat=41.323636&lon=2.133150

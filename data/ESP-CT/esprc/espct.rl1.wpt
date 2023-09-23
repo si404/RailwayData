@@ -1,7 +1,7 @@
-Balaguer http://www.openstreetmap.org/?lat=41.789185&lon=0.814877
-VallfogonaBalaguer http://www.openstreetmap.org/?lat=41.755707&lon=0.805607
-Termens http://www.openstreetmap.org/?lat=41.716413&lon=0.762992
-VilanovaBarca http://www.openstreetmap.org/?lat=41.687319&lon=0.727973
-Alcoletge http://www.openstreetmap.org/?lat=41.654245&lon=0.685723
-+X936989 http://www.openstreetmap.org/?lat=41.615466&lon=0.641574
-LleidaPirineus http://www.openstreetmap.org/?lat=41.620880&lon=0.633216
+Bal +Balaguer http://www.openstreetmap.org/?lat=41.789185&lon=0.814877
+ValBal +VallfogonaBalaguer http://www.openstreetmap.org/?lat=41.755707&lon=0.805607
+Ter +Termens http://www.openstreetmap.org/?lat=41.716413&lon=0.762992
+VilBar +VilanovaBarca http://www.openstreetmap.org/?lat=41.687319&lon=0.727973
+Alc +Alcoletge http://www.openstreetmap.org/?lat=41.654245&lon=0.685723
++DIV_R12 http://www.openstreetmap.org/?lat=41.615466&lon=0.641574
+LlePir LleidaPirineus http://www.openstreetmap.org/?lat=41.620880&lon=0.633216

@@ -1,22 +1,22 @@
-UniversitatAutonoma http://www.openstreetmap.org/?lat=41.502656&lon=2.102401
-Bellaterra http://www.openstreetmap.org/?lat=41.500944&lon=2.090621
-SantJoan http://www.openstreetmap.org/?lat=41.490369&lon=2.076931
-Volpelleres http://www.openstreetmap.org/?lat=41.481239&lon=2.072854
-+X653157 http://www.openstreetmap.org/?lat=41.468435&lon=2.078213
-SantCugat http://www.openstreetmap.org/?lat=41.467919&lon=2.078218
-Valldoreix http://www.openstreetmap.org/?lat=41.457804&lon=2.068348
-Floresta http://www.openstreetmap.org/?lat=41.444858&lon=2.073240
-+Planes http://www.openstreetmap.org/?lat=41.427355&lon=2.091630
-+BaixadorVallvidera http://www.openstreetmap.org/?lat=41.420089&lon=2.096903
-+PeuFunicular http://www.openstreetmap.org/?lat=41.409046&lon=2.111403
+UniAut UniversitatAutonoma http://www.openstreetmap.org/?lat=41.502656&lon=2.102401
+Bel Bellaterra http://www.openstreetmap.org/?lat=41.500944&lon=2.090621
+StJoan SantJoan http://www.openstreetmap.org/?lat=41.490369&lon=2.076931
+Vol Volpelleres http://www.openstreetmap.org/?lat=41.481239&lon=2.072854
++DIV_S1 http://www.openstreetmap.org/?lat=41.468435&lon=2.078213
+StCug SantCugat http://www.openstreetmap.org/?lat=41.467919&lon=2.078218
+Val Valldoreix http://www.openstreetmap.org/?lat=41.457804&lon=2.068348
+Flo Floresta http://www.openstreetmap.org/?lat=41.444858&lon=2.073240
++SKIP_Pla http://www.openstreetmap.org/?lat=41.427355&lon=2.091630
++SKIP_BaiVal http://www.openstreetmap.org/?lat=41.420089&lon=2.096903
++SKIP_PeuFun http://www.openstreetmap.org/?lat=41.409046&lon=2.111403
 +X469682 http://www.openstreetmap.org/?lat=41.407177&lon=2.122035
-+X299888 http://www.openstreetmap.org/?lat=41.399713&lon=2.123923
-Sarria http://www.openstreetmap.org/?lat=41.398536&lon=2.125608
-TresTorres http://www.openstreetmap.org/?lat=41.397614&lon=2.131187
-Bonanova http://www.openstreetmap.org/?lat=41.397685&lon=2.136154
-Muntaner http://www.openstreetmap.org/?lat=41.398618&lon=2.142892
-SantGervasi http://www.openstreetmap.org/?lat=41.401055&lon=2.147076
-+X258752 http://www.openstreetmap.org/?lat=41.401188&lon=2.147918
-Gracia http://www.openstreetmap.org/?lat=41.399725&lon=2.152119
-Provenca http://www.openstreetmap.org/?lat=41.394433&lon=2.158856
-PlacaCatalunya http://www.openstreetmap.org/?lat=41.386642&lon=2.169424
++DIV_L12 http://www.openstreetmap.org/?lat=41.399713&lon=2.123923
+Sar +Sarria http://www.openstreetmap.org/?lat=41.398536&lon=2.125608
++SKIP_TresTor http://www.openstreetmap.org/?lat=41.397614&lon=2.131187
++SKIP_Bon http://www.openstreetmap.org/?lat=41.397685&lon=2.136154
+Mun +Muntaner http://www.openstreetmap.org/?lat=41.398618&lon=2.142892
++SKIP_StGer http://www.openstreetmap.org/?lat=41.401055&lon=2.147076
++DIV_L7 http://www.openstreetmap.org/?lat=41.401188&lon=2.147918
+Gra +Gracia http://www.openstreetmap.org/?lat=41.399725&lon=2.152119
+Pro +Provenca http://www.openstreetmap.org/?lat=41.394433&lon=2.158856
+PlaCat +PlacaCatalunya http://www.openstreetmap.org/?lat=41.386642&lon=2.169424

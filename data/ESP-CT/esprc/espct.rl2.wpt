@@ -1,27 +1,27 @@
-PoblaSegur http://www.openstreetmap.org/?lat=42.240290&lon=0.966239
+PobSeg PoblaSegur http://www.openstreetmap.org/?lat=42.240290&lon=0.966239
 +X423742 http://www.openstreetmap.org/?lat=42.216584&lon=0.960875
-SalasPallars http://www.openstreetmap.org/?lat=42.206921&lon=0.940576
+SalPal SalasPallars http://www.openstreetmap.org/?lat=42.206921&lon=0.940576
 +X955145 http://www.openstreetmap.org/?lat=42.184379&lon=0.914869
 +X172163 http://www.openstreetmap.org/?lat=42.189339&lon=0.902209
-Tremp http://www.openstreetmap.org/?lat=42.167340&lon=0.890944
-PalauNoguera http://www.openstreetmap.org/?lat=42.146860&lon=0.892510
-GuardiaTremp http://www.openstreetmap.org/?lat=42.101295&lon=0.888004
-CellersLimiana http://www.openstreetmap.org/?lat=42.058613&lon=0.882726
+Tre Tremp http://www.openstreetmap.org/?lat=42.167340&lon=0.890944
+PalNog PalauNoguera http://www.openstreetmap.org/?lat=42.146860&lon=0.892510
+GuaTre GuardiaTremp http://www.openstreetmap.org/?lat=42.101295&lon=0.888004
+CelLim CellersLimiana http://www.openstreetmap.org/?lat=42.058613&lon=0.882726
 +X224638 http://www.openstreetmap.org/?lat=42.048512&lon=0.892210
 +X339132 http://www.openstreetmap.org/?lat=42.009390&lon=0.873499
 Ager http://www.openstreetmap.org/?lat=42.006807&lon=0.851505
 +X506871 http://www.openstreetmap.org/?lat=41.982527&lon=0.835648
-SantaLinya http://www.openstreetmap.org/?lat=41.931736&lon=0.852470
-VilanovaSal http://www.openstreetmap.org/?lat=41.912162&lon=0.830498
+StLin SantaLinya http://www.openstreetmap.org/?lat=41.931736&lon=0.852470
+VilSal VilanovaSal http://www.openstreetmap.org/?lat=41.912162&lon=0.830498
 +X888833 http://www.openstreetmap.org/?lat=41.878556&lon=0.844960
-SantLlorencMontgal http://www.openstreetmap.org/?lat=41.866317&lon=0.832772
+StLloMon SantLlorencMontgal http://www.openstreetmap.org/?lat=41.866317&lon=0.832772
 +X396809 http://www.openstreetmap.org/?lat=41.844965&lon=0.809813
 Gerb http://www.openstreetmap.org/?lat=41.823373&lon=0.812109
 +X555126 http://www.openstreetmap.org/?lat=41.811819&lon=0.805349
-Balaguer http://www.openstreetmap.org/?lat=41.789185&lon=0.814877
-VallfogonaBalaguer http://www.openstreetmap.org/?lat=41.755707&lon=0.805607
-Termens http://www.openstreetmap.org/?lat=41.716413&lon=0.762992
-VilanovaBarca http://www.openstreetmap.org/?lat=41.687319&lon=0.727973
-Alcoletge http://www.openstreetmap.org/?lat=41.654245&lon=0.685723
-+X936989 http://www.openstreetmap.org/?lat=41.615466&lon=0.641574
-LleidaPirineus http://www.openstreetmap.org/?lat=41.620880&lon=0.633216
+Bal +Balaguer http://www.openstreetmap.org/?lat=41.789185&lon=0.814877
+ValBal +VallfogonaBalaguer http://www.openstreetmap.org/?lat=41.755707&lon=0.805607
+Ter +Termens http://www.openstreetmap.org/?lat=41.716413&lon=0.762992
+VilBar +VilanovaBarca http://www.openstreetmap.org/?lat=41.687319&lon=0.727973
+Alc +Alcoletge http://www.openstreetmap.org/?lat=41.654245&lon=0.685723
++DIV_R12 http://www.openstreetmap.org/?lat=41.615466&lon=0.641574
+LlePir LleidaPirineus http://www.openstreetmap.org/?lat=41.620880&lon=0.633216

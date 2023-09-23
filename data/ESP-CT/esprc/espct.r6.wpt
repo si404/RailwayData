@@ -1,41 +1,41 @@
-Espanya http://www.openstreetmap.org/?lat=41.375031&lon=2.149125
-MagoriaCampana http://www.openstreetmap.org/?lat=41.367807&lon=2.139587
-IldefonsCerda http://www.openstreetmap.org/?lat=41.360818&lon=2.130404
-EuropaFira http://www.openstreetmap.org/?lat=41.357009&lon=2.125211
-Gornal http://www.openstreetmap.org/?lat=41.355000&lon=2.115544
-SantJosep http://www.openstreetmap.org/?lat=41.360842&lon=2.110469
-AvingudaCarrilet http://www.openstreetmap.org/?lat=41.358265&lon=2.102702
-Almeda http://www.openstreetmap.org/?lat=41.353087&lon=2.084527
-CornellaRiera http://www.openstreetmap.org/?lat=41.351508&lon=2.070622
-SantBoi http://www.openstreetmap.org/?lat=41.348484&lon=2.042921
-MoliNouCiutatCooperativa http://www.openstreetmap.org/?lat=41.357464&lon=2.035325
-+ColoniaGuell http://www.openstreetmap.org/?lat=41.364067&lon=2.031602
-SantaColomaCervello http://www.openstreetmap.org/?lat=41.370541&lon=2.023619
-SantVicencHorts http://www.openstreetmap.org/?lat=41.388103&lon=2.012386
+Esp +Espanya http://www.openstreetmap.org/?lat=41.375031&lon=2.149125
+MagCam +MagoriaCampana http://www.openstreetmap.org/?lat=41.367807&lon=2.139587
+IldCer +IldefonsCerda http://www.openstreetmap.org/?lat=41.360818&lon=2.130404
+EurFira +EuropaFira http://www.openstreetmap.org/?lat=41.357009&lon=2.125211
+Gor +Gornal http://www.openstreetmap.org/?lat=41.355000&lon=2.115544
+StJos +SantJosep http://www.openstreetmap.org/?lat=41.360842&lon=2.110469
+AviCar +AvingudaCarrilet http://www.openstreetmap.org/?lat=41.358265&lon=2.102702
+Alm +Almeda http://www.openstreetmap.org/?lat=41.353087&lon=2.084527
+CorRie +CornellaRiera http://www.openstreetmap.org/?lat=41.351508&lon=2.070622
+StBoi +SantBoi http://www.openstreetmap.org/?lat=41.348484&lon=2.042921
+MoliNouCiuCoo +MoliNouCiutatCooperativa http://www.openstreetmap.org/?lat=41.357464&lon=2.035325
++SKIP_ColGue http://www.openstreetmap.org/?lat=41.364067&lon=2.031602
+SanColCer +SantaColomaCervello http://www.openstreetmap.org/?lat=41.370541&lon=2.023619
+StVicHor +SantVicencHorts http://www.openstreetmap.org/?lat=41.388103&lon=2.012386
 CanRos http://www.openstreetmap.org/?lat=41.399242&lon=2.004941
-QuatreCamins http://www.openstreetmap.org/?lat=41.406630&lon=2.001636
-Palleja http://www.openstreetmap.org/?lat=41.420839&lon=1.995564
+QuaCam +QuatreCamins http://www.openstreetmap.org/?lat=41.406630&lon=2.001636
+Pall +Palleja http://www.openstreetmap.org/?lat=41.420839&lon=1.995564
 +X366855 http://www.openstreetmap.org/?lat=41.436783&lon=1.991465
-SantAndreuBarca http://www.openstreetmap.org/?lat=41.446772&lon=1.973076
-Palau http://www.openstreetmap.org/?lat=41.455617&lon=1.962605
-+MartorellVilaCastellbisbal http://www.openstreetmap.org/?lat=41.476424&lon=1.939216
+StAndBar +SantAndreuBarca http://www.openstreetmap.org/?lat=41.446772&lon=1.973076
+Pala +Palau http://www.openstreetmap.org/?lat=41.455617&lon=1.962605
++SKIP_MarVilaCas http://www.openstreetmap.org/?lat=41.476424&lon=1.939216
 +X321239 http://www.openstreetmap.org/?lat=41.480684&lon=1.938937
-MartorellCentral http://www.openstreetmap.org/?lat=41.479213&lon=1.926556
-MartorellEnllac http://www.openstreetmap.org/?lat=41.484096&lon=1.918573
-+X211964 http://www.openstreetmap.org/?lat=41.484779&lon=1.917597
-SantEsteveSesrovires http://www.openstreetmap.org/?lat=41.497710&lon=1.872536
+MarCen +MartorellCentral http://www.openstreetmap.org/?lat=41.479213&lon=1.926556
+MarEnl +MartorellEnllac http://www.openstreetmap.org/?lat=41.484096&lon=1.918573
++DIV_S4 http://www.openstreetmap.org/?lat=41.484779&lon=1.917597
+StEstSes SantEsteveSesrovires http://www.openstreetmap.org/?lat=41.497710&lon=1.872536
 +X125554 http://www.openstreetmap.org/?lat=41.508119&lon=1.864865
-Beguda http://www.openstreetmap.org/?lat=41.501756&lon=1.838804
-CanParellada http://www.openstreetmap.org/?lat=41.502250&lon=1.830779
-Masquefa http://www.openstreetmap.org/?lat=41.502951&lon=1.812497
+Beg Beguda http://www.openstreetmap.org/?lat=41.501756&lon=1.838804
+CanPar CanParellada http://www.openstreetmap.org/?lat=41.502250&lon=1.830779
+Mas Masquefa http://www.openstreetmap.org/?lat=41.502951&lon=1.812497
 +X589532 http://www.openstreetmap.org/?lat=41.503319&lon=1.787231
-Piera http://www.openstreetmap.org/?lat=41.526012&lon=1.754449
+Pie Piera http://www.openstreetmap.org/?lat=41.526012&lon=1.754449
 +X100413 http://www.openstreetmap.org/?lat=41.535382&lon=1.736891
-VallbonaAnoia http://www.openstreetmap.org/?lat=41.520326&lon=1.708556
+Val VallbonaAnoia http://www.openstreetmap.org/?lat=41.520326&lon=1.708556
 +X335979 http://www.openstreetmap.org/?lat=41.525560&lon=1.707644
-Capellades http://www.openstreetmap.org/?lat=41.521523&lon=1.695381
+Cap Capellades http://www.openstreetmap.org/?lat=41.521523&lon=1.695381
 +X857105 http://www.openstreetmap.org/?lat=41.547669&lon=1.690811
-PoblaClaramunt http://www.openstreetmap.org/?lat=41.554590&lon=1.677904
+PobCla PoblaClaramunt http://www.openstreetmap.org/?lat=41.554590&lon=1.677904
 +X429418 http://www.openstreetmap.org/?lat=41.564256&lon=1.675608
-VilanovaCami http://www.openstreetmap.org/?lat=41.573683&lon=1.641372
-Igualada http://www.openstreetmap.org/?lat=41.577953&lon=1.630075
+VilCami VilanovaCami http://www.openstreetmap.org/?lat=41.573683&lon=1.641372
+Igu Igualada http://www.openstreetmap.org/?lat=41.577953&lon=1.630075
