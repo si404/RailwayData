@@ -1,32 +1,32 @@
-SanEsteban http://www.openstreetmap.org/?lat=43.551985&lon=-6.087112
+SanEst +SanEsteban http://www.openstreetmap.org/?lat=43.551985&lon=-6.087112
 +X655998 http://www.openstreetmap.org/?lat=43.541534&lon=-6.086555
 +X169047 http://www.openstreetmap.org/?lat=43.537458&lon=-6.097841
-SanRanon http://www.openstreetmap.org/?lat=43.516331&lon=-6.082006
+SanRan +SanRanon http://www.openstreetmap.org/?lat=43.516331&lon=-6.082006
 +X174296 http://www.openstreetmap.org/?lat=43.498488&lon=-6.093056
 +X521638 http://www.openstreetmap.org/?lat=43.497978&lon=-6.111885
-+X665729 http://www.openstreetmap.org/?lat=43.496091&lon=-6.112776
-Pravia http://www.openstreetmap.org/?lat=43.491016&lon=-6.110544
-+X475421 http://www.openstreetmap.org/?lat=43.488728&lon=-6.107712
-Beifar http://www.openstreetmap.org/?lat=43.470129&lon=-6.099000
++DIV_C4W http://www.openstreetmap.org/?lat=43.496091&lon=-6.112776
+Pra +Pravia http://www.openstreetmap.org/?lat=43.491016&lon=-6.110544
++DIV_C4E http://www.openstreetmap.org/?lat=43.488728&lon=-6.107712
+Bei +Beifar http://www.openstreetmap.org/?lat=43.470129&lon=-6.099000
 +X877975 http://www.openstreetmap.org/?lat=43.460068&lon=-6.095867
-SanRoman http://www.openstreetmap.org/?lat=43.448822&lon=-6.077113
+SanRom +SanRoman http://www.openstreetmap.org/?lat=43.448822&lon=-6.077113
 Aces http://www.openstreetmap.org/?lat=43.439786&lon=-6.065784
 +X276912 http://www.openstreetmap.org/?lat=43.429502&lon=-6.074023
-Sandiche http://www.openstreetmap.org/?lat=43.425575&lon=-6.059904
-Grado http://www.openstreetmap.org/?lat=43.394567&lon=-6.063638
-Penaflor http://www.openstreetmap.org/?lat=43.402951&lon=-6.045141
+San +Sandiche http://www.openstreetmap.org/?lat=43.425575&lon=-6.059904
+Gra +Grado http://www.openstreetmap.org/?lat=43.394567&lon=-6.063638
+Pen +Penaflor http://www.openstreetmap.org/?lat=43.402951&lon=-6.045141
 VegaAnzo http://www.openstreetmap.org/?lat=43.389292&lon=-6.005702
-SantaMariaGrau http://www.openstreetmap.org/?lat=43.383796&lon=-5.982571
-+X792807_A http://www.openstreetmap.org/?lat=43.357043&lon=-5.964096
-+SotuUdrion_1 http://www.openstreetmap.org/?lat=43.356463&lon=-5.965029
-Trubia http://www.openstreetmap.org/?lat=43.348615&lon=-5.967582
-SotuUdrion http://www.openstreetmap.org/?lat=43.356463&lon=-5.965029
-+X792807_B http://www.openstreetmap.org/?lat=43.357043&lon=-5.964096
-SanPedruNora http://www.openstreetmap.org/?lat=43.368737&lon=-5.958517
-SanClaudio http://www.openstreetmap.org/?lat=43.355243&lon=-5.917726
-Maces http://www.openstreetmap.org/?lat=43.358593&lon=-5.897577
-Campas http://www.openstreetmap.org/?lat=43.363874&lon=-5.883275
-Arganosa http://www.openstreetmap.org/?lat=43.365910&lon=-5.869864
-Vallobin http://www.openstreetmap.org/?lat=43.365208&lon=-5.864575
-+X939101 http://www.openstreetmap.org/?lat=43.364078&lon=-5.858146
-Oveido http://www.openstreetmap.org/?lat=43.366506&lon=-5.855026
+SanMarGrau +SantaMariaGrau http://www.openstreetmap.org/?lat=43.383796&lon=-5.982571
++DIV_C7C9 http://www.openstreetmap.org/?lat=43.357043&lon=-5.964096
++SKIP_SotuUdr http://www.openstreetmap.org/?lat=43.356463&lon=-5.965029
+Tru +Trubia http://www.openstreetmap.org/?lat=43.348615&lon=-5.967582
+SotoUdr +SotuUdrion http://www.openstreetmap.org/?lat=43.356463&lon=-5.965029
++DIV_C7 http://www.openstreetmap.org/?lat=43.357043&lon=-5.964096
+SanPedNora +SanPedruNora http://www.openstreetmap.org/?lat=43.368737&lon=-5.958517
+SanCla +SanClaudio http://www.openstreetmap.org/?lat=43.355243&lon=-5.917726
+Mac +Maces http://www.openstreetmap.org/?lat=43.358593&lon=-5.897577
+Cam +Campas http://www.openstreetmap.org/?lat=43.363874&lon=-5.883275
+Arg +Arganosa http://www.openstreetmap.org/?lat=43.365910&lon=-5.869864
+Val +Vallobin http://www.openstreetmap.org/?lat=43.365208&lon=-5.864575
++DIV_C1C2 http://www.openstreetmap.org/?lat=43.364078&lon=-5.858146
+Ove +Oveido http://www.openstreetmap.org/?lat=43.366506&lon=-5.855026

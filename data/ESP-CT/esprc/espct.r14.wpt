@@ -1,66 +1,66 @@
-EstacioFranca http://www.openstreetmap.org/?lat=41.382130&lon=2.185507
+EstFra +EstacioFranca http://www.openstreetmap.org/?lat=41.382130&lon=2.185507
 +X238434 http://www.openstreetmap.org/?lat=41.386702&lon=2.193682
 +X373567 http://www.openstreetmap.org/?lat=41.401230&lon=2.187266
-+X194159 http://www.openstreetmap.org/?lat=41.401431&lon=2.179155
-PasseigGracia http://www.openstreetmap.org/?lat=41.390996&lon=2.166903
-+X768870 http://www.openstreetmap.org/?lat=41.383186&lon=2.149587
-Sants http://www.openstreetmap.org/?lat=41.379715&lon=2.141047
-+X628783 http://www.openstreetmap.org/?lat=41.368021&lon=2.122518
-+Bellvitge http://www.openstreetmap.org/?lat=41.355000&lon=2.115544
++DIV_R2 http://www.openstreetmap.org/?lat=41.400505&lon=2.176023
+PasGra +PasseigGracia http://www.openstreetmap.org/?lat=41.390996&lon=2.166903
++DIV_R1R3E http://www.openstreetmap.org/?lat=41.383186&lon=2.149587
+San +Sants http://www.openstreetmap.org/?lat=41.379715&lon=2.141047
++DIV_R1R3W http://www.openstreetmap.org/?lat=41.368021&lon=2.122518
++SKIP_Bel http://www.openstreetmap.org/?lat=41.355000&lon=2.115544
 +X581988 http://www.openstreetmap.org/?lat=41.339104&lon=2.112980
-+ElPratLlobregat http://www.openstreetmap.org/?lat=41.331101&lon=2.090160
-+X465082 http://www.openstreetmap.org/?lat=41.328051&lon=2.081738
++SKIP_ElPratLlo http://www.openstreetmap.org/?lat=41.331101&lon=2.090160
++DIV_AVE1 http://www.openstreetmap.org/?lat=41.328051&lon=2.081738
 +X384405 http://www.openstreetmap.org/?lat=41.323314&lon=2.068219
-+X340061 http://www.openstreetmap.org/?lat=41.320188&lon=2.059207
-+Viladecans http://www.openstreetmap.org/?lat=41.309293&lon=2.027535
++DIV_R2N http://www.openstreetmap.org/?lat=41.320188&lon=2.059207
++SKIP_Vil http://www.openstreetmap.org/?lat=41.309293&lon=2.027535
 Gava http://www.openstreetmap.org/?lat=41.303039&lon=2.010455
-Castelldefels http://www.openstreetmap.org/?lat=41.278726&lon=1.979513
-+PlatjaCastelldefels http://www.openstreetmap.org/?lat=41.267058&lon=1.957262
-+Garraf http://www.openstreetmap.org/?lat=41.254242&lon=1.902652
+Cas +Castelldefels http://www.openstreetmap.org/?lat=41.278726&lon=1.979513
++SKIP_PlaCas http://www.openstreetmap.org/?lat=41.267058&lon=1.957262
++SKIP_Gar http://www.openstreetmap.org/?lat=41.254242&lon=1.902652
 +X916338 http://www.openstreetmap.org/?lat=41.235398&lon=1.853342
-Sitges http://www.openstreetmap.org/?lat=41.239206&lon=1.809697
+Sit +Sitges http://www.openstreetmap.org/?lat=41.239206&lon=1.809697
 +X282521 http://www.openstreetmap.org/?lat=41.221777&lon=1.769228
-VilanovaGeltru http://www.openstreetmap.org/?lat=41.219905&lon=1.730947
-Cubelles http://www.openstreetmap.org/?lat=41.204150&lon=1.676102
-Cunit http://www.openstreetmap.org/?lat=41.194754&lon=1.631641
-SegurCalafell http://www.openstreetmap.org/?lat=41.192396&lon=1.606407
-Calafell http://www.openstreetmap.org/?lat=41.189425&lon=1.575208
-+X814685 http://www.openstreetmap.org/?lat=41.186648&lon=1.530790
-SantVicencCalders http://www.openstreetmap.org/?lat=41.186067&lon=1.525855
-+X416053 http://www.openstreetmap.org/?lat=41.185413&lon=1.521649
-Torredembarra http://www.openstreetmap.org/?lat=41.142677&lon=1.405692
-AltafullaTamarit http://www.openstreetmap.org/?lat=41.136504&lon=1.373291
+VilGel +VilanovaGeltru http://www.openstreetmap.org/?lat=41.219905&lon=1.730947
+Cub +Cubelles http://www.openstreetmap.org/?lat=41.204150&lon=1.676102
+Cun +Cunit http://www.openstreetmap.org/?lat=41.194754&lon=1.631641
+SegCal +SegurCalafell http://www.openstreetmap.org/?lat=41.192396&lon=1.606407
+Cal +Calafell http://www.openstreetmap.org/?lat=41.189425&lon=1.575208
++DIV_R4 http://www.openstreetmap.org/?lat=41.186648&lon=1.530790
+StVicCal +SantVicencCalders http://www.openstreetmap.org/?lat=41.186067&lon=1.525855
++DIV_R13 http://www.openstreetmap.org/?lat=41.185413&lon=1.521649
+Tor +Torredembarra http://www.openstreetmap.org/?lat=41.142677&lon=1.405692
+AltTam +AltafullaTamarit http://www.openstreetmap.org/?lat=41.136504&lon=1.373291
 +X194607 http://www.openstreetmap.org/?lat=41.129684&lon=1.302352
-Tarragona http://www.openstreetmap.org/?lat=41.111159&lon=1.253300
-+X860438 http://www.openstreetmap.org/?lat=41.110642&lon=1.240425
-Vilaseca http://www.openstreetmap.org/?lat=41.112905&lon=1.150560
-+X282606 http://www.openstreetmap.org/?lat=41.120018&lon=1.142278
+Tar +Tarragona http://www.openstreetmap.org/?lat=41.111159&lon=1.253300
++DIV_R17 http://www.openstreetmap.org/?lat=41.110642&lon=1.240425
+Vils +Vilaseca http://www.openstreetmap.org/?lat=41.112905&lon=1.150560
++DIV_R16 http://www.openstreetmap.org/?lat=41.120018&lon=1.142278
 +X542013 http://www.openstreetmap.org/?lat=41.145715&lon=1.117601
 +X883605 http://www.openstreetmap.org/?lat=41.163875&lon=1.122108
 Reus http://www.openstreetmap.org/?lat=41.160612&lon=1.099920
 +X414327 http://www.openstreetmap.org/?lat=41.159836&lon=1.091809
 +X493688 http://www.openstreetmap.org/?lat=41.165264&lon=1.090522
 +X683885 http://www.openstreetmap.org/?lat=41.172937&lon=1.124039
-SelvaCamp http://www.openstreetmap.org/?lat=41.211415&lon=1.144166
-Alcover http://www.openstreetmap.org/?lat=41.261501&lon=1.174250
-PlanaPicamoixons http://www.openstreetmap.org/?lat=41.306077&lon=1.194892
+SelCamp +SelvaCamp http://www.openstreetmap.org/?lat=41.211415&lon=1.144166
+Alc +Alcover http://www.openstreetmap.org/?lat=41.261501&lon=1.174250
+PlaPic +PlanaPicamoixons http://www.openstreetmap.org/?lat=41.306077&lon=1.194892
 Riba http://www.openstreetmap.org/?lat=41.318318&lon=1.181459
-Vilaverd http://www.openstreetmap.org/?lat=41.337525&lon=1.176395
+Vilv +Vilaverd http://www.openstreetmap.org/?lat=41.337525&lon=1.176395
 +X662264 http://www.openstreetmap.org/?lat=41.359594&lon=1.178370
-Montblanc http://www.openstreetmap.org/?lat=41.376503&lon=1.165709
+Mon +Montblanc http://www.openstreetmap.org/?lat=41.376503&lon=1.165709
 +X741021 http://www.openstreetmap.org/?lat=41.393439&lon=1.146612
-EsplugaFrancoli http://www.openstreetmap.org/?lat=41.400522&lon=1.103182
-VimbodiPoblet http://www.openstreetmap.org/?lat=41.402835&lon=1.046072
+EspFra +EsplugaFrancoli http://www.openstreetmap.org/?lat=41.400522&lon=1.103182
+VimPob +VimbodiPoblet http://www.openstreetmap.org/?lat=41.402835&lon=1.046072
 +X253419 http://www.openstreetmap.org/?lat=41.411466&lon=0.986495
-Vinaixa http://www.openstreetmap.org/?lat=41.425240&lon=0.970273
+Vin +Vinaixa http://www.openstreetmap.org/?lat=41.425240&lon=0.970273
 +X460766 http://www.openstreetmap.org/?lat=41.458005&lon=0.978341
 +X686974 http://www.openstreetmap.org/?lat=41.489694&lon=0.949202
-Floresta http://www.openstreetmap.org/?lat=41.504158&lon=0.924311
-BorgesBlanques http://www.openstreetmap.org/?lat=41.521447&lon=0.878220
-Juneda http://www.openstreetmap.org/?lat=41.543839&lon=0.825605
-PuigverdLleidaArtesaLleida http://www.openstreetmap.org/?lat=41.553731&lon=0.733466
+Flo +Floresta http://www.openstreetmap.org/?lat=41.504158&lon=0.924311
+BorBla +BorgesBlanques http://www.openstreetmap.org/?lat=41.521447&lon=0.878220
+Jun +Juneda http://www.openstreetmap.org/?lat=41.543839&lon=0.825605
+PuiLleArtLle +PuigverdLleidaArtesaLleida http://www.openstreetmap.org/?lat=41.553731&lon=0.733466
 +X923105 http://www.openstreetmap.org/?lat=41.556171&lon=0.718575
 +X938651 http://www.openstreetmap.org/?lat=41.575629&lon=0.701537
-+X613578 http://www.openstreetmap.org/?lat=41.601781&lon=0.652206
-+X936989 http://www.openstreetmap.org/?lat=41.615466&lon=0.641574
-LleidaPirineus http://www.openstreetmap.org/?lat=41.620880&lon=0.633216
++DIV_AVE2 http://www.openstreetmap.org/?lat=41.601781&lon=0.652206
++DIV_R12 http://www.openstreetmap.org/?lat=41.615466&lon=0.641574
+LlePir +LleidaPirineus http://www.openstreetmap.org/?lat=41.620880&lon=0.633216

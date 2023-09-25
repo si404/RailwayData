@@ -9,7 +9,7 @@ MetKonVel http://www.openstreetmap.org/?lat=42.701582&lon=23.297630
 UlDimPet http://www.openstreetmap.org/?lat=42.702773&lon=23.301079
 UlOdr http://www.openstreetmap.org/?lat=42.702130&lon=23.304877
 OpaStr http://www.openstreetmap.org/?lat=42.701196&lon=23.310424
-+SKIP_MetOpa http://www.openstreetmap.org/?lat=42.700439&lon=23.312629
++DIV_MetOpa http://www.openstreetmap.org/?lat=42.700786&lon=23.312806
 BulHriBot http://www.openstreetmap.org/?lat=42.700230&lon=23.316089
 ZenPaz http://www.openstreetmap.org/?lat=42.700533&lon=23.318020
 TseHali http://www.openstreetmap.org/?lat=42.700187&lon=23.322435

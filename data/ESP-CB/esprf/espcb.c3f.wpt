@@ -1,19 +1,19 @@
-Santander http://www.openstreetmap.org/?lat=43.458647&lon=-3.811237
-ValdecillaMarga http://www.openstreetmap.org/?lat=43.452596&lon=-3.828703
-+X941900 http://www.openstreetmap.org/?lat=43.448468&lon=-3.837994
-+X325012 http://www.openstreetmap.org/?lat=43.449060&lon=-3.841588
-+NM http://www.openstreetmap.org/?lat=43.444555&lon=-3.847017
-NuevaMontana http://www.openstreetmap.org/?lat=43.440117&lon=-3.849571
-+X143470 http://www.openstreetmap.org/?lat=43.438703&lon=-3.850086
-ValleReal http://www.openstreetmap.org/?lat=43.427474&lon=-3.840392
-Maliano http://www.openstreetmap.org/?lat=43.416123&lon=-3.840923
-Astillero http://www.openstreetmap.org/?lat=43.403948&lon=-3.820839
-Cantabrica http://www.openstreetmap.org/?lat=43.397268&lon=-3.814831
-SanSalvador http://www.openstreetmap.org/?lat=43.393736&lon=-3.803716
-Heras http://www.openstreetmap.org/?lat=43.400947&lon=-3.766508
-Orejo http://www.openstreetmap.org/?lat=43.399458&lon=-3.738141
-+X308180 http://www.openstreetmap.org/?lat=43.399006&lon=-3.736897
-Solares http://www.openstreetmap.org/?lat=43.387187&lon=-3.731511
-Cecenas http://www.openstreetmap.org/?lat=43.376495&lon=-3.718041
-Cavada http://www.openstreetmap.org/?lat=43.350593&lon=-3.707221
-Lieganes http://www.openstreetmap.org/?lat=43.344944&lon=-3.741767
+San +Santander http://www.openstreetmap.org/?lat=43.458647&lon=-3.811237
+ValMar +ValdecillaMarga http://www.openstreetmap.org/?lat=43.452596&lon=-3.828703
++DIV_C2 http://www.openstreetmap.org/?lat=43.448468&lon=-3.837994
++DIV_C1N http://www.openstreetmap.org/?lat=43.449060&lon=-3.841588
++SKIP_NueMon http://www.openstreetmap.org/?lat=43.444555&lon=-3.847017
+NueMon +NuevaMontana http://www.openstreetmap.org/?lat=43.440117&lon=-3.849571
++DIV_C1S http://www.openstreetmap.org/?lat=43.438703&lon=-3.850086
+ValReal +ValleReal http://www.openstreetmap.org/?lat=43.427474&lon=-3.840392
+Mal +Maliano http://www.openstreetmap.org/?lat=43.416123&lon=-3.840923
+Ast Astillero http://www.openstreetmap.org/?lat=43.403948&lon=-3.820839
+Can Cantabrica http://www.openstreetmap.org/?lat=43.397268&lon=-3.814831
+SanSal SanSalvador http://www.openstreetmap.org/?lat=43.393736&lon=-3.803716
+Her Heras http://www.openstreetmap.org/?lat=43.400947&lon=-3.766508
+Ore Orejo http://www.openstreetmap.org/?lat=43.399458&lon=-3.738141
++DIV_R3 http://www.openstreetmap.org/?lat=43.399006&lon=-3.736897
+Sol Solares http://www.openstreetmap.org/?lat=43.387187&lon=-3.731511
+Cec Cecenas http://www.openstreetmap.org/?lat=43.376495&lon=-3.718041
+Cav Cavada http://www.openstreetmap.org/?lat=43.350593&lon=-3.707221
+Lie Lieganes http://www.openstreetmap.org/?lat=43.344944&lon=-3.741767

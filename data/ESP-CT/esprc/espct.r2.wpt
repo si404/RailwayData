@@ -1,30 +1,30 @@
-GranollersCentre http://www.openstreetmap.org/?lat=41.599575&lon=2.291636
+GraCen +GranollersCentre http://www.openstreetmap.org/?lat=41.599575&lon=2.291636
 +X533456 http://www.openstreetmap.org/?lat=41.571263&lon=2.281165
-+X893335 http://www.openstreetmap.org/?lat=41.553923&lon=2.258463
-Montmelo http://www.openstreetmap.org/?lat=41.549684&lon=2.245374
-+X801967 http://www.openstreetmap.org/?lat=41.547050&lon=2.237906
-MolletSantFost http://www.openstreetmap.org/?lat=41.533302&lon=2.217736
-+X496573 http://www.openstreetmap.org/?lat=41.527134&lon=2.212887
-Llagosta http://www.openstreetmap.org/?lat=41.510401&lon=2.199841
-+X295082 http://www.openstreetmap.org/?lat=41.486648&lon=2.188704
-MontcadaReixac http://www.openstreetmap.org/?lat=41.484044&lon=2.188232
-+X572935 http://www.openstreetmap.org/?lat=41.461744&lon=2.187438
++DIV_AVE1 http://www.openstreetmap.org/?lat=41.553923&lon=2.258463
+Mon +Montmelo http://www.openstreetmap.org/?lat=41.549684&lon=2.245374
++DIV_AVE2 http://www.openstreetmap.org/?lat=41.547050&lon=2.237906
+MolStFost +MolletSantFost http://www.openstreetmap.org/?lat=41.533302&lon=2.217736
++DIV_R8 http://www.openstreetmap.org/?lat=41.527134&lon=2.212887
+Lla +Llagosta http://www.openstreetmap.org/?lat=41.510401&lon=2.199841
++DIV_AVE3 http://www.openstreetmap.org/?lat=41.486648&lon=2.188704
+MonRei +MontcadaReixac http://www.openstreetmap.org/?lat=41.484044&lon=2.188232
++DIV_AVE4 http://www.openstreetmap.org/?lat=41.461744&lon=2.187438
 +X291198 http://www.openstreetmap.org/?lat=41.455891&lon=2.191043
-+X521921 http://www.openstreetmap.org/?lat=41.454958&lon=2.193189
-SantAndreuComtal http://www.openstreetmap.org/?lat=41.435978&lon=2.193704
-+X529068 http://www.openstreetmap.org/?lat=41.416704&lon=2.192824
-ClotArego http://www.openstreetmap.org/?lat=41.409532&lon=2.187186
-+X194159 http://www.openstreetmap.org/?lat=41.401431&lon=2.179155
-PasseigGracia http://www.openstreetmap.org/?lat=41.390996&lon=2.166903
-+X768870 http://www.openstreetmap.org/?lat=41.383186&lon=2.149587
-Sants http://www.openstreetmap.org/?lat=41.379715&lon=2.141047
-+X628783 http://www.openstreetmap.org/?lat=41.368021&lon=2.122518
-Bellvitge http://www.openstreetmap.org/?lat=41.355000&lon=2.115544
++DIV_AVE5 http://www.openstreetmap.org/?lat=41.454958&lon=2.193189
+StAndCom +SantAndreuComtal http://www.openstreetmap.org/?lat=41.435978&lon=2.193704
++DIV_R1 http://www.openstreetmap.org/?lat=41.416704&lon=2.192824
+ClotAre +ClotArego http://www.openstreetmap.org/?lat=41.409532&lon=2.187186
++DIV_R2S http://www.openstreetmap.org/?lat=41.400505&lon=2.176023
+PasGra +PasseigGracia http://www.openstreetmap.org/?lat=41.390996&lon=2.166903
++DIV_R1R3E http://www.openstreetmap.org/?lat=41.383186&lon=2.149587
+San +Sants http://www.openstreetmap.org/?lat=41.379715&lon=2.141047
++DIV_R1R3W http://www.openstreetmap.org/?lat=41.368021&lon=2.122518
+Bel +Bellvitge http://www.openstreetmap.org/?lat=41.355000&lon=2.115544
 +X581988 http://www.openstreetmap.org/?lat=41.339104&lon=2.112980
-ElPratLlobregat http://www.openstreetmap.org/?lat=41.331101&lon=2.090160
-+X465082 http://www.openstreetmap.org/?lat=41.328051&lon=2.081738
+ElPratLlo +ElPratLlobregat http://www.openstreetmap.org/?lat=41.331101&lon=2.090160
++DIV_AVE6 http://www.openstreetmap.org/?lat=41.328051&lon=2.081738
 +X384405 http://www.openstreetmap.org/?lat=41.323314&lon=2.068219
-+X340061 http://www.openstreetmap.org/?lat=41.320188&lon=2.059207
-Viladecans http://www.openstreetmap.org/?lat=41.309293&lon=2.027535
-Gava http://www.openstreetmap.org/?lat=41.303039&lon=2.010455
-Castelldefels http://www.openstreetmap.org/?lat=41.278726&lon=1.979513
++DIV_R2N http://www.openstreetmap.org/?lat=41.320188&lon=2.059207
+Vil +Viladecans http://www.openstreetmap.org/?lat=41.309293&lon=2.027535
+Gava +Gava http://www.openstreetmap.org/?lat=41.303039&lon=2.010455
+Cas +Castelldefels http://www.openstreetmap.org/?lat=41.278726&lon=1.979513

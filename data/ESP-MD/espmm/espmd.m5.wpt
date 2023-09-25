@@ -1,32 +1,32 @@
-CasaCampo http://www.openstreetmap.org/?lat=40.403480&lon=-3.760886
-+X328811 http://www.openstreetmap.org/?lat=40.402692&lon=-3.762109
-Campamento http://www.openstreetmap.org/?lat=40.394664&lon=-3.768289
-Empalme http://www.openstreetmap.org/?lat=40.390734&lon=-3.765478
-Aluche http://www.openstreetmap.org/?lat=40.385700&lon=-3.760757
-EugeniaMontijo http://www.openstreetmap.org/?lat=40.384458&lon=-3.750973
-Carabanchel http://www.openstreetmap.org/?lat=40.387759&lon=-3.744965
-VistaAlegre http://www.openstreetmap.org/?lat=40.388773&lon=-3.739944
-Oporto http://www.openstreetmap.org/?lat=40.388675&lon=-3.731661
-Urgel http://www.openstreetmap.org/?lat=40.392597&lon=-3.725395
-MarquesVadillo http://www.openstreetmap.org/?lat=40.397434&lon=-3.716426
-Piramides http://www.openstreetmap.org/?lat=40.402606&lon=-3.711373
-PuertaToledo http://www.openstreetmap.org/?lat=40.407006&lon=-3.711061
-Latina http://www.openstreetmap.org/?lat=40.411286&lon=-3.708326
-Opera http://www.openstreetmap.org/?lat=40.418001&lon=-3.709420
-Callao http://www.openstreetmap.org/?lat=40.420288&lon=-3.705869
+CasaCam +CasaCampo http://www.openstreetmap.org/?lat=40.403480&lon=-3.760886
++DIV_M10 http://www.openstreetmap.org/?lat=40.402692&lon=-3.762109
+Cam +Campamento http://www.openstreetmap.org/?lat=40.394664&lon=-3.768289
+Emp +Empalme http://www.openstreetmap.org/?lat=40.390734&lon=-3.765478
+Alu +Aluche http://www.openstreetmap.org/?lat=40.385700&lon=-3.760757
+EugMon +EugeniaMontijo http://www.openstreetmap.org/?lat=40.384458&lon=-3.750973
+Cara +Carabanchel http://www.openstreetmap.org/?lat=40.387759&lon=-3.744965
+VisAle +VistaAlegre http://www.openstreetmap.org/?lat=40.388773&lon=-3.739944
+Opo +Oporto http://www.openstreetmap.org/?lat=40.388675&lon=-3.731661
+Urg +Urgel http://www.openstreetmap.org/?lat=40.392597&lon=-3.725395
+MarVad +MarquesVadillo http://www.openstreetmap.org/?lat=40.397434&lon=-3.716426
+Pir +Piramides http://www.openstreetmap.org/?lat=40.402606&lon=-3.711373
+PueTol +PuertaToledo http://www.openstreetmap.org/?lat=40.407006&lon=-3.711061
+Lat +Latina http://www.openstreetmap.org/?lat=40.411286&lon=-3.708326
+Ope +Opera http://www.openstreetmap.org/?lat=40.418001&lon=-3.709420
+Cal +Callao http://www.openstreetmap.org/?lat=40.420288&lon=-3.705869
 GranVia http://www.openstreetmap.org/?lat=40.419982&lon=-3.701341
-Chueca http://www.openstreetmap.org/?lat=40.422702&lon=-3.697650
-AlonsoMartinez http://www.openstreetmap.org/?lat=40.427635&lon=-3.695912
-RubenDario http://www.openstreetmap.org/?lat=40.433041&lon=-3.689582
-NunezBalboa http://www.openstreetmap.org/?lat=40.432633&lon=-3.679562
-DiegoLeon http://www.openstreetmap.org/?lat=40.434658&lon=-3.674541
-Ventas http://www.openstreetmap.org/?lat=40.431032&lon=-3.663554
-Carmen http://www.openstreetmap.org/?lat=40.431996&lon=-3.656237
-Quintana http://www.openstreetmap.org/?lat=40.433123&lon=-3.648148
-PuebloNuevo http://www.openstreetmap.org/?lat=40.434968&lon=-3.644178
-CiudadLineal http://www.openstreetmap.org/?lat=40.437875&lon=-3.637998
-Suanzes http://www.openstreetmap.org/?lat=40.440823&lon=-3.626990
-TorreArias http://www.openstreetmap.org/?lat=40.443632&lon=-3.617077
-Canillejas http://www.openstreetmap.org/?lat=40.449086&lon=-3.608494
-Capricho http://www.openstreetmap.org/?lat=40.453397&lon=-3.594203
-AlamedaOsuna http://www.openstreetmap.org/?lat=40.457544&lon=-3.587937
+Chu +Chueca http://www.openstreetmap.org/?lat=40.422702&lon=-3.697650
+AloMar +AlonsoMartinez http://www.openstreetmap.org/?lat=40.427635&lon=-3.695912
+RubDar +RubenDario http://www.openstreetmap.org/?lat=40.433041&lon=-3.689582
+NunBal +NunezBalboa http://www.openstreetmap.org/?lat=40.432633&lon=-3.679562
+DieLeon +DiegoLeon http://www.openstreetmap.org/?lat=40.434658&lon=-3.674541
+Ven +Ventas http://www.openstreetmap.org/?lat=40.431032&lon=-3.663554
+Carm +Carmen http://www.openstreetmap.org/?lat=40.431996&lon=-3.656237
+Qui +Quintana http://www.openstreetmap.org/?lat=40.433123&lon=-3.648148
+PueNue +PuebloNuevo http://www.openstreetmap.org/?lat=40.434968&lon=-3.644178
+CiuLin +CiudadLineal http://www.openstreetmap.org/?lat=40.437875&lon=-3.637998
+Sua +Suanzes http://www.openstreetmap.org/?lat=40.440823&lon=-3.626990
+TorAri +TorreArias http://www.openstreetmap.org/?lat=40.443632&lon=-3.617077
+Can +Canillejas http://www.openstreetmap.org/?lat=40.449086&lon=-3.608494
+Cap +Capricho http://www.openstreetmap.org/?lat=40.453397&lon=-3.594203
+AlaOsu +AlamedaOsuna http://www.openstreetmap.org/?lat=40.457544&lon=-3.587937

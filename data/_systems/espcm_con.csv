@@ -1,8 +1,8 @@
 systemName;route;banner;groupName;roots
 espcm;C1;;Madrid;espmd.c1
 espcm;C2;;Madrid;espmd.c2,espcm.c2
-espcm;C3;;Madrid;espmd.c3
-espcm;C3a;;Madrid;espmd.c3a
+espcm;C3;;Madrid;espmd.c3,espcm.c3,espmd.c3ara
+espcm;C3a;;Madrid;espmd.c3a,espcm.c3a,espmd.c3aara
 espcm;C4a;;Madrid;espmd.c4a
 espcm;C4b;;Madrid;espmd.c4b
 espcm;C5;;Madrid;espmd.c5

@@ -3,10 +3,16 @@ CL/CB http://www.openstreetmap.org/?lat=42.856738&lon=-4.224629
 +X110599 http://www.openstreetmap.org/?lat=42.848738&lon=-4.206347
 +X414317 http://www.openstreetmap.org/?lat=42.855896&lon=-4.208879
 +X511300 http://www.openstreetmap.org/?lat=42.851004&lon=-4.200983
-Mataporquera http://www.openstreetmap.org/?lat=42.871891&lon=-4.164634
+Mat +Mataporquera http://www.openstreetmap.org/?lat=42.871891&lon=-4.164634
 +X903309 http://www.openstreetmap.org/?lat=42.883150&lon=-4.152617
 +X503275 http://www.openstreetmap.org/?lat=42.882364&lon=-4.143777
 +X469940 http://www.openstreetmap.org/?lat=42.902360&lon=-4.120345
-Carabeos http://www.openstreetmap.org/?lat=42.910282&lon=-4.075284
+Car +Carabeos http://www.openstreetmap.org/?lat=42.910282&lon=-4.075284
 +X520644 http://www.openstreetmap.org/?lat=42.903602&lon=-4.043827
++X317647 http://www.openstreetmap.org/?lat=42.919758&lon=-4.031811
++X216450 http://www.openstreetmap.org/?lat=42.935532&lon=-4.051037
++X741468 http://www.openstreetmap.org/?lat=42.964039&lon=-4.058805
++SKIP_Roz http://www.openstreetmap.org/?lat=42.973618&lon=-4.029751
++X189103 http://www.openstreetmap.org/?lat=42.977416&lon=-3.993959
++SKIP_Lla http://www.openstreetmap.org/?lat=42.987977&lon=-3.982616
 CB/CL http://www.openstreetmap.org/?lat=42.989063&lon=-3.962975

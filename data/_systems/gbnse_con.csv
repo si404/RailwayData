@@ -1,7 +1,4 @@
 systemName;route;banner;groupName;roots
-gbnse;CanWLn;;Canterbury West Line;eng.canwln
-gbnse;WhiCliLn;;White Cliffs Line;eng.whicliln
-gbnse;KentCoaLn;;Kent Coast Line;eng.kentcoaln
 gbnse;SEML;;South East Main Line;eng.seml
 gbnse;PadWoodLn;;Paddock Wood Line;eng.padwoodln
 gbnse;HasLn;;Hastings Line;eng.hasln
