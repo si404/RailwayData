@@ -1,17 +1,17 @@
 AS/CB http://www.openstreetmap.org/?lat=43.375892&lon=-4.517301
-Unq +Unquera http://www.openstreetmap.org/?lat=43.374902&lon=-4.514222
-Pes +Pesues http://www.openstreetmap.org/?lat=43.370312&lon=-4.480104
-SanVicBar +SanVicenteBarquera http://www.openstreetmap.org/?lat=43.367700&lon=-4.404531
+Unq http://www.openstreetmap.org/?lat=43.374902&lon=-4.514222
+Pes http://www.openstreetmap.org/?lat=43.370312&lon=-4.480104
+SanVicBar http://www.openstreetmap.org/?lat=43.367700&lon=-4.404531
 +X331213 http://www.openstreetmap.org/?lat=43.355937&lon=-4.386420
-Bar +Barcenal http://www.openstreetmap.org/?lat=43.340864&lon=-4.383717
+Bar http://www.openstreetmap.org/?lat=43.340864&lon=-4.383717
 +X375259 http://www.openstreetmap.org/?lat=43.329064&lon=-4.365950
 Roiz http://www.openstreetmap.org/?lat=43.328323&lon=-4.349191
-Tre +Treceno http://www.openstreetmap.org/?lat=43.318395&lon=-4.308937
+Tre http://www.openstreetmap.org/?lat=43.318395&lon=-4.308937
 +X645831 http://www.openstreetmap.org/?lat=43.305420&lon=-4.292715
 +X194661 http://www.openstreetmap.org/?lat=43.317349&lon=-4.288058
 +SKIP_Tur http://www.openstreetmap.org/?lat=43.316295&lon=-4.269691
 +X432238 http://www.openstreetmap.org/?lat=43.305209&lon=-4.247718
-CabSal +CabezonSal http://www.openstreetmap.org/?lat=43.307821&lon=-4.231764
+CabSal http://www.openstreetmap.org/?lat=43.307821&lon=-4.231764
 +SKIP_Ont http://www.openstreetmap.org/?lat=43.315284&lon=-4.215370
 +SKIP_VirPena http://www.openstreetmap.org/?lat=43.323027&lon=-4.193634
 +SKIP_CasPer http://www.openstreetmap.org/?lat=43.338889&lon=-4.174612
@@ -19,10 +19,10 @@ CabSal +CabezonSal http://www.openstreetmap.org/?lat=43.307821&lon=-4.231764
 +SKIP_SanPed http://www.openstreetmap.org/?lat=43.361265&lon=-4.149334
 +X214333 http://www.openstreetmap.org/?lat=43.365758&lon=-4.141073
 +SKIP_SanIsaQui http://www.openstreetmap.org/?lat=43.359057&lon=-4.111719
-PueSanMig +PuenteSanMiguel http://www.openstreetmap.org/?lat=43.358714&lon=-4.087687
+PueSanMig http://www.openstreetmap.org/?lat=43.358714&lon=-4.087687
 +SKIP_Gan http://www.openstreetmap.org/?lat=43.356467&lon=-4.070263
 +SKIP_Alt http://www.openstreetmap.org/?lat=43.351943&lon=-4.057002
-TorCen +TorrelavegaCentro http://www.openstreetmap.org/?lat=43.351131&lon=-4.051337
+TorCen http://www.openstreetmap.org/?lat=43.351131&lon=-4.051337
 +SKIP_Bar http://www.openstreetmap.org/?lat=43.374095&lon=-4.041982
 +SKIP_Req http://www.openstreetmap.org/?lat=43.391320&lon=-4.028463
 +SKIP_Mar http://www.openstreetmap.org/?lat=43.398246&lon=-4.010096
@@ -36,4 +36,4 @@ TorCen +TorrelavegaCentro http://www.openstreetmap.org/?lat=43.351131&lon=-4.051
 +SKIP_Caz http://www.openstreetmap.org/?lat=43.454663&lon=-3.840634
 +DIV_C3 http://www.openstreetmap.org/?lat=43.448468&lon=-3.837994
 +SKIP_ValMar http://www.openstreetmap.org/?lat=43.452596&lon=-3.828703
-San +Santander http://www.openstreetmap.org/?lat=43.458647&lon=-3.811237
+San http://www.openstreetmap.org/?lat=43.458647&lon=-3.811237

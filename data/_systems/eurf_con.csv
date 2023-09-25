@@ -1,5 +1,8 @@
 systemName;route;banner;groupName;roots
 eurf;AbeCliRwy;;Rheilffordd y Graig, Aberystwyth;wls.abeclirwy
+eurf;FunMon;;Funicular de Montjuïc, Barcelona;espct.funmon
+eurf;FunTib;;Funicular del Tibidabo, Barcelona;espct.funtib
+eurf;FunVal;;Funicular de Vallvidrera, Barcelona;espct.funval
 eurf;F;;Artxandako funikularra, Bilbo;esppv.f
 eurf;FE;;Larreinetako funikularra, Bilbo;esppv.fe
 eurf;L;;Mamariga funikularra, Bilbo;esppv.l
@@ -7,6 +10,7 @@ eurf;FWCliLift;;Fisherman's Walk Cliff Lift, Bournemouth;eng.fwclilift
 eurf;WestCliLift;;West Cliff Lift, Bournemouth;eng.wesclilift
 eurf;BriCliRwy;;Bridgnorth Cliff Railway;eng.briclirwy
 eurf;EbbwValeCab;;Ebbw Vale Cableway;wls.ebbwvalecab
+eurf;FunGel;;Funicular de Gelida;espct.fungel
 eurf;CPG;;Cremagliera Principe - Granarolo, Genova;italig.cpg
 eurf;FSA;;Funicolare Sant'Anna, Genova;italig.fsa
 eurf;FZR;;Funicolare Zecca - Righi, Genova;italig.fzr
@@ -18,10 +22,14 @@ eurf;F1;;Funiculaire de Saint-Just, Lyon;fraara.f1
 eurf;F2;;Funiculaire de Fourvière, Lyon;fraara.f2
 eurf;LLCliRwy;;Lynton and Lynmouth Cliff Railway;eng.llclirwy
 eurf;CATFun;;Centre for Alternative Technology Funicular, Machynlleth;wls.catfun
+eurf;CreMon;;Cremallera de Montserrat, Monestir de Montserrat;espct.cremon
+eurf;FunStCova;;Funicular de la Santa Cova, Monestir de Montserrat;espct.funstcova
+eurf;FunStJoan;;Funicular de Sant Joan, Monestir de Montserrat;espct.funstjoan
 eurf;A;;Funicolare Centrale, Napoli;itacam.a
 eurf;B;;Funicolare di Chiaia, Napoli;itacam.b
 eurf;C;;Funicolare di Montesanto, Napoli;itacam.c
 eurf;D;;Funicolare di Mergellina, Napoli;itacam.d
+eurf;CreNur;;Cremallera de Núria;espct.crenur
 eurf;FunMon;;Funiculaire de Montmartre, Paris;fraidf.funmon
 eurf;SalCliTwy;;Saltburn Cliff Tramway;eng.salclitwy
 eurf;CenTwy;;Central Tramway, Scarborough;eng.centwy

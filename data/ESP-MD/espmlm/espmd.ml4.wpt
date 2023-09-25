@@ -1,16 +1,16 @@
-ParCen_1 ParlaCentro_1 http://www.openstreetmap.org/?lat=40.241012&lon=-3.769362
-IglCen IglesiaCentro http://www.openstreetmap.org/?lat=40.237655&lon=-3.770585
-BulSur BulevarSur http://www.openstreetmap.org/?lat=40.234690&lon=-3.772388
-ReyCat ReyesCatolicos http://www.openstreetmap.org/?lat=40.231397&lon=-3.770006
-IsaIII IsabelII http://www.openstreetmap.org/?lat=40.231135&lon=-3.765113
-ParParEst ParqueParlaEste http://www.openstreetmap.org/?lat=40.228202&lon=-3.761487
-AveSisSol AvenidaSistemaSolar http://www.openstreetmap.org/?lat=40.223402&lon=-3.760672
-Tie Tierra http://www.openstreetmap.org/?lat=40.222239&lon=-3.755436
-Ven Venus http://www.openstreetmap.org/?lat=40.226302&lon=-3.754127
-EstPol EstrellaPolar http://www.openstreetmap.org/?lat=40.230070&lon=-3.752732
-JaiI JaimeI http://www.openstreetmap.org/?lat=40.234853&lon=-3.750844
-PolIndCiuPar PoligonoIndustrialCiudadParla http://www.openstreetmap.org/?lat=40.237982&lon=-3.750672
-PlaTor PlazaToros http://www.openstreetmap.org/?lat=40.244157&lon=-3.757474
-JulRomTor JulioRomeroTorres http://www.openstreetmap.org/?lat=40.245353&lon=-3.762345
-Bal Ballena http://www.openstreetmap.org/?lat=40.245959&lon=-3.766336
-ParCen_2 ParlaCentro_2 http://www.openstreetmap.org/?lat=40.241012&lon=-3.769362
+ParCen_1 http://www.openstreetmap.org/?lat=40.241012&lon=-3.769362
+IglCen http://www.openstreetmap.org/?lat=40.237655&lon=-3.770585
+BulSur http://www.openstreetmap.org/?lat=40.234690&lon=-3.772388
+ReyCat http://www.openstreetmap.org/?lat=40.231397&lon=-3.770006
+IsaII IsaIII http://www.openstreetmap.org/?lat=40.231135&lon=-3.765113
+ParParEst http://www.openstreetmap.org/?lat=40.228202&lon=-3.761487
+AveSisSol http://www.openstreetmap.org/?lat=40.223402&lon=-3.760672
+Tie http://www.openstreetmap.org/?lat=40.222239&lon=-3.755436
+Ven http://www.openstreetmap.org/?lat=40.226302&lon=-3.754127
+EstPol http://www.openstreetmap.org/?lat=40.230070&lon=-3.752732
+JaiI http://www.openstreetmap.org/?lat=40.234853&lon=-3.750844
+PolIndCiuPar http://www.openstreetmap.org/?lat=40.237982&lon=-3.750672
+PlaTor http://www.openstreetmap.org/?lat=40.244157&lon=-3.757474
+JulRomTor http://www.openstreetmap.org/?lat=40.245353&lon=-3.762345
+Bal http://www.openstreetmap.org/?lat=40.245959&lon=-3.766336
+ParCen_2 http://www.openstreetmap.org/?lat=40.241012&lon=-3.769362
