@@ -1,15 +1,15 @@
-Fer Ferrol http://www.openstreetmap.org/?lat=43.488058&lon=-8.230991
+Fer http://www.openstreetmap.org/?lat=43.488058&lon=-8.230991
 +SKIP_SanXoan http://www.openstreetmap.org/?lat=43.494587&lon=-8.213670
 +X686256 http://www.openstreetmap.org/?lat=43.495129&lon=-8.207570
 +SKIP_VirMar http://www.openstreetmap.org/?lat=43.496552&lon=-8.204851
 +SKIP_AltoCas http://www.openstreetmap.org/?lat=43.503095&lon=-8.195651
 +SKIP_Pin http://www.openstreetmap.org/?lat=43.509647&lon=-8.183784
 +SKIP_Pon http://www.openstreetmap.org/?lat=43.514798&lon=-8.177562
-Xuv +Xuvia http://www.openstreetmap.org/?lat=43.517225&lon=-8.161275
+Xuv http://www.openstreetmap.org/?lat=43.517225&lon=-8.161275
 +SKIP_Fer http://www.openstreetmap.org/?lat=43.527977&lon=-8.150375
 +SKIP_Sed http://www.openstreetmap.org/?lat=43.542661&lon=-8.140225
 +SKIP_Ped http://www.openstreetmap.org/?lat=43.536653&lon=-8.109241
-SanSad +SanSadurnino http://www.openstreetmap.org/?lat=43.546036&lon=-8.078041
+SanSad http://www.openstreetmap.org/?lat=43.546036&lon=-8.078041
 +X384222 http://www.openstreetmap.org/?lat=43.555780&lon=-8.070574
 +X359316 http://www.openstreetmap.org/?lat=43.544707&lon=-8.062935
 +SKIP_Lam http://www.openstreetmap.org/?lat=43.547257&lon=-8.049073
@@ -17,28 +17,28 @@ SanSad +SanSadurnino http://www.openstreetmap.org/?lat=43.546036&lon=-8.078041
 +SKIP_Moe http://www.openstreetmap.org/?lat=43.562073&lon=-8.002682
 +SKIP_Lab http://www.openstreetmap.org/?lat=43.565300&lon=-7.980226
 +SKIP_Ent http://www.openstreetmap.org/?lat=43.577099&lon=-7.954359
-Cer +Cerdido http://www.openstreetmap.org/?lat=43.587020&lon=-7.934489
+Cer http://www.openstreetmap.org/?lat=43.587020&lon=-7.934489
 +X350763 http://www.openstreetmap.org/?lat=43.584797&lon=-7.926636
 +SKIP_Cuq http://www.openstreetmap.org/?lat=43.607797&lon=-7.921786
 +SKIP_SanMar http://www.openstreetmap.org/?lat=43.640963&lon=-7.916229
 +SKIP_PonMera http://www.openstreetmap.org/?lat=43.665982&lon=-7.902464
 +SKIP_SanCla http://www.openstreetmap.org/?lat=43.660976&lon=-7.873496
 +SKIP_Sen http://www.openstreetmap.org/?lat=43.668756&lon=-7.854667
-Ort +Ortigueira http://www.openstreetmap.org/?lat=43.686355&lon=-7.849603
+Ort http://www.openstreetmap.org/?lat=43.686355&lon=-7.849603
 +X248223 http://www.openstreetmap.org/?lat=43.694454&lon=-7.815785
 +SKIP_Esp http://www.openstreetmap.org/?lat=43.708695&lon=-7.804756
 +X483907 http://www.openstreetmap.org/?lat=43.710665&lon=-7.770982
 +SKIP_Loi http://www.openstreetmap.org/?lat=43.730282&lon=-7.749996
 +X247511 http://www.openstreetmap.org/?lat=43.744049&lon=-7.721715
-Bar +Bar http://www.openstreetmap.org/?lat=43.735658&lon=-7.702661
+Bar http://www.openstreetmap.org/?lat=43.735658&lon=-7.702661
 +X738873 http://www.openstreetmap.org/?lat=43.728212&lon=-7.689314
-Vic +Vic http://www.openstreetmap.org/?lat=43.730941&lon=-7.673070
+Vic http://www.openstreetmap.org/?lat=43.730941&lon=-7.673070
 +X207862 http://www.openstreetmap.org/?lat=43.729848&lon=-7.650776
 +SKIP_Mos http://www.openstreetmap.org/?lat=43.706089&lon=-7.636142
 +SKIP_Fol http://www.openstreetmap.org/?lat=43.692778&lon=-7.634983
 +X890226 http://www.openstreetmap.org/?lat=43.683376&lon=-7.615457
 +SKIP_Cov http://www.openstreetmap.org/?lat=43.670184&lon=-7.614598
-Viv Viveiro http://www.openstreetmap.org/?lat=43.657145&lon=-7.600093
+Viv http://www.openstreetmap.org/?lat=43.657145&lon=-7.600093
 +SKIP_VivApe http://www.openstreetmap.org/?lat=43.663013&lon=-7.592111
 +X696580 http://www.openstreetmap.org/?lat=43.684074&lon=-7.582154
 +SKIP_Xuances http://www.openstreetmap.org/?lat=43.688124&lon=-7.553787
@@ -47,9 +47,9 @@ Viv Viveiro http://www.openstreetmap.org/?lat=43.657145&lon=-7.600093
 Xove http://www.openstreetmap.org/?lat=43.680893&lon=-7.495422
 +SKIP_Lago http://www.openstreetmap.org/?lat=43.687038&lon=-7.481861
 +SKIP_Bid http://www.openstreetmap.org/?lat=43.696657&lon=-7.468901
-SanCib SanCibrao http://www.openstreetmap.org/?lat=43.692189&lon=-7.441778
+SanCib http://www.openstreetmap.org/?lat=43.692189&lon=-7.441778
 +SKIP_Mad http://www.openstreetmap.org/?lat=43.686231&lon=-7.412639
-Bur Burela http://www.openstreetmap.org/?lat=43.659815&lon=-7.360497
+Bur http://www.openstreetmap.org/?lat=43.659815&lon=-7.360497
 +SKIP_CanFoz http://www.openstreetmap.org/?lat=43.625964&lon=-7.333202
 +SKIP_Nois http://www.openstreetmap.org/?lat=43.610368&lon=-7.312045
 +SKIP_Faz http://www.openstreetmap.org/?lat=43.601014&lon=-7.299814
@@ -60,8 +60,8 @@ Foz http://www.openstreetmap.org/?lat=43.560880&lon=-7.272134
 +SKIP_Rei http://www.openstreetmap.org/?lat=43.549777&lon=-7.174072
 +SKIP_Est http://www.openstreetmap.org/?lat=43.551705&lon=-7.146006
 +SKIP_Cas http://www.openstreetmap.org/?lat=43.551519&lon=-7.131071
-Rin Rinlo http://www.openstreetmap.org/?lat=43.549746&lon=-7.108712
+Rin http://www.openstreetmap.org/?lat=43.549746&lon=-7.108712
 +X961925 http://www.openstreetmap.org/?lat=43.546324&lon=-7.070475
 +SKIP_Rib http://www.openstreetmap.org/?lat=43.535879&lon=-7.055883
-Vei Veiga http://www.openstreetmap.org/?lat=43.479410&lon=-7.057042
+Vei http://www.openstreetmap.org/?lat=43.479410&lon=-7.057042
 GA/AS http://www.openstreetmap.org/?lat=43.473317&lon=-7.053298

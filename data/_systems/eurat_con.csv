@@ -1,5 +1,8 @@
 systemName;route;banner;groupName;roots
+eurat;AeriMon;;Aeri de Montserrat;espct.aerimon
 eurat;ATCC;;Alton Towers Cable Car;eng.atcc
+eurat;TelMon;;Barcelona Telefèric de Montjuïc;espct.telmon
+eurat;TelPort;;Barcelona Telefèric del Port;espct.telport
 eurat;TC;;Brest Téléphérique 'Ligne C';frabre.tc
 eurat;F;;Funivie di Castellammare 'Del Faito';itacam.f
 eurat;DICC;;Dursey Island Cable Car;irl.dicc
