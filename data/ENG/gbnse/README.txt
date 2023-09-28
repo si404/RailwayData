@@ -1,14 +1,7 @@
-###High Speed 1 routes###
-Kent Coast Line | 1tph | London St Pancras International, Stratford International, Ebbsfleet International, Gravesend, Strood, Rochester, Chatham, Gillingham, Rainham, Sittingbourne, Faversham, Whitstable, Herne Bay, Birchington-on-Sea, Margate, Broadstairs, Ramsgate
-
-White Cliffs Line | 1tph | London St Pancras International, Stratford International, Ebbsfleet International, Ashford International, Folkestone West, Folkestone Central, Dover Priory, Martin Mill, Walmer, Deal, Sandwich, Ramsgate
-
-Canterbury West Line | 1tph | London St Pancras International, Stratford International, Ebbsfleet International, Ashford International, Canterbury West, Ramsgate, Broadstairs, Margate
-
 ###Victoria Routes###
-Creative Coast Line | 1tph | London Victoria, Bromley South, Longfield, Meopham, Rochester, Chatham, Gillingham, Rainham, Sittingbourne, Faversham, Whitstable, Chestfield & Swalecliffe, Herne Bay, Birchington-on-Sea, Westgate-on-Sea, Margate, Broadstairs, Dumpton Park, Ramsgate
-
 Chatham Main Line | 1tph | London Victoria, Bromley South, Longfield, Meopham, Rochester, Chatham, Gillingham, Rainham, Newington, Sittingbourne, Teynham, Faversham, Selling, Canterbury East, Bekesbourne, Adisham, Aylesham, Snowdown, Shepherds Well, Kearsney, Dover Priory
+
+Thanet Line | 1tph | London Victoria, Bromley South, Longfield, Meopham, Rochester, Chatham, Gillingham, Rainham, Sittingbourne, Faversham, Whitstable, Chestfield & Swalecliffe, Herne Bay, Birchington-on-Sea, Westgate-on-Sea, Margate, Broadstairs, Dumpton Park, Ramsgate
 
 Sole Street Line | 1tph | London Victoria, Denmark Hill, Bromley South, St Mary Cray, Swanley, Farningham Road, Longfield, Meopham, Sole Street, Rochester, Chatham, Gillingham
 
@@ -23,8 +16,7 @@ Paddock Wood Line | 1tph | London Charing Cross, Waterloo East, London Bridge, S
 South East Main Line | 1tph | London Charing Cross, Waterloo East, London Bridge, Sevenoaks, Tonbridge, Paddock Wood, Marden, Staplehurst, Headcorn, Pluckley, Ashford International, Wye, Chilham, Chartham, Canterbury West, Sturry, Minster, Ramsgate
 
 Hastings Line | 1tph | London Charing Cross, Waterloo East, London Bridge, Orpington, Sevenoaks, Tonbridge, High Brooms, Tunbridge Wells, Wadhurst, Battle, St Leonards Warrior Square, Hastings
-
-1066 Line | 1tph | London Charing Cross, Waterloo East, London Bridge, Orpington, Sevenoaks, Hildenborough, Tonbridge, High Brooms, Tunbridge Wells, Frant, Wadhurst, Stonegate, Etchingham, Robertsbridge, Battle, Crowhurst, West St Leonards, St Leonards Warrior Square, Hastings
+Hastings Line | 1tph | London Charing Cross, Waterloo East, London Bridge, Orpington, Sevenoaks, Hildenborough, Tonbridge, High Brooms, Tunbridge Wells, Frant, Wadhurst, Stonegate, Etchingham, Robertsbridge, Battle, Crowhurst, West St Leonards, St Leonards Warrior Square, Hastings
 
 ###Non-London Routes###
 Swale Line | 2tph | Sittingbourne, Kemsley, Swale, Queenborough, Sheerness-on-Sea
