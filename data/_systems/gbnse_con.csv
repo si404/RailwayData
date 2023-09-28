@@ -2,9 +2,8 @@ systemName;route;banner;groupName;roots
 gbnse;SEML;;South East Main Line;eng.seml
 gbnse;PadWoodLn;;Paddock Wood Line;eng.padwoodln
 gbnse;HasLn;;Hastings Line;eng.hasln
-gbnse;1066Ln;;1066 Line;eng.1066ln
 gbnse;ChaML;;Chatham Main Line;eng.chaml
-gbnse;CreCoaLn;;Creative Coast Line;eng.crecoaln
+gbnse;ThaLn;;Thanet Line;eng.thaln
 gbnse;SoleStLn;;Sole Street Line;eng.solestln
 gbnse;KentDowLn;;Kent Downs Line;eng.kentdowln
 gbnse;MaiELn;;Maidstone East Line;eng.maieln
