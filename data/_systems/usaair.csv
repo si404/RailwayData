@@ -10,3 +10,4 @@ usaair;IL;AirTraSys;;;ORD Airport Transit System;il.airtrasys;
 usaair;TX;IAHSub;;;IAH Subway;tx.iahsub;
 usaair;MN;HubTram;;;MSP Hub Tram;mn.hubtram;
 usaair;FL;SkyCon;;;TPA SkyConnect;fl.skycon;
+usaair;FL;TerLink;;;MCO Terminal Link;fl.terlink;
