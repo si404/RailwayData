@@ -12,3 +12,5 @@ usaair;MN;HubTram;;;MSP Hub Tram;mn.hubtram;
 usaair;FL;SkyCon;;;TPA SkyConnect;fl.skycon;
 usaair;FL;TerLink;;;MCO Terminal Link;fl.terlink;
 usaair;CA;OAKAir;;;OAK Airport;ca.oakair;
+usaair;CA;AirTrnRed;;;SFO AirTrain Red Line;ca.airtrnred;
+usaair;CA;AirTrnBlue;;;SFO AirTrain Blue Line;ca.airtrnblue;
