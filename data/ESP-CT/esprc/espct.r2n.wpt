@@ -8,17 +8,17 @@ StCel http://www.openstreetmap.org/?lat=41.685629&lon=2.490871
 Pal http://www.openstreetmap.org/?lat=41.671774&lon=2.454243
 LliVal http://www.openstreetmap.org/?lat=41.637849&lon=2.404547
 +X646448 http://www.openstreetmap.org/?lat=41.631210&lon=2.374635
-Car Cardedeu http://www.openstreetmap.org/?lat=41.636342&lon=2.356181
+Car http://www.openstreetmap.org/?lat=41.636342&lon=2.356181
 +X467860 http://www.openstreetmap.org/?lat=41.627946&lon=2.302945
 FraGraNord http://www.openstreetmap.org/?lat=41.617359&lon=2.294512
 GraCen http://www.openstreetmap.org/?lat=41.599575&lon=2.291636
 +X533456 http://www.openstreetmap.org/?lat=41.571263&lon=2.281165
 +DIV_AVE1 http://www.openstreetmap.org/?lat=41.553923&lon=2.258463
-Mon +Montmelo http://www.openstreetmap.org/?lat=41.549684&lon=2.245374
+Mon http://www.openstreetmap.org/?lat=41.549684&lon=2.245374
 +DIV_AVE2 http://www.openstreetmap.org/?lat=41.547050&lon=2.237906
 MolStFost http://www.openstreetmap.org/?lat=41.533302&lon=2.217736
 +DIV_R8 http://www.openstreetmap.org/?lat=41.527134&lon=2.212887
-Lla +Llagosta http://www.openstreetmap.org/?lat=41.510401&lon=2.199841
+Lla http://www.openstreetmap.org/?lat=41.510401&lon=2.199841
 +DIV_AVE3 http://www.openstreetmap.org/?lat=41.486648&lon=2.188704
 MonRei http://www.openstreetmap.org/?lat=41.484044&lon=2.188232
 +DIV_AVE4 http://www.openstreetmap.org/?lat=41.461744&lon=2.187438
@@ -32,7 +32,7 @@ PasGra http://www.openstreetmap.org/?lat=41.390996&lon=2.166903
 +DIV_R1R3E http://www.openstreetmap.org/?lat=41.383186&lon=2.149587
 San http://www.openstreetmap.org/?lat=41.379715&lon=2.141047
 +DIV_R1R3W http://www.openstreetmap.org/?lat=41.368021&lon=2.122518
-Bel +Bellvitge http://www.openstreetmap.org/?lat=41.355000&lon=2.115544
+Bel http://www.openstreetmap.org/?lat=41.355000&lon=2.115544
 +X581988 http://www.openstreetmap.org/?lat=41.339104&lon=2.112980
 ElPratLlo http://www.openstreetmap.org/?lat=41.331101&lon=2.090160
 +DIV_AVE6 http://www.openstreetmap.org/?lat=41.328051&lon=2.081738
