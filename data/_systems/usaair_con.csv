@@ -8,3 +8,9 @@ usaair;MiaM;;MIA Mover;fl.miam
 usaair;PHX;;PHX SkyTrain;az.phx
 usaair;AirTraSys;;ORD Airport Transit System;il.airtrasys
 usaair;IAHSub;;IAH Subway;tx.iahsub
+usaair;HubTram;;MSP Hub Tram;mn.hubtram
+usaair;SkyCon;;TPA SkyConnect;fl.skycon
+usaair;TerLink;;MCO Terminal Link;fl.terlink
+usaair;OAKAir;;OAK Airport;ca.oakair
+usaair;AirTrnRed;;SFO AirTrain Red Line;ca.airtrnred
+usaair;AirTrnBlue;;SFO AirTrain Blue Line;ca.airtrnblue
