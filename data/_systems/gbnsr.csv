@@ -1,5 +1,5 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-gbnsr;SCT;GML;;Edi;Grampian Main Line (Edinburgh);sct.gmledi;AngCoaLn
+gbnsr;SCT;GML;;Edi;Grampian Main Line (Edinburgh);sct.gmledi;
 gbnsr;SCT;GML;;Gla;Grampian Main Line (Glasgow);sct.gmlgla;
 gbnsr;SCT;HML;;Gla;Highland Main Line (Glasgow);sct.hmlgla;
 gbnsr;SCT;HML;;Edi;Highland Main Line (Edinburgh);sct.hmledi;
