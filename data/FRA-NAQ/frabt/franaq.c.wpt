@@ -1,36 +1,36 @@
-VillenavePyrenees http://www.openstreetmap.org/?lat=44.774208&lon=-0.564852
-VillenaveCentrePontMaye http://www.openstreetmap.org/?lat=44.782220&lon=-0.566214
-LyceeVaclacHavel http://www.openstreetmap.org/?lat=44.786598&lon=-0.566236
-ParcMussonville http://www.openstreetmap.org/?lat=44.794026&lon=-0.559595
-GareBegles http://www.openstreetmap.org/?lat=44.798228&lon=-0.551805
-CalaisCentujean http://www.openstreetmap.org/?lat=44.802903&lon=-0.551977
-StadeMusard http://www.openstreetmap.org/?lat=44.807881&lon=-0.551505
-BelleRose http://www.openstreetmap.org/?lat=44.811093&lon=-0.551248
-TerresNeuves http://www.openstreetmap.org/?lat=44.815279&lon=-0.550840
-CarleVernet http://www.openstreetmap.org/?lat=44.819876&lon=-0.550411
-Belcier http://www.openstreetmap.org/?lat=44.822555&lon=-0.552149
-GareSaintJean http://www.openstreetmap.org/?lat=44.825705&lon=-0.555604
-Tauzia http://www.openstreetmap.org/?lat=44.829038&lon=-0.558565
-SainteCroix http://www.openstreetmap.org/?lat=44.831792&lon=-0.559402
-SaintMichel http://www.openstreetmap.org/?lat=44.834455&lon=-0.563307
-+X949704 http://www.openstreetmap.org/?lat=44.836751&lon=-0.565828
-PorteBourgogne http://www.openstreetmap.org/?lat=44.837166&lon=-0.566322
-+X303858 http://www.openstreetmap.org/?lat=44.838014&lon=-0.567212
-PlaceBourse http://www.openstreetmap.org/?lat=44.841531&lon=-0.569658
+VilPyr +VillenavePyrenees http://www.openstreetmap.org/?lat=44.774208&lon=-0.564852
+VilCenPontMaye +VillenaveCentrePontMaye http://www.openstreetmap.org/?lat=44.782220&lon=-0.566214
+LycVacHav +LyceeVaclacHavel http://www.openstreetmap.org/?lat=44.786598&lon=-0.566236
+ParcMus +ParcMussonville http://www.openstreetmap.org/?lat=44.794026&lon=-0.559595
+GareBeg +GareBegles http://www.openstreetmap.org/?lat=44.798228&lon=-0.551805
+CalCen +CalaisCentujean http://www.openstreetmap.org/?lat=44.802903&lon=-0.551977
+StaMus +StadeMusard http://www.openstreetmap.org/?lat=44.807881&lon=-0.551505
+BelRose +BelleRose http://www.openstreetmap.org/?lat=44.811093&lon=-0.551248
+TerNeu +TerresNeuves http://www.openstreetmap.org/?lat=44.815279&lon=-0.550840
+CarVer +CarleVernet http://www.openstreetmap.org/?lat=44.819876&lon=-0.550411
+Bel +Belcier http://www.openstreetmap.org/?lat=44.822555&lon=-0.552149
+GareStJean +GareSaintJean http://www.openstreetmap.org/?lat=44.825705&lon=-0.555604
+Tau +Tauzia http://www.openstreetmap.org/?lat=44.829038&lon=-0.558565
+StCro +SainteCroix http://www.openstreetmap.org/?lat=44.831792&lon=-0.559402
+StMic +SaintMichel http://www.openstreetmap.org/?lat=44.834455&lon=-0.563307
++DIV_AE http://www.openstreetmap.org/?lat=44.836751&lon=-0.565828
+PorBou +PorteBourgogne http://www.openstreetmap.org/?lat=44.837166&lon=-0.566322
++DIV_AW http://www.openstreetmap.org/?lat=44.838014&lon=-0.567212
+PlaBou +PlaceBourse http://www.openstreetmap.org/?lat=44.841531&lon=-0.569658
 +X715349 http://www.openstreetmap.org/?lat=44.843997&lon=-0.570597
-Quinconces http://www.openstreetmap.org/?lat=44.844235&lon=-0.573853
-+X993120 http://www.openstreetmap.org/?lat=44.845121&lon=-0.575259
-JardinPublic http://www.openstreetmap.org/?lat=44.848210&lon=-0.575387
-PlacePaulDoumer http://www.openstreetmap.org/?lat=44.851982&lon=-0.574143
-CamileGodard http://www.openstreetmap.org/?lat=44.854675&lon=-0.574465
-EmileCounord http://www.openstreetmap.org/?lat=44.858645&lon=-0.574937
-GrandParc http://www.openstreetmap.org/?lat=44.862310&lon=-0.575302
-PlaceRaveziesBouscat http://www.openstreetmap.org/?lat=44.867135&lon=-0.575849
-Cracovie http://www.openstreetmap.org/?lat=44.870952&lon=-0.576246
-+X559168 http://www.openstreetmap.org/?lat=44.871439&lon=-0.576289
-Vache http://www.openstreetmap.org/?lat=44.872230&lon=-0.590773
-Ausone http://www.openstreetmap.org/?lat=44.879259&lon=-0.603111
-+X863055 http://www.openstreetmap.org/?lat=44.881444&lon=-0.605364
-GareBruges http://www.openstreetmap.org/?lat=44.886963&lon=-0.609473
-Frankton http://www.openstreetmap.org/?lat=44.907194&lon=-0.619011
-GareBlanquefort http://www.openstreetmap.org/?lat=44.917095&lon=-0.623646
+Qui +Quinconces http://www.openstreetmap.org/?lat=44.844235&lon=-0.573853
++DIV_D http://www.openstreetmap.org/?lat=44.845121&lon=-0.575259
+JarPub +JardinPublic http://www.openstreetmap.org/?lat=44.848210&lon=-0.575387
+PlaPaulDou +PlacePaulDoumer http://www.openstreetmap.org/?lat=44.851982&lon=-0.574143
+CamGod +CamileGodard http://www.openstreetmap.org/?lat=44.854675&lon=-0.574465
+EmiCou +EmileCounord http://www.openstreetmap.org/?lat=44.858645&lon=-0.574937
+GraParc +GrandParc http://www.openstreetmap.org/?lat=44.862310&lon=-0.575302
+PlaRavBou +PlaceRaveziesBouscat http://www.openstreetmap.org/?lat=44.867135&lon=-0.575849
+Cra +Cracovie http://www.openstreetmap.org/?lat=44.870952&lon=-0.576246
++DIV_Exp http://www.openstreetmap.org/?lat=44.871439&lon=-0.576289
+Vac +Vache http://www.openstreetmap.org/?lat=44.872230&lon=-0.590773
+Aus +Ausone http://www.openstreetmap.org/?lat=44.879259&lon=-0.603111
++DIV_TER http://www.openstreetmap.org/?lat=44.881444&lon=-0.605364
+GareBru +GareBruges http://www.openstreetmap.org/?lat=44.886963&lon=-0.609473
+Fra +Frankton http://www.openstreetmap.org/?lat=44.907194&lon=-0.619011
+GareBla +GareBlanquefort http://www.openstreetmap.org/?lat=44.917095&lon=-0.623646

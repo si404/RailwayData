@@ -196,8 +196,12 @@ eurat;EUR;Europe Aerial Tramways;TMyellow;5;preview
 eurf;EUR;Europe Funiculars;TMyellow;5;preview
 eurhr;EUR;Europe Heritage & Tourist Railways;TMbrown;5;preview
 fracp;FRA;Chemins de fer de Provence;TMgreen;2;preview
-frahdfter;FRA;TER Hauts-de-France;TMgreen;2;preview
-franaqter;FRA;TER en Nouvelle-Aquitaine;TMgreen;2;preview
+frahdfterk;FRA;TER Hauts-de-France (Krono);TMgreen;2;preview
+frahdfterc;FRA;TER Hauts-de-France (Citi);TMgreen;2;preview
+frahdfterp;FRA;TER Hauts-de-France (Proxi);TMgreen;2;preview
+franaqterd;FRA;TER en Nouvelle-Aquitaine (Direct'R);TMgreen;2;preview
+franaqterf;FRA;TER en Nouvelle-Aquitaine (Facilit'R);TMgreen;2;preview
+franaqterl;FRA;TER en Nouvelle-Aquitaine (Liné'R);TMgreen;2;preview
 frarer;FRA;Réseau Express Régional;TMgreen;2;preview
 fratra;FRA;Transillien;TMgreen;2;preview
 frattu;FRA;Toulouse Train urbain;TMgreen;2;preview
