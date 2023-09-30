@@ -1,11 +1,11 @@
-MostNadrazi http://www.openstreetmap.org/?lat=50.511216&lon=13.658838
-Tesco http://www.openstreetmap.org/?lat=50.511932&lon=13.652551
-+X983785 http://www.openstreetmap.org/?lat=50.514849&lon=13.646243
-ZimniStadion http://www.openstreetmap.org/?lat=50.513515&lon=13.645663
-SportovniHala http://www.openstreetmap.org/?lat=50.510568&lon=13.643110
-ObchodniPrior http://www.openstreetmap.org/?lat=50.505723&lon=13.640556
-1Namesti http://www.openstreetmap.org/?lat=50.501056&lon=13.638968
-CsMladeze http://www.openstreetmap.org/?lat=50.495542&lon=13.635600
-DopravniPodnik http://www.openstreetmap.org/?lat=50.492252&lon=13.635492
-Severografia http://www.openstreetmap.org/?lat=50.487842&lon=13.640621
-Velebudicka http://www.openstreetmap.org/?lat=50.486487&lon=13.650759
+MostNad +MostNadrazi http://www.openstreetmap.org/?lat=50.511216&lon=13.658838
+Tes +Tesco http://www.openstreetmap.org/?lat=50.511932&lon=13.652551
++DIV_134 http://www.openstreetmap.org/?lat=50.514849&lon=13.646243
+ZimSta +ZimniStadion http://www.openstreetmap.org/?lat=50.513515&lon=13.645663
+SpoHala +SportovniHala http://www.openstreetmap.org/?lat=50.510568&lon=13.643110
+ObcPri +ObchodniPrior http://www.openstreetmap.org/?lat=50.505723&lon=13.640556
+1Nam +1Namesti http://www.openstreetmap.org/?lat=50.501056&lon=13.638968
+CsMla +CsMladeze http://www.openstreetmap.org/?lat=50.495542&lon=13.635600
+DopPod +DopravniPodnik http://www.openstreetmap.org/?lat=50.492252&lon=13.635492
+Sev +Severografia http://www.openstreetmap.org/?lat=50.487842&lon=13.640621
+Vel +Velebudicka http://www.openstreetmap.org/?lat=50.486487&lon=13.650759
