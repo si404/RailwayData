@@ -1,31 +1,31 @@
-LimogesBenedictins http://www.openstreetmap.org/?lat=45.836131&lon=1.267462
-+X748702 http://www.openstreetmap.org/?lat=45.823312&lon=1.257935
+LimBen LimogesBenedictins http://www.openstreetmap.org/?lat=45.836131&lon=1.267462
++DIV_31 http://www.openstreetmap.org/?lat=45.823312&lon=1.257935
 +X102968 http://www.openstreetmap.org/?lat=45.812963&lon=1.263556
 +X806033 http://www.openstreetmap.org/?lat=45.798125&lon=1.245103
 +X421827 http://www.openstreetmap.org/?lat=45.785617&lon=1.265445
 +X243783 http://www.openstreetmap.org/?lat=45.763047&lon=1.267505
-+SolignacVigen http://www.openstreetmap.org/?lat=45.756161&lon=1.285679
++SKIP_SolVig http://www.openstreetmap.org/?lat=45.756161&lon=1.285679
 +X536541 http://www.openstreetmap.org/?lat=45.750292&lon=1.307030
 +X894207 http://www.openstreetmap.org/?lat=45.710570&lon=1.330805
-PierreBuffiere http://www.openstreetmap.org/?lat=45.699507&lon=1.347231
+PieBuf PierreBuffiere http://www.openstreetmap.org/?lat=45.699507&lon=1.347231
 +X759884 http://www.openstreetmap.org/?lat=45.681584&lon=1.397967
 +X778106 http://www.openstreetmap.org/?lat=45.654781&lon=1.434402
-+MagnacVicq http://www.openstreetmap.org/?lat=45.628932&lon=1.443908
-+StGermainBelles http://www.openstreetmap.org/?lat=45.609797&lon=1.479828
-+Porcherie http://www.openstreetmap.org/?lat=45.574444&lon=1.538043
++SKIP_MagVicq http://www.openstreetmap.org/?lat=45.628932&lon=1.443908
++SKIP_StGerBel http://www.openstreetmap.org/?lat=45.609797&lon=1.479828
++SKIP_Por http://www.openstreetmap.org/?lat=45.574444&lon=1.538043
 +X876801 http://www.openstreetmap.org/?lat=45.565882&lon=1.547484
-+Masseret http://www.openstreetmap.org/?lat=45.536212&lon=1.541498
++SKIP_Mas http://www.openstreetmap.org/?lat=45.536212&lon=1.541498
 +X816798 http://www.openstreetmap.org/?lat=45.503963&lon=1.554179
 +X764201 http://www.openstreetmap.org/?lat=45.494217&lon=1.570637
-Uzerche http://www.openstreetmap.org/?lat=45.440614&lon=1.570423
+Uze Uzerche http://www.openstreetmap.org/?lat=45.440614&lon=1.570423
 +X617038 http://www.openstreetmap.org/?lat=45.417085&lon=1.530361
-+Vigeois http://www.openstreetmap.org/?lat=45.382793&lon=1.515212
++SKIP_Vig http://www.openstreetmap.org/?lat=45.382793&lon=1.515212
 +X364114 http://www.openstreetmap.org/?lat=45.335299&lon=1.489849
 +X873985 http://www.openstreetmap.org/?lat=45.312367&lon=1.466289
 +X624685 http://www.openstreetmap.org/?lat=45.282209&lon=1.465130
-Allassac http://www.openstreetmap.org/?lat=45.258927&lon=1.473155
+All Allassac http://www.openstreetmap.org/?lat=45.258927&lon=1.473155
 +X577305 http://www.openstreetmap.org/?lat=45.232024&lon=1.502874
 +X427858 http://www.openstreetmap.org/?lat=45.158422&lon=1.483927
-+X902301 http://www.openstreetmap.org/?lat=45.153338&lon=1.491351
-+X313920 http://www.openstreetmap.org/?lat=45.150652&lon=1.511993
-BriveGaillarde http://www.openstreetmap.org/?lat=45.152355&lon=1.528044
++DIV_23 http://www.openstreetmap.org/?lat=45.153338&lon=1.491351
++DIV_32 http://www.openstreetmap.org/?lat=45.150652&lon=1.511993
+BriGai BriveGaillarde http://www.openstreetmap.org/?lat=45.152355&lon=1.528044

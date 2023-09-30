@@ -1,60 +1,60 @@
-RochelleVille http://www.openstreetmap.org/?lat=46.152538&lon=-1.145325
-+X454726 http://www.openstreetmap.org/?lat=46.137672&lon=-1.145539
-+AytrePlage http://www.openstreetmap.org/?lat=46.127397&lon=-1.128116
-+AngoulinsMer http://www.openstreetmap.org/?lat=46.108090&lon=-1.115713
-Chatelaillon http://www.openstreetmap.org/?lat=46.078333&lon=-1.090897
+LaRocVil RochelleVille http://www.openstreetmap.org/?lat=46.152538&lon=-1.145325
++DIV_14 http://www.openstreetmap.org/?lat=46.137672&lon=-1.145539
++SKIP_AytPla http://www.openstreetmap.org/?lat=46.127397&lon=-1.128116
++SKIP_AngMer http://www.openstreetmap.org/?lat=46.108090&lon=-1.115713
+Cha Chatelaillon http://www.openstreetmap.org/?lat=46.078333&lon=-1.090897
 +X932478 http://www.openstreetmap.org/?lat=46.040576&lon=-1.046190
 +X531575 http://www.openstreetmap.org/?lat=46.000353&lon=-1.039002
-+StLaurentPreeFouras http://www.openstreetmap.org/?lat=45.992568&lon=-1.026878
++SKIP_StLauPreeFou http://www.openstreetmap.org/?lat=45.992568&lon=-1.026878
 +X814083 http://www.openstreetmap.org/?lat=45.975656&lon=-0.989370
-Rochefort http://www.openstreetmap.org/?lat=45.947524&lon=-0.963793
+Roc Rochefort http://www.openstreetmap.org/?lat=45.947524&lon=-0.963793
 +X825347 http://www.openstreetmap.org/?lat=45.958146&lon=-0.950446
 +X103294 http://www.openstreetmap.org/?lat=45.946241&lon=-0.928602
-+TonnayCharente http://www.openstreetmap.org/?lat=45.943376&lon=-0.897875
++SKIP_TonCha http://www.openstreetmap.org/?lat=45.943376&lon=-0.897875
 +X844948 http://www.openstreetmap.org/?lat=45.943227&lon=-0.885301
 +X805945 http://www.openstreetmap.org/?lat=45.918542&lon=-0.854058
 +X652099 http://www.openstreetmap.org/?lat=45.918811&lon=-0.826893
-+Bords http://www.openstreetmap.org/?lat=45.894436&lon=-0.798547
++SKIP_Bor http://www.openstreetmap.org/?lat=45.894436&lon=-0.798547
 +X531852 http://www.openstreetmap.org/?lat=45.885617&lon=-0.762434
 +X915965 http://www.openstreetmap.org/?lat=45.885505&lon=-0.691431
-+StSavinienCharente http://www.openstreetmap.org/?lat=45.875915&lon=-0.677676
++SKIP_StSavCha http://www.openstreetmap.org/?lat=45.875915&lon=-0.677676
 +X871704 http://www.openstreetmap.org/?lat=45.855736&lon=-0.686216
-+Taillebourg http://www.openstreetmap.org/?lat=45.830676&lon=-0.644910
++SKIP_Tai http://www.openstreetmap.org/?lat=45.830676&lon=-0.644910
 +X217092 http://www.openstreetmap.org/?lat=45.790973&lon=-0.637765
-+X489843 http://www.openstreetmap.org/?lat=45.759163&lon=-0.617251
-Saintes http://www.openstreetmap.org/?lat=45.748862&lon=-0.617359
-+X357969 http://www.openstreetmap.org/?lat=45.745343&lon=-0.618238
++DIV_17 http://www.openstreetmap.org/?lat=45.759163&lon=-0.617251
+Sai Saintes http://www.openstreetmap.org/?lat=45.748862&lon=-0.617359
++DIV_1617 http://www.openstreetmap.org/?lat=45.745343&lon=-0.618238
 +X487681 http://www.openstreetmap.org/?lat=45.732164&lon=-0.605278
 +X539356 http://www.openstreetmap.org/?lat=45.710277&lon=-0.532837
-+X274770 http://www.openstreetmap.org/?lat=45.701957&lon=-0.527118
++DIV_16 http://www.openstreetmap.org/?lat=45.701957&lon=-0.527118
 +X430666 http://www.openstreetmap.org/?lat=45.697508&lon=-0.527145
 +X759382 http://www.openstreetmap.org/?lat=45.674631&lon=-0.541871
 +X831278 http://www.openstreetmap.org/?lat=45.621497&lon=-0.526099
 Pons http://www.openstreetmap.org/?lat=45.578033&lon=-0.538845
 +X781566 http://www.openstreetmap.org/?lat=45.553044&lon=-0.545347
 +X687333 http://www.openstreetmap.org/?lat=45.507986&lon=-0.527472
-+ClionSeugne http://www.openstreetmap.org/?lat=45.478346&lon=-0.502002
++SKIP_CliSeu http://www.openstreetmap.org/?lat=45.478346&lon=-0.502002
 +X776743 http://www.openstreetmap.org/?lat=45.460503&lon=-0.486091
-Jonzac http://www.openstreetmap.org/?lat=45.438593&lon=-0.441588
+Jon Jonzac http://www.openstreetmap.org/?lat=45.438593&lon=-0.441588
 +X308453 http://www.openstreetmap.org/?lat=45.423320&lon=-0.405893
-+FontainesOzillac http://www.openstreetmap.org/?lat=45.387797&lon=-0.384049
++SKIP_FonOzi http://www.openstreetmap.org/?lat=45.387797&lon=-0.384049
 +X619742 http://www.openstreetmap.org/?lat=45.355018&lon=-0.407546
 +X895883 http://www.openstreetmap.org/?lat=45.295615&lon=-0.390015
-Montendre http://www.openstreetmap.org/?lat=45.280594&lon=-0.396023
+Mon Montendre http://www.openstreetmap.org/?lat=45.280594&lon=-0.396023
 +X630918 http://www.openstreetmap.org/?lat=45.235515&lon=-0.370703
-+BussacForet http://www.openstreetmap.org/?lat=45.211870&lon=-0.368042
++SKIP_BusFor http://www.openstreetmap.org/?lat=45.211870&lon=-0.368042
 +X712627 http://www.openstreetmap.org/?lat=45.170813&lon=-0.367956
-StMariensStYzan http://www.openstreetmap.org/?lat=45.139082&lon=-0.391409
-+Cavignac http://www.openstreetmap.org/?lat=45.105258&lon=-0.382097
+StMarStYzan StMariensStYzan http://www.openstreetmap.org/?lat=45.139082&lon=-0.391409
++SKIP_Cav http://www.openstreetmap.org/?lat=45.105258&lon=-0.382097
 +X298855 http://www.openstreetmap.org/?lat=45.082930&lon=-0.378878
-+GueynardGauriaguet http://www.openstreetmap.org/?lat=45.054288&lon=-0.399306
-+AubieStAntoine http://www.openstreetmap.org/?lat=45.015272&lon=-0.419755
-StAndreCubzac http://www.openstreetmap.org/?lat=44.990981&lon=-0.440376
-+CubzacPonts http://www.openstreetmap.org/?lat=44.972889&lon=-0.458958
++SKIP_GueGau http://www.openstreetmap.org/?lat=45.054288&lon=-0.399306
++SKIP_AubStAnt http://www.openstreetmap.org/?lat=45.015272&lon=-0.419755
+StAndCub StAndreCubzac http://www.openstreetmap.org/?lat=44.990981&lon=-0.440376
++SKIP_CubPon http://www.openstreetmap.org/?lat=44.972889&lon=-0.458958
 +X369733 http://www.openstreetmap.org/?lat=44.962414&lon=-0.477283
-+GraveAmbares http://www.openstreetmap.org/?lat=44.935595&lon=-0.477026
-+X426061 http://www.openstreetmap.org/?lat=44.929519&lon=-0.477154
-+StEulalieCarbonBlanc http://www.openstreetmap.org/?lat=44.897760&lon=-0.493891
-+X778206 http://www.openstreetmap.org/?lat=44.860090&lon=-0.533599
-Cenon http://www.openstreetmap.org/?lat=44.856397&lon=-0.533513
-BordeauxSaintJean http://www.openstreetmap.org/?lat=44.825705&lon=-0.555604
++SKIP_GraAmb http://www.openstreetmap.org/?lat=44.935595&lon=-0.477026
++DIV_Lib http://www.openstreetmap.org/?lat=44.929519&lon=-0.477154
++SKIP_StEulCarBla http://www.openstreetmap.org/?lat=44.897760&lon=-0.493891
++DIV_13 http://www.openstreetmap.org/?lat=44.860090&lon=-0.533599
+Cen Cenon http://www.openstreetmap.org/?lat=44.856397&lon=-0.533513
+BorStJean BordeauxSaintJean http://www.openstreetmap.org/?lat=44.825705&lon=-0.555604
