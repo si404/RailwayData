@@ -1,31 +1,31 @@
-HlavniNadrazi http://www.openstreetmap.org/?lat=49.850955&lon=18.267539
-NamestiSvatoplukaCecha http://www.openstreetmap.org/?lat=49.850004&lon=18.273225
-+X924254 http://www.openstreetmap.org/?lat=49.849817&lon=18.277237
-Muglinovska http://www.openstreetmap.org/?lat=49.849250&lon=18.277817
-Krizikova http://www.openstreetmap.org/?lat=49.845811&lon=18.280370
-+X692533 http://www.openstreetmap.org/?lat=49.845043&lon=18.280467
-DulJindrich http://www.openstreetmap.org/?lat=49.840358&lon=18.283557
-Stodolni http://www.openstreetmap.org/?lat=49.836687&lon=18.285890
-Elektra http://www.openstreetmap.org/?lat=49.834531&lon=18.287854
-+X322500 http://www.openstreetmap.org/?lat=49.833092&lon=18.288680
-Karolina http://www.openstreetmap.org/?lat=49.832777&lon=18.287274
-NamestiRepubliky http://www.openstreetmap.org/?lat=49.831632&lon=18.280231
-+X936124 http://www.openstreetmap.org/?lat=49.831287&lon=18.278729
-DonBosco http://www.openstreetmap.org/?lat=49.827237&lon=18.278648
-DolniVitkoviceHlubina http://www.openstreetmap.org/?lat=49.823103&lon=18.277570
-DolniVitkovice http://www.openstreetmap.org/?lat=49.818178&lon=18.275521
-+X112063 http://www.openstreetmap.org/?lat=49.817597&lon=18.275650
-CeskyDum http://www.openstreetmap.org/?lat=49.812785&lon=18.274738
-DulJeremenko http://www.openstreetmap.org/?lat=49.806755&lon=18.275038
-KolonieJeremenko http://www.openstreetmap.org/?lat=49.800613&lon=18.271905
-+X956168 http://www.openstreetmap.org/?lat=49.799408&lon=18.271101
-Moravska http://www.openstreetmap.org/?lat=49.795232&lon=18.271122
-Drevoprodej http://www.openstreetmap.org/?lat=49.791727&lon=18.271455
-+X931176 http://www.openstreetmap.org/?lat=49.789358&lon=18.271304
-HrabuvkaKostel http://www.openstreetmap.org/?lat=49.786442&lon=18.267066
-HrabuvkaPoliklinika http://www.openstreetmap.org/?lat=49.784932&lon=18.260146
-+X850981 http://www.openstreetmap.org/?lat=49.784226&lon=18.256531
-JosefaKotase http://www.openstreetmap.org/?lat=49.783519&lon=18.255887
-AntoninaPolednika http://www.openstreetmap.org/?lat=49.779120&lon=18.251907
-VaclavaJirikovskeho http://www.openstreetmap.org/?lat=49.774925&lon=18.248119
-Dubina http://www.openstreetmap.org/?lat=49.770643&lon=18.245695
+HlaNad +HlavniNadrazi http://www.openstreetmap.org/?lat=49.850955&lon=18.267539
+NamSvaCec +NamestiSvatoplukaCecha http://www.openstreetmap.org/?lat=49.850004&lon=18.273225
++DIV_1114 http://www.openstreetmap.org/?lat=49.849817&lon=18.277237
+Mug +Muglinovska http://www.openstreetmap.org/?lat=49.849250&lon=18.277817
+Kri +Krizikova http://www.openstreetmap.org/?lat=49.845811&lon=18.280370
++DIV_69 http://www.openstreetmap.org/?lat=49.845043&lon=18.280467
+DulJin +DulJindrich http://www.openstreetmap.org/?lat=49.840358&lon=18.283557
+Sto +Stodolni http://www.openstreetmap.org/?lat=49.836687&lon=18.285890
+Ele +Elektra http://www.openstreetmap.org/?lat=49.834531&lon=18.287854
++DIV_4101214 http://www.openstreetmap.org/?lat=49.833092&lon=18.288680
+Kar +Karolina http://www.openstreetmap.org/?lat=49.832777&lon=18.287274
+NamRep +NamestiRepubliky http://www.openstreetmap.org/?lat=49.831632&lon=18.280231
++DIV_48911 http://www.openstreetmap.org/?lat=49.831287&lon=18.278729
+DonBos +DonBosco http://www.openstreetmap.org/?lat=49.827237&lon=18.278648
+DolVitHlu +DolniVitkoviceHlubina http://www.openstreetmap.org/?lat=49.823103&lon=18.277570
+DolVit +DolniVitkovice http://www.openstreetmap.org/?lat=49.818178&lon=18.275521
++DIV_2 http://www.openstreetmap.org/?lat=49.817597&lon=18.275650
+CesDum +CeskyDum http://www.openstreetmap.org/?lat=49.812785&lon=18.274738
+DulJer +DulJeremenko http://www.openstreetmap.org/?lat=49.806755&lon=18.275038
+KolJer +KolonieJeremenko http://www.openstreetmap.org/?lat=49.800613&lon=18.271905
++DIV_6 http://www.openstreetmap.org/?lat=49.799408&lon=18.271101
+Mor +Moravska http://www.openstreetmap.org/?lat=49.795232&lon=18.271122
+Dre +Drevoprodej http://www.openstreetmap.org/?lat=49.791727&lon=18.271455
++DIV_319 http://www.openstreetmap.org/?lat=49.789358&lon=18.271304
+HraKos +HrabuvkaKostel http://www.openstreetmap.org/?lat=49.786442&lon=18.267066
+HraPol +HrabuvkaPoliklinika http://www.openstreetmap.org/?lat=49.784932&lon=18.260146
++DIV_12151718 http://www.openstreetmap.org/?lat=49.784226&lon=18.256531
+JosKot +JosefaKotase http://www.openstreetmap.org/?lat=49.783519&lon=18.255887
+AntPol +AntoninaPolednika http://www.openstreetmap.org/?lat=49.779120&lon=18.251907
+VacJir +VaclavaJirikovskeho http://www.openstreetmap.org/?lat=49.774925&lon=18.248119
+Dub +Dubina http://www.openstreetmap.org/?lat=49.770643&lon=18.245695

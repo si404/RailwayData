@@ -1,27 +1,27 @@
-OstravaStred http://www.openstreetmap.org/?lat=49.829118&lon=18.282902
+OstStr +OstravaStred http://www.openstreetmap.org/?lat=49.829118&lon=18.282902
 +X413998 http://www.openstreetmap.org/?lat=49.830311&lon=18.283128
-OstravaSrodolni http://www.openstreetmap.org/?lat=49.834851&lon=18.280563
-OstravaHlavniNadrazi http://www.openstreetmap.org/?lat=49.850955&lon=18.267539
-+OstravaMarianskeHory http://www.openstreetmap.org/?lat=49.837166&lon=18.239837
+OstSro +OstravaSrodolni http://www.openstreetmap.org/?lat=49.834851&lon=18.280563
+OstHlaNad +OstravaHlavniNadrazi http://www.openstreetmap.org/?lat=49.850955&lon=18.267539
++SKIP_OstMarHory http://www.openstreetmap.org/?lat=49.837166&lon=18.239837
 +X789555 http://www.openstreetmap.org/?lat=49.824487&lon=18.211684
-OstravaSvinov http://www.openstreetmap.org/?lat=49.820950&lon=18.210139
-+X810039 http://www.openstreetmap.org/?lat=49.807232&lon=18.203455
+OstSvi +OstravaSvinov http://www.openstreetmap.org/?lat=49.820950&lon=18.210139
++DIV_S5 http://www.openstreetmap.org/?lat=49.807232&lon=18.203455
 +X757365 http://www.openstreetmap.org/?lat=49.793119&lon=18.196825
-PolankaNadOdrou http://www.openstreetmap.org/?lat=49.778999&lon=18.189969
-Jistebnik http://www.openstreetmap.org/?lat=49.748873&lon=18.150659
+PolNadOdr +PolankaNadOdrou http://www.openstreetmap.org/?lat=49.778999&lon=18.189969
+Jis +Jistebnik http://www.openstreetmap.org/?lat=49.748873&lon=18.150659
 +X332278 http://www.openstreetmap.org/?lat=49.732815&lon=18.106456
-Studenka http://www.openstreetmap.org/?lat=49.707567&lon=18.066545
-+X320149 http://www.openstreetmap.org/?lat=49.703626&lon=18.046975
+Stu +Studenka http://www.openstreetmap.org/?lat=49.707567&lon=18.066545
++DIV_S3 http://www.openstreetmap.org/?lat=49.703626&lon=18.046975
 +X962470 http://www.openstreetmap.org/?lat=49.687025&lon=18.067274
-Sedlnice http://www.openstreetmap.org/?lat=49.676168&lon=18.089590
-+X916792 http://www.openstreetmap.org/?lat=49.676106&lon=18.092809
+Sed +Sedlnice http://www.openstreetmap.org/?lat=49.676168&lon=18.089590
++DIV_S4 http://www.openstreetmap.org/?lat=49.676106&lon=18.092809
 +X185500 http://www.openstreetmap.org/?lat=49.674453&lon=18.099782
-Skotnice http://www.openstreetmap.org/?lat=49.656166&lon=18.128954
+Sko +Skotnice http://www.openstreetmap.org/?lat=49.656166&lon=18.128954
 +X652515 http://www.openstreetmap.org/?lat=49.645242&lon=18.146603
-Pribor http://www.openstreetmap.org/?lat=49.635905&lon=18.142247
-KoprivniceZastavka http://www.openstreetmap.org/?lat=49.603855&lon=18.149543
-Koprivnice http://www.openstreetmap.org/?lat=49.595316&lon=18.147354
-Stramberk http://www.openstreetmap.org/?lat=49.582852&lon=18.132291
-Zenklava http://www.openstreetmap.org/?lat=49.564624&lon=18.130746
+Pri +Pribor http://www.openstreetmap.org/?lat=49.635905&lon=18.142247
+KopZas +KoprivniceZastavka http://www.openstreetmap.org/?lat=49.603855&lon=18.149543
+Kop +Koprivnice http://www.openstreetmap.org/?lat=49.595316&lon=18.147354
+Str +Stramberk http://www.openstreetmap.org/?lat=49.582852&lon=18.132291
+Zen +Zenklava http://www.openstreetmap.org/?lat=49.564624&lon=18.130746
 +X816223 http://www.openstreetmap.org/?lat=49.546946&lon=18.120189
-Verovice http://www.openstreetmap.org/?lat=49.537025&lon=18.132945
+Ver +Verovice http://www.openstreetmap.org/?lat=49.537025&lon=18.132945

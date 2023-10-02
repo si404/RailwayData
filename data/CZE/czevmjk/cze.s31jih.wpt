@@ -1,18 +1,18 @@
-RovneDivisov http://www.openstreetmap.org/?lat=49.547614&lon=16.172948
-Rozsochy http://www.openstreetmap.org/?lat=49.537366&lon=16.194835
-BystriceNadPernstejnem http://www.openstreetmap.org/?lat=49.513270&lon=16.248307
+RovDiv +RovneDivisov http://www.openstreetmap.org/?lat=49.547614&lon=16.172948
+Rozs +Rozsochy http://www.openstreetmap.org/?lat=49.537366&lon=16.194835
+BysNadPer +BystriceNadPernstejnem http://www.openstreetmap.org/?lat=49.513270&lon=16.248307
 +X969434 http://www.openstreetmap.org/?lat=49.510957&lon=16.250067
 +X291676 http://www.openstreetmap.org/?lat=49.513758&lon=16.233716
 +X128472 http://www.openstreetmap.org/?lat=49.481495&lon=16.232901
-Rozna http://www.openstreetmap.org/?lat=49.472823&lon=16.245303
-Vezna http://www.openstreetmap.org/?lat=49.451848&lon=16.270194
+Rozn +Rozna http://www.openstreetmap.org/?lat=49.472823&lon=16.245303
+Vez +Vezna http://www.openstreetmap.org/?lat=49.451848&lon=16.270194
 +X590472 http://www.openstreetmap.org/?lat=49.444817&lon=16.285000
-Nedvedice http://www.openstreetmap.org/?lat=49.454387&lon=16.335897
+Ned +Nedvedice http://www.openstreetmap.org/?lat=49.454387&lon=16.335897
 +X784201 http://www.openstreetmap.org/?lat=49.446463&lon=16.348772
-Doubravnik http://www.openstreetmap.org/?lat=49.428296&lon=16.351690
+Dou +Doubravnik http://www.openstreetmap.org/?lat=49.428296&lon=16.351690
 +X326714 http://www.openstreetmap.org/?lat=49.428128&lon=16.363320
-PrudkaZastavka http://www.openstreetmap.org/?lat=49.418909&lon=16.367134
-Borac http://www.openstreetmap.org/?lat=49.401137&lon=16.366045
-Stepanovice http://www.openstreetmap.org/?lat=49.373159&lon=16.389863
-+X485632 http://www.openstreetmap.org/?lat=49.352735&lon=16.411643
-Tisnov http://www.openstreetmap.org/?lat=49.347018&lon=16.418209
+PruZas +PrudkaZastavka http://www.openstreetmap.org/?lat=49.418909&lon=16.367134
+Bor +Borac http://www.openstreetmap.org/?lat=49.401137&lon=16.366045
+Ste +Stepanovice http://www.openstreetmap.org/?lat=49.373159&lon=16.389863
++DIV_S3 http://www.openstreetmap.org/?lat=49.352735&lon=16.411643
+Tis +Tisnov http://www.openstreetmap.org/?lat=49.347018&lon=16.418209

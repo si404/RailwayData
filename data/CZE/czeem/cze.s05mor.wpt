@@ -1,25 +1,25 @@
-OstravaHlavniNadrazi http://www.openstreetmap.org/?lat=49.850955&lon=18.267539
-+OstravaMarianskeHory http://www.openstreetmap.org/?lat=49.837166&lon=18.239837
-+X789555 http://www.openstreetmap.org/?lat=49.824487&lon=18.211684
-OstravaSvinov http://www.openstreetmap.org/?lat=49.820950&lon=18.210139
-+X810039 http://www.openstreetmap.org/?lat=49.807232&lon=18.203455
+OstHlaNad +OstravaHlavniNadrazi http://www.openstreetmap.org/?lat=49.850955&lon=18.267539
++SKIP_OstMarHory http://www.openstreetmap.org/?lat=49.837166&lon=18.239837
++DIV_S1 http://www.openstreetmap.org/?lat=49.824487&lon=18.211684
+OstSvi +OstravaSvinov http://www.openstreetmap.org/?lat=49.820950&lon=18.210139
++DIV_S3 http://www.openstreetmap.org/?lat=49.807232&lon=18.203455
 +X904804 http://www.openstreetmap.org/?lat=49.801309&lon=18.199840
 +X828499 http://www.openstreetmap.org/?lat=49.795990&lon=18.206019
-OstravaVitkovice http://www.openstreetmap.org/?lat=49.801530&lon=18.262367
+OstVit +OstravaVitkovice http://www.openstreetmap.org/?lat=49.801530&lon=18.262367
 +X332055 http://www.openstreetmap.org/?lat=49.799425&lon=18.294489
-+X966217 http://www.openstreetmap.org/?lat=49.795845&lon=18.292279
-OstravaKuncice http://www.openstreetmap.org/?lat=49.790581&lon=18.291528
-+X878293 http://www.openstreetmap.org/?lat=49.782643&lon=18.295176
-Vratimov http://www.openstreetmap.org/?lat=49.770747&lon=18.302794
-Paskov http://www.openstreetmap.org/?lat=49.736338&lon=18.303308
-LiskovecFrydku http://www.openstreetmap.org/?lat=49.698241&lon=18.328414
-+X235299 http://www.openstreetmap.org/?lat=49.678917&lon=18.352618
-FrydekMistek http://www.openstreetmap.org/?lat=49.677640&lon=18.353777
-Baska http://www.openstreetmap.org/?lat=49.651112&lon=18.369184
-Przno http://www.openstreetmap.org/?lat=49.617008&lon=18.361974
-FrydlantNadOstravici http://www.openstreetmap.org/?lat=49.588949&lon=18.354582
-+X308671 http://www.openstreetmap.org/?lat=49.586803&lon=18.357682
-FrydlantOstraviciZastavka http://www.openstreetmap.org/?lat=49.585106&lon=18.360558
-FrydlantOstraviciNovaDedina http://www.openstreetmap.org/?lat=49.569912&lon=18.360686
-OstraviceZastavka http://www.openstreetmap.org/?lat=49.550371&lon=18.380556
-Ostravice http://www.openstreetmap.org/?lat=49.537708&lon=18.393667
++DIV_S6N http://www.openstreetmap.org/?lat=49.795845&lon=18.292279
+OstKun +OstravaKuncice http://www.openstreetmap.org/?lat=49.790581&lon=18.291528
++DIV_S9 http://www.openstreetmap.org/?lat=49.782643&lon=18.295176
+Vra +Vratimov http://www.openstreetmap.org/?lat=49.770747&lon=18.302794
+Pas +Paskov http://www.openstreetmap.org/?lat=49.736338&lon=18.303308
+LisFry +LiskovecFrydku http://www.openstreetmap.org/?lat=49.698241&lon=18.328414
++DIV_S7 http://www.openstreetmap.org/?lat=49.678917&lon=18.352618
+FryMis +FrydekMistek http://www.openstreetmap.org/?lat=49.677640&lon=18.353777
+Bas +Baska http://www.openstreetmap.org/?lat=49.651112&lon=18.369184
+Prz +Przno http://www.openstreetmap.org/?lat=49.617008&lon=18.361974
+FryNadOst +FrydlantNadOstravici http://www.openstreetmap.org/?lat=49.588949&lon=18.354582
++DIV_S6S http://www.openstreetmap.org/?lat=49.586803&lon=18.357682
+FryNadOstZas +FrydlantOstraviciZastavka http://www.openstreetmap.org/?lat=49.585106&lon=18.360558
+FryNadOstNovaDed +FrydlantOstraviciNovaDedina http://www.openstreetmap.org/?lat=49.569912&lon=18.360686
+OstZas +OstraviceZastavka http://www.openstreetmap.org/?lat=49.550371&lon=18.380556
+Ost +Ostravice http://www.openstreetmap.org/?lat=49.537708&lon=18.393667

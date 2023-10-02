@@ -1,6 +1,6 @@
-KominSmycka http://www.openstreetmap.org/?lat=49.216192&lon=16.556182
-+X787917 http://www.openstreetmap.org/?lat=49.214384&lon=16.557630
-VozovnaKomin http://www.openstreetmap.org/?lat=49.213199&lon=16.559690
-+X235634 http://www.openstreetmap.org/?lat=49.212709&lon=16.562523
-Stranskeho http://www.openstreetmap.org/?lat=49.211931&lon=16.568595
-Brafova http://www.openstreetmap.org/?lat=49.206709&lon=16.570355
+KomSmy +KominSmycka http://www.openstreetmap.org/?lat=49.216192&lon=16.556182
++DIV_310W http://www.openstreetmap.org/?lat=49.214384&lon=16.557630
+VozKom +VozovnaKomin http://www.openstreetmap.org/?lat=49.213199&lon=16.559690
++DIV_310E http://www.openstreetmap.org/?lat=49.212709&lon=16.562523
+Str +Stranskeho http://www.openstreetmap.org/?lat=49.211931&lon=16.568595
+Bra +Brafova http://www.openstreetmap.org/?lat=49.206709&lon=16.570355
