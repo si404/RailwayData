@@ -1,7 +1,7 @@
 BorStJean http://www.openstreetmap.org/?lat=44.825705&lon=-0.555604
 +DIV_44 http://www.openstreetmap.org/?lat=44.817357&lon=-0.560560
 +DIV_42 http://www.openstreetmap.org/?lat=44.810537&lon=-0.618324
-Pes +Pessac http://www.openstreetmap.org/?lat=44.804178&lon=-0.632401
+Pes http://www.openstreetmap.org/?lat=44.804178&lon=-0.632401
 +SKIP_PesAlo http://www.openstreetmap.org/?lat=44.794106&lon=-0.658139
 +SKIP_GazCes http://www.openstreetmap.org/?lat=44.772011&lon=-0.699348
 +SKIP_Mar http://www.openstreetmap.org/?lat=44.690395&lon=-0.853672

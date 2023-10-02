@@ -1,5 +1,5 @@
-BorStJean +BordeauxSaintJean http://www.openstreetmap.org/?lat=44.825705&lon=-0.555604
-Cen +Cenon http://www.openstreetmap.org/?lat=44.856397&lon=-0.533513
+BorStJean http://www.openstreetmap.org/?lat=44.825705&lon=-0.555604
+Cen http://www.openstreetmap.org/?lat=44.856397&lon=-0.533513
 +DIV_15 http://www.openstreetmap.org/?lat=44.860090&lon=-0.533599
 +X509721 http://www.openstreetmap.org/?lat=44.871268&lon=-0.537118
 +SKIP_Bas http://www.openstreetmap.org/?lat=44.901324&lon=-0.522419
@@ -12,7 +12,7 @@ Cen +Cenon http://www.openstreetmap.org/?lat=44.856397&lon=-0.533513
 +SKIP_Vay http://www.openstreetmap.org/?lat=44.897091&lon=-0.316780
 +X612233 http://www.openstreetmap.org/?lat=44.886921&lon=-0.301480
 +X807352 http://www.openstreetmap.org/?lat=44.888639&lon=-0.278928
-Lib +Libourne http://www.openstreetmap.org/?lat=44.915784&lon=-0.235970
+Lib http://www.openstreetmap.org/?lat=44.915784&lon=-0.235970
 +DIV_33 http://www.openstreetmap.org/?lat=44.920981&lon=-0.234554
 +X607511 http://www.openstreetmap.org/?lat=44.943987&lon=-0.230337
 +SKIP_StDenPile http://www.openstreetmap.org/?lat=44.978071&lon=-0.198406
@@ -33,14 +33,14 @@ Lib +Libourne http://www.openstreetmap.org/?lat=44.915784&lon=-0.235970
 +SKIP_Cave http://www.openstreetmap.org/?lat=45.183927&lon=0.628324
 +SKIP_MarIsle http://www.openstreetmap.org/?lat=45.186253&lon=0.663482
 +DIV_31 http://www.openstreetmap.org/?lat=45.194475&lon=0.701709
-Per Perigueux http://www.openstreetmap.org/?lat=45.187251&lon=0.707567
+Per http://www.openstreetmap.org/?lat=45.187251&lon=0.707567
 +DIV_32 http://www.openstreetmap.org/?lat=45.194475&lon=0.701709
 +X362834 http://www.openstreetmap.org/?lat=45.208348&lon=0.668449
 +SKIP_ChaEve http://www.openstreetmap.org/?lat=45.244580&lon=0.688212
 +SKIP_Ago http://www.openstreetmap.org/?lat=45.286573&lon=0.748701
 +X555194 http://www.openstreetmap.org/?lat=45.328300&lon=0.838652
 +SKIP_Neg http://www.openstreetmap.org/?lat=45.346008&lon=0.861182
-Thi Thivers http://www.openstreetmap.org/?lat=45.419092&lon=0.921317
+Thi http://www.openstreetmap.org/?lat=45.419092&lon=0.921317
 +X317715 http://www.openstreetmap.org/?lat=45.424645&lon=0.925255
 +X475678 http://www.openstreetmap.org/?lat=45.517068&lon=0.954909
 +SKIP_Coq http://www.openstreetmap.org/?lat=45.540729&lon=0.974393
@@ -57,4 +57,4 @@ Thi Thivers http://www.openstreetmap.org/?lat=45.419092&lon=0.921317
 +X108948 http://www.openstreetmap.org/?lat=45.778105&lon=1.191115
 +SKIP_LAig http://www.openstreetmap.org/?lat=45.778344&lon=1.204848
 +DIV_22 http://www.openstreetmap.org/?lat=45.823312&lon=1.257935
-LimBen LimogesBenedictins http://www.openstreetmap.org/?lat=45.836131&lon=1.267462
+LimBen http://www.openstreetmap.org/?lat=45.836131&lon=1.267462
