@@ -1,13 +1,13 @@
-OpaVyc +OpavaVychod http://www.openstreetmap.org/?lat=49.934552&lon=17.908273
+OpaVyc http://www.openstreetmap.org/?lat=49.934552&lon=17.908273
 +DIV_S10 http://www.openstreetmap.org/?lat=49.930899&lon=17.916191
 +DIV_S1 http://www.openstreetmap.org/?lat=49.928054&lon=17.922370
-OpaZas +OpavaZastavka http://www.openstreetmap.org/?lat=49.929221&lon=17.934837
-MaleHos +MaleHostice http://www.openstreetmap.org/?lat=49.932177&lon=17.945652
-VelHos +VelkeHostice http://www.openstreetmap.org/?lat=49.938171&lon=17.969642
-KraSle +KravareSlezsku http://www.openstreetmap.org/?lat=49.935153&lon=18.009982
+OpaZas http://www.openstreetmap.org/?lat=49.929221&lon=17.934837
+MaleHos http://www.openstreetmap.org/?lat=49.932177&lon=17.945652
+VelHos http://www.openstreetmap.org/?lat=49.938171&lon=17.969642
+KraSle http://www.openstreetmap.org/?lat=49.935153&lon=18.009982
 +DIV_S12 http://www.openstreetmap.org/?lat=49.937321&lon=18.020346
-KraKou +KravareKouty http://www.openstreetmap.org/?lat=49.930989&lon=18.039207
-DolBenZab +DolniBenesovZabreh http://www.openstreetmap.org/?lat=49.924351&lon=18.082509
-DolBen +DolniBenesov http://www.openstreetmap.org/?lat=49.923039&lon=18.119545
-Koz +Kozmice http://www.openstreetmap.org/?lat=49.910480&lon=18.153877
-Hlu +Hlucin http://www.openstreetmap.org/?lat=49.900910&lon=18.194304
+KraKou http://www.openstreetmap.org/?lat=49.930989&lon=18.039207
+DolBenZab http://www.openstreetmap.org/?lat=49.924351&lon=18.082509
+DolBen http://www.openstreetmap.org/?lat=49.923039&lon=18.119545
+Koz http://www.openstreetmap.org/?lat=49.910480&lon=18.153877
+Hlu http://www.openstreetmap.org/?lat=49.900910&lon=18.194304

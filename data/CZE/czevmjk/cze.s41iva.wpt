@@ -11,9 +11,9 @@ Str http://www.openstreetmap.org/?lat=49.153966&lon=16.484170
 +DIV_S4 http://www.openstreetmap.org/?lat=49.152254&lon=16.471081
 Rad http://www.openstreetmap.org/?lat=49.134259&lon=16.461596
 Sil http://www.openstreetmap.org/?lat=49.108026&lon=16.462712
-MorBra +MoravskeBranice http://www.openstreetmap.org/?lat=49.085152&lon=16.429024
+MorBra http://www.openstreetmap.org/?lat=49.085152&lon=16.429024
 +DIV_Hru http://www.openstreetmap.org/?lat=49.081835&lon=16.414990
-IvaLet +IvanciceLetovisko http://www.openstreetmap.org/?lat=49.094679&lon=16.402116
-IvaMes +IvanciceMesto http://www.openstreetmap.org/?lat=49.098979&lon=16.382632
-Iva +Ivancice http://www.openstreetmap.org/?lat=49.098248&lon=16.372719
-Osl +Oslavany http://www.openstreetmap.org/?lat=49.118869&lon=16.346669
+IvaLet http://www.openstreetmap.org/?lat=49.094679&lon=16.402116
+IvaMes http://www.openstreetmap.org/?lat=49.098979&lon=16.382632
+Iva http://www.openstreetmap.org/?lat=49.098248&lon=16.372719
+Osl http://www.openstreetmap.org/?lat=49.118869&lon=16.346669
