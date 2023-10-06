@@ -1,15 +1,15 @@
-Neratovice http://www.openstreetmap.org/?lat=50.262687&lon=14.517510
-+X772953 http://www.openstreetmap.org/?lat=50.262084&lon=14.522424
-NeratoviceMesto http://www.openstreetmap.org/?lat=50.256926&lon=14.520020
-Lobkovice http://www.openstreetmap.org/?lat=50.250862&lon=14.530792
-Jirice http://www.openstreetmap.org/?lat=50.238872&lon=14.546757
+Ner +Neratovice http://www.openstreetmap.org/?lat=50.262687&lon=14.517510
++DIV_S3 http://www.openstreetmap.org/?lat=50.262084&lon=14.522424
+NerMes +NeratoviceMesto http://www.openstreetmap.org/?lat=50.256926&lon=14.520020
+Lob +Lobkovice http://www.openstreetmap.org/?lat=50.250862&lon=14.530792
+Jir +Jirice http://www.openstreetmap.org/?lat=50.238872&lon=14.546757
 +X793673 http://www.openstreetmap.org/?lat=50.229789&lon=14.548688
-KostelecNadLabem http://www.openstreetmap.org/?lat=50.221106&lon=14.580617
-PoleradyNadLabem http://www.openstreetmap.org/?lat=50.204765&lon=14.610014
-BrandysNadLabem http://www.openstreetmap.org/?lat=50.183487&lon=14.655247
-BrandysNadLabemZapska http://www.openstreetmap.org/?lat=50.183597&lon=14.664946
-BrandysNadLabemZastavka http://www.openstreetmap.org/?lat=50.180327&lon=14.678056
-LazneTousen http://www.openstreetmap.org/?lat=50.168556&lon=14.711423
-CelakoviceZastavka http://www.openstreetmap.org/?lat=50.159869&lon=14.735327
-+X719934 http://www.openstreetmap.org/?lat=50.154198&lon=14.751763
-Celakovice http://www.openstreetmap.org/?lat=50.158006&lon=14.754338
+KosNadLab +KostelecNadLabem http://www.openstreetmap.org/?lat=50.221106&lon=14.580617
+PolNadLab +PoleradyNadLabem http://www.openstreetmap.org/?lat=50.204765&lon=14.610014
+BraNadLab +BrandysNadLabem http://www.openstreetmap.org/?lat=50.183487&lon=14.655247
+BraNadLabZap +BrandysNadLabemZapska http://www.openstreetmap.org/?lat=50.183597&lon=14.664946
+BraNadLabZas +BrandysNadLabemZastavka http://www.openstreetmap.org/?lat=50.180327&lon=14.678056
+LazTou +LazneTousen http://www.openstreetmap.org/?lat=50.168556&lon=14.711423
+CelZas +CelakoviceZastavka http://www.openstreetmap.org/?lat=50.159869&lon=14.735327
++DIV_S2 http://www.openstreetmap.org/?lat=50.154198&lon=14.751763
+Cel +Celakovice http://www.openstreetmap.org/?lat=50.158006&lon=14.754338

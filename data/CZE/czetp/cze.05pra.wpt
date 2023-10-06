@@ -1,36 +1,36 @@
-SidlisteBarrandov http://www.openstreetmap.org/?lat=50.031449&lon=14.368229
-PoliklinikaBarrandov http://www.openstreetmap.org/?lat=50.033889&lon=14.374173
-ChaplinovoNamesti http://www.openstreetmap.org/?lat=50.035012&lon=14.377724
-KBarrandovu http://www.openstreetmap.org/?lat=50.035322&lon=14.383239
-Geologicka http://www.openstreetmap.org/?lat=50.036439&lon=14.388635
+SidBar +SidlisteBarrandov http://www.openstreetmap.org/?lat=50.031449&lon=14.368229
+PolBar +PoliklinikaBarrandov http://www.openstreetmap.org/?lat=50.033889&lon=14.374173
+ChaNam +ChaplinovoNamesti http://www.openstreetmap.org/?lat=50.035012&lon=14.377724
+KBar +KBarrandovu http://www.openstreetmap.org/?lat=50.035322&lon=14.383239
+Geo +Geologicka http://www.openstreetmap.org/?lat=50.036439&lon=14.388635
 +X389433 http://www.openstreetmap.org/?lat=50.037834&lon=14.401317
-Hlubocepy http://www.openstreetmap.org/?lat=50.042702&lon=14.404685
-Zlichov http://www.openstreetmap.org/?lat=50.046137&lon=14.407861
-Lihovar http://www.openstreetmap.org/?lat=50.051308&lon=14.409170
-SmichovskeNadrazi http://www.openstreetmap.org/?lat=50.060989&lon=14.408720
-Plzenka http://www.openstreetmap.org/?lat=50.063858&lon=14.408677
-NaKnizeci http://www.openstreetmap.org/?lat=50.068097&lon=14.406638
-+X675306 http://www.openstreetmap.org/?lat=50.068644&lon=14.406263
-Andel http://www.openstreetmap.org/?lat=50.071540&lon=14.404128
-Zborovska http://www.openstreetmap.org/?lat=50.072418&lon=14.407625
-PalackehoNamesti http://www.openstreetmap.org/?lat=50.073089&lon=14.413977
-JiraskovoNamesti http://www.openstreetmap.org/?lat=50.076260&lon=14.414116
-+X155513 http://www.openstreetmap.org/?lat=50.077251&lon=14.414363
-Myslikova http://www.openstreetmap.org/?lat=50.078043&lon=14.418461
-+X833507 http://www.openstreetmap.org/?lat=50.078319&lon=14.419416
-Lazarska http://www.openstreetmap.org/?lat=50.079489&lon=14.420103
-Vodickova http://www.openstreetmap.org/?lat=50.079785&lon=14.423064
-VaclavskeNamesti http://www.openstreetmap.org/?lat=50.081871&lon=14.425575
-Jindrisska http://www.openstreetmap.org/?lat=50.085203&lon=14.430456
-+X143862 http://www.openstreetmap.org/?lat=50.085733&lon=14.431851
-HlavniNadrazi http://www.openstreetmap.org/?lat=50.083172&lon=14.435349
-ViktoriaZizkov http://www.openstreetmap.org/?lat=50.085017&lon=14.444854
-Lipanska http://www.openstreetmap.org/?lat=50.083985&lon=14.453459
-OlsanskeNamesti http://www.openstreetmap.org/?lat=50.082463&lon=14.457546
-+X845871 http://www.openstreetmap.org/?lat=50.082587&lon=14.458684
-Olsanska http://www.openstreetmap.org/?lat=50.083434&lon=14.464960
-NakladoveNadraziZizkov http://www.openstreetmap.org/?lat=50.084357&lon=14.470657
-Biskupcova http://www.openstreetmap.org/?lat=50.088821&lon=14.468715
-+X202594 http://www.openstreetmap.org/?lat=50.090308&lon=14.467986
-Ohrada http://www.openstreetmap.org/?lat=50.090635&lon=14.469659
-VozovnaZizkov http://www.openstreetmap.org/?lat=50.091557&lon=14.475013
+Hlu +Hlubocepy http://www.openstreetmap.org/?lat=50.042702&lon=14.404685
+Zli +Zlichov http://www.openstreetmap.org/?lat=50.046137&lon=14.407861
+Lih +Lihovar http://www.openstreetmap.org/?lat=50.051308&lon=14.409170
+SmiNad +SmichovskeNadrazi http://www.openstreetmap.org/?lat=50.060989&lon=14.408720
+Plz +Plzenka http://www.openstreetmap.org/?lat=50.063858&lon=14.408677
+NaKni +NaKnizeci http://www.openstreetmap.org/?lat=50.068097&lon=14.406638
++DIV_7 http://www.openstreetmap.org/?lat=50.068644&lon=14.406263
+And +Andel http://www.openstreetmap.org/?lat=50.071540&lon=14.404128
+Zbo +Zborovska http://www.openstreetmap.org/?lat=50.072418&lon=14.407625
+PalNam +PalackehoNamesti http://www.openstreetmap.org/?lat=50.073089&lon=14.413977
+JirNam +JiraskovoNamesti http://www.openstreetmap.org/?lat=50.076260&lon=14.414116
++DIV_17 http://www.openstreetmap.org/?lat=50.077251&lon=14.414363
+Mys +Myslikova http://www.openstreetmap.org/?lat=50.078043&lon=14.418461
++DIV_2 http://www.openstreetmap.org/?lat=50.078319&lon=14.419416
+Laz +Lazarska http://www.openstreetmap.org/?lat=50.079489&lon=14.420103
+Vod +Vodickova http://www.openstreetmap.org/?lat=50.079785&lon=14.423064
+VacNam +VaclavskeNamesti http://www.openstreetmap.org/?lat=50.081871&lon=14.425575
+Jin +Jindrisska http://www.openstreetmap.org/?lat=50.085203&lon=14.430456
++DIV_3 http://www.openstreetmap.org/?lat=50.085733&lon=14.431851
+HlaNad +HlavniNadrazi http://www.openstreetmap.org/?lat=50.083172&lon=14.435349
+VikZiz +ViktoriaZizkov http://www.openstreetmap.org/?lat=50.085017&lon=14.444854
+Lip +Lipanska http://www.openstreetmap.org/?lat=50.083985&lon=14.453459
+OlsNam +OlsanskeNamesti http://www.openstreetmap.org/?lat=50.082463&lon=14.457546
++DIV_15 http://www.openstreetmap.org/?lat=50.082587&lon=14.458684
+Ols +Olsanska http://www.openstreetmap.org/?lat=50.083434&lon=14.464960
+NakNadZiz +NakladoveNadraziZizkov http://www.openstreetmap.org/?lat=50.084357&lon=14.470657
+Bis +Biskupcova http://www.openstreetmap.org/?lat=50.088821&lon=14.468715
++DIV_1 http://www.openstreetmap.org/?lat=50.090308&lon=14.467986
+Ohr +Ohrada http://www.openstreetmap.org/?lat=50.090635&lon=14.469659
+VozZiz +VozovnaZizkov http://www.openstreetmap.org/?lat=50.091557&lon=14.475013

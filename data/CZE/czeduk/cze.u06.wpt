@@ -1,17 +1,17 @@
-TepliceCechach http://www.openstreetmap.org/?lat=50.646535&lon=13.829255
-TepliceRetenice http://www.openstreetmap.org/?lat=50.642480&lon=13.800845
-+X538855 http://www.openstreetmap.org/?lat=50.642535&lon=13.794794
+TepCec +TepliceCechach http://www.openstreetmap.org/?lat=50.646535&lon=13.829255
+TepRet +TepliceRetenice http://www.openstreetmap.org/?lat=50.642480&lon=13.800845
++DIV_U1 http://www.openstreetmap.org/?lat=50.642535&lon=13.794794
 +X600537 http://www.openstreetmap.org/?lat=50.638997&lon=13.791189
-TepliceZameckaZahrada http://www.openstreetmap.org/?lat=50.633689&lon=13.813806
-Prosetice http://www.openstreetmap.org/?lat=50.631103&lon=13.841872
-BystranyCechach http://www.openstreetmap.org/?lat=50.625468&lon=13.862729
-+X251899 http://www.openstreetmap.org/?lat=50.611435&lon=13.881837
-Uporiny http://www.openstreetmap.org/?lat=50.609263&lon=13.878608
-+X346143 http://www.openstreetmap.org/?lat=50.606478&lon=13.874542
-HradisteCechach http://www.openstreetmap.org/?lat=50.593549&lon=13.876033
-Zalany http://www.openstreetmap.org/?lat=50.589108&lon=13.900666
-ZalanyZastavka http://www.openstreetmap.org/?lat=50.587201&lon=13.916202
-Borislav http://www.openstreetmap.org/?lat=50.585703&lon=13.937101
+TepZamZah +TepliceZameckaZahrada http://www.openstreetmap.org/?lat=50.633689&lon=13.813806
+Pro +Prosetice http://www.openstreetmap.org/?lat=50.631103&lon=13.841872
+BysCec +BystranyCechach http://www.openstreetmap.org/?lat=50.625468&lon=13.862729
++DIV_U5E http://www.openstreetmap.org/?lat=50.611435&lon=13.881837
+Upo +Uporiny http://www.openstreetmap.org/?lat=50.609263&lon=13.878608
++DIV_U5W http://www.openstreetmap.org/?lat=50.606478&lon=13.874542
+HraCec +HradisteCechach http://www.openstreetmap.org/?lat=50.593549&lon=13.876033
+Zal +Zalany http://www.openstreetmap.org/?lat=50.589108&lon=13.900666
+ZalZas +ZalanyZastavka http://www.openstreetmap.org/?lat=50.587201&lon=13.916202
+Bor +Borislav http://www.openstreetmap.org/?lat=50.585703&lon=13.937101
 +X888509 http://www.openstreetmap.org/?lat=50.591152&lon=13.945084
 Zim http://www.openstreetmap.org/?lat=50.587065&lon=13.965082
-Radejcin http://www.openstreetmap.org/?lat=50.580362&lon=14.003363
+Rad +Radejcin http://www.openstreetmap.org/?lat=50.580362&lon=14.003363

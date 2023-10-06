@@ -1,37 +1,37 @@
-NadraziPodbaba http://www.openstreetmap.org/?lat=50.112343&lon=14.395566
-Zelena http://www.openstreetmap.org/?lat=50.107472&lon=14.394600
-Lotysska http://www.openstreetmap.org/?lat=50.103935&lon=14.395008
-+X870249 http://www.openstreetmap.org/?lat=50.100542&lon=14.395416
-VitezneNamesti http://www.openstreetmap.org/?lat=50.099658&lon=14.395534
-+X203866 http://www.openstreetmap.org/?lat=50.094998&lon=14.396703
-Hradcanska http://www.openstreetmap.org/?lat=50.097304&lon=14.403108
-+X309670 http://www.openstreetmap.org/?lat=50.097655&lon=14.407550
-ChotkovySady http://www.openstreetmap.org/?lat=50.095370&lon=14.408913
-+X304516 http://www.openstreetmap.org/?lat=50.094852&lon=14.409052
+NadPod +NadraziPodbaba http://www.openstreetmap.org/?lat=50.112343&lon=14.395566
+Zel +Zelena http://www.openstreetmap.org/?lat=50.107472&lon=14.394600
+Lot +Lotysska http://www.openstreetmap.org/?lat=50.103935&lon=14.395008
++DIV_20 http://www.openstreetmap.org/?lat=50.100542&lon=14.395416
+VitNam +VitezneNamesti http://www.openstreetmap.org/?lat=50.099658&lon=14.395534
++DIV_2 http://www.openstreetmap.org/?lat=50.094998&lon=14.396703
+Hra +Hradcanska http://www.openstreetmap.org/?lat=50.097304&lon=14.403108
++DIV_1 http://www.openstreetmap.org/?lat=50.097655&lon=14.407550
+ChoSady +ChotkovySady http://www.openstreetmap.org/?lat=50.095370&lon=14.408913
++DIV_22 http://www.openstreetmap.org/?lat=50.094852&lon=14.409052
 +X383117 http://www.openstreetmap.org/?lat=50.093581&lon=14.409277
 +X732429 http://www.openstreetmap.org/?lat=50.092911&lon=14.406198
-Malostranska http://www.openstreetmap.org/?lat=50.091529&lon=14.409288
-+X469279 http://www.openstreetmap.org/?lat=50.090063&lon=14.410232
-Staromestska http://www.openstreetmap.org/?lat=50.088428&lon=14.416326
-KarlovyLazne http://www.openstreetmap.org/?lat=50.084713&lon=14.413617
-NarodniDivadlo http://www.openstreetmap.org/?lat=50.081396&lon=14.412990
-NarodniTrida http://www.openstreetmap.org/?lat=50.081382&lon=14.419566
-Lazarska http://www.openstreetmap.org/?lat=50.079489&lon=14.420103
+Mal +Malostranska http://www.openstreetmap.org/?lat=50.091529&lon=14.409288
++DIV_12 http://www.openstreetmap.org/?lat=50.090063&lon=14.410232
+Sta +Staromestska http://www.openstreetmap.org/?lat=50.088428&lon=14.416326
+KarLaz +KarlovyLazne http://www.openstreetmap.org/?lat=50.084713&lon=14.413617
+NarDiv +NarodniDivadlo http://www.openstreetmap.org/?lat=50.081396&lon=14.412990
+NarTri +NarodniTrida http://www.openstreetmap.org/?lat=50.081382&lon=14.419566
+Laz +Lazarska http://www.openstreetmap.org/?lat=50.079489&lon=14.420103
 +X833507 http://www.openstreetmap.org/?lat=50.078319&lon=14.419416
-NovomestskaRadnice http://www.openstreetmap.org/?lat=50.077334&lon=14.419502
-KarlovoNamesti http://www.openstreetmap.org/?lat=50.075730&lon=14.418998
-Moran http://www.openstreetmap.org/?lat=50.074335&lon=14.418842
-+X833506 http://www.openstreetmap.org/?lat=50.073872&lon=14.418738
-BotanickaZahrada http://www.openstreetmap.org/?lat=50.070806&lon=14.419277
-Albertov http://www.openstreetmap.org/?lat=50.067845&lon=14.420993
-OstrcilovoNamesti http://www.openstreetmap.org/?lat=50.065015&lon=14.424748
-Svatoplukova http://www.openstreetmap.org/?lat=50.065049&lon=14.429673
-DivadloNaFidlovacce http://www.openstreetmap.org/?lat=50.064739&lon=14.436743
-NamestiBratriSynku http://www.openstreetmap.org/?lat=50.064843&lon=14.440852
-+X817855 http://www.openstreetmap.org/?lat=50.063279&lon=14.442912
-NuselskaRadnice http://www.openstreetmap.org/?lat=50.062849&lon=14.441550
-Paloucek http://www.openstreetmap.org/?lat=50.061488&lon=14.437205
-PrazskehoPovstani http://www.openstreetmap.org/?lat=50.056319&lon=14.434383
-+X481039 http://www.openstreetmap.org/?lat=50.053843&lon=14.437408
-NaVeseli http://www.openstreetmap.org/?lat=50.056371&lon=14.441357
-VozovnaPankrac http://www.openstreetmap.org/?lat=50.056929&lon=14.437773
+NovRad +NovomestskaRadnice http://www.openstreetmap.org/?lat=50.077334&lon=14.419502
+KarNam +KarlovoNamesti http://www.openstreetmap.org/?lat=50.075730&lon=14.418998
+Mor +Moran http://www.openstreetmap.org/?lat=50.074335&lon=14.418842
++DIV_7 http://www.openstreetmap.org/?lat=50.073872&lon=14.418738
+BotZah +BotanickaZahrada http://www.openstreetmap.org/?lat=50.070806&lon=14.419277
+Alb +Albertov http://www.openstreetmap.org/?lat=50.067845&lon=14.420993
+OstNam +OstrcilovoNamesti http://www.openstreetmap.org/?lat=50.065015&lon=14.424748
+Sva +Svatoplukova http://www.openstreetmap.org/?lat=50.065049&lon=14.429673
+DivNaFid +DivadloNaFidlovacce http://www.openstreetmap.org/?lat=50.064739&lon=14.436743
+NamBraSyn +NamestiBratriSynku http://www.openstreetmap.org/?lat=50.064843&lon=14.440852
++DIV_11 http://www.openstreetmap.org/?lat=50.063279&lon=14.442912
+NusRad +NuselskaRadnice http://www.openstreetmap.org/?lat=50.062849&lon=14.441550
+Pal +Paloucek http://www.openstreetmap.org/?lat=50.061488&lon=14.437205
+PraPov +PrazskehoPovstani http://www.openstreetmap.org/?lat=50.056319&lon=14.434383
++DIV_19 http://www.openstreetmap.org/?lat=50.053843&lon=14.437408
+NaVes +NaVeseli http://www.openstreetmap.org/?lat=50.056371&lon=14.441357
+VozPan +VozovnaPankrac http://www.openstreetmap.org/?lat=50.056929&lon=14.437773

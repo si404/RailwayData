@@ -1,23 +1,23 @@
-Rakovnik http://www.openstreetmap.org/?lat=50.099042&lon=13.736386
-+X703867 http://www.openstreetmap.org/?lat=50.095418&lon=13.745817
-ChlumRakovnika http://www.openstreetmap.org/?lat=50.076077&lon=13.777285
-Lasovice http://www.openstreetmap.org/?lat=50.065390&lon=13.799858
-Pustovety http://www.openstreetmap.org/?lat=50.054990&lon=13.816960
+Rak +Rakovnik http://www.openstreetmap.org/?lat=50.099042&lon=13.736386
++DIV_S50 http://www.openstreetmap.org/?lat=50.095418&lon=13.745817
+ChlRak +ChlumRakovnika http://www.openstreetmap.org/?lat=50.076077&lon=13.777285
+Las +Lasovice http://www.openstreetmap.org/?lat=50.065390&lon=13.799858
+Pus +Pustovety http://www.openstreetmap.org/?lat=50.054990&lon=13.816960
 +X121704 http://www.openstreetmap.org/?lat=50.059357&lon=13.826337
-MesteckoKrivoklatu http://www.openstreetmap.org/?lat=50.050216&lon=13.857172
-Krivoklat http://www.openstreetmap.org/?lat=50.038255&lon=13.868823
-RoztokyKrivoklatu http://www.openstreetmap.org/?lat=50.023637&lon=13.873930
+MesKri +MesteckoKrivoklatu http://www.openstreetmap.org/?lat=50.050216&lon=13.857172
+Kri +Krivoklat http://www.openstreetmap.org/?lat=50.038255&lon=13.868823
+RozKri +RoztokyKrivoklatu http://www.openstreetmap.org/?lat=50.023637&lon=13.873930
 +X815575 http://www.openstreetmap.org/?lat=50.017543&lon=13.888865
-UjezdNadZbecnem http://www.openstreetmap.org/?lat=50.045744&lon=13.892641
+UjeNadZbe +UjezdNadZbecnem http://www.openstreetmap.org/?lat=50.045744&lon=13.892641
 +X277813 http://www.openstreetmap.org/?lat=50.047922&lon=13.904486
-Zbecno http://www.openstreetmap.org/?lat=50.035712&lon=13.918304
+Zbe +Zbecno http://www.openstreetmap.org/?lat=50.035712&lon=13.918304
 +X185800 http://www.openstreetmap.org/?lat=50.026752&lon=13.908176
-Zloukovice http://www.openstreetmap.org/?lat=50.016026&lon=13.955898
+Zlo +Zloukovice http://www.openstreetmap.org/?lat=50.016026&lon=13.955898
 +X149900 http://www.openstreetmap.org/?lat=50.006705&lon=13.971648
-Nizbor http://www.openstreetmap.org/?lat=50.003340&lon=13.998299
-Hyskov http://www.openstreetmap.org/?lat=49.988773&lon=14.044862
+Niz +Nizbor http://www.openstreetmap.org/?lat=50.003340&lon=13.998299
+Hys +Hyskov http://www.openstreetmap.org/?lat=49.988773&lon=14.044862
 +X186671 http://www.openstreetmap.org/?lat=49.989132&lon=14.065118
-+X186386 http://www.openstreetmap.org/?lat=49.967723&lon=14.082456
-BerounZavodi http://www.openstreetmap.org/?lat=49.967061&lon=14.083550
-+X694179 http://www.openstreetmap.org/?lat=49.958613&lon=14.083250
-Beroun http://www.openstreetmap.org/?lat=49.957412&lon=14.076898
++DIV_S6 http://www.openstreetmap.org/?lat=49.967723&lon=14.082456
+BerZav +BerounZavodi http://www.openstreetmap.org/?lat=49.967061&lon=14.083550
++DIV_S7 http://www.openstreetmap.org/?lat=49.958613&lon=14.083250
+Ber +Beroun http://www.openstreetmap.org/?lat=49.957412&lon=14.076898

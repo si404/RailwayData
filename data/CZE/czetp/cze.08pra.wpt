@@ -1,36 +1,36 @@
-NadraziPodbaba http://www.openstreetmap.org/?lat=50.112343&lon=14.395566
-Zelena http://www.openstreetmap.org/?lat=50.107472&lon=14.394600
-Lotysska http://www.openstreetmap.org/?lat=50.103935&lon=14.395008
-+X870249 http://www.openstreetmap.org/?lat=50.100542&lon=14.395416
-VitezneNamesti http://www.openstreetmap.org/?lat=50.099658&lon=14.395534
-+X203866 http://www.openstreetmap.org/?lat=50.094998&lon=14.396703
-Hradcanska http://www.openstreetmap.org/?lat=50.097304&lon=14.403108
-+X309670 http://www.openstreetmap.org/?lat=50.097655&lon=14.407550
-Sparta http://www.openstreetmap.org/?lat=50.099100&lon=14.417367
-Korunovacni http://www.openstreetmap.org/?lat=50.099527&lon=14.420199
-LetenskeNamesti http://www.openstreetmap.org/?lat=50.099995&lon=14.423472
-Kamenicka http://www.openstreetmap.org/?lat=50.099582&lon=14.428965
-Strossmayerovo http://www.openstreetmap.org/?lat=50.098873&lon=14.433256
-NabreziKapitanaJarose http://www.openstreetmap.org/?lat=50.096334&lon=14.431561
-+X201637 http://www.openstreetmap.org/?lat=50.095377&lon=14.426701
-DlouhaTrida http://www.openstreetmap.org/?lat=50.090999&lon=14.427742
-NamestiRepubliky http://www.openstreetmap.org/?lat=50.088738&lon=14.430070
-+X586438 http://www.openstreetmap.org/?lat=50.089568&lon=14.432377
-BilaLabut http://www.openstreetmap.org/?lat=50.090222&lon=14.435767
-+X586439 http://www.openstreetmap.org/?lat=50.090621&lon=14.436936
-Florenc http://www.openstreetmap.org/?lat=50.090555&lon=14.439176
-KarlinskeNamesti http://www.openstreetmap.org/?lat=50.092761&lon=14.445691
-Kriszikova http://www.openstreetmap.org/?lat=50.093393&lon=14.451790
-Urxova http://www.openstreetmap.org/?lat=50.095212&lon=14.456785
-Invalidovna http://www.openstreetmap.org/?lat=50.097311&lon=14.464070
-+X740525 http://www.openstreetmap.org/?lat=50.101523&lon=14.473479
-Palmovka http://www.openstreetmap.org/?lat=50.103567&lon=14.473393
-Balabenka http://www.openstreetmap.org/?lat=50.104497&lon=14.482368
-Ocelarska http://www.openstreetmap.org/?lat=50.103536&lon=14.488220
-ArenaLiben http://www.openstreetmap.org/?lat=50.102861&lon=14.494507
-NadraziLiben http://www.openstreetmap.org/?lat=50.100718&lon=14.502436
-Kabesova http://www.openstreetmap.org/?lat=50.102421&lon=14.508262
-Podkovarska http://www.openstreetmap.org/?lat=50.102958&lon=14.513862
-UElektry http://www.openstreetmap.org/?lat=50.103453&lon=14.518948
-Nadmlejnska http://www.openstreetmap.org/?lat=50.103825&lon=14.524591
-StaryHloubetin http://www.openstreetmap.org/?lat=50.104472&lon=14.529505
+NadPod +NadraziPodbaba http://www.openstreetmap.org/?lat=50.112343&lon=14.395566
+Zel +Zelena http://www.openstreetmap.org/?lat=50.107472&lon=14.394600
+Lot +Lotysska http://www.openstreetmap.org/?lat=50.103935&lon=14.395008
++DIV_20 http://www.openstreetmap.org/?lat=50.100542&lon=14.395416
+VitNam +VitezneNamesti http://www.openstreetmap.org/?lat=50.099658&lon=14.395534
++DIV_1 http://www.openstreetmap.org/?lat=50.094998&lon=14.396703
+Hra +Hradcanska http://www.openstreetmap.org/?lat=50.097304&lon=14.403108
++DIV_2 http://www.openstreetmap.org/?lat=50.097655&lon=14.407550
+Spa +Sparta http://www.openstreetmap.org/?lat=50.099100&lon=14.417367
+Kor +Korunovacni http://www.openstreetmap.org/?lat=50.099527&lon=14.420199
+LetNam +LetenskeNamesti http://www.openstreetmap.org/?lat=50.099995&lon=14.423472
+Kam +Kamenicka http://www.openstreetmap.org/?lat=50.099582&lon=14.428965
+Str +Strossmayerovo http://www.openstreetmap.org/?lat=50.098873&lon=14.433256
+NabKapJar +NabreziKapitanaJarose http://www.openstreetmap.org/?lat=50.096334&lon=14.431561
++DIV_15 http://www.openstreetmap.org/?lat=50.095377&lon=14.426701
+DloTri +DlouhaTrida http://www.openstreetmap.org/?lat=50.090999&lon=14.427742
+NamRep +NamestiRepubliky http://www.openstreetmap.org/?lat=50.088738&lon=14.430070
++DIV_6 http://www.openstreetmap.org/?lat=50.089568&lon=14.432377
+BilaLab +BilaLabut http://www.openstreetmap.org/?lat=50.090222&lon=14.435767
++DIV_14 http://www.openstreetmap.org/?lat=50.090621&lon=14.436936
+Flo +Florenc http://www.openstreetmap.org/?lat=50.090555&lon=14.439176
+KarNam +KarlinskeNamesti http://www.openstreetmap.org/?lat=50.092761&lon=14.445691
+Kri +Kriszikova http://www.openstreetmap.org/?lat=50.093393&lon=14.451790
+Urx +Urxova http://www.openstreetmap.org/?lat=50.095212&lon=14.456785
+Inv +Invalidovna http://www.openstreetmap.org/?lat=50.097311&lon=14.464070
++DIV_9 http://www.openstreetmap.org/?lat=50.101523&lon=14.473479
+Pal +Palmovka http://www.openstreetmap.org/?lat=50.103567&lon=14.473393
+Bal +Balabenka http://www.openstreetmap.org/?lat=50.104497&lon=14.482368
+Oce +Ocelarska http://www.openstreetmap.org/?lat=50.103536&lon=14.488220
+AreLib +ArenaLiben http://www.openstreetmap.org/?lat=50.102861&lon=14.494507
+NadLib +NadraziLiben http://www.openstreetmap.org/?lat=50.100718&lon=14.502436
+Kab +Kabesova http://www.openstreetmap.org/?lat=50.102421&lon=14.508262
+Pod +Podkovarska http://www.openstreetmap.org/?lat=50.102958&lon=14.513862
+UEle +UElektry http://www.openstreetmap.org/?lat=50.103453&lon=14.518948
+Nad +Nadmlejnska http://www.openstreetmap.org/?lat=50.103825&lon=14.524591
+StaHlo +StaryHloubetin http://www.openstreetmap.org/?lat=50.104472&lon=14.529505

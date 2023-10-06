@@ -1,45 +1,45 @@
-KlasterecNadOhri http://www.openstreetmap.org/?lat=50.384977&lon=13.196340
+KlaNadOhri +KlasterecNadOhri http://www.openstreetmap.org/?lat=50.384977&lon=13.196340
 +X112295 http://www.openstreetmap.org/?lat=50.383089&lon=13.210287
-+X721193 http://www.openstreetmap.org/?lat=50.402876&lon=13.247924
-KadanPrunerov http://www.openstreetmap.org/?lat=50.411622&lon=13.258739
++DIV_U16 http://www.openstreetmap.org/?lat=50.402876&lon=13.247924
+KadPru +KadanPrunerov http://www.openstreetmap.org/?lat=50.411622&lon=13.258739
 +X990918 http://www.openstreetmap.org/?lat=50.442543&lon=13.312082
-Malkov http://www.openstreetmap.org/?lat=50.441805&lon=13.330321
+Mal +Malkov http://www.openstreetmap.org/?lat=50.441805&lon=13.330321
 +X507452 http://www.openstreetmap.org/?lat=50.446478&lon=13.371477
-+X702361 http://www.openstreetmap.org/?lat=50.453064&lon=13.388257
-Chomutov http://www.openstreetmap.org/?lat=50.456671&lon=13.399243
-+X176469 http://www.openstreetmap.org/?lat=50.461233&lon=13.404565
-ChomutovMesto http://www.openstreetmap.org/?lat=50.469893&lon=13.413963
-+X793701 http://www.openstreetmap.org/?lat=50.479835&lon=13.440657
-JirkovZastavka http://www.openstreetmap.org/?lat=50.485596&lon=13.447824
-Kyjice http://www.openstreetmap.org/?lat=50.510274&lon=13.485847
-Trebusice http://www.openstreetmap.org/?lat=50.523400&lon=13.579659
++DIV_U14 http://www.openstreetmap.org/?lat=50.453064&lon=13.388257
+Chom +Chomutov http://www.openstreetmap.org/?lat=50.456671&lon=13.399243
++DIV_T7 http://www.openstreetmap.org/?lat=50.461233&lon=13.404565
+ChoMes +ChomutovMesto http://www.openstreetmap.org/?lat=50.469893&lon=13.413963
++DIV_U14 http://www.openstreetmap.org/?lat=50.479835&lon=13.440657
+JirZas +JirkovZastavka http://www.openstreetmap.org/?lat=50.485596&lon=13.447824
+Kyj +Kyjice http://www.openstreetmap.org/?lat=50.510274&lon=13.485847
+Tre +Trebusice http://www.openstreetmap.org/?lat=50.523400&lon=13.579659
 +X113465 http://www.openstreetmap.org/?lat=50.528938&lon=13.618155
-+X414536 http://www.openstreetmap.org/?lat=50.525282&lon=13.631287
++DIV_U12 http://www.openstreetmap.org/?lat=50.525282&lon=13.631287
 Most http://www.openstreetmap.org/?lat=50.511216&lon=13.658838
-+X515979 http://www.openstreetmap.org/?lat=50.507545&lon=13.676090
++DIV_U10 http://www.openstreetmap.org/?lat=50.507545&lon=13.676090
 +X588854 http://www.openstreetmap.org/?lat=50.506890&lon=13.689351
 +X643935 http://www.openstreetmap.org/?lat=50.516101&lon=13.697162
-ZeleniceNadBilinou http://www.openstreetmap.org/?lat=50.525173&lon=13.725185
+ZelNadBil +ZeleniceNadBilinou http://www.openstreetmap.org/?lat=50.525173&lon=13.725185
 +X354979 http://www.openstreetmap.org/?lat=50.523454&lon=13.748746
-BilinaKyselka http://www.openstreetmap.org/?lat=50.540742&lon=13.759432
-Bilina http://www.openstreetmap.org/?lat=50.554364&lon=13.772285
-+X494174 http://www.openstreetmap.org/?lat=50.569044&lon=13.779495
-Chotejovice http://www.openstreetmap.org/?lat=50.575477&lon=13.784516
+BilKys +BilinaKyselka http://www.openstreetmap.org/?lat=50.540742&lon=13.759432
+Bil +Bilina http://www.openstreetmap.org/?lat=50.554364&lon=13.772285
++DIV_U5W http://www.openstreetmap.org/?lat=50.569044&lon=13.779495
+Chot +Chotejovice http://www.openstreetmap.org/?lat=50.575477&lon=13.784516
 +X692556 http://www.openstreetmap.org/?lat=50.584006&lon=13.790395
-Zelenky http://www.openstreetmap.org/?lat=50.601361&lon=13.771749
-Duchcov http://www.openstreetmap.org/?lat=50.617490&lon=13.754883
+Zel +Zelenky http://www.openstreetmap.org/?lat=50.601361&lon=13.771749
+Duc +Duchcov http://www.openstreetmap.org/?lat=50.617490&lon=13.754883
 +X731356 http://www.openstreetmap.org/?lat=50.625059&lon=13.743896
-+X843843 http://www.openstreetmap.org/?lat=50.632709&lon=13.749561
-JenikovOldrichov http://www.openstreetmap.org/?lat=50.636193&lon=13.755398
-+X538855 http://www.openstreetmap.org/?lat=50.642535&lon=13.794794
-TepliceRetenice http://www.openstreetmap.org/?lat=50.642480&lon=13.800845
-TepliceCechach http://www.openstreetmap.org/?lat=50.646535&lon=13.829255
-Probostov http://www.openstreetmap.org/?lat=50.661337&lon=13.838396
-KrupkaBohosudov http://www.openstreetmap.org/?lat=50.672353&lon=13.878736
++DIV_U3 http://www.openstreetmap.org/?lat=50.632709&lon=13.749561
+JenOld +JenikovOldrichov http://www.openstreetmap.org/?lat=50.636193&lon=13.755398
++DIV_U6 http://www.openstreetmap.org/?lat=50.642535&lon=13.794794
+TepRet +TepliceRetenice http://www.openstreetmap.org/?lat=50.642480&lon=13.800845
+TepCec +TepliceCechach http://www.openstreetmap.org/?lat=50.646535&lon=13.829255
+Pro +Probostov http://www.openstreetmap.org/?lat=50.661337&lon=13.838396
+KruBoh +KrupkaBohosudov http://www.openstreetmap.org/?lat=50.672353&lon=13.878736
 +X464636 http://www.openstreetmap.org/?lat=50.670232&lon=13.900023
 +X194237 http://www.openstreetmap.org/?lat=50.684862&lon=13.936028
 +X751258 http://www.openstreetmap.org/?lat=50.670979&lon=13.974438
-+X412328 http://www.openstreetmap.org/?lat=50.648984&lon=13.991818
-UstiNadLabemZapad http://www.openstreetmap.org/?lat=50.658160&lon=14.029756
++DIV_U5E http://www.openstreetmap.org/?lat=50.648984&lon=13.991818
+UstiNadLabZap +UstiNadLabemZapad http://www.openstreetmap.org/?lat=50.658160&lon=14.029756
 +X153384 http://www.openstreetmap.org/?lat=50.657878&lon=14.039723
-UstiNadLabemHlavniNadrazi http://www.openstreetmap.org/?lat=50.659415&lon=14.044518
+UstiNadLabHlaNad +UstiNadLabemHlavniNadrazi http://www.openstreetmap.org/?lat=50.659415&lon=14.044518

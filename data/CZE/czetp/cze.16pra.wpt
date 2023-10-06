@@ -1,43 +1,43 @@
-SidlisteRepy http://www.openstreetmap.org/?lat=50.064150&lon=14.297805
-Blatiny http://www.openstreetmap.org/?lat=50.065769&lon=14.302890
-Slanska http://www.openstreetmap.org/?lat=50.064502&lon=14.308941
-Hlusickova http://www.openstreetmap.org/?lat=50.063827&lon=14.316022
-KrematoriumMotol http://www.openstreetmap.org/?lat=50.066044&lon=14.326065
-Motol http://www.openstreetmap.org/?lat=50.067683&lon=14.336128
-VozovnaMotol http://www.openstreetmap.org/?lat=50.067890&lon=14.340999
-HotelGolf http://www.openstreetmap.org/?lat=50.068072&lon=14.346707
-Postovka http://www.openstreetmap.org/?lat=50.068534&lon=14.354002
-Kotlarka http://www.openstreetmap.org/?lat=50.069670&lon=14.362768
-Kavalirka http://www.openstreetmap.org/?lat=50.070049&lon=14.370782
-Klamovka http://www.openstreetmap.org/?lat=50.070593&lon=14.379634
-UZvonu http://www.openstreetmap.org/?lat=50.071585&lon=14.387305
-Bertramka http://www.openstreetmap.org/?lat=50.072239&lon=14.392959
-+X917748 http://www.openstreetmap.org/?lat=50.071805&lon=14.400984
-Andel http://www.openstreetmap.org/?lat=50.071540&lon=14.404128
-Zborovska http://www.openstreetmap.org/?lat=50.072418&lon=14.407625
-PalackehoNamesti http://www.openstreetmap.org/?lat=50.073089&lon=14.413977
-+X833506 http://www.openstreetmap.org/?lat=50.073872&lon=14.418738
-Moran http://www.openstreetmap.org/?lat=50.074335&lon=14.418842
-KarlovoNamesti http://www.openstreetmap.org/?lat=50.075730&lon=14.418998
-Stepanska http://www.openstreetmap.org/?lat=50.075633&lon=14.422871
-IPPavlova http://www.openstreetmap.org/?lat=50.075320&lon=14.430317
-NamestiMiru http://www.openstreetmap.org/?lat=50.075225&lon=14.437918
-Sumavska http://www.openstreetmap.org/?lat=50.075344&lon=14.443964
-VinohradskaVodarna http://www.openstreetmap.org/?lat=50.075379&lon=14.450090
-Perunova http://www.openstreetmap.org/?lat=50.075420&lon=14.454296
-Orionka http://www.openstreetmap.org/?lat=50.075544&lon=14.459349
-+X663253 http://www.openstreetmap.org/?lat=50.077847&lon=14.461001
-Flora http://www.openstreetmap.org/?lat=50.078016&lon=14.462085
-OlsanskeHrbitovy http://www.openstreetmap.org/?lat=50.077954&lon=14.466923
-Zelivskeho http://www.openstreetmap.org/?lat=50.078594&lon=14.473393
-VinohradskeHrbitovy http://www.openstreetmap.org/?lat=50.077678&lon=14.480721
-KrematoriumStrasnice http://www.openstreetmap.org/?lat=50.077239&lon=14.485114
-Vinice http://www.openstreetmap.org/?lat=50.076776&lon=14.489229
-Solidarita http://www.openstreetmap.org/?lat=50.076887&lon=14.494303
-ZborovStrasnickeDivadlo http://www.openstreetmap.org/?lat=50.077300&lon=14.500655
-Limuzska http://www.openstreetmap.org/?lat=50.077582&lon=14.505225
-NoveStrasnice http://www.openstreetmap.org/?lat=50.077844&lon=14.510933
-DepoHostivar http://www.openstreetmap.org/?lat=50.076308&lon=14.516072
-MalesickaTovarna http://www.openstreetmap.org/?lat=50.077231&lon=14.524752
-NaHomoli http://www.openstreetmap.org/?lat=50.076253&lon=14.530438
-UstredniDilnyDP http://www.openstreetmap.org/?lat=50.074487&lon=14.532380
+SidRepy +SidlisteRepy http://www.openstreetmap.org/?lat=50.064150&lon=14.297805
+Bla +Blatiny http://www.openstreetmap.org/?lat=50.065769&lon=14.302890
+Sla +Slanska http://www.openstreetmap.org/?lat=50.064502&lon=14.308941
+Hlu +Hlusickova http://www.openstreetmap.org/?lat=50.063827&lon=14.316022
+KreMot +KrematoriumMotol http://www.openstreetmap.org/?lat=50.066044&lon=14.326065
+Mot +Motol http://www.openstreetmap.org/?lat=50.067683&lon=14.336128
+VozMot +VozovnaMotol http://www.openstreetmap.org/?lat=50.067890&lon=14.340999
+HotGolf +HotelGolf http://www.openstreetmap.org/?lat=50.068072&lon=14.346707
+Pos +Postovka http://www.openstreetmap.org/?lat=50.068534&lon=14.354002
+Kot +Kotlarka http://www.openstreetmap.org/?lat=50.069670&lon=14.362768
+Kav +Kavalirka http://www.openstreetmap.org/?lat=50.070049&lon=14.370782
+Kla +Klamovka http://www.openstreetmap.org/?lat=50.070593&lon=14.379634
+UZvo +UZvonu http://www.openstreetmap.org/?lat=50.071585&lon=14.387305
+Ber +Bertramka http://www.openstreetmap.org/?lat=50.072239&lon=14.392959
++DIV_21 http://www.openstreetmap.org/?lat=50.071805&lon=14.400984
+And +Andel http://www.openstreetmap.org/?lat=50.071540&lon=14.404128
+Zbo +Zborovska http://www.openstreetmap.org/?lat=50.072418&lon=14.407625
+PalNam +PalackehoNamesti http://www.openstreetmap.org/?lat=50.073089&lon=14.413977
++DIV_14 http://www.openstreetmap.org/?lat=50.073872&lon=14.418738
+Mor +Moran http://www.openstreetmap.org/?lat=50.074335&lon=14.418842
+KarNam +KarlovoNamesti http://www.openstreetmap.org/?lat=50.075730&lon=14.418998
+Ste +Stepanska http://www.openstreetmap.org/?lat=50.075633&lon=14.422871
+IPPav +IPPavlova http://www.openstreetmap.org/?lat=50.075320&lon=14.430317
+NamMiru +NamestiMiru http://www.openstreetmap.org/?lat=50.075225&lon=14.437918
+Sum +Sumavska http://www.openstreetmap.org/?lat=50.075344&lon=14.443964
+VinVod +VinohradskaVodarna http://www.openstreetmap.org/?lat=50.075379&lon=14.450090
+Per +Perunova http://www.openstreetmap.org/?lat=50.075420&lon=14.454296
+Ori +Orionka http://www.openstreetmap.org/?lat=50.075544&lon=14.459349
++DIV_11 http://www.openstreetmap.org/?lat=50.077847&lon=14.461001
+Flo +Flora http://www.openstreetmap.org/?lat=50.078016&lon=14.462085
+OlsHrb +OlsanskeHrbitovy http://www.openstreetmap.org/?lat=50.077954&lon=14.466923
+Zel +Zelivskeho http://www.openstreetmap.org/?lat=50.078594&lon=14.473393
+VinHrb +VinohradskeHrbitovy http://www.openstreetmap.org/?lat=50.077678&lon=14.480721
+KreStr +KrematoriumStrasnice http://www.openstreetmap.org/?lat=50.077239&lon=14.485114
+Vin +Vinice http://www.openstreetmap.org/?lat=50.076776&lon=14.489229
+Sol +Solidarita http://www.openstreetmap.org/?lat=50.076887&lon=14.494303
+ZboStrDiv +ZborovStrasnickeDivadlo http://www.openstreetmap.org/?lat=50.077300&lon=14.500655
+Lim +Limuzska http://www.openstreetmap.org/?lat=50.077582&lon=14.505225
+NoveStr +NoveStrasnice http://www.openstreetmap.org/?lat=50.077844&lon=14.510933
+DepoHos +DepoHostivar http://www.openstreetmap.org/?lat=50.076308&lon=14.516072
+MalTov +MalesickaTovarna http://www.openstreetmap.org/?lat=50.077231&lon=14.524752
+NaHom +NaHomoli http://www.openstreetmap.org/?lat=50.076253&lon=14.530438
+UstDilDP +UstredniDilnyDP http://www.openstreetmap.org/?lat=50.074487&lon=14.532380

@@ -1,12 +1,12 @@
-ChlumecNadCidlinou http://www.openstreetmap.org/?lat=50.163395&lon=15.457442
-+X483734 http://www.openstreetmap.org/?lat=50.161718&lon=15.461519
+ChlNadCid +ChlumecNadCidlinou http://www.openstreetmap.org/?lat=50.163395&lon=15.457442
++DIV_V51 http://www.openstreetmap.org/?lat=50.161718&lon=15.461519
 +X679092 http://www.openstreetmap.org/?lat=50.151434&lon=15.474479
-NoveMestoNadCidlinou http://www.openstreetmap.org/?lat=50.150225&lon=15.502245
-Karanice http://www.openstreetmap.org/?lat=50.155111&lon=15.561227
-Kratonohy http://www.openstreetmap.org/?lat=50.157542&lon=15.610961
-Dobrenice http://www.openstreetmap.org/?lat=50.159673&lon=15.656564
-Praskacka http://www.openstreetmap.org/?lat=50.175215&lon=15.731714
+NoveMesNadCid +NoveMestoNadCidlinou http://www.openstreetmap.org/?lat=50.150225&lon=15.502245
+Kar +Karanice http://www.openstreetmap.org/?lat=50.155111&lon=15.561227
+Kra +Kratonohy http://www.openstreetmap.org/?lat=50.157542&lon=15.610961
+Dob +Dobrenice http://www.openstreetmap.org/?lat=50.159673&lon=15.656564
+Pra +Praskacka http://www.openstreetmap.org/?lat=50.175215&lon=15.731714
 +X560664 http://www.openstreetmap.org/?lat=50.187593&lon=15.774854
-HradecKraloveKukleny http://www.openstreetmap.org/?lat=50.202290&lon=15.798512
-+X161249 http://www.openstreetmap.org/?lat=50.208841&lon=15.808028
-HradecKraloveHlavniNadrazi http://www.openstreetmap.org/?lat=50.214186&lon=15.810099
+HraKraKuk +HradecKraloveKukleny http://www.openstreetmap.org/?lat=50.202290&lon=15.798512
++DIV_V3 http://www.openstreetmap.org/?lat=50.208841&lon=15.808028
+HraKraHlaNad +HradecKraloveHlavniNadrazi http://www.openstreetmap.org/?lat=50.214186&lon=15.810099

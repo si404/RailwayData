@@ -1,12 +1,12 @@
-Postoloprty http://www.openstreetmap.org/?lat=50.360469&lon=13.691701
-+X468515 http://www.openstreetmap.org/?lat=50.362064&lon=13.694812
+Pos +Postoloprty http://www.openstreetmap.org/?lat=50.360469&lon=13.691701
++DIV_U13 http://www.openstreetmap.org/?lat=50.362064&lon=13.694812
 +X430294 http://www.openstreetmap.org/?lat=50.363245&lon=13.703642
 +X824611 http://www.openstreetmap.org/?lat=50.362916&lon=13.714886
-BreznoPostoloprt http://www.openstreetmap.org/?lat=50.351471&lon=13.722653
+BrePos +BreznoPostoloprt http://www.openstreetmap.org/?lat=50.351471&lon=13.722653
 +X895331 http://www.openstreetmap.org/?lat=50.344680&lon=13.741193
 +X236561 http://www.openstreetmap.org/?lat=50.348072&lon=13.769388
-+X512927 http://www.openstreetmap.org/?lat=50.347152&lon=13.773186
-LounyMesto http://www.openstreetmap.org/?lat=50.350212&lon=13.796382
-LounyStred http://www.openstreetmap.org/?lat=50.353635&lon=13.806295
-+X911841 http://www.openstreetmap.org/?lat=50.359877&lon=13.814878
-Louny http://www.openstreetmap.org/?lat=50.361328&lon=13.823290
++DIV_U12S http://www.openstreetmap.org/?lat=50.347152&lon=13.773186
+LouMes +LounyMesto http://www.openstreetmap.org/?lat=50.350212&lon=13.796382
+LouStr +LounyStred http://www.openstreetmap.org/?lat=50.353635&lon=13.806295
++DIV_U12N http://www.openstreetmap.org/?lat=50.359877&lon=13.814878
+Lou +Louny http://www.openstreetmap.org/?lat=50.361328&lon=13.823290

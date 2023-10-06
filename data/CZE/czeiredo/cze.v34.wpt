@@ -1,18 +1,18 @@
-TrutnovHlavniNadrazi http://www.openstreetmap.org/?lat=50.565180&lon=15.911121
-TrutnovStred http://www.openstreetmap.org/?lat=50.577861&lon=15.945218
-+X623403 http://www.openstreetmap.org/?lat=50.578556&lon=15.947299
-TrutnovZastavka http://www.openstreetmap.org/?lat=50.577902&lon=15.960710
-LhotaTrutnova http://www.openstreetmap.org/?lat=50.586602&lon=15.986524
-Petrikovice http://www.openstreetmap.org/?lat=50.601831&lon=16.004119
-Chvalec http://www.openstreetmap.org/?lat=50.599243&lon=16.038108
-Radvanice http://www.openstreetmap.org/?lat=50.575320&lon=16.060038
+TruHlaNad +TrutnovHlavniNadrazi http://www.openstreetmap.org/?lat=50.565180&lon=15.911121
+TruStr +TrutnovStred http://www.openstreetmap.org/?lat=50.577861&lon=15.945218
++DIV_V4 http://www.openstreetmap.org/?lat=50.578556&lon=15.947299
+TruZas +TrutnovZastavka http://www.openstreetmap.org/?lat=50.577902&lon=15.960710
+LhoTru +LhotaTrutnova http://www.openstreetmap.org/?lat=50.586602&lon=15.986524
+Pet +Petrikovice http://www.openstreetmap.org/?lat=50.601831&lon=16.004119
+Chv +Chvalec http://www.openstreetmap.org/?lat=50.599243&lon=16.038108
+Rad +Radvanice http://www.openstreetmap.org/?lat=50.575320&lon=16.060038
 +X646278 http://www.openstreetmap.org/?lat=50.572976&lon=16.092825
-JanoviceTrutnova http://www.openstreetmap.org/?lat=50.586956&lon=16.084757
-HodkoviceTrutnova http://www.openstreetmap.org/?lat=50.604854&lon=16.071882
-HorniAdrspach http://www.openstreetmap.org/?lat=50.623133&lon=16.082976
-Adrspach http://www.openstreetmap.org/?lat=50.615394&lon=16.124883
+JanTru +JanoviceTrutnova http://www.openstreetmap.org/?lat=50.586956&lon=16.084757
+HodTru +HodkoviceTrutnova http://www.openstreetmap.org/?lat=50.604854&lon=16.071882
+HorAdr +HorniAdrspach http://www.openstreetmap.org/?lat=50.623133&lon=16.082976
+Adr +Adrspach http://www.openstreetmap.org/?lat=50.615394&lon=16.124883
 +X415279 http://www.openstreetmap.org/?lat=50.609984&lon=16.147939
-TepliceNadMetujiSkaly http://www.openstreetmap.org/?lat=50.596948&lon=16.149795
-TepliceNadMetujiMesto http://www.openstreetmap.org/?lat=50.592766&lon=16.172411
-+X546151 http://www.openstreetmap.org/?lat=50.582957&lon=16.180973
-TepliceNadMetuji http://www.openstreetmap.org/?lat=50.581595&lon=16.178677
+TepNadMetSka +TepliceNadMetujiSkaly http://www.openstreetmap.org/?lat=50.596948&lon=16.149795
+TepNadMetMes +TepliceNadMetujiMesto http://www.openstreetmap.org/?lat=50.592766&lon=16.172411
++DIV_V3 http://www.openstreetmap.org/?lat=50.582957&lon=16.180973
+TepNadMet +TepliceNadMetuji http://www.openstreetmap.org/?lat=50.581595&lon=16.178677

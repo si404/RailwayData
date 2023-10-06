@@ -1,19 +1,19 @@
-Turnov http://www.openstreetmap.org/?lat=50.587038&lon=15.138860
-+X267097 http://www.openstreetmap.org/?lat=50.589435&lon=15.131950
-Prisovice http://www.openstreetmap.org/?lat=50.579135&lon=15.078735
+Tur +Turnov http://www.openstreetmap.org/?lat=50.587038&lon=15.138860
++DIV_L3 http://www.openstreetmap.org/?lat=50.589435&lon=15.131950
+Pri +Prisovice http://www.openstreetmap.org/?lat=50.579135&lon=15.078735
 +X585361 http://www.openstreetmap.org/?lat=50.573521&lon=15.062385
-LoukovMnichovaHradiste http://www.openstreetmap.org/?lat=50.558719&lon=15.056634
-BrezinaNadJizerou http://www.openstreetmap.org/?lat=50.545604&lon=15.036120
-MnichovoHradiste http://www.openstreetmap.org/?lat=50.518352&lon=14.978399
+LouMniHra +LoukovMnichovaHradiste http://www.openstreetmap.org/?lat=50.558719&lon=15.056634
+BreNadJis +BrezinaNadJizerou http://www.openstreetmap.org/?lat=50.545604&lon=15.036120
+MniHra MnichovoHradiste http://www.openstreetmap.org/?lat=50.518352&lon=14.978399
 +X875169 http://www.openstreetmap.org/?lat=50.497343&lon=14.974151
-+X742031 http://www.openstreetmap.org/?lat=50.484504&lon=14.950161
-BakovNadJizerouMesto http://www.openstreetmap.org/?lat=50.478906&lon=14.939132
-+X613484 http://www.openstreetmap.org/?lat=50.474509&lon=14.925828
-BakovNadJizerou http://www.openstreetmap.org/?lat=50.472187&lon=14.922824
++DIV_S35 http://www.openstreetmap.org/?lat=50.484504&lon=14.950161
+BakNadJizMes BakovNadJizerouMesto http://www.openstreetmap.org/?lat=50.478906&lon=14.939132
++DIV_L4 http://www.openstreetmap.org/?lat=50.474509&lon=14.925828
+BakNadJiz BakovNadJizerou http://www.openstreetmap.org/?lat=50.472187&lon=14.922824
 +X860824 http://www.openstreetmap.org/?lat=50.458911&lon=14.907546
 +X638185 http://www.openstreetmap.org/?lat=50.459218&lon=14.891624
-MladaBoleslavDebr http://www.openstreetmap.org/?lat=50.447653&lon=14.887161
-+X713246_A http://www.openstreetmap.org/?lat=50.417084&lon=14.895980
-MladaBoleslavHlavniNadrazi http://www.openstreetmap.org/?lat=50.407318&lon=14.887269
-+X713246_B http://www.openstreetmap.org/?lat=50.417084&lon=14.895980
-MladaBoleslavMesto http://www.openstreetmap.org/?lat=50.419162&lon=14.916129
+MlaBolDebr MladaBoleslavDebr http://www.openstreetmap.org/?lat=50.447653&lon=14.887161
++DIV_S36 http://www.openstreetmap.org/?lat=50.417084&lon=14.895980
+MlaBolHlaNad MladaBoleslavHlavniNadrazi http://www.openstreetmap.org/?lat=50.407318&lon=14.887269
++DIV_S30 http://www.openstreetmap.org/?lat=50.417084&lon=14.895980
+MlaBolMes MladaBoleslavMesto http://www.openstreetmap.org/?lat=50.419162&lon=14.916129

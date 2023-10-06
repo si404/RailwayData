@@ -1,10 +1,10 @@
-NymburkHlavniNadrazi http://www.openstreetmap.org/?lat=50.193262&lon=15.045905
-+X286035 http://www.openstreetmap.org/?lat=50.194807&lon=15.038588
+NymHlaNad +NymburkHlavniNadrazi http://www.openstreetmap.org/?lat=50.193262&lon=15.045905
++DIV_S2 http://www.openstreetmap.org/?lat=50.194807&lon=15.038588
 +X169825 http://www.openstreetmap.org/?lat=50.192815&lon=15.033427
-NymburkMesto http://www.openstreetmap.org/?lat=50.184524&lon=15.033503
-Horatev http://www.openstreetmap.org/?lat=50.153242&lon=15.029383
-Sadska http://www.openstreetmap.org/?lat=50.131322&lon=14.986639
+NymMes +NymburkMesto http://www.openstreetmap.org/?lat=50.184524&lon=15.033503
+Hor +Horatev http://www.openstreetmap.org/?lat=50.153242&lon=15.029383
+Sad +Sadska http://www.openstreetmap.org/?lat=50.131322&lon=14.986639
 +X890067 http://www.openstreetmap.org/?lat=50.132312&lon=14.967842
-Trebestovice http://www.openstreetmap.org/?lat=50.125600&lon=14.960718
-+X946548 http://www.openstreetmap.org/?lat=50.110706&lon=14.934433
-Poricany http://www.openstreetmap.org/?lat=50.111174&lon=14.922137
+Tre +Trebestovice http://www.openstreetmap.org/?lat=50.125600&lon=14.960718
++DIV_S1 http://www.openstreetmap.org/?lat=50.110706&lon=14.934433
+Por +Poricany http://www.openstreetmap.org/?lat=50.111174&lon=14.922137

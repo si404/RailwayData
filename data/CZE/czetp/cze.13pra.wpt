@@ -1,16 +1,16 @@
-OlsanskeHrbitovy http://www.openstreetmap.org/?lat=50.077954&lon=14.466923
-Flora http://www.openstreetmap.org/?lat=50.078016&lon=14.462085
-+X663253 http://www.openstreetmap.org/?lat=50.077847&lon=14.461001
-Radhostska http://www.openstreetmap.org/?lat=50.077627&lon=14.457471
-JirihoPodebrad http://www.openstreetmap.org/?lat=50.077269&lon=14.448963
-VinohradskaTrznice http://www.openstreetmap.org/?lat=50.077048&lon=14.442022
-Italska http://www.openstreetmap.org/?lat=50.078081&lon=14.436100
-Muzeum http://www.openstreetmap.org/?lat=50.079462&lon=14.431760
+OlsHrb +OlsanskeHrbitovy http://www.openstreetmap.org/?lat=50.077954&lon=14.466923
+Flo +Flora http://www.openstreetmap.org/?lat=50.078016&lon=14.462085
++DIV_10 http://www.openstreetmap.org/?lat=50.077847&lon=14.461001
+Rad +Radhostska http://www.openstreetmap.org/?lat=50.077627&lon=14.457471
+JirPod +JirihoPodebrad http://www.openstreetmap.org/?lat=50.077269&lon=14.448963
+VinTrz +VinohradskaTrznice http://www.openstreetmap.org/?lat=50.077048&lon=14.442022
+Ita +Italska http://www.openstreetmap.org/?lat=50.078081&lon=14.436100
+Muz +Muzeum http://www.openstreetmap.org/?lat=50.079462&lon=14.431760
 +X707098 http://www.openstreetmap.org/?lat=50.078205&lon=14.431443
-IPPavlova http://www.openstreetmap.org/?lat=50.075320&lon=14.430317
-NamestiMiru http://www.openstreetmap.org/?lat=50.075225&lon=14.437918
-JanaMasaryka http://www.openstreetmap.org/?lat=50.073285&lon=14.441110
-Krymska http://www.openstreetmap.org/?lat=50.071929&lon=14.447322
-Ruska http://www.openstreetmap.org/?lat=50.071433&lon=14.451259
-VrsovickeNamesti http://www.openstreetmap.org/?lat=50.069071&lon=14.454982
-CechovoNamesti http://www.openstreetmap.org/?lat=50.068114&lon=14.458523
+IPPav +IPPavlova http://www.openstreetmap.org/?lat=50.075320&lon=14.430317
+NamMiru +NamestiMiru http://www.openstreetmap.org/?lat=50.075225&lon=14.437918
+JanaMas +JanaMasaryka http://www.openstreetmap.org/?lat=50.073285&lon=14.441110
+Kry +Krymska http://www.openstreetmap.org/?lat=50.071929&lon=14.447322
+Rus +Ruska http://www.openstreetmap.org/?lat=50.071433&lon=14.451259
+VrsNam +VrsovickeNamesti http://www.openstreetmap.org/?lat=50.069071&lon=14.454982
+CecNam +CechovoNamesti http://www.openstreetmap.org/?lat=50.068114&lon=14.458523

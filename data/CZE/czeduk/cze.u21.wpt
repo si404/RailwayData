@@ -1,13 +1,13 @@
-RoudniceNadLabem http://www.openstreetmap.org/?lat=50.426521&lon=14.264299
-RoudniceNadLabemBezdekov http://www.openstreetmap.org/?lat=50.428669&lon=14.282060
+RouNadLab +RoudniceNadLabem http://www.openstreetmap.org/?lat=50.426521&lon=14.264299
+RouNadLabBez +RoudniceNadLabemBezdekov http://www.openstreetmap.org/?lat=50.428669&lon=14.282060
 +X470870 http://www.openstreetmap.org/?lat=50.425964&lon=14.287591
-RoudniceNadLabemMesto http://www.openstreetmap.org/?lat=50.421664&lon=14.258730
-RoudniceNadLabemHracholusky http://www.openstreetmap.org/?lat=50.416954&lon=14.253109
+RouNadLabMes +RoudniceNadLabemMesto http://www.openstreetmap.org/?lat=50.421664&lon=14.258730
+RouNadLabHra +RoudniceNadLabemHracholusky http://www.openstreetmap.org/?lat=50.416954&lon=14.253109
 +X207126 http://www.openstreetmap.org/?lat=50.405358&lon=14.254332
-Klenec http://www.openstreetmap.org/?lat=50.394334&lon=14.246821
+Kle +Klenec http://www.openstreetmap.org/?lat=50.394334&lon=14.246821
 +X598983 http://www.openstreetmap.org/?lat=50.385606&lon=14.243646
-Vrazkov http://www.openstreetmap.org/?lat=50.367433&lon=14.264288
-+X549696 http://www.openstreetmap.org/?lat=50.359953&lon=14.258838
-Straskov http://www.openstreetmap.org/?lat=50.361773&lon=14.242144
-+X599185 http://www.openstreetmap.org/?lat=50.360651&lon=14.237552
-BrizaObec http://www.openstreetmap.org/?lat=50.363566&lon=14.218519
+Vra +Vrazkov http://www.openstreetmap.org/?lat=50.367433&lon=14.264288
++DIV_U22 http://www.openstreetmap.org/?lat=50.359953&lon=14.258838
+Str +Straskov http://www.openstreetmap.org/?lat=50.361773&lon=14.242144
++DIV_S46 http://www.openstreetmap.org/?lat=50.360651&lon=14.237552
+BriObec +BrizaObec http://www.openstreetmap.org/?lat=50.363566&lon=14.218519

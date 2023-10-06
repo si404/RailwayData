@@ -1,12 +1,12 @@
-LedecSazavou http://www.openstreetmap.org/?lat=49.698109&lon=15.270073
-HorniLedec http://www.openstreetmap.org/?lat=49.695916&lon=15.283442
+LedSaz +LedecSazavou http://www.openstreetmap.org/?lat=49.698109&lon=15.270073
+HorLed +HorniLedec http://www.openstreetmap.org/?lat=49.695916&lon=15.283442
 +X992375 http://www.openstreetmap.org/?lat=49.684054&lon=15.291338
 +X941610 http://www.openstreetmap.org/?lat=49.688844&lon=15.310864
-Vilemovice http://www.openstreetmap.org/?lat=49.684769&lon=15.309234
-Stvoridla http://www.openstreetmap.org/?lat=49.670503&lon=15.319490
-Smrcna http://www.openstreetmap.org/?lat=49.660621&lon=15.348952
-Mrzkovice http://www.openstreetmap.org/?lat=49.657037&lon=15.373628
-DolniBrezinka http://www.openstreetmap.org/?lat=49.661413&lon=15.380495
-SvetlaNadSazavouMesto http://www.openstreetmap.org/?lat=49.668996&lon=15.400622
-+X882251 http://www.openstreetmap.org/?lat=49.672231&lon=15.412059
-SvetlaNadSazavou http://www.openstreetmap.org/?lat=49.670482&lon=15.417252
+Vil +Vilemovice http://www.openstreetmap.org/?lat=49.684769&lon=15.309234
+Stv +Stvoridla http://www.openstreetmap.org/?lat=49.670503&lon=15.319490
+Smr +Smrcna http://www.openstreetmap.org/?lat=49.660621&lon=15.348952
+Mrz +Mrzkovice http://www.openstreetmap.org/?lat=49.657037&lon=15.373628
+DolBre +DolniBrezinka http://www.openstreetmap.org/?lat=49.661413&lon=15.380495
+SveNadSazMes +SvetlaNadSazavouMesto http://www.openstreetmap.org/?lat=49.668996&lon=15.400622
++DIV_S20 http://www.openstreetmap.org/?lat=49.672231&lon=15.412059
+SveNadSaz +SvetlaNadSazavou http://www.openstreetmap.org/?lat=49.670482&lon=15.417252

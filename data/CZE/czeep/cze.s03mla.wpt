@@ -1,19 +1,45 @@
-MladaBoleslavMesto http://www.openstreetmap.org/?lat=50.419162&lon=14.916129
-+X713246 http://www.openstreetmap.org/?lat=50.417084&lon=14.895980
-MladaBoleslavHlavniNadrazi http://www.openstreetmap.org/?lat=50.407318&lon=14.887269
-+X841049 http://www.openstreetmap.org/?lat=50.406938&lon=14.879351
-+X503595 http://www.openstreetmap.org/?lat=50.405352&lon=14.876175
-Krnsko http://www.openstreetmap.org/?lat=50.376856&lon=14.869276
+MlaBolMes +MladaBoleslavMesto http://www.openstreetmap.org/?lat=50.419162&lon=14.916129
++DIV_S30 http://www.openstreetmap.org/?lat=50.417084&lon=14.895980
+MlaBolHlaNad +MladaBoleslavHlavniNadrazi http://www.openstreetmap.org/?lat=50.407318&lon=14.887269
++DIV_S31 http://www.openstreetmap.org/?lat=50.406938&lon=14.879351
++DIV_S33 http://www.openstreetmap.org/?lat=50.405352&lon=14.876175
+Krn +Krnsko http://www.openstreetmap.org/?lat=50.376856&lon=14.869276
 +X639298 http://www.openstreetmap.org/?lat=50.352266&lon=14.854503
 +X931412 http://www.openstreetmap.org/?lat=50.359385&lon=14.836049
-Chotetov http://www.openstreetmap.org/?lat=50.339757&lon=14.810493
-ZdetinChotetova http://www.openstreetmap.org/?lat=50.315449&lon=14.786096
+Cho +Chotetov http://www.openstreetmap.org/?lat=50.339757&lon=14.810493
+ZdeCho +ZdetinChotetova http://www.openstreetmap.org/?lat=50.315449&lon=14.786096
 +X347129 http://www.openstreetmap.org/?lat=50.313585&lon=14.751334
-KropacovaVrutice http://www.openstreetmap.org/?lat=50.323560&lon=14.701338
-Kosatky http://www.openstreetmap.org/?lat=50.316929&lon=14.670267
-Kojovice http://www.openstreetmap.org/?lat=50.307172&lon=14.656405
+KroVru +KropacovaVrutice http://www.openstreetmap.org/?lat=50.323560&lon=14.701338
+Kos +Kosatky http://www.openstreetmap.org/?lat=50.316929&lon=14.670267
+Koj +Kojovice http://www.openstreetmap.org/?lat=50.307172&lon=14.656405
 +X728665 http://www.openstreetmap.org/?lat=50.301306&lon=14.636965
-Bysice http://www.openstreetmap.org/?lat=50.305637&lon=14.603963
+Bys +Bysice http://www.openstreetmap.org/?lat=50.305637&lon=14.603963
 +X521597 http://www.openstreetmap.org/?lat=50.303794&lon=14.594597
-+X226557 http://www.openstreetmap.org/?lat=50.285452&lon=14.587548
-Vsetaty http://www.openstreetmap.org/?lat=50.282436&lon=14.584951
++DIV_S32N http://www.openstreetmap.org/?lat=50.285452&lon=14.587548
+Vse +Vsetaty http://www.openstreetmap.org/?lat=50.282436&lon=14.584951
++DIV_S32S http://www.openstreetmap.org/?lat=50.279255&lon=14.579458
+Tis http://www.openstreetmap.org/?lat=50.267447&lon=14.556670
++DIV_S23 http://www.openstreetmap.org/?lat=50.262084&lon=14.522424
+Ner http://www.openstreetmap.org/?lat=50.262687&lon=14.517510
++DIV_S43 http://www.openstreetmap.org/?lat=50.263167&lon=14.513261
+NerSid http://www.openstreetmap.org/?lat=50.257817&lon=14.507575
+KojPra http://www.openstreetmap.org/?lat=50.237331&lon=14.499228
++X867102 http://www.openstreetmap.org/?lat=50.225430&lon=14.495301
+Zlo http://www.openstreetmap.org/?lat=50.214845&lon=14.507489
+MesPra http://www.openstreetmap.org/?lat=50.204580&lon=14.513669
+Hov http://www.openstreetmap.org/?lat=50.180485&lon=14.527659
++X315957 http://www.openstreetmap.org/?lat=50.154459&lon=14.512124
+PraCak http://www.openstreetmap.org/?lat=50.148719&lon=14.519634
+PraKbe http://www.openstreetmap.org/?lat=50.134816&lon=14.555812
+PraSat http://www.openstreetmap.org/?lat=50.122979&lon=14.570789
++X327006 http://www.openstreetmap.org/?lat=50.118108&lon=14.579673
++DIV_S2 http://www.openstreetmap.org/?lat=50.113300&lon=14.574523
++X826163 http://www.openstreetmap.org/?lat=50.107148&lon=14.555125
++X900366 http://www.openstreetmap.org/?lat=50.113767&lon=14.516845
+PraVys http://www.openstreetmap.org/?lat=50.112151&lon=14.497447
++DIV_S49W http://www.openstreetmap.org/?lat=50.107114&lon=14.479980
++DIV_S49E http://www.openstreetmap.org/?lat=50.104320&lon=14.480410
++X573010 http://www.openstreetmap.org/?lat=50.096034&lon=14.474509
++X639169 http://www.openstreetmap.org/?lat=50.091874&lon=14.461302
++DIV_S4 http://www.openstreetmap.org/?lat=50.087936&lon=14.439093
+PraMasNad http://www.openstreetmap.org/?lat=50.087716&lon=14.433439

@@ -1,35 +1,35 @@
-HlavniNadrazi http://www.openstreetmap.org/?lat=50.083172&lon=14.435349
-+X846294 http://www.openstreetmap.org/?lat=50.070190&lon=14.436421
-+X406947 http://www.openstreetmap.org/?lat=50.066774&lon=14.440584
-PrahaVrsovice http://www.openstreetmap.org/?lat=50.064722&lon=14.447000
-+X425922 http://www.openstreetmap.org/?lat=50.062463&lon=14.454961
+HlaNad +HlavniNadrazi http://www.openstreetmap.org/?lat=50.083172&lon=14.435349
++DIV_S7 http://www.openstreetmap.org/?lat=50.070190&lon=14.436421
++DIV_S61 http://www.openstreetmap.org/?lat=50.066774&lon=14.440584
+PraVrs +PrahaVrsovice http://www.openstreetmap.org/?lat=50.064722&lon=14.447000
++DIV_S9 http://www.openstreetmap.org/?lat=50.062463&lon=14.454961
 +X955767 http://www.openstreetmap.org/?lat=50.052654&lon=14.464638
-+X557080 http://www.openstreetmap.org/?lat=50.046041&lon=14.469101
-Kacerov http://www.openstreetmap.org/?lat=50.041493&lon=14.461462
-PrahaKrc http://www.openstreetmap.org/?lat=50.034175&lon=14.446614
-+X146403 http://www.openstreetmap.org/?lat=50.031377&lon=14.416916
-PrahaBranik http://www.openstreetmap.org/?lat=50.027855&lon=14.406896
++DIV_S71N http://www.openstreetmap.org/?lat=50.046041&lon=14.469101
+Kac +Kacerov http://www.openstreetmap.org/?lat=50.041493&lon=14.461462
+PraKrc +PrahaKrc http://www.openstreetmap.org/?lat=50.034175&lon=14.446614
++DIV_S71S http://www.openstreetmap.org/?lat=50.031377&lon=14.416916
+PraBra +PrahaBranik http://www.openstreetmap.org/?lat=50.027855&lon=14.406896
 +X370630 http://www.openstreetmap.org/?lat=50.016302&lon=14.399300
-PrahaModranyZastavka http://www.openstreetmap.org/?lat=50.003919&lon=14.402947
-PrahaKomorany http://www.openstreetmap.org/?lat=49.990236&lon=14.404321
-PrahaZbraslav http://www.openstreetmap.org/?lat=49.970173&lon=14.399772
-DolniBrezanyJarov http://www.openstreetmap.org/?lat=49.947009&lon=14.397111
-VraneNadVitavou http://www.openstreetmap.org/?lat=49.938502&lon=14.381104
-Skochovice http://www.openstreetmap.org/?lat=49.924711&lon=14.376233
-+X629811 http://www.openstreetmap.org/?lat=49.920497&lon=14.377928
-Mechenice http://www.openstreetmap.org/?lat=49.911067&lon=14.383507
-Klinec http://www.openstreetmap.org/?lat=49.896832&lon=14.359775
-Bojov http://www.openstreetmap.org/?lat=49.880381&lon=14.348745
-Bojanovice http://www.openstreetmap.org/?lat=49.867769&lon=14.344969
-Cisovice http://www.openstreetmap.org/?lat=49.858197&lon=14.319520
-Rymane http://www.openstreetmap.org/?lat=49.857295&lon=14.281561
-MnisekPodBrdy http://www.openstreetmap.org/?lat=49.853722&lon=14.269760
+PraModZas +PrahaModranyZastavka http://www.openstreetmap.org/?lat=50.003919&lon=14.402947
+PraKom +PrahaKomorany http://www.openstreetmap.org/?lat=49.990236&lon=14.404321
+PraZbr +PrahaZbraslav http://www.openstreetmap.org/?lat=49.970173&lon=14.399772
+DolBreJar +DolniBrezanyJarov http://www.openstreetmap.org/?lat=49.947009&lon=14.397111
+VraNadVit +VraneNadVitavou http://www.openstreetmap.org/?lat=49.938502&lon=14.381104
+Sko +Skochovice http://www.openstreetmap.org/?lat=49.924711&lon=14.376233
++DIV_S8 http://www.openstreetmap.org/?lat=49.920497&lon=14.377928
+Mec +Mechenice http://www.openstreetmap.org/?lat=49.911067&lon=14.383507
+Kli +Klinec http://www.openstreetmap.org/?lat=49.896832&lon=14.359775
+Bojo +Bojov http://www.openstreetmap.org/?lat=49.880381&lon=14.348745
+Boja +Bojanovice http://www.openstreetmap.org/?lat=49.867769&lon=14.344969
+Cis +Cisovice http://www.openstreetmap.org/?lat=49.858197&lon=14.319520
+Rym +Rymane http://www.openstreetmap.org/?lat=49.857295&lon=14.281561
+MniPodBrdy +MnisekPodBrdy http://www.openstreetmap.org/?lat=49.853722&lon=14.269760
 +X684755 http://www.openstreetmap.org/?lat=49.844341&lon=14.254181
-NovaVesPodPlesi http://www.openstreetmap.org/?lat=49.827346&lon=14.270103
+NovaVesPodPle +NovaVesPodPlesi http://www.openstreetmap.org/?lat=49.827346&lon=14.270103
 +X920657 http://www.openstreetmap.org/?lat=49.810414&lon=14.276068
-MalaHrastice http://www.openstreetmap.org/?lat=49.809486&lon=14.268622
+MalaHra +MalaHrastice http://www.openstreetmap.org/?lat=49.809486&lon=14.268622
 +X771957 http://www.openstreetmap.org/?lat=49.805055&lon=14.239783
-Mokrovraty http://www.openstreetmap.org/?lat=49.796468&lon=14.236479
+Mok +Mokrovraty http://www.openstreetmap.org/?lat=49.796468&lon=14.236479
 +X152418 http://www.openstreetmap.org/?lat=49.782352&lon=14.208477
-StaraHut http://www.openstreetmap.org/?lat=49.785261&lon=14.199164
-Dobris http://www.openstreetmap.org/?lat=49.789930&lon=14.182963
+StaHut +StaraHut http://www.openstreetmap.org/?lat=49.785261&lon=14.199164
+Dob +Dobris http://www.openstreetmap.org/?lat=49.789930&lon=14.182963

@@ -1,35 +1,35 @@
-Doksy http://www.openstreetmap.org/?lat=50.573460&lon=14.647243
-StareSplavy http://www.openstreetmap.org/?lat=50.587372&lon=14.629304
+Dok +Doksy http://www.openstreetmap.org/?lat=50.573460&lon=14.647243
+StaSpl +StareSplavy http://www.openstreetmap.org/?lat=50.587372&lon=14.629304
 +X444993 http://www.openstreetmap.org/?lat=50.606951&lon=14.616880
-+Jestrebi http://www.openstreetmap.org/?lat=50.614577&lon=14.599113
++SKIP_Jes http://www.openstreetmap.org/?lat=50.614577&lon=14.599113
 +X199476 http://www.openstreetmap.org/?lat=50.631348&lon=14.579587
-+SrniCeskeLipy http://www.openstreetmap.org/?lat=50.636959&lon=14.584479
-+X477960 http://www.openstreetmap.org/?lat=50.655161&lon=14.577527
-+X935126 http://www.openstreetmap.org/?lat=50.662187&lon=14.578943
-+ViciDulDobranov http://www.openstreetmap.org/?lat=50.671156&lon=14.607310
++SKIP_SrniCesLipy http://www.openstreetmap.org/?lat=50.636959&lon=14.584479
++DIV_L4 http://www.openstreetmap.org/?lat=50.655161&lon=14.577527
++DIV_L2 http://www.openstreetmap.org/?lat=50.662187&lon=14.578943
++SKIP_ViciDulDob http://www.openstreetmap.org/?lat=50.671156&lon=14.607310
 +X762967 http://www.openstreetmap.org/?lat=50.683013&lon=14.639282
-+ZakupyBozikov http://www.openstreetmap.org/?lat=50.678690&lon=14.649839
++SKIP_ZakBoz http://www.openstreetmap.org/?lat=50.678690&lon=14.649839
 +X241803 http://www.openstreetmap.org/?lat=50.657963&lon=14.679365
-Minon http://www.openstreetmap.org/?lat=50.657963&lon=14.714642
-+PertolticePodRalskem http://www.openstreetmap.org/?lat=50.677330&lon=14.718375
+Min +Minon http://www.openstreetmap.org/?lat=50.657963&lon=14.714642
++SKIP_PerPodRal http://www.openstreetmap.org/?lat=50.677330&lon=14.718375
 +X820324 http://www.openstreetmap.org/?lat=50.706895&lon=14.733717
-+Brniste http://www.openstreetmap.org/?lat=50.716542&lon=14.728718
++SKIP_Brn http://www.openstreetmap.org/?lat=50.716542&lon=14.728718
 +X977125 http://www.openstreetmap.org/?lat=50.735572&lon=14.722238
-+VelkyValtinov http://www.openstreetmap.org/?lat=50.742525&lon=14.733310
-JablonnePodjestedi http://www.openstreetmap.org/?lat=50.769376&lon=14.758158
-Lvova http://www.openstreetmap.org/?lat=50.780971&lon=14.787898
-Rynoltice http://www.openstreetmap.org/?lat=50.786940&lon=14.826651
++SKIP_VelVal http://www.openstreetmap.org/?lat=50.742525&lon=14.733310
+JabPod +JablonnePodjestedi http://www.openstreetmap.org/?lat=50.769376&lon=14.758158
+Lvo +Lvova http://www.openstreetmap.org/?lat=50.780971&lon=14.787898
+Ryn +Rynoltice http://www.openstreetmap.org/?lat=50.786940&lon=14.826651
 +X943414 http://www.openstreetmap.org/?lat=50.790569&lon=14.835663
-+Zdislava http://www.openstreetmap.org/?lat=50.770136&lon=14.876690
-Krizany http://www.openstreetmap.org/?lat=50.751432&lon=14.918661
-+Novina http://www.openstreetmap.org/?lat=50.760011&lon=14.941750
-KrystofovoUdoli http://www.openstreetmap.org/?lat=50.771954&lon=14.941878
++SKIP_Zdi http://www.openstreetmap.org/?lat=50.770136&lon=14.876690
+Kri +Krizany http://www.openstreetmap.org/?lat=50.751432&lon=14.918661
++SKIP_Nov http://www.openstreetmap.org/?lat=50.760011&lon=14.941750
+KryUdo +KrystofovoUdoli http://www.openstreetmap.org/?lat=50.771954&lon=14.941878
 +X870080 http://www.openstreetmap.org/?lat=50.778196&lon=14.965267
-+KarlovPodJestedem http://www.openstreetmap.org/?lat=50.773691&lon=14.983678
-+Ostasov http://www.openstreetmap.org/?lat=50.763404&lon=15.012045
-LiberecHorniRuzodol http://www.openstreetmap.org/?lat=50.753556&lon=15.032945
++SKIP_KarPodJes http://www.openstreetmap.org/?lat=50.773691&lon=14.983678
++SKIP_Ost http://www.openstreetmap.org/?lat=50.763404&lon=15.012045
+LibHorRuz +LiberecHorniRuzodol http://www.openstreetmap.org/?lat=50.753556&lon=15.032945
 +X841884 http://www.openstreetmap.org/?lat=50.752321&lon=15.044403
 +X334623 http://www.openstreetmap.org/?lat=50.746375&lon=15.042107
 +X921423 http://www.openstreetmap.org/?lat=50.745831&lon=15.048480
-+X385091 http://www.openstreetmap.org/?lat=50.752016&lon=15.052021
-Liberec http://www.openstreetmap.org/?lat=50.761117&lon=15.046077
++DIV_L1 http://www.openstreetmap.org/?lat=50.752016&lon=15.052021
+Lib +Liberec http://www.openstreetmap.org/?lat=50.761117&lon=15.046077

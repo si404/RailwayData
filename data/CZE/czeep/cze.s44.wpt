@@ -1,7 +1,7 @@
-Velvary http://www.openstreetmap.org/?lat=50.282196&lon=14.243174
-VelkaBucina http://www.openstreetmap.org/?lat=50.265924&lon=14.240406
-OlovniceZastavka http://www.openstreetmap.org/?lat=50.246581&lon=14.253817
-+X338363 http://www.openstreetmap.org/?lat=50.232004&lon=14.279475
-KralupyNadVltavouPredmesti http://www.openstreetmap.org/?lat=50.231838&lon=14.283643
-+X159510 http://www.openstreetmap.org/?lat=50.233574&lon=14.297451
-KralupyNadVltavou http://www.openstreetmap.org/?lat=50.238782&lon=14.311538
+Vel +Velvary http://www.openstreetmap.org/?lat=50.282196&lon=14.243174
+VelBuc +VelkaBucina http://www.openstreetmap.org/?lat=50.265924&lon=14.240406
+OloZas +OlovniceZastavka http://www.openstreetmap.org/?lat=50.246581&lon=14.253817
++DIV_S40 http://www.openstreetmap.org/?lat=50.232004&lon=14.279475
+KraNadVltPre +KralupyNadVltavouPredmesti http://www.openstreetmap.org/?lat=50.231838&lon=14.283643
++DIV_S45 http://www.openstreetmap.org/?lat=50.233574&lon=14.297451
+KraNadVlt +KralupyNadVltavou http://www.openstreetmap.org/?lat=50.238782&lon=14.311538

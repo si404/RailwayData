@@ -1,15 +1,15 @@
-Kladno http://www.openstreetmap.org/?lat=50.128034&lon=14.113569
-+X261960 http://www.openstreetmap.org/?lat=50.128708&lon=14.105544
-KladnoMesto http://www.openstreetmap.org/?lat=50.141940&lon=14.083786
-KladnoOstrovec http://www.openstreetmap.org/?lat=50.147605&lon=14.087090
-KladnoSvermov http://www.openstreetmap.org/?lat=50.161546&lon=14.114900
-KladnoDubi http://www.openstreetmap.org/?lat=50.163292&lon=14.130049
-KladnoVrapice http://www.openstreetmap.org/?lat=50.166274&lon=14.153953
-Brandysek http://www.openstreetmap.org/?lat=50.184167&lon=14.173093
-Dretovice http://www.openstreetmap.org/?lat=50.189196&lon=14.201589
+Kla +Kladno http://www.openstreetmap.org/?lat=50.128034&lon=14.113569
++DIV_S50 http://www.openstreetmap.org/?lat=50.128708&lon=14.105544
+KlaMes +KladnoMesto http://www.openstreetmap.org/?lat=50.141940&lon=14.083786
+KlaOst +KladnoOstrovec http://www.openstreetmap.org/?lat=50.147605&lon=14.087090
+KlaSve +KladnoSvermov http://www.openstreetmap.org/?lat=50.161546&lon=14.114900
+KlaDubi +KladnoDubi http://www.openstreetmap.org/?lat=50.163292&lon=14.130049
+KlaVra +KladnoVrapice http://www.openstreetmap.org/?lat=50.166274&lon=14.153953
+Bra +Brandysek http://www.openstreetmap.org/?lat=50.184167&lon=14.173093
+Dre +Dretovice http://www.openstreetmap.org/?lat=50.189196&lon=14.201589
 +X101986 http://www.openstreetmap.org/?lat=50.191476&lon=14.236050
-Zakolany http://www.openstreetmap.org/?lat=50.199691&lon=14.251542
-Otvovice http://www.openstreetmap.org/?lat=50.210266&lon=14.270339
-KralupyNadVltavouMinice http://www.openstreetmap.org/?lat=50.224518&lon=14.297976
-+X159510 http://www.openstreetmap.org/?lat=50.233574&lon=14.297451
-KralupyNadVltavou http://www.openstreetmap.org/?lat=50.238782&lon=14.311538
+Zak +Zakolany http://www.openstreetmap.org/?lat=50.199691&lon=14.251542
+Otv +Otvovice http://www.openstreetmap.org/?lat=50.210266&lon=14.270339
+KraNadVltMin +KralupyNadVltavouMinice http://www.openstreetmap.org/?lat=50.224518&lon=14.297976
++DIV_S40 http://www.openstreetmap.org/?lat=50.233574&lon=14.297451
+KraNadVlt +KralupyNadVltavou http://www.openstreetmap.org/?lat=50.238782&lon=14.311538

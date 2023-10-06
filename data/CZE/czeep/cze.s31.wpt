@@ -1,17 +1,17 @@
-MladaBoleslavMesto http://www.openstreetmap.org/?lat=50.419162&lon=14.916129
-+X713246 http://www.openstreetmap.org/?lat=50.417084&lon=14.895980
-MladaBoleslavHlavniNadrazi http://www.openstreetmap.org/?lat=50.407318&lon=14.887269
-+X841049 http://www.openstreetmap.org/?lat=50.406938&lon=14.879351
+MlaBolMes +MladaBoleslavMesto http://www.openstreetmap.org/?lat=50.419162&lon=14.916129
++DIV_S30 http://www.openstreetmap.org/?lat=50.417084&lon=14.895980
+MlaBolHlaNad +MladaBoleslavHlavniNadrazi http://www.openstreetmap.org/?lat=50.407318&lon=14.887269
++DIV_S3 http://www.openstreetmap.org/?lat=50.406938&lon=14.879351
 +X247811 http://www.openstreetmap.org/?lat=50.387002&lon=14.877076
-Neprevazka http://www.openstreetmap.org/?lat=50.374194&lon=14.911194
-Dobrovice http://www.openstreetmap.org/?lat=50.355058&lon=14.940162
-Voderady http://www.openstreetmap.org/?lat=50.336518&lon=14.947200
-Lustenice http://www.openstreetmap.org/?lat=50.321340&lon=14.944539
+Nep +Neprevazka http://www.openstreetmap.org/?lat=50.374194&lon=14.911194
+Dob +Dobrovice http://www.openstreetmap.org/?lat=50.355058&lon=14.940162
+Vod +Voderady http://www.openstreetmap.org/?lat=50.336518&lon=14.947200
+Lus +Lustenice http://www.openstreetmap.org/?lat=50.321340&lon=14.944539
 +X310446 http://www.openstreetmap.org/?lat=50.303773&lon=14.952393
-Cachovice http://www.openstreetmap.org/?lat=50.272570&lon=14.949002
-Vsejany http://www.openstreetmap.org/?lat=50.257015&lon=14.957896
-+X358367 http://www.openstreetmap.org/?lat=50.217790&lon=15.021873
-Veleliby http://www.openstreetmap.org/?lat=50.214495&lon=15.023632
+Cac +Cachovice http://www.openstreetmap.org/?lat=50.272570&lon=14.949002
+Vse +Vsejany http://www.openstreetmap.org/?lat=50.257015&lon=14.957896
++DIV_S21 http://www.openstreetmap.org/?lat=50.217790&lon=15.021873
+Vel +Veleliby http://www.openstreetmap.org/?lat=50.214495&lon=15.023632
 +X811436 http://www.openstreetmap.org/?lat=50.202080&lon=15.030241
-+X286035 http://www.openstreetmap.org/?lat=50.194807&lon=15.038588
-NymburkHlavniNadrazi http://www.openstreetmap.org/?lat=50.193262&lon=15.045905
++DIV_S2 http://www.openstreetmap.org/?lat=50.194807&lon=15.038588
+NymHlaNad +NymburkHlavniNadrazi http://www.openstreetmap.org/?lat=50.193262&lon=15.045905

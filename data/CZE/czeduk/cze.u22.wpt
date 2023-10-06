@@ -1,13 +1,13 @@
-BrizaObec http://www.openstreetmap.org/?lat=50.363566&lon=14.218519
-+X599185 http://www.openstreetmap.org/?lat=50.360651&lon=14.237552
-Straskov http://www.openstreetmap.org/?lat=50.361773&lon=14.242144
-+X549696 http://www.openstreetmap.org/?lat=50.359953&lon=14.258838
-Mnetes http://www.openstreetmap.org/?lat=50.359925&lon=14.276133
-Ctineves http://www.openstreetmap.org/?lat=50.378464&lon=14.306560
-KostomlatyPodRipem http://www.openstreetmap.org/?lat=50.380379&lon=14.330463
+BriObec +BrizaObec http://www.openstreetmap.org/?lat=50.363566&lon=14.218519
++DIV_S46 http://www.openstreetmap.org/?lat=50.360651&lon=14.237552
+Str +Straskov http://www.openstreetmap.org/?lat=50.361773&lon=14.242144
++DIV_U21 http://www.openstreetmap.org/?lat=50.359953&lon=14.258838
+Mne +Mnetes http://www.openstreetmap.org/?lat=50.359925&lon=14.276133
+Cti +Ctineves http://www.openstreetmap.org/?lat=50.378464&lon=14.306560
+KosPodRip +KostomlatyPodRipem http://www.openstreetmap.org/?lat=50.380379&lon=14.330463
 +X192075 http://www.openstreetmap.org/?lat=50.368569&lon=14.360075
-HorniBerkovice http://www.openstreetmap.org/?lat=50.357085&lon=14.355226
+HorBer +HorniBerkovice http://www.openstreetmap.org/?lat=50.357085&lon=14.355226
 +X917360 http://www.openstreetmap.org/?lat=50.349062&lon=14.374194
-+X875309 http://www.openstreetmap.org/?lat=50.338463&lon=14.376683
-+X283232 http://www.openstreetmap.org/?lat=50.336819&lon=14.374237
-Vranany http://www.openstreetmap.org/?lat=50.335203&lon=14.371662
++DIV_S4 http://www.openstreetmap.org/?lat=50.338463&lon=14.376683
++DIV_S42 http://www.openstreetmap.org/?lat=50.336819&lon=14.374237
+Vra +Vranany http://www.openstreetmap.org/?lat=50.335203&lon=14.371662
