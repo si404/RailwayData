@@ -1,39 +1,39 @@
-SidPet +SidlistePetriny http://www.openstreetmap.org/?lat=50.086828&lon=14.339733
-Pet +Petriny http://www.openstreetmap.org/?lat=50.087936&lon=14.344422
-Vet +Vetrnik http://www.openstreetmap.org/?lat=50.089698&lon=14.350848
-VojNem +VojenskaNemocnice http://www.openstreetmap.org/?lat=50.091750&lon=14.360043
-Bat +Baterie http://www.openstreetmap.org/?lat=50.092424&lon=14.369709
-Ore +Orechovka http://www.openstreetmap.org/?lat=50.092851&lon=14.379151
-Sib +Sibeliova http://www.openstreetmap.org/?lat=50.092844&lon=14.383947
+SidPet http://www.openstreetmap.org/?lat=50.086828&lon=14.339733
+Pet http://www.openstreetmap.org/?lat=50.087936&lon=14.344422
+Vet http://www.openstreetmap.org/?lat=50.089698&lon=14.350848
+VojNem http://www.openstreetmap.org/?lat=50.091750&lon=14.360043
+Bat http://www.openstreetmap.org/?lat=50.092424&lon=14.369709
+Ore http://www.openstreetmap.org/?lat=50.092851&lon=14.379151
+Sib http://www.openstreetmap.org/?lat=50.092844&lon=14.383947
 +DIV_25 http://www.openstreetmap.org/?lat=50.092775&lon=14.387358
-VozStr +VozovnaStresovice http://www.openstreetmap.org/?lat=50.093746&lon=14.389579
+VozStr http://www.openstreetmap.org/?lat=50.093746&lon=14.389579
 +X476077 http://www.openstreetmap.org/?lat=50.094427&lon=14.391950
-PraMost +PrasnyMost http://www.openstreetmap.org/?lat=50.094792&lon=14.394879
+PraMost http://www.openstreetmap.org/?lat=50.094792&lon=14.394879
 +DIV_8 http://www.openstreetmap.org/?lat=50.094998&lon=14.396703
-Hra +Hradcanska http://www.openstreetmap.org/?lat=50.097304&lon=14.403108
+Hra http://www.openstreetmap.org/?lat=50.097304&lon=14.403108
 +DIV_1 http://www.openstreetmap.org/?lat=50.097655&lon=14.407550
-ChoSady +ChotkovySady http://www.openstreetmap.org/?lat=50.095370&lon=14.408913
+ChoSady http://www.openstreetmap.org/?lat=50.095370&lon=14.408913
 +DIV_22 http://www.openstreetmap.org/?lat=50.094852&lon=14.409052
 +X383117 http://www.openstreetmap.org/?lat=50.093581&lon=14.409277
 +X732429 http://www.openstreetmap.org/?lat=50.092911&lon=14.406198
-Mal +Malostranska http://www.openstreetmap.org/?lat=50.091529&lon=14.409288
+Mal http://www.openstreetmap.org/?lat=50.091529&lon=14.409288
 +DIV_12 http://www.openstreetmap.org/?lat=50.090063&lon=14.410232
-Sta +Staromestska http://www.openstreetmap.org/?lat=50.088428&lon=14.416326
+Sta http://www.openstreetmap.org/?lat=50.088428&lon=14.416326
 KarLaz +KarlovyLazne http://www.openstreetmap.org/?lat=50.084713&lon=14.413617
 NarDiv +NarodniDivadlo http://www.openstreetmap.org/?lat=50.081396&lon=14.412990
-NarTri +NarodniTrida http://www.openstreetmap.org/?lat=50.081382&lon=14.419566
-Laz +Lazarska http://www.openstreetmap.org/?lat=50.079489&lon=14.420103
+NarTri http://www.openstreetmap.org/?lat=50.081382&lon=14.419566
+Laz http://www.openstreetmap.org/?lat=50.079489&lon=14.420103
 +DIV_5 http://www.openstreetmap.org/?lat=50.078319&lon=14.419416
-NovRad +NovomestskaRadnice http://www.openstreetmap.org/?lat=50.077334&lon=14.419502
-KarNam +KarlovoNamesti http://www.openstreetmap.org/?lat=50.075730&lon=14.418998
-Mor +Moran http://www.openstreetmap.org/?lat=50.074335&lon=14.418842
+NovRad http://www.openstreetmap.org/?lat=50.077334&lon=14.419502
+KarNam http://www.openstreetmap.org/?lat=50.075730&lon=14.418998
+Mor http://www.openstreetmap.org/?lat=50.074335&lon=14.418842
 +DIV_14 http://www.openstreetmap.org/?lat=50.073872&lon=14.418738
-PalNam +PalackehoNamesti http://www.openstreetmap.org/?lat=50.073089&lon=14.413977
-Vyt +Vyton http://www.openstreetmap.org/?lat=50.067926&lon=14.414969
+PalNam http://www.openstreetmap.org/?lat=50.073089&lon=14.413977
+Vyt http://www.openstreetmap.org/?lat=50.067926&lon=14.414969
 +DIV_7 http://www.openstreetmap.org/?lat=50.067468&lon=14.415087
-PodVod +PodolskaVodarna http://www.openstreetmap.org/?lat=50.058854&lon=14.419427
-Kub +Kublov http://www.openstreetmap.org/?lat=50.054528&lon=14.418182
-Dvo +Dvorce http://www.openstreetmap.org/?lat=50.047460&lon=14.414170
-Pri +Pristaviste http://www.openstreetmap.org/?lat=50.040046&lon=14.409471
-PobCes +PobrezniCesta http://www.openstreetmap.org/?lat=50.033872&lon=14.407668
-NadBra +NadraziBranik http://www.openstreetmap.org/?lat=50.027855&lon=14.406896
+PodVod http://www.openstreetmap.org/?lat=50.058854&lon=14.419427
+Kub http://www.openstreetmap.org/?lat=50.054528&lon=14.418182
+Dvo http://www.openstreetmap.org/?lat=50.047460&lon=14.414170
+Pri http://www.openstreetmap.org/?lat=50.040046&lon=14.409471
+PobCes http://www.openstreetmap.org/?lat=50.033872&lon=14.407668
+NadBra http://www.openstreetmap.org/?lat=50.027855&lon=14.406896

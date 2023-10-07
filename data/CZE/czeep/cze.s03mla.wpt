@@ -1,22 +1,22 @@
-MlaBolMes +MladaBoleslavMesto http://www.openstreetmap.org/?lat=50.419162&lon=14.916129
+MlaBolMes http://www.openstreetmap.org/?lat=50.419162&lon=14.916129
 +DIV_S30 http://www.openstreetmap.org/?lat=50.417084&lon=14.895980
-MlaBolHlaNad +MladaBoleslavHlavniNadrazi http://www.openstreetmap.org/?lat=50.407318&lon=14.887269
+MlaBolHlaNad http://www.openstreetmap.org/?lat=50.407318&lon=14.887269
 +DIV_S31 http://www.openstreetmap.org/?lat=50.406938&lon=14.879351
 +DIV_S33 http://www.openstreetmap.org/?lat=50.405352&lon=14.876175
-Krn +Krnsko http://www.openstreetmap.org/?lat=50.376856&lon=14.869276
+Krn http://www.openstreetmap.org/?lat=50.376856&lon=14.869276
 +X639298 http://www.openstreetmap.org/?lat=50.352266&lon=14.854503
 +X931412 http://www.openstreetmap.org/?lat=50.359385&lon=14.836049
-Cho +Chotetov http://www.openstreetmap.org/?lat=50.339757&lon=14.810493
-ZdeCho +ZdetinChotetova http://www.openstreetmap.org/?lat=50.315449&lon=14.786096
+Cho http://www.openstreetmap.org/?lat=50.339757&lon=14.810493
+ZdeCho http://www.openstreetmap.org/?lat=50.315449&lon=14.786096
 +X347129 http://www.openstreetmap.org/?lat=50.313585&lon=14.751334
-KroVru +KropacovaVrutice http://www.openstreetmap.org/?lat=50.323560&lon=14.701338
-Kos +Kosatky http://www.openstreetmap.org/?lat=50.316929&lon=14.670267
-Koj +Kojovice http://www.openstreetmap.org/?lat=50.307172&lon=14.656405
+KroVru http://www.openstreetmap.org/?lat=50.323560&lon=14.701338
+Kos http://www.openstreetmap.org/?lat=50.316929&lon=14.670267
+Koj http://www.openstreetmap.org/?lat=50.307172&lon=14.656405
 +X728665 http://www.openstreetmap.org/?lat=50.301306&lon=14.636965
-Bys +Bysice http://www.openstreetmap.org/?lat=50.305637&lon=14.603963
+Bys http://www.openstreetmap.org/?lat=50.305637&lon=14.603963
 +X521597 http://www.openstreetmap.org/?lat=50.303794&lon=14.594597
 +DIV_S32N http://www.openstreetmap.org/?lat=50.285452&lon=14.587548
-Vse +Vsetaty http://www.openstreetmap.org/?lat=50.282436&lon=14.584951
+Vse http://www.openstreetmap.org/?lat=50.282436&lon=14.584951
 +DIV_S32S http://www.openstreetmap.org/?lat=50.279255&lon=14.579458
 Tis http://www.openstreetmap.org/?lat=50.267447&lon=14.556670
 +DIV_S23 http://www.openstreetmap.org/?lat=50.262084&lon=14.522424
@@ -39,7 +39,8 @@ PraSat http://www.openstreetmap.org/?lat=50.122979&lon=14.570789
 PraVys http://www.openstreetmap.org/?lat=50.112151&lon=14.497447
 +DIV_S49W http://www.openstreetmap.org/?lat=50.107114&lon=14.479980
 +DIV_S49E http://www.openstreetmap.org/?lat=50.104320&lon=14.480410
-+X573010 http://www.openstreetmap.org/?lat=50.096034&lon=14.474509
-+X639169 http://www.openstreetmap.org/?lat=50.091874&lon=14.461302
++DIV_S9 http://www.openstreetmap.org/?lat=50.096034&lon=14.474509
++X306745 http://www.openstreetmap.org/?lat=50.092978&lon=14.467964
++DIV_S1 http://www.openstreetmap.org/?lat=50.091874&lon=14.461302
 +DIV_S4 http://www.openstreetmap.org/?lat=50.087936&lon=14.439093
 PraMasNad http://www.openstreetmap.org/?lat=50.087716&lon=14.433439

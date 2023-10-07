@@ -1,7 +1,7 @@
-Lib +Libec http://www.openstreetmap.org/?lat=50.596001&lon=15.946140
+Lib http://www.openstreetmap.org/?lat=50.596001&lon=15.946140
 +DIV_V4 http://www.openstreetmap.org/?lat=50.580014&lon=15.954337
-TruPor +TrutnovPorici http://www.openstreetmap.org/?lat=50.579142&lon=15.958564
+TruPor http://www.openstreetmap.org/?lat=50.579142&lon=15.958564
 +DIV_V44 http://www.openstreetmap.org/?lat=50.580014&lon=15.954337
 +DIV_V34 http://www.openstreetmap.org/?lat=50.578556&lon=15.947299
-TruStr +TrutnovStred http://www.openstreetmap.org/?lat=50.577861&lon=15.945218
-TruHlaNad +TrutnovHlavniNadrazi http://www.openstreetmap.org/?lat=50.565180&lon=15.911121
+TruStr http://www.openstreetmap.org/?lat=50.577861&lon=15.945218
+TruHlaNad http://www.openstreetmap.org/?lat=50.565180&lon=15.911121

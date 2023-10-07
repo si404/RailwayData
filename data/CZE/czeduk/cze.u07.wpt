@@ -1,23 +1,23 @@
-DecHlaNad +DecinHlavniNadrazi http://www.openstreetmap.org/?lat=50.773467&lon=14.201288
-DecVyc +DecinVychod http://www.openstreetmap.org/?lat=50.775150&lon=14.223218
+DecHlaNad http://www.openstreetmap.org/?lat=50.773467&lon=14.201288
+DecVyc http://www.openstreetmap.org/?lat=50.775150&lon=14.223218
 +DIV_U8 http://www.openstreetmap.org/?lat=50.773562&lon=14.225879
 +X164817 http://www.openstreetmap.org/?lat=50.771880&lon=14.233689
 +X272320 http://www.openstreetmap.org/?lat=50.767931&lon=14.232337
 +X780258 http://www.openstreetmap.org/?lat=50.769491&lon=14.225063
-DecStaMes +DecinStareMesto http://www.openstreetmap.org/?lat=50.766560&lon=14.214742
-KreDec +KresiceDecina http://www.openstreetmap.org/?lat=50.757072&lon=14.204249
+DecStaMes http://www.openstreetmap.org/?lat=50.766560&lon=14.214742
+KreDec http://www.openstreetmap.org/?lat=50.757072&lon=14.204249
 +X518794 http://www.openstreetmap.org/?lat=50.746028&lon=14.188349
-BolNadLab +BoleticeNadLabem http://www.openstreetmap.org/?lat=50.733705&lon=14.187920
-Tec +Techlovice http://www.openstreetmap.org/?lat=50.696084&lon=14.203112
-MaleBreNadLab +MaleBreznoNadLabem http://www.openstreetmap.org/?lat=50.671979&lon=14.168565
+BolNadLab http://www.openstreetmap.org/?lat=50.733705&lon=14.187920
+Tec http://www.openstreetmap.org/?lat=50.696084&lon=14.203112
+MaleBreNadLab http://www.openstreetmap.org/?lat=50.671979&lon=14.168565
 +DIV_T3 http://www.openstreetmap.org/?lat=50.665308&lon=14.151292
-VelBre +VelkeBrezno http://www.openstreetmap.org/?lat=50.664241&lon=14.146335
-Val +Valtirov http://www.openstreetmap.org/?lat=50.672407&lon=14.122034
-Sva +Svadov http://www.openstreetmap.org/?lat=50.662146&lon=14.098871
+VelBre http://www.openstreetmap.org/?lat=50.664241&lon=14.146335
+Val http://www.openstreetmap.org/?lat=50.672407&lon=14.122034
+Sva http://www.openstreetmap.org/?lat=50.662146&lon=14.098871
 +X805856 http://www.openstreetmap.org/?lat=50.659004&lon=14.058359
 +DIV_U32 http://www.openstreetmap.org/?lat=50.652433&lon=14.049175
-UstiNadLabStr +UstiNadLabemStrekov http://www.openstreetmap.org/?lat=50.649848&lon=14.048574
+UstiNadLabStr http://www.openstreetmap.org/?lat=50.649848&lon=14.048574
 +DIV_U7 http://www.openstreetmap.org/?lat=50.652433&lon=14.049175
 +X975762 http://www.openstreetmap.org/?lat=50.657031&lon=14.038918
 +X663719 http://www.openstreetmap.org/?lat=50.657535&lon=14.034777
-UstiNadLabZap +UstiNadLabemZapad http://www.openstreetmap.org/?lat=50.658160&lon=14.029756
+UstiNadLabZap http://www.openstreetmap.org/?lat=50.658160&lon=14.029756

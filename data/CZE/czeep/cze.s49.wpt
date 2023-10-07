@@ -1,18 +1,18 @@
-RosPra +RoztokyPrahy http://www.openstreetmap.org/?lat=50.159924&lon=14.398484
-PraSed +PrahaSedlec http://www.openstreetmap.org/?lat=50.131927&lon=14.394493
-PraPod +PrahaPodbaba http://www.openstreetmap.org/?lat=50.112343&lon=14.395566
+RosPra http://www.openstreetmap.org/?lat=50.159924&lon=14.398484
+PraSed http://www.openstreetmap.org/?lat=50.131927&lon=14.394493
+PraPod http://www.openstreetmap.org/?lat=50.112343&lon=14.395566
 +X229721 http://www.openstreetmap.org/?lat=50.106550&lon=14.407969
 +DIV_S4 http://www.openstreetmap.org/?lat=50.110289&lon=14.425414
-PraHol +PrahaHolesovice http://www.openstreetmap.org/?lat=50.110413&lon=14.439651
+PraHol http://www.openstreetmap.org/?lat=50.110413&lon=14.439651
 +X112923 http://www.openstreetmap.org/?lat=50.114029&lon=14.458501
 +DIV_S2 http://www.openstreetmap.org/?lat=50.107114&lon=14.479980
 +DIV_S3 http://www.openstreetmap.org/?lat=50.104320&lon=14.480410
 +DIV_S1 http://www.openstreetmap.org/?lat=50.102190&lon=14.485688
-PraLib +PrahaLiben http://www.openstreetmap.org/?lat=50.100718&lon=14.502436
+PraLib http://www.openstreetmap.org/?lat=50.100718&lon=14.502436
 +DIV_S7 http://www.openstreetmap.org/?lat=50.099513&lon=14.521297
 +DIV_S71 http://www.openstreetmap.org/?lat=50.085276&lon=14.517317
-+SKIP_PraDepoHos +PrahaDepoHostivar http://www.openstreetmap.org/?lat=50.076308&lon=14.516072
++SKIP_PraDepoHos http://www.openstreetmap.org/?lat=50.076308&lon=14.516072
 +X390841 http://www.openstreetmap.org/?lat=50.070404&lon=14.512467
 +DIV_S61 http://www.openstreetmap.org/?lat=50.064694&lon=14.517832
 +DIV_S9 http://www.openstreetmap.org/?lat=50.058172&lon=14.522338
-PraHos +PrahaHostivar http://www.openstreetmap.org/?lat=50.055003&lon=14.538431
+PraHos http://www.openstreetmap.org/?lat=50.055003&lon=14.538431

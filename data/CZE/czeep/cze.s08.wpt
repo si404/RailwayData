@@ -1,38 +1,38 @@
-HlaNad +HlavniNadrazi http://www.openstreetmap.org/?lat=50.083172&lon=14.435349
+PraHlaNad HlaNad http://www.openstreetmap.org/?lat=50.083172&lon=14.435349
 +DIV_S7 http://www.openstreetmap.org/?lat=50.070190&lon=14.436421
 +DIV_S61 http://www.openstreetmap.org/?lat=50.066774&lon=14.440584
-PraVrs +PrahaVrsovice http://www.openstreetmap.org/?lat=50.064722&lon=14.447000
+PraVrs http://www.openstreetmap.org/?lat=50.064722&lon=14.447000
 +DIV_S9N http://www.openstreetmap.org/?lat=50.062463&lon=14.454961
 +X955767 http://www.openstreetmap.org/?lat=50.052654&lon=14.464638
 +DIV_S71N http://www.openstreetmap.org/?lat=50.046041&lon=14.469101
-Kac +Kacerov http://www.openstreetmap.org/?lat=50.041493&lon=14.461462
-PraKrc +PrahaKrc http://www.openstreetmap.org/?lat=50.034175&lon=14.446614
+Kac http://www.openstreetmap.org/?lat=50.041493&lon=14.461462
+PraKrc http://www.openstreetmap.org/?lat=50.034175&lon=14.446614
 +DIV_S71S http://www.openstreetmap.org/?lat=50.031377&lon=14.416916
-PraBra +PrahaBranik http://www.openstreetmap.org/?lat=50.027855&lon=14.406896
+PraBra http://www.openstreetmap.org/?lat=50.027855&lon=14.406896
 +X370630 http://www.openstreetmap.org/?lat=50.016302&lon=14.399300
-PraModZas +PrahaModranyZastavka http://www.openstreetmap.org/?lat=50.003919&lon=14.402947
-PraKom +PrahaKomorany http://www.openstreetmap.org/?lat=49.990236&lon=14.404321
-PraZbr +PrahaZbraslav http://www.openstreetmap.org/?lat=49.970173&lon=14.399772
-DolBreJar +DolniBrezanyJarov http://www.openstreetmap.org/?lat=49.947009&lon=14.397111
-VraNadVit +VraneNadVitavou http://www.openstreetmap.org/?lat=49.938502&lon=14.381104
-Sko +Skochovice http://www.openstreetmap.org/?lat=49.924711&lon=14.376233
+PraModZas http://www.openstreetmap.org/?lat=50.003919&lon=14.402947
+PraKom http://www.openstreetmap.org/?lat=49.990236&lon=14.404321
+PraZbr http://www.openstreetmap.org/?lat=49.970173&lon=14.399772
+DolBreJar http://www.openstreetmap.org/?lat=49.947009&lon=14.397111
+VraNadVit http://www.openstreetmap.org/?lat=49.938502&lon=14.381104
+Sko http://www.openstreetmap.org/?lat=49.924711&lon=14.376233
 +DIV_S88 http://www.openstreetmap.org/?lat=49.920497&lon=14.377928
 +X447512 http://www.openstreetmap.org/?lat=49.906051&lon=14.398613
-Davie http://www.openstreetmap.org/?lat=49.887695&lon=14.399042
-PetrovChlomek http://www.openstreetmap.org/?lat=49.876295&lon=14.411337
-PetrovPrahy http://www.openstreetmap.org/?lat=49.879330&lon=14.428740
+Dav Davie http://www.openstreetmap.org/?lat=49.887695&lon=14.399042
+PetChl PetrovChlomek http://www.openstreetmap.org/?lat=49.876295&lon=14.411337
+PetPra PetrovPrahy http://www.openstreetmap.org/?lat=49.879330&lon=14.428740
 +X322713 http://www.openstreetmap.org/?lat=49.876454&lon=14.450798
-LukaPodMednikem http://www.openstreetmap.org/?lat=49.865964&lon=14.461677
-JilovePrahy http://www.openstreetmap.org/?lat=49.877588&lon=14.500108
+LukaPodMed LukaPodMednikem http://www.openstreetmap.org/?lat=49.865964&lon=14.461677
+JilPra JilovePrahy http://www.openstreetmap.org/?lat=49.877588&lon=14.500108
 +X687492 http://www.openstreetmap.org/?lat=49.882082&lon=14.505472
-KamennyPrivoz http://www.openstreetmap.org/?lat=49.866856&lon=14.517016
-Prosecnice http://www.openstreetmap.org/?lat=49.863841&lon=14.532337
-Krhanice http://www.openstreetmap.org/?lat=49.849315&lon=14.553280
-ChrastNadSazavou http://www.openstreetmap.org/?lat=49.839629&lon=14.577012
-TynecNadSazavou http://www.openstreetmap.org/?lat=49.834166&lon=14.593298
-Pecerady http://www.openstreetmap.org/?lat=49.833485&lon=14.626150
+KamPri KamennyPrivoz http://www.openstreetmap.org/?lat=49.866856&lon=14.517016
+Pro Prosecnice http://www.openstreetmap.org/?lat=49.863841&lon=14.532337
+Krh Krhanice http://www.openstreetmap.org/?lat=49.849315&lon=14.553280
+ChrNadSaz ChrastNadSazavou http://www.openstreetmap.org/?lat=49.839629&lon=14.577012
+TynNadSaz TynecNadSazavou http://www.openstreetmap.org/?lat=49.834166&lon=14.593298
+Pec Pecerady http://www.openstreetmap.org/?lat=49.833485&lon=14.626150
 +X457120 http://www.openstreetmap.org/?lat=49.833401&lon=14.643874
-PoriciNadSazavouSvarov http://www.openstreetmap.org/?lat=49.841677&lon=14.653015
-PoriciNadSazavou http://www.openstreetmap.org/?lat=49.837394&lon=14.676597
+PorNadSazSva PoriciNadSazavouSvarov http://www.openstreetmap.org/?lat=49.841677&lon=14.653015
+PorNadSaz PoriciNadSazavou http://www.openstreetmap.org/?lat=49.837394&lon=14.676597
 +DIV_S9S http://www.openstreetmap.org/?lat=49.845708&lon=14.698935
-Cercany http://www.openstreetmap.org/?lat=49.850516&lon=14.701660
+Cer Cercany http://www.openstreetmap.org/?lat=49.850516&lon=14.701660

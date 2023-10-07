@@ -1,39 +1,40 @@
-PraMasNad +PrahaMasarykovoNadrazi http://www.openstreetmap.org/?lat=50.087716&lon=14.433439
+PraMasNad http://www.openstreetmap.org/?lat=50.087716&lon=14.433439
 +DIV_S4 http://www.openstreetmap.org/?lat=50.087936&lon=14.439093
-+X639169 http://www.openstreetmap.org/?lat=50.091874&lon=14.461302
-+X573010 http://www.openstreetmap.org/?lat=50.096034&lon=14.474509
++DIV_S1 http://www.openstreetmap.org/?lat=50.091874&lon=14.461302
++X306745 http://www.openstreetmap.org/?lat=50.092978&lon=14.467964
++DIV_S9 http://www.openstreetmap.org/?lat=50.096034&lon=14.474509
 +DIV_S49E http://www.openstreetmap.org/?lat=50.104320&lon=14.480410
 +DIV_S49W http://www.openstreetmap.org/?lat=50.107114&lon=14.479980
-PraVys +PrahaVysocany http://www.openstreetmap.org/?lat=50.112151&lon=14.497447
+PraVys http://www.openstreetmap.org/?lat=50.112151&lon=14.497447
 +X900366 http://www.openstreetmap.org/?lat=50.113767&lon=14.516845
 +X826163 http://www.openstreetmap.org/?lat=50.107148&lon=14.555125
 +DIV_S3 http://www.openstreetmap.org/?lat=50.113300&lon=14.574523
-PraHorPoc +PrahaHorniPocernice http://www.openstreetmap.org/?lat=50.116602&lon=14.612589
-Zel +Zelenec http://www.openstreetmap.org/?lat=50.130222&lon=14.665031
-Mst +Mstetice http://www.openstreetmap.org/?lat=50.137484&lon=14.693699
+PraHorPoc http://www.openstreetmap.org/?lat=50.116602&lon=14.612589
+Zel http://www.openstreetmap.org/?lat=50.130222&lon=14.665031
+Mst http://www.openstreetmap.org/?lat=50.137484&lon=14.693699
 +X696966 http://www.openstreetmap.org/?lat=50.144002&lon=14.708977
 +X926404 http://www.openstreetmap.org/?lat=50.148406&lon=14.752117
 +DIV_S23 http://www.openstreetmap.org/?lat=50.154198&lon=14.751763
-Cel +Celakovice http://www.openstreetmap.org/?lat=50.158006&lon=14.754338
-CelJir +CelakoviceJirina http://www.openstreetmap.org/?lat=50.167511&lon=14.765496
+Cel http://www.openstreetmap.org/?lat=50.158006&lon=14.754338
+CelJir http://www.openstreetmap.org/?lat=50.167511&lon=14.765496
 +X586633 http://www.openstreetmap.org/?lat=50.183975&lon=14.777341
 +DIV_S32 http://www.openstreetmap.org/?lat=50.196339&lon=14.835491
-LysaNadLab +LysaNadLabem http://www.openstreetmap.org/?lat=50.195542&lon=14.841928
+LysaNadLab http://www.openstreetmap.org/?lat=50.195542&lon=14.841928
 +DIV_S22 http://www.openstreetmap.org/?lat=50.194718&lon=14.850597
-Ost +Ostra http://www.openstreetmap.org/?lat=50.187904&lon=14.890723
-Str +Stratov http://www.openstreetmap.org/?lat=50.187410&lon=14.907846
-KosNadLab +KostomlatyNadLabem http://www.openstreetmap.org/?lat=50.185871&lon=14.962006
-KamZbo +KamenneZbozi http://www.openstreetmap.org/?lat=50.188921&lon=15.003290
+Ost http://www.openstreetmap.org/?lat=50.187904&lon=14.890723
+Str http://www.openstreetmap.org/?lat=50.187410&lon=14.907846
+KosNadLab http://www.openstreetmap.org/?lat=50.185871&lon=14.962006
+KamZbo http://www.openstreetmap.org/?lat=50.188921&lon=15.003290
 +DIV_S12 http://www.openstreetmap.org/?lat=50.194807&lon=15.038588
-NymHlaNad +NymburkHlavniNadrazi http://www.openstreetmap.org/?lat=50.193262&lon=15.045905
+NymHlaNad http://www.openstreetmap.org/?lat=50.193262&lon=15.045905
 +X560269 http://www.openstreetmap.org/?lat=50.178671&lon=15.079594
-VelZbo +VelkeZbozi http://www.openstreetmap.org/?lat=50.164817&lon=15.100708
-Pod +Podebrady http://www.openstreetmap.org/?lat=50.149613&lon=15.123839
-LibNadCid +LibiceNadCidlinou http://www.openstreetmap.org/?lat=50.127663&lon=15.182977
+VelZbo http://www.openstreetmap.org/?lat=50.164817&lon=15.100708
+Pod http://www.openstreetmap.org/?lat=50.149613&lon=15.123839
+LibNadCid http://www.openstreetmap.org/?lat=50.127663&lon=15.182977
 +X290139 http://www.openstreetmap.org/?lat=50.104960&lon=15.192847
-VelOsek +VelkyOsek http://www.openstreetmap.org/?lat=50.101629&lon=15.193663
+VelOsek http://www.openstreetmap.org/?lat=50.101629&lon=15.193663
 +X701649 http://www.openstreetmap.org/?lat=50.092868&lon=15.195658
-Vel +Veltruby http://www.openstreetmap.org/?lat=50.073764&lon=15.200057
-KolZal +KolinZalabi http://www.openstreetmap.org/?lat=50.037366&lon=15.210099
+Vel http://www.openstreetmap.org/?lat=50.073764&lon=15.200057
+KolZal http://www.openstreetmap.org/?lat=50.037366&lon=15.210099
 +DIV_S1 http://www.openstreetmap.org/?lat=50.026415&lon=15.212138
-Kol +Kolin http://www.openstreetmap.org/?lat=50.025319&lon=15.214648
+Kol http://www.openstreetmap.org/?lat=50.025319&lon=15.214648

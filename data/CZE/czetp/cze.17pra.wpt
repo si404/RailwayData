@@ -1,42 +1,46 @@
-VozKob +VozovnaKobylisy http://www.openstreetmap.org/?lat=50.132825&lon=14.453920
-Lib +Libeznicka http://www.openstreetmap.org/?lat=50.128898&lon=14.455508
-Bre +Brezinevaska http://www.openstreetmap.org/?lat=50.126428&lon=14.456978
+VozKob http://www.openstreetmap.org/?lat=50.132825&lon=14.453920
+Libe +Lib http://www.openstreetmap.org/?lat=50.128898&lon=14.455508
+Bre http://www.openstreetmap.org/?lat=50.126428&lon=14.456978
 +DIV_10 http://www.openstreetmap.org/?lat=50.125376&lon=14.457171
-Kob +Kobylisy http://www.openstreetmap.org/?lat=50.124408&lon=14.455073
-KeSti +KeStirce http://www.openstreetmap.org/?lat=50.122783&lon=14.456034
+Kob http://www.openstreetmap.org/?lat=50.124408&lon=14.455073
+KeSti http://www.openstreetmap.org/?lat=50.122783&lon=14.456034
 +DIV_3 http://www.openstreetmap.org/?lat=50.121703&lon=14.455347
-Her +Hercovka http://www.openstreetmap.org/?lat=50.122030&lon=14.452322
-NadTro +NadTrojou http://www.openstreetmap.org/?lat=50.120365&lon=14.439404
-Tro +Trojska http://www.openstreetmap.org/?lat=50.116705&lon=14.433181
-NadHol +NadraziHolesovice http://www.openstreetmap.org/?lat=50.110413&lon=14.439651
-Vys +Vystaviste http://www.openstreetmap.org/?lat=50.104127&lon=14.431551
-VelPal +VeletrzniPalac http://www.openstreetmap.org/?lat=50.101925&lon=14.433031
-Str +Strossmayerovo http://www.openstreetmap.org/?lat=50.098873&lon=14.433256
-NabKapJar +NabreziKapitanaJarose http://www.openstreetmap.org/?lat=50.096334&lon=14.431561
+Her http://www.openstreetmap.org/?lat=50.122030&lon=14.452322
+NadTro http://www.openstreetmap.org/?lat=50.120365&lon=14.439404
+Tro http://www.openstreetmap.org/?lat=50.116705&lon=14.433181
+NadHol http://www.openstreetmap.org/?lat=50.110413&lon=14.439651
+Vys http://www.openstreetmap.org/?lat=50.104127&lon=14.431551
+VelPal http://www.openstreetmap.org/?lat=50.101925&lon=14.433031
+Str http://www.openstreetmap.org/?lat=50.098873&lon=14.433256
+NabKapJar http://www.openstreetmap.org/?lat=50.096334&lon=14.431561
 +DIV_6 http://www.openstreetmap.org/?lat=50.095377&lon=14.426701
-CehMost +CehcuvMost http://www.openstreetmap.org/?lat=50.093842&lon=14.416562
-PraFak +PracnickaFakulta http://www.openstreetmap.org/?lat=50.091564&lon=14.417946
-Sta +Staromestska http://www.openstreetmap.org/?lat=50.088428&lon=14.416326
-KarLaz +KarlovyLazne http://www.openstreetmap.org/?lat=50.084713&lon=14.413617
-NarDiv +NarodniDivadlo http://www.openstreetmap.org/?lat=50.081396&lon=14.412990
+CehMost http://www.openstreetmap.org/?lat=50.093842&lon=14.416562
+PraFak http://www.openstreetmap.org/?lat=50.091564&lon=14.417946
+Sta http://www.openstreetmap.org/?lat=50.088428&lon=14.416326
+KarLaz http://www.openstreetmap.org/?lat=50.084713&lon=14.413617
+NarDiv http://www.openstreetmap.org/?lat=50.081396&lon=14.412990
 +DIV_5 http://www.openstreetmap.org/?lat=50.077251&lon=14.414363
-JirNam +JiraskovoNamesti http://www.openstreetmap.org/?lat=50.076260&lon=14.414116
-PalNam +PalackehoNamesti http://www.openstreetmap.org/?lat=50.073089&lon=14.413977
-Vyt +Vyton http://www.openstreetmap.org/?lat=50.067926&lon=14.414969
+JirNam http://www.openstreetmap.org/?lat=50.076260&lon=14.414116
+PalNam http://www.openstreetmap.org/?lat=50.073089&lon=14.413977
+Vyt http://www.openstreetmap.org/?lat=50.067926&lon=14.414969
 +DIV_7 http://www.openstreetmap.org/?lat=50.067468&lon=14.415087
-PodVod +PodolskaVodarna http://www.openstreetmap.org/?lat=50.058854&lon=14.419427
-Kub +Kublov http://www.openstreetmap.org/?lat=50.054528&lon=14.418182
-Dvo +Dvorce http://www.openstreetmap.org/?lat=50.047460&lon=14.414170
-Pri +Pristaviste http://www.openstreetmap.org/?lat=50.040046&lon=14.409471
-PobCes +PobrezniCesta http://www.openstreetmap.org/?lat=50.033872&lon=14.407668
-Bra +Branik http://www.openstreetmap.org/?lat=50.027855&lon=14.406896
-CerKun +CernyKun http://www.openstreetmap.org/?lat=50.022817&lon=14.403634
-Bel +Belarie http://www.openstreetmap.org/?lat=50.013248&lon=14.401853
-ModSko +ModranskaSkola http://www.openstreetmap.org/?lat=50.008739&lon=14.403098
-NadMod +NadraziModrany http://www.openstreetmap.org/?lat=50.003919&lon=14.402947
-CecCrv +CechovaCrvrt http://www.openstreetmap.org/?lat=50.002219&lon=14.410093
-PolMod +PoliklinikaModrany http://www.openstreetmap.org/?lat=50.004688&lon=14.419137
-ULibPot +ULibusskehoPotoka http://www.openstreetmap.org/?lat=50.005632&lon=14.423429
-ModRok +ModranskaRokle http://www.openstreetmap.org/?lat=50.006274&lon=14.429297
-SidMod +SidlisteModrany http://www.openstreetmap.org/?lat=50.005122&lon=14.432924
-Lev +Levskeho http://www.openstreetmap.org/?lat=50.005074&lon=14.436314
+PodVod http://www.openstreetmap.org/?lat=50.058854&lon=14.419427
+Kub http://www.openstreetmap.org/?lat=50.054528&lon=14.418182
+Dvo http://www.openstreetmap.org/?lat=50.047460&lon=14.414170
+Pri http://www.openstreetmap.org/?lat=50.040046&lon=14.409471
+PobCes http://www.openstreetmap.org/?lat=50.033872&lon=14.407668
+Bra http://www.openstreetmap.org/?lat=50.027855&lon=14.406896
+CerKun http://www.openstreetmap.org/?lat=50.022817&lon=14.403634
+Bel http://www.openstreetmap.org/?lat=50.013248&lon=14.401853
+ModSko http://www.openstreetmap.org/?lat=50.008739&lon=14.403098
+NadMod http://www.openstreetmap.org/?lat=50.003919&lon=14.402947
+CecCrv http://www.openstreetmap.org/?lat=50.002219&lon=14.410093
+PolMod http://www.openstreetmap.org/?lat=50.004688&lon=14.419137
+ULibPot http://www.openstreetmap.org/?lat=50.005632&lon=14.423429
+ModRok http://www.openstreetmap.org/?lat=50.006274&lon=14.429297
+SidMod http://www.openstreetmap.org/?lat=50.005122&lon=14.432924
+Lev http://www.openstreetmap.org/?lat=50.005074&lon=14.436314
+HraStaMod http://www.openstreetmap.org/?lat=50.005953&lon=14.439898
+ObsLib http://www.openstreetmap.org/?lat=50.006436&lon=14.447086
+SidLib http://www.openstreetmap.org/?lat=50.005953&lon=14.453952
+Libu http://www.openstreetmap.org/?lat=50.008449&lon=14.455819

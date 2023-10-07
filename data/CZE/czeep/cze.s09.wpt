@@ -1,51 +1,52 @@
-LysaNadLab +LysaNadLabem http://www.openstreetmap.org/?lat=50.195542&lon=14.841928
+LysaNadLab http://www.openstreetmap.org/?lat=50.195542&lon=14.841928
 +DIV_S32 http://www.openstreetmap.org/?lat=50.196339&lon=14.835491
 +X586633 http://www.openstreetmap.org/?lat=50.183975&lon=14.777341
-CelJir +CelakoviceJirina http://www.openstreetmap.org/?lat=50.167511&lon=14.765496
-Cel +Celakovice http://www.openstreetmap.org/?lat=50.158006&lon=14.754338
+CelJir http://www.openstreetmap.org/?lat=50.167511&lon=14.765496
+Cel http://www.openstreetmap.org/?lat=50.158006&lon=14.754338
 +DIV_S23 http://www.openstreetmap.org/?lat=50.154198&lon=14.751763
 +X926404 http://www.openstreetmap.org/?lat=50.148406&lon=14.752117
 +X696966 http://www.openstreetmap.org/?lat=50.144002&lon=14.708977
-Mst +Mstetice http://www.openstreetmap.org/?lat=50.137484&lon=14.693699
-Zel +Zelenec http://www.openstreetmap.org/?lat=50.130222&lon=14.665031
-PraHorPoc +PrahaHorniPocernice http://www.openstreetmap.org/?lat=50.116602&lon=14.612589
+Mst http://www.openstreetmap.org/?lat=50.137484&lon=14.693699
+Zel http://www.openstreetmap.org/?lat=50.130222&lon=14.665031
+PraHorPoc http://www.openstreetmap.org/?lat=50.116602&lon=14.612589
 +DIV_S3 http://www.openstreetmap.org/?lat=50.113300&lon=14.574523
 +X826163 http://www.openstreetmap.org/?lat=50.107148&lon=14.555125
 +X900366 http://www.openstreetmap.org/?lat=50.113767&lon=14.516845
-PraVys +PrahaVysocany http://www.openstreetmap.org/?lat=50.112151&lon=14.497447
+PraVys http://www.openstreetmap.org/?lat=50.112151&lon=14.497447
 +DIV_S49W http://www.openstreetmap.org/?lat=50.107114&lon=14.479980
 +DIV_S49E http://www.openstreetmap.org/?lat=50.104320&lon=14.480410
-+X573010 http://www.openstreetmap.org/?lat=50.096034&lon=14.474509
-+X415672 http://www.openstreetmap.org/?lat=50.088353&lon=14.444833
-PraHlaNad +PrahaHlavniNadrazi http://www.openstreetmap.org/?lat=50.083172&lon=14.435349
-+DIV_S7 http://www.openstreetmap.org/?lat=50.070190&lon=14.436421
++DIV_S2 http://www.openstreetmap.org/?lat=50.096034&lon=14.474509
++X742299 http://www.openstreetmap.org/?lat=50.091777&lon=14.463834
++DIV_S7N http://www.openstreetmap.org/?lat=50.088353&lon=14.444833
+PraHlaNad http://www.openstreetmap.org/?lat=50.083172&lon=14.435349
++DIV_S7S http://www.openstreetmap.org/?lat=50.070190&lon=14.436421
 +DIV_S71 http://www.openstreetmap.org/?lat=50.066774&lon=14.440584
-PraVrs +PrahaVrsovice http://www.openstreetmap.org/?lat=50.064722&lon=14.447000
+PraVrs http://www.openstreetmap.org/?lat=50.064722&lon=14.447000
 +DIV_S88 http://www.openstreetmap.org/?lat=50.062463&lon=14.454961
-PraEden +PrahaEden http://www.openstreetmap.org/?lat=50.065528&lon=14.472642
+PraEden http://www.openstreetmap.org/?lat=50.065528&lon=14.472642
 +DIV_S61S http://www.openstreetmap.org/?lat=50.062725&lon=14.497554
-PraZahMes +PrahaZahradniMesto http://www.openstreetmap.org/?lat=50.062077&lon=14.503992
+PraZahMes http://www.openstreetmap.org/?lat=50.062077&lon=14.503992
 +DIV_S61N http://www.openstreetmap.org/?lat=50.061637&lon=14.509034
 +X591411 http://www.openstreetmap.org/?lat=50.061285&lon=14.517317
 +DIV_S49 http://www.openstreetmap.org/?lat=50.058172&lon=14.522338
-PraHos +PrahaHostivar http://www.openstreetmap.org/?lat=50.055003&lon=14.538431
-PraHorMec +PrahaHorniMecholupy http://www.openstreetmap.org/?lat=50.048059&lon=14.565554
-PraUhr +PrahaUhrineves http://www.openstreetmap.org/?lat=50.033700&lon=14.591646
-PraKol +PrahaKolovraty http://www.openstreetmap.org/?lat=50.013738&lon=14.626107
-Ric +Ricany http://www.openstreetmap.org/?lat=49.997602&lon=14.663615
+PraHos http://www.openstreetmap.org/?lat=50.055003&lon=14.538431
+PraHorMec http://www.openstreetmap.org/?lat=50.048059&lon=14.565554
+PraUhr http://www.openstreetmap.org/?lat=50.033700&lon=14.591646
+PraKol http://www.openstreetmap.org/?lat=50.013738&lon=14.626107
+Ric http://www.openstreetmap.org/?lat=49.997602&lon=14.663615
 +X522193 http://www.openstreetmap.org/?lat=49.981075&lon=14.668379
-Sve +Svetice http://www.openstreetmap.org/?lat=49.970193&lon=14.657993
+Sve http://www.openstreetmap.org/?lat=49.970193&lon=14.657993
 +X926197 http://www.openstreetmap.org/?lat=49.957640&lon=14.654174
-Str +Strancice http://www.openstreetmap.org/?lat=49.949466&lon=14.677949
+Str http://www.openstreetmap.org/?lat=49.949466&lon=14.677949
 +X420745 http://www.openstreetmap.org/?lat=49.945303&lon=14.695716
-Mni +Mnichovice http://www.openstreetmap.org/?lat=49.932543&lon=14.707196
-MirPra +MirosovicePrahy http://www.openstreetmap.org/?lat=49.909740&lon=14.720650
-Sen +Senohraby http://www.openstreetmap.org/?lat=49.897081&lon=14.727645
+Mni http://www.openstreetmap.org/?lat=49.932543&lon=14.707196
+MirPra http://www.openstreetmap.org/?lat=49.909740&lon=14.720650
+Sen http://www.openstreetmap.org/?lat=49.897081&lon=14.727645
 +X886355 http://www.openstreetmap.org/?lat=49.878805&lon=14.726701
-Cty +Ctyrkoly http://www.openstreetmap.org/?lat=49.868460&lon=14.713912
-Pys +Pysely http://www.openstreetmap.org/?lat=49.861483&lon=14.699471
-Cer +Cercany http://www.openstreetmap.org/?lat=49.850516&lon=14.701660
+Cty http://www.openstreetmap.org/?lat=49.868460&lon=14.713912
+Pys http://www.openstreetmap.org/?lat=49.861483&lon=14.699471
+Cer http://www.openstreetmap.org/?lat=49.850516&lon=14.701660
 +DIV_S8 http://www.openstreetmap.org/?lat=49.845708&lon=14.698935
 Mrac http://www.openstreetmap.org/?lat=49.832433&lon=14.697990
 +X572002 http://www.openstreetmap.org/?lat=49.808371&lon=14.709363
-BenPra +BenesovPrahy http://www.openstreetmap.org/?lat=49.779726&lon=14.682713
+BenPra http://www.openstreetmap.org/?lat=49.779726&lon=14.682713
