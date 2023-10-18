@@ -1,4 +1,4 @@
-AltenessenBahnhof http://www.openstreetmap.org/?lat=51.484533&lon=7.007990
+AltEssBf http://www.openstreetmap.org/?lat=51.484353&lon=7.007888
 Holtestrasse http://www.openstreetmap.org/?lat=51.478824&lon=7.012088
 Seumannstrasse http://www.openstreetmap.org/?lat=51.474427&lon=7.013826
 Katzenburchstrasse http://www.openstreetmap.org/?lat=51.470230&lon=7.018096
@@ -9,13 +9,12 @@ ViehoferPlatz http://www.openstreetmap.org/?lat=51.461715&lon=7.015564
 +X349620 http://www.openstreetmap.org/?lat=51.460154&lon=7.014856
 RathausEssen http://www.openstreetmap.org/?lat=51.457340&lon=7.015146
 +X929564 http://www.openstreetmap.org/?lat=51.455334&lon=7.015929
-+X923344 http://www.openstreetmap.org/?lat=51.452386&lon=7.013215
-EssenHbf http://www.openstreetmap.org/?lat=51.451456&lon=7.014449
-+X287820 http://www.openstreetmap.org/?lat=51.448357&lon=7.011187
-Philarmonie http://www.openstreetmap.org/?lat=51.445335&lon=7.008870
-RuttenscheiderStern http://www.openstreetmap.org/?lat=51.437671&lon=7.005544
-Martinstrasse http://www.openstreetmap.org/?lat=51.434314&lon=7.004600
-+X367229 http://www.openstreetmap.org/?lat=51.431267&lon=7.003731
+EssHbf http://www.openstreetmap.org/?lat=51.451225&lon=7.013011
++DIV_EssS http://www.openstreetmap.org/?lat=51.448357&lon=7.011187
+Phi http://www.openstreetmap.org/?lat=51.445335&lon=7.008870
+RutSte http://www.openstreetmap.org/?lat=51.437671&lon=7.005544
+MarStr http://www.openstreetmap.org/?lat=51.434314&lon=7.004600
++DIV_Rut http://www.openstreetmap.org/?lat=51.431267&lon=7.003731
 Florastrasse http://www.openstreetmap.org/?lat=51.426491&lon=7.002400
 Alfredusbad http://www.openstreetmap.org/?lat=51.421219&lon=7.000802
 Kruppallee http://www.openstreetmap.org/?lat=51.418155&lon=6.997787
