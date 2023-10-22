@@ -353,6 +353,7 @@ poltt;POL;Tramwaje w Toruniu;TMred;4;preview
 polwt;POL;Tramwaje w Warszawie;TMred;4;preview
 polwrt;POL;Tramwaje we Wrocławiu;TMred;4;preview
 roubm;ROU;Metroul din București;TMblue;3;preview
+roubt;ROU;Tramvaiul din București (1-digit only);TMred;4;preview
 sgpmrt;SGP;Singapore Mass Rapid Transit;TMblue;3;preview
 sgplrt;SGP;Singapore Light Rail Transit;TMyellow;5;preview
 srbbt;SRB;Belgrade trams;TMred;4;preview
