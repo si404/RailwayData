@@ -11,7 +11,7 @@ ENG/SCT http://www.openstreetmap.org/?lat=55.810084&lon=-2.036161
 +SKIP_Dun http://www.openstreetmap.org/?lat=55.998243&lon=-2.513723
 +X627726 http://www.openstreetmap.org/?lat=55.989248&lon=-2.569771
 +X490054 http://www.openstreetmap.org/?lat=55.984483&lon=-2.650881
-+ELI http://www.openstreetmap.org/?lat=55.987025&lon=-2.662532
++SKIP_EastLin http://www.openstreetmap.org/?lat=55.987025&lon=-2.662532
 +X211882 http://www.openstreetmap.org/?lat=56.008171&lon=-2.725554
 +DIV_Ber http://www.openstreetmap.org/?lat=56.006654&lon=-2.775249
 +SKIP_Drem http://www.openstreetmap.org/?lat=56.005064&lon=-2.785678

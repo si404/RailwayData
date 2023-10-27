@@ -13,8 +13,7 @@ gbnsr;SCT;CumLn;;;Cumbernauld Line;sct.cumln;
 gbnsr;SCT;MarLn;;;Maryhill Line;sct.marln;
 gbnsr;SCT;FifeLn;;Dun;Fife Line (Dundee);sct.fifelndun;
 gbnsr;SCT;FifeLn;;Per;Fife Line (Perth);sct.fifelnper;
-gbnsr;SCT;FifeLn;;Gle;Fife Line (Leven via Glenrothes);sct.fifelngle;
-gbnsr;SCT;FifeLn;;Kir;Fife Line (Leven via Kirkcaldy);sct.fifelnkir;
+gbnsr;SCT;FifeLn;;;Fife Line (Leven);sct.fifelnlev;FifeLnGle
 gbnsr;SCT;BorLn;;;Borders Line;sct.borln;
 gbnsr;SCT;EastLotLn;;;East Lothian Line;sct.eastlotln;
 gbnsr;SCT;NorBerLn;;;North Berwick Line;sct.norberln;
@@ -37,6 +36,7 @@ gbnsr;SCT;InvLn;;Wem;Inverclyde Line (Wemyss Bay);sct.invlnwem;
 gbnsr;SCT;CatCirLn;;Que;Cathcart Circle Line (Newton via Queens Park);sct.catcirlnque;
 gbnsr;SCT;CatCirLn;;Max;Cathcart Circle Line (Newton via Maxwell Park);sct.catcirlnmax;
 gbnsr;SCT;CatCirLn;;Nei;Cathcart Circle Line (Neilston);sct.catcirlnnei;
+gbnsr;SCT;CatCirLn;;Cat;Cathcart Circle Line (loop service);sct.catcirlncat;
 gbnsr;SCT;PaiCanLn;;;Paisley Canal Line;sct.paicanln;
 gbnsr;SCT;CarLn;;;Carlisle Line;sct.carln;
 gbnsr;ENG;CarLn;;;Carlisle Line;eng.carln;
