@@ -36,6 +36,7 @@ gbnsr;InvLn;;Inverclyde Line (Wemyss Bay);sct.invlnwem
 gbnsr;CatCirLn;;Cathcart Circle Line (Newton via Queens Park);sct.catcirlnque
 gbnsr;CatCirLn;;Cathcart Circle Line (Newton via Maxwell Park);sct.catcirlnmax
 gbnsr;CatCirLn;;Cathcart Circle Line (Neilston);sct.catcirlnnei
+gbnsr;CatCirLn;;Cathcart Circle Line (loop service);sct.catcirlncat
 gbnsr;PaiCanLn;;Paisley Canal Line;sct.paicanln
 gbnsr;CarLn;;Carlisle Line;sct.carln,eng.carln
 gbnsr;StrLn;;Stranraer Line;sct.strln

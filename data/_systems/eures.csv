@@ -1,11 +1,11 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-eures;ENG;LonPar;;;Eurostar Gold (London - Paris);eng.lonpar;
-eures;FRA-HDF;LonPar;;;Eurostar Gold (London - Paris);frahdf.lonpar;
-eures;FRA-IDF;LonPar;;;Eurostar Gold (London - Paris);fraidf.lonpar;
-eures;ENG;LonAms;;;Eurostar Gold (London - Amsterdam);eng.lonams;
-eures;FRA-HDF;LonAms;;;Eurostar Gold (London - Amsterdam);frahdf.lonams;
-eures;BEL;LonAms;;;Eurostar Gold (London - Amsterdam);bel.lonams;
-eures;NLD;LonAms;;;Eurostar Gold (London - Amsterdam);nld.lonams;
+eures;ENG;LonPar;;;Eurostar Blue (London - Paris);eng.lonpar;
+eures;FRA-HDF;LonPar;;;Eurostar Blue (London - Paris);frahdf.lonpar;
+eures;FRA-IDF;LonPar;;;Eurostar Blue (London - Paris);fraidf.lonpar;
+eures;ENG;LonAms;;;Eurostar Blue (London - Amsterdam);eng.lonams;
+eures;FRA-HDF;LonAms;;;Eurostar Blue (London - Amsterdam);frahdf.lonams;
+eures;BEL;LonAms;;;Eurostar Blue (London - Amsterdam);bel.lonams;
+eures;NLD;LonAms;;;Eurostar Blue (London - Amsterdam);nld.lonams;
 eures;FRA-IDF;ParAms;;;Eurostar Red (Paris - Amsterdam);fraidf.params;
 eures;FRA-HDF;ParAms;;;Eurostar Red (Paris - Amsterdam);frahdf.params;
 eures;BEL;ParAms;;;Eurostar Red (Paris - Amsterdam);bel.params;
