@@ -1,10 +1,6 @@
-Herne http://www.openstreetmap.org/?lat=51.543543&lon=7.217664
-+X334871 http://www.openstreetmap.org/?lat=51.542418&lon=7.212267
-+X714073 http://www.openstreetmap.org/?lat=51.541644&lon=7.210078
-+X299865 http://www.openstreetmap.org/?lat=51.542912&lon=7.199435
-+X134475 http://www.openstreetmap.org/?lat=51.544127&lon=7.195508
-+X257741 http://www.openstreetmap.org/?lat=51.549944&lon=7.191303
-RecklinghausenSud http://www.openstreetmap.org/?lat=51.562018&lon=7.195637
-+X589238 http://www.openstreetmap.org/?lat=51.594542&lon=7.200165
-+X965929 http://www.openstreetmap.org/?lat=51.613880&lon=7.202783
-RecklinghausenHbf http://www.openstreetmap.org/?lat=51.616078&lon=7.203341
+Her http://www.openstreetmap.org/?lat=51.543543&lon=7.217664
++DIV_Hol http://www.openstreetmap.org/?lat=51.540836&lon=7.202096
++DIV_HerW http://www.openstreetmap.org/?lat=51.545425&lon=7.189307
+RecHauSud http://www.openstreetmap.org/?lat=51.562018&lon=7.195637
++DIV_RecS http://www.openstreetmap.org/?lat=51.598323&lon=7.200680
+RecHauHbf http://www.openstreetmap.org/?lat=51.616078&lon=7.203341

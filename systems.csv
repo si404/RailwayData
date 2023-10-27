@@ -108,7 +108,7 @@ deuksrt;DEU;RegioTram Kassel;TMblue;3;preview
 deumu;DEU;U-Bahn München;TMblue;3;preview
 deunu;DEU;U-Bahn Nürnberg;TMblue;3;preview
 deurssb;DEU;Stadtbahn Rhein-Sieg;TMblue;3;preview
-deurru;DEU;Stadtbahn Rhine-Ruhr;TMblue;3;preview
+deurru;DEU;Stadtbahn Rhein-Ruhr;TMblue;3;preview
 deusb;DEU;Saarbahn;TMblue;3;preview
 deusu;DEU;Stadtbahn Stuttgart;TMblue;3;preview
 deuws;DEU;Wuppertaler Schwebebahn;TMblue;3;preview
@@ -348,6 +348,8 @@ polszt;POL;Tramwaje w Szczecinie;TMred;4;preview
 poltt;POL;Tramwaje w Toruniu;TMred;4;preview
 polwt;POL;Tramwaje w Warszawie;TMred;4;preview
 polwrt;POL;Tramwaje we Wrocławiu;TMred;4;preview
+roubm;ROU;Metroul din București;TMblue;3;preview
+roubt;ROU;Tramvaiul din București (1-digit only);TMred;4;preview
 sgpmrt;SGP;Singapore Mass Rapid Transit;TMblue;3;preview
 sgplrt;SGP;Singapore Light Rail Transit;TMyellow;5;preview
 srbbt;SRB;Belgrade trams;TMred;4;preview
