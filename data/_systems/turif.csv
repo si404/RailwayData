@@ -1,5 +1,5 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-turif;TUR;F1;;Ist;İstanbul;tur.f01;
-turif;TUR;F2;;Ist;İstanbul;tur.f02;
-turif;TUR;F3;;Ist;İstanbul;tur.f03;
-turif;TUR;F4;;Ist;İstanbul;tur.f04;
+turif;TUR;F1;;Ist;İstanbul;tur.f01ist;
+turif;TUR;F2;;Ist;İstanbul;tur.f02ist;
+turif;TUR;F3;;Ist;İstanbul;tur.f03ist;
+turif;TUR;F4;;Ist;İstanbul;tur.f04ist;
