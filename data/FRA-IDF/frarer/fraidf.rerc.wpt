@@ -1,7 +1,7 @@
 StQueYve http://www.openstreetmap.org/?lat=48.787428&lon=2.044487
 +DIV_NW http://www.openstreetmap.org/?lat=48.797550&lon=2.066374
 StCyr http://www.openstreetmap.org/?lat=48.798815&lon=2.073390
-VerCha +VersaillesChantiers http://www.openstreetmap.org/?lat=48.795140&lon=2.135532
+VerCha http://www.openstreetmap.org/?lat=48.795140&lon=2.135532
 +DIV_V http://www.openstreetmap.org/?lat=48.795832&lon=2.144909
 +DIV_Ver http://www.openstreetmap.org/?lat=48.796030&lon=2.148278
 +SKIP_Por http://www.openstreetmap.org/?lat=48.796567&lon=2.153149
@@ -19,7 +19,7 @@ ChaMarsTourEif http://www.openstreetmap.org/?lat=48.856689&lon=2.289748
 PontAlma http://www.openstreetmap.org/?lat=48.862520&lon=2.300048
 Inv http://www.openstreetmap.org/?lat=48.862753&lon=2.314811
 MusOrs http://www.openstreetmap.org/?lat=48.860501&lon=2.326055
-StMicNotDame +SaintMichelNotreDame http://www.openstreetmap.org/?lat=48.853470&lon=2.345431
+StMicNotDame http://www.openstreetmap.org/?lat=48.853470&lon=2.345431
 GareAus http://www.openstreetmap.org/?lat=48.842301&lon=2.365644
 BibFraMit http://www.openstreetmap.org/?lat=48.829766&lon=2.377038
 +SKIP_IvrySei http://www.openstreetmap.org/?lat=48.814416&lon=2.391286
