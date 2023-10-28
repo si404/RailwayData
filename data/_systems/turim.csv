@@ -1,0 +1,13 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+turim;TUR;M1A;;;İstanbul;tur.m01a;
+turim;TUR;M1B;;;İstanbul;tur.m01b;
+turim;TUR;M2;;;İstanbul;tur.m02;
+turim;TUR;M2;;Sey;İstanbul Seyrantepe (branch);tur.m02sey;
+turim;TUR;M3;;;İstanbul;tur.m03;
+turim;TUR;M4;;;İstanbul;tur.m04;
+turim;TUR;M5;;;İstanbul;tur.m05;
+turim;TUR;M6;;;İstanbul;tur.m06;
+turim;TUR;M7;;;İstanbul;tur.m07;
+turim;TUR;M8;;;İstanbul;tur.m08;
+turim;TUR;M9;;;İstanbul;tur.m09;
+turim;TUR;M11;;;İstanbul;tur.m11;
