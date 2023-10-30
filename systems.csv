@@ -319,7 +319,7 @@ nldat;NLD;Amsterdam Trams;TMred;4;preview
 nldht;NLD;Den Haag Trams;TMred;4;preview
 nldrt;NLD;Rotterdam Trams;TMred;4;preview
 nldut;NLD;Utrecht Trams;TMred;4;preview
-norfly;NOR;Norway Flytog;TMpurple;1;preview
+norft;NOR;Norway Flytog;TMpurple;1;preview
 norre;NOR;Norway Regionekspress;TMpurple;1;preview
 norr;NOR;Norway Regiontog;TMgreen;2;preview
 norl;NOR;Norway Lokaltog;TMgreen;2;preview
