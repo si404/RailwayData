@@ -357,6 +357,10 @@ svkzdb;SVK;Železničná_doprava v Bratislave;TMgreen;2;preview
 svkedb;SVK;Električková_doprava v Bratislave;TMred;4;preview
 svkedk;SVK;Električková_doprava v Košiciach;TMred;4;preview
 svktez;SVK;Trenčianska elektrická železnica;TMred;4;preview
+turib;TUR;İstanbul Banliyö Treni;TMgreen;2;preview
+turim;TUR;İstanbul Metrosu;TMblue;3;preview
+turit;TUR;İstanbul Tramvayı;TMred;4;preview
+turif;TUR;İstanbul Füniküleri;TMyellow;5;preview
 usacndx;USA;CTrail;TMgreen;2;preview
 usalirr;USA;Long Island Rail Road;TMgreen;2;preview
 usamarc;USA;MARC Train;TMgreen;2;preview
@@ -412,3 +416,4 @@ usammm;USA;Miami Metromover;TMyellow;5;preview
 usatsc;USA;Tempe Streetcar;TMyellow;5;preview
 usautas;USA;UTA S-Line;TMyellow;5;preview
 usakcsc;USA;RideKC Streetcar;TMyellow;5;preview
+usalvct;USA;Las Vegas Casino Trams;TMyellow;5;preview
