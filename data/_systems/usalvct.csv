@@ -1,4 +1,4 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-usalvct;NV;AE;;;Aria Express;nv.ae
-usalvct;NV;MBT;;;Mandalay Bay Tram;nv.mbt
-usalvct;NV;MTI;;;Mirage-Treasure Island Tram;nv.mti
+usalvct;NV;AE;;;Aria Express;nv.ae;
+usalvct;NV;MBT;;;Mandalay Bay Tram;nv.mbt;
+usalvct;NV;MTI;;;Mirage-Treasure Island Tram;nv.mti;
