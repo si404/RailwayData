@@ -151,7 +151,7 @@ deuult;DEU;Straßenbahn Ulm;TMred;4;preview
 deuwut;DEU;Straßenbahn Würzburg;TMred;4;preview
 deuzt;DEU;Straßenbahn Zwickau;TMred;4;preview
 deuddb;DEU;Bergbahnen Dresden;TMyellow;5;preview
-deunwh;DEU;Hängebahn;TMyellow;5;preview
+deunwh;DEU;Hängebahn Dortmund;TMyellow;5;preview
 dnkks;DNK;Københavns S-tog;TMgreen;2;preview
 dnkkm;DNK;Københavns Metro;TMblue;3;preview
 espca;ESP;Cercanías Asturias;TMgreen;2;preview
@@ -192,8 +192,6 @@ esptz;ESP;Tranvía de Zaragoza;TMred;4;preview
 eures;EUR;Eurostar;TMpurple;1;preview
 euret;EUR;LeShuttle (Eurotunnel);TMpurple;1;preview
 eurapm;EUR;Europe Airport People Movers (landside);TMyellow;5;preview
-eurapma;EUR;Europe Airport People Movers (airside);TMyellow;5;preview
-eurat;EUR;Europe Aerial Tramways;TMyellow;5;preview
 eurf;EUR;Europe Funiculars;TMyellow;5;preview
 eurhr;EUR;Europe Heritage & Tourist Railways;TMbrown;5;preview
 fracp;FRA;Chemins de fer de Provence;TMgreen;2;preview
@@ -283,7 +281,6 @@ gbnwmm;GBR;West Midlands Metro;TMred;4;preview
 hkgmtr;CHN;Hong Kong Mass Transit Railway;TMblue;3;preview
 hkghkt;CHN;Hong Kong Tramways;TMred;4;preview
 hkglr;CHN;Hong Kong Light Rail;TMred;4;preview
-hkgnpcc;CHN;Ngong Ping Cable Car;TMyellow;5;preview
 hkgop;CHN;Ocean Park Transport;TMyellow;5;preview
 hkgpt;CHN;Peak Tram;TMyellow;5;preview
 hrvzt;HRV;Tramvajski promet u Zagrebu;TMred;4;preview
