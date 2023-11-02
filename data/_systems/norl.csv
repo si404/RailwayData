@@ -1,3 +1,5 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
 norl;NOR;L1;;;;nor.l01;
 norl;NOR;L2;;;;nor.l02;
+norl;NOR;L4;;;;nor.l04;
+norl;NOR;L5;;;;nor.l05;
