@@ -1,0 +1,8 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+usamuni;CA;MuniF;;;F (Market & Wharves);ca.munif;
+usamuni;CA;MuniJ;;;J (Church);ca.munij;
+usamuni;CA;MuniK;;;K (Ingleside);ca.munik;
+usamuni;CA;MuniL;;;L (Taraval);ca.munil;
+usamuni;CA;MuniM;;;M (Ocean View);ca.munim;
+usamuni;CA;MuniN;;;N (Judah);ca.munin;
+usamuni;CA;MuniT;;;T(Third Street);ca.munit;
