@@ -380,6 +380,9 @@ usasepa;USA;SEPTA Regional Rail;TMgreen;2;preview
 usautax;USA;UTA FrontRunner;TMgreen;2;preview
 usavrex;USA;Virginia Railway Express;TMgreen;2;preview
 usatr;USA;United States Tourist/Heritage Railroads;TMgreen;2;preview
+usaace;USA;Altamont Corridor Express;TMgreen;2;preview
+usajpbx;USA;Caltrain;TMgreen;2;preview
+usasmart;USA;Sonoma-Marin Area Rail Transit;TMgreen;2;preview
 usabmsl;USA;Baltimore Metro SubwayLink;TMblue;3;preview
 usambta;USA;MBTA Subway;TMblue;3;preview
 usapatco;USA;PATCO Speedline;TMblue;3;preview
@@ -394,6 +397,7 @@ usarta;USA;Cleveland RTA Heavy Rail;TMblue;3;preview
 usacta;USA;Chicago L;TMblue;3;preview
 usalvm;USA;Las Vegas Monorail;TMblue;3;preview
 usalams;USA;L.A. Metro Subway;TMblue;3;preview
+usabart;USA;Bay Area Rapid Transit;TMBlue;3;preview
 usablrl;USA;Baltimore Light RailLink;TMred;4;preview
 usanfta;USA;Buffalo Metro Rail;TMred;4;preview
 usadcsc;USA;DC Streetcar;TMred;4;preview
@@ -412,6 +416,9 @@ usautat;USA;UTA TRAX;TMred;4;preview
 usalamlr;USA;L.A. Metro Light Rail;TMred;4;preview
 usamts;USA;San Diego Trolley;TMred;4;preview
 usartdz;USA;Denver RTD Light Rail;TMred;4;preview
+usamuni;USA;San Francisco MUNI Light Rail;TMred;4;preview
+usasrt;USA;Sacramento RT Light Rail;TMred;4;preview
+usavta;USA;VTA Light Rail;TMred;4;preview
 usaair;USA;United States Landside Airport Rail Systems;TMyellow;5;preview
 usair;USA;United States Incline Railways;TMyellow;5;preview
 usahunhts;USA;Huntsville Hospital Tram System;TMyellow;5;preview
@@ -422,3 +429,4 @@ usatsc;USA;Tempe Streetcar;TMyellow;5;preview
 usautas;USA;UTA S-Line;TMyellow;5;preview
 usakcsc;USA;RideKC Streetcar;TMyellow;5;preview
 usalvct;USA;Las Vegas Casino Trams;TMyellow;5;preview
+usasfcc;USA;San Francisco Cable Cars;TMyellow;5;preview
