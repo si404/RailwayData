@@ -1,36 +1,32 @@
-Rybnik http://www.openstreetmap.org/?lat=50.088883&lon=18.547540
-+X291920 http://www.openstreetmap.org/?lat=50.094665&lon=18.559813
-+RybnikPiaski http://www.openstreetmap.org/?lat=50.096482&lon=18.586164
-+Szczejkowice http://www.openstreetmap.org/?lat=50.079548&lon=18.671951
+Ryb +Rybnik http://www.openstreetmap.org/?lat=50.088883&lon=18.547540
++DIV_S7S71S76 http://www.openstreetmap.org/?lat=50.094665&lon=18.559813
++SKIP_RybPia http://www.openstreetmap.org/?lat=50.096482&lon=18.586164
++SKIP_Szc http://www.openstreetmap.org/?lat=50.079548&lon=18.671951
 +X181673 http://www.openstreetmap.org/?lat=50.072635&lon=18.692980
 Zory http://www.openstreetmap.org/?lat=50.052944&lon=18.702099
-+X564801 http://www.openstreetmap.org/?lat=50.049293&lon=18.703988
-+X741188 http://www.openstreetmap.org/?lat=50.040639&lon=18.709695
-+X942019 http://www.openstreetmap.org/?lat=49.958523&lon=18.727398
-+X772712 http://www.openstreetmap.org/?lat=49.941154&lon=18.735337
-Strumien http://www.openstreetmap.org/?lat=49.911205&lon=18.753448
-+X164898 http://www.openstreetmap.org/?lat=49.889153&lon=18.777223
-Chybie http://www.openstreetmap.org/?lat=49.892803&lon=18.809259
-+X372169 http://www.openstreetmap.org/?lat=49.893871&lon=18.818722
-+X794810 http://www.openstreetmap.org/?lat=49.895771&lon=18.835534
-+ZabrzegCzarnolesie http://www.openstreetmap.org/?lat=49.903947&lon=18.906709
-+Zabrzeg http://www.openstreetmap.org/?lat=49.907619&lon=18.938756
-+X717866 http://www.openstreetmap.org/?lat=49.910490&lon=18.964527
-+X690436 http://www.openstreetmap.org/?lat=49.914639&lon=19.000211
-CzechowiceDziedzice http://www.openstreetmap.org/?lat=49.915357&lon=19.006691
-+X687236 http://www.openstreetmap.org/?lat=49.916946&lon=19.021068
-+CzechowiceDziedzicePrzystanek http://www.openstreetmap.org/?lat=49.905761&lon=19.022484
-+CzechowiceDziedzicePoludniowe http://www.openstreetmap.org/?lat=49.890142&lon=19.024329
-+BielskoBialaKomorowice http://www.openstreetmap.org/?lat=49.861434&lon=19.035788
-+BielskoBialaPolnoc http://www.openstreetmap.org/?lat=49.841539&lon=19.041495
-+X361362 http://www.openstreetmap.org/?lat=49.832792&lon=19.044929
-BielskoBialaGlowna http://www.openstreetmap.org/?lat=49.829858&lon=19.045272
-BielskoBialaLipnik http://www.openstreetmap.org/?lat=49.813931&lon=19.049606
-BielskoBialaLeszczyny http://www.openstreetmap.org/?lat=49.797036&lon=19.060807
-+BielskoBialaMikuszowice http://www.openstreetmap.org/?lat=49.782421&lon=19.074605
-WilkowiceBystra http://www.openstreetmap.org/?lat=49.760019&lon=19.088273
-+LodygowiceGorne http://www.openstreetmap.org/?lat=49.735755&lon=19.123635
-Lodygowice http://www.openstreetmap.org/?lat=49.725159&lon=19.141273
-+PietrzykowiceZywieckie http://www.openstreetmap.org/?lat=49.709898&lon=19.172173
-+X841205 http://www.openstreetmap.org/?lat=49.682083&lon=19.187236
-Zywiec http://www.openstreetmap.org/?lat=49.679112&lon=19.185605
++DIV_S72 http://www.openstreetmap.org/?lat=50.045414&lon=18.707700
++DIV_Jas http://www.openstreetmap.org/?lat=49.949839&lon=18.728085
+Str +Strumien http://www.openstreetmap.org/?lat=49.911205&lon=18.753448
++DIV_S61 http://www.openstreetmap.org/?lat=49.889153&lon=18.777223
+Chy +Chybie http://www.openstreetmap.org/?lat=49.892803&lon=18.809259
++DIV_S6S76 http://www.openstreetmap.org/?lat=49.893902&lon=18.826962
++SKIP_ZabCza http://www.openstreetmap.org/?lat=49.903947&lon=18.906709
++SKIP_Zab http://www.openstreetmap.org/?lat=49.907619&lon=18.938756
++DIV_S5S6 http://www.openstreetmap.org/?lat=49.916041&lon=18.987122
+CzeDzi +CzechowiceDziedzice http://www.openstreetmap.org/?lat=49.915357&lon=19.006691
++DIV_Osw http://www.openstreetmap.org/?lat=49.916946&lon=19.021068
++SKIP_CzeDziPrz http://www.openstreetmap.org/?lat=49.905761&lon=19.022484
++SKIP_CzeDziPol http://www.openstreetmap.org/?lat=49.890142&lon=19.024329
++SKIP_BieBiaKom http://www.openstreetmap.org/?lat=49.861434&lon=19.035788
++SKIP_BieBiaPol http://www.openstreetmap.org/?lat=49.841539&lon=19.041495
++DIV_Kozy http://www.openstreetmap.org/?lat=49.832792&lon=19.044929
+BieBiaGlo +BielskoBialaGlowna http://www.openstreetmap.org/?lat=49.829858&lon=19.045272
+BieBiaLip +BielskoBialaLipnik http://www.openstreetmap.org/?lat=49.813931&lon=19.049606
+BieBiaLes +BielskoBialaLeszczyny http://www.openstreetmap.org/?lat=49.797036&lon=19.060807
++SKIP_BieBiaMik http://www.openstreetmap.org/?lat=49.782421&lon=19.074605
+WilBys +WilkowiceBystra http://www.openstreetmap.org/?lat=49.760019&lon=19.088273
++SKIP_LodGor http://www.openstreetmap.org/?lat=49.735755&lon=19.123635
+Lod +Lodygowice http://www.openstreetmap.org/?lat=49.725159&lon=19.141273
++SKIP_PieZyw http://www.openstreetmap.org/?lat=49.709898&lon=19.172173
++DIV_S51 http://www.openstreetmap.org/?lat=49.682083&lon=19.187236
+Zyw +Zywiec http://www.openstreetmap.org/?lat=49.679112&lon=19.185605
