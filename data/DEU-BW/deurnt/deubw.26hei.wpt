@@ -9,9 +9,9 @@ BruStr http://www.openstreetmap.org/?lat=49.415503&lon=8.692117
 BisPla http://www.openstreetmap.org/?lat=49.409584&lon=8.693039
 +DIV_Bis http://www.openstreetmap.org/?lat=49.409012&lon=8.692460
 AltHalBad http://www.openstreetmap.org/?lat=49.408397&lon=8.688383
-VolHochSch +Volkshochschule http://www.openstreetmap.org/?lat=49.407825&lon=8.680530
+VolHochSch http://www.openstreetmap.org/?lat=49.407825&lon=8.680530
 +DIV_Mit http://www.openstreetmap.org/?lat=49.407919&lon=8.676860
-BetHof +Bretriebshof http://www.openstreetmap.org/?lat=49.407884&lon=8.676002
+BetHof http://www.openstreetmap.org/?lat=49.407884&lon=8.676002
 +DIV_Bet http://www.openstreetmap.org/?lat=49.407828&lon=8.674897
 CzeBru http://www.openstreetmap.org/?lat=49.406806&lon=8.671260
 GadPla http://www.openstreetmap.org/?lat=49.403566&lon=8.667784
