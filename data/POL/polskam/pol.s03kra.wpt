@@ -1,56 +1,50 @@
-Oswiecim http://www.openstreetmap.org/?lat=50.041569&lon=19.199810
-+X929437 http://www.openstreetmap.org/?lat=50.045655&lon=19.205711
-+X919263 http://www.openstreetmap.org/?lat=50.049024&lon=19.210539
-+X253216 http://www.openstreetmap.org/?lat=50.049961&lon=19.212127
-GorzowChrzanowski http://www.openstreetmap.org/?lat=50.073716&lon=19.242146
-Chelmek http://www.openstreetmap.org/?lat=50.099345&lon=19.254184
+Osw +Oswiecim http://www.openstreetmap.org/?lat=50.041569&lon=19.199810
++DIV_S31 http://www.openstreetmap.org/?lat=50.047887&lon=19.208136
++DIV_Dwo http://www.openstreetmap.org/?lat=50.049961&lon=19.212127
+GorChr +GorzowChrzanowski http://www.openstreetmap.org/?lat=50.073716&lon=19.242146
+Che +Chelmek http://www.openstreetmap.org/?lat=50.099345&lon=19.254184
 +X275443 http://www.openstreetmap.org/?lat=50.118611&lon=19.285212
-Libiaz http://www.openstreetmap.org/?lat=50.113148&lon=19.326153
+Lib +Libiaz http://www.openstreetmap.org/?lat=50.113148&lon=19.326153
 +X447779 http://www.openstreetmap.org/?lat=50.111951&lon=19.340744
-+X758594 http://www.openstreetmap.org/?lat=50.129149&lon=19.389796
-Chrzanow http://www.openstreetmap.org/?lat=50.133220&lon=19.398165
-ChrzanowSrodmiescie http://www.openstreetmap.org/?lat=50.144525&lon=19.414043
+Chr +Chrzanow http://www.openstreetmap.org/?lat=50.133220&lon=19.398165
+ChrSro +ChrzanowSrodmiescie http://www.openstreetmap.org/?lat=50.144525&lon=19.414043
 +X273340 http://www.openstreetmap.org/?lat=50.156281&lon=19.425888
-+X177718 http://www.openstreetmap.org/?lat=50.157188&lon=19.443827
-Trzebinia http://www.openstreetmap.org/?lat=50.153889&lon=19.453011
-Dulowa http://www.openstreetmap.org/?lat=50.140482&lon=19.520688
-WolaFilipowska http://www.openstreetmap.org/?lat=50.130854&lon=19.577122
-Krzeszowice http://www.openstreetmap.org/?lat=50.130744&lon=19.636173
++DIV_S3 http://www.openstreetmap.org/?lat=50.157188&lon=19.443827
+Trz +Trzebinia http://www.openstreetmap.org/?lat=50.153889&lon=19.453011
+Dul +Dulowa http://www.openstreetmap.org/?lat=50.140482&lon=19.520688
+WolaFil +WolaFilipowska http://www.openstreetmap.org/?lat=50.130854&lon=19.577122
+Krz +Krzeszowice http://www.openstreetmap.org/?lat=50.130744&lon=19.636173
 +X836241 http://www.openstreetmap.org/?lat=50.128708&lon=19.681492
-Rudawa http://www.openstreetmap.org/?lat=50.118748&lon=19.719386
+Rud +Rudawa http://www.openstreetmap.org/?lat=50.118748&lon=19.719386
 +X446397 http://www.openstreetmap.org/?lat=50.123784&lon=19.764404
-Zabierzow http://www.openstreetmap.org/?lat=50.117923&lon=19.798651
-ZabierzowRzaska http://www.openstreetmap.org/?lat=50.105621&lon=19.823585
-KrakowMydlnikiWapiennik http://www.openstreetmap.org/?lat=50.091223&lon=19.844484
-KrakowMydlinki http://www.openstreetmap.org/?lat=50.083575&lon=19.859741
-+X160763 http://www.openstreetmap.org/?lat=50.082363&lon=19.870877
-KrakowBronowice http://www.openstreetmap.org/?lat=50.082956&lon=19.892786
-KrakowLobzow http://www.openstreetmap.org/?lat=50.081944&lon=19.918041
-+X503330 http://www.openstreetmap.org/?lat=50.079217&lon=19.938040
-+X723670 http://www.openstreetmap.org/?lat=50.073186&lon=19.946108
-KrakowGlowny http://www.openstreetmap.org/?lat=50.068558&lon=19.947824
-+X994245 http://www.openstreetmap.org/?lat=50.056154&lon=19.948275
-KrakowZablocie http://www.openstreetmap.org/?lat=50.048114&lon=19.957523
-+X812231 http://www.openstreetmap.org/?lat=50.045248&lon=19.961429
-+X606199 http://www.openstreetmap.org/?lat=50.041721&lon=19.966364
-+X927824 http://www.openstreetmap.org/?lat=50.039846&lon=19.968467
-KrakowPlaszow http://www.openstreetmap.org/?lat=50.034637&lon=19.975762
-KrakowProkocim http://www.openstreetmap.org/?lat=50.026566&lon=19.998915
-KrakowBiezanow http://www.openstreetmap.org/?lat=50.021652&lon=20.030050
-KrakowZloclen http://www.openstreetmap.org/?lat=50.018177&lon=20.051079
-Kokotow http://www.openstreetmap.org/?lat=50.017846&lon=20.069833
-WegrzceWielkie http://www.openstreetmap.org/?lat=50.018756&lon=20.105710
-+X477253 http://www.openstreetmap.org/?lat=50.019825&lon=20.145686
-+X372002 http://www.openstreetmap.org/?lat=50.020273&lon=20.156608
-Podleze http://www.openstreetmap.org/?lat=50.018294&lon=20.168688
-Staniatki http://www.openstreetmap.org/?lat=50.010642&lon=20.206733
+Zab +Zabierzow http://www.openstreetmap.org/?lat=50.117923&lon=19.798651
+ZabRza +ZabierzowRzaska http://www.openstreetmap.org/?lat=50.105621&lon=19.823585
+KraMydWap +KrakowMydlnikiWapiennik http://www.openstreetmap.org/?lat=50.091223&lon=19.844484
+KraMyd +KrakowMydlinki http://www.openstreetmap.org/?lat=50.083575&lon=19.859741
++DIV_S1 http://www.openstreetmap.org/?lat=50.082363&lon=19.870877
+KraBro +KrakowBronowice http://www.openstreetmap.org/?lat=50.082956&lon=19.892786
+KraLob +KrakowLobzow http://www.openstreetmap.org/?lat=50.081944&lon=19.918041
++DIV_S2N http://www.openstreetmap.org/?lat=50.077207&lon=19.943318
+KraGlo +KrakowGlowny http://www.openstreetmap.org/?lat=50.068558&lon=19.947824
+KraGrz http://www.openstreetmap.org/?lat=50.057748&lon=19.947932
+KraZab +KrakowZablocie http://www.openstreetmap.org/?lat=50.048114&lon=19.957523
++DIV_S2S http://www.openstreetmap.org/?lat=50.042051&lon=19.964046
+KraPla +KrakowPlaszow http://www.openstreetmap.org/?lat=50.034637&lon=19.975762
+KraPro +KrakowProkocim http://www.openstreetmap.org/?lat=50.026566&lon=19.998915
+KraBie +KrakowBiezanow http://www.openstreetmap.org/?lat=50.021652&lon=20.030050
+KraZlo +KrakowZloclen http://www.openstreetmap.org/?lat=50.018177&lon=20.051079
+Kok +Kokotow http://www.openstreetmap.org/?lat=50.017846&lon=20.069833
+Weg +WegrzceWielkie http://www.openstreetmap.org/?lat=50.018756&lon=20.105710
++DIV_Lub http://www.openstreetmap.org/?lat=50.020652&lon=20.151179
+Pod +Podleze http://www.openstreetmap.org/?lat=50.018294&lon=20.168688
+Stai +Staniatki http://www.openstreetmap.org/?lat=50.010642&lon=20.206733
 Klaj http://www.openstreetmap.org/?lat=50.001733&lon=20.301383
-Stanislawice http://www.openstreetmap.org/?lat=49.991615&lon=20.355778
-Cikowice http://www.openstreetmap.org/?lat=49.984910&lon=20.380712
-Bochnia http://www.openstreetmap.org/?lat=49.977308&lon=20.431395
-BezeskoOkocim http://www.openstreetmap.org/?lat=49.986690&lon=20.609236
-Biadoliny http://www.openstreetmap.org/?lat=50.003740&lon=20.735064
-Bogumilowice http://www.openstreetmap.org/?lat=50.007546&lon=20.872650
-TarnowMoscice http://www.openstreetmap.org/?lat=50.006332&lon=20.925694
-+X955361 http://www.openstreetmap.org/?lat=50.005601&lon=20.963545
-Tarnow http://www.openstreetmap.org/?lat=50.005298&lon=20.974832
+Stae +Stanislawice http://www.openstreetmap.org/?lat=49.991615&lon=20.355778
+Cik +Cikowice http://www.openstreetmap.org/?lat=49.984910&lon=20.380712
+Boc +Bochnia http://www.openstreetmap.org/?lat=49.977308&lon=20.431395
+BezOko +BezeskoOkocim http://www.openstreetmap.org/?lat=49.986690&lon=20.609236
+Bia +Biadoliny http://www.openstreetmap.org/?lat=50.003740&lon=20.735064
+Bog +Bogumilowice http://www.openstreetmap.org/?lat=50.007546&lon=20.872650
+TarMos +TarnowMoscice http://www.openstreetmap.org/?lat=50.006332&lon=20.925694
++DIV_Zab http://www.openstreetmap.org/?lat=50.005601&lon=20.963545
+Tar +Tarnow http://www.openstreetmap.org/?lat=50.005298&lon=20.974832

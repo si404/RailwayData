@@ -1,41 +1,41 @@
-MarynarkiPolskiej_1 http://www.openstreetmap.org/?lat=54.398440&lon=18.666308
-+X858247_A http://www.openstreetmap.org/?lat=54.399258&lon=18.669130
-PlacWolnosci http://www.openstreetmap.org/?lat=54.398983&lon=18.670213
-NowyPortZajezdnia http://www.openstreetmap.org/?lat=54.397978&lon=18.673239
-WldayslawaIV http://www.openstreetmap.org/?lat=54.398702&lon=18.674312
-NowyPortOliwska http://www.openstreetmap.org/?lat=54.401600&lon=18.674355
-Przychodnia http://www.openstreetmap.org/?lat=54.402231&lon=18.669698
-+X174281_B http://www.openstreetmap.org/?lat=54.402687&lon=18.664935
-NaZaspe http://www.openstreetmap.org/?lat=54.401388&lon=18.664613
-+X858247_B http://www.openstreetmap.org/?lat=54.399258&lon=18.669130
-MarynarkiPolskiej_2 http://www.openstreetmap.org/?lat=54.398440&lon=18.666308
-Sniezna http://www.openstreetmap.org/?lat=54.392072&lon=18.657467
-PolsatPlusArenaGdansk http://www.openstreetmap.org/?lat=54.387236&lon=18.648627
-Mostostal http://www.openstreetmap.org/?lat=54.385725&lon=18.644786
-ZaglowaAmberExpo http://www.openstreetmap.org/?lat=54.382451&lon=18.638649
-Swojska http://www.openstreetmap.org/?lat=54.379164&lon=18.633821
-WezelKliniczna http://www.openstreetmap.org/?lat=54.376543&lon=18.630688
-+X763404 http://www.openstreetmap.org/?lat=54.375515&lon=18.630903
-Twarda http://www.openstreetmap.org/?lat=54.374477&lon=18.631182
-StoczniaPolnocna http://www.openstreetmap.org/?lat=54.371840&lon=18.633907
-StoczniaSKM http://www.openstreetmap.org/?lat=54.364574&lon=18.641835
-PlacSolidarnosci http://www.openstreetmap.org/?lat=54.360442&lon=18.647822
-+X353993 http://www.openstreetmap.org/?lat=54.357547&lon=18.645966
-DworzecGlowny http://www.openstreetmap.org/?lat=54.356384&lon=18.644249
-+X914948 http://www.openstreetmap.org/?lat=54.351889&lon=18.646331
-BramaWyzynna http://www.openstreetmap.org/?lat=54.350569&lon=18.646116
-+X659732 http://www.openstreetmap.org/?lat=54.347680&lon=18.645258
-SrodmiescieSKM http://www.openstreetmap.org/?lat=54.347749&lon=18.643917
-+X956532 http://www.openstreetmap.org/?lat=54.347993&lon=18.642329
-Pohulanka http://www.openstreetmap.org/?lat=54.348631&lon=18.636729
-Odrzanska http://www.openstreetmap.org/?lat=54.345404&lon=18.626021
-Chalubinskiego http://www.openstreetmap.org/?lat=54.341739&lon=18.617696
-Sikorskiego http://www.openstreetmap.org/?lat=54.338612&lon=18.618479
-+X667605 http://www.openstreetmap.org/?lat=54.337961&lon=18.617127
-Cieszynskiego http://www.openstreetmap.org/?lat=54.338190&lon=18.610260
-Cebertowicza http://www.openstreetmap.org/?lat=54.338427&lon=18.605239
-Wilanowska http://www.openstreetmap.org/?lat=54.336588&lon=18.599145
-Przemyska http://www.openstreetmap.org/?lat=54.333261&lon=18.596356
-+X206554 http://www.openstreetmap.org/?lat=54.332385&lon=18.596270
-Plocka http://www.openstreetmap.org/?lat=54.328969&lon=18.598781
-LostowiceSwietokrzyska http://www.openstreetmap.org/?lat=54.322700&lon=18.606377
+MarPol_1 +MarynarkiPolskiej_1 http://www.openstreetmap.org/?lat=54.398440&lon=18.666308
++DIV_5710A http://www.openstreetmap.org/?lat=54.399258&lon=18.669130
+PlacWol +PlacWolnosci http://www.openstreetmap.org/?lat=54.398983&lon=18.670213
+NowyPortZaj +NowyPortZajezdnia http://www.openstreetmap.org/?lat=54.397978&lon=18.673239
+WldIV +WldayslawaIV http://www.openstreetmap.org/?lat=54.398702&lon=18.674312
+NowyPortOli +NowyPortOliwska http://www.openstreetmap.org/?lat=54.401600&lon=18.674355
+Przy +Przychodnia http://www.openstreetmap.org/?lat=54.402231&lon=18.669698
++DIV_5 http://www.openstreetmap.org/?lat=54.402687&lon=18.664935
+NaZas +NaZaspe http://www.openstreetmap.org/?lat=54.401388&lon=18.664613
++DIV_5710B http://www.openstreetmap.org/?lat=54.399258&lon=18.669130
+MarPol_2 +MarynarkiPolskiej_2 http://www.openstreetmap.org/?lat=54.398440&lon=18.666308
+Sni +Sniezna http://www.openstreetmap.org/?lat=54.392072&lon=18.657467
+PolPlusAreGda +PolsatPlusArenaGdansk http://www.openstreetmap.org/?lat=54.387236&lon=18.648627
+Mos +Mostostal http://www.openstreetmap.org/?lat=54.385725&lon=18.644786
+ZagAmbExpo +ZaglowaAmberExpo http://www.openstreetmap.org/?lat=54.382451&lon=18.638649
+Swo +Swojska http://www.openstreetmap.org/?lat=54.379164&lon=18.633821
+WezKli +WezelKliniczna http://www.openstreetmap.org/?lat=54.376543&lon=18.630688
++DIV_8 http://www.openstreetmap.org/?lat=54.375515&lon=18.630903
+Twa +Twarda http://www.openstreetmap.org/?lat=54.374477&lon=18.631182
+StoPol +StoczniaPolnocna http://www.openstreetmap.org/?lat=54.371840&lon=18.633907
+StoSKM +StoczniaSKM http://www.openstreetmap.org/?lat=54.364574&lon=18.641835
+PlacSol +PlacSolidarnosci http://www.openstreetmap.org/?lat=54.360442&lon=18.647822
++DIV_23691112 http://www.openstreetmap.org/?lat=54.357547&lon=18.645966
+DwoGlo +DworzecGlowny http://www.openstreetmap.org/?lat=54.356384&lon=18.644249
++DIV_1012 http://www.openstreetmap.org/?lat=54.351889&lon=18.646331
+BraWyz +BramaWyzynna http://www.openstreetmap.org/?lat=54.350569&lon=18.646116
++DIV_89 http://www.openstreetmap.org/?lat=54.347680&lon=18.645258
+SroSKM +SrodmiescieSKM http://www.openstreetmap.org/?lat=54.347749&lon=18.643917
++DIV_4 http://www.openstreetmap.org/?lat=54.347993&lon=18.642329
+Poh +Pohulanka http://www.openstreetmap.org/?lat=54.348631&lon=18.636729
+Odr +Odrzanska http://www.openstreetmap.org/?lat=54.345404&lon=18.626021
+Cha +Chalubinskiego http://www.openstreetmap.org/?lat=54.341739&lon=18.617696
+Sik +Sikorskiego http://www.openstreetmap.org/?lat=54.338612&lon=18.618479
++DIV_3 http://www.openstreetmap.org/?lat=54.337961&lon=18.617127
+Cie +Cieszynskiego http://www.openstreetmap.org/?lat=54.338190&lon=18.610260
+Ceb +Cebertowicza http://www.openstreetmap.org/?lat=54.338427&lon=18.605239
+Wil +Wilanowska http://www.openstreetmap.org/?lat=54.336588&lon=18.599145
+Prze +Przemyska http://www.openstreetmap.org/?lat=54.333261&lon=18.596356
++DIV_2411 http://www.openstreetmap.org/?lat=54.332385&lon=18.596270
+Plo +Plocka http://www.openstreetmap.org/?lat=54.328969&lon=18.598781
+LosSwi +LostowiceSwietokrzyska http://www.openstreetmap.org/?lat=54.322700&lon=18.606377

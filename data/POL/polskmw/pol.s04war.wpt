@@ -1,38 +1,36 @@
-Wieliszew http://www.openstreetmap.org/?lat=52.428136&lon=20.974789
-MichalowReginow http://www.openstreetmap.org/?lat=52.422510&lon=20.962815
-LegionowoPiaski http://www.openstreetmap.org/?lat=52.412538&lon=20.942731
-+X133484 http://www.openstreetmap.org/?lat=52.410417&lon=20.939512
-+X717780 http://www.openstreetmap.org/?lat=52.404788&lon=20.937366
-Legionowo http://www.openstreetmap.org/?lat=52.401411&lon=20.941572
+Wie +Wieliszew http://www.openstreetmap.org/?lat=52.428136&lon=20.974789
+MicReg +MichalowReginow http://www.openstreetmap.org/?lat=52.422510&lon=20.962815
+LegPia +LegionowoPiaski http://www.openstreetmap.org/?lat=52.412538&lon=20.942731
++DIV_Prz http://www.openstreetmap.org/?lat=52.407773&lon=20.935092
+Leg +Legionowo http://www.openstreetmap.org/?lat=52.401411&lon=20.941572
 +X757367 http://www.openstreetmap.org/?lat=52.387138&lon=20.959339
-WarszawaChoszczowka http://www.openstreetmap.org/?lat=52.357636&lon=20.972385
-WarszawaPludy http://www.openstreetmap.org/?lat=52.334139&lon=20.985818
-WarszawaZeran http://www.openstreetmap.org/?lat=52.314021&lon=20.998414
-WarszawaTorunska http://www.openstreetmap.org/?lat=52.293343&lon=21.012061
-WarszawaPraga http://www.openstreetmap.org/?lat=52.277407&lon=21.022060
-+X498595 http://www.openstreetmap.org/?lat=52.270344&lon=21.027317
-+X894050 http://www.openstreetmap.org/?lat=52.265419&lon=21.024055
-WarszawaZoo http://www.openstreetmap.org/?lat=52.263538&lon=21.017876
-WarszawaGdanska http://www.openstreetmap.org/?lat=52.259037&lon=20.994337
-WarszawaPowazki http://www.openstreetmap.org/?lat=52.256068&lon=20.972214
-+X627779 http://www.openstreetmap.org/?lat=52.252798&lon=20.962944
-WarszawaKolo http://www.openstreetmap.org/?lat=52.246902&lon=20.959049
-WarszawaMlynow http://www.openstreetmap.org/?lat=52.238257&lon=20.958374
-WarszawaWola http://www.openstreetmap.org/?lat=52.230661&lon=20.957869
-WarszawaZachodnia http://www.openstreetmap.org/?lat=52.219926&lon=20.965047
+WarCho +WarszawaChoszczowka http://www.openstreetmap.org/?lat=52.357636&lon=20.972385
+WarPlu +WarszawaPludy http://www.openstreetmap.org/?lat=52.334139&lon=20.985818
+WarZer +WarszawaZeran http://www.openstreetmap.org/?lat=52.314021&lon=20.998414
+WarTor +WarszawaTorunska http://www.openstreetmap.org/?lat=52.293343&lon=21.012061
+WarPra +WarszawaPraga http://www.openstreetmap.org/?lat=52.277407&lon=21.022060
++DIV_Tar http://www.openstreetmap.org/?lat=52.267626&lon=21.029034
+WarZoo +WarszawaZoo http://www.openstreetmap.org/?lat=52.263538&lon=21.017876
+WarGda +WarszawaGdanska http://www.openstreetmap.org/?lat=52.259037&lon=20.994337
+WarPow +WarszawaPowazki http://www.openstreetmap.org/?lat=52.256068&lon=20.972214
++DIV_Gok http://www.openstreetmap.org/?lat=52.252798&lon=20.962944
+WarKolo +WarszawaKolo http://www.openstreetmap.org/?lat=52.246902&lon=20.959049
+WarMly +WarszawaMlynow http://www.openstreetmap.org/?lat=52.238257&lon=20.958374
+WarWola +WarszawaWola http://www.openstreetmap.org/?lat=52.230661&lon=20.957869
+WarZac +WarszawaZachodnia http://www.openstreetmap.org/?lat=52.219926&lon=20.965047
 +X653945 http://www.openstreetmap.org/?lat=52.220419&lon=20.960734
-+X464920 http://www.openstreetmap.org/?lat=52.218401&lon=20.957708
-+X842574 http://www.openstreetmap.org/?lat=52.215975&lon=20.947752
-+X300169 http://www.openstreetmap.org/?lat=52.208330&lon=20.938697
-WarszawaAlejeJerozolimskie http://www.openstreetmap.org/?lat=52.205131&lon=20.941958
++DIV_S1S2 http://www.openstreetmap.org/?lat=52.218401&lon=20.957708
++DIV_S1 http://www.openstreetmap.org/?lat=52.215975&lon=20.947752
++DIV_A1A12 http://www.openstreetmap.org/?lat=52.208330&lon=20.938697
+WarAleJer +WarszawaAlejeJerozolimskie http://www.openstreetmap.org/?lat=52.205131&lon=20.941958
 +X505427 http://www.openstreetmap.org/?lat=52.201472&lon=20.946100
-WarszawaRakowiec http://www.openstreetmap.org/?lat=52.196803&lon=20.966012
-WarszawaZwirkiWigury http://www.openstreetmap.org/?lat=52.193383&lon=20.980475
-WarszawaSluzewiec http://www.openstreetmap.org/?lat=52.180636&lon=20.987062
-+X403636 http://www.openstreetmap.org/?lat=52.173122&lon=20.987277
-WarszawaOkecie http://www.openstreetmap.org/?lat=52.166160&lon=20.987384
-WarszawaDawidy http://www.openstreetmap.org/?lat=52.128581&lon=20.991182
-WarszawaJeziorki http://www.openstreetmap.org/?lat=52.110320&lon=20.993178
-NowaIwiczna http://www.openstreetmap.org/?lat=52.091261&lon=20.995324
-+X701120 http://www.openstreetmap.org/?lat=52.087741&lon=20.996869
-Piaseczno http://www.openstreetmap.org/?lat=52.066535&lon=21.017232
+WarRak +WarszawaRakowiec http://www.openstreetmap.org/?lat=52.196803&lon=20.966012
+WarZwiWig +WarszawaZwirkiWigury http://www.openstreetmap.org/?lat=52.193383&lon=20.980475
+WarSlu +WarszawaSluzewiec http://www.openstreetmap.org/?lat=52.180636&lon=20.987062
++DIV_S3 http://www.openstreetmap.org/?lat=52.173122&lon=20.987277
+WarOke +WarszawaOkecie http://www.openstreetmap.org/?lat=52.166160&lon=20.987384
+WarDaw +WarszawaDawidy http://www.openstreetmap.org/?lat=52.128581&lon=20.991182
+WarJez +WarszawaJeziorki http://www.openstreetmap.org/?lat=52.110320&lon=20.993178
+NowaIwi +NowaIwiczna http://www.openstreetmap.org/?lat=52.091261&lon=20.995324
++DIV_Bie http://www.openstreetmap.org/?lat=52.087741&lon=20.996869
+Pia +Piaseczno http://www.openstreetmap.org/?lat=52.066535&lon=21.017232
