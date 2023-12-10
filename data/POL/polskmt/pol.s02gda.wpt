@@ -1,26 +1,24 @@
-GdyniaGlowna http://www.openstreetmap.org/?lat=54.521567&lon=18.527412
-+GdyniaWzgorzeSwietegoMaksymiliana http://www.openstreetmap.org/?lat=54.507517&lon=18.535309
-+X800851 http://www.openstreetmap.org/?lat=54.500265&lon=18.534365
-GdyniaStadion http://www.openstreetmap.org/?lat=54.495649&lon=18.533077
+GdyGlo +GdyniaGlowna http://www.openstreetmap.org/?lat=54.521567&lon=18.527412
++SKIP_GdyWzgSwiMak http://www.openstreetmap.org/?lat=54.507517&lon=18.535309
++DIV_S1S9N http://www.openstreetmap.org/?lat=54.500265&lon=18.534365
+GdySta +GdyniaStadion http://www.openstreetmap.org/?lat=54.495649&lon=18.533077
 +X947898 http://www.openstreetmap.org/?lat=54.486139&lon=18.512864
 +X849861 http://www.openstreetmap.org/?lat=54.489760&lon=18.494625
 +X877247 http://www.openstreetmap.org/?lat=54.482343&lon=18.488960
-GdyniaKarwiny http://www.openstreetmap.org/?lat=54.469851&lon=18.508873
+GdyKar +GdyniaKarwiny http://www.openstreetmap.org/?lat=54.469851&lon=18.508873
 +X804364 http://www.openstreetmap.org/?lat=54.452938&lon=18.476515
-GdanskOsowa http://www.openstreetmap.org/?lat=54.422164&lon=18.452654
-+X736565 http://www.openstreetmap.org/?lat=54.416620&lon=18.447762
-+X615737 http://www.openstreetmap.org/?lat=54.401060&lon=18.437505
-+X305600 http://www.openstreetmap.org/?lat=54.389442&lon=18.440895
-GdanskRebiechowo http://www.openstreetmap.org/?lat=54.387418&lon=18.446345
-GdanskPortLotniczy http://www.openstreetmap.org/?lat=54.382794&lon=18.466301
-GdanskFiroga http://www.openstreetmap.org/?lat=54.378370&lon=18.486857
-GdanskMatarnia http://www.openstreetmap.org/?lat=54.373571&lon=18.506341
+GdaOso +GdanskOsowa http://www.openstreetmap.org/?lat=54.422164&lon=18.452654
++DIV_S8S9S11 http://www.openstreetmap.org/?lat=54.393627&lon=18.433342
+GdaReb +GdanskRebiechowo http://www.openstreetmap.org/?lat=54.387418&lon=18.446345
+GdaPortLot +GdanskPortLotniczy http://www.openstreetmap.org/?lat=54.382794&lon=18.466301
+GdaFir +GdanskFiroga http://www.openstreetmap.org/?lat=54.378370&lon=18.486857
+GdaMat +GdanskMatarnia http://www.openstreetmap.org/?lat=54.373571&lon=18.506341
 +X809718 http://www.openstreetmap.org/?lat=54.358494&lon=18.515353
-GdanskKielpinek http://www.openstreetmap.org/?lat=54.355362&lon=18.528464
-GdanskJasien http://www.openstreetmap.org/?lat=54.353649&lon=18.550072
-GdanskBretowo http://www.openstreetmap.org/?lat=54.365452&lon=18.573697
-GdanskNiedziednik http://www.openstreetmap.org/?lat=54.378095&lon=18.572216
-GdanskStrzyza http://www.openstreetmap.org/?lat=54.391313&lon=18.578085
-+X379840 http://www.openstreetmap.org/?lat=54.391622&lon=18.588095
-+GdanskZaspa http://www.openstreetmap.org/?lat=54.389648&lon=18.591356
-GdanskWrzeszcz http://www.openstreetmap.org/?lat=54.381763&lon=18.605561
+GdaKie +GdanskKielpinek http://www.openstreetmap.org/?lat=54.355362&lon=18.528464
+GdaJas +GdanskJasien http://www.openstreetmap.org/?lat=54.353649&lon=18.550072
+GdaBre +GdanskBretowo http://www.openstreetmap.org/?lat=54.365452&lon=18.573697
+GdaNie +GdanskNiedziednik http://www.openstreetmap.org/?lat=54.378095&lon=18.572216
+GdaStr +GdanskStrzyza http://www.openstreetmap.org/?lat=54.391313&lon=18.578085
++DIV_S1S9S http://www.openstreetmap.org/?lat=54.391622&lon=18.588095
++SKIP_GdaZas http://www.openstreetmap.org/?lat=54.389648&lon=18.591356
+GdaWrz +GdanskWrzeszcz http://www.openstreetmap.org/?lat=54.381763&lon=18.605561

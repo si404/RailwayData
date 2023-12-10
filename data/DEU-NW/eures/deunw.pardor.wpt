@@ -55,7 +55,7 @@ KolnHbf http://www.openstreetmap.org/?lat=50.942732&lon=6.959109
 +SKIP_DusDorfOberBilk http://www.openstreetmap.org/?lat=51.208154&lon=6.808380
 +SKIP_DusDorfVolGar http://www.openstreetmap.org/?lat=51.210090&lon=6.791954
 +DIV_DusS http://www.openstreetmap.org/?lat=51.213531&lon=6.790173
-DusDorfHbf +DusHbf http://www.openstreetmap.org/?lat=51.219660&lon=6.794164
+DusDorfHbf http://www.openstreetmap.org/?lat=51.219660&lon=6.794164
 +DIV_DusN http://www.openstreetmap.org/?lat=51.225916&lon=6.799722
 +SKIP_DusDorfWehrHahn http://www.openstreetmap.org/?lat=51.229827&lon=6.797726
 +SKIP_DusDorfZoo http://www.openstreetmap.org/?lat=51.236295&lon=6.796868
