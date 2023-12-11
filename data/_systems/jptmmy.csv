@@ -1,5 +1,5 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-jptmmy;JPN;1&2;;Matsu;Loop Line;jpn.tmmatsuyama1;
-jptmmy;JPN;3;;Matsu;Shieki Line;jpn.tmmatsuyama3;
-jptmmy;JPN;5;;Matsu;JR Line;jpn.tmmatsuyama5;
-jptmmy;JPN;6;;Matsu;Honmachi Line;jpn.tmmatsuyama6;
+jptmmy;JPN;1&2;;Mat;Loop Line;jpn.tmmatsuyama1;
+jptmmy;JPN;3;;Mat;Shieki Line;jpn.tmmatsuyama3;
+jptmmy;JPN;5;;Mat;JR Line;jpn.tmmatsuyama5;
+jptmmy;JPN;6;;Mat;Honmachi Line;jpn.tmmatsuyama6;
