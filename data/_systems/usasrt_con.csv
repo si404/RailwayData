@@ -1,0 +1,4 @@
+systemName;route;banner;groupName;roots
+usasrt;SRTBlue;;Blue Line (Sacramento RT);ca.srtblue
+usasrt;SRTGold;;Gold Line (Sacramento RT);ca.srtgold
+usasrt;SRTGre;;Green Line (Sacramento RT);ca.srtgre

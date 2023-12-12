@@ -1,0 +1,4 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+usasfcc;CA;CalSt;;;California Street Cable Car;ca.calst;
+usasfcc;CA;PowHyde;;;Powell-Hyde Cable Car;ca.powhyde;
+usasfcc;CA;PowMas;;;Powell-Mason Cable Car;ca.powmas;

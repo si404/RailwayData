@@ -1,44 +1,43 @@
-Katowice http://www.openstreetmap.org/?lat=50.257598&lon=19.017227
-+X339129 http://www.openstreetmap.org/?lat=50.257481&lon=19.005125
-+KatowiceBrynow http://www.openstreetmap.org/?lat=50.244207&lon=18.983345
-+X121898 http://www.openstreetmap.org/?lat=50.234353&lon=18.973968
-KatowiceLigota http://www.openstreetmap.org/?lat=50.225938&lon=18.977916
-+X685119 http://www.openstreetmap.org/?lat=50.219115&lon=18.979204
-KatowicePiotrowice http://www.openstreetmap.org/?lat=50.213293&lon=18.970041
+Kat +Katowice http://www.openstreetmap.org/?lat=50.257598&lon=19.017227
++DIV_S1S8 http://www.openstreetmap.org/?lat=50.257481&lon=19.005125
++SKIP_KatBry http://www.openstreetmap.org/?lat=50.244207&lon=18.983345
++DIV_Koc http://www.openstreetmap.org/?lat=50.234353&lon=18.973968
+KatLig +KatowiceLigota http://www.openstreetmap.org/?lat=50.225938&lon=18.977916
++DIV_MurN http://www.openstreetmap.org/?lat=50.219115&lon=18.979204
+KatPio +KatowicePiotrowice http://www.openstreetmap.org/?lat=50.213293&lon=18.970041
 +X154617 http://www.openstreetmap.org/?lat=50.205232&lon=18.960471
-+KatowicePodlesie http://www.openstreetmap.org/?lat=50.182882&lon=18.960342
-+X670045 http://www.openstreetmap.org/?lat=50.162680&lon=18.972337
-Tychy http://www.openstreetmap.org/?lat=50.135661&lon=18.964076
-+X343127 http://www.openstreetmap.org/?lat=50.132608&lon=18.963733
-+X371250 http://www.openstreetmap.org/?lat=50.129981&lon=18.963454
-+TychyZwakow http://www.openstreetmap.org/?lat=50.110024&lon=18.953176
-+Kobior http://www.openstreetmap.org/?lat=50.065893&lon=18.923457
-+Piasek http://www.openstreetmap.org/?lat=50.012662&lon=18.940043
-+X938493 http://www.openstreetmap.org/?lat=49.996692&lon=18.948798
-Pszczyna http://www.openstreetmap.org/?lat=49.974955&lon=18.953412
-Goczalkowice http://www.openstreetmap.org/?lat=49.944406&lon=18.966651
-GoczalkowiceZdroj http://www.openstreetmap.org/?lat=49.936438&lon=18.975813
-+X757449 http://www.openstreetmap.org/?lat=49.925567&lon=18.987486
-+X717866 http://www.openstreetmap.org/?lat=49.910490&lon=18.964527
-Zabrzeg http://www.openstreetmap.org/?lat=49.907619&lon=18.938756
-ZabrzegCzarnolesie http://www.openstreetmap.org/?lat=49.903947&lon=18.906709
++SKIP_KatPod http://www.openstreetmap.org/?lat=50.182882&lon=18.960342
++DIV_MurS http://www.openstreetmap.org/?lat=50.162680&lon=18.972337
+Tyc +Tychy http://www.openstreetmap.org/?lat=50.135661&lon=18.964076
++DIV_Laz http://www.openstreetmap.org/?lat=50.132608&lon=18.963733
++DIV_S4S41 http://www.openstreetmap.org/?lat=50.129981&lon=18.963454
++SKIP_TycZwa http://www.openstreetmap.org/?lat=50.110024&lon=18.953176
++SKIP_Kob http://www.openstreetmap.org/?lat=50.065893&lon=18.923457
++SKIP_Pia http://www.openstreetmap.org/?lat=50.012662&lon=18.940043
++DIV_S72 http://www.openstreetmap.org/?lat=49.996692&lon=18.948798
+Psz +Pszczyna http://www.openstreetmap.org/?lat=49.974955&lon=18.953412
+Goc +Goczalkowice http://www.openstreetmap.org/?lat=49.944406&lon=18.966651
+GocZdr +GoczalkowiceZdroj http://www.openstreetmap.org/?lat=49.936438&lon=18.975813
++DIV_S5S51S75 http://www.openstreetmap.org/?lat=49.916041&lon=18.987122
+Zab +Zabrzeg http://www.openstreetmap.org/?lat=49.907619&lon=18.938756
+ZabCza +ZabrzegCzarnolesie http://www.openstreetmap.org/?lat=49.903947&lon=18.906709
 +X794810 http://www.openstreetmap.org/?lat=49.895771&lon=18.835534
 +X372169 http://www.openstreetmap.org/?lat=49.893871&lon=18.818722
-Chybie http://www.openstreetmap.org/?lat=49.892803&lon=18.809259
+Chy +Chybie http://www.openstreetmap.org/?lat=49.892803&lon=18.809259
 +X164898 http://www.openstreetmap.org/?lat=49.889153&lon=18.777223
-Drogomysl http://www.openstreetmap.org/?lat=49.886845&lon=18.758018
-Pruchna http://www.openstreetmap.org/?lat=49.878784&lon=18.688409
+Dro +Drogomysl http://www.openstreetmap.org/?lat=49.886845&lon=18.758018
+Pru +Pruchna http://www.openstreetmap.org/?lat=49.878784&lon=18.688409
 +X675094 http://www.openstreetmap.org/?lat=49.876481&lon=18.657317
 +X659940 http://www.openstreetmap.org/?lat=49.882503&lon=18.635623
 +X499291 http://www.openstreetmap.org/?lat=49.871503&lon=18.638563
-+X453951_A http://www.openstreetmap.org/?lat=49.868813&lon=18.629293
-Zebrzydowice http://www.openstreetmap.org/?lat=49.870321&lon=18.623178
-+X453951_B http://www.openstreetmap.org/?lat=49.868813&lon=18.629293
-Konzcyce http://www.openstreetmap.org/?lat=49.850758&lon=18.625571
-Kaczyce http://www.openstreetmap.org/?lat=49.832080&lon=18.610218
++DIV_S61A http://www.openstreetmap.org/?lat=49.868813&lon=18.629293
+Zeb +Zebrzydowice http://www.openstreetmap.org/?lat=49.870321&lon=18.623178
++DIV_S61B http://www.openstreetmap.org/?lat=49.868813&lon=18.629293
+Kon +Konzcyce http://www.openstreetmap.org/?lat=49.850758&lon=18.625571
+Kac +Kaczyce http://www.openstreetmap.org/?lat=49.832080&lon=18.610218
 +X820111 http://www.openstreetmap.org/?lat=49.821213&lon=18.596807
-Pogwizdow http://www.openstreetmap.org/?lat=49.806689&lon=18.597600
-CieszynMarklowice http://www.openstreetmap.org/?lat=49.784610&lon=18.604016
+Pog +Pogwizdow http://www.openstreetmap.org/?lat=49.806689&lon=18.597600
+CieMar +CieszynMarklowice http://www.openstreetmap.org/?lat=49.784610&lon=18.604016
 +X447803 http://www.openstreetmap.org/?lat=49.758113&lon=18.618693
-+X958580 http://www.openstreetmap.org/?lat=49.753733&lon=18.625581
-Cieszyn http://www.openstreetmap.org/?lat=49.751182&lon=18.636503
++DIV_S7 http://www.openstreetmap.org/?lat=49.753733&lon=18.625581
+Cie +Cieszyn http://www.openstreetmap.org/?lat=49.751182&lon=18.636503

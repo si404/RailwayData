@@ -1,20 +1,20 @@
-WarszawaAlejeJerozolimskie http://www.openstreetmap.org/?lat=52.205131&lon=20.941958
-+X300169 http://www.openstreetmap.org/?lat=52.208330&lon=20.938697
-+X842574 http://www.openstreetmap.org/?lat=52.215975&lon=20.947752
-+X464920 http://www.openstreetmap.org/?lat=52.218401&lon=20.957708
-WarszawaZachodnia http://www.openstreetmap.org/?lat=52.219926&lon=20.965047
-WarszawaOchota http://www.openstreetmap.org/?lat=52.225654&lon=20.990131
-+X337607 http://www.openstreetmap.org/?lat=52.227008&lon=20.996922
-WarszawaSrodmiescie http://www.openstreetmap.org/?lat=52.229344&lon=21.007640
-+X379004 http://www.openstreetmap.org/?lat=52.229948&lon=21.010408
-WarszawaPowisle http://www.openstreetmap.org/?lat=52.233707&lon=21.028132
-WarszawaStadion http://www.openstreetmap.org/?lat=52.244758&lon=21.043925
+WarAleJer +WarszawaAlejeJerozolimskie http://www.openstreetmap.org/?lat=52.205131&lon=20.941958
++DIV_A1A12W http://www.openstreetmap.org/?lat=52.208330&lon=20.938697
++DIV_S1W http://www.openstreetmap.org/?lat=52.215975&lon=20.947752
++DIV_S3S4 http://www.openstreetmap.org/?lat=52.218401&lon=20.957708
+WarZac +WarszawaZachodnia http://www.openstreetmap.org/?lat=52.219926&lon=20.965047
+WarOch +WarszawaOchota http://www.openstreetmap.org/?lat=52.225654&lon=20.990131
++DIV_A1A12E http://www.openstreetmap.org/?lat=52.227008&lon=20.996922
+WarSro +WarszawaSrodmiescie http://www.openstreetmap.org/?lat=52.229344&lon=21.007640
++DIV_Cen http://www.openstreetmap.org/?lat=52.229948&lon=21.010408
+WarPow +WarszawaPowisle http://www.openstreetmap.org/?lat=52.233707&lon=21.028132
+WarSta +WarszawaStadion http://www.openstreetmap.org/?lat=52.244758&lon=21.043925
 +X931005 http://www.openstreetmap.org/?lat=52.248896&lon=21.044955
-WarszawaWschodnia http://www.openstreetmap.org/?lat=52.251523&lon=21.052465
-+X501024 http://www.openstreetmap.org/?lat=52.257664&lon=21.074095
-WarszawaRembertow http://www.openstreetmap.org/?lat=52.257113&lon=21.158552
-+X749485 http://www.openstreetmap.org/?lat=52.255878&lon=21.186533
-WarszawaWesola http://www.openstreetmap.org/?lat=52.254039&lon=21.224256
-WarszawaWolaGrzybowska http://www.openstreetmap.org/?lat=52.252830&lon=21.250949
-Sulejowek http://www.openstreetmap.org/?lat=52.247733&lon=21.277084
-SuljowekMilosna http://www.openstreetmap.org/?lat=52.240533&lon=21.298671
+WarWsc +WarszawaWschodnia http://www.openstreetmap.org/?lat=52.251523&lon=21.052465
++DIV_S1E http://www.openstreetmap.org/?lat=52.257664&lon=21.074095
+WarRem +WarszawaRembertow http://www.openstreetmap.org/?lat=52.257113&lon=21.158552
++DIV_Zie http://www.openstreetmap.org/?lat=52.255878&lon=21.186533
+WarWes +WarszawaWesola http://www.openstreetmap.org/?lat=52.254039&lon=21.224256
+WarGrz +WarszawaWolaGrzybowska http://www.openstreetmap.org/?lat=52.252830&lon=21.250949
+Sul +Sulejowek http://www.openstreetmap.org/?lat=52.247733&lon=21.277084
+SulMil +SuljowekMilosna http://www.openstreetmap.org/?lat=52.240533&lon=21.298671

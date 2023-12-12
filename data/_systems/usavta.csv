@@ -1,0 +1,4 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+usavta;CA;VTABlue;;;VTA Blue Line;ca.vtablue;
+usavta;CA;VTAGre;;;VTA Green Line;ca.vtagre;
+usavta;CA;VTAOra;;;VTA Orange Line;ca.vtaora;

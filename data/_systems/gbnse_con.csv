@@ -1,10 +1,12 @@
 systemName;route;banner;groupName;roots
+gbnse;HS1;;Southeastern Highspeed: London - Canterbury - Margate;eng.hs1can
+gbnse;HS1;;Southeastern Highspeed: London - Dover - Ramsgate;eng.hs1dov
+gbnse;HS1;;Southeastern Highspeed: London - Chatham - Ramsgate;eng.hs1cha
 gbnse;SEML;;South East Main Line;eng.seml
 gbnse;PadWoodLn;;Paddock Wood Line;eng.padwoodln
 gbnse;HasLn;;Hastings Line;eng.hasln
-gbnse;1066Ln;;1066 Line;eng.1066ln
 gbnse;ChaML;;Chatham Main Line;eng.chaml
-gbnse;CreCoaLn;;Creative Coast Line;eng.crecoaln
+gbnse;ThaLn;;Thanet Line;eng.thaln
 gbnse;SoleStLn;;Sole Street Line;eng.solestln
 gbnse;KentDowLn;;Kent Downs Line;eng.kentdowln
 gbnse;MaiELn;;Maidstone East Line;eng.maieln

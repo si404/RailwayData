@@ -1,4 +1,22 @@
 ﻿date;region;systemName;description;statusChange
+2023-12-11;Japan;jptmmy;Matsuyama Tram;preview
+2023-12-09;Japan;jpjrs;JR Shikoku;preview
+2023-12-09;Japan;jpmono;Japan Monorails;preview
+2023-12-09;Japan;jpshasa;Asa Kaigan Railway;preview
+2023-12-09;Japan;jpshiyo;Iyo Railway;preview
+2023-12-09;Japan;jpshkot;Takamatsu Kotohira Railway;preview
+2023-12-09;Japan;jpshtos;Tosa Kuroshio Railway;preview
+2023-10-28;(USA) Nevada;usalvct;Las Vegas Casino Trams;preview
+2023-10-27;Turkey;turib;İstanbul Banliyö Treni;preview
+2023-10-27;Turkey;turim;İstanbul Metrosu;preview
+2023-10-27;Turkey;turit;İstanbul Tramvayı;preview
+2023-10-27;Turkey;turif;İstanbul Füniküleri;preview
+2023-10-27;Romania;roubt;Tramvaiul din București (as-of July 2023);preview
+2023-10-21;Romania;roubm;Metroul din București;preview
+2023-10-10;UK;gbnlo;London Overground;preview
+2023-10-10;UK;gbnxr;TfL: Elizabeth Line;preview
+2023-10-10;UK;gbndlr;Docklands Light Railway;preview
+2023-10-10;UK;gbnlt;London Trams;preview
 2023-09-20;(USA) New Mexico;usanmrx;New Mexico Rail Runner Express;preview
 2023-09-13;USA;usatr;United States Tourist/Heritage Railroads;preview
 2023-09-13;USA;usaair;United States Landside Airport Rail Systems;preview

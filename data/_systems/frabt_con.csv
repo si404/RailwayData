@@ -1,9 +1,9 @@
 systemName;route;banner;groupName;roots
-frabt;A;;;franaq.a
-frabt;A;;Floriac branch;franaq.aflo
-frabt;B;;;franaq.b
-frabt;B;;Pessac branch;franaq.bpes
-frabt;C;;;franaq.c
-frabt;C;;Parc Expositions branch;franaq.cexp
-frabt;D;;;franaq.d
+frabt;A;;Le Haillan - La Gardette;franaq.a
+frabt;A;;Aeroport - Floriac Dravenmont;franaq.aflo
+frabt;B;;France Alouette - Berges de la Garonne;franaq.b
+frabt;B;;Pessac Centre - Berges de la Garonne;franaq.bpes
+frabt;C;;Blanquefort - Villenave Pyrenees;franaq.c
+frabt;C;;Parc des Expositions - Villenave Pyrenees;franaq.cexp
+frabt;D;;Cantinolle - Carle Vernet;franaq.d
 

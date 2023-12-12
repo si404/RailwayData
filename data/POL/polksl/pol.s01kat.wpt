@@ -1,58 +1,55 @@
-Czestochowa http://www.openstreetmap.org/?lat=50.808403&lon=19.121017
-+X621801 http://www.openstreetmap.org/?lat=50.801297&lon=19.121017
-+X343671 http://www.openstreetmap.org/?lat=50.797174&lon=19.126253
-CzestochowaRakow http://www.openstreetmap.org/?lat=50.787720&lon=19.155307
+Cze +Czestochowa http://www.openstreetmap.org/?lat=50.808403&lon=19.121017
++DIV_S13 http://www.openstreetmap.org/?lat=50.798673&lon=19.123549
+CzeRak +CzestochowaRakow http://www.openstreetmap.org/?lat=50.787720&lon=19.155307
 +X270764 http://www.openstreetmap.org/?lat=50.771927&lon=19.167109
-Korwinow http://www.openstreetmap.org/?lat=50.738234&lon=19.176636
+Kor +Korwinow http://www.openstreetmap.org/?lat=50.738234&lon=19.176636
 +X285262 http://www.openstreetmap.org/?lat=50.695873&lon=19.194059
-Poraj http://www.openstreetmap.org/?lat=50.676922&lon=19.219208
-MaslonskieNatalin http://www.openstreetmap.org/?lat=50.651161&lon=19.253197
-ZarkiLetnisko http://www.openstreetmap.org/?lat=50.623235&lon=19.272895
-MyszkowNowaWies http://www.openstreetmap.org/?lat=50.594803&lon=19.291563
-Myszkow http://www.openstreetmap.org/?lat=50.574339&lon=19.328985
-MyszkowSwiatowit http://www.openstreetmap.org/?lat=50.565562&lon=19.359756
-+X455092 http://www.openstreetmap.org/?lat=50.550253&lon=19.374046
-MyszkowMryzglod http://www.openstreetmap.org/?lat=50.543449&lon=19.377351
-ZawiercieBorowePole http://www.openstreetmap.org/?lat=50.511093&lon=19.398723
+Por +Poraj http://www.openstreetmap.org/?lat=50.676922&lon=19.219208
+MasNat +MaslonskieNatalin http://www.openstreetmap.org/?lat=50.651161&lon=19.253197
+ZarLet +ZarkiLetnisko http://www.openstreetmap.org/?lat=50.623235&lon=19.272895
+MysNowaWies +MyszkowNowaWies http://www.openstreetmap.org/?lat=50.594803&lon=19.291563
+Mys +Myszkow http://www.openstreetmap.org/?lat=50.574339&lon=19.328985
+MysSwi +MyszkowSwiatowit http://www.openstreetmap.org/?lat=50.565562&lon=19.359756
++DIV_CMK http://www.openstreetmap.org/?lat=50.550253&lon=19.374046
+MysMry +MyszkowMryzglod http://www.openstreetmap.org/?lat=50.543449&lon=19.377351
+ZawBorPole +ZawiercieBorowePole http://www.openstreetmap.org/?lat=50.511093&lon=19.398723
 +X257496 http://www.openstreetmap.org/?lat=50.492586&lon=19.421639
-Zawiercie http://www.openstreetmap.org/?lat=50.481077&lon=19.422970
+Zaw +Zawiercie http://www.openstreetmap.org/?lat=50.481077&lon=19.422970
++DIV_Por http://www.openstreetmap.org/?lat=50.469989&lon=19.423399
 +X655374 http://www.openstreetmap.org/?lat=50.460045&lon=19.424515
 Lazy http://www.openstreetmap.org/?lat=50.429928&lon=19.391985
 +X873969 http://www.openstreetmap.org/?lat=50.418267&lon=19.376321
-Wiesiolka http://www.openstreetmap.org/?lat=50.414712&lon=19.349670
+Wie +Wiesiolka http://www.openstreetmap.org/?lat=50.414712&lon=19.349670
 +X850012 http://www.openstreetmap.org/?lat=50.411745&lon=19.341345
-Chruszczobrod http://www.openstreetmap.org/?lat=50.400325&lon=19.329114
-DabrowaGorniczaSikorka http://www.openstreetmap.org/?lat=50.388654&lon=19.297485
+Cru +Chruszczobrod http://www.openstreetmap.org/?lat=50.400325&lon=19.329114
+DabGorSik +DabrowaGorniczaSikorka http://www.openstreetmap.org/?lat=50.388654&lon=19.297485
 +X162670 http://www.openstreetmap.org/?lat=50.383827&lon=19.279718
-DabrowaGorniczaZabkowice http://www.openstreetmap.org/?lat=50.366557&lon=19.264827
-+X691826 http://www.openstreetmap.org/?lat=50.362861&lon=19.261608
-DabrowaGorniczaPogoria http://www.openstreetmap.org/?lat=50.350458&lon=19.240837
-DabrowaGorniczaGolonog http://www.openstreetmap.org/?lat=50.343968&lon=19.226203
-DabrowaGornicza http://www.openstreetmap.org/?lat=50.330354&lon=19.184833
-BedzinKsawera http://www.openstreetmap.org/?lat=50.330601&lon=19.158525
-BedzinMiasto http://www.openstreetmap.org/?lat=50.319203&lon=19.135609
-Bedzin http://www.openstreetmap.org/?lat=50.308906&lon=19.141467
+DabGorZab +DabrowaGorniczaZabkowice http://www.openstreetmap.org/?lat=50.366557&lon=19.264827
++DIV_Str http://www.openstreetmap.org/?lat=50.362861&lon=19.261608
+DabGorPog +DabrowaGorniczaPogoria http://www.openstreetmap.org/?lat=50.350458&lon=19.240837
+DabGorGol +DabrowaGorniczaGolonog http://www.openstreetmap.org/?lat=50.343968&lon=19.226203
+DabGor +DabrowaGornicza http://www.openstreetmap.org/?lat=50.330354&lon=19.184833
+BedKsa +BedzinKsawera http://www.openstreetmap.org/?lat=50.330601&lon=19.158525
+BedMia +BedzinMiasto http://www.openstreetmap.org/?lat=50.319203&lon=19.135609
+Bed +Bedzin http://www.openstreetmap.org/?lat=50.308906&lon=19.141467
 +X875530 http://www.openstreetmap.org/?lat=50.288729&lon=19.142518
-SosnowiecGlowny http://www.openstreetmap.org/?lat=50.278895&lon=19.126436
-+X580766 http://www.openstreetmap.org/?lat=50.276547&lon=19.121876
-+X407949 http://www.openstreetmap.org/?lat=50.272762&lon=19.115267
-+X631855 http://www.openstreetmap.org/?lat=50.260095&lon=19.100311
-KatowiceSzopienicePoludniowe http://www.openstreetmap.org/?lat=50.258915&lon=19.092436
-KatowiceZawodzie http://www.openstreetmap.org/?lat=50.257228&lon=19.057460
-Katowice http://www.openstreetmap.org/?lat=50.257598&lon=19.017227
-+X339129 http://www.openstreetmap.org/?lat=50.257481&lon=19.005125
-KatowiceZaleze http://www.openstreetmap.org/?lat=50.263819&lon=18.989611
-+X731162 http://www.openstreetmap.org/?lat=50.271966&lon=18.962016
-+X230364 http://www.openstreetmap.org/?lat=50.273612&lon=18.956437
-ChorozowBatory http://www.openstreetmap.org/?lat=50.278338&lon=18.944834
-+X899191 http://www.openstreetmap.org/?lat=50.280026&lon=18.941621
+SosGlo +SosnowiecGlowny http://www.openstreetmap.org/?lat=50.278895&lon=19.126436
++DIV_Sos http://www.openstreetmap.org/?lat=50.274490&lon=19.119086
++DIV_S3S31 http://www.openstreetmap.org/?lat=50.260095&lon=19.100311
+KatSzoPol +KatowiceSzopienicePoludniowe http://www.openstreetmap.org/?lat=50.258915&lon=19.092436
+KatZaw +KatowiceZawodzie http://www.openstreetmap.org/?lat=50.257228&lon=19.057460
+Kat +Katowice http://www.openstreetmap.org/?lat=50.257598&lon=19.017227
++DIV_S4S5S6 http://www.openstreetmap.org/?lat=50.257481&lon=19.005125
+KatZal +KatowiceZaleze http://www.openstreetmap.org/?lat=50.263819&lon=18.989611
++DIV_Koc http://www.openstreetmap.org/?lat=50.272762&lon=18.959141
+ChoBat +ChorozowBatory http://www.openstreetmap.org/?lat=50.278338&lon=18.944834
++DIV_S8 http://www.openstreetmap.org/?lat=50.280026&lon=18.941621
 +X791751 http://www.openstreetmap.org/?lat=50.281925&lon=18.937758
-Swietochlowice http://www.openstreetmap.org/?lat=50.289072&lon=18.918092
-RudaChebzie http://www.openstreetmap.org/?lat=50.303300&lon=18.879404
+Swi +Swietochlowice http://www.openstreetmap.org/?lat=50.289072&lon=18.918092
+RudaChe +RudaChebzie http://www.openstreetmap.org/?lat=50.303300&lon=18.879404
 +X946516 http://www.openstreetmap.org/?lat=50.306247&lon=18.873825
-RudaSlaska http://www.openstreetmap.org/?lat=50.315887&lon=18.850565
-Zabrze http://www.openstreetmap.org/?lat=50.305253&lon=18.787136
-+X768151 http://www.openstreetmap.org/?lat=50.298311&lon=18.736925
-+X788843 http://www.openstreetmap.org/?lat=50.295988&lon=18.727999
+RudaSla +RudaSlaska http://www.openstreetmap.org/?lat=50.315887&lon=18.850565
+Zab +Zabrze http://www.openstreetmap.org/?lat=50.305253&lon=18.787136
++DIV_S18S76 http://www.openstreetmap.org/?lat=50.297235&lon=18.740788
 +X338587 http://www.openstreetmap.org/?lat=50.295193&lon=18.694010
-Gliwice http://www.openstreetmap.org/?lat=50.301087&lon=18.677015
+Gli +Gliwice http://www.openstreetmap.org/?lat=50.301087&lon=18.677015

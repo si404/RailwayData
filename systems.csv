@@ -67,6 +67,7 @@ chebst;CHE;Basler Tramlinien / Tramway de Bâle;TMred;4;preview
 cheget;CHE;Tramway de Genève;TMred;4;preview
 chezht;CHE;Strassenbahn Zürich;TMred;4;preview
 czeduk;CZE;Doprava Ústeckého kraje;TMgreen;2;preview
+czedukt;CZE;Doprava Ústeckého kraje (Turistické linky);TMbrown;2;preview
 czeem;CZE;Esko v Moravskoslezském kraji;TMgreen;2;preview
 czeep;CZE;Esko Praha;TMgreen;2;preview
 czeidol;CZE;Integrovaný dopravní systém Libereckého kraje;TMgreen;2;preview
@@ -107,7 +108,7 @@ deuksrt;DEU;RegioTram Kassel;TMblue;3;preview
 deumu;DEU;U-Bahn München;TMblue;3;preview
 deunu;DEU;U-Bahn Nürnberg;TMblue;3;preview
 deurssb;DEU;Stadtbahn Rhein-Sieg;TMblue;3;preview
-deurru;DEU;Stadtbahn Rhine-Ruhr;TMblue;3;preview
+deurru;DEU;Stadtbahn Rhein-Ruhr;TMblue;3;preview
 deusb;DEU;Saarbahn;TMblue;3;preview
 deusu;DEU;Stadtbahn Stuttgart;TMblue;3;preview
 deuws;DEU;Wuppertaler Schwebebahn;TMblue;3;preview
@@ -150,7 +151,7 @@ deuult;DEU;Straßenbahn Ulm;TMred;4;preview
 deuwut;DEU;Straßenbahn Würzburg;TMred;4;preview
 deuzt;DEU;Straßenbahn Zwickau;TMred;4;preview
 deuddb;DEU;Bergbahnen Dresden;TMyellow;5;preview
-deunwh;DEU;Hängebahn;TMyellow;5;preview
+deunwh;DEU;Hängebahn Dortmund;TMyellow;5;preview
 dnkks;DNK;Københavns S-tog;TMgreen;2;preview
 dnkkm;DNK;Københavns Metro;TMblue;3;preview
 espca;ESP;Cercanías Asturias;TMgreen;2;preview
@@ -191,13 +192,15 @@ esptz;ESP;Tranvía de Zaragoza;TMred;4;preview
 eures;EUR;Eurostar;TMpurple;1;preview
 euret;EUR;LeShuttle (Eurotunnel);TMpurple;1;preview
 eurapm;EUR;Europe Airport People Movers (landside);TMyellow;5;preview
-eurapma;EUR;Europe Airport People Movers (airside);TMyellow;5;preview
-eurat;EUR;Europe Aerial Tramways;TMyellow;5;preview
 eurf;EUR;Europe Funiculars;TMyellow;5;preview
 eurhr;EUR;Europe Heritage & Tourist Railways;TMbrown;5;preview
 fracp;FRA;Chemins de fer de Provence;TMgreen;2;preview
-frahdfter;FRA;TER Hauts-de-France;TMgreen;2;preview
-franaqter;FRA;TER en Nouvelle-Aquitaine;TMgreen;2;preview
+frahdfterk;FRA;TER Hauts-de-France (Krono);TMgreen;2;preview
+frahdfterc;FRA;TER Hauts-de-France (Citi);TMgreen;2;preview
+frahdfterp;FRA;TER Hauts-de-France (Proxi);TMgreen;2;preview
+franaqterd;FRA;TER en Nouvelle-Aquitaine (Direct'R);TMgreen;2;preview
+franaqterf;FRA;TER en Nouvelle-Aquitaine (Facilit'R);TMgreen;2;preview
+franaqterl;FRA;TER en Nouvelle-Aquitaine (Liné'R);TMgreen;2;preview
 frarer;FRA;Réseau Express Régional;TMgreen;2;preview
 fratra;FRA;Transillien;TMgreen;2;preview
 frattu;FRA;Toulouse Train urbain;TMgreen;2;preview
@@ -234,38 +237,34 @@ frast;FRA;Strasbourg Tramway;TMred;4;preview
 fratot;FRA;Tours Tramway;TMred;4;preview
 fratt;FRA;Toulouse Tramway;TMred;4;preview
 fravt;FRA;Valenciennes Tramway;TMred;4;preview
-gbncs;GBR;National Rail: Caledonian Sleeper;TMpurple;1;preview
-gbnemi;GBR;National Rail: East Midlands Railway Intercity;TMpurple;2;preview
-gbnemc;GBR;National Rail: East Midlands Railway Connect;TMpurple;2;preview
-gbngc;GBR;National Rail: Great Central;TMpurple;1;preview
-gbngr;GBR;National Rail: London North Eastern Railway;TMpurple;1;preview
-gbngx;GBR;National Rail: Gatwick Express;TMpurple;1;preview
-gbnht;GBR;National Rail: Hull Trains;TMpurple;1;preview
-gbnhx;GBR;National Rail: Heathrow Express;TMpurple;1;preview
-gbnld;GBR;National Rail: Lumo;TMpurple;1;preview
-gbnseh;GBR;National Rail: Southeastern Highspeed;TMpurple;1;preview
-gbnsx;GBR;National Rail: Stansted Express;TMpurple;1;preview
-gbnvt;GBR;National Rail: Avanti West Coast;TMpurple;1;preview
-gbnxc;GBR;National Rail: CrossCountry;TMpurple;1;preview
-gbnaw;GBR;National Rail: Transport for Wales Rail;TMgreen;2;preview
-gbncc;GBR;National Rail: c2c;TMgreen;2;preview
-gbnch;GBR;National Rail: Chiltern Railways;TMgreen;2;preview
-gbnemr;GBR;National Rail: East Midlands Railway Regional;TMgreen;2;preview
-gbngn;GBR;National Rail: Great Northern;TMgreen;2;preview
-gbngw;GBR;National Rail: Great Western Railway;TMgreen;2;preview
-gbnil;GBR;National Rail: Island Line;TMgreen;2;preview
-gbnle;GBR;National Rail: Greater Anglia;TMgreen;2;preview
-gbnln;GBR;National Rail: London Northwestern Railway;TMgreen;2;preview
+gbncs;GBR;(National Rail) Caledonian Sleeper;TMpurple;1;preview
+gbngc;GBR;(National Rail) Great Central;TMpurple;1;preview
+gbngr;GBR;(National Rail) London North Eastern Railway;TMpurple;1;preview
+gbngx;GBR;(National Rail) Gatwick Express;TMpurple;1;preview
+gbnht;GBR;(National Rail) Hull Trains;TMpurple;1;preview
+gbnhx;GBR;(National Rail) Heathrow Express;TMpurple;1;preview
+gbnld;GBR;(National Rail) Lumo;TMpurple;1;preview
+gbnsx;GBR;(National Rail) Stansted Express;TMpurple;1;preview
+gbnvt;GBR;(National Rail) Avanti West Coast;TMpurple;1;preview
+gbnxc;GBR;(National Rail) CrossCountry;TMpurple;1;preview
+gbnaw;GBR;(National Rail) Transport for Wales Rail;TMgreen;2;preview
+gbncc;GBR;(National Rail) c2c;TMgreen;2;preview
+gbnch;GBR;(National Rail) Chiltern Railways;TMgreen;2;preview
+gbnem;GBR;(National Rail) East Midlands Railway;TMgreen;2;preview
+gbngn;GBR;(National Rail) Great Northern;TMgreen;2;preview
+gbngw;GBR;(National Rail) Great Western Railway;TMgreen;2;preview
+gbnle;GBR;(National Rail) Greater Anglia;TMgreen;2;preview
+gbnln;GBR;(National Rail) London Northwestern Railway;TMgreen;2;preview
 gbnlo;GBR;London Overground;TMgreen;2;preview
 gbnme;GBR;Merseyrail;TMgreen;2;preview
-gbnnr;GBR;National Rail: Northern;TMgreen;2;preview
-gbnse;GBR;National Rail: Southeastern;TMgreen;2;preview
-gbnsn;GBR;National Rail: Southern;TMgreen;2;preview
-gbnsr;GBR;National Rail: Scotrail;TMgreen;2;preview
-gbnsw;GBR;National Rail: South Western Railway;TMgreen;2;preview
-gbntl;GBR;National Rail: Thameslink;TMgreen;2;preview
-gbntp;GBR;National Rail: TransPennine Express;TMgreen;2;preview
-gbnwm;GBR;National Rail: West Midlands Railway;TMgreen;2;preview
+gbnnr;GBR;(National Rail) Northern;TMgreen;2;preview
+gbnse;GBR;(National Rail) Southeastern;TMgreen;2;preview
+gbnsn;GBR;(National Rail) Southern;TMgreen;2;preview
+gbnsr;GBR;(National Rail) Scotrail;TMgreen;2;preview
+gbnsw;GBR;(National Rail) South Western Railway;TMgreen;2;preview
+gbntl;GBR;(National Rail) Thameslink;TMgreen;2;preview
+gbntp;GBR;(National Rail) TransPennine Express;TMgreen;2;preview
+gbnwm;GBR;(National Rail) West Midlands Railway;TMgreen;2;preview
 gbnxr;GBR;TfL Elizabeth Line;TMgreen;2;preview
 irlnir;GBR;NI Railways;TMgreen;2;preview
 gbndlr;GBR;Docklands Light Railway;TMblue;3;preview
@@ -282,7 +281,6 @@ gbnwmm;GBR;West Midlands Metro;TMred;4;preview
 hkgmtr;CHN;Hong Kong Mass Transit Railway;TMblue;3;preview
 hkghkt;CHN;Hong Kong Tramways;TMred;4;preview
 hkglr;CHN;Hong Kong Light Rail;TMred;4;preview
-hkgnpcc;CHN;Ngong Ping Cable Car;TMyellow;5;preview
 hkgop;CHN;Ocean Park Transport;TMyellow;5;preview
 hkgpt;CHN;Peak Tram;TMyellow;5;preview
 hrvzt;HRV;Tramvajski promet u Zagrebu;TMred;4;preview
@@ -310,9 +308,16 @@ itart;ITA;Tranviaria di Roma;TMred;4;preview
 itamt;ITA;Tranviaria di Milano;TMred;4;preview
 itant;ITA;Tranviaria di Napoli;TMred;4;preview
 itatt;ITA;Tranviaria di Torino;TMred;4;preview
+jpjrs;JPN;JR Shikoku;TMpurple;1;preview
+jpmono;JPN;Japan Monorails;TMblue;3;preview
+jpshasa;JPN;Asa Kaigan Railway;TMyellow;5;preview
+jpshiyo;JPN;Iyo Railway;TMgreen;2;preview
+jpshkot;JPN;Takamatsu Kotohira Railway;TMgreen;2;preview
+jpshtos;JPN;Tosa Kuroshio Railway;TMgreen;2;preview
+jptmmy;JPN;Matsuyama Tram;TMred;4;preview
 luxcfl;LUX;Société Nationale des Chemins de Fer Luxembourgeois;TMgreen;2;preview
 luxst;LUX;Stater Tram;TMred;4;preview
-nldic;NLD;Netherlands;TMpurple;1;preview
+nldic;NLD;Netherlands Intercity;TMpurple;1;preview
 nldre;NLD;Netherlands Sneltrein;TMgreen;2;preview
 nldrs;NLD;Netherlands Sprinter / Stoptrein;TMgreen;2;preview
 nldam;NLD;Amsterdam Metro;TMblue;3;preview
@@ -321,6 +326,14 @@ nldat;NLD;Amsterdam Trams;TMred;4;preview
 nldht;NLD;Den Haag Trams;TMred;4;preview
 nldrt;NLD;Rotterdam Trams;TMred;4;preview
 nldut;NLD;Utrecht Trams;TMred;4;preview
+norf;NOR;Norway Fjerntog;TMpurple;1;preview
+norft;NOR;Norway Flytog;TMpurple;1;preview
+norre;NOR;Norway Regionekspress;TMpurple;1;preview
+norr;NOR;Norway Regiontog;TMgreen;2;preview
+norl;NOR;Norway Lokaltog;TMgreen;2;preview
+norot;NOR;Oslo T-Bane;TMblue;3;preview
+norbb;NOR;Bybanen i Bergen;TMred;4;preview
+norto;NOR;Trikken i Oslo;TMred;4;preview
 nzlatm;NZL;Auckland Transport Metro;TMgreen;2;preview
 nzlkr;NZL;Kiwi Rail;TMgreen;2;preview
 nzlwm;NZL;Wellington Metrolink;TMgreen;2;preview
@@ -347,6 +360,8 @@ polszt;POL;Tramwaje w Szczecinie;TMred;4;preview
 poltt;POL;Tramwaje w Toruniu;TMred;4;preview
 polwt;POL;Tramwaje w Warszawie;TMred;4;preview
 polwrt;POL;Tramwaje we Wrocławiu;TMred;4;preview
+roubm;ROU;Metroul din București;TMblue;3;preview
+roubt;ROU;Tramvaiul din București (as-of July 2023);TMred;4;preview
 sgpmrt;SGP;Singapore Mass Rapid Transit;TMblue;3;preview
 sgplrt;SGP;Singapore Light Rail Transit;TMyellow;5;preview
 srbbt;SRB;Belgrade trams;TMred;4;preview
@@ -354,6 +369,14 @@ svkzdb;SVK;Železničná_doprava v Bratislave;TMgreen;2;preview
 svkedb;SVK;Električková_doprava v Bratislave;TMred;4;preview
 svkedk;SVK;Električková_doprava v Košiciach;TMred;4;preview
 svktez;SVK;Trenčianska elektrická železnica;TMred;4;preview
+swesj;SWE;Stockholms pendeltåg;TMgreen;2;preview
+swesl;SWE;Stockholms lokalbana;TMblue;3;preview
+swest;SWE;Stockholms tunnelbana;TMblue;3;preview
+swess;SWE;Stockholms spårvagn;TMred;4;preview
+turib;TUR;İstanbul Banliyö Treni;TMgreen;2;preview
+turim;TUR;İstanbul Metrosu;TMblue;3;preview
+turit;TUR;İstanbul Tramvayı;TMred;4;preview
+turif;TUR;İstanbul Füniküleri;TMyellow;5;preview
 usacndx;USA;CTrail;TMgreen;2;preview
 usalirr;USA;Long Island Rail Road;TMgreen;2;preview
 usamarc;USA;MARC Train;TMgreen;2;preview
@@ -368,6 +391,9 @@ usasepa;USA;SEPTA Regional Rail;TMgreen;2;preview
 usautax;USA;UTA FrontRunner;TMgreen;2;preview
 usavrex;USA;Virginia Railway Express;TMgreen;2;preview
 usatr;USA;United States Tourist/Heritage Railroads;TMgreen;2;preview
+usaace;USA;Altamont Corridor Express;TMgreen;2;preview
+usajpbx;USA;Caltrain;TMgreen;2;preview
+usasmart;USA;Sonoma-Marin Area Rail Transit;TMgreen;2;preview
 usabmsl;USA;Baltimore Metro SubwayLink;TMblue;3;preview
 usambta;USA;MBTA Subway;TMblue;3;preview
 usapatco;USA;PATCO Speedline;TMblue;3;preview
@@ -382,6 +408,7 @@ usarta;USA;Cleveland RTA Heavy Rail;TMblue;3;preview
 usacta;USA;Chicago L;TMblue;3;preview
 usalvm;USA;Las Vegas Monorail;TMblue;3;preview
 usalams;USA;L.A. Metro Subway;TMblue;3;preview
+usabart;USA;Bay Area Rapid Transit;TMblue;3;preview
 usablrl;USA;Baltimore Light RailLink;TMred;4;preview
 usanfta;USA;Buffalo Metro Rail;TMred;4;preview
 usadcsc;USA;DC Streetcar;TMred;4;preview
@@ -400,6 +427,9 @@ usautat;USA;UTA TRAX;TMred;4;preview
 usalamlr;USA;L.A. Metro Light Rail;TMred;4;preview
 usamts;USA;San Diego Trolley;TMred;4;preview
 usartdz;USA;Denver RTD Light Rail;TMred;4;preview
+usamuni;USA;San Francisco MUNI Light Rail;TMred;4;preview
+usasrt;USA;Sacramento RT Light Rail;TMred;4;preview
+usavta;USA;VTA Light Rail;TMred;4;preview
 usaair;USA;United States Landside Airport Rail Systems;TMyellow;5;preview
 usair;USA;United States Incline Railways;TMyellow;5;preview
 usahunhts;USA;Huntsville Hospital Tram System;TMyellow;5;preview
@@ -409,3 +439,5 @@ usammm;USA;Miami Metromover;TMyellow;5;preview
 usatsc;USA;Tempe Streetcar;TMyellow;5;preview
 usautas;USA;UTA S-Line;TMyellow;5;preview
 usakcsc;USA;RideKC Streetcar;TMyellow;5;preview
+usalvct;USA;Las Vegas Casino Trams;TMyellow;5;preview
+usasfcc;USA;San Francisco Cable Cars;TMyellow;5;preview

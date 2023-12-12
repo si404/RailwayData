@@ -1,0 +1,13 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+franaqterd;FRA-CVL;D11;;;;fracvl.d11;
+franaqterd;FRA-NAQ;D11;;;;franaq.d11;
+franaqterd;FRA-NAQ;D14;;;;franaq.d14;
+franaqterd;FRA-NAQ;D15;;;;franaq.d15;
+franaqterd;FRA-NAQ;D22;;;;franaq.d22;
+franaqterd;FRA-NAQ;D31;;;;franaq.d31;
+franaqterd;FRA-NAQ;D33;;;;franaq.d33;
+franaqterd;FRA-NAQ;D44;;;;franaq.d44;
+franaqterd;FRA-NAQ;D45;;;;franaq.d45;
+franaqterd;FRA-NAQ;D51;;;;franaq.d51;
+franaqterd;FRA-NAQ;D52;;;;franaq.d52;
+franaqterd;FRA-OCC;D52;;;;fraocc.d52;

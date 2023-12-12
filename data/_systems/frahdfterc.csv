@@ -1,0 +1,17 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+frahdfterc;FRA-HDF;C10;;;;frahdf.c10;
+frahdfterc;FRA-IDF;C10;;;;fraidf.c10;
+frahdfterc;FRA-HDF;C11;;;;frahdf.c11;
+frahdfterc;FRA-IDF;C11;;;;fraidf.c11;
+frahdfterc;FRA-HDF;C13;;;;frahdf.c13;
+frahdfterc;FRA-IDF;C13;;;;fraidf.c13;
+frahdfterc;FRA-HDF;C14;;;;frahdf.c14;
+frahdfterc;FRA-IDF;C14;;;;fraidf.c14;
+frahdfterc;FRA-HDF;C17;;;;frahdf.c17;
+frahdfterc;FRA-IDF;C17;;;;fraidf.c17;
+frahdfterc;FRA-HDF;C40;;;;frahdf.c40;
+frahdfterc;FRA-HDF;C41;;;;frahdf.c41;
+frahdfterc;FRA-HDF;C50;;;;frahdf.c50;
+frahdfterc;FRA-HDF;C51;;;;frahdf.c51;
+frahdfterc;FRA-HDF;C60;;;;frahdf.c60;
+frahdfterc;FRA-HDF;C70;;;;frahdf.c70;
