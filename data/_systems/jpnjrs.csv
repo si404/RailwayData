@@ -1,0 +1,9 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+jpnjrs;JPN;AiIyoLn;;;Aiari Iyonada Line;jpn.jrsiyonada;
+jpnjrs;JPN;DosanLn;;;Dosan Line;jpn.jrsdosan;
+jpnjrs;JPN;KotoLn;;;Kotoku Line;jpn.jrskotoku;
+jpnjrs;JPN;MugiLn;;;Mugi Line;jpn.jrsmugi;
+jpnjrs;JPN;NaruLn;;;Naruto Line;jpn.jrsnaruto;
+jpnjrs;JPN;TokuLn;;;Tokushima Line;jpn.jrstokushima;
+jpnjrs;JPN;YodoLn;;;Yodo Line;jpn.jrsyodo;
+jpnjrs;JPN;YosanLn;;;Yosan Line;jpn.jrsyosan;
