@@ -1,7 +1,7 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
 usametx;IL;ME;;;Metra Electric;il.me;
-usametx;IL;MEBlue;;Blue;Metra Electric (Blue Island Branch);il.meblue;
-usametx;IL;MESChi;;SChi;Metra Electric (South Chicago Branch);il.meschi;
+usametx;IL;MEBlu;;Blu;Metra Electric (Blue Island Branch);il.meblue;
+usametx;IL;MESCh;;SCh;Metra Electric (South Chicago Branch);il.meschi;
 usametx;IL;RI;;;Rock Island District;il.ri;
 usametx;IL;RISub;;Sub;Rock Island District (Suburban Branch);il.risub;
 usametx;IL;SWS;;;Southwest Service;il.sws;
