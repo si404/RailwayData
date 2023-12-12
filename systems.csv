@@ -308,8 +308,8 @@ itart;ITA;Tranviaria di Roma;TMred;4;preview
 itamt;ITA;Tranviaria di Milano;TMred;4;preview
 itant;ITA;Tranviaria di Napoli;TMred;4;preview
 itatt;ITA;Tranviaria di Torino;TMred;4;preview
-jpjrs;JPN;JR Shikoku;TMpurple;1;preview
-jpmono;JPN;Japan Monorails;TMblue;3;preview
+jpnjrs;JPN;JR Shikoku;TMpurple;1;preview
+jpnmono;JPN;Japan Monorails;TMblue;3;preview
 jpshasa;JPN;Asa Kaigan Railway;TMyellow;5;preview
 jpshiyo;JPN;Iyo Railway;TMgreen;2;preview
 jpshkot;JPN;Takamatsu Kotohira Railway;TMgreen;2;preview
