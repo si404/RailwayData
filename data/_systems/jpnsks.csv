@@ -1,0 +1,9 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+jpnsks;JPN;HokkShin;;;Hokkaido Shinkansen;jpn.skshokkaido;
+jpnsks;JPN;HokuShin;;;Hokuriku Shinkansen;jpn.skshokuriku;
+jpnsks;JPN;JoeShin;;;Joetsu Shinkansen;jpn.sksjoetsu;
+jpnsks;JPN;KyuShin;;;Kyushu Shinkansen;jpn.skskyushu;
+jpnsks;JPN;SanShin;;;Sanyo Shinkansen;jpn.skssanyo;
+jpnsks;JPN;TohoShin;;;Tohoku Shinkansen;jpn.skstohoku;
+jpnsks;JPN;TokaiShin;;;Tokaido Shinkansen;jpn.skstokaido;
+jpnsks;JPN;WKyuShin;;;West Kyushu Shinkansen;jpn.skswestkyushu;
