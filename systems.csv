@@ -317,10 +317,10 @@ jpn3shr;JPN;South Hokkaido Railway;TMgreen;2;preview
 jpn3tos;JPN;Tosa Kuroshio Railway;TMgreen;2;preview
 jpnsapm;JPN;Sapporo Subway;TMblue;3;preview
 jpnmono;JPN;Japan Monorails;TMblue;3;preview
-jpnhirt;JPN;Hiroshima Trams;TMred;4;preview
-jpnsapt;JPN;Sapporo Tram;TMred;4;preview
+jpntmhi;JPN;Hiroshima Trams;TMred;4;preview
 jpntmhk;JPN;Hakodate Trams;TMred;4;preview
 jpntmmy;JPN;Matsuyama Trams;TMred;4;preview
+jpntmsp;JPN;Sapporo Tram;TMred;4;preview
 jpn3asa;JPN;Asa Kaigan Railway;TMyellow;5;preview
 luxcfl;LUX;Société Nationale des Chemins de Fer Luxembourgeois;TMgreen;2;preview
 luxst;LUX;Stater Tram;TMred;4;preview
