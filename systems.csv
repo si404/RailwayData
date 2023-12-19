@@ -309,12 +309,17 @@ itamt;ITA;Tranviaria di Milano;TMred;4;preview
 itant;ITA;Tranviaria di Napoli;TMred;4;preview
 itatt;ITA;Tranviaria di Torino;TMred;4;preview
 jpnsks;JPN;JR Shinkansens;TMpurple;1;preview
+jpnjrh;JPN;JR Hokkaido;TMpurple;1;preview
 jpnjrs;JPN;JR Shikoku;TMpurple;1;preview
 jpniyo;JPN;Iyo Railway;TMgreen;2;preview
 jpntke;JPN;Takamatsu Kotohira Railway;TMgreen;2;preview
+jpn3shr;JPN;South Hokkaido Railway;TMgreen;2;preview
 jpn3tos;JPN;Tosa Kuroshio Railway;TMgreen;2;preview
+jpnsapm;JPN;Sapporo Subway;TMblue;3;preview
 jpnmono;JPN;Japan Monorails;TMblue;3;preview
-jpntmmy;JPN;Matsuyama Tram;TMred;4;preview
+jpnhirt;JPN;Hiroshima Trams;TMred;4;preview
+jpnsapt;JPN;Sapporo Tram;TMred;4;preview
+jpntmmy;JPN;Matsuyama Trams;TMred;4;preview
 jpn3asa;JPN;Asa Kaigan Railway;TMyellow;5;preview
 luxcfl;LUX;Société Nationale des Chemins de Fer Luxembourgeois;TMgreen;2;preview
 luxst;LUX;Stater Tram;TMred;4;preview
