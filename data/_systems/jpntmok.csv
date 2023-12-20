@@ -1,3 +1,3 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-jpntmok;JPN;OkaHigaTm;;;Okayama Higashiyama Tram Line;jpn.higashiyama;
-jpntmok;JPN;OkaSeikiTm;;;Okayama Seikibashi Tram Line;jpn.seikibashi;
+jpntmok;JPN;OkaHigaTm;;;Okayama Tram Higashiyama Line;jpn.higashiyama;
+jpntmok;JPN;OkaSeikiTm;;;Okayama Tram Seikibashi Line;jpn.seikibashi;
