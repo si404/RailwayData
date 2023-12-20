@@ -1,4 +1,4 @@
 systemName;route;banner;groupName;roots
-jpnmtsp;SapNambokuLn;;Sapporo Namboku Line;jpn.namboku
-jpnmtsp;SapTohoLn;;Sapporo Toho Line;jpn.toho
-jpnmtsp;SapTozaiLn;;Sapporo Tozai Line;jpn.tozai
+jpnmtsp;SapNambokuLn;;Sapporo Namboku Line;jpn.sapnamboku
+jpnmtsp;SapTohoLn;;Sapporo Toho Line;jpn.saptoho
+jpnmtsp;SapTozaiLn;;Sapporo Tozai Line;jpn.saptozai
