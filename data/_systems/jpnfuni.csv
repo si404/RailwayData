@@ -1,0 +1,23 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+jpnfuni;JPN;AmanoFn;;;Amanohashidate Cable Car;jpn.fnamanoha;
+jpnfuni;JPN;EizanFn;;;Eizan Cable;jpn.fneizan;
+jpnfuni;JPN;HakoneFn;;;Hakone Tozan Cable Car;jpn.fnhakone;
+jpnfuni;JPN;IkomaFn;;;Kintetsu Ikoma Cable;jpn.fnikoma;
+jpnfuni;JPN;IwashiFn;;;Iwashimizu-Hachimangu Cable;jpn.fniwashimizu;
+jpnfuni;JPN;JukkoFn;;;Jukkokutoge Cable Car;jpn.fnjukkoku;
+jpnfuni;JPN;KoyaFn;;;Koyasan Cable Car;jpn.fnkoyasan;
+jpnfuni;JPN;KuraFn;;;Kuramadera Cable;jpn.fnkuramadera;
+jpnfuni;JPN;KurobeFn;;;Kurobe Cable Car;jpn.fnkurobe;
+jpnfuni;JPN;MayaFn;;;Maya Cablecar;jpn.fnmaya;
+jpnfuni;JPN;MitakeFn;;;Mitake Tozan Cable;jpn.fnmitake;
+jpnfuni;JPN;NishiFn;;;Kintetsu Nishi-Shigi Cable;jpn.fnnishishigi;
+jpnfuni;JPN;OyamaFn;;;Oyama Cable Car;jpn.fnoyama;
+jpnfuni;JPN;RakuFn;;;Beppu Rakutenchi Cable;jpn.fnrakutenchi;
+jpnfuni;JPN;RokkoFn;;;Rokko Cable;jpn.fnrokko;
+jpnfuni;JPN;SakaFn;;;Sakamoto Cable;jpn.fnsakamoto;
+jpnfuni;JPN;SarakuFn;;;Sarakurayama Cable Car;jpn.fnsarakurayama;
+jpnfuni;JPN;TakaoFn;;;Takao Tozan Cable;jpn.fnmtakao;
+jpnfuni;JPN;TappiFn;;;Seikan Tunnel Tappi Shako Line;jpn.fntappishako;
+jpnfuni;JPN;TateFn;;;Tateyama Cable Car;jpn.fntateyama;
+jpnfuni;JPN;TsukuFn;;;Mt Tsuruba Cable Car;jpn.fntsukuba;
+jpnfuni;JPN;YakuriFn;;;Yakuri Cable;jpn.fnyakuri;

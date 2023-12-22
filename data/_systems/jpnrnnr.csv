@@ -1,0 +1,5 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+jpnrnnr;JPN;AmagiLn;;;Nishitetsu Amagi Line;jpn.nnramagi;
+jpnrnnr;JPN;DazaifuLn;;;Nishitetsu Dazaifu Line;jpn.nnrdazaifu;
+jpnrnnr;JPN;KaizukaLn;;;Nishitetsu Kaizuka Line;jpn.nnrkaizuka;
+jpnrnnr;JPN;TenjinLn;;;Nishitetsu Tenjin Omuta Line;jpn.nnrtenjin;
