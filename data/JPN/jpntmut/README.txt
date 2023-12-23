@@ -1,1 +1,0 @@
-Utsunomiya light rail
