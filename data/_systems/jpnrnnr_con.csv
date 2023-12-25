@@ -1,6 +1,5 @@
 systemName;route;banner;groupName;roots
-jpnrnnr;AmagiLn;;Nishitetsu Amagi Line;jpn.nnramagi
-jpnrnnr;DazaifuLn;;Nishitetsu Dazaifu Line;jpn.nnrdazaifu
-jpnrnnr;KaizukaLn;;Nishitetsu Kaizuka Line;jpn.nnrkaizuka
-jpnrnnr;TenjinLn;;Nishitetsu Tenjin Omuta Line;jpn.nnrtenjin
-
+jpnrnnr;NnrAmagiLn;;Nishitetsu Amagi Line;jpn.nnramagi
+jpnrnnr;NnrDazaifuLn;;Nishitetsu Dazaifu Line;jpn.nnrdazaifu
+jpnrnnr;NnrKaizukaLn;;Nishitetsu Kaizuka Line;jpn.nnrkaizuka
+jpnrnnr;NnrTenjinLn;;Nishitetsu Tenjin Omuta Line;jpn.nnrtenjin

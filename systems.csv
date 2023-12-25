@@ -309,18 +309,22 @@ itamt;ITA;Tranviaria di Milano;TMred;4;preview
 itant;ITA;Tranviaria di Napoli;TMred;4;preview
 itatt;ITA;Tranviaria di Torino;TMred;4;preview
 jpnjrsks;JPN;JR Shinkansens;TMpurple;1;preview
+jpnjre;JPN;JR East;TMpurple;1;preview
 jpnjrh;JPN;JR Hokkaido;TMpurple;1;preview
 jpnjrs;JPN;JR Shikoku;TMpurple;1;preview
+jpnxjre;JPN;Former JR East Lines;TMgreen;2;preview
+jpnxjrh;JPN;Former JR Hokkaido Lines;TMgreen;2;preview
+jpnxjrk;JPN;Former JR Kyushu Lines;TMgreen;2;preview
+jpnxjrs;JPN;Former JR Shikoku Lines;TMgreen;2;preview
 jpnrnnr;JPN;Nishi-Nippon Railroad;TMgreen;2;preview
+jpnvech;JPN;Echizen Railway;TMgreen;2;preview
 jpnviyo;JPN;Iyo Railway;TMgreen;2;preview
 jpnvknn;JPN;Konan Railway;TMgreen;2;preview
 jpnvtke;JPN;Takamatsu Kotohira Railway;TMgreen;2;preview
-jpn3aoi;JPN;Aoimori Railway;TMgreen;2;preview
-jpn3shr;JPN;South Hokkaido Railway;TMgreen;2;preview
-jpn3tos;JPN;Tosa Kuroshio Railway;TMgreen;2;preview
 jpnmtse;JPN;Sendai Subway;TMblue;3;preview
 jpnmtsp;JPN;Sapporo Subway;TMblue;3;preview
 jpnmono;JPN;Japan Monorails;TMblue;3;preview
+jpntmfi;JPN;Fukui Trams;TMred;4;preview
 jpntmhi;JPN;Hiroshima Trams;TMred;4;preview
 jpntmhk;JPN;Hakodate Trams;TMred;4;preview
 jpntmkg;JPN;Kagoshima Trams;TMred;4;preview
@@ -328,7 +332,7 @@ jpntmmy;JPN;Matsuyama Trams;TMred;4;preview
 jpntmna;JPN;Nagasaki Trams;TMred;4;preview
 jpntmok;JPN;Okayama Trams;TMred;4;preview
 jpntmsp;JPN;Sapporo Tram;TMred;4;preview
-jpn3asa;JPN;Asa Kaigan Railway;TMyellow;5;preview
+jpndmv;JPN;Dual Mode Vehicle Lines;TMyellow;5;preview
 jpnfuni;JPN;Japan Funiculars;TMyellow;5;preview
 luxcfl;LUX;Société Nationale des Chemins de Fer Luxembourgeois;TMgreen;2;preview
 luxst;LUX;Stater Tram;TMred;4;preview
