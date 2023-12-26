@@ -1,7 +1,7 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
 jpnmtto;JPN;AsakusaLn;;;Asakusa Line;jpn.tkeasakusa;
 jpnmtto;JPN;MitaLn;;;Mita Line;jpn.tkemita;
-jpnmtto;JPN;OedaLn;;;Oeda Line;jpn.tkeoeda;
+jpnmtto;JPN;OedoLn;;;Oeda Line;jpn.tkeoedo;
 jpnmtto;JPN;ShinjukuLn;;;Shinjuku Line;jpn.tkeshinjuku;
 jpnmtto;JPN;ChiyodaLn;;;Chiyoda Line;jpn.tkochiyoda;
 jpnmtto;JPN;FukutoshinLn;;;Fukutoshin Line;jpn.tkofukutoshin;
