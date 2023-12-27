@@ -309,13 +309,16 @@ itamt;ITA;Tranviaria di Milano;TMred;4;preview
 itant;ITA;Tranviaria di Napoli;TMred;4;preview
 itatt;ITA;Tranviaria di Torino;TMred;4;preview
 jpnjrsks;JPN;JR Shinkansens;TMpurple;1;preview
+jpnjrc;JPN;JR Central;TMpurple;1;preview
 jpnjre;JPN;JR East;TMpurple;1;preview
 jpnjrh;JPN;JR Hokkaido;TMpurple;1;preview
 jpnjrs;JPN;JR Shikoku;TMpurple;1;preview
+jpnxjrc;JPN;Former JR Central Lines;TMgreen;2;preview
 jpnxjre;JPN;Former JR East Lines;TMgreen;2;preview
 jpnxjrh;JPN;Former JR Hokkaido Lines;TMgreen;2;preview
 jpnxjrk;JPN;Former JR Kyushu Lines;TMgreen;2;preview
 jpnxjrs;JPN;Former JR Shikoku Lines;TMgreen;2;preview
+jpnrkek;JPN;Keikyu Railway;TMgreen;2;preview
 jpnrnnr;JPN;Nishi-Nippon Railroad;TMgreen;2;preview
 jpnvech;JPN;Echizen Railway;TMgreen;2;preview
 jpnviyo;JPN;Iyo Railway;TMgreen;2;preview
@@ -323,11 +326,14 @@ jpnvknn;JPN;Konan Railway;TMgreen;2;preview
 jpnvtke;JPN;Takamatsu Kotohira Railway;TMgreen;2;preview
 jpnmtse;JPN;Sendai Subway;TMblue;3;preview
 jpnmtsp;JPN;Sapporo Subway;TMblue;3;preview
+jpnmtto;JPN;Tokyo Subway;TMorange;3;preview
 jpnmono;JPN;Japan Monorails;TMblue;3;preview
+jpnagtk;JPN;Kobe New Transit (AGT);TMblue;3;preview
 jpntmfi;JPN;Fukui Trams;TMred;4;preview
 jpntmhi;JPN;Hiroshima Trams;TMred;4;preview
 jpntmhk;JPN;Hakodate Trams;TMred;4;preview
 jpntmkg;JPN;Kagoshima Trams;TMred;4;preview
+jpntmkm;JPN;Kumamoto Trams;TMred;4;preview
 jpntmmy;JPN;Matsuyama Trams;TMred;4;preview
 jpntmna;JPN;Nagasaki Trams;TMred;4;preview
 jpntmok;JPN;Okayama Trams;TMred;4;preview
