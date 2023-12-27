@@ -1,0 +1,9 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+jpnmtos;JPN;OskChuoLn;;;Osaka Chuo Line;jpn.oskchuo;
+jpnmtos;JPN;ImazatosujiLn;;;Imazatosuji Line;jpn.oskimazatosuji;
+jpnmtos;JPN;MidosujiLn;;;Midosuji Line;jpn.oskmidosuji;
+jpnmtos;JPN;NagahoriLn;;;Nagahori Tsurumi Line;jpn.osknagahori;
+jpnmtos;JPN;SakaisujiLn;;;Sakaisuji Line;jpn.osksakaisuji;
+jpnmtos;JPN;SennichiLn;;;Sennichimae Line;jpn.osksennichimae;
+jpnmtos;JPN;TanimachiLn;;;Tanimachi Line;jpn.osktanimachi;
+jpnmtos;JPN;YotsubashiLn;;;Yotsubashi Line;jpn.oskyotsubashi;
