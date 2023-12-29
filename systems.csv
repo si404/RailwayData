@@ -313,13 +313,14 @@ jpnjrc;JPN;JR Central;TMpurple;1;preview
 jpnjre;JPN;JR East;TMpurple;1;preview
 jpnjrh;JPN;JR Hokkaido;TMpurple;1;preview
 jpnjrs;JPN;JR Shikoku;TMpurple;1;preview
-jpnxjrc;JPN;Former JR Central Lines;TMgreen;2;preview
-jpnxjre;JPN;Former JR East Lines;TMgreen;2;preview
-jpnxjrh;JPN;Former JR Hokkaido Lines;TMgreen;2;preview
-jpnxjrk;JPN;Former JR Kyushu Lines;TMgreen;2;preview
-jpnxjrs;JPN;Former JR Shikoku Lines;TMgreen;2;preview
-jpnrkek;JPN;Keikyu Railway;TMgreen;2;preview
-jpnrnnr;JPN;Nishi-Nippon Railroad;TMgreen;2;preview
+jpnxjrc;JPN;Former JR Central Lines;TMbrown;2;preview
+jpnxjre;JPN;Former JR East Lines;TMbrown;2;preview
+jpnxjrh;JPN;Former JR Hokkaido Lines;TMbrown;2;preview
+jpnxjrk;JPN;Former JR Kyushu Lines;TMbrown;2;preview
+jpnxjrs;JPN;Former JR Shikoku Lines;TMbrown;2;preview
+jpnrkek;JPN;Keikyu Railway;TMbrown;2;preview
+jpnrnnr;JPN;Nishi-Nippon Railroad;TMbrown;2;preview
+jpnrodk;JPN;Odakyu Railway;TMbrown;2;preview
 jpnvech;JPN;Echizen Railway;TMgreen;2;preview
 jpnviyo;JPN;Iyo Railway;TMgreen;2;preview
 jpnvknn;JPN;Konan Railway;TMgreen;2;preview
