@@ -1,4 +1,7 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
+jpnjre;JPN;AterazawaLn;;;Aterazawa Line;jpn.aterazawa;
+jpnjre;JPN;BanetsuEastLn;;;Banetsu East Line;jpn.banetsueast;
+jpnjre;JPN;BanetsuWestLn;;;Banetsu West Line;jpn.banetsuwest;
 jpnjre;JPN;GonoLn;;;Gono Line;jpn.gono;
 jpnjre;JPN;HachinoheLn;;;Hachinohe Line;jpn.hachinohe;
 jpnjre;JPN;JRNikkoLn;;;JR Nikko Line;jpn.jrnikko;
