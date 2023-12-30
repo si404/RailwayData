@@ -313,17 +313,20 @@ jpnjrc;JPN;JR Central;TMpurple;1;preview
 jpnjre;JPN;JR East;TMpurple;1;preview
 jpnjrh;JPN;JR Hokkaido;TMpurple;1;preview
 jpnjrs;JPN;JR Shikoku;TMpurple;1;preview
-jpnxjrc;JPN;Former JR Central Lines;TMgreen;2;preview
-jpnxjre;JPN;Former JR East Lines;TMgreen;2;preview
-jpnxjrh;JPN;Former JR Hokkaido Lines;TMgreen;2;preview
-jpnxjrk;JPN;Former JR Kyushu Lines;TMgreen;2;preview
-jpnxjrs;JPN;Former JR Shikoku Lines;TMgreen;2;preview
-jpnrkek;JPN;Keikyu Railway;TMgreen;2;preview
-jpnrnnr;JPN;Nishi-Nippon Railroad;TMgreen;2;preview
+jpnxjrc;JPN;Former JR Central Lines;TMbrown;2;preview
+jpnxjre;JPN;Former JR East Lines;TMbrown;2;preview
+jpnxjrh;JPN;Former JR Hokkaido Lines;TMbrown;2;preview
+jpnxjrk;JPN;Former JR Kyushu Lines;TMbrown;2;preview
+jpnxjrs;JPN;Former JR Shikoku Lines;TMbrown;2;preview
+jpnrkek;JPN;Keikyu Railway;TMbrown;2;preview
+jpnrnnr;JPN;Nishi-Nippon Railroad;TMbrown;2;preview
+jpnrodk;JPN;Odakyu Railway;TMbrown;2;preview
 jpnvech;JPN;Echizen Railway;TMgreen;2;preview
 jpnviyo;JPN;Iyo Railway;TMgreen;2;preview
 jpnvknn;JPN;Konan Railway;TMgreen;2;preview
+jpnvsng;JPN;Sangi Railway;TMgreen;2;preview
 jpnvtke;JPN;Takamatsu Kotohira Railway;TMgreen;2;preview
+jpnvwkr;JPN;Kishu Railway;TMgreen;2;preview
 jpnmtfk;JPN;Fukuoka Subway;TMblue;3;preview
 jpnmtkb;JPN;Kobe Subway;TMblue;3;preview
 jpnmtky;JPN;Kyoto Subway;TMblue;3;preview
@@ -335,6 +338,7 @@ jpnmtto;JPN;Tokyo Subway;TMblue;3;preview
 jpnmtyk;JPN;Yokohama Subway;TMblue;3;preview
 jpnmono;JPN;Japan Monorails;TMblue;3;preview
 jpnagtk;JPN;Kobe New Transit (AGT);TMblue;3;preview
+jpntmen;JPN;Enoden Tram;TMred;4;preview
 jpntmfi;JPN;Fukui Trams;TMred;4;preview
 jpntmhi;JPN;Hiroshima Trams;TMred;4;preview
 jpntmhk;JPN;Hakodate Trams;TMred;4;preview
