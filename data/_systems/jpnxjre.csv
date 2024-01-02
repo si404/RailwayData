@@ -1,0 +1,4 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+jpnxjre;JPN;AoimoriLn;;;Aoimori RW Aoimori Line;jpn.xjraoimori;
+jpnxjre;JPN;RiasLn;;;Sanriku RW Rias Line;jpn.xjrrias;
+jpnxjre;JPN;ChokaiLn;;;Yuri Kogen RW Chokai Sanroku Line;jpn.xjrchokai;

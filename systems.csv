@@ -308,12 +308,48 @@ itart;ITA;Tranviaria di Roma;TMred;4;preview
 itamt;ITA;Tranviaria di Milano;TMred;4;preview
 itant;ITA;Tranviaria di Napoli;TMred;4;preview
 itatt;ITA;Tranviaria di Torino;TMred;4;preview
-jpjrs;JPN;JR Shikoku;TMpurple;1;preview
-jpmono;JPN;Japan Monorails;TMyellow;5;preview
-jpshasa;JPN;Asa Kaigan Railway;TMyellow;5;preview
-jpshiyo;JPN;Iyo Railway;TMgreen;2;preview
-jpshkot;JPN;Takamatsu Kotohira Railway;TMgreen;2;preview
-jpshtos;JPN;Tosa Kuroshio Railway;TMpurple;1;preview
+jpnjrsks;JPN;JR Shinkansens;TMpurple;1;preview
+jpnjrc;JPN;JR Central;TMpurple;1;preview
+jpnjre;JPN;JR East;TMpurple;1;preview
+jpnjrh;JPN;JR Hokkaido;TMpurple;1;preview
+jpnjrs;JPN;JR Shikoku;TMpurple;1;preview
+jpnxjrc;JPN;Former JR Central Lines;TMbrown;2;preview
+jpnxjre;JPN;Former JR East Lines;TMbrown;2;preview
+jpnxjrh;JPN;Former JR Hokkaido Lines;TMbrown;2;preview
+jpnxjrk;JPN;Former JR Kyushu Lines;TMbrown;2;preview
+jpnxjrs;JPN;Former JR Shikoku Lines;TMbrown;2;preview
+jpnrkek;JPN;Keikyu Railway;TMbrown;2;preview
+jpnrnnr;JPN;Nishi-Nippon Railroad;TMbrown;2;preview
+jpnrodk;JPN;Odakyu Railway;TMbrown;2;preview
+jpnvech;JPN;Echizen Railway;TMgreen;2;preview
+jpnviyo;JPN;Iyo Railway;TMgreen;2;preview
+jpnvknn;JPN;Konan Railway;TMgreen;2;preview
+jpnvsng;JPN;Sangi Railway;TMgreen;2;preview
+jpnvtke;JPN;Takamatsu Kotohira Railway;TMgreen;2;preview
+jpnvwkr;JPN;Kishu Railway;TMgreen;2;preview
+jpnmtfk;JPN;Fukuoka Subway;TMblue;3;preview
+jpnmtkb;JPN;Kobe Subway;TMblue;3;preview
+jpnmtky;JPN;Kyoto Subway;TMblue;3;preview
+jpnmtng;JPN;Nagoya Subway;TMblue;3;preview
+jpnmtos;JPN;Osaka Metro;TMblue;3;preview
+jpnmtse;JPN;Sendai Subway;TMblue;3;preview
+jpnmtsp;JPN;Sapporo Subway;TMblue;3;preview
+jpnmtto;JPN;Tokyo Subway;TMblue;3;preview
+jpnmtyk;JPN;Yokohama Subway;TMblue;3;preview
+jpnmono;JPN;Japan Monorails;TMblue;3;preview
+jpnagtk;JPN;Kobe New Transit (AGT);TMblue;3;preview
+jpntmen;JPN;Enoden Tram;TMred;4;preview
+jpntmfi;JPN;Fukui Trams;TMred;4;preview
+jpntmhi;JPN;Hiroshima Trams;TMred;4;preview
+jpntmhk;JPN;Hakodate Trams;TMred;4;preview
+jpntmkg;JPN;Kagoshima Trams;TMred;4;preview
+jpntmkm;JPN;Kumamoto Trams;TMred;4;preview
+jpntmmy;JPN;Matsuyama Trams;TMred;4;preview
+jpntmna;JPN;Nagasaki Trams;TMred;4;preview
+jpntmok;JPN;Okayama Trams;TMred;4;preview
+jpntmsp;JPN;Sapporo Tram;TMred;4;preview
+jpndmv;JPN;Dual Mode Vehicle Lines;TMyellow;5;preview
+jpnfuni;JPN;Japan Funiculars;TMyellow;5;preview
 luxcfl;LUX;Société Nationale des Chemins de Fer Luxembourgeois;TMgreen;2;preview
 luxst;LUX;Stater Tram;TMred;4;preview
 nldic;NLD;Netherlands Intercity;TMpurple;1;preview
@@ -380,6 +416,7 @@ usacndx;USA;CTrail;TMgreen;2;preview
 usalirr;USA;Long Island Rail Road;TMgreen;2;preview
 usamarc;USA;MARC Train;TMgreen;2;preview
 usambtx;USA;MBTA Commuter Rail;TMgreen;2;preview
+usametx;USA;Chicago Metra;TMgreen;2;preview
 usamncw;USA;Metro-North;TMgreen;2;preview
 usanctc;USA;San Diego NCTD Commuter Rail;TMgreen;2;preview
 usanjtr;USA;NJ Transit Rail;TMgreen;2;preview

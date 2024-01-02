@@ -1,0 +1,17 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+jpnmtto;JPN;AsakusaLn;;;Asakusa Line;jpn.tkeasakusa;
+jpnmtto;JPN;MitaLn;;;Mita Line;jpn.tkemita;
+jpnmtto;JPN;OedoLn;;;Oeda Line;jpn.tkeoedo;
+jpnmtto;JPN;ShinjukuLn;;;Shinjuku Line;jpn.tkeshinjuku;
+jpnmtto;JPN;ChiyodaLn;;;Chiyoda Line;jpn.tkochiyoda;
+jpnmtto;JPN;FukutoshinLn;;;Fukutoshin Line;jpn.tkofukutoshin;
+jpnmtto;JPN;GinzaLn;;;Ginza Line;jpn.tkoginza;
+jpnmtto;JPN;HanzomonLn;;;Hanzomon Line;jpn.tkohanzomon;
+jpnmtto;JPN;HibiyaLn;;;Hibiya Line;jpn.tkohibiya;
+jpnmtto;JPN;MarunouchiLn;;;Marunouchi Line;jpn.tkomarunouchi;
+jpnmtto;JPN;MaruHonanLn;;;Marunouchi Honancho Branch Line;jpn.tkomaruhonan;
+jpnmtto;JPN;TokNambokuLn;;;Tokyo Namboku Line;jpn.tkonamboku;
+jpnmtto;JPN;TokTozaiLn;;;Tokyo Tozai Line;jpn.tkotozai;
+jpnmtto;JPN;YurakuchoLn;;;Yurakucho Line;jpn.tkoyurakucho;
+jpnmtto;JPN;RinkaiLn;;;Rinkai Line;jpn.tkwrinkai;
+jpnmtto;JPN;SaitamaRapidLn;;;Saitama Rapid Railway Line;jpn.srrsaitama;

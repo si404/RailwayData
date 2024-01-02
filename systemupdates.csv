@@ -1,10 +1,46 @@
 ﻿date;region;systemName;description;statusChange
-2023-12-09;Japan;jpjrs;JR Shikoku;preview
-2023-12-09;Japan;jpmono;Japan Monorails;preview
-2023-12-09;Japan;jpshasa;Asa Kaigan Railway;preview
-2023-12-09;Japan;jpshiyo;Iyo Railway;preview
-2023-12-09;Japan;jpshkot;Takamatsu Kotohira Railway;preview
-2023-12-09;Japan;jpshtos;Tosa Kuroshio Railway;preview
+2023-12-29;Japan;jpnvwkr;Kishu Railway;preview
+2023-12-29;Japan;jpnvsng;Sangi Railway;preview
+2023-12-29;Japan;jpntmen;Enoden Tram;preview
+2023-12-29;Japan;jpnrodk;Odakyu Railway;preview
+2023-12-28;Japan;jpnmtng;Nagoya Subway;preview
+2023-12-28;Japan;jpnmtkb;Kobe Subway;preview
+2023-12-28;Japan;jpnmtfk;Fukuoka Subway;preview
+2023-12-27;Japan;jpnmtyk;Yokohama Subway;preview
+2023-12-27;Japan;jpnmtos;Osaka Metro;preview
+2023-12-27;Japan;jpnmtky;Kyoto Subway;preview
+2023-12-26;Japan;jpnmtto;Tokyo Subway;preview
+2023-12-26;Japan;jpnjrc;JR Central;preview
+2023-12-26;Japan;jpnxjrc;Former JR Central Lines;preview
+2023-12-26;Japan;jpnrkek;Keikyu Railway;preview
+2023-12-26;Japan;jpnagtk;Kobe New Transit (AGT);preview
+2023-12-26;Japan;jpntmkm;Kumamoto Trams;preview
+2023-12-24;Japan;jpnjre;JR East;preview
+2023-12-24;Japan;jpnvech;Echizen Railway;preview
+2023-12-24;Japan;jpntmfi;Fukui Trams;preview
+2023-12-24;Japan;jpnxjrk;Former JR Kyushu Lines;preview
+2023-12-22;Japan;jpnfuni;Japan Funiculars;preview
+2023-12-22;Japan;jpnrnnr;Nishi-Nippon Railroad;preview
+2023-12-20;Japan;jpnvknn;Konan Railway;preview
+2023-12-20;Japan;jpnxjre;Former JR East Lines;preview
+2023-12-20;Japan;jpnmtse;Sendai Subway;preview
+2023-12-20;Japan;jpntmkg;Kagoshima Trams;preview
+2023-12-20;Japan;jpntmok;Okayama Trams;preview
+2023-12-19;Japan;jpntmna;Nagasaki Trams;preview
+2023-12-19;Japan;jpntmhk;Hakodate Trams;preview
+2023-12-17;Japan;jpntmhi;Hiroshima Trams;preview
+2023-12-17;Japan;jpnjrh;JR Hokkaido;preview
+2023-12-17;Japan;jpnxjrh;Former JR Hokkaido Lines;preview
+2023-12-17;Japan;jpnmtsp;Sapporo Subway;preview
+2023-12-17;Japan;jpntmsp;Sapporo Streetcar;preview
+2023-12-13;Japan;jpnjrsks;JR Shinkansens;preview
+2023-12-11;Japan;jpntmmy;Matsuyama Tram;preview
+2023-12-09;Japan;jpnjrs;JR Shikoku;preview
+2023-12-09;Japan;jpnmono;Japan Monorails;preview
+2023-12-09;Japan;jpnviyo;Iyo Railway;preview
+2023-12-09;Japan;jpnvtke;Takamatsu Kotohira Railway;preview
+2023-12-09;Japan;jpndmv;Dual Mode Vehicle Lines;preview
+2023-12-09;Japan;jpnxjrs;Former JR Shikoku Lines;preview
 2023-10-28;(USA) Nevada;usalvct;Las Vegas Casino Trams;preview
 2023-10-27;Turkey;turib;İstanbul Banliyö Treni;preview
 2023-10-27;Turkey;turim;İstanbul Metrosu;preview
