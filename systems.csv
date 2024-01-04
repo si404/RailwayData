@@ -55,6 +55,7 @@ chechs;CHE;S-Bahn Chur;TMgreen;2;preview
 chefrrer;CHE;Réseau express régional fribourgeois / S-Bahn Freiburg;TMgreen;2;preview
 chelx;CHE;Léman Express;TMgreen;2;preview
 chesgs;CHE;S-Bahn St. Gallen;TMgreen;2;preview
+cheshs;CHE;S-Bahn Schaffhausen;TMgreen;2;preview
 chesob;CHE;Südostbahn;TMgreen;2;preview
 chesos;CHE;S-Bahn Solothurn;TMgreen;2;preview
 chetirc;CHE;Rete celere del Canton Ticino;TMgreen;2;preview
@@ -82,6 +83,7 @@ czetos;CZE;Tramvaje v Ostravě;TMred;4;preview
 czetpl;CZE;Tramvaje v Plzni;TMred;4;preview
 czetp;CZE;Tramvaje v Praze;TMred;4;preview
 deubs;DEU;S-Bahn Berlin;TMgreen;2;preview
+deubss;DEU;S-Bahn Bodensee;TMgreen;2;preview
 deufrs;DEU;Breisgau-S-Bahn;TMgreen;2;preview
 deuhbs;DEU;Regio-S-Bahn Bremen/Niedersachsen;TMgreen;2;preview
 deudds;DEU;S-Bahn Dresden;TMgreen;2;preview
