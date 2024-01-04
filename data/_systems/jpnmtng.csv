@@ -1,0 +1,7 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+jpnmtng;JPN;HigashiyamaLn;;;Higashiyama Line;jpn.ngohigashiyama;
+jpnmtng;JPN;KamiidaLn;;;Kamiida Line;jpn.ngokamiida;
+jpnmtng;JPN;MeijoLn;;;Meijo Line;jpn.ngomeijo;
+jpnmtng;JPN;MeikoLn;;;Meiko Line;jpn.ngomeiko;
+jpnmtng;JPN;SakuradoriLn;;;Sakuradori Line;jpn.ngosakuradori;
+jpnmtng;JPN;TsurumaiLn;;;Tsurumai Line;jpn.ngotsurumai;

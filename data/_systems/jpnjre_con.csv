@@ -1,0 +1,34 @@
+systemName;route;banner;groupName;roots
+jpnjre;AterazawaLn;;Aterazawa Line;jpn.aterazawa
+jpnjre;BanetsuEastLn;;Banetsu East Line;jpn.banetsueast
+jpnjre;BanetsuWestLn;;Banetsu West Line;jpn.banetsuwest
+jpnjre;GonoLn;;Gono Line;jpn.gono
+jpnjre;HachinoheLn;;Hachinohe Line;jpn.hachinohe
+jpnjre;HanawaLn;;Hanawa Line;jpn.hanawa
+jpnjre;IshinomakiLn;;Ishinomaki Line;jpn.ishinomaki
+jpnjre;KamaishiLn;;Kamaishi Line;jpn.kamaishi
+jpnjre;KarasuyamaLn;;Karasuyama Line;jpn.karasuyama
+jpnjre;KesennumaLn;;Kesennuma Line;jpn.kesennuma
+jpnjre;KitakamiLn;;Kitakami Line;jpn.kitakami
+jpnjre;JRNikkoLn;;JR Nikko Line;jpn.jrnikko
+jpnjre;OfunatoLn;;Ofunato Line;jpn.ofunato
+jpnjre;OgaLn;;Oga Line;jpn.oga
+jpnjre;OminatoLn;;Ominato Line;jpn.ominato
+jpnjre;OuLn;;Ou Line;jpn.oumain
+jpnjre;RikuuEastLn;;Rikuu East Line;jpn.rikuueast
+jpnjre;RikuuWestLn;;Rikuu West Line;jpn.rikuuwest
+jpnjre;SensekiLn;;Senseki Line;jpn.senseki
+jpnjre;SenTohoLn;;Senseki-Tohoku Line;jpn.sensekitohoku
+jpnjre;SenzanLn;;Senzan Line;jpn.senzan
+jpnjre;SuigunLn;;Suigun Line;jpn.suigun
+jpnjre;HitachiOtaLn;;Suigun Hitachi-Ota Branch Line;jpn.suigunhitachi
+jpnjre;TadamiLn;;Tadami Line;jpn.tadami
+jpnjre;TazawakoLn;;Tazawako Line;jpn.tazawako
+jpnjre;TohokuLn;;Tohoku Line;jpn.tohokumain
+jpnjre;TohokuRifuLn;;Tohoku Rifu Branch Line;jpn.tohokurifu
+jpnjre;JRTsugaruLn;;JR Tsugaru Line;jpn.jrtsugaru
+jpnjre;UetsuLn;;Uetsu Line;jpn.uetsu
+jpnjre;UtsunomiyaLn;;Utsunomiya Line;jpn.utsunomiya
+jpnjre;YamadaLn;;Yamada Line;jpn.yamada
+jpnjre;YamagataLn;;Yamagata Line;jpn.yamagata
+jpnjre;YonesakaLn;;Yonesaka Line;jpn.yonesaka
