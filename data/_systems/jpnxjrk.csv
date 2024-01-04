@@ -1,5 +1,8 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
 jpnxjrk;JPN;AmagiLn;;;Amagi RW Amagi Line;jpn.xjramagi;
+jpnxjrk;JPN;ItaLn;;;Heisei Chikuho RW Ita Line;jpn.xjrita;
+jpnxjrk;JPN;ItodaLn;;;Heisei Chikuho RW Itoda Line;jpn.xjritoda;
+jpnxjrk;JPN;TagawaLn;;;Heisei Chikuho RW Tagawa Line;jpn.xjrtagawa;
 jpnxjrk;JPN;OrenjiLn;;;Hisatsu Orange RW Line;jpn.xjrorenji;
 jpnxjrk;JPN;YunomaeLn;;;Kumagawa RR Yunomae Line;jpn.xjryunomae;
 jpnxjrk;JPN;TakamoriLn;;;Minamo Aso RW Takamori Line;jpn.xjrtakamori;
