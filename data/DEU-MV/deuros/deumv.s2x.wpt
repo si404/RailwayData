@@ -1,0 +1,13 @@
+RosHbf http://www.openstreetmap.org/?lat=54.078397&lon=12.130883
++DIV_RosSte http://www.openstreetmap.org/?lat=54.074209&lon=12.137318
++DIV_RosDal http://www.openstreetmap.org/?lat=54.062474&lon=12.146115
++SKIP_PapDorf http://www.openstreetmap.org/?lat=54.036800&lon=12.137575
++SKIP_Pol http://www.openstreetmap.org/?lat=54.011035&lon=12.121181
++SKIP_Huc http://www.openstreetmap.org/?lat=53.984396&lon=12.116075
++X12 http://www.openstreetmap.org/?lat=53.959835&lon=12.125602
++SKIP_Sch http://www.openstreetmap.org/?lat=53.938949&lon=12.117898
++DIV_Sch http://www.openstreetmap.org/?lat=53.911000&lon=12.111912
++SKIP_Mis http://www.openstreetmap.org/?lat=53.880527&lon=12.123070
++SKIP_Lus http://www.openstreetmap.org/?lat=53.843602&lon=12.137790
++DIV_GusW http://www.openstreetmap.org/?lat=53.818908&lon=12.131438
+Gus http://www.openstreetmap.org/?lat=53.800828&lon=12.172680
