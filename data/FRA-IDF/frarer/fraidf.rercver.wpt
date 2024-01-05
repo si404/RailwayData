@@ -20,7 +20,7 @@ GareAus http://www.openstreetmap.org/?lat=48.842301&lon=2.365644
 BibFraMit http://www.openstreetmap.org/?lat=48.829766&lon=2.377038
 +SKIP_IvrySei http://www.openstreetmap.org/?lat=48.814416&lon=2.391286
 +SKIP_VitSei http://www.openstreetmap.org/?lat=48.800610&lon=2.402487
-+SKIP_Ard http://www.openstreetmap.org/?lat=48.782939&lon=2.409418
+Ard http://www.openstreetmap.org/?lat=48.782939&lon=2.409418
 ChoRoi http://www.openstreetmap.org/?lat=48.764329&lon=2.411242
 +DIV_RunE http://www.openstreetmap.org/?lat=48.751782&lon=2.418859
 VilRoi http://www.openstreetmap.org/?lat=48.739847&lon=2.426305
@@ -28,13 +28,3 @@ Abl http://www.openstreetmap.org/?lat=48.725439&lon=2.419395
 AthMons http://www.openstreetmap.org/?lat=48.712698&lon=2.403646
 +DIV_D http://www.openstreetmap.org/?lat=48.702928&lon=2.395234
 Juv http://www.openstreetmap.org/?lat=48.690266&lon=2.383604
-SavOrge http://www.openstreetmap.org/?lat=48.676071&lon=2.352018
-+DIV_Mic http://www.openstreetmap.org/?lat=48.670205&lon=2.341118
-PetVaux http://www.openstreetmap.org/?lat=48.676071&lon=2.333822
-GraBal http://www.openstreetmap.org/?lat=48.685308&lon=2.317944
-ChiMaz http://www.openstreetmap.org/?lat=48.700521&lon=2.308245
-Lon http://www.openstreetmap.org/?lat=48.702333&lon=2.294469
-+X107196 http://www.openstreetmap.org/?lat=48.710829&lon=2.277775
-+X821007 http://www.openstreetmap.org/?lat=48.730478&lon=2.270823
-+DIV_RunW http://www.openstreetmap.org/?lat=48.729374&lon=2.262497
-MasPal http://www.openstreetmap.org/?lat=48.725100&lon=2.260008
