@@ -2,17 +2,18 @@ Mlo http://www.openstreetmap.org/?lat=52.290754&lon=20.929910
 Waw http://www.openstreetmap.org/?lat=52.286331&lon=20.939598
 StaBie http://www.openstreetmap.org/?lat=52.281795&lon=20.949351
 Slo http://www.openstreetmap.org/?lat=52.276800&lon=20.960230
-Mar http://www.openstreetmap.org/?lat=52.271662&lon=20.971712
-PlacWil http://www.openstreetmap.org/?lat=52.269256&lon=20.984391
-DwoGdanSka http://www.openstreetmap.org/?lat=52.257872&lon=20.994342
-RatArs http://www.openstreetmap.org/?lat=52.244852&lon=21.000822
-SwiKrzySka http://www.openstreetmap.org/?lat=52.235090&lon=21.007909
++X663832 http://www.openstreetmap.org/?lat=52.273154&lon=20.966356
+Mar http://www.openstreetmap.org/?lat=52.271936&lon=20.972895
+PlacWil http://www.openstreetmap.org/?lat=52.268916&lon=20.986349
+DwoGda +DwoGdanSka http://www.openstreetmap.org/?lat=52.259037&lon=20.994337
+RatArs http://www.openstreetmap.org/?lat=52.244367&lon=21.001289
+Swi +SwiKrzySka http://www.openstreetmap.org/?lat=52.235090&lon=21.007909
 Cen http://www.openstreetmap.org/?lat=52.231152&lon=21.010065
-PoliTec http://www.openstreetmap.org/?lat=52.218500&lon=21.015365
+Pol +PoliTec http://www.openstreetmap.org/?lat=52.219930&lon=21.015569
 PoleMok http://www.openstreetmap.org/?lat=52.208652&lon=21.007769
 Rac http://www.openstreetmap.org/?lat=52.198934&lon=21.012211
-Wie http://www.openstreetmap.org/?lat=52.189937&lon=21.016610
-WilSka http://www.openstreetmap.org/?lat=52.181886&lon=21.023047
+Wie http://www.openstreetmap.org/?lat=52.189016&lon=21.017143
+Wil +WilSka http://www.openstreetmap.org/?lat=52.181886&lon=21.023047
 Slu http://www.openstreetmap.org/?lat=52.172767&lon=21.026287
 Urs http://www.openstreetmap.org/?lat=52.162014&lon=21.027617
 Sto http://www.openstreetmap.org/?lat=52.156091&lon=21.034741

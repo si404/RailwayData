@@ -1,6 +1,6 @@
-MetMlo http://www.openstreetmap.org/?lat=52.292028&lon=20.929202
+MetMlo http://www.openstreetmap.org/?lat=52.290754&lon=20.929910
 ZajZol http://www.openstreetmap.org/?lat=52.298894&lon=20.934641
-+DIV_Pro http://www.openstreetmap.org/?lat=52.301741&lon=20.940199
++DIV_217 http://www.openstreetmap.org/?lat=52.301741&lon=20.940199
 CmeWil http://www.openstreetmap.org/?lat=52.297936&lon=20.942881
 PrzyAgo http://www.openstreetmap.org/?lat=52.295101&lon=20.945520
 UKSW http://www.openstreetmap.org/?lat=52.290140&lon=20.950155
@@ -14,31 +14,31 @@ TeaKom http://www.openstreetmap.org/?lat=52.270193&lon=20.980593
 PlacWil http://www.openstreetmap.org/?lat=52.268916&lon=20.986349
 PlacInw http://www.openstreetmap.org/?lat=52.265130&lon=20.989959
 GenZaj http://www.openstreetmap.org/?lat=52.262189&lon=20.992749
-DowGda http://www.openstreetmap.org/?lat=52.258298&lon=20.995951
-+DIV_Pol http://www.openstreetmap.org/?lat=52.255398&lon=20.997550
+DwoGda +DowGda http://www.openstreetmap.org/?lat=52.259037&lon=20.994337
++DIV_1518 http://www.openstreetmap.org/?lat=52.255398&lon=20.997550
 KSPol http://www.openstreetmap.org/?lat=52.255717&lon=20.998585
-ParkTrauGut http://www.openstreetmap.org/?lat=52.258764&lon=21.002587
+ParkTra +ParkTrauGut http://www.openstreetmap.org/?lat=52.258764&lon=21.002587
 MostGda http://www.openstreetmap.org/?lat=52.260117&lon=21.007469
 WybHel http://www.openstreetmap.org/?lat=52.261949&lon=21.013552
-RonStaSki http://www.openstreetmap.org/?lat=52.263584&lon=21.020794
+RonSta +RonStaSki http://www.openstreetmap.org/?lat=52.263584&lon=21.020794
 PlacHal http://www.openstreetmap.org/?lat=52.259142&lon=21.025321
 RatZOO http://www.openstreetmap.org/?lat=52.256410&lon=21.028905
 Rat http://www.openstreetmap.org/?lat=52.257063&lon=21.032445
-+DIV_Rat http://www.openstreetmap.org/?lat=52.256692&lon=21.033009
++DIV_342325 http://www.openstreetmap.org/?lat=52.256692&lon=21.033009
 DwoWil http://www.openstreetmap.org/?lat=52.254714&lon=21.034819
-ZabSka http://www.openstreetmap.org/?lat=52.251789&lon=21.038121
-KijSka http://www.openstreetmap.org/?lat=52.249497&lon=21.042777
+Zab +ZabSka http://www.openstreetmap.org/?lat=52.251789&lon=21.038121
+Kij +KijSka http://www.openstreetmap.org/?lat=52.249497&lon=21.042777
 AleZie http://www.openstreetmap.org/?lat=52.247792&lon=21.047187
-LubSka http://www.openstreetmap.org/?lat=52.247267&lon=21.052895
-BliSka http://www.openstreetmap.org/?lat=52.246873&lon=21.058538
-GocSka http://www.openstreetmap.org/?lat=52.246492&lon=21.064053
+Lub +LubSka http://www.openstreetmap.org/?lat=52.247267&lon=21.052895
+Bli +BliSka http://www.openstreetmap.org/?lat=52.246873&lon=21.058538
+Gocs +GocSka http://www.openstreetmap.org/?lat=52.246492&lon=21.064053
 PraPolRat http://www.openstreetmap.org/?lat=52.246177&lon=21.069543
-MieSka http://www.openstreetmap.org/?lat=52.245823&lon=21.075602
+Mie +MieSka http://www.openstreetmap.org/?lat=52.245823&lon=21.075602
 Kic http://www.openstreetmap.org/?lat=52.245546&lon=21.079717
 Wia http://www.openstreetmap.org/?lat=52.244968&lon=21.084652
-CzaSka http://www.openstreetmap.org/?lat=52.244735&lon=21.091604
+Cza +CzaSka http://www.openstreetmap.org/?lat=52.244735&lon=21.091604
 WspDro http://www.openstreetmap.org/?lat=52.243946&lon=21.095316
 PlacSze http://www.openstreetmap.org/?lat=52.242475&lon=21.102215
-ZolSki http://www.openstreetmap.org/?lat=52.241325&lon=21.107612
+Zol +ZolSki http://www.openstreetmap.org/?lat=52.241325&lon=21.107612
 KwaGlo http://www.openstreetmap.org/?lat=52.239936&lon=21.114221
-Goc http://www.openstreetmap.org/?lat=52.237948&lon=21.119606
+Gocw Goc http://www.openstreetmap.org/?lat=52.237948&lon=21.119606
