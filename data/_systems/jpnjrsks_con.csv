@@ -1,9 +1,11 @@
 systemName;route;banner;groupName;roots
-jpnjrsks;HokkaiShin;;Hokkaido Shinkansen;jpn.hokkaido
-jpnjrsks;HokuShin;;Hokuriku Shinkansen;jpn.hokuriku
-jpnjrsks;JoeShin;;Joetsu Shinkansen;jpn.joetsu
-jpnjrsks;KyuShin;;Kyushu Shinkansen;jpn.kyushu
-jpnjrsks;SanShin;;Sanyo Shinkansen;jpn.sanyo
-jpnjrsks;TohoShin;;Tohoku Shinkansen;jpn.tohoku
-jpnjrsks;TokaiShin;;Tokaido Shinkansen;jpn.tokaido
-jpnjrsks;WKyuShin;;West Kyushu Shinkansen;jpn.westkyushu
+jpnjrsks;AkitaShin;;Akita Shinkansen;jpn.akita
+jpnjrsks;HokkaidoShin;;Hokkaido Shinkansen;jpn.hokkaido
+jpnjrsks;HokurikuShin;;Hokuriku Shinkansen;jpn.hokuriku
+jpnjrsks;JoetsuShin;;Joetsu Shinkansen;jpn.joetsu
+jpnjrsks;KyushuShin;;Kyushu Shinkansen;jpn.kyushu
+jpnjrsks;SanyoShin;;Sanyo Shinkansen;jpn.sanyo
+jpnjrsks;TokaidoShin;;Tokaido Shinkansen;jpn.tokaido
+jpnjrsks;TohokuShin;;Tohoku Shinkansen;jpn.tohoku
+jpnjrsks;WestKyushuShin;;West Kyushu Shinkansen;jpn.westkyushu
+jpnjrsks;YamagataShin;;Yamagata Shinkansen;jpn.yamagata
