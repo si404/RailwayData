@@ -5,9 +5,8 @@ Kos +Koszecin http://www.openstreetmap.org/?lat=50.622922&lon=18.835802
 +DIV_Bor http://www.openstreetmap.org/?lat=50.575320&lon=18.884768
 Kal +Kalety http://www.openstreetmap.org/?lat=50.566278&lon=18.888266
 MiaSla +MiasteczkoSlaskie http://www.openstreetmap.org/?lat=50.497582&lon=18.900175
-+DIV_Mia http://www.openstreetmap.org/?lat=50.484668&lon=18.898501
-+X433856 http://www.openstreetmap.org/?lat=50.453563&lon=18.869298
-+X317464 http://www.openstreetmap.org/?lat=50.449621&lon=18.866358
++DIV_S9 http://www.openstreetmap.org/?lat=50.490279&lon=18.900561
++X192528 http://www.openstreetmap.org/?lat=50.449546&lon=18.866315
 TarGory +TarnowskieGory http://www.openstreetmap.org/?lat=50.445877&lon=18.864470
 +X394068 http://www.openstreetmap.org/?lat=50.441470&lon=18.864512
 +X967831 http://www.openstreetmap.org/?lat=50.433359&lon=18.879447
@@ -29,7 +28,6 @@ ChoSta +ChorzowStary http://www.openstreetmap.org/?lat=50.316442&lon=18.957424
 ChoMia +ChorzowMiasto http://www.openstreetmap.org/?lat=50.298489&lon=18.949378
 +X736592 http://www.openstreetmap.org/?lat=50.286769&lon=18.933156
 +X342233 http://www.openstreetmap.org/?lat=50.282340&lon=18.935602
-+X899191 http://www.openstreetmap.org/?lat=50.280026&lon=18.941621
 +DIV_S1 http://www.openstreetmap.org/?lat=50.280026&lon=18.941621
 ChoBat +ChorozowBatory http://www.openstreetmap.org/?lat=50.278338&lon=18.944834
 +DIV_Koc http://www.openstreetmap.org/?lat=50.272762&lon=18.959141
