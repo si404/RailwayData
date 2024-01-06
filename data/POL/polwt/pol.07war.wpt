@@ -1,11 +1,11 @@
 KawBaz http://www.openstreetmap.org/?lat=52.258226&lon=21.059450
 Woj http://www.openstreetmap.org/?lat=52.257211&lon=21.055727
 ZajPra http://www.openstreetmap.org/?lat=52.256269&lon=21.052723
-DwoWsc http://www.openstreetmap.org/?lat=52.252897&lon=21.050320
-KijSka http://www.openstreetmap.org/?lat=52.249497&lon=21.042777
+DwoWsc http://www.openstreetmap.org/?lat=52.251523&lon=21.052465
+Kij +KijSka http://www.openstreetmap.org/?lat=52.249497&lon=21.042777
 AleZie http://www.openstreetmap.org/?lat=52.247792&lon=21.047187
 RonWas http://www.openstreetmap.org/?lat=52.238112&lon=21.051350
-MostPonSki http://www.openstreetmap.org/?lat=52.235070&lon=21.036855
+MostPon +MostPonSki http://www.openstreetmap.org/?lat=52.235070&lon=21.036855
 MuzNar http://www.openstreetmap.org/?lat=52.231746&lon=21.020848
 Kru http://www.openstreetmap.org/?lat=52.230812&lon=21.016363
 Cen http://www.openstreetmap.org/?lat=52.229830&lon=21.011707
@@ -14,16 +14,16 @@ PlacSta http://www.openstreetmap.org/?lat=52.226403&lon=20.995860
 PlacZaw http://www.openstreetmap.org/?lat=52.224885&lon=20.989122
 OchRat http://www.openstreetmap.org/?lat=52.222624&lon=20.986708
 PlacNar http://www.openstreetmap.org/?lat=52.218917&lon=20.984080
-WawSka http://www.openstreetmap.org/?lat=52.216307&lon=20.981140
+Waw +WawSka http://www.openstreetmap.org/?lat=52.216307&lon=20.981140
 OchTea http://www.openstreetmap.org/?lat=52.214427&lon=20.979456
-BitWarSki http://www.openstreetmap.org/?lat=52.211206&lon=20.976688
+BitWar +BitWarSki http://www.openstreetmap.org/?lat=52.211206&lon=20.976688
 HaleBan http://www.openstreetmap.org/?lat=52.208721&lon=20.974585
 Dic http://www.openstreetmap.org/?lat=52.205769&lon=20.971967
-KorSki http://www.openstreetmap.org/?lat=52.202593&lon=20.969156
+Kor +KorSki http://www.openstreetmap.org/?lat=52.202593&lon=20.969156
 PKPRak http://www.openstreetmap.org/?lat=52.197209&lon=20.964403
 WloRat http://www.openstreetmap.org/?lat=52.193124&lon=20.960755
 Hyn http://www.openstreetmap.org/?lat=52.190177&lon=20.958234
 Kra http://www.openstreetmap.org/?lat=52.186293&lon=20.954683
 Lip http://www.openstreetmap.org/?lat=52.183376&lon=20.951679
 InsLot http://www.openstreetmap.org/?lat=52.179317&lon=20.947312
-PRAleKraSka http://www.openstreetmap.org/?lat=52.176008&lon=20.944158
+PRAleKra  +PRAleKraSka http://www.openstreetmap.org/?lat=52.176008&lon=20.944158

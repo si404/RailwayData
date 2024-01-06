@@ -1,22 +1,25 @@
 AnnoPol http://www.openstreetmap.org/?lat=52.298658&lon=21.021781
++DIV_4 http://www.openstreetmap.org/?lat=52.298950&lon=21.022961
 TorSka http://www.openstreetmap.org/?lat=52.296755&lon=21.024635
 MetBro http://www.openstreetmap.org/?lat=52.293618&lon=21.027403
-PobSka http://www.openstreetmap.org/?lat=52.290101&lon=21.029398
-RemSka http://www.openstreetmap.org/?lat=52.288264&lon=21.030536
-JulSka http://www.openstreetmap.org/?lat=52.284995&lon=21.032853
-BudLana http://www.openstreetmap.org/?lat=52.281096&lon=21.027038
+Pob +PobSka http://www.openstreetmap.org/?lat=52.290101&lon=21.029398
+Rem +RemSka http://www.openstreetmap.org/?lat=52.288264&lon=21.030536
+Jul +JulSka http://www.openstreetmap.org/?lat=52.284995&lon=21.032853
+Bud +BudLana http://www.openstreetmap.org/?lat=52.281096&lon=21.027038
 Poz http://www.openstreetmap.org/?lat=52.278195&lon=21.027703
 Sta http://www.openstreetmap.org/?lat=52.273744&lon=21.031780
 RonZaba http://www.openstreetmap.org/?lat=52.269214&lon=21.036909
-BroSka http://www.openstreetmap.org/?lat=52.264027&lon=21.038389
-InzSka http://www.openstreetmap.org/?lat=52.257723&lon=21.034312
-+DIV_Rat http://www.openstreetmap.org/?lat=52.256692&lon=21.033009
++DIV_1 http://www.openstreetmap.org/?lat=52.267990&lon=21.037509
+Bro +BroSka http://www.openstreetmap.org/?lat=52.264027&lon=21.038389
++DIV_23 http://www.openstreetmap.org/?lat=52.258135&lon=21.034800
+Inz +InzSka http://www.openstreetmap.org/?lat=52.257723&lon=21.034312
++DIV_62028 http://www.openstreetmap.org/?lat=52.256692&lon=21.033009
 DwoWil http://www.openstreetmap.org/?lat=52.254714&lon=21.034819
-ZabSka http://www.openstreetmap.org/?lat=52.251789&lon=21.038121
-KijSka http://www.openstreetmap.org/?lat=52.249497&lon=21.042777
+Zab +ZabSka http://www.openstreetmap.org/?lat=52.251789&lon=21.038121
+Kij +KijSka http://www.openstreetmap.org/?lat=52.249497&lon=21.042777
 AleZie http://www.openstreetmap.org/?lat=52.247792&lon=21.047187
 RonWas http://www.openstreetmap.org/?lat=52.238112&lon=21.051350
-MostPonSki http://www.openstreetmap.org/?lat=52.235070&lon=21.036855
+MostPon +MostPonSki http://www.openstreetmap.org/?lat=52.235070&lon=21.036855
 MuzNar http://www.openstreetmap.org/?lat=52.231746&lon=21.020848
 Kru http://www.openstreetmap.org/?lat=52.230812&lon=21.016363
 Cen http://www.openstreetmap.org/?lat=52.229830&lon=21.011707
@@ -25,7 +28,7 @@ PlacSta http://www.openstreetmap.org/?lat=52.226403&lon=20.995860
 PlacZaw http://www.openstreetmap.org/?lat=52.224885&lon=20.989122
 OchRat http://www.openstreetmap.org/?lat=52.222624&lon=20.986708
 PlacNar http://www.openstreetmap.org/?lat=52.218917&lon=20.984080
-WawSka http://www.openstreetmap.org/?lat=52.216307&lon=20.981140
+Waw +WawSka http://www.openstreetmap.org/?lat=52.216307&lon=20.981140
 OchTea http://www.openstreetmap.org/?lat=52.214427&lon=20.979456
-BitWarSki http://www.openstreetmap.org/?lat=52.211206&lon=20.976688
+BitWar +BitWarSki http://www.openstreetmap.org/?lat=52.211206&lon=20.976688
 Ban http://www.openstreetmap.org/?lat=52.209832&lon=20.982224

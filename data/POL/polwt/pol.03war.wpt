@@ -1,30 +1,33 @@
 AnnoPol http://www.openstreetmap.org/?lat=52.298658&lon=21.021781
++DIV_4 http://www.openstreetmap.org/?lat=52.298950&lon=21.022961
 TorSka http://www.openstreetmap.org/?lat=52.296755&lon=21.024635
 MetBro http://www.openstreetmap.org/?lat=52.293618&lon=21.027403
-PobSka http://www.openstreetmap.org/?lat=52.290101&lon=21.029398
-RemSka http://www.openstreetmap.org/?lat=52.288264&lon=21.030536
-JulSka http://www.openstreetmap.org/?lat=52.284995&lon=21.032853
-BudLana http://www.openstreetmap.org/?lat=52.281096&lon=21.027038
+Pob +PobSka http://www.openstreetmap.org/?lat=52.290101&lon=21.029398
+Rem +RemSka http://www.openstreetmap.org/?lat=52.288264&lon=21.030536
+Jul +JulSka http://www.openstreetmap.org/?lat=52.284995&lon=21.032853
+Bud +BudLana http://www.openstreetmap.org/?lat=52.281096&lon=21.027038
 Poz http://www.openstreetmap.org/?lat=52.278195&lon=21.027703
 Sta http://www.openstreetmap.org/?lat=52.273744&lon=21.031780
 RonZaba http://www.openstreetmap.org/?lat=52.269214&lon=21.036909
-BroSka http://www.openstreetmap.org/?lat=52.264027&lon=21.038389
-InzSka http://www.openstreetmap.org/?lat=52.257723&lon=21.034312
-+DIV_Rat http://www.openstreetmap.org/?lat=52.256692&lon=21.033009
++DIV_1 http://www.openstreetmap.org/?lat=52.267990&lon=21.037509
+Bro +BroSka http://www.openstreetmap.org/?lat=52.264027&lon=21.038389
++DIV_23 http://www.openstreetmap.org/?lat=52.258135&lon=21.034800
+Inz +InzSka http://www.openstreetmap.org/?lat=52.257723&lon=21.034312
++DIV_62028 http://www.openstreetmap.org/?lat=52.256692&lon=21.033009
 DwoWil http://www.openstreetmap.org/?lat=52.254714&lon=21.034819
-ZabSka http://www.openstreetmap.org/?lat=52.251789&lon=21.038121
-KijSka http://www.openstreetmap.org/?lat=52.249497&lon=21.042777
+Zab +ZabSka http://www.openstreetmap.org/?lat=52.251789&lon=21.038121
+Kij +KijSka http://www.openstreetmap.org/?lat=52.249497&lon=21.042777
 AleZie http://www.openstreetmap.org/?lat=52.247792&lon=21.047187
-LubSka http://www.openstreetmap.org/?lat=52.247267&lon=21.052895
-BliSka http://www.openstreetmap.org/?lat=52.246873&lon=21.058538
-GocSka http://www.openstreetmap.org/?lat=52.246492&lon=21.064053
+Lub +LubSka http://www.openstreetmap.org/?lat=52.247267&lon=21.052895
+Bli +BliSka http://www.openstreetmap.org/?lat=52.246873&lon=21.058538
+Gocs +GocSka http://www.openstreetmap.org/?lat=52.246492&lon=21.064053
 PraPolRat http://www.openstreetmap.org/?lat=52.246177&lon=21.069543
-MieSka http://www.openstreetmap.org/?lat=52.245823&lon=21.075602
+Mie +MieSka http://www.openstreetmap.org/?lat=52.245823&lon=21.075602
 Kic http://www.openstreetmap.org/?lat=52.245546&lon=21.079717
 Wia http://www.openstreetmap.org/?lat=52.244968&lon=21.084652
-CzaSka http://www.openstreetmap.org/?lat=52.244735&lon=21.091604
+Cza +CzaSka http://www.openstreetmap.org/?lat=52.244735&lon=21.091604
 WspDro http://www.openstreetmap.org/?lat=52.243946&lon=21.095316
 PlacSze http://www.openstreetmap.org/?lat=52.242475&lon=21.102215
-ZolSki http://www.openstreetmap.org/?lat=52.241325&lon=21.107612
+Zol +ZolSki http://www.openstreetmap.org/?lat=52.241325&lon=21.107612
 KwaGlo http://www.openstreetmap.org/?lat=52.239936&lon=21.114221
-Goc http://www.openstreetmap.org/?lat=52.237948&lon=21.119606
+Gocw Goc http://www.openstreetmap.org/?lat=52.237948&lon=21.119606
