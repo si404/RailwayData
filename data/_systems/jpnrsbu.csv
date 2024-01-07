@@ -1,0 +1,12 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+jpnrsbu;JPN;ChichibuLn;;;Seibu Chichibu Line;jpn.sbuchichibu;
+jpnrsbu;JPN;HaijimaLn;;;Seibu Haijima Line;jpn.sbuhaijima;
+jpnrsbu;JPN;IkebukuroLn;;;Seibu Ikebukuro Line;jpn.sbuikebukuro;
+jpnrsbu;JPN;KokubunjiLn;;;Seibu Kokubunji Line;jpn.sbukokubunji;
+jpnrsbu;JPN;SayamaLn;;;Seibu Sayama Line;jpn.sbusayama;
+jpnrsbu;JPN;SeibuenLn;;;Seibu Seibuen Line;jpn.sbuseibuen;
+jpnrsbu;JPN;SeibuShinjukuLn;;;Seibu Shinjuku Line;jpn.sbushinjuku;
+jpnrsbu;JPN;TamagawaLn;;;Seibu Tamagawa Line;jpn.sbutamagawa;
+jpnrsbu;JPN;TamakoLn;;;Seibu Tamako Line;jpn.sbutamako;
+jpnrsbu;JPN;ToshimaLn;;;Seibu Toshima Line;jpn.sbutoshima;
+jpnrsbu;JPN;SeibuYurakuchoLn;;;Seibu Yurakucho Line;jpn.sbuyurakucho;

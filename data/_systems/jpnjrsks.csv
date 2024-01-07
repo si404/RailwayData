@@ -1,9 +1,11 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-jpnjrsks;JPN;HokkaiShin;;;Hokkaido Shinkansen;jpn.hokkaido;
-jpnjrsks;JPN;HokuShin;;;Hokuriku Shinkansen;jpn.hokuriku;
-jpnjrsks;JPN;JoeShin;;;Joetsu Shinkansen;jpn.joetsu;
-jpnjrsks;JPN;KyuShin;;;Kyushu Shinkansen;jpn.kyushu;
-jpnjrsks;JPN;SanShin;;;Sanyo Shinkansen;jpn.sanyo;
-jpnjrsks;JPN;TohoShin;;;Tohoku Shinkansen;jpn.tohoku;
-jpnjrsks;JPN;TokaiShin;;;Tokaido Shinkansen;jpn.tokaido;
-jpnjrsks;JPN;WKyuShin;;;West Kyushu Shinkansen;jpn.westkyushu;
+jpnjrsks;JPN;AkitaShin;;;Akita Shinkansen;jpn.akita;
+jpnjrsks;JPN;HokkaidoShin;;;Hokkaido Shinkansen;jpn.hokkaido;
+jpnjrsks;JPN;HokurikuShin;;;Hokuriku Shinkansen;jpn.hokuriku;
+jpnjrsks;JPN;JoetsuShin;;;Joetsu Shinkansen;jpn.joetsu;
+jpnjrsks;JPN;KyushuShin;;;Kyushu Shinkansen;jpn.kyushu;
+jpnjrsks;JPN;SanyoShin;;;Sanyo Shinkansen;jpn.sanyo;
+jpnjrsks;JPN;TokaidoShin;;;Tokaido Shinkansen;jpn.tokaido;
+jpnjrsks;JPN;TohokuShin;;;Tohoku Shinkansen;jpn.tohoku;
+jpnjrsks;JPN;WestKyushuShin;;;West Kyushu Shinkansen;jpn.westkyushu;
+jpnjrsks;JPN;YamagataShin;;;Yamagata Shinkansen;jpn.yamagata;
