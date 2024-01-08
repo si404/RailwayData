@@ -314,7 +314,9 @@ jpnjrsks;JPN;JR Shinkansens;TMpurple;1;preview
 jpnjrc;JPN;JR Central;TMpurple;1;preview
 jpnjre;JPN;JR East;TMpurple;1;preview
 jpnjrh;JPN;JR Hokkaido;TMpurple;1;preview
+jpnjrk;JPN;JR Kyushu;TMpurple;1;preview
 jpnjrs;JPN;JR Shikoku;TMpurple;1;preview
+jpnjrw;JPN;JR West;TMpurple;1;preview
 jpnxjrc;JPN;Former JR Central Lines;TMbrown;2;preview
 jpnxjre;JPN;Former JR East Lines;TMbrown;2;preview
 jpnxjrh;JPN;Former JR Hokkaido Lines;TMbrown;2;preview
@@ -326,14 +328,16 @@ jpnrksi;JPN;Keisei Railway;TMbrown;2;preview
 jpnrnnr;JPN;Nishi-Nippon Railroad;TMbrown;2;preview
 jpnrodk;JPN;Odakyu Railway;TMbrown;2;preview
 jpnrsbu;JPN;Seibu Railway;TMbrown;2;preview
-jpnvech;JPN;Echizen Railway;TMgreen;2;preview
-jpnviyo;JPN;Iyo Railway;TMgreen;2;preview
-jpnvkmd;JPN;Kumamoto Railway;TMgreen;2;preview
-jpnvknn;JPN;Konan Railway;TMgreen;2;preview
-jpnvsng;JPN;Sangi Railway;TMgreen;2;preview
-jpnvtke;JPN;Takamatsu Kotohira Railway;TMgreen;2;preview
-jpnvtsg;JPN;Tsugaru Railway;TMgreen;2;preview
-jpnvwkr;JPN;Kishu Railway;TMgreen;2;preview
+jpnrsot;JPN;Sotetsu Railway;TMbrown;2;preview
+jpnrtbu;JPN;Tobu Railway;TMbrown;2;preview
+jpnvech;JPN;Echizen Railway;TMbrown;2;preview
+jpnviyo;JPN;Iyo Railway;TMbrown;2;preview
+jpnvkmd;JPN;Kumamoto Railway;TMbrown;2;preview
+jpnvknn;JPN;Konan Railway;TMbrown;2;preview
+jpnvsng;JPN;Sangi Railway;TMbrown;2;preview
+jpnvtke;JPN;Takamatsu Kotohira Railway;TMbrown;2;preview
+jpnvtsg;JPN;Tsugaru Railway;TMbrown;2;preview
+jpnvwkr;JPN;Kishu Railway;TMbrown;2;preview
 jpnmtfk;JPN;Fukuoka Subway;TMblue;3;preview
 jpnmtkb;JPN;Kobe Subway;TMblue;3;preview
 jpnmtky;JPN;Kyoto Subway;TMblue;3;preview
@@ -344,6 +348,7 @@ jpnmtsp;JPN;Sapporo Subway;TMblue;3;preview
 jpnmtto;JPN;Tokyo Subway;TMblue;3;preview
 jpnmtyk;JPN;Yokohama Subway;TMblue;3;preview
 jpnmono;JPN;Japan Monorails;TMblue;3;preview
+jpnagt;JPN;Automated Guideway Transit;TMblue;3;preview
 jpnagtk;JPN;Kobe New Transit (AGT);TMblue;3;preview
 jpntmen;JPN;Enoden Tram;TMred;4;preview
 jpntmfi;JPN;Fukui Trams;TMred;4;preview
