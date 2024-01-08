@@ -1,0 +1,10 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+jpnrnki;JPN;AiportLn;;;Airport Line;jpn.nkiairport;
+jpnrnki;JPN;KadaLn;;;Kada Line;jpn.nkikada;
+jpnrnki;JPN;KoyaLn;;;Koya Line;jpn.nkikoya;
+jpnrnki;JPN;NankaiMainLn;;;Nankai Main Line;jpn.nkimain;
+jpnrnki;JPN;SembokuLn;;;Semboku Rapid Line;jpn.nkisemboku;
+jpnrnki;JPN;ShiomibashiLn;;;Shiomibashi Line;jpn.nkishiomibashi;
+jpnrnki;JPN;TakashinohamaLn;;;Takashinohama Line;jpn.nkitakashinohama;
+jpnrnki;JPN;TanagawaLn;;;Tanagawa Line;jpn.nkitanagawa;
+jpnrnki;JPN;WakayamakoLn;;;Wakayamako Line;jpn.nkiwakayamako;
