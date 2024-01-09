@@ -1,4 +1,5 @@
 systemName;route;banner;groupName;roots
+jpnjre;AgatsumaLn;;Agatsuma Line;jpn.agatsuma
 jpnjre;AterazawaLn;;Aterazawa Line;jpn.aterazawa
 jpnjre;BanetsuEastLn;;Banetsu East Line;jpn.banetsueast
 jpnjre;BanetsuWestLn;;Banetsu West Line;jpn.banetsuwest
@@ -26,9 +27,11 @@ jpnjre;TadamiLn;;Tadami Line;jpn.tadami
 jpnjre;TazawakoLn;;Tazawako Line;jpn.tazawako
 jpnjre;TohokuLn;;Tohoku Line;jpn.tohokumain
 jpnjre;TohokuRifuLn;;Tohoku Rifu Branch Line;jpn.tohokurifu
+jpnjre;TokaidoLnEast;;Tokaido Main Line East;jpn.tokaidoeast
 jpnjre;JRTsugaruLn;;JR Tsugaru Line;jpn.jrtsugaru
 jpnjre;UetsuLn;;Uetsu Line;jpn.uetsu
 jpnjre;UtsunomiyaLn;;Utsunomiya Line;jpn.utsunomiya
 jpnjre;YamadaLn;;Yamada Line;jpn.yamada
+jpnjre;YamanoteLn;;Yamanote Line;jpn.yamanote
 jpnjre;JRYamagataLn;;JR Yamagata Line;jpn.jryamagata
 jpnjre;YonesakaLn;;Yonesaka Line;jpn.yonesaka
