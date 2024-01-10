@@ -1,6 +1,6 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
 jpnrtku;JPN;DenentoshiLn;;;Tokyu Denentoshi Line;jpn.tkudenentoshi;
-jpnrtku;JPN;IkegamiLn;;;Tokyu Ikegami Line;jpn.tkudenentoshi;
+jpnrtku;JPN;IkegamiLn;;;Tokyu Ikegami Line;jpn.tkuikegami;
 jpnrtku;JPN;KodomonokuniLn;;;Kodomonokuni Line;jpn.tkukodomonokuni;
 jpnrtku;JPN;MeguroLn;;;Tokyu Meguro Line;jpn.tkumeguro;
 jpnrtku;JPN;OimachiLn;;;Tokyu Oimachi Line;jpn.tkuoimachi;
