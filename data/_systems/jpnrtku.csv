@@ -1,9 +1,9 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-jpnrktku;JPN;DenentoshiLn;;;Tokyu Denentoshi Line;jpn.tkudenentoshi;
-jpnrktku;JPN;IkegamiLn;;;Tokyu Ikegami Line;jpn.tkudenentoshi;
-jpnrktku;JPN;KodomonokuniLn;;;Kodomonokuni Line;jpn.tkukodomonokuni;
-jpnrktku;JPN;MeguroLn;;;Tokyu Meguro Line;jpn.tkumeguro;
-jpnrktku;JPN;OimachiLn;;;Tokyu Oimachi Line;jpn.tkuoimachi;
-jpnrktku;JPN;ShinYokoLn;;;Tokyu Shin Yokohama Line;jpn.tkushinyokohama;
-jpnrktku;JPN;TamagawaLn;;;Tokyu Tamagawa Line;jpn.tkutamagawa;
-jpnrktku;JPN;ToyokoLn;;;Tokyu Toyoko Line;jpn.tkutoyoko;
+jpnrtku;JPN;DenentoshiLn;;;Tokyu Denentoshi Line;jpn.tkudenentoshi;
+jpnrtku;JPN;IkegamiLn;;;Tokyu Ikegami Line;jpn.tkudenentoshi;
+jpnrtku;JPN;KodomonokuniLn;;;Kodomonokuni Line;jpn.tkukodomonokuni;
+jpnrtku;JPN;MeguroLn;;;Tokyu Meguro Line;jpn.tkumeguro;
+jpnrtku;JPN;OimachiLn;;;Tokyu Oimachi Line;jpn.tkuoimachi;
+jpnrtku;JPN;ShinYokoLn;;;Tokyu Shin Yokohama Line;jpn.tkushinyokohama;
+jpnrtku;JPN;TamagawaLn;;;Tokyu Tamagawa Line;jpn.tkutamagawa;
+jpnrtku;JPN;ToyokoLn;;;Tokyu Toyoko Line;jpn.tkutoyoko;
