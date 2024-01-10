@@ -325,6 +325,7 @@ jpnxjrs;JPN;Former JR Shikoku Lines;TMbrown;2;preview
 jpnrkek;JPN;Keikyu Railway;TMbrown;2;preview
 jpnrkeo;JPN;Keio Railway;TMbrown;2;preview
 jpnrksi;JPN;Keisei Railway;TMbrown;2;preview
+jpnrnki;JPN;Nankai Railway;TMbrown;2;preview
 jpnrnnr;JPN;Nishi-Nippon Railroad;TMbrown;2;preview
 jpnrodk;JPN;Odakyu Railway;TMbrown;2;preview
 jpnrsbu;JPN;Seibu Railway;TMbrown;2;preview
@@ -332,12 +333,15 @@ jpnrsot;JPN;Sotetsu Railway;TMbrown;2;preview
 jpnrtbu;JPN;Tobu Railway;TMbrown;2;preview
 jpnvech;JPN;Echizen Railway;TMbrown;2;preview
 jpnviyo;JPN;Iyo Railway;TMbrown;2;preview
+jpnvizr;JPN;Iizaka Railway;TMbrown;2;preview
 jpnvkmd;JPN;Kumamoto Railway;TMbrown;2;preview
 jpnvknn;JPN;Konan Railway;TMbrown;2;preview
+jpnvsmb;JPN;Shimabara Railway;TMbrown;2;preview
 jpnvsng;JPN;Sangi Railway;TMbrown;2;preview
 jpnvtke;JPN;Takamatsu Kotohira Railway;TMbrown;2;preview
 jpnvtsg;JPN;Tsugaru Railway;TMbrown;2;preview
 jpnvwkr;JPN;Kishu Railway;TMbrown;2;preview
+jpnvwky;JPN;Wakayama Railway;TMbrown;2;preview
 jpnmtfk;JPN;Fukuoka Subway;TMblue;3;preview
 jpnmtkb;JPN;Kobe Subway;TMblue;3;preview
 jpnmtky;JPN;Kyoto Subway;TMblue;3;preview
@@ -359,7 +363,10 @@ jpntmkm;JPN;Kumamoto Trams;TMred;4;preview
 jpntmmy;JPN;Matsuyama Trams;TMred;4;preview
 jpntmna;JPN;Nagasaki Trams;TMred;4;preview
 jpntmok;JPN;Okayama Trams;TMred;4;preview
+jpntmos;JPN;Osaka (Hankai) Trams;TMred;4;preview
 jpntmsp;JPN;Sapporo Tram;TMred;4;preview
+jpntmto;JPN;Tokyo Trams;TMred;4;preview
+jpntmut;JPN;Utsunomiya Light Rail;TMred;4;preview
 jpndmv;JPN;Dual Mode Vehicle Lines;TMyellow;5;preview
 jpnfuni;JPN;Japan Funiculars;TMyellow;5;preview
 jpntour;JPN;Japan Tourist/Heritage Railroads;TMyellow;5;preview
