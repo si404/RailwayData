@@ -1,6 +1,6 @@
 systemName;route;banner;groupName;roots
-jpnrkek;KekAirLn;;Keikyu Airport Line;jpn.kekairport
-jpnrkek;KekDaishiLn;;Keikyu Daishi Line;jpn.kekdaishi
-jpnrkek;KekKuriLn;;Keikyu Kurihama Line;jpn.kekkurihama
-jpnrkek;KekMainLn;;Keikyu Main Line;jpn.kekmain
-jpnrkek;KekZushiLn;;Keikyu Zushi Line;jpn.kekzushi
+jpnrkku;AirportLn;;Keikyu Airport Line;jpn.kkuairport
+jpnrkku;DaishiLn;;Keikyu Daishi Line;jpn.kkudaishi
+jpnrkku;KurihamaLn;;Keikyu Kurihama Line;jpn.kkukurihama
+jpnrkku;KeikyuMainLn;;Keikyu Main Line;jpn.kkumain
+jpnrkku;ZushiLn;;Keikyu Zushi Line;jpn.kkuzushi
