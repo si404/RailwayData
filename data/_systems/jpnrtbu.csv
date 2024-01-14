@@ -1,5 +1,5 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-jpnrtbu;JPN;DaishiLn;;;Tobu Daishi Line;jpn.tbudaishi;
+jpnrtbu;JPN;TobuDaishiLn;;;Tobu Daishi Line;jpn.tbudaishi;
 jpnrtbu;JPN;IsesakiLn;;;Tobu Isesaki Line;jpn.tbuisesaki;
 jpnrtbu;JPN;KameidoLn;;;Tobu Kameido Line;jpn.tbukameido;
 jpnrtbu;JPN;KinugawaLn;;;Tobu Kinugawa Line;jpn.tbukinugawa;
