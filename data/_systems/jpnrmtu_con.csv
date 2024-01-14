@@ -1,5 +1,5 @@
 systemName;route;banner;groupName;roots
-jpnrmtu;AirportLn;;Meitetsu Airport Line;jpn.mtuairport
+jpnrmtu;MeitetsuAirportLn;;Meitetsu Airport Line;jpn.mtuairport
 jpnrmtu;BisaiLn;;Meitetsu Bisai Line;jpn.mtubisai
 jpnrmtu;ChikkoLn;;Meitetsu Chikko Line;jpn.mtuchikko
 jpnrmtu;ChitaNewLn;;Meitetsu Chita New Line;jpn.mtuchitanew
