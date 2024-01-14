@@ -1,5 +1,5 @@
 systemName;route;banner;groupName;roots
 jpnrhsn;HanshinLn;;Hanshin Main Line;jpn.hsnhanshin
-jpnrhsn;HanshinKosokuLn;;Hanshin Kobe Kosoku Line;jpn.hsnkosoku
+jpnrhsn;HanKosokuLn;;Hanshin Kobe Kosoku Line;jpn.hsnkosoku
 jpnrhsn;MukogawaLn;;Hanshin Mukogawa Line;jpn.hsnmukogawa
-jpnrhsn;NambaLn;;Hanshin Namba Line;jpn.hsnnamba
+jpnrhsn;HanNambaLn;;Hanshin Namba Line;jpn.hsnnamba
