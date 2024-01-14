@@ -1,6 +1,6 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-jpnrkku;JPN;AirportLn;;;Keikyu Airport Line;jpn.kkuairport;
-jpnrkku;JPN;DaishiLn;;;Keikyu Daishi Line;jpn.kkudaishi;
+jpnrkku;JPN;KeikyuAirportLn;;;Keikyu Airport Line;jpn.kkuairport;
+jpnrkku;JPN;KeikyuDaishiLn;;;Keikyu Daishi Line;jpn.kkudaishi;
 jpnrkku;JPN;KurihamaLn;;;Keikyu Kurihama Line;jpn.kkukurihama;
 jpnrkku;JPN;KeikyuMainLn;;;Keikyu Main Line;jpn.kkumain;
 jpnrkku;JPN;ZushiLn;;;Keikyu Zushi Line;jpn.kkuzushi;
