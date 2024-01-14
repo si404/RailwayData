@@ -1,1 +1,8 @@
-Keihan
+systemName;route;banner;groupName;roots
+jpnrkhn;IshiyamaLn;;Keihan Ishiyama Sakamoto Line;jpn.khnishiyama
+jpnrkhn;KatanoLn;;Keihan Katano Line;jpn.khnkatano
+jpnrkhn;KeihanLn;;Keihan Main Line;jpn.khnkeihan
+jpnrkhn;KeishinLn;;Keihan Keishin Line;jpn.khnkeishin
+jpnrkhn;NakanoshimaLn;;Keihan Nakanoshima Line;jpn.khnnakanoshima
+jpnrkhn;OtoLn;;Keihan Oto Line;jpn.khnoto
+jpnrkhn;UjiLn;;Keihan Uji Line;jpn.khnuji
