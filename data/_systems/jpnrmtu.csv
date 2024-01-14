@@ -1,5 +1,5 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-jpnrmtu;JPN;MeitetsuAirportLn;;;Meitetsu Airport Line;jpn.mtuairport;
+jpnrmtu;JPN;MeiAirportLn;;;Meitetsu Airport Line;jpn.mtuairport;
 jpnrmtu;JPN;BisaiLn;;;Meitetsu Bisai Line;jpn.mtubisai;
 jpnrmtu;JPN;ChikkoLn;;;Meitetsu Chikko Line;jpn.mtuchikko;
 jpnrmtu;JPN;ChitaNewLn;;;Meitetsu Chita New Line;jpn.mtuchitanew;
