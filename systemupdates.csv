@@ -1,4 +1,8 @@
 ﻿date;region;systemName;description;statusChange
+2024-01-14;Japan;jpnrkin;Kintetsu Railway;preview
+2024-01-14;Japan;jpnrkhn;Keihan Railway;preview
+2024-01-14;Japan;jpnrhsn;Hanshin Railway;preview
+2024-01-14;Japan;jpnrhku;Hankyu Railway;preview
 2024-01-11;Japan;jpnrmtu;Meitetsu Railway;preview
 2024-01-11;Japan;jpnrtku;Tokyu Railway;preview
 2024-01-08;Japan;jpnvizr;Iizaka Railway;preview
@@ -32,7 +36,7 @@
 2023-12-26;Japan;jpnmtto;Tokyo Subway;preview
 2023-12-26;Japan;jpnjrc;JR Central;preview
 2023-12-26;Japan;jpnxjrc;Former JR Central Lines;preview
-2023-12-26;Japan;jpnrkek;Keikyu Railway;preview
+2023-12-26;Japan;jpnrkku;Keikyu Railway;preview
 2023-12-26;Japan;jpnagtk;Kobe New Transit (AGT);preview
 2023-12-26;Japan;jpntmkm;Kumamoto Trams;preview
 2023-12-24;Japan;jpnjre;JR East;preview
