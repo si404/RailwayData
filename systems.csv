@@ -322,8 +322,12 @@ jpnxjre;JPN;Former JR East Lines;TMbrown;2;preview
 jpnxjrh;JPN;Former JR Hokkaido Lines;TMbrown;2;preview
 jpnxjrk;JPN;Former JR Kyushu Lines;TMbrown;2;preview
 jpnxjrs;JPN;Former JR Shikoku Lines;TMbrown;2;preview
-jpnrkek;JPN;Keikyu Railway;TMbrown;2;preview
+jpnrhku;JPN;Hankyu Railway;TMbrown;2;preview
+jpnrhsn;JPN;Hanshin Railway;TMbrown;2;preview
 jpnrkeo;JPN;Keio Railway;TMbrown;2;preview
+jpnrkhn;JPN;Keihan Railway;TMbrown;2;preview
+jpnrkin;JPN;Keitetsu Railway;TMbrown;2;preview
+jpnrkku;JPN;Keikyu Railway;TMbrown;2;preview
 jpnrksi;JPN;Keisei Railway;TMbrown;2;preview
 jpnrmtu;JPN;Meitetsu Railway;TMbrown;2;preview
 jpnrnki;JPN;Nankai Railway;TMbrown;2;preview

@@ -1,0 +1,13 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+jpnrhku;JPN;ArashiyamaLn;;;Hankyu Arashiyama Line;jpn.hkuarashiyama;
+jpnrhku;JPN;ImazuLn;;;Hankyu Imazu Line;jpn.hkuimazu;
+jpnrhku;JPN;ItamiLn;;;Hankyu Itami Line;jpn.hkuitami;
+jpnrhku;JPN;KobeLn;;;Hankyu Kobe Main Line;jpn.hkukobe;
+jpnrhku;JPN;KobeKosokuLn;;;Hankyu Kobe Kosoku Line;jpn.hkukosoku;
+jpnrhku;JPN;KoyoLn;;;Hankyu Koyo Line;jpn.hkukoyo;
+jpnrhku;JPN;HankyuKyotoLn;;;Hankyu Kyoto Main Line;jpn.hkukyoto;
+jpnrhku;JPN;MinohLn;;;Hankyu Minoh Line;jpn.hkuminoh;
+jpnrhku;JPN;MyokenLn;;;Nose Myoken Line;jpn.hkunosemyoken;
+jpnrhku;JPN;NisseiLn;;;Nose Nissei Line;jpn.hkunosenissei;
+jpnrhku;JPN;SenriLn;;;Hankyu Senri Line;jpn.hkusenri;
+jpnrhku;JPN;TakarazukaLn;;;Hankyu Takarazuka Main Line;jpn.hkutakarazuka;
