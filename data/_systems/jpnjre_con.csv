@@ -25,9 +25,9 @@ jpnjre;RikuuWestLn;;Rikuu West Line;jpn.rikuuwest
 jpnjre;SensekiLn;;Senseki Line;jpn.senseki
 jpnjre;SenTohoLn;;Senseki-Tohoku Line;jpn.sensekitohoku
 jpnjre;SenzanLn;;Senzan Line;jpn.senzan
-jpnjre;ShinetsuCentralLn;;Shinetsu Line Central;jpn.shinetsucentral
-jpnjre;ShinetsuNorthLn;;Shinetsu Line North;jpn.shinetsunorth
-jpnjre;ShinetsuSouthLn;;Shinetsu Line South;jpn.shinetsusouth
+jpnjre;ShinetsuLnCen;;Shinetsu Line Central;jpn.shinetsucentral
+jpnjre;ShinetsuLnN;;Shinetsu Line North;jpn.shinetsunorth
+jpnjre;ShinetsuLnS;;Shinetsu Line South;jpn.shinetsusouth
 jpnjre;SuigunLn;;Suigun Line;jpn.suigun
 jpnjre;HitachiOtaLn;;Suigun Hitachi-Ota Branch Line;jpn.suigunhitachi
 jpnjre;TadamiLn;;Tadami Line;jpn.tadami
