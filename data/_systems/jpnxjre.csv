@@ -2,3 +2,6 @@ systemName;region;route;banner;abbrev;city;root;altRouteNames
 jpnxjre;JPN;AoimoriLn;;;Aoimori RW Aoimori Line;jpn.xjraoimori;
 jpnxjre;JPN;RiasLn;;;Sanriku RW Rias Line;jpn.xjrrias;
 jpnxjre;JPN;ChokaiLn;;;Yuri Kogen RW Chokai Sanroku Line;jpn.xjrchokai;
+jpnxjre;JPN;ShinanoLn;;;Shinano RW Shinano Line;jpn.xjrshinano;
+jpnxjre;JPN;KitaShinanoLn;;;Shinano RW Kita Shinano Line;jpn.xjrkitashinano;
+jpnxjre;JPN;MyoHaneLn;;;Echigo Tokimeki RW Myoko Haneuma Line;jpn.xjrmyohane;

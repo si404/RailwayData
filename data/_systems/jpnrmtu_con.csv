@@ -1,0 +1,21 @@
+systemName;route;banner;groupName;roots
+jpnrmtu;MeiAirportLn;;Meitetsu Airport Line;jpn.mtuairport
+jpnrmtu;BisaiLn;;Meitetsu Bisai Line;jpn.mtubisai
+jpnrmtu;ChikkoLn;;Meitetsu Chikko Line;jpn.mtuchikko
+jpnrmtu;ChitaNewLn;;Meitetsu Chita New Line;jpn.mtuchitanew
+jpnrmtu;GamagoriLn;;Meitetsu Gamagori Line;jpn.mtugamagori
+jpnrmtu;HashimaLn;;Meitetsu Hashima Line;jpn.mtuhashima
+jpnrmtu;HiromiLn;;Meitetsu Hiromi Line;jpn.mtuhiromi
+jpnrmtu;InuyamaLn;;Meitetsu Inuyama Line;jpn.mtuinuyama
+jpnrmtu;KakamigaharaLn;;Meitetsu Kakamigahara Line;jpn.mtukakamigahara
+jpnrmtu;KomakiLn;;Meitetsu Komaki Line;jpn.mtukomaki
+jpnrmtu;KowaLn;;Meitetsu Kowa Line;jpn.mtukowa
+jpnrmtu;MikawaLn;;Meitetsu Mikawa Line;jpn.mtumikawa
+jpnrmtu;NagoyaMainLn;;Meitetsu Nagoya Main Line;jpn.mtunagoya
+jpnrmtu;NishioLn;;Meitetsu Nishio Line;jpn.mtunishio
+jpnrmtu;SetoLn;;Meitetsu Seto Line;jpn.mtuseto
+jpnrmtu;TakehanaLn;;Meitetsu Takehana Line;jpn.mtutakehana
+jpnrmtu;TokonameLn;;Meitetsu Tokoname Line;jpn.mtutokoname
+jpnrmtu;ToyokawaLn;;Meitetsu Toyokawa Line;jpn.mtutoyokawa
+jpnrmtu;ToyotaLn;;Meitetsu Toyota Line;jpn.mtutoyota
+jpnrmtu;TsushimaLn;;Meitetsu Tsushima Line;jpn.mtutsushima
