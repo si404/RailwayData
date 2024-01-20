@@ -45,9 +45,13 @@ belgt;BEL;Gentse tram;TMred;4;preview
 belkt;BEL;Kusttram;TMred;4;preview
 bgrsm;BGR;Sofiyski Metropoliten;TMblue;3;preview
 bgrst;BGR;Sofiyski Trams;TMred;4;preview
-canttc;CAN;Toronto Subway;TMblue;3;preview
+cango;CAN;GO Transit;TMgreen;2;preview
 canstm;CAN;Montreal Metro;TMblue;3;preview
+canttc;CAN;Toronto Subway;TMblue;3;preview
+canion;CAN;ION Light Rail;TMred;4;preview
 canrem;CAN;Montreal Réseau Express Métropolitain;TMred;4;preview
+canair;CAN;Canada Landside Airport Rail Systems;TMyellow;5;preview
+cantsc;CAN;Toronto Streetcars;TMyellow;5;preview
 cheags;CHE;S-Bahn Aargau;TMgreen;2;preview
 chebes;CHE;S-Bahn Bern / RER Berne;TMgreen;2;preview
 chebss;CHE;Trinationale S-Bahn Basel / RER trinational de Bâle;TMgreen;2;preview
@@ -418,6 +422,8 @@ turib;TUR;İstanbul Banliyö Treni;TMgreen;2;preview
 turim;TUR;İstanbul Metrosu;TMblue;3;preview
 turit;TUR;İstanbul Tramvayı;TMred;4;preview
 turif;TUR;İstanbul Füniküleri;TMyellow;5;preview
+usablfx;USA;Brightline;TMgreen;2;preview
+usacfr;USA;SunRail;TMgreen;2;preview
 usacndx;USA;CTrail;TMgreen;2;preview
 usalirr;USA;Long Island Rail Road;TMgreen;2;preview
 usamarc;USA;MARC Train;TMgreen;2;preview
@@ -433,6 +439,7 @@ usasepa;USA;SEPTA Regional Rail;TMgreen;2;preview
 usautax;USA;UTA FrontRunner;TMgreen;2;preview
 usavrex;USA;Virginia Railway Express;TMgreen;2;preview
 usatr;USA;United States Tourist/Heritage Railroads;TMgreen;2;preview
+usatrcx;USA;Tri-Rail;TMgreen;2;preview
 usaace;USA;Altamont Corridor Express;TMgreen;2;preview
 usajpbx;USA;Caltrain;TMgreen;2;preview
 usasmart;USA;Sonoma-Marin Area Rail Transit;TMgreen;2;preview
@@ -443,6 +450,7 @@ usasepta;USA;SEPTA rapid transit;TMblue;3;preview
 usanycs;USA;New York City Subway;TMblue;3;preview
 usapath;USA;Port Authority Trans-Hudson Railroad;TMblue;3;preview
 usasir;USA;Staten Island Railway;TMblue;3;preview
+usawdw;USA;Walt Disney World Monorail;TMblue;3;preview
 usawmat;USA;Washington Metro;TMblue;3;preview
 usamarta;USA;MARTA Rail;TMblue;3;preview
 usamdt;USA;Miami-Dade Metrorail;TMblue;3;preview
