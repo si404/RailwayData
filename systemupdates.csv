@@ -1,4 +1,25 @@
 ﻿date;region;systemName;description;statusChange
+2024-01-15;Japan;jpnxjrw;Former JR West Lines;preview
+2024-01-14;Japan;jpnrkin;Kintetsu Railway;preview
+2024-01-14;Japan;jpnrkhn;Keihan Railway;preview
+2024-01-14;Japan;jpnrhsn;Hanshin Railway;preview
+2024-01-14;Japan;jpnrhku;Hankyu Railway;preview
+2024-01-11;Japan;jpnrmtu;Meitetsu Railway;preview
+2024-01-11;Japan;jpnrtku;Tokyu Railway;preview
+2024-01-08;Japan;jpnvizr;Iizaka Railway;preview
+2024-01-08;Japan;jpnvsmb;Shimabara Railway;preview
+2024-01-08;Japan;jpnvwky;Wakayama Railway;preview
+2024-01-08;Japan;jpntmos;Osaka (Nankai) Trams;preview
+2024-01-08;Japan;jpntmto;Tokyo Trams;preview
+2024-01-08;Japan;jpntmut;Utsunomiya Light Rail;preview
+2024-01-08;Japan;jpnnki;Nankai Railway;preview
+2024-01-07;Japan;jpnjrk;JR Kyushu;preview
+2024-01-07;Japan;jpnjrw;JR West;preview
+2024-01-07;Japan;jpnrtbu;Tobu Railway;preview
+2024-01-07;Japan;jpnrsot;Sotetsu Railway;preview
+2024-01-07;Japan;jpnagt;Automated Guideway Transit;preview
+2024-01-06;Japan;jpnrsbo;Seibu Railway;preview
+2024-01-06;Japan;jpnrkeo;Keio Railway;preview
 2024-01-05;Japan;jpnrksi;Keisei Railway;preview
 2024-01-05;Japan;jpnvtsg;Tsugaru Railway;preview
 2024-01-05;Japan;jpnvkmd;Kumamoto Railway;preview
@@ -16,7 +37,7 @@
 2023-12-26;Japan;jpnmtto;Tokyo Subway;preview
 2023-12-26;Japan;jpnjrc;JR Central;preview
 2023-12-26;Japan;jpnxjrc;Former JR Central Lines;preview
-2023-12-26;Japan;jpnrkek;Keikyu Railway;preview
+2023-12-26;Japan;jpnrkku;Keikyu Railway;preview
 2023-12-26;Japan;jpnagtk;Kobe New Transit (AGT);preview
 2023-12-26;Japan;jpntmkm;Kumamoto Trams;preview
 2023-12-24;Japan;jpnjre;JR East;preview
