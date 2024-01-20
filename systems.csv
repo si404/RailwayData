@@ -502,13 +502,15 @@ usamuni;USA;San Francisco MUNI Light Rail;TMred;4;preview
 usasrt;USA;Sacramento RT Light Rail;TMred;4;preview
 usavta;USA;VTA Light Rail;TMred;4;preview
 usaair;USA;United States Landside Airport Rail Systems;TMyellow;5;preview
-usair;USA;United States Incline Railways;TMyellow;5;preview
+usahart;USA;TECO Line Streetcar, Tampa;TMyellow;5;preview
 usahunhts;USA;Huntsville Hospital Tram System;TMyellow;5;preview
-usarooist;USA;Roosevelt Island Tramway;TMyellow;5;preview
-usawvuprt;USA;Morgantown Personal Rapid Transit;TMyellow;5;preview
-usammm;USA;Miami Metromover;TMyellow;5;preview
-usatsc;USA;Tempe Streetcar;TMyellow;5;preview
-usautas;USA;UTA S-Line;TMyellow;5;preview
+usair;USA;United States Incline Railways;TMyellow;5;preview
+usajta;USA;Jacksonville Skyway;TMyellow;5;preview
 usakcsc;USA;RideKC Streetcar;TMyellow;5;preview
 usalvct;USA;Las Vegas Casino Trams;TMyellow;5;preview
+usammm;USA;Miami Metromover;TMyellow;5;preview
+usarooist;USA;Roosevelt Island Tramway;TMyellow;5;preview
 usasfcc;USA;San Francisco Cable Cars;TMyellow;5;preview
+usatsc;USA;Tempe Streetcar;TMyellow;5;preview
+usautas;USA;UTA S-Line;TMyellow;5;preview
+usawvuprt;USA;Morgantown Personal Rapid Transit;TMyellow;5;preview
