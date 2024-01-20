@@ -3,7 +3,7 @@ cango;ON;BT;;;Barrie GO;on.bt;
 cango;ON;KT;;;Kitchener GO;on.kt;
 cango;ON;LE;;;Lakeshore East GO;on.le;
 cango;ON;LW;;;Lakeshore West GO (Hamilton);on.lw;
-cango;ON;LW;;;Lakeshore West GO (Niagara Falls);on.lwnia;
+cango;ON;LW;;Nia;Lakeshore West GO (Niagara Falls);on.lwnia;
 cango;ON;MI;;;Milton GO;on.mi;
 cango;ON;RH;;;Richmond Hill GO;on.rh;
 cango;ON;ST;;;Stouffville GO;on.st;
