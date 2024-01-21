@@ -15,6 +15,8 @@ jpnjre;KamaishiLn;;Kamaishi Line;jpn.kamaishi
 jpnjre;KarasuyamaLn;;Karasuyama Line;jpn.karasuyama
 jpnjre;KesennumaLn;;Kesennuma Line;jpn.kesennuma
 jpnjre;KitakamiLn;;Kitakami Line;jpn.kitakami
+jpnjre;KururiLn;;Kururi Line;jpn.kururi
+jpnjre;MitoLn;;Mito Line;jpn.mito
 jpnjre;JRNikkoLn;;JR Nikko Line;jpn.jrnikko
 jpnjre;OfunatoLn;;Ofunato Line;jpn.ofunato
 jpnjre;OgaLn;;Oga Line;jpn.oga
@@ -28,18 +30,23 @@ jpnjre;SenzanLn;;Senzan Line;jpn.senzan
 jpnjre;ShinetsuLnCen;;Shinetsu Line Central;jpn.shinetsucentral
 jpnjre;ShinetsuLnN;;Shinetsu Line North;jpn.shinetsunorth
 jpnjre;ShinetsuLnS;;Shinetsu Line South;jpn.shinetsusouth
+jpnjre;SobuLn;;Sobu Line;jpn.sobumain
+jpnjre;SotoboLn;;Sotobo Line;jpn.sotobo
 jpnjre;SuigunLn;;Suigun Line;jpn.suigun
 jpnjre;HitachiOtaLn;;Suigun Hitachi-Ota Branch Line;jpn.suigunhitachi
 jpnjre;TadamiLn;;Tadami Line;jpn.tadami
 jpnjre;TazawakoLn;;Tazawako Line;jpn.tazawako
+jpnjre;ToganeLn;;Togane Line;jpn.togane
 jpnjre;TohokuLn;;Tohoku Line;jpn.tohokumain
 jpnjre;TohokuRifuLn;;Tohoku Rifu Branch Line;jpn.tohokurifu
 jpnjre;TokaidoLnEast;;Tokaido Main Line East;jpn.tokaidoeast
 jpnjre;JRTsugaruLn;;JR Tsugaru Line;jpn.jrtsugaru
+jpnjre;UchiboLn;;Uchibo Line;jpn.uchibo
 jpnjre;UetsuLn;;Uetsu Line;jpn.uetsu
 jpnjre;UtsunomiyaLn;;Utsunomiya Line;jpn.utsunomiya
 jpnjre;YahikoLn;;Yahiko Line;jpn.yahiko
 jpnjre;JRYamadaLn;;JR Yamada Line;jpn.yamada
 jpnjre;YamanoteLn;;Yamanote Line;jpn.yamanote
 jpnjre;JRYamagataLn;;JR Yamagata Line;jpn.jryamagata
+jpnjre;YokosukaLn;;Yokosuka Line;jpn.yokosuka
 jpnjre;YonesakaLn;;Yonesaka Line;jpn.yonesaka

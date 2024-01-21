@@ -1,2 +1,5 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
+jpnjrw;JPN;KansaiLnWest;;;Kansai Line West;jpn.kansaiwest;
 jpnjrw;JPN;JRNaraLn;;;JR Nara Line;jpn.nara;
+jpnjrw;JPN;TakayamaLnNorth;;;Takayama Line North;jpn.takayamanorth;
+jpnjrw;JPN;YamatojiLn;;;Yamatoji Line;jpn.yamatoji;
