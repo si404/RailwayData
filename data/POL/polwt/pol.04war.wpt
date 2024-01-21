@@ -2,20 +2,20 @@ ZerWsc http://www.openstreetmap.org/?lat=52.310988&lon=21.012275
 Far http://www.openstreetmap.org/?lat=52.308718&lon=21.015580
 Odl http://www.openstreetmap.org/?lat=52.305471&lon=21.018047
 Ino http://www.openstreetmap.org/?lat=52.301128&lon=21.021320
-+DIV_1325 +AnnoPol http://www.openstreetmap.org/?lat=52.298950&lon=21.022961
++DIV_1325 http://www.openstreetmap.org/?lat=52.298950&lon=21.022961
 TorSka http://www.openstreetmap.org/?lat=52.296755&lon=21.024635
 MetBro http://www.openstreetmap.org/?lat=52.293618&lon=21.027403
-Pob +PobSka http://www.openstreetmap.org/?lat=52.290101&lon=21.029398
-Rem +RemSka http://www.openstreetmap.org/?lat=52.288264&lon=21.030536
-Jul +JulSka http://www.openstreetmap.org/?lat=52.284995&lon=21.032853
-Bud +BudLana http://www.openstreetmap.org/?lat=52.281096&lon=21.027038
+Pob http://www.openstreetmap.org/?lat=52.290101&lon=21.029398
+Rem http://www.openstreetmap.org/?lat=52.288264&lon=21.030536
+Jul http://www.openstreetmap.org/?lat=52.284995&lon=21.032853
+Bud http://www.openstreetmap.org/?lat=52.281096&lon=21.027038
 Poz http://www.openstreetmap.org/?lat=52.278195&lon=21.027703
 Sta http://www.openstreetmap.org/?lat=52.273744&lon=21.031780
 RonZaba http://www.openstreetmap.org/?lat=52.269214&lon=21.036909
 +DIV_1 http://www.openstreetmap.org/?lat=52.267990&lon=21.037509
-Bro +BroSka http://www.openstreetmap.org/?lat=52.264027&lon=21.038389
+Bro http://www.openstreetmap.org/?lat=52.264027&lon=21.038389
 +DIV_23 http://www.openstreetmap.org/?lat=52.258135&lon=21.034800
-Inz +InzSka http://www.openstreetmap.org/?lat=52.257723&lon=21.034312
+Inz http://www.openstreetmap.org/?lat=52.257723&lon=21.034312
 +DIV_62028 http://www.openstreetmap.org/?lat=52.256692&lon=21.033009
 DwoWil http://www.openstreetmap.org/?lat=52.254714&lon=21.034819
 ParkPra http://www.openstreetmap.org/?lat=52.252614&lon=21.029828
@@ -23,7 +23,7 @@ StaMia http://www.openstreetmap.org/?lat=52.246741&lon=21.015129
 MetRatArs http://www.openstreetmap.org/?lat=52.244367&lon=21.001289
 PlacBan http://www.openstreetmap.org/?lat=52.243309&lon=21.002609
 KroSka http://www.openstreetmap.org/?lat=52.238664&lon=21.006299
-MetSwi +MetSwiKrzySka http://www.openstreetmap.org/?lat=52.235090&lon=21.007909
+MetSwi http://www.openstreetmap.org/?lat=52.235090&lon=21.007909
 Cen http://www.openstreetmap.org/?lat=52.229830&lon=21.011707
 Hoza http://www.openstreetmap.org/?lat=52.226686&lon=21.013627
 PlacKon http://www.openstreetmap.org/?lat=52.223150&lon=21.015869
@@ -37,8 +37,8 @@ MorOko http://www.openstreetmap.org/?lat=52.202435&lon=21.023401
 ParkDre http://www.openstreetmap.org/?lat=52.196859&lon=21.024131
 Mal http://www.openstreetmap.org/?lat=52.194209&lon=21.024302
 Kor http://www.openstreetmap.org/?lat=52.189809&lon=21.024485
-Buk +BukSka http://www.openstreetmap.org/?lat=52.186323&lon=21.024646
-MetWil +MetWilSka http://www.openstreetmap.org/?lat=52.181886&lon=21.023047
+Buk http://www.openstreetmap.org/?lat=52.186323&lon=21.024646
+MetWil http://www.openstreetmap.org/?lat=52.181886&lon=21.023047
 Nie http://www.openstreetmap.org/?lat=52.176442&lon=21.020869
 AleLot http://www.openstreetmap.org/?lat=52.172803&lon=21.019571
 Wys http://www.openstreetmap.org/?lat=52.168072&lon=21.016427
