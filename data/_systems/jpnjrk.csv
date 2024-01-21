@@ -1,3 +1,5 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
 jpnjrk;JPN;KagoshimaLnNorth;;;Kagoshima Line North;jpn.kagonorth;
 jpnjrk;JPN;KagoshimaLnSouth;;;Kagoshima Line South;jpn.kagosouth;
+jpnjrk;JPN;NagasakiLn;;;Nagasaki Line;jpn.nagasaki;
+jpnjrk;JPN;NagasakiOldLn;;;Nagasaki Old Line;jpn.nagasakiold;
