@@ -1,3 +1,4 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-jpnvhne;JPN;ChoshiLn;;;Choshi RW Choshi Line;jpn.hnechoshi;
-jpnvhne;JPN;KominatoLn;;;Kominato RW Kominato Line;jpn.hnekominato;
+jpnvhne;JPN;ChoshiLn;;;Choshi RW Choshi Line;jpn.chrchoshi;
+jpnvhne;JPN;IizakaLn;;;Iizaka RW Iizaka Line;jpn.izriizaka;
+jpnvhne;JPN;KominatoLn;;;Kominato RW Kominato Line;jpn.kmrkominato;
