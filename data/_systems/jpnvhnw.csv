@@ -1,2 +1,4 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-jpnvhnw;JPN;KishigawaLn;;;Wakayama Electric RW Kishigawa Line;jpn.hnwkishigawa;
+jpnvhnw;JPN;KatsuyamaLn;;;Echizen RW Katsuyama Eiheiji Line;jpn.echkatsuyama;
+jpnvhnw;JPN;MikuniLn;;;Echizen RW Mikuni Awara Line;jpn.echmikuni;
+jpnvhnw;JPN;KishigawaLn;;;Wakayama Electric RW Kishigawa Line;jpn.wakkishigawa;
