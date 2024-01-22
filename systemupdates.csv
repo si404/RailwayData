@@ -1,4 +1,5 @@
 ﻿date;region;systemName;description;statusChange
+2024-01-21;Japan;jpnctok;Tokyo Small Commuter Railways;preview
 2024-01-15;Japan;jpnxjrw;Former JR West Lines;preview
 2024-01-14;Japan;jpnrkin;Kintetsu Railway;preview
 2024-01-14;Japan;jpnrkhn;Keihan Railway;preview
@@ -6,9 +7,7 @@
 2024-01-14;Japan;jpnrhku;Hankyu Railway;preview
 2024-01-11;Japan;jpnrmtu;Meitetsu Railway;preview
 2024-01-11;Japan;jpnrtku;Tokyu Railway;preview
-2024-01-08;Japan;jpnvizr;Iizaka Railway;preview
-2024-01-08;Japan;jpnvsmb;Shimabara Railway;preview
-2024-01-08;Japan;jpnvwky;Wakayama Railway;preview
+2024-01-08;Japan;jpnvhnw;Western Honshu Private Railways;preview
 2024-01-08;Japan;jpntmos;Osaka (Nankai) Trams;preview
 2024-01-08;Japan;jpntmto;Tokyo Trams;preview
 2024-01-08;Japan;jpntmut;Utsunomiya Light Rail;preview
@@ -41,7 +40,6 @@
 2023-12-26;Japan;jpnagtk;Kobe New Transit (AGT);preview
 2023-12-26;Japan;jpntmkm;Kumamoto Trams;preview
 2023-12-24;Japan;jpnjre;JR East;preview
-2023-12-24;Japan;jpnvech;Echizen Railway;preview
 2023-12-24;Japan;jpntmfi;Fukui Trams;preview
 2023-12-24;Japan;jpnxjrk;Former JR Kyushu Lines;preview
 2023-12-22;Japan;jpnfuni;Japan Funiculars;preview
