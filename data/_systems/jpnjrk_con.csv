@@ -1,5 +1,9 @@
 systemName;route;banner;groupName;roots
+jpnjrk;HohiLn;;Hohi Line;jpn.hohi
 jpnjrk;KagoshimaLnNorth;;Kagoshima Line North;jpn.kagonorth
 jpnjrk;KagoshimaLnSouth;;Kagoshima Line South;jpn.kagosouth
+jpnjrk;KyudaiLn;;Kyudai Line;jpn.kyudai
+jpnjrk;MisumiLn;;Misumi Line;jpn.misumi
 jpnjrk;NagasakiLn;;Nagasaki Line;jpn.nagasaki
 jpnjrk;NagasakiOldLn;;Nagasaki Old Line;jpn.nagasakiold
+jpnjrk;NippoLn;;Nippo Line;jpn.nippo
