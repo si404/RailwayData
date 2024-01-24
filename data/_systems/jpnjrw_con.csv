@@ -1,8 +1,10 @@
 systemName;route;banner;groupName;roots
 jpnjrw;KansaiLnWest;;Kansai Line West;jpn.kansaiwest
+jpnjrw;JRKobeLn;;JR Kobe Line;jpn.jrkobe
 jpnjrw;JRNaraLn;;JR Nara Line;jpn.nara
 jpnjrw;SaganoLn;;Sagano Line;jpn.sagano
 jpnjrw;SaninLn;;Sanin Line;jpn.sanin
+jpnjrw;SanyoLn;;Sanyo Line;jpn.sanyo
 jpnjrw;SenzakiLn;;Sanin Senzaki Branch Line;jpn.senzaki
 jpnjrw;TakayamaLnNorth;;Takayama Line North;jpn.takayamanorth
 jpnjrw;YamatojiLn;;Yamatoji Line;jpn.yamatoji
