@@ -1,7 +1,11 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
+jpnvsge;JPN;ChichibuLn;;;Chichibu RW Chichibu Line;jpn.chbchichibu;
 jpnvsge;JPN;ChoshiLn;;;Choshi RW Choshi Line;jpn.chrchoshi;
+jpnvsge;JPN;FujikyukoLn;;;Fujikyu RW Fujikyuko Line;jpn.fjkfujikyuko;
 jpnvsge;JPN;HakoneTozanLn;;;Hakone Tozan RW Hakone Tozan Line;jpn.htrhakonetozan;
 jpnvsge;JPN;IizakaLn;;;Iizaka RW Iizaka Line;jpn.izriizaka;
 jpnvsge;JPN;KominatoLn;;;Kominato RW Kominato Line;jpn.kmrkominato;
+jpnvsge;JPN;NagareyamaLn;;;Ryutetsu RW Nagareyama Line;jpn.ryunagareyama;
+jpnvsge;JPN;ShibayamaLn;;;Shibayama RW Shibayama Line;jpn.sbyshibayama;
 jpnvsge;JPN;ToyoRapidLn;;;Toyo Rapid RW Line;jpn.tyrtoyorapid;
 jpnvsge;JPN;TsukubaExpress;;;Tsukuba Express;jpn.tsxtsukubaex;
