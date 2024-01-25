@@ -1,5 +1,5 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-jpnrsbu;JPN;ChichibuLn;;;Seibu Chichibu Line;jpn.sbuchichibu;
+jpnrsbu;JPN;SeibuChichibuLn;;;Seibu Chichibu Line;jpn.sbuchichibu;
 jpnrsbu;JPN;HaijimaLn;;;Seibu Haijima Line;jpn.sbuhaijima;
 jpnrsbu;JPN;IkebukuroLn;;;Seibu Ikebukuro Line;jpn.sbuikebukuro;
 jpnrsbu;JPN;KokubunjiLn;;;Seibu Kokubunji Line;jpn.sbukokubunji;
