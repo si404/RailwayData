@@ -1,2 +1,5 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
 jpnvsgc;JPN;AichiLoopLn;;;Aichi Loop RW Line;jpn.alraichiloop;
+jpnvsgc;JPN;AkechiLn;;;Akechi RW Akechi Line;jpn.akrakechi;
+jpnvsgc;JPN;AtsumiLn;;;Toyohachi RR Atsumi Line;jpn.tyhatsumi;
+jpnvsgc;JPN;IseLn;;;Ise RW Ise Line;jpn.isrise;
