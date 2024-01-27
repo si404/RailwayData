@@ -1,7 +1,10 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
+jpnjrw;JPN;HimiLn;;;Himi Line;jpn.himi;
+jpnjrw;JPN;JohanaLn;;;Johana Line;jpn.johana;
 jpnjrw;JPN;KansaiLnWest;;;Kansai Line West;jpn.kansaiwest;
 jpnjrw;JPN;JRKobeLn;;;JR Kobe Line;jpn.jrkobe;
 jpnjrw;JPN;JRNaraLn;;;JR Nara Line;jpn.nara;
+jpnjrw;JPN;JRNanaoLn;;;JR Nanao Line;jpn.jrnanao;
 jpnjrw;JPN;SaganoLn;;;Sagano Line;jpn.sagano;
 jpnjrw;JPN;SaninLn;;;Sanin Line;jpn.sanin;
 jpnjrw;JPN;SanyoLn;;;Sanyo Line;jpn.jrsanyo;
