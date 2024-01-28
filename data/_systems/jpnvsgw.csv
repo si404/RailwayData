@@ -1,3 +1,6 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-jpnvsgw;JPN;HojoLn;;;Hojo RW Hojo Line;jpn.hjrhojo;
+jpnvsgw;JPN;AinokazeLn;;;Ainokaze Toyama RW Line;jpn.aktainokaze;
+jpnvsgw;JPN;HojoLn;;;Hojo RW Line;jpn.hjrhojo;
+jpnvsgw;JPN;IRIshikawaLn;;;IR Ishikawa RW Line;jpn.irrishikawa;
 jpnvsgw;JPN;KishigawaLn;;;Wakayama RW Kishigawa Line;jpn.werkishigawa;
+jpnvsgw;JPN;NotoNanaoLn;;;Noto RW Nanao Line;jpn.notnanao;

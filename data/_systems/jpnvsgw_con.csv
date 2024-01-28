@@ -1,3 +1,6 @@
 systemName;route;banner;groupName;roots
-jpnvsgw;HojoLn;;Hojo RW Hojo Line;jpn.hjrhojo
+jpnvsgw;AinokazeLn;;Ainokaze Toyama RW Line;jpn.aktainokaze
+jpnvsgw;HojoLn;;Hojo RW Line;jpn.hjrhojo
+jpnvsgw;IRIshikawaLn;;IR Ishikawa RW Line;jpn.irrishikawa
 jpnvsgw;KishigawaLn;;Wakayama RW Kishigawa Line;jpn.werkishigawa
+jpnvsgw;NotoNanaoLn;;Noto RW Nanao Line;jpn.notnanao

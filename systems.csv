@@ -345,11 +345,13 @@ jpnvsgc;JPN;Central Honshu Single Line Private Railways;TMbrown;2;preview
 jpnvsge;JPN;East Honshu Single Line Private Railways;TMbrown;2;preview
 jpnvsgw;JPN;West Honshu Single Line Private Railways;TMbrown;2;preview
 jpnvezn;JPN;Echizen Railway;TMbrown;2;preview
+jpnvhkr;JPN;Hokuriku Railroad;TMbrown;2;preview
 jpnviyo;JPN;Iyo Railway;TMbrown;2;preview
 jpnvizh;JPN;Izuhakone Railway;TMbrown;2;preview
 jpnvknn;JPN;Konan Railway;TMbrown;2;preview
 jpnvkyu;JPN;Kyushu Private Railways;TMbrown;2;preview
 jpnvsng;JPN;Sangi Railway;TMbrown;2;preview
+jpnvtch;JPN;Toyama Chiho Railway;TMbrown;2;preview
 jpnvtke;JPN;Takamatsu Kotohira Railway;TMbrown;2;preview
 jpnvtsg;JPN;Tsugaru Railway;TMbrown;2;preview
 jpnvwkr;JPN;Kishu Railway;TMbrown;2;preview
@@ -376,8 +378,10 @@ jpntmna;JPN;Nagasaki Trams;TMred;4;preview
 jpntmok;JPN;Okayama Trams;TMred;4;preview
 jpntmos;JPN;Osaka (Hankai) Trams;TMred;4;preview
 jpntmsp;JPN;Sapporo Tram;TMred;4;preview
+jpntmta;JPN;Takaoka Manyosen Tram;TMred;4;preview
 jpntmth;JPN;Toyohashi Trams;TMred;4;preview
 jpntmto;JPN;Tokyo Trams;TMred;4;preview
+jpntmty;JPN;Toyama Trams;TMred;4;preview
 jpntmut;JPN;Utsunomiya Light Rail;TMred;4;preview
 jpndmv;JPN;Dual Mode Vehicle Lines;TMyellow;5;preview
 jpnfuni;JPN;Japan Funiculars;TMyellow;5;preview

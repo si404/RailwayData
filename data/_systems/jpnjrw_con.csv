@@ -1,6 +1,9 @@
 systemName;route;banner;groupName;roots
+jpnjrw;HimiLn;;Himi Line;jpn.himi
+jpnjrw;JohanaLn;;Johana Line;jpn.johana
 jpnjrw;KansaiLnWest;;Kansai Line West;jpn.kansaiwest
 jpnjrw;JRKobeLn;;JR Kobe Line;jpn.jrkobe
+jpnjrw;JRNanaoLn;;JR Nanao Line;jpn.jrnanao
 jpnjrw;JRNaraLn;;JR Nara Line;jpn.nara
 jpnjrw;SaganoLn;;Sagano Line;jpn.sagano
 jpnjrw;SaninLn;;Sanin Line;jpn.sanin
