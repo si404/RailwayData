@@ -1,4 +1,5 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
+jpntour;JPN;IkawaLn;;;Oigawa RW Ikawa Line;jpn.trikawa;
 jpntour;JPN;KurobeGorgeLn;;;Kurobe Gorge Main Line;jpn.trkurobegorge;
 jpntour;JPN;MojikoLn;;;Mojiko Retro Scenic Line;jpn.trmojiko;
 jpntour;JPN;SaganoScenicLn;;;Sagano Scenic Line;jpn.trsaganoscenic;
