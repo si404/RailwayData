@@ -1,4 +1,4 @@
 systemName;route;banner;groupName;roots
 jpnvohm;OhmiMainLn;;Ohmi Main Line;jpn.ohmmain
-jpnvohm;TagaLn;;Taga Line;jpn.taga
-jpnvohm;YokaichiLn;;Yokaichi Line;jpn.yokaichi
+jpnvohm;TagaLn;;Taga Line;jpn.ohmtaga
+jpnvohm;YokaichiLn;;Yokaichi Line;jpn.ohmyokaichi
