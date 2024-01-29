@@ -1,5 +1,13 @@
 systemName;route;banner;groupName;roots
-jpnvsgc;AichiLoopLn;;Aichi Loop RW Line;jpn.alraichiloop
-jpnvsgc;AkechiLn;;Akechi RW Akechi Line;jpn.akrakechi
-jpnvsgc;AtsumiLn;;Toyohachi RR Atsumi Line;jpn.tyhatsumi
-jpnvsgc;IseLn;;Ise RW Ise Line;jpn.isrise
+jpnvsgc;AichiLoopLn;;Aichi Loop RW Line;jpn.sgcaichiloop
+jpnvsgc;AkechiLn;;Akechi RW Line;jpn.sgcakechi
+jpnvsgc;AtsumiLn;;Toyohachi RR Atsumi Line;jpn.sgcatsumi
+jpnvsgc;EnshuLn;;Enshu RW Line;jpn.sgcenshu
+jpnvsgc;EtsumiNanLn;;Nagaragawa RW Etsumi-Nan Line;jpn.sgcetsuminan
+jpnvsgc;GakunanLn;;Gakunan RW Line;jpn.sgcgakunan
+jpnvsgc;IseLn;;Ise RW Line;jpn.sgcise
+jpnvsgc;OigawaMainLn;;Oigawa RW Main Line;jpn.sgcoigawamain
+jpnvsgc;ShizuShimiLn;;Shizuoka RW Shizuoka-Shimizu Line;jpn.sgcshizushimi
+jpnvsgc;TarumiLn;;Tarumi RW Line;jpn.sgctarumi
+jpnvsgc;TenHamaLn;;Tenryu Hamanako RW Line;jpn.sgctenhama
+jpnvsgc;YoroLn;;Yoro RW Line;jpn.sgcyoro

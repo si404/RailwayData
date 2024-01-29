@@ -1,13 +1,19 @@
 systemName;route;banner;groupName;roots
+jpnjrw;BiwakoLn;;Biwako Line;jpn.biwako
 jpnjrw;HimiLn;;Himi Line;jpn.himi
+jpnjrw;HokurikuLn;;Hokuriku Line;jpn.hokurikumain
 jpnjrw;JohanaLn;;Johana Line;jpn.johana
-jpnjrw;KansaiLnWest;;Kansai Line West;jpn.kansaiwest
 jpnjrw;JRKobeLn;;JR Kobe Line;jpn.jrkobe
+jpnjrw;JRKyotoLn;;JR Kyoto Line;jpn.jrkyoto
 jpnjrw;JRNanaoLn;;JR Nanao Line;jpn.jrnanao
 jpnjrw;JRNaraLn;;JR Nara Line;jpn.nara
+jpnjrw;KansaiLnW;;Kansai Line West;jpn.kansaiwest
+jpnjrw;KoseiLn;;Kosei Line;jpn.kosei
+jpnjrw;KusatsuLn;;Kusatsu Line;jpn.kusatsu
+jpnjrw;OitoLnN;;Oito Line North;jpn.oitonorth
 jpnjrw;SaganoLn;;Sagano Line;jpn.sagano
 jpnjrw;SaninLn;;Sanin Line;jpn.sanin
 jpnjrw;SanyoLn;;Sanyo Line;jpn.jrsanyo
 jpnjrw;SenzakiLn;;Sanin Senzaki Branch Line;jpn.senzaki
-jpnjrw;TakayamaLnNorth;;Takayama Line North;jpn.takayamanorth
+jpnjrw;TakayamaLnN;;Takayama Line North;jpn.takayamanorth
 jpnjrw;YamatojiLn;;Yamatoji Line;jpn.yamatoji
