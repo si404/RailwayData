@@ -74,6 +74,7 @@ G03 http://www.openstreetmap.org/?lat=34.376660&lon=132.506114
 G02 http://www.openstreetmap.org/?lat=34.389709&lon=132.497998
 G01/R01 http://www.openstreetmap.org/?lat=34.398020&lon=132.476095
 R02 http://www.openstreetmap.org/?lat=34.408357&lon=132.461686
++DIV_Yokogawa http://www.openstreetmap.org/?lat=34.410293&lon=132.454904
 R03 http://www.openstreetmap.org/?lat=34.410202&lon=132.449896
 R04 http://www.openstreetmap.org/?lat=34.398002&lon=132.427880
 R05 http://www.openstreetmap.org/?lat=34.375300&lon=132.391579
