@@ -1,7 +1,15 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
+jpnjrw;JPN;AkoLn;;;Ako Line;jpn.ako;
+jpnjrw;JPN;BantanLn;;;Bantan Line;jpn.bantan;
 jpnjrw;JPN;BiwakoLn;;;Biwako Line;jpn.biwako;
+jpnjrw;JPN;FukuchiyamaLn;;;Fukuchiyama Line;jpn.fukuchiyama;
+jpnjrw;JPN;FukuenLn;;;Fukuen Line;jpn.fukuen;
+jpnjrw;JPN;GantokuLn;;;Gantoku Line;jpn.gantoku;
+jpnjrw;JPN;GeibiLn;;;Geibi Line;jpn.geibi;
+jpnjrw;JPN;HakubiLn;;;Hakubi Line;jpn.hakubi;
 jpnjrw;JPN;HimiLn;;;Himi Line;jpn.himi;
 jpnjrw;JPN;HokurikuLn;;;Hokuriku Line;jpn.hokurikumain;
+jpnjrw;JPN;HonshiBisanLnN;;;Honshi-Bisan Line North;jpn.honshinorth;
 jpnjrw;JPN;JohanaLn;;;Johana Line;jpn.johana;
 jpnjrw;JPN;JRKobeLn;;;JR Kobe Line;jpn.jrkobe;
 jpnjrw;JPN;JRKyotoLn;;;JR Kyoto Line;jpn.jrkyoto;
