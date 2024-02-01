@@ -1,1 +1,0 @@
-Kyoto Tango RW
