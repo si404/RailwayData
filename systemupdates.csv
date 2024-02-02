@@ -1,4 +1,9 @@
 ﻿date;region;systemName;description;statusChange
+2024-01-24;Japan;jpnvsgk;Kyushu Single Line Private Railways;preview
+2024-02-01;Japan;jpnvhch;Heisei Chikuho Railway;preview
+2024-02-01;Japan;jpnvicb;Ichibata Railway;preview
+2024-02-01;Japan;jpnvkmm;Kumamoto Railway;preview
+2024-02-01;Japan;jpnvktr;Kyoto Tango Railway;preview
 2024-01-31;Japan;jpnvsny;Sanyo Railway;preview
 2024-01-28;Japan;jpnvsnn;Shinano Railway;preview
 2024-01-28;Japan;jpnvohm;Ohmi Railway;preview
@@ -32,7 +37,6 @@
 2024-01-06;Japan;jpnrkeo;Keio Railway;preview
 2024-01-05;Japan;jpnrksi;Keisei Railway;preview
 2024-01-05;Japan;jpnvtsg;Tsugaru Railway;preview
-2024-01-05;Japan;jpnvkyu;Kyushu Private Railways;preview
 2024-01-05;Japan;jpntour;Japan Tourist/Heritage Railroads;preview
 2023-12-29;Japan;jpnvwkr;Kishu Railway;preview
 2023-12-29;Japan;jpnvsng;Sangi Railway;preview
@@ -51,7 +55,6 @@
 2023-12-26;Japan;jpntmkm;Kumamoto Trams;preview
 2023-12-24;Japan;jpnjre;JR East;preview
 2023-12-24;Japan;jpntmfi;Fukui Trams;preview
-2023-12-24;Japan;jpnxjrk;Former JR Kyushu Lines;preview
 2023-12-22;Japan;jpnfuni;Japan Funiculars;preview
 2023-12-22;Japan;jpnrnnr;Nishi-Nippon Railroad;preview
 2023-12-20;Japan;jpnvknn;Konan Railway;preview

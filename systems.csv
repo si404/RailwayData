@@ -322,7 +322,6 @@ jpnjrk;JPN;JR Kyushu;TMpurple;1;preview
 jpnjrs;JPN;JR Shikoku;TMpurple;1;preview
 jpnjrw;JPN;JR West;TMpurple;1;preview
 jpnxjrh;JPN;Former JR Hokkaido Lines;TMbrown;2;preview
-jpnxjrk;JPN;Former JR Kyushu Lines;TMbrown;2;preview
 jpnxjrs;JPN;Former JR Shikoku Lines;TMbrown;2;preview
 jpnxjrw;JPN;Former JR West Lines;TMbrown;2;preview
 jpnrhku;JPN;Hankyu Railway;TMbrown;2;preview
@@ -342,13 +341,17 @@ jpnrtbu;JPN;Tobu Railway;TMbrown;2;preview
 jpnrtku;JPN;Tokyu Railway;TMbrown;2;preview
 jpnvsgc;JPN;Central Honshu Single Line Private Railways;TMbrown;2;preview
 jpnvsge;JPN;East Honshu Single Line Private Railways;TMbrown;2;preview
+jpnvsgk;JPN;Kyushu Single Line Private Railways;TMbrown;2;preview
 jpnvsgw;JPN;West Honshu Single Line Private Railways;TMbrown;2;preview
 jpnvezn;JPN;Echizen Railway;TMbrown;2;preview
+jpnvhch;JPN;Heisei Chikuho Railway;TMbrown;2;preview
 jpnvhkr;JPN;Hokuriku Railroad;TMbrown;2;preview
+jpnvicb;JPN;Ichibata Railway;TMbrown;2;preview
 jpnviyo;JPN;Iyo Railway;TMbrown;2;preview
 jpnvizh;JPN;Izuhakone Railway;TMbrown;2;preview
+jpnvkmm;JPN;Kumamoto Railway;TMbrown;2;preview
 jpnvknn;JPN;Konan Railway;TMbrown;2;preview
-jpnvkyu;JPN;Kyushu Private Railways;TMbrown;2;preview
+jpnvktr;JPN;Kyoto Tango Railway;TMbrown;2;preview
 jpnvohm;JPN;Ohmi Railway;TMbrown;2;preview
 jpnvsng;JPN;Sangi Railway;TMbrown;2;preview
 jpnvsnn;JPN;Shinano Railway;TMbrown;2;preview
