@@ -1,0 +1,4 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+jpnvohm;JPN;OhmiMainLn;;;Ohmi Main Line;jpn.ohmmain;
+jpnvohm;JPN;TagaLn;;;Taga Line;jpn.ohmtaga;
+jpnvohm;JPN;YokaichiLn;;;Yokaichi Line;jpn.ohmyokaichi;
