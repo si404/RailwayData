@@ -322,6 +322,7 @@ jpnjrk;JPN;JR Kyushu;TMpurple;1;preview
 jpnjrs;JPN;JR Shikoku;TMpurple;1;preview
 jpnjrw;JPN;JR West;TMpurple;1;preview
 jpnlexk;JPN;Kyushu Limited Express;TMblack;1;preview
+jpntlxk;JPN;Kyushu Tourist Services;TMblack;1;preview
 jpnxjrh;JPN;Former JR Hokkaido Lines;TMbrown;2;preview
 jpnxjrs;JPN;Former JR Shikoku Lines;TMbrown;2;preview
 jpnxjrw;JPN;Former JR West Lines;TMbrown;2;preview
@@ -361,8 +362,6 @@ jpnvtch;JPN;Toyama Chiho Railway;TMbrown;2;preview
 jpnvtke;JPN;Takamatsu Kotohira Railway;TMbrown;2;preview
 jpnvtsg;JPN;Tsugaru Railway;TMbrown;2;preview
 jpnvwkr;JPN;Kishu Railway;TMbrown;2;preview
-jpnlexk;JPN;Kyushu Limited Express;TMbrown;2;preview
-jpntlxk;JPN;Kyushu Tourist Services;TMbrown;2;preview
 jpnmtfk;JPN;Fukuoka Subway;TMblue;3;preview
 jpnmtkb;JPN;Kobe Subway;TMblue;3;preview
 jpnmtky;JPN;Kyoto Subway;TMblue;3;preview
