@@ -1,7 +1,15 @@
 systemName;route;banner;groupName;roots
-jpnlexk;HyugaLex;;Hyuga Ltd Express;jpn.lexhyuga
-jpnlexk;KiramekiLex;;Kirameki Ltd Express;jpn.lexkirameki
-jpnlexk;KirishimaLex;;Kirishima Ltd Express;jpn.lexkirishima
-jpnlexk;NichirinLex;;Nichirin Ltd Express;jpn.lexnichirin
-jpnlexk;NichiSeaLex;;Nichirin Seagaia Ltd Express;jpn.lexnichiseagaia
-jpnlexk;SonicLex;;Sonic Ltd Express;jpn.lexsonic
+jpnlexk;AsoLtd;;Aso Ltd Exp;jpn.lexaso
+jpnlexk;HuisTenBoschLtd;;Huis Ten Bosch Ltd Exp;jpn.lexhuistenbosch
+jpnlexk;HyugaLtd;;Hyuga Ltd Exp;jpn.lexhyuga
+jpnlexk;KaiouLtd;;Kaiou Ltd Exp;jpn.lexkaiou
+jpnlexk;KasasagiLtd;;Kasasagi Ltd Exp;jpn.lexkasasagi
+jpnlexk;KiramekiLtd;;Kirameki Ltd Exp;jpn.lexkirameki
+jpnlexk;KirishimaLtd;;Kirishima Ltd Exp;jpn.lexkirishima
+jpnlexk;MidoriLtd;;Midori Ltd Exp;jpn.lexmidori
+jpnlexk;NichirinLtd;;Nichirin Ltd Exp;jpn.lexnichirin
+jpnlexk;NichiSeaGAIALtd;;Nichirin SeaGAIA Ltd Exp;jpn.lexnichiseagaia
+jpnlexk;RelayKamomeLtd;;Relay Kamome Ltd Exp;jpn.lexrelaykamome
+jpnlexk;SonicLtd;;Sonic Ltd Exp;jpn.lexsonic
+jpnlexk;TransKyushuLtd;;Trans Kyushu Ltd Exp;jpn.lextranskyushu
+jpnlexk;YufuLtd;;Yufu Ltd Exp;jpn.lexyufu
