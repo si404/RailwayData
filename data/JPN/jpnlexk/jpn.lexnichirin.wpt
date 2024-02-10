@@ -39,7 +39,7 @@ Kitsuki http://www.openstreetmap.org/?lat=33.411105&lon=131.575506
 +SKIP_Hiji http://www.openstreetmap.org/?lat=33.369146&lon=131.542587
 +SKIP_Yoyoku http://www.openstreetmap.org/?lat=33.370163&lon=131.530437
 +SKIP_BungoToyo http://www.openstreetmap.org/?lat=33.361964&lon=131.501536
-Kamegawa http://www.openstreetmap.org/?lat=33.331277&lon=131.492883
++SKIP_Kamegawa http://www.openstreetmap.org/?lat=33.331277&lon=131.492883
 +SKIP_BeppuDai http://www.openstreetmap.org/?lat=33.312905&lon=131.499377
 Beppu http://www.openstreetmap.org/?lat=33.279611&lon=131.500305
 +SKIP_HigaBeppu http://www.openstreetmap.org/?lat=33.267611&lon=131.510905

@@ -20,7 +20,7 @@ Takanabe http://www.openstreetmap.org/?lat=32.122286&lon=131.533738
 Sadowara http://www.openstreetmap.org/?lat=32.022331&lon=131.477318
 +SKIP_HyugaSumi http://www.openstreetmap.org/?lat=31.990764&lon=131.457623
 +SKIP_Hasugaike http://www.openstreetmap.org/?lat=31.960139&lon=131.442879
-MiyaJingu http://www.openstreetmap.org/?lat=31.938422&lon=131.430538
++SKIP_MiyaJingu http://www.openstreetmap.org/?lat=31.938422&lon=131.430538
 Miyazaki http://www.openstreetmap.org/?lat=31.915749&lon=131.432000
 MinaMiya http://www.openstreetmap.org/?lat=31.895074&lon=131.422743
 +SKIP_Tayoshi http://www.openstreetmap.org/?lat=31.879198&lon=131.430380
