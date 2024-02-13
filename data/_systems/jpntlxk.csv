@@ -1,7 +1,16 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
+jpntlxk;JPN;36+3Thu;;;36+3 Thursday Rt;jpn.tlx36p3thu;
+jpntlxk;JPN;36+3Fri;;;36+3 Friday Rt;jpn.tlx36p3fri;
+jpntlxk;JPN;36+3Sat;;;36+3 Saturday Rt;jpn.tlx36p3sat;
+jpntlxk;JPN;36+3Sun;;;36+3 Sunday Rt;jpn.tlx36p3sun;
+jpntlxk;JPN;36+3MonOut;;;36+3 Monday Out;jpn.tlx36p3monout;
+jpntlxk;JPN;36+3MonBack;;;36+3 Monday Back;jpn.tlx36p3monback;
+jpntlxk;JPN;AruRessha;;;Aru Ressha;jpn.tlxaruressha;
 jpntlxk;JPN;AsoBoy;;;Aso BOY!;jpn.tlxasoboy;
 jpntlxk;JPN;ATrain;;;A-Train;jpn.tlxatrain;
 jpntlxk;JPN;IbuTamate;;;Ibusuki no Tamatebako;jpn.tlxibutama;
 jpntlxk;JPN;KawaYama;;;Kawasemi Yamasemi;jpn.tlxkawasemi;
+jpntlxk;JPN;SLHitoyoshi;;;SL Hitoyoshi;jpn.tlxslhitoyoshi;
+jpntlxk;JPN;TwoStars4047;;;Two Stars 4047;jpn.tlx2stars4047;
 jpntlxk;JPN;UmiYama;;;Umisachi Yamasachi;jpn.tlxumisachi;
 jpntlxk;JPN;YufuinMori;;;Yufuin-no-mori;jpn.tlxyufuinnomori;
