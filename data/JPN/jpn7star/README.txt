@@ -1,1 +1,0 @@
-Seven Stars in Kyushu
