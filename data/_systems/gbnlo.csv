@@ -1,13 +1,13 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-gbnlo;ENG;ELL;;Cry;East London Line (Crystal Palace);eng.ellcry;
-gbnlo;ENG;ELL;;Cla;East London Line (Clapham Junction);eng.ellcla;
-gbnlo;ENG;ELL;;New;East London Line (New Cross);eng.ellnew;
-gbnlo;ENG;ELL;;;East London Line (West Croydon);eng.ell;
-gbnlo;ENG;Goblin;;;Gospel Oak - Barking Line;eng.goblin;
-gbnlo;ENG;LVL;;;Lea Valley Line (Cheshunt);eng.lvl;
-gbnlo;ENG;LVL;;Chi;Lea Valley Line (Chingford);eng.lvlchi;
-gbnlo;ENG;LVL;;Enf;Lea Valley Line (Enfield);eng.lvlenf;
-gbnlo;ENG;NLL;;;North London Line (Clapham Junction);eng.nll;
-gbnlo;ENG;NLL;;Ric;North London Line (Richmond);eng.nllric;
-gbnlo;ENG;RomUpmShu;;;Romford - Upminster Shuttle;eng.romupmshu;
-gbnlo;ENG;WatDC;;;Watford DC Line;eng.watdc;
+gbnlo;ENG;LibLn;;;Liberty Line;eng.libln;RomUpmShu
+gbnlo;ENG;LioLn;;;Lioness Line;eng.lioln;WatDC
+gbnlo;ENG;MilLn;;;Mildmay Line (Clapham Junction);eng.milln;NLL
+gbnlo;ENG;MilLn;;Ric;Mildmay Line (Richmond);eng.millnric;NLLRic
+gbnlo;ENG;SufLn;;;Suffragette Line;eng.sufln;Goblin
+gbnlo;ENG;WinLn;;Cry;East London Line (Crystal Palace);eng.winlncry;ELLCry
+gbnlo;ENG;WinLn;;Cla;East London Line (Clapham Junction);eng.winlncla;ELLCla
+gbnlo;ENG;WinLn;;New;East London Line (New Cross);eng.winlnnew;ELLNew
+gbnlo;ENG;WinLn;;Cro;East London Line (West Croydon);eng.winln;ELL
+gbnlo;ENG;WeaLn;;;Lea Valley Line (Cheshunt);eng.wealn;LVL
+gbnlo;ENG;WeaLn;;Chi;Lea Valley Line (Chingford);eng.wealnchi;LVLChi
+gbnlo;ENG;WeaLn;;Enf;Lea Valley Line (Enfield);eng.wealnenf;LVLEnf
