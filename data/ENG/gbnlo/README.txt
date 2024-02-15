@@ -1,20 +1,30 @@
-lines will be given their new names when that happens.
+New Names 2024-15-02
 
-ELLCla | East London Line (Clapham Junction)
-ELLCro | East London Line (Croydon)
-ELLCry | East London Line (Crystal Palace)
-ELLNew | East London Line (New Cross)
-
-GOBLin | Gospel Oak - Barking
-
-LVLChe | Lea Valley Line (Cheshunt)
-LVLChi | Lea Valley Line (Chingford)
-LVLEnf | Lea Valley Line (Enfield)
+East London Line -> Windrush Line
+Gospel Oak - Barking -> Suffragette Line
+North London Line -> Mildmay Line
+Lea Valley Line -> Weaver Line
+Romford - Upminster Shuttle -> Liberty Line
+Watford DC -> Lioness Line
 
 
-NLLCla | North London Line (Clapham Junction)
-NLLRic | North London Line (Richmond)
+LibLn | Liberty Line | 2tph Romford - Upminster
 
-RomUpmShu | Romford - Upminster Shuttle
+LioLn | Lioness Line | 4tph Euston - Watford Junction
 
-WatDC | Watford DC
+MilLnCla | Mildmay Line (Clapham Junction) | 4tph Clapham Junction - Stratford
+MilLnRic | Mildmay Line (Richmond) | 4tph Richmond - Stratford
+
+SufLn | Suffragette Line | 4tph Gospel Oak - Barking Riverside
+
+WeaLnChe | Weaver Line (Cheshunt) | 2tph Liverpool Street - Cheshunt
+WeaLnChi | Weaver Line (Chingford) | 4tph Liverpool Street - Chingford (skip Cambridge Heath and London Fields)
+WeaLnEnf | Weaver Line (Enfield) | 2tph Liverpool Street - Enfield Town
+
+WinLnCla | Windrush Line (Clapham Junction) | 4tph Dalston Junction - Clapham Junction
+WinLnCry | Windrush Line (Crystal Palace) | 4tph Highbury & Islington - Crystal Palace
+WinLnNew | Windrush Line (New Cross) | 4tph Dalston Junction - New Cross
+WinLnCro | Windrush Line (West Croydon) | 4tph Highbury & Islington - West Croydon
+
+
+
