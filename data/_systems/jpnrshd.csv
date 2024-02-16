@@ -1,6 +1,6 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
 jpnrshd;JPN;AoLn;;;Ao Line;jpn.shdao;
 jpnrshd;JPN;ArimaLn;;;Arima Line;jpn.shdarima;
-jpnrshd;JPN;KobeKosokuLn;;;Kobe Kosoku Line;jpn.shdkobekosoku;
 jpnrshd;JPN;KoenToshiLn;;;Koen Toshi Line;jpn.shdkoentoshi;
 jpnrshd;JPN;SandaLn;;;Sanda Line;jpn.shdsanda;
+jpnrshd;JPN;ShinKobeKosokuLn;;;Shinden Kobe Kosoku Line;jpn.shdkobekosoku;
