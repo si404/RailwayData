@@ -1,0 +1,53 @@
+systemName;route;banner;groupName;roots
+usaamtk;AE;;Acela;dc.ae,md.ae,de.ae,pa.ae,nj.ae,ny.ae,ct.ae,ri.ae,ma.ae
+usaamtk;AD;;Adirondack;ny.ad,qc.ad
+usaamtk;AC;;Amtrak Cascades;or.ac,wa.ac,bc.ac
+usaamtk;HL;;Amtrak Hartford Line;ct.hl,ma.hl
+usaamtk;AZ;Auto Train;fl.az,ga.az,sc.az,nc.az,va.az
+usaamtk;BF;;Berkshire Flyer;ny.bf,ma.bf
+usaamtk;BW;;Blue Water;il.bw,in.bw,mi.bw
+usaamtk;CZ;;California Zephyr;ca.cz,nv.cz,ut.cz,co.cz,ne.cz,ia.cz,il.cz
+usaamtk;CC;;Capitol Corridor;ca.cc
+usaamtk;CL;;Capitol Limited;il.cl,in.cl,oh.cl,pa.cl,md.clcum,wv.clpaw,md.clpaw,wv.cl,md.cl,dc.cl
+usaamtk;CA;;Cardinal;il.ca,in.ca,oh.ca,ky.ca,wv.ca,va.ca,dc.ca,md.ca,de.ca,pa.ca,nj.ca,ny.ca
+usaamtk;SB;;Carl Sandburg;il.sb
+usaamtk;CN;;Carolinian;nc.cn,va.cn,dc.cn,md.cn,de.cn,pa.cn,nj.cn,ny.cn
+usaamtk;NO;;City of New Orleans;la.no,ms.no,tn.no,ky.no,il.no
+usaamtk;CS;;Coast Starlight;ca.cs,or.cs,wa.cs
+usaamtk;CR;;Crescent;la.cr,ms.cr,al.cr,ga.cr,sc.cr,nc.cr,va.cr,dc.cr,md.cr,de.cr,pa.cr,nj.cr,ny.cr
+usaamtk;DE;;Downeaster;ma.de,nh.de,me.de
+usaamtk;EB;;Empire Builder (Portland);or.ebpor,wa.ebpor,id.ebpor,mt.ebpor,nd.ebpor;,mn.ebpor,wi.ebpor,il.ebpor
+usaamtk;EB;;Empire Builder (Seattle);wa.ebsea,id.ebsea,mt.ebsea,nd.ebsea,mn.ebsea,wi.ebsea,il.ebsea
+usaamtk;ES;;Empire Service;ny.es
+usaamtk;EA;;Ethan Allen Express;ny.ea,vt.ea
+usaamtk;HF;;Heartland Flyer;tx.hf,ok.hf
+usaamtk;HI;;Hiawatha;il.hi,wi.hi
+usaamtk;IL;;Illini Service;il.il
+usaamtk;IZ;;Illinois Zephyr;il.iz
+usaamtk;KS;;Keystone Service;pa.ks,nj.ks,ny.ks
+usaamtk;LS;;Lake Shore Limited (Boston);il.lsbos,in.lsbos,oh.lsbos,pa.lsbos,ny.lsbos,ma.lsbos
+usaamtk;LS;;Lake Shore Limited (New York);il.lsnew,in.lsnew,oh.lsnew,pa.lsnew,ny.lsnew
+usaamtk;LI;;Lincoln Service;mo.li,il.li
+usaamtk;ML;;Maple Leaf;ny.ml,on.ml
+usaamtk;MR;;Missouri River Runner;mo.mr
+usaamtk;NE;;Northeast Regional (Newport News);va.nenew,dc.nenew,md.nenew,de.nenew,pa.nenew,nj.nenew,ny.nenew,ct.nenew,ri.nenew,ma.nenew
+usaamtk;NE;;Northeast Regional (Norfolk);va.nenor,dc.nenor,md.nenor,de.nenor,pa.nenor,nj.nenor,ny.nenor,ct.nenor,ri.nenor,ma.nenor
+usaamtk;NE;;Northeast Regional (Roanoke);va.neroa,dc.neroa,md.neroa,de.neroa,pa.neroa,nj.neroa,ny.neroa,ct.neroa,ri.neroa,ma.neroa
+usaamtk;NE;;Northeast Regional (Springfield);dc.nespr,md.nespr,de.nespr,pa.nespr,nj.nespr,ny.nespr,ct.nespr,ma.nespr
+usaamtk;PS;;Pacific Surfliner;ca.ps
+usaamtk;PL;;Palmetto;ga.pl,sc.pl,nc.pl,va.pl,dc.pl,md.pl,de.pl,pa.pl,nj.pl,ny.pl
+usaamtk;PA;;Pennsylvanian;pa.pa,nj.pa,ny.pa
+usaamtk;PM;;Pere Marquette;il.pm,in.pm,mi.pm
+usaamtk;PI;;Piedmont;nc.pi
+usaamtk;SK;;Saluki;il.sk
+usaamtk;SJ;;San Joaquins (Sacramento);ca.sjsac
+usaamtk;SJ;;San Joaquins (Oakland);ca.sjoak
+usaamtk;SM;;Silver Meteor;fl.sm,ga.sm,sc.sm,nc.sm,va.sm,dc.sm,md.sm,de.sm,pa.sm,nj.sm,ny.sm
+usaamtk;SS;;Silver Star;fl.ss,ga.ss,sc.ss,nc.ss,va.ss,dc.ss,md.ss,de.ss,pa.ss,nj.ss,ny.ss
+usaamtk;SW;;Southwest Chief;ca.sw,az.sw,nm.sw,co.sw,ks.sw,mo.sw,ia.sw,il.sw
+usaamtk;SL;;Sunset Limited;ca.sl,az.sl,nm.sl,tx.sl,la.sl
+usaamtk;TX;;Texas Eagle;ca.tx,az.tx,nm.tx,tx.tx,ar.tx,mo.tx,il.tx
+usaamtk;VF;;Valley Flyer;ct.vf,ma.vf
+usaamtk;VT;;Vermonter;dc.vt,md.vt,de.vt,pa.vt,nj.vt,ny.vt,ct.vt,ma.vt,vt.vtbat,nh.vt,vt.vt
+usaamtk;WP;;Winter Park Ski Train;co.wp
+usaamtk;WV;;Wolverine;il.wv,in.wv,mi.wv
