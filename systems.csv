@@ -326,7 +326,6 @@ jpntlxk;JPN;Kyushu Tourist Services;TMblack;1;preview
 jpn7star;JPN;Seven Stars in Kyushu;TMblack;1;preview
 jpnxjrh;JPN;Former JR Hokkaido Lines;TMbrown;2;preview
 jpnxjrs;JPN;Former JR Shikoku Lines;TMbrown;2;preview
-jpnxjrw;JPN;Former JR West Lines;TMbrown;2;preview
 jpnrhku;JPN;Hankyu Railway;TMbrown;2;preview
 jpnrhsn;JPN;Hanshin Railway;TMbrown;2;preview
 jpnrkeo;JPN;Keio Railway;TMbrown;2;preview
@@ -339,6 +338,7 @@ jpnrnki;JPN;Nankai Railway;TMbrown;2;preview
 jpnrnnr;JPN;Nishi-Nippon Railroad;TMbrown;2;preview
 jpnrodk;JPN;Odakyu Railway;TMbrown;2;preview
 jpnrsbu;JPN;Seibu Railway;TMbrown;2;preview
+jpnrshd;JPN;Shinden (Kobe Electric) Railway;TMbrown;2;preview
 jpnrsot;JPN;Sotetsu Railway;TMbrown;2;preview
 jpnrtbu;JPN;Tobu Railway;TMbrown;2;preview
 jpnrtku;JPN;Tokyu Railway;TMbrown;2;preview
@@ -346,7 +346,8 @@ jpnvsgc;JPN;Central Honshu Single Line Private Railways;TMbrown;2;preview
 jpnvsge;JPN;East Honshu Single Line Private Railways;TMbrown;2;preview
 jpnvsgk;JPN;Kyushu Single Line Private Railways;TMbrown;2;preview
 jpnvsgw;JPN;West Honshu Single Line Private Railways;TMbrown;2;preview
-jpnvezn;JPN;Echizen Railway;TMbrown;2;preview
+jpnvech;JPN;Echizen Railway;TMbrown;2;preview
+jpnveiz;JPN;Eizan Railway;TMbrown;2;preview
 jpnvhch;JPN;Heisei Chikuho Railway;TMbrown;2;preview
 jpnvhkr;JPN;Hokuriku Railroad;TMbrown;2;preview
 jpnvicb;JPN;Ichibata Railway;TMbrown;2;preview
@@ -381,6 +382,7 @@ jpntmhi;JPN;Hiroshima Trams;TMred;4;preview
 jpntmhk;JPN;Hakodate Trams;TMred;4;preview
 jpntmkg;JPN;Kagoshima Trams;TMred;4;preview
 jpntmkm;JPN;Kumamoto Trams;TMred;4;preview
+jpntmky;JPN;Kyoto Trams;TMred;4;preview
 jpntmmy;JPN;Matsuyama Trams;TMred;4;preview
 jpntmna;JPN;Nagasaki Trams;TMred;4;preview
 jpntmok;JPN;Okayama Trams;TMred;4;preview
@@ -515,7 +517,7 @@ usamuni;USA;San Francisco MUNI Light Rail;TMred;4;preview
 usasrt;USA;Sacramento RT Light Rail;TMred;4;preview
 usavta;USA;VTA Light Rail;TMred;4;preview
 usaair;USA;United States Landside Airport Rail Systems;TMyellow;5;preview
-usahart;USA;TECO Line Streetcar, Tampa;TMyellow;5;preview
+usahart;USA;TECO Line Streetcar Tampa;TMyellow;5;preview
 usahunhts;USA;Huntsville Hospital Tram System;TMyellow;5;preview
 usair;USA;United States Incline Railways;TMyellow;5;preview
 usajta;USA;Jacksonville Skyway;TMyellow;5;preview
