@@ -5,10 +5,13 @@ jpnvsge;ChokaiLn;;Yuri Kogen RW Chokai Sanroku Line;jpn.sgechokai
 jpnvsge;ChoshiLn;;Choshi RW Line;jpn.sgechoshi
 jpnvsge;FujikyukoLn;;Fujikyu RW Fujikyuko Line;jpn.sgefujikyuko
 jpnvsge;HakoneTozanLn;;Hakone Tozan RW Line;jpn.sgehakonetozan
+jpnvsge;HokuhokuLn;;Hokuetsu Express RW Hokuhoku Line;jpn.sgehokuhoku
 jpnvsge;IizakaLn;;Iizaka RW Line;jpn.sgeiizaka
 jpnvsge;IsumiLn;;Isumi RW Line;jpn.sgeisumi
 jpnvsge;IwateGalaxyLn;;Iwate Galaxy RW Line;jpn.sgeiwateginga
 jpnvsge;IzukyukoLn;;Izukyuko RW Line;jpn.sgeizukyuko
+jpnvsge;JomoLn;;Jomo RW Line;jpn.sgejomo
+jpnvsge;JoshinLn;;Joshin RW Line;jpn.sgejoshin
 jpnvsge;KamikochiLn;;Alpico Kotsu Kamikochi Line;jpn.sgekamikochi
 jpnvsge;KominatoLn;;Kominato RW Line;jpn.sgekominato
 jpnvsge;MyoHaneLn;;Echigo Tokimeki RW Myoko Haneuma Line;jpn.sgemyohane
@@ -20,3 +23,4 @@ jpnvsge;ShibayamaLn;;Shibayama RW Line;jpn.sgeshibayama
 jpnvsge;ToyoRapidLn;;Toyo Rapid RW Line;jpn.sgetoyorapid
 jpnvsge;TsugaruLnAom;;Tsugaru RW Line;jpn.sgetsugaru
 jpnvsge;TsukubaExpress;;Tsukuba Express;jpn.sgetsukubaex
+jpnvsge;WataraseLn;;Watarase Keikoku RW Line;jpn.sgewatarase
