@@ -1,0 +1,8 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+jpnrkeo;JPN;DobutsuenLn;;;Keio Dobutsuen Line;jpn.keodobutsuen;
+jpnrkeo;JPN;InokashiraLn;;;Keio Inokashira Line;jpn.keoinokashira;
+jpnrkeo;JPN;KeibajoLn;;;Keio Keibajo Line;jpn.keokeibajo;
+jpnrkeo;JPN;KeioMainLn;;;Keio Main Line;jpn.keokeio;
+jpnrkeo;JPN;KeioNewLn;;;Keio New Line;jpn.keonewline;
+jpnrkeo;JPN;SagamiharaLn;;;Keio Sagamihara Line;jpn.keosagamihara;
+jpnrkeo;JPN;TakaoLn;;;Keio Takao Line;jpn.keotakao;

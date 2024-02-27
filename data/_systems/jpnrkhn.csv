@@ -1,0 +1,8 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+jpnrkhn;JPN;IshiyamaLn;;;Keihan Ishiyama Sakamoto Line;jpn.khnishiyama;
+jpnrkhn;JPN;KatanoLn;;;Keihan Katano Line;jpn.khnkatano;
+jpnrkhn;JPN;KeihanLn;;;Keihan Main Line;jpn.khnkeihan;
+jpnrkhn;JPN;KeishinLn;;;Keihan Keishin Line;jpn.khnkeishin;
+jpnrkhn;JPN;NakanoshimaLn;;;Keihan Nakanoshima Line;jpn.khnnakanoshima;
+jpnrkhn;JPN;OtoLn;;;Keihan Oto Line;jpn.khnoto;
+jpnrkhn;JPN;UjiLn;;;Keihan Uji Line;jpn.khnuji;

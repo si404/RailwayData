@@ -13,8 +13,7 @@ Pon	2tph	Pontoise - all - Pont de Rungis - all - Massy-Palaiseau
 Pon	2tph	Monigny-Beauchamp - all - Pont de Rungis
 -	2tph	Saint-Quentin-en-Yvelines - all - Bibliotheque Francois-Mitterand - Juvisy - all - Saint-Martin-d'Etampes
 Dou	2tph	Invalides - all - Biblioteque Francois-Mitterand - Juvisy - all - Dourdan
-Ver	2tph	Versailles-Chateau-Rive-Gauche - all - Bibliotheque Francois-Mitterand - Choisy-le-Roi - all - Versailles Chantiers
-Ver	2tph	Versailles-Chateau-Rive-Gauche - all - Bibliotheque Francois-Mitterand - Choisy-le-Roi - all - Juvisy
+Ver	4tph	Versailles-Chateau-Rive-Gauche - all - Bibliotheque Francois-Mitterand - Ardoines - all - Juvisy
 
 RER D
 -	2tph	Creil - all - Corbeil-Essonnes (some terminate in the north at Orry-la-Ville)

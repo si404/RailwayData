@@ -1,4 +1,5 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
 deuros;DEU-MV;S1;;;Rostock;deumv.s01;
 deuros;DEU-MV;S2;;;Rostock;deumv.s02;
+deuros;DEU-MV;S2X;;;Rostock;deumv.s2x;
 deuros;DEU-MV;S3;;;Rostock;deumv.s03;

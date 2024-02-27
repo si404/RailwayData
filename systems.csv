@@ -45,9 +45,13 @@ belgt;BEL;Gentse tram;TMred;4;preview
 belkt;BEL;Kusttram;TMred;4;preview
 bgrsm;BGR;Sofiyski Metropoliten;TMblue;3;preview
 bgrst;BGR;Sofiyski Trams;TMred;4;preview
-canttc;CAN;Toronto Subway;TMblue;3;preview
+cango;CAN;GO Transit;TMgreen;2;preview
 canstm;CAN;Montreal Metro;TMblue;3;preview
+canttc;CAN;Toronto Subway;TMblue;3;preview
+canion;CAN;ION Light Rail;TMred;4;preview
 canrem;CAN;Montreal Réseau Express Métropolitain;TMred;4;preview
+canair;CAN;Canada Landside Airport Rail Systems;TMyellow;5;preview
+cantsc;CAN;Toronto Streetcars;TMyellow;5;preview
 cheags;CHE;S-Bahn Aargau;TMgreen;2;preview
 chebes;CHE;S-Bahn Bern / RER Berne;TMgreen;2;preview
 chebss;CHE;Trinationale S-Bahn Basel / RER trinational de Bâle;TMgreen;2;preview
@@ -55,6 +59,7 @@ chechs;CHE;S-Bahn Chur;TMgreen;2;preview
 chefrrer;CHE;Réseau express régional fribourgeois / S-Bahn Freiburg;TMgreen;2;preview
 chelx;CHE;Léman Express;TMgreen;2;preview
 chesgs;CHE;S-Bahn St. Gallen;TMgreen;2;preview
+cheshs;CHE;S-Bahn Schaffhausen;TMgreen;2;preview
 chesob;CHE;Südostbahn;TMgreen;2;preview
 chesos;CHE;S-Bahn Solothurn;TMgreen;2;preview
 chetirc;CHE;Rete celere del Canton Ticino;TMgreen;2;preview
@@ -82,6 +87,7 @@ czetos;CZE;Tramvaje v Ostravě;TMred;4;preview
 czetpl;CZE;Tramvaje v Plzni;TMred;4;preview
 czetp;CZE;Tramvaje v Praze;TMred;4;preview
 deubs;DEU;S-Bahn Berlin;TMgreen;2;preview
+deubss;DEU;S-Bahn Bodensee;TMgreen;2;preview
 deufrs;DEU;Breisgau-S-Bahn;TMgreen;2;preview
 deuhbs;DEU;Regio-S-Bahn Bremen/Niedersachsen;TMgreen;2;preview
 deudds;DEU;S-Bahn Dresden;TMgreen;2;preview
@@ -308,13 +314,87 @@ itart;ITA;Tranviaria di Roma;TMred;4;preview
 itamt;ITA;Tranviaria di Milano;TMred;4;preview
 itant;ITA;Tranviaria di Napoli;TMred;4;preview
 itatt;ITA;Tranviaria di Torino;TMred;4;preview
-jpjrs;JPN;JR Shikoku;TMpurple;1;preview
-jpmono;JPN;Japan Monorails;TMblue;3;preview
-jpshasa;JPN;Asa Kaigan Railway;TMyellow;5;preview
-jpshiyo;JPN;Iyo Railway;TMgreen;2;preview
-jpshkot;JPN;Takamatsu Kotohira Railway;TMgreen;2;preview
-jpshtos;JPN;Tosa Kuroshio Railway;TMgreen;2;preview
-jptmmy;JPN;Matsuyama Tram;TMred;4;preview
+jpnjrsks;JPN;JR Shinkansens;TMpurple;1;preview
+jpnjrc;JPN;JR Central;TMpurple;1;preview
+jpnjre;JPN;JR East;TMpurple;1;preview
+jpnjrh;JPN;JR Hokkaido;TMpurple;1;preview
+jpnjrk;JPN;JR Kyushu;TMpurple;1;preview
+jpnjrs;JPN;JR Shikoku;TMpurple;1;preview
+jpnjrw;JPN;JR West;TMpurple;1;preview
+jpnlexk;JPN;Kyushu Limited Express;TMblack;1;preview
+jpntlxk;JPN;Kyushu Tourist Services;TMblack;1;preview
+jpn7star;JPN;Seven Stars in Kyushu;TMblack;1;preview
+jpnxjrh;JPN;Former JR Hokkaido Lines;TMbrown;2;preview
+jpnxjrs;JPN;Former JR Shikoku Lines;TMbrown;2;preview
+jpnrhku;JPN;Hankyu Railway;TMbrown;2;preview
+jpnrhsn;JPN;Hanshin Railway;TMbrown;2;preview
+jpnrkeo;JPN;Keio Railway;TMbrown;2;preview
+jpnrkhn;JPN;Keihan Railway;TMbrown;2;preview
+jpnrkin;JPN;Keitetsu Railway;TMbrown;2;preview
+jpnrkku;JPN;Keikyu Railway;TMbrown;2;preview
+jpnrksi;JPN;Keisei Railway;TMbrown;2;preview
+jpnrmtu;JPN;Meitetsu Railway;TMbrown;2;preview
+jpnrnki;JPN;Nankai Railway;TMbrown;2;preview
+jpnrnnr;JPN;Nishi-Nippon Railroad;TMbrown;2;preview
+jpnrodk;JPN;Odakyu Railway;TMbrown;2;preview
+jpnrsbu;JPN;Seibu Railway;TMbrown;2;preview
+jpnrshd;JPN;Shinden (Kobe Electric) Railway;TMbrown;2;preview
+jpnrsot;JPN;Sotetsu Railway;TMbrown;2;preview
+jpnrtbu;JPN;Tobu Railway;TMbrown;2;preview
+jpnrtku;JPN;Tokyu Railway;TMbrown;2;preview
+jpnvsgc;JPN;Central Honshu Single Line Private Railways;TMbrown;2;preview
+jpnvsge;JPN;East Honshu Single Line Private Railways;TMbrown;2;preview
+jpnvsgk;JPN;Kyushu Single Line Private Railways;TMbrown;2;preview
+jpnvsgw;JPN;West Honshu Single Line Private Railways;TMbrown;2;preview
+jpnvech;JPN;Echizen Railway;TMbrown;2;preview
+jpnveiz;JPN;Eizan Railway;TMbrown;2;preview
+jpnvhch;JPN;Heisei Chikuho Railway;TMbrown;2;preview
+jpnvhkr;JPN;Hokuriku Railroad;TMbrown;2;preview
+jpnvicb;JPN;Ichibata Railway;TMbrown;2;preview
+jpnviyo;JPN;Iyo Railway;TMbrown;2;preview
+jpnvizh;JPN;Izuhakone Railway;TMbrown;2;preview
+jpnvkmm;JPN;Kumamoto Railway;TMbrown;2;preview
+jpnvknn;JPN;Konan Railway;TMbrown;2;preview
+jpnvktr;JPN;Kyoto Tango Railway;TMbrown;2;preview
+jpnvohm;JPN;Ohmi Railway;TMbrown;2;preview
+jpnvsng;JPN;Sangi Railway;TMbrown;2;preview
+jpnvsnn;JPN;Shinano Railway;TMbrown;2;preview
+jpnvsny;JPN;Sanyo Railway;TMbrown;2;preview
+jpnvtch;JPN;Toyama Chiho Railway;TMbrown;2;preview
+jpnvtke;JPN;Takamatsu Kotohira Railway;TMbrown;2;preview
+jpnvwkr;JPN;Kishu Railway;TMbrown;2;preview
+jpnmtfk;JPN;Fukuoka Subway;TMblue;3;preview
+jpnmtkb;JPN;Kobe Subway;TMblue;3;preview
+jpnmtky;JPN;Kyoto Subway;TMblue;3;preview
+jpnmtng;JPN;Nagoya Subway;TMblue;3;preview
+jpnmtos;JPN;Osaka Metro;TMblue;3;preview
+jpnmtse;JPN;Sendai Subway;TMblue;3;preview
+jpnmtsp;JPN;Sapporo Subway;TMblue;3;preview
+jpnmtto;JPN;Tokyo Subway;TMblue;3;preview
+jpnmtyk;JPN;Yokohama Subway;TMblue;3;preview
+jpnmono;JPN;Japan Monorails;TMblue;3;preview
+jpnagt;JPN;Automated Guideway Transit;TMblue;3;preview
+jpnagtk;JPN;Kobe New Transit (AGT);TMblue;3;preview
+jpntmen;JPN;Enoden Tram;TMred;4;preview
+jpntmfi;JPN;Fukui Trams;TMred;4;preview
+jpntmhi;JPN;Hiroshima Trams;TMred;4;preview
+jpntmhk;JPN;Hakodate Trams;TMred;4;preview
+jpntmkg;JPN;Kagoshima Trams;TMred;4;preview
+jpntmkm;JPN;Kumamoto Trams;TMred;4;preview
+jpntmky;JPN;Kyoto Trams;TMred;4;preview
+jpntmmy;JPN;Matsuyama Trams;TMred;4;preview
+jpntmna;JPN;Nagasaki Trams;TMred;4;preview
+jpntmok;JPN;Okayama Trams;TMred;4;preview
+jpntmos;JPN;Osaka (Hankai) Trams;TMred;4;preview
+jpntmsp;JPN;Sapporo Tram;TMred;4;preview
+jpntmta;JPN;Takaoka Manyosen Tram;TMred;4;preview
+jpntmth;JPN;Toyohashi Trams;TMred;4;preview
+jpntmto;JPN;Tokyo Trams;TMred;4;preview
+jpntmty;JPN;Toyama Trams;TMred;4;preview
+jpntmut;JPN;Utsunomiya Light Rail;TMred;4;preview
+jpndmv;JPN;Dual Mode Vehicle Lines;TMyellow;5;preview
+jpnfuni;JPN;Japan Funiculars;TMyellow;5;preview
+jpntour;JPN;Japan Tourist/Heritage Railroads;TMyellow;5;preview
 luxcfl;LUX;Société Nationale des Chemins de Fer Luxembourgeois;TMgreen;2;preview
 luxst;LUX;Stater Tram;TMred;4;preview
 nldic;NLD;Netherlands Intercity;TMpurple;1;preview
@@ -377,6 +457,8 @@ turib;TUR;İstanbul Banliyö Treni;TMgreen;2;preview
 turim;TUR;İstanbul Metrosu;TMblue;3;preview
 turit;TUR;İstanbul Tramvayı;TMred;4;preview
 turif;TUR;İstanbul Füniküleri;TMyellow;5;preview
+usablfx;USA;Brightline;TMgreen;2;preview
+usacfr;USA;SunRail;TMgreen;2;preview
 usacndx;USA;CTrail;TMgreen;2;preview
 usalirr;USA;Long Island Rail Road;TMgreen;2;preview
 usamarc;USA;MARC Train;TMgreen;2;preview
@@ -392,6 +474,7 @@ usasepa;USA;SEPTA Regional Rail;TMgreen;2;preview
 usautax;USA;UTA FrontRunner;TMgreen;2;preview
 usavrex;USA;Virginia Railway Express;TMgreen;2;preview
 usatr;USA;United States Tourist/Heritage Railroads;TMgreen;2;preview
+usatrcx;USA;Tri-Rail;TMgreen;2;preview
 usaace;USA;Altamont Corridor Express;TMgreen;2;preview
 usajpbx;USA;Caltrain;TMgreen;2;preview
 usasmart;USA;Sonoma-Marin Area Rail Transit;TMgreen;2;preview
@@ -402,6 +485,7 @@ usasepta;USA;SEPTA rapid transit;TMblue;3;preview
 usanycs;USA;New York City Subway;TMblue;3;preview
 usapath;USA;Port Authority Trans-Hudson Railroad;TMblue;3;preview
 usasir;USA;Staten Island Railway;TMblue;3;preview
+usawdw;USA;Walt Disney World Monorail;TMblue;3;preview
 usawmat;USA;Washington Metro;TMblue;3;preview
 usamarta;USA;MARTA Rail;TMblue;3;preview
 usamdt;USA;Miami-Dade Metrorail;TMblue;3;preview
@@ -432,13 +516,15 @@ usamuni;USA;San Francisco MUNI Light Rail;TMred;4;preview
 usasrt;USA;Sacramento RT Light Rail;TMred;4;preview
 usavta;USA;VTA Light Rail;TMred;4;preview
 usaair;USA;United States Landside Airport Rail Systems;TMyellow;5;preview
-usair;USA;United States Incline Railways;TMyellow;5;preview
+usahart;USA;TECO Line Streetcar Tampa;TMyellow;5;preview
 usahunhts;USA;Huntsville Hospital Tram System;TMyellow;5;preview
-usarooist;USA;Roosevelt Island Tramway;TMyellow;5;preview
-usawvuprt;USA;Morgantown Personal Rapid Transit;TMyellow;5;preview
-usammm;USA;Miami Metromover;TMyellow;5;preview
-usatsc;USA;Tempe Streetcar;TMyellow;5;preview
-usautas;USA;UTA S-Line;TMyellow;5;preview
+usair;USA;United States Incline Railways;TMyellow;5;preview
+usajta;USA;Jacksonville Skyway;TMyellow;5;preview
 usakcsc;USA;RideKC Streetcar;TMyellow;5;preview
 usalvct;USA;Las Vegas Casino Trams;TMyellow;5;preview
+usammm;USA;Miami Metromover;TMyellow;5;preview
+usarooist;USA;Roosevelt Island Tramway;TMyellow;5;preview
 usasfcc;USA;San Francisco Cable Cars;TMyellow;5;preview
+usatsc;USA;Tempe Streetcar;TMyellow;5;preview
+usautas;USA;UTA S-Line;TMyellow;5;preview
+usawvuprt;USA;Morgantown Personal Rapid Transit;TMyellow;5;preview

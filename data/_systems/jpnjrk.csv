@@ -1,0 +1,26 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+jpnjrk;JPN;ChikuhiLnE;;;Chikuhi Line East;jpn.chikuhieast;
+jpnjrk;JPN;ChikuhiLnW;;;Chikuhi Line West;jpn.chikuhiwest;
+jpnjrk;JPN;ChikuhoLn;;;Chikuho Line;jpn.chikuho;
+jpnjrk;JPN;FukuYutakaLn;;;Fukuhoku Yutaka Line;jpn.fukuhokuyutaka;
+jpnjrk;JPN;GotojiLn;;;Gotoji Line;jpn.gotoji;
+jpnjrk;JPN;HisatsuLn;;;Hisatsu Line;jpn.hisatsu;
+jpnjrk;JPN;HitahikosanLn;;;Hitahikosan Line;jpn.hitahikosan;
+jpnjrk;JPN;HohiLn;;;Hohi Line;jpn.hohi;
+jpnjrk;JPN;IbuMakuLn;;;Ibusuki Makurazaki Line;jpn.ibusukimakurazaki;
+jpnjrk;JPN;KagoshimaLnN;;;Kagoshima Line North;jpn.kagonorth;
+jpnjrk;JPN;KagoshimaLnS;;;Kagoshima Line South;jpn.kagosouth;
+jpnjrk;JPN;KaratsuLn;;;Karatsu Line;jpn.karatsu;
+jpnjrk;JPN;KashiiLn;;;Kashii Line;jpn.kashii;
+jpnjrk;JPN;KittoLn;;;Kitto Line;jpn.kitto;
+jpnjrk;JPN;KyudaiLn;;;Kyudai Line;jpn.kyudai;
+jpnjrk;JPN;MisumiLn;;;Misumi Line;jpn.misumi;
+jpnjrk;JPN;MiyazakiKukoLn;;;Miyazaki Kuko Line;jpn.miyazakikuko;
+jpnjrk;JPN;NagasakiLn;;;Nagasaki Line;jpn.nagasaki;
+jpnjrk;JPN;NagasakiOldLn;;;Nagasaki Old Line;jpn.nagasakiold;
+jpnjrk;JPN;NichinanLn;;;Nichinan Line;jpn.nichinan;
+jpnjrk;JPN;NippoLn;;;Nippo Line;jpn.nippo;
+jpnjrk;JPN;OmuraLn;;;Omura Line;jpn.omura;
+jpnjrk;JPN;SanyoLnW;;;Sanyo Line West;jpn.sanyowest;
+jpnjrk;JPN;SasaguriLn;;;Sasaguri Line;jpn.sasaguri;
+jpnjrk;JPN;SaseboLn;;;Sasebo Line;jpn.sasebo;

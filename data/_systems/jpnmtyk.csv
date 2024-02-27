@@ -1,0 +1,4 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+jpnmtyk;JPN;YokoBlueLn;;;Yokohama Blue Line;jpn.yokohamablue;
+jpnmtyk;JPN;YokoGreenLn;;;Yokohama Green Line;jpn.yokohamagreen;
+jpnmtyk;JPN;MinatoMiraiLn;;;Minato Mirai Line;jpn.minatomirai;

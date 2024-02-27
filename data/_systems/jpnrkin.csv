@@ -1,0 +1,22 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+jpnrkin;JPN;DomyojiLn;;;Kintetsu Domyoji Line;jpn.kindomyoji;
+jpnrkin;JPN;GoseLn;;;Kintetsu Gose Line;jpn.kingose;
+jpnrkin;JPN;IkomaLn;;;Kintetsu Ikoma Line;jpn.kinikoma;
+jpnrkin;JPN;KashiharaLn;;;Kintetsu Kashihara Line;jpn.kinkashihara;
+jpnrkin;JPN;KeihannaLn;;;Kintetsu Keihanna Line;jpn.kinkeihanna;
+jpnrkin;JPN;KinKyotoLn;;;Kintetsu Kyoto Line;jpn.kinkyoto;
+jpnrkin;JPN;MinamiOsakaLn;;;Kintetsu Minami Osaka Line;jpn.kinminamiosaka;
+jpnrkin;JPN;KinNaganoLn;;;Kintetsu Nagano Line;jpn.kinnagano;
+jpnrkin;JPN;NagoyaLn;;;Kintetsu Nagoya Line;jpn.kinnagoya;
+jpnrkin;JPN;KinNambaLn;;;Kintetsu Namba Line;jpn.kinnamba;
+jpnrkin;JPN;KinNaraLn;;;Kintetsu Nara Line;jpn.kinnara;
+jpnrkin;JPN;OsakaLn;;;Kintetsu Osaka Line;jpn.kinosaka;
+jpnrkin;JPN;ShigiLn;;;Kintetsu Shigi Line;jpn.kinshigi;
+jpnrkin;JPN;ShimaLn;;;Kintetsu Shima Line;jpn.kinshima;
+jpnrkin;JPN;SuzukaLn;;;Kintetsu Suzuka Line;jpn.kinsuzuka;
+jpnrkin;JPN;TawaramotoLn;;;Kintetsu Tawaramoto Line;jpn.kintawaramoto;
+jpnrkin;JPN;TenriLn;;;Kintetsu Tenri Line;jpn.kintenri;
+jpnrkin;JPN;TobaLn;;;Kintetsu Toba Line;jpn.kintoba;
+jpnrkin;JPN;KinYamadaLn;;;Kintetsu Yamada Line;jpn.kinyamada;
+jpnrkin;JPN;YoshinoLn;;;Kintetsu Yoshino Line;jpn.kinyoshino;
+jpnrkin;JPN;YunoyamaLn;;;Kintetsu Yunoyama Line;jpn.kinyunoyama;

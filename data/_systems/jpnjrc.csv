@@ -1,0 +1,16 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+jpnjrc;JPN;ChuoLnWest;;;Chuo Line West;jpn.chuowest;
+jpnjrc;JPN;GotembaLn;;;Gotemba Line;jpn.gotemba;
+jpnjrc;JPN;IidaLn;;;Iida Line;jpn.iida;
+jpnjrc;JPN;JohokuLn;;;Tokai Transport Johoku Line;jpn.johoku;
+jpnjrc;JPN;KansaiLnEast;;;Kansai Line East;jpn.kansaieast;
+jpnjrc;JPN;KiseiLnEast;;;Kisei Line East;jpn.kiseieast;
+jpnjrc;JPN;MeishoLn;;;Meisho Line;jpn.meisho;
+jpnjrc;JPN;MinoAkasakaLn;;;Mino Akasaka Branch Line;jpn.minoakasaka;
+jpnjrc;JPN;MinobuLn;;;Minobu Line;jpn.minobu;
+jpnjrc;JPN;SanguLn;;;Sangu Line;jpn.sangu;
+jpnjrc;JPN;TaitaLn;;;Taita Line;jpn.taita;
+jpnjrc;JPN;TakayamaLnSouth;;;Takayama Line South;jpn.takayamasouth;
+jpnjrc;JPN;TaketoyoLn;;;Taketoyo Line;jpn.taketoyo;
+jpnjrc;JPN;TaruiLn;;;Tarui Branch Line;jpn.tarui;
+jpnjrc;JPN;TokaidoLnCen;;;Tokaido Line Central;jpn.tokaidocentral;

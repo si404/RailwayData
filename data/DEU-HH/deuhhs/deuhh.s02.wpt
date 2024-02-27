@@ -1,10 +1,10 @@
-HamBurgAlt +HamburgAltona http://www.openstreetmap.org/?lat=53.552139&lon=9.934537
-KonStr http://www.openstreetmap.org/?lat=53.547824&lon=9.944215
-ReeBahn http://www.openstreetmap.org/?lat=53.549650&lon=9.957443
-LanBru http://www.openstreetmap.org/?lat=53.546229&lon=9.971139
-StaHausBru http://www.openstreetmap.org/?lat=53.549494&lon=9.984963
-JunSti http://www.openstreetmap.org/?lat=53.552885&lon=9.994050
-+X33 http://www.openstreetmap.org/?lat=53.556811&lon=10.001099
+HamBurgAlt http://www.openstreetmap.org/?lat=53.552139&lon=9.934537
++DIV_Ott http://www.openstreetmap.org/?lat=53.559635&lon=9.931576
++DIV_AltN http://www.openstreetmap.org/?lat=53.563547&lon=9.935718
+HolStr http://www.openstreetmap.org/?lat=53.561807&lon=9.949236
+SteSch http://www.openstreetmap.org/?lat=53.563826&lon=9.967797
+HamBurgDammTor http://www.openstreetmap.org/?lat=53.561042&lon=9.989319
++X15 http://www.openstreetmap.org/?lat=53.556785&lon=9.998932
 +DIV_HHHbfN http://www.openstreetmap.org/?lat=53.555702&lon=10.004554
 HamBurgHbf http://www.openstreetmap.org/?lat=53.553200&lon=10.006496
 +DIV_HamBro http://www.openstreetmap.org/?lat=53.550268&lon=10.017246
@@ -16,4 +16,5 @@ MitLandWeg http://www.openstreetmap.org/?lat=53.498067&lon=10.130939
 All http://www.openstreetmap.org/?lat=53.490299&lon=10.159028
 NetBurg http://www.openstreetmap.org/?lat=53.487809&lon=10.181258
 +DIV_Net http://www.openstreetmap.org/?lat=53.486865&lon=10.189455
-BerDorf +Bergedorf http://www.openstreetmap.org/?lat=53.489890&lon=10.206428
+BerDorf http://www.openstreetmap.org/?lat=53.489890&lon=10.206428
+HH/SH http://www.openstreetmap.org/?lat=53.496048&lon=10.224849
