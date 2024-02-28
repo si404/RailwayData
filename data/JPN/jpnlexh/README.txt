@@ -1,1 +1,0 @@
-Hokkaido ltd exp
