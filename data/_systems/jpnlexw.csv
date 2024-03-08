@@ -1,4 +1,20 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
+jpnlexw;JPN;BiwakoExp;;;Biwako Express;jpn.lexbiwakoexp;
+jpnlexw;JPN;HamakazeLtd;;;Hamakaze Ltd Exp;jpn.lexhamakaze;
+jpnlexw;JPN;HarukaLtd;;;Haruka Ltd Exp;jpn.lexharuka;
+jpnlexw;JPN;HashidateLtd;;;Hashidate Ltd Exp;jpn.lexhashidate;
+jpnlexw;JPN;KinosakiLtd;;;Kinosaki Ltd Exp;jpn.lexkinosaki;
+jpnlexw;JPN;KounotoriLtd;;;Kounotori Ltd Exp;jpn.lexkounotori;
+jpnlexw;JPN;KuroshioLtd;;;Kuroshio Ltd Exp;jpn.lexkuroshio;
+jpnlexw;JPN;MaizuruLtd;;;Maizuru Ltd Exp;jpn.lexmaizuru;
+jpnlexw;JPN;NotoKagaLtd;;;Noto Kagaribi Ltd Exp;jpn.lexnotokagaribi;
+jpnlexw;JPN;RakuHarimaLtd;;;Rakuraku Harima Ltd Exp;jpn.lexrakuharima;
+jpnlexw;JPN;ShirasagiLtd;;;Shirasagi Ltd Exp;jpn.lexshirasagi;
+jpnlexw;JPN;SunriseIzumoLtd;;;Sunrise Izumo Ltd Exp;jpn.lexsunriseizumo;
+jpnlexw;JPN;SunriseSetoLtd;;;Sunrise Seto Ltd Exp;jpn.lexsunriseseto;
 jpnlexw;JPN;SuperMatsuLtd;;;Super Matsukaze Ltd Exp;jpn.lexsupermatsu;
+jpnlexw;JPN;SuperHakutoLtd;;;Super Hakuto Ltd Exp;jpn.lexsuperhakuto;
+jpnlexw;JPN;SuperInabaLtd;;;Super Inaba Ltd Exp;jpn.lexsuperinaba;
 jpnlexw;JPN;SuperOkiLtd;;;Super Oki Ltd Exp;jpn.lexsuperoki;
+jpnlexw;JPN;ThunderbirdLtd;;;Thunderbird Ltd Exp;jpn.lexthunderbird;
 jpnlexw;JPN;YakumoLtd;;;Yakumo Ltd Exp;jpn.lexyakumo;
