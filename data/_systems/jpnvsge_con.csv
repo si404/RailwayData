@@ -1,10 +1,14 @@
 systemName;route;banner;groupName;roots
+jpnvsge;AbukumaExp;;Abukuma Express RW Line;jpn.sgeabukumaexp
+jpnvsge;AizuLn;;Aizu RW Line;jpn.sgeaizu
+jpnvsge;AkitaNairikuLn;;Akita Nairiku RW Line;jpn.sgeakitanairiku
 jpnvsge;AoimoriLn;;Aoimori RW Line;jpn.sgeaoimori
 jpnvsge;ChichibuLn;;Chichibu RW Line;jpn.sgechichibu
 jpnvsge;ChokaiLn;;Yuri Kogen RW Chokai Sanroku Line;jpn.sgechokai
 jpnvsge;ChoshiLn;;Choshi RW Line;jpn.sgechoshi
 jpnvsge;FujikyukoLn;;Fujikyu RW Fujikyuko Line;jpn.sgefujikyuko
 jpnvsge;HakoneTozanLn;;Hakone Tozan RW Line;jpn.sgehakonetozan
+jpnvsge;HitaMinatoLn;;Hitachinaka RW Minato Line;jpn.sgehitaminato
 jpnvsge;HokuhokuLn;;Hokuetsu Express RW Hokuhoku Line;jpn.sgehokuhoku
 jpnvsge;IizakaLn;;Iizaka RW Line;jpn.sgeiizaka
 jpnvsge;IsumiLn;;Isumi RW Line;jpn.sgeisumi
@@ -14,12 +18,16 @@ jpnvsge;JomoLn;;Jomo RW Line;jpn.sgejomo
 jpnvsge;JoshinLn;;Joshin RW Line;jpn.sgejoshin
 jpnvsge;KamikochiLn;;Alpico Kotsu Kamikochi Line;jpn.sgekamikochi
 jpnvsge;KominatoLn;;Kominato RW Line;jpn.sgekominato
+jpnvsge;MookaLn;;Mooka RW Line;jpn.sgemooka
 jpnvsge;NaganoLn;;Nagano RW Line;jpn.sgenagano
 jpnvsge;NagareyamaLn;;Ryutetsu RW Nagareyama Line;jpn.sgenagareyama
 jpnvsge;OaraiKashimaLn;;Kashima Rinkai RW Oarai Kashima Line;jpn.sgekashimaoarai
 jpnvsge;RiasLn;;Sanriku RW Rias Line;jpn.sgerias
+jpnvsge;SendaiAirLn;;Sendair Airport Access Line;jpn.sgesendaiair
 jpnvsge;ShibayamaLn;;Shibayama RW Line;jpn.sgeshibayama
 jpnvsge;ToyoRapidLn;;Toyo Rapid RW Line;jpn.sgetoyorapid
 jpnvsge;TsugaruLnAom;;Tsugaru RW Line;jpn.sgetsugaru
 jpnvsge;TsukubaExpress;;Tsukuba Express;jpn.sgetsukubaex
 jpnvsge;WataraseLn;;Watarase Keikoku RW Line;jpn.sgewatarase
+jpnvsge;AizuKinugawaLn;;Yagan RW Aizu Kinugawa Line;jpn.sgeaizukinugawa
+jpnvsge;FlowerNagaiLn;;Yamagata RW Flower Nagai Line;jpn.sgeflowernagai
