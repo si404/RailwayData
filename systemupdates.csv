@@ -1,5 +1,6 @@
 ﻿date;region;systemName;description;statusChange
 2024-03-12;Japan;jpnvetr;Echigo Tokimeki Railway;preview
+2024-03-12;Japan;jpnvsgh;Hokkaido Single Line Private Railways;preview
 2024-03-07;Japan;jpntlxw;Western Honshu Tourist Services;preview
 2024-03-02;Japan;jpnlexc;JR Central Limited Express;preview
 2024-03-02;Japan;jpnlexe;JR East Limited Express;preview
@@ -75,7 +76,6 @@
 2023-12-19;Japan;jpntmhk;Hakodate Trams;preview
 2023-12-17;Japan;jpntmhi;Hiroshima Trams;preview
 2023-12-17;Japan;jpnjrh;JR Hokkaido;preview
-2023-12-17;Japan;jpnxjrh;Former JR Hokkaido Lines;preview
 2023-12-17;Japan;jpnmtsp;Sapporo Subway;preview
 2023-12-17;Japan;jpntmsp;Sapporo Streetcar;preview
 2023-12-13;Japan;jpnjrsks;JR Shinkansens;preview
