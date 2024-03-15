@@ -1,6 +1,6 @@
 G26 http://www.openstreetmap.org/?lat=33.212490&lon=133.137356
 G27 http://www.openstreetmap.org/?lat=33.188069&lon=133.105918
-KawaokuJct http://www.openstreetmap.org/?lat=33.158113&lon=133.096876
++DIV_Kawaoku http://www.openstreetmap.org/?lat=33.158113&lon=133.096876
 G28 http://www.openstreetmap.org/?lat=33.161402&lon=133.075123
 G29 http://www.openstreetmap.org/?lat=33.175488&lon=133.030148
 +X144482 http://www.openstreetmap.org/?lat=33.183319&lon=132.978757
