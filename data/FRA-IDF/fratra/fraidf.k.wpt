@@ -10,6 +10,7 @@ AulSousBois http://www.openstreetmap.org/?lat=48.932241&lon=2.495055
 +SKIP_SevLiv http://www.openstreetmap.org/?lat=48.936160&lon=2.534838
 +SKIP_VertGal http://www.openstreetmap.org/?lat=48.944391&lon=2.567067
 +SKIP_VilMitNeuf http://www.openstreetmap.org/?lat=48.952987&lon=2.602601
++DIV_Air http://www.openstreetmap.org/?lat=48.961265&lon=2.621205
 MitCla http://www.openstreetmap.org/?lat=48.975865&lon=2.642341
 Com http://www.openstreetmap.org/?lat=48.991398&lon=2.665215
 ThiNan http://www.openstreetmap.org/?lat=49.008403&lon=2.680578
