@@ -1,17 +1,16 @@
-GareAus http://www.openstreetmap.org/?lat=48.842082&lon=2.364796
+GareAus http://www.openstreetmap.org/?lat=48.842301&lon=2.365644
 Jus http://www.openstreetmap.org/?lat=48.846029&lon=2.356074
 CarLem http://www.openstreetmap.org/?lat=48.846509&lon=2.351847
 MauMut http://www.openstreetmap.org/?lat=48.850124&lon=2.348349
 CluSor http://www.openstreetmap.org/?lat=48.851155&lon=2.344165
 Ode http://www.openstreetmap.org/?lat=48.852298&lon=2.339380
 Mab http://www.openstreetmap.org/?lat=48.852959&lon=2.335217
-SevresBabylon http://www.openstreetmap.org/?lat=48.851451&lon=2.326870
+SevBab SevresBabylon http://www.openstreetmap.org/?lat=48.851451&lon=2.326870
 Van http://www.openstreetmap.org/?lat=48.849122&lon=2.321956
 Dur http://www.openstreetmap.org/?lat=48.846820&lon=2.316635
 Seg http://www.openstreetmap.org/?lat=48.847025&lon=2.307515
-+DIV_8N http://www.openstreetmap.org/?lat=48.850894&lon=2.300520
++X123456 http://www.openstreetmap.org/?lat=48.850894&lon=2.300520
 MotPicGre http://www.openstreetmap.org/?lat=48.849079&lon=2.297902
-+DIV_8S http://www.openstreetmap.org/?lat=48.847205&lon=2.296025
 AveEmiZola http://www.openstreetmap.org/?lat=48.847081&lon=2.295327
 ChaMic http://www.openstreetmap.org/?lat=48.846573&lon=2.285929
 JavAndCit http://www.openstreetmap.org/?lat=48.846142&lon=2.278290
@@ -21,4 +20,4 @@ MicAngeAut http://www.openstreetmap.org/?lat=48.847964&lon=2.264149
 PorAut http://www.openstreetmap.org/?lat=48.847950&lon=2.258720
 +DIV_Mol http://www.openstreetmap.org/?lat=48.845365&lon=2.255427
 BouJeanJau http://www.openstreetmap.org/?lat=48.841913&lon=2.238851
-BouPontSaiClo http://www.openstreetmap.org/?lat=48.840762&lon=2.228594
+BouPontStClo BouPontSaiClo http://www.openstreetmap.org/?lat=48.840762&lon=2.228594

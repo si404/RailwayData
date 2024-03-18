@@ -1,4 +1,4 @@
-ChaGauEto http://www.openstreetmap.org/?lat=48.874267&lon=2.295284
+CdGEto +ChaGauEto http://www.openstreetmap.org/?lat=48.874267&lon=2.295284
 Kle http://www.openstreetmap.org/?lat=48.871670&lon=2.293503
 Boi http://www.openstreetmap.org/?lat=48.867012&lon=2.290049
 Tro http://www.openstreetmap.org/?lat=48.863046&lon=2.287163
@@ -8,12 +8,13 @@ Dup http://www.openstreetmap.org/?lat=48.850435&lon=2.293739
 MotPicGre http://www.openstreetmap.org/?lat=48.849079&lon=2.297902
 Cam http://www.openstreetmap.org/?lat=48.847554&lon=2.302945
 SevLec http://www.openstreetmap.org/?lat=48.845577&lon=2.309618
-Pas http://www.openstreetmap.org/?lat=48.842908&lon=2.312579
+Past Pas http://www.openstreetmap.org/?lat=48.842908&lon=2.312579
 MonBie http://www.openstreetmap.org/?lat=48.842132&lon=2.321012
 EdgQui http://www.openstreetmap.org/?lat=48.841143&lon=2.325089
 Ras http://www.openstreetmap.org/?lat=48.838982&lon=2.330732
++X322674 http://www.openstreetmap.org/?lat=48.836797&lon=2.331558
 DenRoc http://www.openstreetmap.org/?lat=48.834269&lon=2.332610
-SaiJac http://www.openstreetmap.org/?lat=48.833008&lon=2.336633
+StJac SaiJac http://www.openstreetmap.org/?lat=48.833008&lon=2.336633
 Gla http://www.openstreetmap.org/?lat=48.831087&lon=2.343500
 Cor http://www.openstreetmap.org/?lat=48.829802&lon=2.350473
 PlaIta http://www.openstreetmap.org/?lat=48.830875&lon=2.355881
