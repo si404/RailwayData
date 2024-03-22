@@ -7,7 +7,7 @@ ParStLaz http://www.openstreetmap.org/?lat=48.876532&lon=2.325261
 +DIV_LE http://www.openstreetmap.org/?lat=48.913270&lon=2.252004
 +SKIP_GarCol http://www.openstreetmap.org/?lat=48.909674&lon=2.239859
 +DIV_LW http://www.openstreetmap.org/?lat=48.907925&lon=2.234752
-+X705150 http://www.openstreetmap.org/?lat=48.907397&lon=2.213702
++DIV_E http://www.openstreetmap.org/?lat=48.907397&lon=2.213702
 +DIV_ALS http://www.openstreetmap.org/?lat=48.916507&lon=2.193189
 HouCarSei http://www.openstreetmap.org/?lat=48.920286&lon=2.185464
 +X214609 http://www.openstreetmap.org/?lat=48.933369&lon=2.163963
