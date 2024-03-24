@@ -30,7 +30,7 @@ Wit http://www.openstreetmap.org/?lat=51.805925&lon=0.639417
 Col http://www.openstreetmap.org/?lat=51.900554&lon=0.892339
 +DIV_GE http://www.openstreetmap.org/?lat=51.899336&lon=0.912037
 +DIV_Col http://www.openstreetmap.org/?lat=51.888438&lon=0.920277
-+SKIP_Hyt http://www.openstreetmap.org/?lat=51.885809&lon=0.927572
+Hyt http://www.openstreetmap.org/?lat=51.885809&lon=0.927572
 Wiv http://www.openstreetmap.org/?lat=51.856583&lon=0.956218
 +SKIP_Alr http://www.openstreetmap.org/?lat=51.853972&lon=0.997095
 +SKIP_GreBen http://www.openstreetmap.org/?lat=51.851725&lon=1.065459

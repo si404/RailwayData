@@ -1,5 +1,5 @@
 PontSev http://www.openstreetmap.org/?lat=48.829689&lon=2.230911
-BilCou http://www.openstreetmap.org/?lat=48.831751&lon=2.237391
+Bil BilCou http://www.openstreetmap.org/?lat=48.831751&lon=2.237391
 MarSem http://www.openstreetmap.org/?lat=48.833658&lon=2.243614
 PorSaiClo http://www.openstreetmap.org/?lat=48.837782&lon=2.256575
 Exe http://www.openstreetmap.org/?lat=48.843007&lon=2.260072
@@ -13,26 +13,26 @@ Tro http://www.openstreetmap.org/?lat=48.863046&lon=2.287163
 Iena http://www.openstreetmap.org/?lat=48.864679&lon=2.293782
 AlmaMar http://www.openstreetmap.org/?lat=48.864955&lon=2.300606
 FraDRoo http://www.openstreetmap.org/?lat=48.869023&lon=2.309951
-SaiPhi http://www.openstreetmap.org/?lat=48.872333&lon=2.310090
+StPhiRou SaiPhi http://www.openstreetmap.org/?lat=48.872333&lon=2.310090
 Mir http://www.openstreetmap.org/?lat=48.873681&lon=2.314467
-SaiAug http://www.openstreetmap.org/?lat=48.874464&lon=2.321827
+StAug SaiAug http://www.openstreetmap.org/?lat=48.874464&lon=2.321827
 HavCau http://www.openstreetmap.org/?lat=48.873674&lon=2.327331
 ChaAntFay http://www.openstreetmap.org/?lat=48.873000&lon=2.333307
 RicDro http://www.openstreetmap.org/?lat=48.871878&lon=2.339637
 GraBou http://www.openstreetmap.org/?lat=48.871440&lon=2.343500
 BonNou http://www.openstreetmap.org/?lat=48.870495&lon=2.348692
-StrBouSaiDen http://www.openstreetmap.org/?lat=48.869313&lon=2.354282
+StrStDen StrBouSaiDen http://www.openstreetmap.org/?lat=48.869313&lon=2.354282
 Rep http://www.openstreetmap.org/?lat=48.867573&lon=2.363820
 +X754135 http://www.openstreetmap.org/?lat=48.865865&lon=2.366631
-OberKam http://www.openstreetmap.org/?lat=48.864080&lon=2.369485
-SaiAmb http://www.openstreetmap.org/?lat=48.861020&lon=2.374753
+Obe OberKam http://www.openstreetmap.org/?lat=48.864080&lon=2.369485
+StAmb SaiAmb http://www.openstreetmap.org/?lat=48.861020&lon=2.374753
 Vol http://www.openstreetmap.org/?lat=48.858168&lon=2.379795
 Cha http://www.openstreetmap.org/?lat=48.854752&lon=2.385364
 RueBou http://www.openstreetmap.org/?lat=48.852584&lon=2.388797
 Nat http://www.openstreetmap.org/?lat=48.848204&lon=2.395985
-Buzenval http://www.openstreetmap.org/?lat=48.851833&lon=2.401414
+Buz Buzenval http://www.openstreetmap.org/?lat=48.851833&lon=2.401414
 Mar http://www.openstreetmap.org/?lat=48.852680&lon=2.406113
 PorMon http://www.openstreetmap.org/?lat=48.853470&lon=2.410576
-RobPie http://www.openstreetmap.org/?lat=48.855800&lon=2.423537
+Rob RobPie http://www.openstreetmap.org/?lat=48.855800&lon=2.423537
 CroCha http://www.openstreetmap.org/?lat=48.857932&lon=2.435811
-MarMon http://www.openstreetmap.org/?lat=48.862619&lon=2.441626
+MaiMon MarMon http://www.openstreetmap.org/?lat=48.862619&lon=2.441626

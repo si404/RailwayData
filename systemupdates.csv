@@ -1,5 +1,20 @@
 ﻿date;region;systemName;description;statusChange
-2024-01-24;Japan;jpnvsgk;Kyushu Single Line Private Railways;preview
+2024-03-12;Japan;jpnvkto;Kanto Railway;preview
+2024-03-12;Japan;jpnvetr;Echigo Tokimeki Railway;preview
+2024-03-12;Japan;jpnvsgh;Hokkaido Single Line Private Railways;preview
+2024-03-07;Japan;jpntlxw;Western Honshu Tourist Services;preview
+2024-03-02;Japan;jpnlexc;JR Central Limited Express;preview
+2024-03-02;Japan;jpnlexe;JR East Limited Express;preview
+2024-03-02;Japan;jpnlexh;JR Hokkaido Limited Express;preview
+2024-03-02;Japan;jpnlexs;JR Shikoku Limited Express;preview
+2024-03-02;Japan;jpnlexw;JR West Limited Express;preview
+2024-02-16;Japan;jpnveiz;Eizan Railway;preview
+2024-02-16;Japan;jpnrshd;Shinden (Kobe Electric) Railway;preview
+2024-02-16;Japan;jpntmky;Kyoto Trams;preview
+2024-02-13;Japan;jpn7star;Seven Stars in Kyushu;preview
+2024-02-10;Japan;jpnlexk;JR Kyushu Limited Express;preview
+2024-02-10;Japan;jpntlxk;JR Kyushu Tourist Services;preview
+2024-02-01;Japan;jpnvsgk;Kyushu Single Line Private Railways;preview
 2024-02-01;Japan;jpnvhch;Heisei Chikuho Railway;preview
 2024-02-01;Japan;jpnvicb;Ichibata Railway;preview
 2024-02-01;Japan;jpnvkmm;Kumamoto Railway;preview
@@ -15,9 +30,8 @@
 2024-01-24;Japan;jpnvsge;East Honshu Single Line Private Railways;preview
 2024-01-24;Japan;jpnvsgw;West Honshu Single Line Private Railways;preview
 2024-01-24;Japan;jpntmty;Toyohashi Trams;preview
-2024-01-24;Japan;jpnvezn;Echizen Railway;preview
+2024-01-24;Japan;jpnvech;Echizen Railway;preview
 2024-01-24;Japan;jpnvizh;Izuhakone Railway;preview
-2024-01-15;Japan;jpnxjrw;Former JR West Lines;preview
 2024-01-14;Japan;jpnrkin;Kintetsu Railway;preview
 2024-01-14;Japan;jpnrkhn;Keihan Railway;preview
 2024-01-14;Japan;jpnrhsn;Hanshin Railway;preview
@@ -36,9 +50,7 @@
 2024-01-06;Japan;jpnrsbo;Seibu Railway;preview
 2024-01-06;Japan;jpnrkeo;Keio Railway;preview
 2024-01-05;Japan;jpnrksi;Keisei Railway;preview
-2024-01-05;Japan;jpnvtsg;Tsugaru Railway;preview
 2024-01-05;Japan;jpntour;Japan Tourist/Heritage Railroads;preview
-2023-12-29;Japan;jpnvwkr;Kishu Railway;preview
 2023-12-29;Japan;jpnvsng;Sangi Railway;preview
 2023-12-29;Japan;jpntmen;Enoden Tram;preview
 2023-12-29;Japan;jpnrodk;Odakyu Railway;preview
@@ -65,7 +77,6 @@
 2023-12-19;Japan;jpntmhk;Hakodate Trams;preview
 2023-12-17;Japan;jpntmhi;Hiroshima Trams;preview
 2023-12-17;Japan;jpnjrh;JR Hokkaido;preview
-2023-12-17;Japan;jpnxjrh;Former JR Hokkaido Lines;preview
 2023-12-17;Japan;jpnmtsp;Sapporo Subway;preview
 2023-12-17;Japan;jpntmsp;Sapporo Streetcar;preview
 2023-12-13;Japan;jpnjrsks;JR Shinkansens;preview
@@ -75,7 +86,7 @@
 2023-12-09;Japan;jpnviyo;Iyo Railway;preview
 2023-12-09;Japan;jpnvtke;Takamatsu Kotohira Railway;preview
 2023-12-09;Japan;jpndmv;Dual Mode Vehicle Lines;preview
-2023-12-09;Japan;jpnxjrs;Former JR Shikoku Lines;preview
+2023-12-09;Japan;jpnvtos;Tosa Kuroshio Railway;preview
 2023-10-28;(USA) Nevada;usalvct;Las Vegas Casino Trams;preview
 2023-10-27;Turkey;turib;İstanbul Banliyö Treni;preview
 2023-10-27;Turkey;turim;İstanbul Metrosu;preview
