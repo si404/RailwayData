@@ -3,7 +3,7 @@ usaamtk;AE;;Acela;dc.ae,md.ae,de.ae,pa.ae,nj.ae,ny.ae,ct.ae,ri.ae,ma.ae
 usaamtk;AD;;Adirondack;ny.ad,qc.ad
 usaamtk;AC;;Amtrak Cascades;or.ac,wa.ac,bc.ac
 usaamtk;HL;;Amtrak Hartford Line;ct.hl,ma.hl
-usaamtk;AZ;Auto Train;fl.az,ga.az,sc.az,nc.az,va.az
+usaamtk;AZ;;Auto Train;fl.az,ga.az,sc.az,nc.az,va.az
 usaamtk;BF;;Berkshire Flyer;ny.bf,ma.bf
 usaamtk;BW;;Blue Water;il.bw,in.bw,mi.bw
 usaamtk;CZ;;California Zephyr;ca.cz,nv.cz,ut.cz,co.cz,ne.cz,ia.cz,il.cz
@@ -16,7 +16,7 @@ usaamtk;NO;;City of New Orleans;la.no,ms.no,tn.no,ky.no,il.no
 usaamtk;CS;;Coast Starlight;ca.cs,or.cs,wa.cs
 usaamtk;CR;;Crescent;la.cr,ms.cr,al.cr,ga.cr,sc.cr,nc.cr,va.cr,dc.cr,md.cr,de.cr,pa.cr,nj.cr,ny.cr
 usaamtk;DE;;Downeaster;ma.de,nh.de,me.de
-usaamtk;EB;;Empire Builder (Portland);or.ebpor,wa.ebpor,id.ebpor,mt.ebpor,nd.ebpor;,mn.ebpor,wi.ebpor,il.ebpor
+usaamtk;EB;;Empire Builder (Portland);or.ebpor,wa.ebpor,id.ebpor,mt.ebpor,nd.ebpor,mn.ebpor,wi.ebpor,il.ebpor
 usaamtk;EB;;Empire Builder (Seattle);wa.ebsea,id.ebsea,mt.ebsea,nd.ebsea,mn.ebsea,wi.ebsea,il.ebsea
 usaamtk;ES;;Empire Service;ny.es
 usaamtk;EA;;Ethan Allen Express;ny.ea,vt.ea
@@ -48,6 +48,6 @@ usaamtk;SW;;Southwest Chief;ca.sw,az.sw,nm.sw,co.sw,ks.sw,mo.sw,ia.sw,il.sw
 usaamtk;SL;;Sunset Limited;ca.sl,az.sl,nm.sl,tx.sl,la.sl
 usaamtk;TX;;Texas Eagle;ca.tx,az.tx,nm.tx,tx.tx,ar.tx,mo.tx,il.tx
 usaamtk;VF;;Valley Flyer;ct.vf,ma.vf
-usaamtk;VT;;Vermonter;dc.vt,md.vt,de.vt,pa.vt,nj.vt,ny.vt,ct.vt,ma.vt,vt.vtbat,nh.vt,vt.vt
+usaamtk;VT;;Vermonter;dc.vt,md.vt,de.vt,pa.vt,nj.vt,ny.vt,ct.vt,ma.vt,vt.vtbra,nh.vt,vt.vt
 usaamtk;WP;;Winter Park Ski Train;co.wp
 usaamtk;WV;;Wolverine;il.wv,in.wv,mi.wv
