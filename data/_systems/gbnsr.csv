@@ -13,7 +13,7 @@ gbnsr;SCT;CumLn;;;Cumbernauld Line;sct.cumln;
 gbnsr;SCT;MarLn;;;Maryhill Line;sct.marln;
 gbnsr;SCT;FifeLn;;Dun;Fife Line (Dundee);sct.fifelndun;
 gbnsr;SCT;FifeLn;;Per;Fife Line (Perth);sct.fifelnper;
-gbnsr;SCT;FifeLn;;;Fife Line (Leven);sct.fifelnlev;FifeLnGle
+gbnsr;SCT;FifeLn;;;Fife Line (Leven);sct.fifelnlev;
 gbnsr;SCT;BorLn;;;Borders Line;sct.borln;
 gbnsr;SCT;EastLotLn;;;East Lothian Line;sct.eastlotln;
 gbnsr;SCT;NorBerLn;;;North Berwick Line;sct.norberln;
