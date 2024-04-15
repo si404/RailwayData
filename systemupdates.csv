@@ -1,4 +1,13 @@
 ﻿date;region;systemName;description;statusChange
+2024-04-14;(USA) Illinois-Indiana;usanicd;Northern Indiana Commuter Transportation District;preview
+2024-04-14;(USA) Minnesota;usamnrx;Northstar Line;preview
+2024-04-14;(USA) Oregon;usawes;Westside Express Service;preview
+2024-04-14;(USA) Tennessee;usanrtx;WeGo Star;preview
+2024-04-14;(USA) Texas;usacmr;CapMetro Rail;preview
+2024-04-14;(USA) Texas;usadcta;Denton County Transportation Authority;preview
+2024-04-14;(USA) Texas;usatex;TEXRail;preview
+2024-04-14;(USA) Texas;usatre;Trinity Railway Express;preview
+2024-04-14;(USA) Washington;usasdrx;Sounder;preview
 2024-03-29;France;frarer;Réseau Express Régional;preview
 2024-03-29;France;fratra;Transillien;preview
 2024-03-29;France;frapm;Paris Métro;preview
@@ -103,9 +112,9 @@
 2023-10-10;UK;gbndlr;Docklands Light Railway;preview
 2023-10-10;UK;gbnlt;London Trams;preview
 2023-09-20;(USA) New Mexico;usanmrx;New Mexico Rail Runner Express;preview
-2023-09-13;USA;usatr;United States Tourist/Heritage Railroads;preview
-2023-09-13;USA;usaair;United States Landside Airport Rail Systems;preview
-2023-09-13;USA;usair;United States Incline Railways;preview
+2023-09-13;usatr;United States Tourist/Heritage Railroads;preview
+2023-09-13;usaair;United States Landside Airport Rail Systems;preview
+2023-09-13;usair;United States Incline Railways;preview
 2023-09-07;(USA) Colorado;usartdx;Denver RTD Commuter Rail;preview
 2023-09-07;(USA) Colorado;usartdz;Denver RTD Light Rail;preview
 2023-09-03;(USA) Missouri;usakcsc;RideKC Streetcar;preview
