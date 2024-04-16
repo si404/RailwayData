@@ -21,7 +21,7 @@ ParkMar http://www.openstreetmap.org/?lat=32.710981&lon=-117.153772
 CityCol http://www.openstreetmap.org/?lat=32.716298&lon=-117.154228
 5thAve http://www.openstreetmap.org/?lat=32.716754&lon=-117.159727
 CivCen http://www.openstreetmap.org/?lat=32.716745&lon=-117.162436
-Cou http://www.openstreetmap.org/?lat=32.716727&lon=-117.166035
++SKIP_Cou http://www.openstreetmap.org/?lat=32.716727&lon=-117.166035
 AmePlz http://www.openstreetmap.org/?lat=32.716461&lon=-117.168819
 +DIV_Gre_S http://www.openstreetmap.org/?lat=32.715996&lon=-117.169857
 SanFeDep http://www.openstreetmap.org/?lat=32.717178&lon=-117.169978
