@@ -131,9 +131,9 @@
 2023-10-10;UK;gbndlr;Docklands Light Railway;preview
 2023-10-10;UK;gbnlt;London Trams;preview
 2023-09-20;(USA) New Mexico;usanmrx;New Mexico Rail Runner Express;preview
-2023-09-13;usatr;United States Tourist/Heritage Railroads;preview
-2023-09-13;usaair;United States Landside Airport Rail Systems;preview
-2023-09-13;usair;United States Incline Railways;preview
+2023-09-13;(USA);usatr;United States Tourist/Heritage Railroads;preview
+2023-09-13;(USA);usaair;United States Landside Airport Rail Systems;preview
+2023-09-13;(USA);usair;United States Incline Railways;preview
 2023-09-07;(USA) Colorado;usartdx;Denver RTD Commuter Rail;preview
 2023-09-07;(USA) Colorado;usartdz;Denver RTD Light Rail;preview
 2023-09-03;(USA) Missouri;usakcsc;RideKC Streetcar;preview
