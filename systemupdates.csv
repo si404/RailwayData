@@ -1,4 +1,22 @@
 ﻿date;region;systemName;description;statusChange
+2024-04-16;(USA) Hawaii;usaharthi;Honolulu Authority for Rapid Transportation;preview
+2024-04-16;(USA) Puerto Rico;usatu;Tren Urbano;preview
+2024-04-16;(USA) Arkansas;usarrm;Rock Region Metro;preview
+2024-04-16;(USA) Arizona;usast;Sun Tran;preview
+2024-04-16;(USA) Georgia;usaatlsc;Atlanta Streetcar;preview
+2024-04-16;(USA) Illinois-Missouri;usabsda;Bi-State Development Agency;preview
+2024-04-16;(USA) Louisiana;usanorta;New Orleans Regional Transit Authority;preview
+2024-04-16;(USA) Michigan;usadpm;Detroit People Mover;preview
+2024-04-16;(USA) Michigan;usaql;QLine;preview
+2024-04-16;(USA) Ohio;usacc;Cincinnati Connector;preview
+2024-04-16;(USA) Oklahoma;usaokcsc;Oklahoma City Streetcar;preview
+2024-04-16;(USA) Tennessee;usamata;Memphia Area Transit Authority;preview
+2024-04-16;(USA) Texas;usadsc;Dallas Streetcar;preview
+2024-04-16;(USA) Texas;usaelpsc;El Paso Streetcar;preview
+2024-04-16;(USA) Texas;usagal;Galveston Island Trolley;preview
+2024-04-16;(USA) Texas;usamck;McKinney Avenue Transit Authority;preview
+2024-04-16;(USA) Wisconsin;usakensc;Kenosha Streetcar;preview
+2024-04-16;(USA) Wisconsin;usamkehop;Milwaukee Hop;preview
 2024-04-14;(USA) Illinois-Indiana;usanicd;Northern Indiana Commuter Transportation District;preview
 2024-04-14;(USA) Minnesota;usamnrx;Northstar Line;preview
 2024-04-14;(USA) Oregon;usawes;Westside Express Service;preview
@@ -112,9 +130,9 @@
 2023-10-10;UK;gbndlr;Docklands Light Railway;preview
 2023-10-10;UK;gbnlt;London Trams;preview
 2023-09-20;(USA) New Mexico;usanmrx;New Mexico Rail Runner Express;preview
-2023-09-13;USA;usatr;United States Tourist/Heritage Railroads;preview
-2023-09-13;USA;usaair;United States Landside Airport Rail Systems;preview
-2023-09-13;USA;usair;United States Incline Railways;preview
+2023-09-13;(USA);usatr;United States Tourist/Heritage Railroads;preview
+2023-09-13;(USA);usaair;United States Landside Airport Rail Systems;preview
+2023-09-13;(USA);usair;United States Incline Railways;preview
 2023-09-07;(USA) Colorado;usartdx;Denver RTD Commuter Rail;preview
 2023-09-07;(USA) Colorado;usartdz;Denver RTD Light Rail;preview
 2023-09-03;(USA) Missouri;usakcsc;RideKC Streetcar;preview
