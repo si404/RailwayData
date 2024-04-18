@@ -534,22 +534,8 @@ usartdz;USA;Denver RTD Light Rail;TMred;4;preview
 usamuni;USA;San Francisco MUNI Light Rail;TMred;4;preview
 usasrt;USA;Sacramento RT Light Rail;TMred;4;preview
 usavta;USA;VTA Light Rail;TMred;4;preview
-usarrm;USA;Rock Region Metro;TMred;4;preview
-usast;USA;Sun Tran;TMred;4;preview
-usaatlsc;USA;Atlanta Streetcar;TMred;4;preview
 usabsda;USA;Bi-State Development Agency;TMred;4;preview
 usanorta;USA;New Orleans Regional Transit Authority;TMred;4;preview
-usadpm;USA;Detroit People Mover;TMred;4;preview
-usaql;USA;QLine;TMred;4;preview
-usacc;USA;Cincinnati Connector;TMred;4;preview
-usaokcsc;USA;Oklahoma City Streetcar;TMred;4;preview
-usamata;USA;Memphia Area Transit Authority;TMred;4;preview
-usadsc;USA;Dallas Streetcar;TMred;4;preview
-usaelpsc;USA;El Paso Streetcar;TMred;4;preview
-usagal;USA;Galveston Island Trolley;TMred;4;preview
-usamck;USA;McKinney Avenue Transit Authority;TMred;4;preview
-usakensc;USA;Kenosha Streetcar;TMred;4;preview
-usamkehop;USA;Milwaukee Hop;TMred;4;preview
 usaair;USA;United States Landside Airport Rail Systems;TMyellow;5;preview
 usahart;USA;TECO Line Streetcar Tampa;TMyellow;5;preview
 usahunhts;USA;Huntsville Hospital Tram System;TMyellow;5;preview
@@ -563,4 +549,18 @@ usasfcc;USA;San Francisco Cable Cars;TMyellow;5;preview
 usatsc;USA;Tempe Streetcar;TMyellow;5;preview
 usautas;USA;UTA S-Line;TMyellow;5;preview
 usawvuprt;USA;Morgantown Personal Rapid Transit;TMyellow;5;preview
+usarrm;USA;Rock Region Metro;TMyellow;5;preview
+usast;USA;Sun Tran;TMyellow;5;preview
+usaatlsc;USA;Atlanta Streetcar;TMyellow;5;preview
+usadpm;USA;Detroit People Mover;TMyellow;5;preview
+usaql;USA;QLine;TMyellow;5;preview
+usacc;USA;Cincinnati Connector;TMyellow;5;preview
+usaokcsc;USA;Oklahoma City Streetcar;TMyellow;5;preview
+usamata;USA;Memphis Area Transit Authority;TMyellow;5;preview
+usadsc;USA;Dallas Streetcar;TMyellow;5;preview
+usaelpsc;USA;El Paso Streetcar;TMyellow;5;preview
+usagal;USA;Galveston Island Trolley;TMyellow;5;preview
+usamck;USA;McKinney Avenue Transit Authority;TMyellow;5;preview
+usakensc;USA;Kenosha Streetcar;TMyellow;5;preview
+usamkehop;USA;Milwaukee Hop;TMyellow;5;preview
 usaamtk;USA;EASTER EGG Amtrak;TMgrey;1;preview
