@@ -45,12 +45,22 @@ belgt;BEL;Gentse tram;TMred;4;preview
 belkt;BEL;Kusttram;TMred;4;preview
 bgrsm;BGR;Sofiyski Metropoliten;TMblue;3;preview
 bgrst;BGR;Sofiyski Trams;TMred;4;preview
+canvia;CAN;VIA Rail;TMpurple;1;preview
+canexo;CAN;Exo;TMgreen;2;preview
 cango;CAN;GO Transit;TMgreen;2;preview
+cankrc;CAN;Keewatin Railway Company;TMgreen;2;preview
+canonr;CAN;Ontario Northland Railway;TMgreen;2;preview
+cantsh;CAN;Tshiuetin Rail Transportation;TMgreen;2;preview
+cantst;CAN;Tsal'alh Seton Train;TMgreen;2;preview
 canstm;CAN;Montreal Metro;TMblue;3;preview
 canttc;CAN;Toronto Subway;TMblue;3;preview
+canct;CAN;Calgary Transit;TMred;4;preview
+canets;CAN;Edmonton Transit Service;TMred;4;preview
 canion;CAN;ION Light Rail;TMred;4;preview
+canot;CAN;O-Train;TMred;4;preview
 canrem;CAN;Montreal Réseau Express Métropolitain;TMred;4;preview
 canair;CAN;Canada Landside Airport Rail Systems;TMyellow;5;preview
+canedmsc;CAN;Edmonton Streetcars;TMyellow;5;preview
 cantsc;CAN;Toronto Streetcars;TMyellow;5;preview
 cheags;CHE;S-Bahn Aargau;TMgreen;2;preview
 chebes;CHE;S-Bahn Bern / RER Berne;TMgreen;2;preview
