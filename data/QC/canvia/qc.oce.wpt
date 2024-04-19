@@ -40,7 +40,7 @@ Dru http://www.openstreetmap.org/?lat=45.882032&lon=-72.488222
 +X374644 http://www.openstreetmap.org/?lat=46.552545&lon=-71.598244
 +X794974 http://www.openstreetmap.org/?lat=46.620145&lon=-71.506319
 +X239250 http://www.openstreetmap.org/?lat=46.706631&lon=-71.276014
-*Cha http://www.openstreetmap.org/?lat=46.713577&lon=-71.270628
++SKIP_Cha http://www.openstreetmap.org/?lat=46.713577&lon=-71.270628
 +DIV_Cha_W http://www.openstreetmap.org/?lat=46.715150&lon=-71.269448
 +X337220_W http://www.openstreetmap.org/?lat=46.753498&lon=-71.292998
 SteFoy http://www.openstreetmap.org/?lat=46.754226&lon=-71.297600
