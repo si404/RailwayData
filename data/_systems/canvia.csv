@@ -1,0 +1,24 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+canvia;BC;Can;;;Canadian;bc.can;
+canvia;BC;JasPriRup;;;Jasper-Prince Rupert;bc.jasprirup;
+canvia;AB;Can;;;Canadian;ab.can;
+canvia;AB;JasPriRup;;;Jasper-Prince Rupert;ab.jasprirup;
+canvia;SK;Can;;;Canadian;sk.can;
+canvia;SK;WinChu;;;Winnipeg-Churchill;sk.winchu;
+canvia;MB;Can;;;Canadian;mb.can;
+canvia;MB;WinChu;;;Winnipeg-Churchill (Churchill);mb.winchu;
+canvia;MB;WinChu;;Win;Winnipeg-Churchill (Winnipeg);mb.winchuwin;
+canvia;ON;Can;;;Canadian;on.can;
+canvia;ON;OttQue;;;Ottawa-Québec;on.ottque;
+canvia;ON;SarTor;;;Sarnia-Toronto;on.sartor;
+canvia;ON;SudWhiRiv;;;Sudbury-White River;on.sudwhiriv;
+canvia;ON;TorMon;;;Toronto-Montreal;on.tormon;
+canvia;ON;TorOtt;;;Toronto-Ottawa;on.torott;
+canvia;ON;WinTor;;;Windsor-Toronto;on.wintor;
+canvia;QC;Oce;;;Ocean;qc.oce;
+canvia;QC;MonJon;;;Montreal-Jonquière;qc.monjon;
+canvia;QC;MonSen;;;Montreal-Senneterre;qc.monsen;
+canvia;QC;OttQue;;;Ottawa-Québec;qc.ottque;
+canvia;QC;TorMon;;;Toronto-Montreal;qc.tormon;
+canvia;NB;Oce;;;Ocean;nb.oce;
+canvia;NS;Oce;;;Ocean;ns.oce;
