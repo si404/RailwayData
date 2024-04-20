@@ -1,3 +1,4 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-cantsh;QC;TshRailTra;;;Tshiuetin Rail Transportation;qc.tshrailtra;
+cantsh;QC;TshRailTra;;;Tshiuetin Rail Transportation (Sept-Îles);qc.tshrailtra;
+cantsh;QC;TshRailTra;;Sch;Tshiuetin Rail Transportation (Schefferville);qc.tshrailtrasch;
 cantsh;NL;TshRailTra;;;Tshiuetin Rail Transportation;nl.tshrailtra;
