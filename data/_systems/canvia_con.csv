@@ -1,0 +1,13 @@
+systemName;route;banner;groupName;roots
+canvia;Can;;Canadian;on.can,mb.can,sk.can,ab.can,bc.can
+canvia;Oce;;Ocean;qc.oce,nb.oce,ns.oce
+canvia;JasPriRup;;Jasper-Prince Rupert;ab.jasprirup,bc.jasprirup
+canvia;MonJon;;Montreal-Jonquière;qc.monjon
+canvia;MonSen;;Montreal-Senneterre;qc.monsen
+canvia;OttQue;;Ottawa-Québec;on.ottque,qc.ottque
+canvia;SarTor;;Sarnia-Toronto;on.sartor
+canvia;SudWhiRiv;;Sudbury-White River;on.sudwhiriv
+canvia;TorMon;;Toronto-Montreal;on.tormon,qc.tormon
+canvia;TorOtt;;Toronto-Ottawa;on.torott
+canvia;WinChu;;Winnipeg-Churchill;mb.winchuwin,sk.winchu,mb.winchu
+canvia;WinTor;;Windsor-Toronto;on.wintor
