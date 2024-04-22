@@ -1,6 +1,6 @@
 systemName;route;banner;groupName;roots
-usamax;BlueLn;;Blue Line;bc.blueln
-usamax;GreLn;;Green Line;bc.greln
-usamax;OraLn;;Orange Line;bc.oraln
-usamax;RedLn;;Red Line;bc.redln
-usamax;YelLn;;Yellow Line;bc.yelln
+usamax;BlueLn;;Blue Line;or.blueln
+usamax;GreLn;;Green Line;or.greln
+usamax;OraLn;;Orange Line;or.oraln
+usamax;RedLn;;Red Line;or.redln
+usamax;YelLn;;Yellow Line;or.yelln
