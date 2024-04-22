@@ -1,4 +1,14 @@
 ﻿date;region;systemName;description;statusChange
+2024-04-22;(Canada) British Columbia;canwce;West Coast Express;preview
+2024-04-22;(Canada) British Columbia;canmvrd;Metro Vancouver Regional District;preview
+2024-04-22;(USA) Alaska;usaarr;Alaska Railroad;preview
+2024-04-22;(USA) Oregon;usamax;MAX Light Rail;preview
+2024-04-22;(USA) Washington;usast;Sound Transit Light Rail;preview
+2024-04-22;(USA) Oregon;usapsc;Portland Streetcar;preview
+2024-04-22;(USA) Oregon;usapsc;Willamette Shore Trolley;preview
+2024-04-22;(USA) Washington;usascm;Seattle Center Monorail;preview
+2024-04-22;(USA) Washington;usassc;Seattle Streetcars;preview
+2024-04-22;North America;nawpy;White Pass & Yukon Route Railway;preview
 2024-04-19;Canada;canvia;VIA Rail;preview
 2024-04-19;(Canada) Quebec;canexo;Exo;preview
 2024-04-19;(Canada) Manitoba;cankrc;Keewatin Railway Company;preview
