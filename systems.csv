@@ -1,4 +1,4 @@
-e﻿System;CountryCode;Name;Color;Tier;Level
+﻿System;CountryCode;Name;Color;Tier;Level
 ausnswtl;AUS;New South Wales TrainLink;TMpurple;1;preview
 ausqrt;AUS;Queensland Rail Traveltrain;TMpurple;1;preview
 austwa;AUS;Transwa;TMpurple;1;preview
@@ -52,6 +52,8 @@ cankrc;CAN;Keewatin Railway Company;TMgreen;2;preview
 canonr;CAN;Ontario Northland Railway;TMgreen;2;preview
 cantsh;CAN;Tshiuetin Rail Transportation;TMgreen;2;preview
 cantst;CAN;Tsal'alh Seton Train;TMgreen;2;preview
+canwce;CAN;West Coast Express;TMgreen;2;preview
+canmvrd;CAN;Metro Vancouver Regional District;TMblue;3;preview
 canstm;CAN;Montreal Metro;TMblue;3;preview
 canttc;CAN;Toronto Subway;TMblue;3;preview
 canct;CAN;Calgary Transit;TMred;4;preview
@@ -475,6 +477,7 @@ turib;TUR;İstanbul Banliyö Treni;TMgreen;2;preview
 turim;TUR;İstanbul Metrosu;TMblue;3;preview
 turit;TUR;İstanbul Tramvayı;TMred;4;preview
 turif;TUR;İstanbul Füniküleri;TMyellow;5;preview
+usaarr;USA;Alaska Railroad;TMpurple;1;preview
 usablfx;USA;Brightline;TMgreen;2;preview
 usacfr;USA;SunRail;TMgreen;2;preview
 usacndx;USA;CTrail;TMgreen;2;preview
@@ -546,6 +549,8 @@ usasrt;USA;Sacramento RT Light Rail;TMred;4;preview
 usavta;USA;VTA Light Rail;TMred;4;preview
 usabsda;USA;Bi-State Development Agency;TMred;4;preview
 usanorta;USA;New Orleans Regional Transit Authority;TMred;4;preview
+usamax;USA;MAX Light Rail;TMred;4;preview
+usast;USA;Sound Transit Light Rail;TMred;4;preview
 usaair;USA;United States Landside Airport Rail Systems;TMyellow;5;preview
 usahart;USA;TECO Line Streetcar Tampa;TMyellow;5;preview
 usahunhts;USA;Huntsville Hospital Tram System;TMyellow;5;preview
@@ -573,4 +578,9 @@ usagal;USA;Galveston Island Trolley;TMyellow;5;preview
 usamck;USA;McKinney Avenue Transit Authority;TMyellow;5;preview
 usakensc;USA;Kenosha Streetcar;TMyellow;5;preview
 usamkehop;USA;Milwaukee Hop;TMyellow;5;preview
+usapsc;USA;Portland Streetcar;TMyellow;5;preview
+usapsc;USA;Willamette Shore Trolley;TMyellow;5;preview
+usascm;USA;Seattle Center Monorail;TMyellow;5;preview
+usassc;USA;Seattle Streetcars;TMyellow;5;preview
 usaamtk;USA;EASTER EGG Amtrak;TMgrey;1;preview
+nawpy;NA;White Pass & Yukon Route Railway;TMyellow;5;preview
