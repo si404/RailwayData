@@ -1,0 +1,6 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+usamax;OR;BlueLn;;;Blue Line;bc.blueln;
+usamax;OR;GreLn;;;Green Line;bc.greln;
+usamax;OR;OraLn;;;Orange Line;bc.oraln;
+usamax;OR;RedLn;;;Red Line;bc.redln;
+usamax;OR;YelLn;;;Yellow Line;bc.yelln;
