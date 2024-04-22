@@ -1,6 +1,6 @@
 systemName;route;banner;groupName;roots
 canmvrd;CanLn;;Canada Line (YVR-Airport);bc.canln
-canmvrd;CanLn;Ric;Canada Line (Richmond-Brighouse);bc.canlnric
+canmvrd;CanLn;;Canada Line (Richmond-Brighouse);bc.canlnric
 canmvrd;ExpoLn;;Expo Line (King George);bc.expoln
-canmvrd;ExpoLn;Pro;Expo Line (Production Way-University);bc.expolnpro
+canmvrd;ExpoLn;;Expo Line (Production Way-University);bc.expolnpro
 canmvrd;MilLn;;Millennium Line;bc.milln
