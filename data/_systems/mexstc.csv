@@ -1,0 +1,16 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+mexstc;MEX-DF;1;;;1;mexdf.01;
+mexstc;MEX-EMEX;2;;;2;mexemex.02;
+mexstc;MEX-DF;2;;;2;mexdf.02;
+mexstc;MEX-DF;3;;;3;mexdf.03;
+mexstc;MEX-DF;4;;;4;mexdf.04;
+mexstc;MEX-DF;5;;;5;mexdf.05;
+mexstc;MEX-DF;6;;;6;mexdf.06;
+mexstc;MEX-DF;7;;;7;mexdf.07;
+mexstc;MEX-DF;8;;;8;mexdf.08;
+mexstc;MEX-DF;9;;;9;mexdf.09;
+mexstc;MEX-DF;A;;;A;mexdf.a;
+mexstc;MEX-EMEX;A;;;A;mexemex.a;
+mexstc;MEX-EMEX;B;;;B;mexemex.b;
+mexstc;MEX-DF;B;;;B;mexdf.b;
+mexstc;MEX-DF;12;;;12;mexdf.12;
