@@ -1,0 +1,7 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+mextm;MEX-CHIS;TrenMaya;;;Tren Maya;mexchis.trenmaya;
+mextm;MEX-TAB;TrenMaya;;;Tren Maya;mextab.trenmaya;
+mextm;MEX-CAM;TrenMaya;;;Tren Maya;mexcam.trenmaya;
+mextm;MEX-YUC;TrenMaya;;;Tren Maya;mexyuc.trenmaya;
+mextm;MEX-QROO;TrenMaya;;;Tren Maya;mexqroo.trenmaya;
+mextm;MEX-QROO;TrenMaya;;Car;Tren Maya (Playa del Carmen branch);mexqroo.trenmayacar;
