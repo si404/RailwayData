@@ -417,6 +417,15 @@ jpnfuni;JPN;Japan Funiculars;TMyellow;5;preview
 jpntour;JPN;Japan Tourist/Heritage Railroads;TMyellow;5;preview
 luxcfl;LUX;Société Nationale des Chemins de Fer Luxembourgeois;TMgreen;2;preview
 luxst;LUX;Stater Tram;TMred;4;preview
+mexchp;MEX;Chepe;TMpurple;1;preview
+mexciit;MEX;Corredor Interoceánico del Istmo de Tehuantepec;TMpurple;1;preview
+mextm;MEX;Tren Maya;TMpurple;1;preview
+mexfs;MEX;Ferrocarriles Suburbanos;TMgreen;2;preview
+mexins;MEX;El Insurgente;TMgreen;2;preview
+mexsiteur;MEX;Sistema de Tren Eléctrico Urbano (Guadalajara);TMblue;3;preview
+mexstc;MEX;Sistema de Transporte Colectivo (Ciudad de México);TMblue;3;preview
+mexstcm;MEX;Sistema de Transporte Colectivo Metrorrey;TMblue;3;preview
+mexste;MEX;Servicio de Transportes Eléctricos (Ciudad de México);TMred;4;preview
 nldic;NLD;Netherlands Intercity;TMpurple;1;preview
 nldre;NLD;Netherlands Sneltrein;TMgreen;2;preview
 nldrs;NLD;Netherlands Sprinter / Stoptrein;TMgreen;2;preview
