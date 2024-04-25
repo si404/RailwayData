@@ -1,4 +1,4 @@
-e﻿System;CountryCode;Name;Color;Tier;Level
+﻿System;CountryCode;Name;Color;Tier;Level
 ausnswtl;AUS;New South Wales TrainLink;TMpurple;1;preview
 ausqrt;AUS;Queensland Rail Traveltrain;TMpurple;1;preview
 austwa;AUS;Transwa;TMpurple;1;preview
@@ -45,12 +45,24 @@ belgt;BEL;Gentse tram;TMred;4;preview
 belkt;BEL;Kusttram;TMred;4;preview
 bgrsm;BGR;Sofiyski Metropoliten;TMblue;3;preview
 bgrst;BGR;Sofiyski Trams;TMred;4;preview
+canvia;CAN;VIA Rail;TMpurple;1;preview
+canexo;CAN;Exo;TMgreen;2;preview
 cango;CAN;GO Transit;TMgreen;2;preview
+cankrc;CAN;Keewatin Railway Company;TMgreen;2;preview
+canonr;CAN;Ontario Northland Railway;TMgreen;2;preview
+cantsh;CAN;Tshiuetin Rail Transportation;TMgreen;2;preview
+cantst;CAN;Tsal'alh Seton Train;TMgreen;2;preview
+canwce;CAN;West Coast Express;TMgreen;2;preview
+canmvrd;CAN;Metro Vancouver Regional District;TMblue;3;preview
 canstm;CAN;Montreal Metro;TMblue;3;preview
 canttc;CAN;Toronto Subway;TMblue;3;preview
+canct;CAN;Calgary Transit;TMred;4;preview
+canets;CAN;Edmonton Transit Service;TMred;4;preview
 canion;CAN;ION Light Rail;TMred;4;preview
+canot;CAN;O-Train;TMred;4;preview
 canrem;CAN;Montreal Réseau Express Métropolitain;TMred;4;preview
 canair;CAN;Canada Landside Airport Rail Systems;TMyellow;5;preview
+canedmsc;CAN;Edmonton Streetcars;TMyellow;5;preview
 cantsc;CAN;Toronto Streetcars;TMyellow;5;preview
 cheags;CHE;S-Bahn Aargau;TMgreen;2;preview
 chebes;CHE;S-Bahn Bern / RER Berne;TMgreen;2;preview
@@ -405,6 +417,15 @@ jpnfuni;JPN;Japan Funiculars;TMyellow;5;preview
 jpntour;JPN;Japan Tourist/Heritage Railroads;TMyellow;5;preview
 luxcfl;LUX;Société Nationale des Chemins de Fer Luxembourgeois;TMgreen;2;preview
 luxst;LUX;Stater Tram;TMred;4;preview
+mexchp;MEX;Chepe;TMpurple;1;preview
+mexciit;MEX;Corredor Interoceánico del Istmo de Tehuantepec;TMpurple;1;preview
+mextm;MEX;Tren Maya;TMpurple;1;preview
+mexfs;MEX;Ferrocarriles Suburbanos;TMgreen;2;preview
+mexins;MEX;El Insurgente;TMgreen;2;preview
+mexsiteur;MEX;Sistema de Tren Eléctrico Urbano (Guadalajara);TMblue;3;preview
+mexstc;MEX;Sistema de Transporte Colectivo (Ciudad de México);TMblue;3;preview
+mexstcm;MEX;Sistema de Transporte Colectivo Metrorrey;TMblue;3;preview
+mexste;MEX;Servicio de Transportes Eléctricos (Ciudad de México);TMred;4;preview
 nldic;NLD;Netherlands Intercity;TMpurple;1;preview
 nldre;NLD;Netherlands Sneltrein;TMgreen;2;preview
 nldrs;NLD;Netherlands Sprinter / Stoptrein;TMgreen;2;preview
@@ -465,6 +486,7 @@ turib;TUR;İstanbul Banliyö Treni;TMgreen;2;preview
 turim;TUR;İstanbul Metrosu;TMblue;3;preview
 turit;TUR;İstanbul Tramvayı;TMred;4;preview
 turif;TUR;İstanbul Füniküleri;TMyellow;5;preview
+usaarr;USA;Alaska Railroad;TMpurple;1;preview
 usablfx;USA;Brightline;TMgreen;2;preview
 usacfr;USA;SunRail;TMgreen;2;preview
 usacndx;USA;CTrail;TMgreen;2;preview
@@ -536,6 +558,8 @@ usasrt;USA;Sacramento RT Light Rail;TMred;4;preview
 usavta;USA;VTA Light Rail;TMred;4;preview
 usabsda;USA;Bi-State Development Agency;TMred;4;preview
 usanorta;USA;New Orleans Regional Transit Authority;TMred;4;preview
+usamax;USA;MAX Light Rail;TMred;4;preview
+usastlr;USA;Sound Transit Light Rail;TMred;4;preview
 usaair;USA;United States Landside Airport Rail Systems;TMyellow;5;preview
 usahart;USA;TECO Line Streetcar Tampa;TMyellow;5;preview
 usahunhts;USA;Huntsville Hospital Tram System;TMyellow;5;preview
@@ -563,4 +587,9 @@ usagal;USA;Galveston Island Trolley;TMyellow;5;preview
 usamck;USA;McKinney Avenue Transit Authority;TMyellow;5;preview
 usakensc;USA;Kenosha Streetcar;TMyellow;5;preview
 usamkehop;USA;Milwaukee Hop;TMyellow;5;preview
+usapsc;USA;Portland Streetcar;TMyellow;5;preview
+usawst;USA;Willamette Shore Trolley;TMyellow;5;preview
+usascm;USA;Seattle Center Monorail;TMyellow;5;preview
+usassc;USA;Seattle Streetcars;TMyellow;5;preview
 usaamtk;USA;EASTER EGG Amtrak;TMgrey;1;preview
+nawpy;NA;White Pass & Yukon Route Railway;TMyellow;5;preview

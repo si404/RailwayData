@@ -1,0 +1,4 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+canets;AB;CapLn;;;Capital Line;ab.capln;
+canets;AB;MetLn;;;Metro Line;ab.metln;
+canets;AB;ValLn;;;Valley Line;ab.valln;

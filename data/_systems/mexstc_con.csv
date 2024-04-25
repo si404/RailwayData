@@ -1,0 +1,16 @@
+systemName;route;banner;groupName;roots
+mexstc;1;;1;mexdf.01
+mexstc;2;;2;mexemex.02
+mexstc;2;;2;mexdf.02
+mexstc;3;;3;mexdf.03
+mexstc;4;;4;mexdf.04
+mexstc;5;;5;mexdf.05
+mexstc;6;;6;mexdf.06
+mexstc;7;;7;mexdf.07
+mexstc;8;;8;mexdf.08
+mexstc;9;;9;mexdf.09
+mexstc;A;;A;mexdf.a
+mexstc;A;;A;mexemex.a
+mexstc;B;;B;mexemex.b
+mexstc;B;;B;mexdf.b
+mexstc;12;;12;mexdf.12
