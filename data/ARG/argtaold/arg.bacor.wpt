@@ -86,11 +86,13 @@ RosSur http://www.openstreetmap.org/?lat=-33.009887&lon=-60.649874
 +X934498 http://www.openstreetmap.org/?lat=-32.966277&lon=-60.736692
 +SKIP_BarVila http://www.openstreetmap.org/?lat=-32.941466&lon=-60.707681
 +DIV_Cor http://www.openstreetmap.org/?lat=-32.930904&lon=-60.694013
++DIV_Tuc_S http://www.openstreetmap.org/?lat=-32.931444&lon=-60.688380
 +SKIP_Lud_S http://www.openstreetmap.org/?lat=-32.931687&lon=-60.686159
 +SKIP_CruAlb_S http://www.openstreetmap.org/?lat=-32.933128&lon=-60.672351
 RosNor http://www.openstreetmap.org/?lat=-32.930624&lon=-60.657803
 +SKIP_CruAlb_N http://www.openstreetmap.org/?lat=-32.933128&lon=-60.672351
 +SKIP_Lud_N http://www.openstreetmap.org/?lat=-32.931687&lon=-60.686159
++DIV_Tuc_N http://www.openstreetmap.org/?lat=-32.931444&lon=-60.688380
 +DIV_BA http://www.openstreetmap.org/?lat=-32.930904&lon=-60.694013
 +SKIP_Km9 http://www.openstreetmap.org/?lat=-32.927612&lon=-60.726162
 +SKIP_AntArg http://www.openstreetmap.org/?lat=-32.926275&lon=-60.739074
