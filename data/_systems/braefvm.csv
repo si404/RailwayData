@@ -1,3 +1,4 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
 braefvm;BRA-ES;VitMin;;;Estrada de Ferro Vitória a Minas;braes.vitmin;
 braefvm;BRA-MG;VitMin;;;Estrada de Ferro Vitória a Minas;bramg.vitmin;
 braefvm;BRA-MG;VitMin;;Ita;Estrada de Ferro Vitória a Minas (Itabira);bramg.vitminita;
