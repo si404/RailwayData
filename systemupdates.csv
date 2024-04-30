@@ -1,4 +1,41 @@
 ﻿date;region;systemName;description;statusChange
+2024-04-29;Argentina;argbs;Línea Belgrano Sur;preview
+2024-04-29;Argentina;argmetmen;Metrotranvía (Mendoza);preview
+2024-04-29;Argentina;argmit;Línea Mitre;preview
+2024-04-29;Argentina;argroca;Línea Roca;preview
+2024-04-29;Argentina;argsar;Línea Sarmiento;preview
+2024-04-29;Argentina;argsm;Línea San Martín;preview
+2024-04-29;Argentina;argsub;Subte (Buenos Aires);preview
+2024-04-29;Argentina;argsubp;Subte (Premetro) (Buenos Aires);preview
+2024-04-29;Argentina;argtad;Tren al Desarrollo;preview
+2024-04-29;Argentina;argtaold;Trenes Argentinos Operaciones (larga distancia);preview
+2024-04-29;Argentina;argtaor;Trenes Argentinos Operaciones (regionales e internacional);preview
+2024-04-29;Argentina;argtc;Tren de la Costa;preview
+2024-04-29;Argentina;argurq;Línea Urquiza;preview
+2024-04-29;Brasil;braair;Brasil Landside Airport Rail Systems;preview
+2024-04-29;Brasil;braefc;Estrada de Ferro Carajás;preview
+2024-04-29;Brasil;braefvm;Estrada de Ferro Vitória a Minas;preview
+2024-04-29;(Brasil) Alagoas;bracbtumac;Companhia Brasileira de Trens Urbanos (Maceió);preview
+2024-04-29;(Brasil) Bahia;brametba;Metrô Bahia;preview
+2024-04-29;(Brasil) Ceará;bramfor;Metrô Fortaleza;preview
+2024-04-29;(Brasil) Ceará;bramforvlt;Metrô Fortaleza (VLT);preview
+2024-04-29;(Brasil) Distrito Federal;bramdf;Metrô DF;preview
+2024-04-29;(Brasil) Minas Gerais;brambh;Metrô BH;preview
+2024-04-29;(Brasil) Paraiba;bracbtujp;Companhia Brasileira de Trens Urbanos (João Pessoa);preview
+2024-04-29;(Brasil) Pernambuco;brametrec;Metrô do Recife;preview
+2024-04-29;(Brasil) Pernambuco;bravltrec;Metrô do Recife (VLT);preview
+2024-04-29;(Brasil) Piauí;brametter;Metrô de Teresina;preview
+2024-04-29;(Brasil) Rio de Janeiro;brametrio;MetrôRio;preview
+2024-04-29;(Brasil) Rio de Janeiro;brasv;SuperVia;preview
+2024-04-29;(Brasil) Rio de Janeiro;bratc;Trem do Corcovado;preview
+2024-04-29;(Brasil) Rio de Janeiro;bravltrio;VLT Carioca;preview
+2024-04-29;(Brasil) Rio Grande do Norte;bracbtunat;Companhia Brasileira de Trens Urbanos (Natal);preview
+2024-04-29;(Brasil) Rio Grande do Sul;bratu;Trensurb;preview
+2024-04-29;(Brasil) São Paulo;braemtu;Empresa Metropolitana de Transportes Urbanos de São Paulo;preview
+2024-04-29;(Brasil) São Paulo;braet;Expresso Turístico da CPTM;preview
+2024-04-29;(Brasil) São Paulo;brametsp;Metrô de São Paulo;preview
+2024-04-29;(Brasil) São Paulo;bratmsp;Trem Metropolitano de São Paulo;preview
+2024-04-29;Uruguay;uryafe;Administración de Ferrocarriles del Estado;preview
 2024-04-23;Mexico;mexchp;Chepe;preview
 2024-04-23;Mexico;mexciit;Corredor Interoceánico del Istmo de Tehuantepec;preview
 2024-04-23;Mexico;mexfs;Ferrocarriles Suburbanos;preview

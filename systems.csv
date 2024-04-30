@@ -1,4 +1,17 @@
 ﻿System;CountryCode;Name;Color;Tier;Level
+argtaold;ARG;Trenes Argentinos Operaciones (larga distancia);TMpurple;1;preview
+argtaor;ARG;Trenes Argentinos Operaciones (regionales e internacional);TMgreen;2;preview
+argbs;ARG;Línea Belgrano Sur;TMgreen;2;preview
+argmit;ARG;Línea Mitre;TMgreen;2;preview
+argroca;ARG;Línea Roca;TMgreen;2;preview
+argsar;ARG;Línea Sarmiento;TMgreen;2;preview
+argsm;ARG;Línea San Martín;TMgreen;2;preview
+argtad;ARG;Tren al Desarrollo;TMgreen;2;preview
+argurq;ARG;Línea Urquiza;TMgreen;2;preview
+argsub;ARG;Subte (Buenos Aires);TMblue;3;preview
+argmetmen;ARG;Metrotranvía (Mendoza);TMred;4;preview
+argsubp;ARG;Subte (Premetro) (Buenos Aires);TMred;4;preview
+argtc;ARG;Tren de la Costa;TMred;4;preview
 ausnswtl;AUS;New South Wales TrainLink;TMpurple;1;preview
 ausqrt;AUS;Queensland Rail Traveltrain;TMpurple;1;preview
 austwa;AUS;Transwa;TMpurple;1;preview
@@ -45,6 +58,29 @@ belgt;BEL;Gentse tram;TMred;4;preview
 belkt;BEL;Kusttram;TMred;4;preview
 bgrsm;BGR;Sofiyski Metropoliten;TMblue;3;preview
 bgrst;BGR;Sofiyski Trams;TMred;4;preview
+braefc;BRA;Estrada de Ferro Carajás;TMpurple;1;preview
+braefvm;BRA;Estrada de Ferro Vitória a Minas;TMpurple;1;preview
+braet;BRA;Expresso Turístico da CPTM;TMgreen;2;preview
+brasv;BRA;SuperVia;TMgreen;2;preview
+bratmsp;BRA;Trem Metropolitano de São Paulo;TMgreen;2;preview
+brametba;BRA;Metrô Bahia;TMblue;3;preview
+brambh;BRA;Metrô BH;TMblue;3;preview
+bramdf;BRA;Metrô DF;TMblue;3;preview
+bramfor;BRA;Metrô Fortaleza;TMblue;3;preview
+brametrec;BRA;Metrô do Recife;TMblue;3;preview
+brametrio;BRA;MetrôRio;TMblue;3;preview
+brametsp;BRA;Metrô de São Paulo;TMblue;3;preview
+bratu;BRA;Trensurb;TMblue;3;preview
+bracbtujp;BRA;Companhia Brasileira de Trens Urbanos (João Pessoa);TMred;4;preview
+bracbtumac;BRA;Companhia Brasileira de Trens Urbanos (Maceió);TMred;4;preview
+bracbtunat;BRA;Companhia Brasileira de Trens Urbanos (Natal);TMred;4;preview
+braemtu;BRA;Empresa Metropolitana de Transportes Urbanos de São Paulo;TMred;4;preview
+bramforvlt;BRA;Metrô Fortaleza (VLT);TMred;4;preview
+bravltrec;BRA;Metrô do Recife (VLT);TMred;4;preview
+brametter;BRA;Metrô de Teresina;TMred;4;preview
+bravltrio;BRA;VLT Carioca;TMred;4;preview
+braair;BRA;Brasil Landside Airport Rail Systems;TMyellow;5;preview
+bratc;BRA;Trem do Corcovado;TMyellow;5;preview
 canvia;CAN;VIA Rail;TMpurple;1;preview
 canexo;CAN;Exo;TMgreen;2;preview
 cango;CAN;GO Transit;TMgreen;2;preview
@@ -486,6 +522,7 @@ turib;TUR;İstanbul Banliyö Treni;TMgreen;2;preview
 turim;TUR;İstanbul Metrosu;TMblue;3;preview
 turit;TUR;İstanbul Tramvayı;TMred;4;preview
 turif;TUR;İstanbul Füniküleri;TMyellow;5;preview
+uryafe;URY;Administración de Ferrocarriles del Estado;TMpurple;1;preview
 usaarr;USA;Alaska Railroad;TMpurple;1;preview
 usablfx;USA;Brightline;TMgreen;2;preview
 usacfr;USA;SunRail;TMgreen;2;preview
