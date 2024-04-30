@@ -58,6 +58,7 @@ belgt;BEL;Gentse tram;TMred;4;preview
 belkt;BEL;Kusttram;TMred;4;preview
 bgrsm;BGR;Sofiyski Metropoliten;TMblue;3;preview
 bgrst;BGR;Sofiyski Trams;TMred;4;preview
+bolmtc;BOL;Mi Tren Cochabamba;TMred;4;preview
 braefc;BRA;Estrada de Ferro Carajás;TMpurple;1;preview
 braefvm;BRA;Estrada de Ferro Vitória a Minas;TMpurple;1;preview
 braet;BRA;Expresso Turístico da CPTM;TMgreen;2;preview
@@ -71,6 +72,7 @@ brametrec;BRA;Metrô do Recife;TMblue;3;preview
 brametrio;BRA;MetrôRio;TMblue;3;preview
 brametsp;BRA;Metrô de São Paulo;TMblue;3;preview
 bratu;BRA;Trensurb;TMblue;3;preview
+brabst;BRA;Bonde de Santa Teresa;TMred;4;preview
 bracbtujp;BRA;Companhia Brasileira de Trens Urbanos (João Pessoa);TMred;4;preview
 bracbtumac;BRA;Companhia Brasileira de Trens Urbanos (Maceió);TMred;4;preview
 bracbtunat;BRA;Companhia Brasileira de Trens Urbanos (Natal);TMred;4;preview
@@ -119,6 +121,13 @@ chebet;CHE;Strassenbahn Bern / Tramway de Berne;TMred;4;preview
 chebst;CHE;Basler Tramlinien / Tramway de Bâle;TMred;4;preview
 cheget;CHE;Tramway de Genève;TMred;4;preview
 chezht;CHE;Strassenbahn Zürich;TMred;4;preview
+chlefer;CHL;Empresa de los Ferrocarriles del Estado (regional);TMpurple;1;preview
+chlefep;CHL;Empresa de los Ferrocarriles del Estado (provincial);TMpurple;1;preview
+chlefes;CHL;Empresa de los Ferrocarriles del Estado (suburbanos);TMgreen;2;preview
+chlefeu;CHL;Empresa de los Ferrocarriles del Estado (urbanos);TMgreen;2;preview
+chlms;CHL;Metro de Santiago;TMblue;3;preview
+colmm;COL;Metro de Medellín;TMblue;3;preview
+colmmt;COL;Metro de Medellín (tranvía);TMred;4;preview
 czeduk;CZE;Doprava Ústeckého kraje;TMgreen;2;preview
 czedukt;CZE;Doprava Ústeckého kraje (Turistické linky);TMbrown;2;preview
 czeem;CZE;Esko v Moravskoslezském kraji;TMgreen;2;preview
@@ -208,6 +217,8 @@ deuddb;DEU;Bergbahnen Dresden;TMyellow;5;preview
 deunwh;DEU;Hängebahn Dortmund;TMyellow;5;preview
 dnkks;DNK;Københavns S-tog;TMgreen;2;preview
 dnkkm;DNK;Københavns Metro;TMblue;3;preview
+ecumq;ECU;Metro de Quito;TMblue;3;preview
+ecutc;ECU;Tranvia Cuenca;TMred;4;preview
 espca;ESP;Cercanías Asturias;TMgreen;2;preview
 espcc;ESP;Cercanías Cádiz;TMgreen;2;preview
 espcm;ESP;Cercanías Madrid;TMgreen;2;preview
@@ -482,6 +493,7 @@ norto;NOR;Trikken i Oslo;TMred;4;preview
 nzlatm;NZL;Auckland Transport Metro;TMgreen;2;preview
 nzlkr;NZL;Kiwi Rail;TMgreen;2;preview
 nzlwm;NZL;Wellington Metrolink;TMgreen;2;preview
+perml;PER;Metro de Lima;TMblue;3;preview
 polksl;POL;Koleje Śląskie;TMgreen;2;preview
 polpkm;POL;Poznańska Kolej Metropolitalna;TMgreen;2;preview
 polskam;POL;Szybka Kolej Aglomeracyjna w Aglomeracji Krakowskiej;TMgreen;2;preview
