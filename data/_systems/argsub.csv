@@ -1,3 +1,4 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
 argsub;ARG;A;;;Línea A;arg.a;
 argsub;ARG;B;;;Línea B;arg.b;
 argsub;ARG;C;;;Línea C;arg.c;
