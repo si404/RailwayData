@@ -417,6 +417,15 @@ jpnfuni;JPN;Japan Funiculars;TMyellow;5;preview
 jpntour;JPN;Japan Tourist/Heritage Railroads;TMyellow;5;preview
 luxcfl;LUX;Société Nationale des Chemins de Fer Luxembourgeois;TMgreen;2;preview
 luxst;LUX;Stater Tram;TMred;4;preview
+mexchp;MEX;Chepe;TMpurple;1;preview
+mexciit;MEX;Corredor Interoceánico del Istmo de Tehuantepec;TMpurple;1;preview
+mextm;MEX;Tren Maya;TMpurple;1;preview
+mexfs;MEX;Ferrocarriles Suburbanos;TMgreen;2;preview
+mexins;MEX;El Insurgente;TMgreen;2;preview
+mexsiteur;MEX;Sistema de Tren Eléctrico Urbano (Guadalajara);TMblue;3;preview
+mexstc;MEX;Sistema de Transporte Colectivo (Ciudad de México);TMblue;3;preview
+mexstcm;MEX;Sistema de Transporte Colectivo Metrorrey;TMblue;3;preview
+mexste;MEX;Servicio de Transportes Eléctricos (Ciudad de México);TMred;4;preview
 nldic;NLD;Netherlands Intercity;TMpurple;1;preview
 nldre;NLD;Netherlands Sneltrein;TMgreen;2;preview
 nldrs;NLD;Netherlands Sprinter / Stoptrein;TMgreen;2;preview
@@ -551,6 +560,7 @@ usabsda;USA;Bi-State Development Agency;TMred;4;preview
 usanorta;USA;New Orleans Regional Transit Authority;TMred;4;preview
 usamax;USA;MAX Light Rail;TMred;4;preview
 usastlr;USA;Sound Transit Light Rail;TMred;4;preview
+usaebart;USA;East Contra Costa County BART Extension;TMred;4;preview
 usaair;USA;United States Landside Airport Rail Systems;TMyellow;5;preview
 usahart;USA;TECO Line Streetcar Tampa;TMyellow;5;preview
 usahunhts;USA;Huntsville Hospital Tram System;TMyellow;5;preview
