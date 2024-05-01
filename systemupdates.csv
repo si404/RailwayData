@@ -1,4 +1,16 @@
 ﻿date;region;systemName;description;statusChange
+2024-04-30;Bolivia;bolmtc;Mi Tren Cochabamba;preview
+2024-04-30;(Brasil) Rio de Janeiro;brabst;Bonde de Santa Teresa;preview
+2024-04-30;Chile;chlefep;Empresa de los Ferrocarriles del Estado (provincial);preview
+2024-04-30;Chile;chlefer;Empresa de los Ferrocarriles del Estado (regional);preview
+2024-04-30;Chile;chlefes;Empresa de los Ferrocarriles del Estado (suburbanos);preview
+2024-04-30;Chile;chlefeu;Empresa de los Ferrocarriles del Estado (urbanos);preview
+2024-04-30;Chile;chlms;Metro de Santiago;preview
+2024-04-30;Colombia;colmm;Metro de Medellín;preview
+2024-04-30;Colombia;colmmt;Metro de Medellín (tranvía);preview
+2024-04-30;Ecuador;ecumq;Metro de Quito;preview
+2024-04-30;Ecuador;ecutc;Tranvia Cuenca;preview
+2024-04-30;Peru;perml;Metro de Lima;preview
 2024-04-29;Argentina;argbs;Línea Belgrano Sur;preview
 2024-04-29;Argentina;argmetmen;Metrotranvía (Mendoza);preview
 2024-04-29;Argentina;argmit;Línea Mitre;preview
