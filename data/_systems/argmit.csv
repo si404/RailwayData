@@ -1,0 +1,6 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+argmit;ARG;BalZar;;;Villa Ballester - Zárate;arg.balzar;
+argmit;ARG;RetMit;;;Retiro - Bartolomé Mitre;arg.retmit;
+argmit;ARG;RetSua;;;Retiro - José León Suárez;arg.retsua;
+argmit;ARG;RetTig;;;Retiro - Tigre;arg.rettig;
+argmit;ARG;VicCap;;;Victoria - Capilla del Señor;arg.viccap;

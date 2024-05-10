@@ -1,0 +1,13 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+argroca;ARG;BosGut;;;Bosques - Gutiérrez;arg.bosgut;
+argroca;ARG;CanLob;;;Cañuelas - Lobos;arg.canlob;
+argroca;ARG;CanMon;;;Cañuelas - Monte;arg.canmon;
+argroca;ARG;ConBosQui;;;Plaza Constitución - Bosques (vía Quilmes);arg.conbosqui;
+argroca;ARG;ConBosTem;;;Plaza Constitución - Bosques (vía Temperley);arg.conbostem;
+argroca;ARG;ConEze;;;Plaza Constitución - Ezeiza;arg.coneze;
+argroca;ARG;ConGlewKorn;;;Plaza Constitución - Glew - Alejandro Korn;arg.conglewkorn;
+argroca;ARG;ConPla;;;Plaza Constitución - La Plata;arg.conpla;
+argroca;ARG;EzeCan;;;Ezeiza - Cañuelas;arg.ezecan;
+argroca;ARG;KornCha;;;Alejandro Korn - Chascomús;arg.korncha;
+argroca;ARG;TemHae;;;Temperley - Haedo;arg.temhae;
+argroca;ARG;TrenUni;;;Tren Universitario;arg.trenuni;
