@@ -17,8 +17,11 @@ ForHill http://www.openstreetmap.org/?lat=37.747974&lon=-122.459101
 Cas http://www.openstreetmap.org/?lat=37.762577&lon=-122.435305
 Chu http://www.openstreetmap.org/?lat=37.767301&lon=-122.429425
 +DIV_JN http://www.openstreetmap.org/?lat=37.769672&lon=-122.426287
-VanNess http://www.openstreetmap.org/?lat=37.775366&lon=-122.419351
-CivCen http://www.openstreetmap.org/?lat=37.779305&lon=-122.414297
-Pow http://www.openstreetmap.org/?lat=37.784923&lon=-122.407053
-Mon http://www.openstreetmap.org/?lat=37.789266&lon=-122.401527
-Emb http://www.openstreetmap.org/?lat=37.793069&lon=-122.396764
+VanNess http://www.openstreetmap.org/?lat=37.775277&lon=-122.419292
+CivCen http://www.openstreetmap.org/?lat=37.779314&lon=-122.413981
++X30 http://www.openstreetmap.org/?lat=37.782723&lon=-122.409791
+PowSt http://www.openstreetmap.org/?lat=37.784639&lon=-122.407222
++X31 http://www.openstreetmap.org/?lat=37.787255&lon=-122.404148
+MonSt http://www.openstreetmap.org/?lat=37.789213&lon=-122.401477
++X32 http://www.openstreetmap.org/?lat=37.791104&lon=-122.399148
+Emb http://www.openstreetmap.org/?lat=37.792855&lon=-122.396906

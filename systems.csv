@@ -1,4 +1,17 @@
 ﻿System;CountryCode;Name;Color;Tier;Level
+argtaold;ARG;Trenes Argentinos Operaciones (larga distancia);TMpurple;1;preview
+argtaor;ARG;Trenes Argentinos Operaciones (regionales e internacional);TMgreen;2;preview
+argbs;ARG;Línea Belgrano Sur;TMgreen;2;preview
+argmit;ARG;Línea Mitre;TMgreen;2;preview
+argroca;ARG;Línea Roca;TMgreen;2;preview
+argsar;ARG;Línea Sarmiento;TMgreen;2;preview
+argsm;ARG;Línea San Martín;TMgreen;2;preview
+argtad;ARG;Tren al Desarrollo;TMgreen;2;preview
+argurq;ARG;Línea Urquiza;TMgreen;2;preview
+argsub;ARG;Subte (Buenos Aires);TMblue;3;preview
+argmetmen;ARG;Metrotranvía (Mendoza);TMred;4;preview
+argsubp;ARG;Subte (Premetro) (Buenos Aires);TMred;4;preview
+argtc;ARG;Tren de la Costa;TMred;4;preview
 ausnswtl;AUS;New South Wales TrainLink;TMpurple;1;preview
 ausqrt;AUS;Queensland Rail Traveltrain;TMpurple;1;preview
 austwa;AUS;Transwa;TMpurple;1;preview
@@ -45,12 +58,49 @@ belgt;BEL;Gentse tram;TMred;4;preview
 belkt;BEL;Kusttram;TMred;4;preview
 bgrsm;BGR;Sofiyski Metropoliten;TMblue;3;preview
 bgrst;BGR;Sofiyski Trams;TMred;4;preview
+bolmtc;BOL;Mi Tren Cochabamba;TMred;4;preview
+braefc;BRA;Estrada de Ferro Carajás;TMpurple;1;preview
+braefvm;BRA;Estrada de Ferro Vitória a Minas;TMpurple;1;preview
+braet;BRA;Expresso Turístico da CPTM;TMgreen;2;preview
+brasv;BRA;SuperVia;TMgreen;2;preview
+bratmsp;BRA;Trem Metropolitano de São Paulo;TMgreen;2;preview
+brametba;BRA;Metrô Bahia;TMblue;3;preview
+brambh;BRA;Metrô BH;TMblue;3;preview
+bramdf;BRA;Metrô DF;TMblue;3;preview
+bramfor;BRA;Metrô Fortaleza;TMblue;3;preview
+brametrec;BRA;Metrô do Recife;TMblue;3;preview
+brametrio;BRA;MetrôRio;TMblue;3;preview
+brametsp;BRA;Metrô de São Paulo;TMblue;3;preview
+bratu;BRA;Trensurb;TMblue;3;preview
+brabst;BRA;Bonde de Santa Teresa;TMred;4;preview
+bracbtujp;BRA;Companhia Brasileira de Trens Urbanos (João Pessoa);TMred;4;preview
+bracbtumac;BRA;Companhia Brasileira de Trens Urbanos (Maceió);TMred;4;preview
+bracbtunat;BRA;Companhia Brasileira de Trens Urbanos (Natal);TMred;4;preview
+braemtu;BRA;Empresa Metropolitana de Transportes Urbanos de São Paulo;TMred;4;preview
+bramforvlt;BRA;Metrô Fortaleza (VLT);TMred;4;preview
+bravltrec;BRA;Metrô do Recife (VLT);TMred;4;preview
+brametter;BRA;Metrô de Teresina;TMred;4;preview
+bravltrio;BRA;VLT Carioca;TMred;4;preview
+braair;BRA;Brasil Landside Airport Rail Systems;TMyellow;5;preview
+bratc;BRA;Trem do Corcovado;TMyellow;5;preview
+canvia;CAN;VIA Rail;TMpurple;1;preview
+canexo;CAN;Exo;TMgreen;2;preview
 cango;CAN;GO Transit;TMgreen;2;preview
+cankrc;CAN;Keewatin Railway Company;TMgreen;2;preview
+canonr;CAN;Ontario Northland Railway;TMgreen;2;preview
+cantsh;CAN;Tshiuetin Rail Transportation;TMgreen;2;preview
+cantst;CAN;Tsal'alh Seton Train;TMgreen;2;preview
+canwce;CAN;West Coast Express;TMgreen;2;preview
+canmvrd;CAN;Metro Vancouver Regional District;TMblue;3;preview
 canstm;CAN;Montreal Metro;TMblue;3;preview
 canttc;CAN;Toronto Subway;TMblue;3;preview
+canct;CAN;Calgary Transit;TMred;4;preview
+canets;CAN;Edmonton Transit Service;TMred;4;preview
 canion;CAN;ION Light Rail;TMred;4;preview
+canot;CAN;O-Train;TMred;4;preview
 canrem;CAN;Montreal Réseau Express Métropolitain;TMred;4;preview
 canair;CAN;Canada Landside Airport Rail Systems;TMyellow;5;preview
+canedmsc;CAN;Edmonton Streetcars;TMyellow;5;preview
 cantsc;CAN;Toronto Streetcars;TMyellow;5;preview
 cheags;CHE;S-Bahn Aargau;TMgreen;2;preview
 chebes;CHE;S-Bahn Bern / RER Berne;TMgreen;2;preview
@@ -71,6 +121,13 @@ chebet;CHE;Strassenbahn Bern / Tramway de Berne;TMred;4;preview
 chebst;CHE;Basler Tramlinien / Tramway de Bâle;TMred;4;preview
 cheget;CHE;Tramway de Genève;TMred;4;preview
 chezht;CHE;Strassenbahn Zürich;TMred;4;preview
+chlefer;CHL;Empresa de los Ferrocarriles del Estado (regional);TMpurple;1;preview
+chlefep;CHL;Empresa de los Ferrocarriles del Estado (provincial);TMpurple;1;preview
+chlefes;CHL;Empresa de los Ferrocarriles del Estado (suburbanos);TMgreen;2;preview
+chlefeu;CHL;Empresa de los Ferrocarriles del Estado (urbanos);TMgreen;2;preview
+chlms;CHL;Metro de Santiago;TMblue;3;preview
+colmm;COL;Metro de Medellín;TMblue;3;preview
+colmmt;COL;Metro de Medellín (tranvía);TMred;4;preview
 czeduk;CZE;Doprava Ústeckého kraje;TMgreen;2;preview
 czedukt;CZE;Doprava Ústeckého kraje (Turistické linky);TMbrown;2;preview
 czeem;CZE;Esko v Moravskoslezském kraji;TMgreen;2;preview
@@ -160,6 +217,8 @@ deuddb;DEU;Bergbahnen Dresden;TMyellow;5;preview
 deunwh;DEU;Hängebahn Dortmund;TMyellow;5;preview
 dnkks;DNK;Københavns S-tog;TMgreen;2;preview
 dnkkm;DNK;Københavns Metro;TMblue;3;preview
+ecumq;ECU;Metro de Quito;TMblue;3;preview
+ecutc;ECU;Tranvia Cuenca;TMred;4;preview
 espca;ESP;Cercanías Asturias;TMgreen;2;preview
 espcc;ESP;Cercanías Cádiz;TMgreen;2;preview
 espcm;ESP;Cercanías Madrid;TMgreen;2;preview
@@ -405,6 +464,15 @@ jpnfuni;JPN;Japan Funiculars;TMyellow;5;preview
 jpntour;JPN;Japan Tourist/Heritage Railroads;TMyellow;5;preview
 luxcfl;LUX;Société Nationale des Chemins de Fer Luxembourgeois;TMgreen;2;preview
 luxst;LUX;Stater Tram;TMred;4;preview
+mexchp;MEX;Chepe;TMpurple;1;preview
+mexciit;MEX;Corredor Interoceánico del Istmo de Tehuantepec;TMpurple;1;preview
+mextm;MEX;Tren Maya;TMpurple;1;preview
+mexfs;MEX;Ferrocarriles Suburbanos;TMgreen;2;preview
+mexins;MEX;El Insurgente;TMgreen;2;preview
+mexsiteur;MEX;Sistema de Tren Eléctrico Urbano (Guadalajara);TMblue;3;preview
+mexstc;MEX;Sistema de Transporte Colectivo (Ciudad de México);TMblue;3;preview
+mexstcm;MEX;Sistema de Transporte Colectivo Metrorrey;TMblue;3;preview
+mexste;MEX;Servicio de Transportes Eléctricos (Ciudad de México);TMred;4;preview
 nldic;NLD;Netherlands Intercity;TMpurple;1;preview
 nldre;NLD;Netherlands Sneltrein;TMgreen;2;preview
 nldrs;NLD;Netherlands Sprinter / Stoptrein;TMgreen;2;preview
@@ -425,6 +493,7 @@ norto;NOR;Trikken i Oslo;TMred;4;preview
 nzlatm;NZL;Auckland Transport Metro;TMgreen;2;preview
 nzlkr;NZL;Kiwi Rail;TMgreen;2;preview
 nzlwm;NZL;Wellington Metrolink;TMgreen;2;preview
+perml;PER;Metro de Lima;TMblue;3;preview
 polksl;POL;Koleje Śląskie;TMgreen;2;preview
 polpkm;POL;Poznańska Kolej Metropolitalna;TMgreen;2;preview
 polskam;POL;Szybka Kolej Aglomeracyjna w Aglomeracji Krakowskiej;TMgreen;2;preview
@@ -465,6 +534,8 @@ turib;TUR;İstanbul Banliyö Treni;TMgreen;2;preview
 turim;TUR;İstanbul Metrosu;TMblue;3;preview
 turit;TUR;İstanbul Tramvayı;TMred;4;preview
 turif;TUR;İstanbul Füniküleri;TMyellow;5;preview
+uryafe;URY;Administración de Ferrocarriles del Estado;TMpurple;1;preview
+usaarr;USA;Alaska Railroad;TMpurple;1;preview
 usablfx;USA;Brightline;TMgreen;2;preview
 usacfr;USA;SunRail;TMgreen;2;preview
 usacndx;USA;CTrail;TMgreen;2;preview
@@ -511,6 +582,8 @@ usacta;USA;Chicago L;TMblue;3;preview
 usalvm;USA;Las Vegas Monorail;TMblue;3;preview
 usalams;USA;L.A. Metro Subway;TMblue;3;preview
 usabart;USA;Bay Area Rapid Transit;TMblue;3;preview
+usaharthi;USA;Honolulu Authority for Rapid Transportation;TMblue;3;preview
+usatu;USA;Tren Urbano;TMblue;3;preview
 usablrl;USA;Baltimore Light RailLink;TMred;4;preview
 usanfta;USA;Buffalo Metro Rail;TMred;4;preview
 usadcsc;USA;DC Streetcar;TMred;4;preview
@@ -532,6 +605,11 @@ usartdz;USA;Denver RTD Light Rail;TMred;4;preview
 usamuni;USA;San Francisco MUNI Light Rail;TMred;4;preview
 usasrt;USA;Sacramento RT Light Rail;TMred;4;preview
 usavta;USA;VTA Light Rail;TMred;4;preview
+usabsda;USA;Bi-State Development Agency;TMred;4;preview
+usanorta;USA;New Orleans Regional Transit Authority;TMred;4;preview
+usamax;USA;MAX Light Rail;TMred;4;preview
+usastlr;USA;Sound Transit Light Rail;TMred;4;preview
+usaebart;USA;East Contra Costa County BART Extension;TMred;4;preview
 usaair;USA;United States Landside Airport Rail Systems;TMyellow;5;preview
 usahart;USA;TECO Line Streetcar Tampa;TMyellow;5;preview
 usahunhts;USA;Huntsville Hospital Tram System;TMyellow;5;preview
@@ -545,4 +623,23 @@ usasfcc;USA;San Francisco Cable Cars;TMyellow;5;preview
 usatsc;USA;Tempe Streetcar;TMyellow;5;preview
 usautas;USA;UTA S-Line;TMyellow;5;preview
 usawvuprt;USA;Morgantown Personal Rapid Transit;TMyellow;5;preview
+usarrm;USA;Rock Region Metro;TMyellow;5;preview
+usast;USA;Sun Tran;TMyellow;5;preview
+usaatlsc;USA;Atlanta Streetcar;TMyellow;5;preview
+usadpm;USA;Detroit People Mover;TMyellow;5;preview
+usaql;USA;QLine;TMyellow;5;preview
+usacc;USA;Cincinnati Connector;TMyellow;5;preview
+usaokcsc;USA;Oklahoma City Streetcar;TMyellow;5;preview
+usamata;USA;Memphis Area Transit Authority;TMyellow;5;preview
+usadsc;USA;Dallas Streetcar;TMyellow;5;preview
+usaelpsc;USA;El Paso Streetcar;TMyellow;5;preview
+usagal;USA;Galveston Island Trolley;TMyellow;5;preview
+usamck;USA;McKinney Avenue Transit Authority;TMyellow;5;preview
+usakensc;USA;Kenosha Streetcar;TMyellow;5;preview
+usamkehop;USA;Milwaukee Hop;TMyellow;5;preview
+usapsc;USA;Portland Streetcar;TMyellow;5;preview
+usawst;USA;Willamette Shore Trolley;TMyellow;5;preview
+usascm;USA;Seattle Center Monorail;TMyellow;5;preview
+usassc;USA;Seattle Streetcars;TMyellow;5;preview
+nawpy;NA;White Pass & Yukon Route Railway;TMyellow;5;preview
 usaamtk;USA;Amtrak;TMgrey;1;devel

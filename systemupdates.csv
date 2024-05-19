@@ -1,4 +1,100 @@
 ﻿date;region;systemName;description;statusChange
+2024-04-30;Bolivia;bolmtc;Mi Tren Cochabamba;preview
+2024-04-30;(Brasil) Rio de Janeiro;brabst;Bonde de Santa Teresa;preview
+2024-04-30;Chile;chlefep;Empresa de los Ferrocarriles del Estado (provincial);preview
+2024-04-30;Chile;chlefer;Empresa de los Ferrocarriles del Estado (regional);preview
+2024-04-30;Chile;chlefes;Empresa de los Ferrocarriles del Estado (suburbanos);preview
+2024-04-30;Chile;chlefeu;Empresa de los Ferrocarriles del Estado (urbanos);preview
+2024-04-30;Chile;chlms;Metro de Santiago;preview
+2024-04-30;Colombia;colmm;Metro de Medellín;preview
+2024-04-30;Colombia;colmmt;Metro de Medellín (tranvía);preview
+2024-04-30;Ecuador;ecumq;Metro de Quito;preview
+2024-04-30;Ecuador;ecutc;Tranvia Cuenca;preview
+2024-04-30;Peru;perml;Metro de Lima;preview
+2024-04-29;Argentina;argbs;Línea Belgrano Sur;preview
+2024-04-29;Argentina;argmetmen;Metrotranvía (Mendoza);preview
+2024-04-29;Argentina;argmit;Línea Mitre;preview
+2024-04-29;Argentina;argroca;Línea Roca;preview
+2024-04-29;Argentina;argsar;Línea Sarmiento;preview
+2024-04-29;Argentina;argsm;Línea San Martín;preview
+2024-04-29;Argentina;argsub;Subte (Buenos Aires);preview
+2024-04-29;Argentina;argsubp;Subte (Premetro) (Buenos Aires);preview
+2024-04-29;Argentina;argtad;Tren al Desarrollo;preview
+2024-04-29;Argentina;argtaold;Trenes Argentinos Operaciones (larga distancia);preview
+2024-04-29;Argentina;argtaor;Trenes Argentinos Operaciones (regionales e internacional);preview
+2024-04-29;Argentina;argtc;Tren de la Costa;preview
+2024-04-29;Argentina;argurq;Línea Urquiza;preview
+2024-04-29;Brasil;braair;Brasil Landside Airport Rail Systems;preview
+2024-04-29;Brasil;braefc;Estrada de Ferro Carajás;preview
+2024-04-29;Brasil;braefvm;Estrada de Ferro Vitória a Minas;preview
+2024-04-29;(Brasil) Alagoas;bracbtumac;Companhia Brasileira de Trens Urbanos (Maceió);preview
+2024-04-29;(Brasil) Bahia;brametba;Metrô Bahia;preview
+2024-04-29;(Brasil) Ceará;bramfor;Metrô Fortaleza;preview
+2024-04-29;(Brasil) Ceará;bramforvlt;Metrô Fortaleza (VLT);preview
+2024-04-29;(Brasil) Distrito Federal;bramdf;Metrô DF;preview
+2024-04-29;(Brasil) Minas Gerais;brambh;Metrô BH;preview
+2024-04-29;(Brasil) Paraiba;bracbtujp;Companhia Brasileira de Trens Urbanos (João Pessoa);preview
+2024-04-29;(Brasil) Pernambuco;brametrec;Metrô do Recife;preview
+2024-04-29;(Brasil) Pernambuco;bravltrec;Metrô do Recife (VLT);preview
+2024-04-29;(Brasil) Piauí;brametter;Metrô de Teresina;preview
+2024-04-29;(Brasil) Rio de Janeiro;brametrio;MetrôRio;preview
+2024-04-29;(Brasil) Rio de Janeiro;brasv;SuperVia;preview
+2024-04-29;(Brasil) Rio de Janeiro;bratc;Trem do Corcovado;preview
+2024-04-29;(Brasil) Rio de Janeiro;bravltrio;VLT Carioca;preview
+2024-04-29;(Brasil) Rio Grande do Norte;bracbtunat;Companhia Brasileira de Trens Urbanos (Natal);preview
+2024-04-29;(Brasil) Rio Grande do Sul;bratu;Trensurb;preview
+2024-04-29;(Brasil) São Paulo;braemtu;Empresa Metropolitana de Transportes Urbanos de São Paulo;preview
+2024-04-29;(Brasil) São Paulo;braet;Expresso Turístico da CPTM;preview
+2024-04-29;(Brasil) São Paulo;brametsp;Metrô de São Paulo;preview
+2024-04-29;(Brasil) São Paulo;bratmsp;Trem Metropolitano de São Paulo;preview
+2024-04-29;Uruguay;uryafe;Administración de Ferrocarriles del Estado;preview
+2024-04-23;Mexico;mexchp;Chepe;preview
+2024-04-23;Mexico;mexciit;Corredor Interoceánico del Istmo de Tehuantepec;preview
+2024-04-23;Mexico;mexfs;Ferrocarriles Suburbanos;preview
+2024-04-23;Mexico;mexins;El Insurgente;preview
+2024-04-23;Mexico;mexsiteur;Sistema de Tren Eléctrico Urbano;preview
+2024-04-23;Mexico;mexstc;Sistema de Transporte Colectivo (Ciudad de México);preview
+2024-04-23;Mexico;mexstcm;Sistema de Transporte Colectivo Metrorrey;preview
+2024-04-23;Mexico;mexste;Servicio de Transportes Eléctricos (Ciudad de México);preview
+2024-04-23;Mexico;mextm;Tren Maya;preview
+2024-04-22;(Canada) British Columbia;canwce;West Coast Express;preview
+2024-04-22;(Canada) British Columbia;canmvrd;Metro Vancouver Regional District;preview
+2024-04-22;(USA) Alaska;usaarr;Alaska Railroad;preview
+2024-04-22;(USA) Oregon;usamax;MAX Light Rail;preview
+2024-04-22;(USA) Washington;usastlr;Sound Transit Light Rail;preview
+2024-04-22;(USA) Oregon;usapsc;Portland Streetcar;preview
+2024-04-22;(USA) Oregon;usapsc;Willamette Shore Trolley;preview
+2024-04-22;(USA) Washington;usascm;Seattle Center Monorail;preview
+2024-04-22;(USA) Washington;usassc;Seattle Streetcars;preview
+2024-04-22;North America;nawpy;White Pass & Yukon Route Railway;preview
+2024-04-19;Canada;canvia;VIA Rail;preview
+2024-04-19;(Canada) Quebec;canexo;Exo;preview
+2024-04-19;(Canada) Manitoba;cankrc;Keewatin Railway Company;preview
+2024-04-19;(Canada) Ontario;canonr;Ontario Northland Railway;preview
+2024-04-19;(Canada) Quebec-Labrador;cantsh;Tshiuetin Rail Transportation;preview
+2024-04-19;(Canada) British Columbia;cantst;Tsal'alh Seton Train;preview
+2024-04-19;(Canada) Alberta;canct;Calgary Transit;preview
+2024-04-19;(Canada) Alberta;canets;Edmonton Transit Service;preview
+2024-04-19;(Canada) Ontario;canot;O-Train;preview
+2024-04-19;(Canada) Alberta;canedmsc;Edmonton Streetcars;preview
+2024-04-16;(USA) Hawaii;usaharthi;Honolulu Authority for Rapid Transportation;preview
+2024-04-16;(USA) Puerto Rico;usatu;Tren Urbano;preview
+2024-04-16;(USA) Arkansas;usarrm;Rock Region Metro;preview
+2024-04-16;(USA) Arizona;usast;Sun Tran;preview
+2024-04-16;(USA) Georgia;usaatlsc;Atlanta Streetcar;preview
+2024-04-16;(USA) Illinois-Missouri;usabsda;Bi-State Development Agency;preview
+2024-04-16;(USA) Louisiana;usanorta;New Orleans Regional Transit Authority;preview
+2024-04-16;(USA) Michigan;usadpm;Detroit People Mover;preview
+2024-04-16;(USA) Michigan;usaql;QLine;preview
+2024-04-16;(USA) Ohio;usacc;Cincinnati Connector;preview
+2024-04-16;(USA) Oklahoma;usaokcsc;Oklahoma City Streetcar;preview
+2024-04-16;(USA) Tennessee;usamata;Memphis Area Transit Authority;preview
+2024-04-16;(USA) Texas;usadsc;Dallas Streetcar;preview
+2024-04-16;(USA) Texas;usaelpsc;El Paso Streetcar;preview
+2024-04-16;(USA) Texas;usagal;Galveston Island Trolley;preview
+2024-04-16;(USA) Texas;usamck;McKinney Avenue Transit Authority;preview
+2024-04-16;(USA) Wisconsin;usakensc;Kenosha Streetcar;preview
+2024-04-16;(USA) Wisconsin;usamkehop;Milwaukee Hop;preview
 2024-04-14;(USA) Illinois-Indiana;usanicd;Northern Indiana Commuter Transportation District;preview
 2024-04-14;(USA) Minnesota;usamnrx;Northstar Line;preview
 2024-04-14;(USA) Oregon;usawes;Westside Express Service;preview
@@ -112,9 +208,9 @@
 2023-10-10;UK;gbndlr;Docklands Light Railway;preview
 2023-10-10;UK;gbnlt;London Trams;preview
 2023-09-20;(USA) New Mexico;usanmrx;New Mexico Rail Runner Express;preview
-2023-09-13;USA;usatr;United States Tourist/Heritage Railroads;preview
-2023-09-13;USA;usaair;United States Landside Airport Rail Systems;preview
-2023-09-13;USA;usair;United States Incline Railways;preview
+2023-09-13;(USA);usatr;United States Tourist/Heritage Railroads;preview
+2023-09-13;(USA);usaair;United States Landside Airport Rail Systems;preview
+2023-09-13;(USA);usair;United States Incline Railways;preview
 2023-09-07;(USA) Colorado;usartdx;Denver RTD Commuter Rail;preview
 2023-09-07;(USA) Colorado;usartdz;Denver RTD Light Rail;preview
 2023-09-03;(USA) Missouri;usakcsc;RideKC Streetcar;preview
