@@ -10,7 +10,7 @@ MBTA;Boston;usambtx,usambta,usambtlr
 Northwest Corridor local transit;NWCor;usambtx,usambta,usambtlr,usacndx,usalirr,usamncw,usanycs,usasir,usapath,usanjtr,usanjlr,usasepa,usasepta,usaseplr,usapatco,usabmsl,usablrl,usamarc,usavrex,usawmat,usadcsc
 Chicago;Chicago;usametx,usacta,usanicd
 LA Metro;LAMet;usalams,usalamlr
-Los Angeles;LosAngeles;usascax;usalams,usalamlr
+Los Angeles;LosAngeles;usascax,usalams,usalamlr
 Cleveland;RTA;usarta,usartalr
 Bay Area;SanFran;usabart,usamuni,usasfcc,usaebart
 Montreal;Montreal;canstm,canrem
@@ -22,7 +22,7 @@ MetroBarcelona;MetroBarcelona;espmb,espmvbl
 Basel;Basel;chebss,chebst
 Berlin;Berlin;deubs,deubu,deubt
 Bern;Bern;chebes,chebet
-Bilbao;Bilbao;esprab;espbm
+Bilbao;Bilbao;esprab,espbm
 BiTCity;BiTCity;polskmb,polbt,poltt
 Bodensee;Bodensee;autsv,chesgs,cheshs,deubss
 Bremen;Bremen;deuhbs,deuhbt
@@ -51,7 +51,7 @@ Linz;Linz;autso,autstl
 Lyon;Lyon;fralym,fralyt
 Madrid;Madrid;espcm,espmm,espmlm
 Malaga;Malaga;espcma,espmma
-Marseille;framam,framat
+Marseille;Marseille;framam,framat
 Milan;Milan;itams,itamm,itamt
 Mitteldeutschland;LeipzigHalle;deuls,deult,deudet,deuhalt,deuzt
 Mittelelbe;Magdeburg;deumds,deumdt
@@ -70,7 +70,7 @@ Rhein-Neckar;RhineNecker;deurns,deurnt
 Rome;Rome;itafl,itafc,itarm,itart
 Rostock;Rostock;deuros,deurot
 Rhein-Ruhr;RheinRuhr;deurrs,deurru,deurssb,deuws,deurrt,deunwh
-Sevilla;espcs,espms,espts
+Sevilla;Sevilla;espcs,espms,espts
 Silesia;Silesia;polksl,polct,polslt
 Stuttgart;Stuttgart;deuss,deusu
 TER Hauts-de-France;TERHdF;frahdfterk,frahdfterc,frahdfterp
@@ -89,5 +89,4 @@ Adelaide;Adelaide;ausasr,ausat
 Melbourne;Melbourne;ausmtm,ausyt
 SEQueensland;SEQLD;ausqrc,ausgclr
 Sydney;Sydney;ausst,aussm,ausslr
-S-Bahnen;Sxx;autsk,autso,autss,autsst,autst,autsv,autsw,belrsa,belrsb,belrsc,belrsg,belrsl,cheags,chebes,chebss,chechs,chefrrer,chesgs,cheshs,chesob,chesos,chetirc,chezhs,chezss,czeem,czeep,czevmjk,deubs,deubss,deufrs,deudds,deuhhs,deuhs,deukas,deuls
-deumds,deums,deuns,deurms,,deurns,deuros,deurrs,deuss,deusb,itams,polksl,polskam,polskmt,polskmw,svkzdb
+S-Bahnen;Sxx;autsk,autso,autss,autsst,autst,autsv,autsw,belrsa,belrsb,belrsc,belrsg,belrsl,cheags,chebes,chebss,chechs,chefrrer,chesgs,cheshs,chesob,chesos,chetirc,chezhs,chezss,czeem,czeep,czevmjk,deubs,deubss,deufrs,deudds,deuhhs,deuhs,deukas,deuls,deumds,deums,deuns,deurms,,deurns,deuros,deurrs,deuss,deusb,itams,polksl,polskam,polskmt,polskmw,svkzdb
