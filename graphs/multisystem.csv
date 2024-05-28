@@ -1,2 +1,92 @@
 description;title;systemlist
-TfL's Rail;Roundelrail;gbnxr,gbnlu,gbnlo,gbndlr
+Transport for London's Rail;RoundelRail;gbnxr,gbnlu,gbnlo,gbndlr
+New York Metropolitan Transit Authority;MTA;usalirr,usamncw,usanycs,usasir
+New York City;NYC;usalirr,usamncw,usanycs,usasir,usanjtr,usanjlr,usapath
+NJ Transit;NJ;usanjtr,usanjlr
+SEPTA;SEPTA;usasepa,usasepta,usaseplr
+Philadelphia;Philly;usasepa,usasepta,usaseplr,usapatco
+Washington, DC;DCArea;usamarc,usavrex,usawmat,usadcsc
+MBTA;Boston;usambtx,usambta,usambtlr
+Northwest Corridor local transit;NWCor;usambtx,usambta,usambtlr,usacndx,usalirr,usamncw,usanycs,usasir,usapath,usanjtr,usanjlr,usasepa,usasepta,usaseplr,usapatco,usabmsl,usablrl,usamarc,usavrex,usawmat,usadcsc
+Chicago;Chicago;usametx,usacta,usanicd
+LA Metro;LAMet;usalams,usalamlr
+Los Angeles;LosAngeles;usascax,usalams,usalamlr
+Cleveland;RTA;usarta,usartalr
+Bay Area;SanFran;usabart,usamuni,usasfcc,usaebart
+Montreal;Montreal;canstm,canrem
+Toronto;Toronto;cango,canttc,cantsc
+Amsterdam;Amsterdam;nldam,nldat
+Antwerp;Antwerp;belrsa,belat
+Barcelona;Barcelona;espmb,espmvbl,esptb
+MetroBarcelona;MetroBarcelona;espmb,espmvbl
+Basel;Basel;chebss,chebst
+Berlin;Berlin;deubs,deubu,deubt
+Bern;Bern;chebes,chebet
+Bilbao;Bilbao;esprab,espbm
+BiTCity;BiTCity;polskmb,polbt,poltt
+Bodensee;Bodensee;autsv,chesgs,cheshs,deubss
+Bremen;Bremen;deuhbs,deuhbt
+Brno;Brno;czevmjk,czetb
+Brussels;Brussels;belrsb,belbm,belbt
+Cadiz;Cadiz;espcc,esptbc
+Charleroi;Charleroi;belrsc,belcm
+Chemnitz;Chemnitz;deucc,deuct
+Dresden;Dresden;deudds,deuddt,deuswat,deuddb
+Freiburg im Breisgau;Breisgau;deufrs,deufrt
+Gdansk;Gdansk;polskmt,polgdt
+Geneva;Geneva;chelx,cheget
+Genoa;Genoa;itagu,itagm
+Ghent;Ghent;belrsg,belgt
+Graz;Graz;autsst,autstg
+Hamburg;Hamburg;deuhhs,deuhhu
+Hannover;Hannover;deuhs,deuhsb
+Innsbruck;Innsbruck;autst,autsti
+Karlsruhe;Karlsruhe;deukas,deukat
+Kassel;Kassel;deuksrt,deukst
+Krakow;Krakow;polskam,polkt
+Lausanne;Lausanne;chevdrer,chelm
+Liberec;Liberec;czeidol,czetl
+Lille;Lille;frallm,frallt
+Linz;Linz;autso,autstl
+Lyon;Lyon;fralym,fralyt
+Madrid;Madrid;espcm,espmm,espmlm
+Malaga;Malaga;espcma,espmma
+Marseille;Marseille;framam,framat
+Milan;Milan;itams,itamm,itamt
+Mitteldeutschland;LeipzigHalle;deuls,deult,deudet,deuhalt,deuzt
+Mittelelbe;Magdeburg;deumds,deumdt
+Munich;Munich;deums,deumu,deumt
+MurciaAlicante;MurciaAlicante;espcmu,espta,esptmu
+Naples;Naples;itanf,itanr,itans,itanv,itanm,itant
+Nice;Nice;fracp,franit
+Nuremburg;Nuremburg;deuns,deunu,deunt
+Ostrava;Ostrava;czeem,czetos
+Paris;Paris;frarer,fratra,frapm,fraidft
+Poznan;Poznan;polpkm,polpt
+Prague;Prague;czeep,czemp,czetp
+Randstad;Randstad;nldrm,nldht,nldrt
+Rhein-Main;RhineMain;deurms,deufu,deuft,deudat,deumzt
+Rhein-Neckar;RhineNecker;deurns,deurnt
+Rome;Rome;itafl,itafc,itarm,itart
+Rostock;Rostock;deuros,deurot
+Rhein-Ruhr;RheinRuhr;deurrs,deurru,deurssb,deuws,deurrt,deunwh
+Sevilla;Sevilla;espcs,espms,espts
+Silesia;Silesia;polksl,polct,polslt
+Stuttgart;Stuttgart;deuss,deusu
+TER Hauts-de-France;TERHdF;frahdfterk,frahdfterc,frahdfterp
+TER Nouvelle-Aquitaine;TERAqu;franaqterd,franaqterf,franaqterl
+Toulouse;Toulouse;frattu,fratm,fratt
+Turin;Turin;itatfm,itatm,itatt
+Donau-Iller;Ulm;deuulrs,deuult
+Usti nad Labem Region;Usti;czeduk,czedukt,czetml
+Valencia;Valencia;espcv,espmv,esptv
+Metrovalencia;Metrovalencia;espmv,esptv
+Vienna;Vienna;autsw,autuw,autstw
+Warsaw;Warsaw;polskmw,polwkd,polwm,polwt
+Zaragoza;Zaragoza;espcz,esptz
+Zurich;Zurich;chezhs,chesob,chezht
+Adelaide;Adelaide;ausasr,ausat
+Melbourne;Melbourne;ausmtm,ausyt
+SEQueensland;SEQLD;ausqrc,ausgclr
+Sydney;Sydney;ausst,aussm,ausslr
+S-Bahnen;Sxx;autsk,autso,autss,autsst,autst,autsv,autsw,belrsa,belrsb,belrsc,belrsg,belrsl,cheags,chebes,chebss,chechs,chefrrer,chesgs,cheshs,chesob,chesos,chetirc,chezhs,chezss,czeem,czeep,czevmjk,deubs,deubss,deufrs,deudds,deuhhs,deuhs,deukas,deuls,deumds,deums,deuns,deurms,,deurns,deuros,deurrs,deuss,deusb,itams,polksl,polskam,polskmt,polskmw,svkzdb
