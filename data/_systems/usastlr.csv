@@ -1,3 +1,4 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
 usastlr;WA;1;;;1 Line;wa.1;
 usastlr;WA;2;;;2 Line;wa.2;
+usastlr;WA;T;;;T Line;wa.t;
