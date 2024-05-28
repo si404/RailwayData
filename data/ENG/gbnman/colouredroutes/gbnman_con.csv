@@ -1,0 +1,10 @@
+systemName;route;banner;groupName;roots
+gbnman;MetLnk;;Manchester Metrolink Red Route (Trafford Centre - Cornbrook);eng.metlnkred
+gbnman;MetLnk;;Manchester Metrolink Orange Route (MediaCityUK - Etihad Campus);eng.metlnkora
+gbnman;MetLnk;;Manchester Metrolink Yellow Route (Piccadilly - Bury);eng.metlnkpby
+gbnman;MetLnk;;Manchester Metrolink Green Route (Altrincham - Bury);eng.metlnkgrn
+gbnman;MetLnk;;Manchester Metrolink Blue Route (Eccles - Ashton-under-Lyne);eng.metlnkeal
+gbnman;MetLnk;;Manchester Metrolink Navy Route (Airport - Victoria);eng.metlnknav
+gbnman;MetLnk;;Manchester Metrolink Purple Route (Altrincham - Piccadilly);eng.metlnkalp
+gbnman;MetLnk;;Manchester Metrolink Pink Route (East Didsbury - Rochdale);eng.metlnkedr
+gbnman;MetLnk;;Manchester Metrolink Grey Route (East Didsbury - Shaw);eng.metlnkeds
