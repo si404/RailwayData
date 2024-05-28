@@ -4,6 +4,7 @@ gbnman;ENG;MetLnk;;AlB;Manchester Metrolink (Altrincham - Bury);eng.metlnkalb;
 gbnman;ENG;MetLnk;;AlP;Manchester Metrolink (Altrincham - Piccadilly);eng.metlnkalp;
 gbnman;ENG;MetLnk;;EDR;Manchester Metrolink (East Didsbury - Rochdale);eng.metlnkedr;
 gbnman;ENG;MetLnk;;EDS;Manchester Metrolink (East Didsbury - Shaw);eng.metlnkeds;
-gbnman;ENG;MetLnk;;TCC;Manchester Metrolink (Trafford Centre - Cornbrook);eng.metlnktcc;
 gbnman;ENG;MetLnk;;EAL;Manchester Metrolink (Eccles - Ashton-under-Lyne);eng.metlnkeal;
+gbnman;ENG;MetLnk;;MEC;Manchester Metrolink (MediaCityUK - Etihad Campus);eng.metlnkmec;
 gbnman;ENG;MetLnk;;PBy;Manchester Metrolink (Piccadilly - Bury);eng.metlnkpby;
+gbnman;ENG;MetLnk;;TCC;Manchester Metrolink (Trafford Centre - Deansgate-Castlefield);eng.metlnktcc;
