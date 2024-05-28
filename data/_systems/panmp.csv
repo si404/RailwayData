@@ -1,0 +1,4 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+panmp;PAN;1;;;;pan.1;
+panmp;PAN;2;;;;pan.2;
+panmp;PAN;2;;Aer;Aeropuerto;pan.2aer;
