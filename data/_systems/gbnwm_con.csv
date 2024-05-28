@@ -1,6 +1,7 @@
 systemName;route;banner;groupName;roots
 gbnwm;MalLn;;Malvern Line;eng.malln
-gbnwm;SalLn;;Salopian Line;eng.salln
+gbnwm;SalLn;;Salopian Line (Smethwick Galton Bridge);eng.salln
+gbnwm;SalLn;;Salopian Line (Bescot Stadium);eng.sallnbes
 gbnwm;BCLn;;Black Country Line;eng.bcln
 gbnwm;ChaLn;;Chase Line;eng.chaln
 gbnwm;NucLn;;NuCKLe Line;eng.nucln
