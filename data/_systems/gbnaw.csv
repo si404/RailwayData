@@ -32,13 +32,11 @@ gbnaw;WLS;SwanLn;;;Swanline;wls.swanln;
 gbnaw;WLS;MaeLn;;;Maesteg Line;wls.maeln;
 gbnaw;WLS;EbbwValeLn;;;Ebbw Vale Line (Cardiff);wls.ebbwvaleln;
 gbnaw;WLS;EbbwValeLn;;New;Ebbw Vale Line (Newport);wls.ebbwvalelnnew;
-gbnaw;WLS;AbeLn;;;Aberdare Line;wls.abeln;
-gbnaw;WLS;BarLn;;;Barry Line;wls.barln;
+gbnaw;WLS;AbeLn;;;Aberdare Line;wls.abeln;CityLn
 gbnaw;WLS;ButBra;;;Butetown Branch;wls.butbra;
-gbnaw;WLS;CityLn;;;City Line;wls.cityln;
 gbnaw;WLS;CorLn;;;Coryton Line;wls.corln;
 gbnaw;WLS;MerLn;;;Merthyr Line;wls.merln;
 gbnaw;WLS;PenLn;;;Penarth Line;wls.penln;
 gbnaw;WLS;RhoLn;;;Rhondda Line;wls.rholn;
-gbnaw;WLS;RhyLn;;;Rhymney Line;wls.rhyln;
+gbnaw;WLS;RhyLn;;;Rhymney Line;wls.rhyln;BarLn
 gbnaw;WLS;VoGLn;;;Vale of Glamorgan Line;wls.vogln;
