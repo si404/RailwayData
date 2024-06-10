@@ -5,9 +5,12 @@ Sko http://www.openstreetmap.org/?lat=59.922388&lon=10.678625
 NatThe http://www.openstreetmap.org/?lat=59.915073&lon=10.732012
 OsloS http://www.openstreetmap.org/?lat=59.910949&lon=10.753191
 +DIV_L2 http://www.openstreetmap.org/?lat=59.908442&lon=10.764413
-+DIV_R13 http://www.openstreetmap.org/?lat=59.905575&lon=10.790505
-+DIV_R14 http://www.openstreetmap.org/?lat=59.952512&lon=11.027548
-+SKIP_Lil http://www.openstreetmap.org/?lat=59.953302&lon=11.045251
++DIV_L1D http://www.openstreetmap.org/?lat=59.905575&lon=10.790505
++X240142 http://www.openstreetmap.org/?lat=59.908900&lon=10.813894
++X589168 http://www.openstreetmap.org/?lat=59.908771&lon=10.840545
++X940088 http://www.openstreetmap.org/?lat=59.949928&lon=11.002250
++DIV_L1E http://www.openstreetmap.org/?lat=59.952512&lon=11.027548
+Lil http://www.openstreetmap.org/?lat=59.953302&lon=11.045251
 +DIV_R14 http://www.openstreetmap.org/?lat=59.954183&lon=11.049843
 +X992898 http://www.openstreetmap.org/?lat=59.961509&lon=11.064005
 +SKIP_Lei http://www.openstreetmap.org/?lat=60.000011&lon=11.086761
