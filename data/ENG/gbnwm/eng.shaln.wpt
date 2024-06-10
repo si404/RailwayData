@@ -1,13 +1,13 @@
 Kid http://www.openstreetmap.org/?lat=52.384336&lon=-2.238464
-Bla http://www.openstreetmap.org/?lat=52.406438&lon=-2.176795
-Hag http://www.openstreetmap.org/?lat=52.422458&lon=-2.146497
++SKIP_Bla http://www.openstreetmap.org/?lat=52.406438&lon=-2.176795
++SKIP_Hag http://www.openstreetmap.org/?lat=52.422458&lon=-2.146497
 StoJct http://www.openstreetmap.org/?lat=52.447627&lon=-2.134094
 +X303093 http://www.openstreetmap.org/?lat=52.453826&lon=-2.133536
-+SKIP_Lye http://www.openstreetmap.org/?lat=52.459971&lon=-2.115984
+Lye http://www.openstreetmap.org/?lat=52.459971&lon=-2.115984
 CraHea http://www.openstreetmap.org/?lat=52.469462&lon=-2.090535
 OldHill http://www.openstreetmap.org/?lat=52.470822&lon=-2.056117
 RowReg http://www.openstreetmap.org/?lat=52.477409&lon=-2.030797
-+SKIP_LanGre http://www.openstreetmap.org/?lat=52.493429&lon=-2.005477
+LanGre http://www.openstreetmap.org/?lat=52.493429&lon=-2.005477
 SmeGalBri http://www.openstreetmap.org/?lat=52.502110&lon=-1.980425
 +DIV_MMW http://www.openstreetmap.org/?lat=52.506172&lon=-1.967046
 Haw http://www.openstreetmap.org/?lat=52.505584&lon=-1.964557

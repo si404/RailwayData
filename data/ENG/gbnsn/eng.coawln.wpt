@@ -2,8 +2,8 @@ Bri http://www.openstreetmap.org/?lat=50.829327&lon=-0.140977
 +DIV_Lon http://www.openstreetmap.org/?lat=50.833786&lon=-0.163958
 Hove http://www.openstreetmap.org/?lat=50.835249&lon=-0.170374
 +SKIP_Ald http://www.openstreetmap.org/?lat=50.836374&lon=-0.181897
-Por http://www.openstreetmap.org/?lat=50.835798&lon=-0.205350
-Fis http://www.openstreetmap.org/?lat=50.834362&lon=-0.219426
++SKIP_Por http://www.openstreetmap.org/?lat=50.835798&lon=-0.205350
++SKIP_Fis http://www.openstreetmap.org/?lat=50.834362&lon=-0.219426
 Sou http://www.openstreetmap.org/?lat=50.832519&lon=-0.237150
 ShoSea http://www.openstreetmap.org/?lat=50.834443&lon=-0.271869
 Lan http://www.openstreetmap.org/?lat=50.827097&lon=-0.323110
