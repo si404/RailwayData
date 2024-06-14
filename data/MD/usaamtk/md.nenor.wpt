@@ -22,7 +22,7 @@ BalPenn http://www.openstreetmap.org/?lat=39.307690&lon=-76.615385
 +X920020 http://www.openstreetmap.org/?lat=39.395065&lon=-76.341033
 +SKIP_Edg http://www.openstreetmap.org/?lat=39.415897&lon=-76.292775
 +X179002 http://www.openstreetmap.org/?lat=39.445572&lon=-76.224346
-+SKIP_Abe http://www.openstreetmap.org/?lat=39.508329&lon=-76.163192
+Abe http://www.openstreetmap.org/?lat=39.508329&lon=-76.163192
 +X216105 http://www.openstreetmap.org/?lat=39.531784&lon=-76.120105
 +X117900 http://www.openstreetmap.org/?lat=39.549423&lon=-76.099763
 +SKIP_Per http://www.openstreetmap.org/?lat=39.557968&lon=-76.073799
