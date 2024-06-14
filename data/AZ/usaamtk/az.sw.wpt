@@ -11,6 +11,7 @@ CA/AZ http://www.openstreetmap.org/?lat=34.718149&lon=-114.487265
 +X527715 http://www.openstreetmap.org/?lat=35.187330&lon=-114.061346
 Kin http://www.openstreetmap.org/?lat=35.188049&lon=-114.052505
 +X140637 http://www.openstreetmap.org/?lat=35.183805&lon=-114.034996
++X174020 http://www.openstreetmap.org/?lat=35.199272&lon=-114.025640
 +X493239 http://www.openstreetmap.org/?lat=35.410319&lon=-113.823338
 +X218442 http://www.openstreetmap.org/?lat=35.416265&lon=-113.795185
 +X774204 http://www.openstreetmap.org/?lat=35.385901&lon=-113.735619
@@ -31,6 +32,7 @@ Kin http://www.openstreetmap.org/?lat=35.188049&lon=-114.052505
 +X291300 http://www.openstreetmap.org/?lat=35.440044&lon=-113.094978
 +X628556 http://www.openstreetmap.org/?lat=35.378623&lon=-112.983570
 +X190455 http://www.openstreetmap.org/?lat=35.341525&lon=-112.960567
+*Sel http://www.openstreetmap.org/?lat=35.325647&lon=-112.876630
 +X303821 http://www.openstreetmap.org/?lat=35.290574&lon=-112.735691
 +X874431 http://www.openstreetmap.org/?lat=35.309557&lon=-112.663164
 +X693909 http://www.openstreetmap.org/?lat=35.342085&lon=-112.651405
@@ -47,6 +49,7 @@ Kin http://www.openstreetmap.org/?lat=35.188049&lon=-114.052505
 +X923337 http://www.openstreetmap.org/?lat=35.326505&lon=-112.248945
 +X624762 http://www.openstreetmap.org/?lat=35.308787&lon=-112.238903
 +X861259 http://www.openstreetmap.org/?lat=35.245163&lon=-112.142344
+*WilJct http://www.openstreetmap.org/?lat=35.243052&lon=-112.133975
 +X785755 http://www.openstreetmap.org/?lat=35.238504&lon=-112.115650
 +X545318 http://www.openstreetmap.org/?lat=35.245304&lon=-112.036686
 +X810205 http://www.openstreetmap.org/?lat=35.230933&lon=-112.017889
