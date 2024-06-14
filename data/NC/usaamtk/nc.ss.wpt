@@ -27,6 +27,7 @@ SouPin http://www.openstreetmap.org/?lat=35.174834&lon=-79.390340
 +X646358 http://www.openstreetmap.org/?lat=35.757918&lon=-78.831925
 Cary http://www.openstreetmap.org/?lat=35.788446&lon=-78.782337
 +X912158 http://www.openstreetmap.org/?lat=35.786314&lon=-78.725281
++SKIP_NCStaFair http://www.openstreetmap.org/?lat=35.792715&lon=-78.709466
 +X399943 http://www.openstreetmap.org/?lat=35.795434&lon=-78.697901
 Ral http://www.openstreetmap.org/?lat=35.776905&lon=-78.647904
 +X696735 http://www.openstreetmap.org/?lat=35.714514&lon=-78.623099
