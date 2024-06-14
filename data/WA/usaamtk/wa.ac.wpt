@@ -75,6 +75,7 @@ Eve http://www.openstreetmap.org/?lat=47.975516&lon=-122.197323
 +X263481 http://www.openstreetmap.org/?lat=48.126513&lon=-122.186852
 +X734578 http://www.openstreetmap.org/?lat=48.193957&lon=-122.241096
 +X985950 http://www.openstreetmap.org/?lat=48.233649&lon=-122.341175
+Sta http://www.openstreetmap.org/?lat=48.243160&lon=-122.350418
 +X570244 http://www.openstreetmap.org/?lat=48.265084&lon=-122.366581
 +X865822 http://www.openstreetmap.org/?lat=48.318992&lon=-122.344780
 MouVer http://www.openstreetmap.org/?lat=48.418464&lon=-122.335253
@@ -86,7 +87,7 @@ MouVer http://www.openstreetmap.org/?lat=48.418464&lon=-122.335253
 +X759034 http://www.openstreetmap.org/?lat=48.670502&lon=-122.489147
 +X900519 http://www.openstreetmap.org/?lat=48.696456&lon=-122.498074
 +X200566 http://www.openstreetmap.org/?lat=48.701724&lon=-122.515068
-BelFai http://www.openstreetmap.org/?lat=48.720499&lon=-122.511377
+Bel http://www.openstreetmap.org/?lat=48.720499&lon=-122.511377
 +X264823 http://www.openstreetmap.org/?lat=48.749907&lon=-122.482796
 +X875182 http://www.openstreetmap.org/?lat=48.790637&lon=-122.562790
 +X330218 http://www.openstreetmap.org/?lat=48.812459&lon=-122.562790
