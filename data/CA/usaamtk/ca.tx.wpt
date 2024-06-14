@@ -3,7 +3,7 @@ UniSta http://www.openstreetmap.org/?lat=34.055837&lon=-118.234525
 +DIV_Uni http://www.openstreetmap.org/?lat=34.062064&lon=-118.228812
 +X855488 http://www.openstreetmap.org/?lat=34.062099&lon=-118.183537
 +X694419 http://www.openstreetmap.org/?lat=34.077705&lon=-118.164740
-*Alh http://www.openstreetmap.org/?lat=34.079420&lon=-118.148797
++SKIP_Alh http://www.openstreetmap.org/?lat=34.079420&lon=-118.148797
 +X645158 http://www.openstreetmap.org/?lat=34.097360&lon=-118.099208
 +DIV_SBW http://www.openstreetmap.org/?lat=34.078132&lon=-118.037710
 +SKIP_ElMon http://www.openstreetmap.org/?lat=34.076843&lon=-118.035575
