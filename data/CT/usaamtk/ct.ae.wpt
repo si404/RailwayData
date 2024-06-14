@@ -53,7 +53,7 @@ NHUniSta http://www.openstreetmap.org/?lat=41.297300&lon=-72.925894
 +X961910 http://www.openstreetmap.org/?lat=41.316763&lon=-72.163503
 +X330804 http://www.openstreetmap.org/?lat=41.335584&lon=-72.136488
 +X253753 http://www.openstreetmap.org/?lat=41.334988&lon=-72.104044
-+SKIP_NewLon http://www.openstreetmap.org/?lat=41.354194&lon=-72.092854
+*NewLon http://www.openstreetmap.org/?lat=41.354194&lon=-72.092854
 +X845041 http://www.openstreetmap.org/?lat=41.357138&lon=-72.095010
 +X927927 http://www.openstreetmap.org/?lat=41.360971&lon=-72.096319
 +X745081 http://www.openstreetmap.org/?lat=41.363346&lon=-72.081299
