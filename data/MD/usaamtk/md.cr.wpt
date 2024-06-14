@@ -5,7 +5,7 @@ DC/MD http://www.openstreetmap.org/?lat=38.916823&lon=-76.939831
 +SKIP_BowSta http://www.openstreetmap.org/?lat=39.017692&lon=-76.764951
 +SKIP_Ode http://www.openstreetmap.org/?lat=39.087782&lon=-76.705878
 +X922167 http://www.openstreetmap.org/?lat=39.124734&lon=-76.695857
-+SKIP_BWIAir http://www.openstreetmap.org/?lat=39.192277&lon=-76.694677
+BWIAir http://www.openstreetmap.org/?lat=39.192277&lon=-76.694677
 +SKIP_Hal http://www.openstreetmap.org/?lat=39.236815&lon=-76.691329
 +X272199 http://www.openstreetmap.org/?lat=39.257097&lon=-76.689785
 +X242017 http://www.openstreetmap.org/?lat=39.282837&lon=-76.670687
