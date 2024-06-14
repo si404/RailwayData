@@ -20,7 +20,7 @@ Spr http://www.openstreetmap.org/?lat=39.802305&lon=-89.651785
 +X211199 http://www.openstreetmap.org/?lat=39.888435&lon=-89.607153
 +X764197 http://www.openstreetmap.org/?lat=40.026818&lon=-89.477624
 +X566934 http://www.openstreetmap.org/?lat=40.127014&lon=-89.392662
-+SKIP_Lin http://www.openstreetmap.org/?lat=40.148135&lon=-89.363394
+Lin http://www.openstreetmap.org/?lat=40.148135&lon=-89.363394
 +X579494 http://www.openstreetmap.org/?lat=40.314381&lon=-89.170044
 +X571639 http://www.openstreetmap.org/?lat=40.426712&lon=-89.039340
 BloNor http://www.openstreetmap.org/?lat=40.508489&lon=-88.984408
