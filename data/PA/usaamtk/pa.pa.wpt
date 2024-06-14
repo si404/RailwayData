@@ -36,7 +36,7 @@ Joh http://www.openstreetmap.org/?lat=40.330139&lon=-78.921747
 +X886038 http://www.openstreetmap.org/?lat=40.390652&lon=-78.706312
 +X419664 http://www.openstreetmap.org/?lat=40.389279&lon=-78.677988
 +X618558 http://www.openstreetmap.org/?lat=40.419671&lon=-78.623400
-+X962543 http://www.openstreetmap.org/?lat=40.435434&lon=-78.619366
++X962544 http://www.openstreetmap.org/?lat=40.435434&lon=-78.619366
 +X638743 http://www.openstreetmap.org/?lat=40.478455&lon=-78.577137
 +X710916 http://www.openstreetmap.org/?lat=40.479892&lon=-78.514309
 +X267397 http://www.openstreetmap.org/?lat=40.475126&lon=-78.480492
@@ -91,7 +91,7 @@ Har http://www.openstreetmap.org/?lat=40.262073&lon=-76.877604
 +X339088 http://www.openstreetmap.org/?lat=40.194840&lon=-76.734180
 +X692485 http://www.openstreetmap.org/?lat=40.186906&lon=-76.727228
 +X105984 http://www.openstreetmap.org/?lat=40.166052&lon=-76.710749
-+SKIP_Eli http://www.openstreetmap.org/?lat=40.146683&lon=-76.612344
+Eli http://www.openstreetmap.org/?lat=40.146683&lon=-76.612344
 +X445113 http://www.openstreetmap.org/?lat=40.131346&lon=-76.575823
 +SKIP_MouJoy http://www.openstreetmap.org/?lat=40.108751&lon=-76.502674
 +X339424 http://www.openstreetmap.org/?lat=40.103713&lon=-76.432400
@@ -128,7 +128,7 @@ Pao http://www.openstreetmap.org/?lat=40.042910&lon=-75.483713
 +SKIP_Ros http://www.openstreetmap.org/?lat=40.028058&lon=-75.327115
 +SKIP_BrynMawr http://www.openstreetmap.org/?lat=40.021683&lon=-75.315571
 +SKIP_Hav http://www.openstreetmap.org/?lat=40.014123&lon=-75.300207
-Ard http://www.openstreetmap.org/?lat=40.008338&lon=-75.290208
++SKIP_Ard http://www.openstreetmap.org/?lat=40.008338&lon=-75.290208
 +SKIP_Wyn http://www.openstreetmap.org/?lat=40.002816&lon=-75.273042
 +SKIP_Nar http://www.openstreetmap.org/?lat=40.004920&lon=-75.261540
 +SKIP_Mer http://www.openstreetmap.org/?lat=39.997556&lon=-75.251455
@@ -149,7 +149,7 @@ Phi30thSt http://www.openstreetmap.org/?lat=39.956526&lon=-75.181707
 +SKIP_HolJct http://www.openstreetmap.org/?lat=40.032695&lon=-75.023768
 +SKIP_Tor http://www.openstreetmap.org/?lat=40.054404&lon=-74.984533
 +SKIP_And http://www.openstreetmap.org/?lat=40.063433&lon=-74.970220
-CorHei http://www.openstreetmap.org/?lat=40.071861&lon=-74.952099
++SKIP_CorHei http://www.openstreetmap.org/?lat=40.071861&lon=-74.952099
 +SKIP_Eddi http://www.openstreetmap.org/?lat=40.082968&lon=-74.933699
 +SKIP_Cro http://www.openstreetmap.org/?lat=40.093565&lon=-74.906802
 +SKIP_Bris http://www.openstreetmap.org/?lat=40.104968&lon=-74.854810
