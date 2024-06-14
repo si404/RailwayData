@@ -1,5 +1,6 @@
 KY/IL http://www.openstreetmap.org/?lat=37.022497&lon=-89.179802
 +X558008 http://www.openstreetmap.org/?lat=37.022497&lon=-89.189587
+*Cai http://www.openstreetmap.org/?lat=37.039712&lon=-89.191888
 +X872012 http://www.openstreetmap.org/?lat=37.120564&lon=-89.201775
 +X440968 http://www.openstreetmap.org/?lat=37.165173&lon=-89.195766
 +X252843 http://www.openstreetmap.org/?lat=37.204765&lon=-89.210358
@@ -37,7 +38,7 @@ ChaUrb http://www.openstreetmap.org/?lat=40.115775&lon=-88.240771
 +SKIP_Ran http://www.openstreetmap.org/?lat=40.311260&lon=-88.159060
 +X656904 http://www.openstreetmap.org/?lat=40.460597&lon=-88.096340
 +X691331 http://www.openstreetmap.org/?lat=40.618871&lon=-88.029327
-+SKIP_Gil http://www.openstreetmap.org/?lat=40.752621&lon=-87.997828
+*Gil http://www.openstreetmap.org/?lat=40.752621&lon=-87.997828
 +X952897 http://www.openstreetmap.org/?lat=40.796885&lon=-87.987270
 +X858998 http://www.openstreetmap.org/?lat=40.880035&lon=-87.955642
 Kan http://www.openstreetmap.org/?lat=41.119145&lon=-87.866035
