@@ -19,9 +19,12 @@ DelBea http://www.openstreetmap.org/?lat=26.453995&lon=-80.091019
 WestPalmBea http://www.openstreetmap.org/?lat=26.712513&lon=-80.062351
 +X914648 http://www.openstreetmap.org/?lat=26.749998&lon=-80.065913
 +SKIP_ManPark http://www.openstreetmap.org/?lat=26.758429&lon=-80.076470
++X668435 http://www.openstreetmap.org/?lat=26.925977&lon=-80.327053
++X614009 http://www.openstreetmap.org/?lat=27.085015&lon=-80.566285
 +X654484 http://www.openstreetmap.org/?lat=27.251349&lon=-80.818176
 +SKIP_Oke http://www.openstreetmap.org/?lat=27.251740&lon=-80.830665
 +X504000 http://www.openstreetmap.org/?lat=27.252360&lon=-80.869632
++X134513 http://www.openstreetmap.org/?lat=27.376512&lon=-81.117865
 +X408039 http://www.openstreetmap.org/?lat=27.477093&lon=-81.319342
 Seb http://www.openstreetmap.org/?lat=27.496509&lon=-81.434269
 +X178356 http://www.openstreetmap.org/?lat=27.533429&lon=-81.437702
@@ -31,7 +34,7 @@ Seb http://www.openstreetmap.org/?lat=27.496509&lon=-81.434269
 +X887137 http://www.openstreetmap.org/?lat=27.721258&lon=-81.570139
 +X372511 http://www.openstreetmap.org/?lat=27.812471&lon=-81.638117
 +X153575 http://www.openstreetmap.org/?lat=27.883808&lon=-81.645069
-+SKIP_WinHav http://www.openstreetmap.org/?lat=28.001961&lon=-81.734676
+WinHav http://www.openstreetmap.org/?lat=28.001961&lon=-81.734676
 +X161165 http://www.openstreetmap.org/?lat=28.024693&lon=-81.773386
 +DIV_Tam http://www.openstreetmap.org/?lat=28.058437&lon=-81.796453
 +X257262 http://www.openstreetmap.org/?lat=28.087296&lon=-81.764374
