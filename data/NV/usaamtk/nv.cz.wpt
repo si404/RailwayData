@@ -5,6 +5,7 @@ CA/NV http://www.openstreetmap.org/?lat=39.466878&lon=-120.002460
 +X926376 http://www.openstreetmap.org/?lat=39.507385&lon=-119.886761
 Reno http://www.openstreetmap.org/?lat=39.528771&lon=-119.811831
 +X268090 http://www.openstreetmap.org/?lat=39.533935&lon=-119.780331
++Spa http://www.openstreetmap.org/?lat=39.531498&lon=-119.752001
 +X782497 http://www.openstreetmap.org/?lat=39.526521&lon=-119.705229
 +X697680 http://www.openstreetmap.org/?lat=39.511623&lon=-119.675016
 +X786899 http://www.openstreetmap.org/?lat=39.515464&lon=-119.625578
@@ -24,7 +25,7 @@ Reno http://www.openstreetmap.org/?lat=39.528771&lon=-119.811831
 +X808710 http://www.openstreetmap.org/?lat=40.030572&lon=-118.667965
 +X887728 http://www.openstreetmap.org/?lat=40.072686&lon=-118.633804
 +X463350 http://www.openstreetmap.org/?lat=40.134332&lon=-118.506775
-+X564468 http://www.openstreetmap.org/?lat=40.193528&lon=-118.462400
+*Lov http://www.openstreetmap.org/?lat=40.179480&lon=-118.473355
 +X984515 http://www.openstreetmap.org/?lat=40.224336&lon=-118.426695
 +X257812 http://www.openstreetmap.org/?lat=40.233707&lon=-118.404894
 +X322102 http://www.openstreetmap.org/?lat=40.346479&lon=-118.313141
@@ -57,7 +58,10 @@ Win http://www.openstreetmap.org/?lat=40.968720&lon=-117.732239
 +X269088 http://www.openstreetmap.org/?lat=40.599682&lon=-116.483917
 +X209907 http://www.openstreetmap.org/?lat=40.574000&lon=-116.451988
 +X399802 http://www.openstreetmap.org/?lat=40.580650&lon=-116.221790
-+X226475 http://www.openstreetmap.org/?lat=40.705238&lon=-116.117592
++X574220 http://www.openstreetmap.org/?lat=40.617959&lon=-116.194496
++X321546 http://www.openstreetmap.org/?lat=40.633170&lon=-116.168361
++X347781 http://www.openstreetmap.org/?lat=40.691052&lon=-116.136818
+*Car http://www.openstreetmap.org/?lat=40.713305&lon=-116.103988
 +X270329 http://www.openstreetmap.org/?lat=40.724429&lon=-116.066866
 +X786528 http://www.openstreetmap.org/?lat=40.724511&lon=-116.026182
 +X648880 http://www.openstreetmap.org/?lat=40.713208&lon=-115.981121
@@ -73,7 +77,8 @@ Elko http://www.openstreetmap.org/?lat=40.836444&lon=-115.750494
 +X107730 http://www.openstreetmap.org/?lat=41.065957&lon=-115.269241
 +X395060 http://www.openstreetmap.org/?lat=41.128052&lon=-115.134144
 +X751351 http://www.openstreetmap.org/?lat=41.136844&lon=-115.066509
-+X321309 http://www.openstreetmap.org/?lat=41.129862&lon=-114.995270
++DIV_Ala http://www.openstreetmap.org/?lat=41.133636&lon=-115.028701
++X188905 http://www.openstreetmap.org/?lat=41.129652&lon=-114.995334
 +X137628 http://www.openstreetmap.org/?lat=41.119258&lon=-114.974842
 +X622010 http://www.openstreetmap.org/?lat=41.062786&lon=-114.971066
 +X476197 http://www.openstreetmap.org/?lat=41.025240&lon=-114.977074
