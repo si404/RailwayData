@@ -17,7 +17,7 @@ Sal http://www.openstreetmap.org/?lat=35.667111&lon=-80.465798
 +X968530 http://www.openstreetmap.org/?lat=35.727806&lon=-80.347223
 +X396833 http://www.openstreetmap.org/?lat=35.759712&lon=-80.307055
 +X648457 http://www.openstreetmap.org/?lat=35.801299&lon=-80.283666
-+SKIP_Lex http://www.openstreetmap.org/?lat=35.820684&lon=-80.251651
+Lex http://www.openstreetmap.org/?lat=35.820684&lon=-80.251651
 +X156005 http://www.openstreetmap.org/?lat=35.846935&lon=-80.171528
 +X604919 http://www.openstreetmap.org/?lat=35.873438&lon=-80.130501
 +X472418 http://www.openstreetmap.org/?lat=35.890215&lon=-80.066257
@@ -41,6 +41,7 @@ Dur http://www.openstreetmap.org/?lat=35.997192&lon=-78.906727
 +X362999 http://www.openstreetmap.org/?lat=35.806920&lon=-78.824072
 Cary http://www.openstreetmap.org/?lat=35.788446&lon=-78.782337
 +X912158 http://www.openstreetmap.org/?lat=35.786314&lon=-78.725281
+NCStaFair http://www.openstreetmap.org/?lat=35.792715&lon=-78.709466
 +X399943 http://www.openstreetmap.org/?lat=35.795434&lon=-78.697901
 Ral http://www.openstreetmap.org/?lat=35.776905&lon=-78.647904
 +X696735 http://www.openstreetmap.org/?lat=35.714514&lon=-78.623099
