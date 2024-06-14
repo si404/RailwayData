@@ -35,12 +35,12 @@ NHUniSta http://www.openstreetmap.org/?lat=41.297300&lon=-72.925894
 +X207031 http://www.openstreetmap.org/?lat=41.344984&lon=-72.894459
 +X239143 http://www.openstreetmap.org/?lat=41.384649&lon=-72.873302
 +X118215 http://www.openstreetmap.org/?lat=41.407169&lon=-72.847080
-Wal http://www.openstreetmap.org/?lat=41.461559&lon=-72.822790
++SKIP_Wal http://www.openstreetmap.org/?lat=41.461559&lon=-72.822790
 +X475307 http://www.openstreetmap.org/?lat=41.487620&lon=-72.809916
 +X648287 http://www.openstreetmap.org/?lat=41.502342&lon=-72.816353
 Mer http://www.openstreetmap.org/?lat=41.538852&lon=-72.801483
 +X687012 http://www.openstreetmap.org/?lat=41.603169&lon=-72.765455
-Ber http://www.openstreetmap.org/?lat=41.636021&lon=-72.765198
++SKIP_Ber http://www.openstreetmap.org/?lat=41.636021&lon=-72.765198
 +X367318 http://www.openstreetmap.org/?lat=41.653042&lon=-72.752044
 +X404796 http://www.openstreetmap.org/?lat=41.699424&lon=-72.747967
 +X170443 http://www.openstreetmap.org/?lat=41.759452&lon=-72.701812
