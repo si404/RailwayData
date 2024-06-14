@@ -16,7 +16,8 @@ Mar http://www.openstreetmap.org/?lat=38.019123&lon=-122.138958
 +X395158 http://www.openstreetmap.org/?lat=38.103968&lon=-122.101192
 +X986093 http://www.openstreetmap.org/?lat=38.131147&lon=-122.100592
 +SKIP_SuiFai http://www.openstreetmap.org/?lat=38.243405&lon=-122.041368
-+SKIP_FaiVacHan http://www.openstreetmap.org/?lat=38.285457&lon=-121.968241
++SKIP_FaiVac http://www.openstreetmap.org/?lat=38.285457&lon=-121.968241
++X869950 http://www.openstreetmap.org/?lat=38.445598&lon=-121.824989
 Dav http://www.openstreetmap.org/?lat=38.543382&lon=-121.737742
 +X667170 http://www.openstreetmap.org/?lat=38.588380&lon=-121.538529
 SacVlySta http://www.openstreetmap.org/?lat=38.586187&lon=-121.500195
