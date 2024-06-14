@@ -1,10 +1,10 @@
 PA/NJ http://www.openstreetmap.org/?lat=40.207828&lon=-74.767585
 Tre http://www.openstreetmap.org/?lat=40.218380&lon=-74.754109
 +SKIP_Ham http://www.openstreetmap.org/?lat=40.255392&lon=-74.703941
-PriJct http://www.openstreetmap.org/?lat=40.316021&lon=-74.623947
++SKIP_PriJct http://www.openstreetmap.org/?lat=40.316021&lon=-74.623947
 +X464420 http://www.openstreetmap.org/?lat=40.387907&lon=-74.532795
 +SKIP_JerAve http://www.openstreetmap.org/?lat=40.476758&lon=-74.467392
-NewBru http://www.openstreetmap.org/?lat=40.496864&lon=-74.446192
++SKIP_NewBru http://www.openstreetmap.org/?lat=40.496864&lon=-74.446192
 +SKIP_Edi http://www.openstreetmap.org/?lat=40.518987&lon=-74.411259
 +X356824 http://www.openstreetmap.org/?lat=40.535231&lon=-74.382806
 +SKIP_Metu http://www.openstreetmap.org/?lat=40.540727&lon=-74.360619
