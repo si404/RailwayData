@@ -76,6 +76,7 @@ Ams http://www.openstreetmap.org/?lat=42.953556&lon=-74.219706
 +DIV_Mon http://www.openstreetmap.org/?lat=42.816031&lon=-73.941572
 Sch http://www.openstreetmap.org/?lat=42.814339&lon=-73.942666
 +X358147 http://www.openstreetmap.org/?lat=42.797180&lon=-73.957343
++SKIP_Col http://www.openstreetmap.org/?lat=42.728904&lon=-73.865697
 +X142867 http://www.openstreetmap.org/?lat=42.691552&lon=-73.816710
 +X487679 http://www.openstreetmap.org/?lat=42.686190&lon=-73.789501
 +X920114 http://www.openstreetmap.org/?lat=42.664356&lon=-73.746929
