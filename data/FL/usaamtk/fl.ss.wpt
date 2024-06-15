@@ -52,7 +52,7 @@ Lak_2 http://www.openstreetmap.org/?lat=28.046020&lon=-81.952000
 +X897393 http://www.openstreetmap.org/?lat=28.105733&lon=-81.631894
 +X522580 http://www.openstreetmap.org/?lat=28.256025&lon=-81.552629
 +X407713 http://www.openstreetmap.org/?lat=28.267308&lon=-81.526794
-+SKIP_Poi http://www.openstreetmap.org/?lat=28.258874&lon=-81.484351
+*Poi http://www.openstreetmap.org/?lat=28.258874&lon=-81.484351
 +X780823 http://www.openstreetmap.org/?lat=28.258267&lon=-81.466010
 Kis http://www.openstreetmap.org/?lat=28.293819&lon=-81.403842
 +SKIP_Tup http://www.openstreetmap.org/?lat=28.343122&lon=-81.390023
