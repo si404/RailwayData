@@ -4,6 +4,7 @@ CT/RI http://www.openstreetmap.org/?lat=41.379828&lon=-71.831810
 +X711942 http://www.openstreetmap.org/?lat=41.412898&lon=-71.722097
 +X363690 http://www.openstreetmap.org/?lat=41.430975&lon=-71.710339
 +X594642 http://www.openstreetmap.org/?lat=41.451018&lon=-71.654935
++SKIP_Sha http://www.openstreetmap.org/?lat=41.447282&lon=-71.640344
 +X570092 http://www.openstreetmap.org/?lat=41.447222&lon=-71.623349
 +SKIP_Kin http://www.openstreetmap.org/?lat=41.484092&lon=-71.560736
 +X791262 http://www.openstreetmap.org/?lat=41.502824&lon=-71.531210
