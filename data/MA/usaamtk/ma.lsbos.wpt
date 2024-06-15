@@ -57,7 +57,7 @@ Fra http://www.openstreetmap.org/?lat=42.276094&lon=-71.420059
 +X751457 http://www.openstreetmap.org/?lat=42.333681&lon=-71.270982
 +SKIP_Aub http://www.openstreetmap.org/?lat=42.345856&lon=-71.250332
 +SKIP_WestNew http://www.openstreetmap.org/?lat=42.347862&lon=-71.230550
-+SKIP_New http://www.openstreetmap.org/?lat=42.351769&lon=-71.205128
+*New http://www.openstreetmap.org/?lat=42.351769&lon=-71.205128
 +X622695 http://www.openstreetmap.org/?lat=42.358132&lon=-71.178746
 +SKIP_BosLan http://www.openstreetmap.org/?lat=42.357081&lon=-71.138374
 +X706550 http://www.openstreetmap.org/?lat=42.354279&lon=-71.118836
