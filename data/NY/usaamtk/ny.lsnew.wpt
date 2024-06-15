@@ -1,4 +1,5 @@
 PA/NY http://www.openstreetmap.org/?lat=42.241545&lon=-79.761944
++X231635 http://www.openstreetmap.org/?lat=42.327831&lon=-79.583427
 +X145511 http://www.openstreetmap.org/?lat=42.403115&lon=-79.436989
 +X730114 http://www.openstreetmap.org/?lat=42.482479&lon=-79.346180
 +X269147 http://www.openstreetmap.org/?lat=42.527974&lon=-79.237690
@@ -10,6 +11,7 @@ PA/NY http://www.openstreetmap.org/?lat=42.241545&lon=-79.761944
 +DIV_Nia http://www.openstreetmap.org/?lat=42.883983&lon=-78.837719
 +X959358 http://www.openstreetmap.org/?lat=42.898384&lon=-78.803902
 BufDep http://www.openstreetmap.org/?lat=42.907374&lon=-78.726568
++X225520 http://www.openstreetmap.org/?lat=42.927174&lon=-78.578253
 +X724265 http://www.openstreetmap.org/?lat=42.989142&lon=-78.220425
 +X464737 http://www.openstreetmap.org/?lat=42.985500&lon=-78.167553
 +X947738 http://www.openstreetmap.org/?lat=43.042673&lon=-78.080521
@@ -87,7 +89,7 @@ AlbRen http://www.openstreetmap.org/?lat=42.641173&lon=-73.741779
 +X987511 http://www.openstreetmap.org/?lat=42.155705&lon=-73.888035
 +X203743 http://www.openstreetmap.org/?lat=42.110767&lon=-73.914299
 +X195202 http://www.openstreetmap.org/?lat=42.009063&lon=-73.927345
-RhiKin http://www.openstreetmap.org/?lat=41.921423&lon=-73.951721
+Rhi http://www.openstreetmap.org/?lat=41.921423&lon=-73.951721
 +X421520 http://www.openstreetmap.org/?lat=41.903746&lon=-73.955326
 +X777268 http://www.openstreetmap.org/?lat=41.863553&lon=-73.926659
 +X293243 http://www.openstreetmap.org/?lat=41.792305&lon=-73.946571

@@ -27,11 +27,13 @@ SouPin http://www.openstreetmap.org/?lat=35.174834&lon=-79.390340
 +X646358 http://www.openstreetmap.org/?lat=35.757918&lon=-78.831925
 Cary http://www.openstreetmap.org/?lat=35.788446&lon=-78.782337
 +X912158 http://www.openstreetmap.org/?lat=35.786314&lon=-78.725281
++SKIP_NCStaFair http://www.openstreetmap.org/?lat=35.792715&lon=-78.709466
 +X399943 http://www.openstreetmap.org/?lat=35.795434&lon=-78.697901
 Ral http://www.openstreetmap.org/?lat=35.776905&lon=-78.647904
 +X696735 http://www.openstreetmap.org/?lat=35.714514&lon=-78.623099
 +X734251 http://www.openstreetmap.org/?lat=35.669726&lon=-78.481865
 +SKIP_SelSmi http://www.openstreetmap.org/?lat=35.532445&lon=-78.280034
++X352161 http://www.openstreetmap.org/?lat=35.589603&lon=-78.133478
 +X268296 http://www.openstreetmap.org/?lat=35.677762&lon=-77.932549
 +SKIP_Wil http://www.openstreetmap.org/?lat=35.723155&lon=-77.907615
 RocMou http://www.openstreetmap.org/?lat=35.937676&lon=-77.797194
@@ -39,4 +41,8 @@ RocMou http://www.openstreetmap.org/?lat=35.937676&lon=-77.797194
 +X777180 http://www.openstreetmap.org/?lat=36.116488&lon=-77.706642
 +X789706 http://www.openstreetmap.org/?lat=36.149831&lon=-77.701406
 +X454844 http://www.openstreetmap.org/?lat=36.190261&lon=-77.656860
++X726459 http://www.openstreetmap.org/?lat=36.328679&lon=-77.593603
++X680198 http://www.openstreetmap.org/?lat=36.365596&lon=-77.616520
++X572211 http://www.openstreetmap.org/?lat=36.423285&lon=-77.602959
++X611110 http://www.openstreetmap.org/?lat=36.461054&lon=-77.555838
 NC/VA http://www.openstreetmap.org/?lat=36.545122&lon=-77.530003

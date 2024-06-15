@@ -26,11 +26,14 @@ Pri http://www.openstreetmap.org/?lat=41.385382&lon=-89.467034
 +X589289 http://www.openstreetmap.org/?lat=41.465081&lon=-89.263916
 Men http://www.openstreetmap.org/?lat=41.549596&lon=-89.117661
 +X898507 http://www.openstreetmap.org/?lat=41.555802&lon=-89.111481
++X170501 http://www.openstreetmap.org/?lat=41.613317&lon=-88.799164
 Pla http://www.openstreetmap.org/?lat=41.662180&lon=-88.538067
 +X453055 http://www.openstreetmap.org/?lat=41.700922&lon=-88.372478
-+SKIP_Aur http://www.openstreetmap.org/?lat=41.760925&lon=-88.307827
-+X421980 http://www.openstreetmap.org/?lat=41.763390&lon=-88.306142
-+X747199 http://www.openstreetmap.org/?lat=41.766190&lon=-88.301207
++X962438 http://www.openstreetmap.org/?lat=41.746029&lon=-88.332310
++X132029 http://www.openstreetmap.org/?lat=41.760477&lon=-88.307515
++X712695 http://www.openstreetmap.org/?lat=41.763414&lon=-88.305230
++X294557 http://www.openstreetmap.org/?lat=41.765870&lon=-88.300939
++DIV_Aur http://www.openstreetmap.org/?lat=41.769583&lon=-88.279347
 +X561344 http://www.openstreetmap.org/?lat=41.777601&lon=-88.225107
 +SKIP_Rte59 http://www.openstreetmap.org/?lat=41.778067&lon=-88.208448
 Nap http://www.openstreetmap.org/?lat=41.779777&lon=-88.146036

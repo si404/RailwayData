@@ -36,6 +36,7 @@ Min http://www.openstreetmap.org/?lat=48.236193&lon=-101.298923
 +X974439 http://www.openstreetmap.org/?lat=48.240381&lon=-101.283474
 +X634780 http://www.openstreetmap.org/?lat=48.234678&lon=-101.245193
 +X808555 http://www.openstreetmap.org/?lat=48.252741&lon=-100.926247
++X173823 http://www.openstreetmap.org/?lat=48.313213&lon=-100.586153
 +X445141 http://www.openstreetmap.org/?lat=48.361353&lon=-100.315561
 Rug http://www.openstreetmap.org/?lat=48.369793&lon=-99.997559
 +X829455 http://www.openstreetmap.org/?lat=48.361439&lon=-99.795856
@@ -44,6 +45,7 @@ Rug http://www.openstreetmap.org/?lat=48.369793&lon=-99.997559
 +X153589 http://www.openstreetmap.org/?lat=48.313855&lon=-99.579735
 +X115052 http://www.openstreetmap.org/?lat=48.281537&lon=-99.363098
 +X521046 http://www.openstreetmap.org/?lat=48.275624&lon=-99.217701
++X465607 http://www.openstreetmap.org/?lat=48.260684&lon=-99.175215
 DevLake http://www.openstreetmap.org/?lat=48.110325&lon=-98.861675
 +X658697 http://www.openstreetmap.org/?lat=48.086164&lon=-98.691044
 +X859181 http://www.openstreetmap.org/?lat=48.063569&lon=-98.608818
@@ -59,7 +61,9 @@ DevLake http://www.openstreetmap.org/?lat=48.110325&lon=-98.861675
 +X440529 http://www.openstreetmap.org/?lat=47.918758&lon=-97.514305
 GraFor http://www.openstreetmap.org/?lat=47.917320&lon=-97.110729
 +X350129 http://www.openstreetmap.org/?lat=47.678218&lon=-97.110901
++X502889 http://www.openstreetmap.org/?lat=47.599681&lon=-97.096449
 +X923724 http://www.openstreetmap.org/?lat=47.387774&lon=-97.058029
++X277899 http://www.openstreetmap.org/?lat=47.238788&lon=-97.002819
 +X859360 http://www.openstreetmap.org/?lat=47.056441&lon=-96.935120
 +X410391 http://www.openstreetmap.org/?lat=46.886595&lon=-96.809807
 Far http://www.openstreetmap.org/?lat=46.881154&lon=-96.785131
