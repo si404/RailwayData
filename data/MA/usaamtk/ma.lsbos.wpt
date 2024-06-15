@@ -51,7 +51,7 @@ Wor http://www.openstreetmap.org/?lat=42.260918&lon=-71.795354
 Fra http://www.openstreetmap.org/?lat=42.276094&lon=-71.420059
 +SKIP_WestNat http://www.openstreetmap.org/?lat=42.283111&lon=-71.391842
 +SKIP_NatCen http://www.openstreetmap.org/?lat=42.285774&lon=-71.347028
-+SKIP_WelSq http://www.openstreetmap.org/?lat=42.297187&lon=-71.294800
+*Wel http://www.openstreetmap.org/?lat=42.297187&lon=-71.294800
 +SKIP_WelHil http://www.openstreetmap.org/?lat=42.310280&lon=-71.277151
 +SKIP_WelFar http://www.openstreetmap.org/?lat=42.322029&lon=-71.272484
 +X751457 http://www.openstreetmap.org/?lat=42.333681&lon=-71.270982
