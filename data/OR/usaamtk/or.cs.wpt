@@ -84,7 +84,8 @@ Alb http://www.openstreetmap.org/?lat=44.630581&lon=-123.102064
 Sal http://www.openstreetmap.org/?lat=44.932268&lon=-123.028078
 +X207026 http://www.openstreetmap.org/?lat=45.021915&lon=-122.982845
 +X946088 http://www.openstreetmap.org/?lat=45.081097&lon=-122.932205
-+X100385 http://www.openstreetmap.org/?lat=45.141307&lon=-122.857876
++SKIP_Woo http://www.openstreetmap.org/?lat=45.143047&lon=-122.855548
++X250924 http://www.openstreetmap.org/?lat=45.211269&lon=-122.770972
 +X644259 http://www.openstreetmap.org/?lat=45.231654&lon=-122.757111
 +X280573 http://www.openstreetmap.org/?lat=45.254256&lon=-122.715483
 +X975378 http://www.openstreetmap.org/?lat=45.266883&lon=-122.679949
