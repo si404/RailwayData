@@ -134,6 +134,7 @@ Pao http://www.openstreetmap.org/?lat=40.042910&lon=-75.483713
 +SKIP_Mer http://www.openstreetmap.org/?lat=39.997556&lon=-75.251455
 +SKIP_Ove http://www.openstreetmap.org/?lat=39.990125&lon=-75.249910
 +DIV_Cyn http://www.openstreetmap.org/?lat=39.978723&lon=-75.228131
++SKIP_52ndSt http://www.openstreetmap.org/?lat=39.978000&lon=-75.226275
 +DIV_NEN http://www.openstreetmap.org/?lat=39.968347&lon=-75.194871
 +DIV_Sub1 http://www.openstreetmap.org/?lat=39.965391&lon=-75.187801
 Phi30thSt http://www.openstreetmap.org/?lat=39.956526&lon=-75.181707
