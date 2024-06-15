@@ -32,5 +32,5 @@ BalPenn http://www.openstreetmap.org/?lat=39.307690&lon=-76.615385
 +X106521 http://www.openstreetmap.org/?lat=39.581928&lon=-75.970974
 +X836139 http://www.openstreetmap.org/?lat=39.610334&lon=-75.929089
 +X411515 http://www.openstreetmap.org/?lat=39.601406&lon=-75.866303
-+X794177 http://www.openstreetmap.org/?lat=39.619656&lon=-75.821199
++SKIP_Elk http://www.openstreetmap.org/?lat=39.613264&lon=-75.831526
 MD/DE http://www.openstreetmap.org/?lat=39.648088&lon=-75.788498
