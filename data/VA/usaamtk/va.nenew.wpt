@@ -46,7 +46,7 @@ Woo http://www.openstreetmap.org/?lat=38.658999&lon=-77.248263
 +SKIP_LorAutoTra http://www.openstreetmap.org/?lat=38.708269&lon=-77.220197
 +SKIP_Lor http://www.openstreetmap.org/?lat=38.715067&lon=-77.214618
 +X759733 http://www.openstreetmap.org/?lat=38.730234&lon=-77.188568
-+SKIP_FraSpr http://www.openstreetmap.org/?lat=38.766172&lon=-77.168312
+*FraSpr http://www.openstreetmap.org/?lat=38.766172&lon=-77.168312
 +X656682 http://www.openstreetmap.org/?lat=38.773333&lon=-77.158163
 +X773723 http://www.openstreetmap.org/?lat=38.793480&lon=-77.153056
 +X865348 http://www.openstreetmap.org/?lat=38.800153&lon=-77.121770
