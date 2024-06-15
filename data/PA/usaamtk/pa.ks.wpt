@@ -26,10 +26,10 @@ Coa http://www.openstreetmap.org/?lat=39.985908&lon=-75.820963
 Dow http://www.openstreetmap.org/?lat=40.002035&lon=-75.710542
 +X822931 http://www.openstreetmap.org/?lat=40.007467&lon=-75.676146
 +X184571 http://www.openstreetmap.org/?lat=40.005002&lon=-75.665975
-+SKIP_Whi http://www.openstreetmap.org/?lat=40.014674&lon=-75.638402
+*Whi http://www.openstreetmap.org/?lat=40.014674&lon=-75.638402
 Ext http://www.openstreetmap.org/?lat=40.019390&lon=-75.621707
 +X962543 http://www.openstreetmap.org/?lat=40.032314&lon=-75.572033
-+SKIP_Mal http://www.openstreetmap.org/?lat=40.036437&lon=-75.515556
+*Mal http://www.openstreetmap.org/?lat=40.036437&lon=-75.515556
 Pao http://www.openstreetmap.org/?lat=40.042910&lon=-75.483713
 +SKIP_Day http://www.openstreetmap.org/?lat=40.043041&lon=-75.460711
 *Ber http://www.openstreetmap.org/?lat=40.048035&lon=-75.442429
