@@ -9,12 +9,14 @@ PA/NY http://www.openstreetmap.org/?lat=42.241545&lon=-79.761944
 +X292785 http://www.openstreetmap.org/?lat=42.797857&lon=-78.831711
 +X701182 http://www.openstreetmap.org/?lat=42.857123&lon=-78.849993
 +DIV_Nia http://www.openstreetmap.org/?lat=42.883983&lon=-78.837719
+*BufCenTer http://www.openstreetmap.org/?lat=42.887969&lon=-78.828573
 +X959358 http://www.openstreetmap.org/?lat=42.898384&lon=-78.803902
 BufDep http://www.openstreetmap.org/?lat=42.907374&lon=-78.726568
 +X225520 http://www.openstreetmap.org/?lat=42.927174&lon=-78.578253
 +X724265 http://www.openstreetmap.org/?lat=42.989142&lon=-78.220425
-+X464737 http://www.openstreetmap.org/?lat=42.985500&lon=-78.167553
-+X947738 http://www.openstreetmap.org/?lat=43.042673&lon=-78.080521
++SKIP_Bat http://www.openstreetmap.org/?lat=42.984951&lon=-78.172075
++X414365 http://www.openstreetmap.org/?lat=42.995231&lon=-78.143606
++X668619 http://www.openstreetmap.org/?lat=43.040885&lon=-78.091507
 +X233054 http://www.openstreetmap.org/?lat=43.100670&lon=-77.884483
 +X522337 http://www.openstreetmap.org/?lat=43.108189&lon=-77.801657
 Roc http://www.openstreetmap.org/?lat=43.163636&lon=-77.608881
@@ -41,6 +43,7 @@ Roc http://www.openstreetmap.org/?lat=43.163636&lon=-77.608881
 Syr http://www.openstreetmap.org/?lat=43.076976&lon=-76.170101
 +X477199 http://www.openstreetmap.org/?lat=43.089921&lon=-76.133537
 +X895661 http://www.openstreetmap.org/?lat=43.062962&lon=-76.071997
+*OldSyr http://www.openstreetmap.org/?lat=43.064883&lon=-76.058725
 +X293493 http://www.openstreetmap.org/?lat=43.082587&lon=-75.930719
 +X566097 http://www.openstreetmap.org/?lat=43.073810&lon=-75.790215
 +X956832 http://www.openstreetmap.org/?lat=43.079389&lon=-75.730133
@@ -74,6 +77,7 @@ Uti http://www.openstreetmap.org/?lat=43.104813&lon=-75.222938
 +DIV_Mon http://www.openstreetmap.org/?lat=42.816031&lon=-73.941572
 Sch http://www.openstreetmap.org/?lat=42.814339&lon=-73.942666
 +X358147 http://www.openstreetmap.org/?lat=42.797180&lon=-73.957343
+*Col http://www.openstreetmap.org/?lat=42.728904&lon=-73.865697
 +X142867 http://www.openstreetmap.org/?lat=42.691552&lon=-73.816710
 +X487679 http://www.openstreetmap.org/?lat=42.686190&lon=-73.789501
 +X920114 http://www.openstreetmap.org/?lat=42.664356&lon=-73.746929

@@ -191,6 +191,7 @@ MisHar http://www.openstreetmap.org/?lat=49.125511&lon=-122.298174
 +DIV_Amt http://www.openstreetmap.org/?lat=49.206089&lon=-122.888432
 +X441535 http://www.openstreetmap.org/?lat=49.209415&lon=-122.897379
 +X687526 http://www.openstreetmap.org/?lat=49.224647&lon=-122.889676
++SKIP_NewWes http://www.openstreetmap.org/?lat=49.228710&lon=-122.885068
 +X135836 http://www.openstreetmap.org/?lat=49.232942&lon=-122.881436
 +X761749 http://www.openstreetmap.org/?lat=49.250453&lon=-122.913280
 +X339762 http://www.openstreetmap.org/?lat=49.246027&lon=-122.949371

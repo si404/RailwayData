@@ -1,8 +1,9 @@
 NewNews http://www.openstreetmap.org/?lat=37.022874&lon=-76.451797
 +X135657 http://www.openstreetmap.org/?lat=37.105113&lon=-76.502910
-+X481751 http://www.openstreetmap.org/?lat=37.206850&lon=-76.584234
+*LeeHall http://www.openstreetmap.org/?lat=37.194185&lon=-76.573001
 +X509631 http://www.openstreetmap.org/?lat=37.259179&lon=-76.671739
 Wil http://www.openstreetmap.org/?lat=37.276614&lon=-76.708517
+*WilPotFac http://www.openstreetmap.org/?lat=37.349426&lon=-76.760037
 +X347252 http://www.openstreetmap.org/?lat=37.379468&lon=-76.780529
 +X463642 http://www.openstreetmap.org/?lat=37.394590&lon=-76.819882
 +X167124 http://www.openstreetmap.org/?lat=37.385248&lon=-76.849236
@@ -16,6 +17,7 @@ Wil http://www.openstreetmap.org/?lat=37.276614&lon=-76.708517
 RicMainSt http://www.openstreetmap.org/?lat=37.534420&lon=-77.429152
 +X422910 http://www.openstreetmap.org/?lat=37.551399&lon=-77.427263
 +X423953 http://www.openstreetmap.org/?lat=37.555210&lon=-77.445760
++DIV_BroSt http://www.openstreetmap.org/?lat=37.566164&lon=-77.464020
 +DIV_Ric http://www.openstreetmap.org/?lat=37.577678&lon=-77.472668
 RicStaMillRd http://www.openstreetmap.org/?lat=37.617852&lon=-77.496400
 +X269378 http://www.openstreetmap.org/?lat=37.644430&lon=-77.507558
@@ -46,7 +48,7 @@ Woo http://www.openstreetmap.org/?lat=38.658999&lon=-77.248263
 +SKIP_LorAutoTra http://www.openstreetmap.org/?lat=38.708269&lon=-77.220197
 +SKIP_Lor http://www.openstreetmap.org/?lat=38.715067&lon=-77.214618
 +X759733 http://www.openstreetmap.org/?lat=38.730234&lon=-77.188568
-+SKIP_FraSpr http://www.openstreetmap.org/?lat=38.766172&lon=-77.168312
+*FraSpr http://www.openstreetmap.org/?lat=38.766172&lon=-77.168312
 +X656682 http://www.openstreetmap.org/?lat=38.773333&lon=-77.158163
 +X773723 http://www.openstreetmap.org/?lat=38.793480&lon=-77.153056
 +X865348 http://www.openstreetmap.org/?lat=38.800153&lon=-77.121770

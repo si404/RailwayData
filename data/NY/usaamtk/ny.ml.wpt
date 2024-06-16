@@ -1,5 +1,6 @@
 CAN/USA http://www.openstreetmap.org/?lat=43.109231&lon=-79.058304
 NiaFal http://www.openstreetmap.org/?lat=43.109740&lon=-79.054828
+*OldNiaFal http://www.openstreetmap.org/?lat=43.113116&lon=-79.031401
 +X467095 http://www.openstreetmap.org/?lat=43.126233&lon=-78.941746
 +X705960 http://www.openstreetmap.org/?lat=43.112826&lon=-78.922863
 +X762335 http://www.openstreetmap.org/?lat=43.068198&lon=-78.920116
@@ -9,12 +10,14 @@ NiaFal http://www.openstreetmap.org/?lat=43.109740&lon=-79.054828
 +X855263 http://www.openstreetmap.org/?lat=42.901323&lon=-78.900547
 BufExcSt http://www.openstreetmap.org/?lat=42.878464&lon=-78.873897
 +DIV_Lak http://www.openstreetmap.org/?lat=42.883983&lon=-78.837719
+*BufCenTer http://www.openstreetmap.org/?lat=42.887969&lon=-78.828573
 +X959358 http://www.openstreetmap.org/?lat=42.898384&lon=-78.803902
 BufDep http://www.openstreetmap.org/?lat=42.907374&lon=-78.726568
 +X225520 http://www.openstreetmap.org/?lat=42.927174&lon=-78.578253
 +X724265 http://www.openstreetmap.org/?lat=42.989142&lon=-78.220425
-+X464737 http://www.openstreetmap.org/?lat=42.985500&lon=-78.167553
-+X947738 http://www.openstreetmap.org/?lat=43.042673&lon=-78.080521
++SKIP_Bat http://www.openstreetmap.org/?lat=42.984951&lon=-78.172075
++X414365 http://www.openstreetmap.org/?lat=42.995231&lon=-78.143606
++X668619 http://www.openstreetmap.org/?lat=43.040885&lon=-78.091507
 +X233054 http://www.openstreetmap.org/?lat=43.100670&lon=-77.884483
 +X522337 http://www.openstreetmap.org/?lat=43.108189&lon=-77.801657
 Roc http://www.openstreetmap.org/?lat=43.163636&lon=-77.608881
@@ -41,6 +44,7 @@ Roc http://www.openstreetmap.org/?lat=43.163636&lon=-77.608881
 Syr http://www.openstreetmap.org/?lat=43.076976&lon=-76.170101
 +X477199 http://www.openstreetmap.org/?lat=43.089921&lon=-76.133537
 +X895661 http://www.openstreetmap.org/?lat=43.062962&lon=-76.071997
+*OldSyr http://www.openstreetmap.org/?lat=43.064883&lon=-76.058725
 +X293493 http://www.openstreetmap.org/?lat=43.082587&lon=-75.930719
 +X566097 http://www.openstreetmap.org/?lat=43.073810&lon=-75.790215
 +X956832 http://www.openstreetmap.org/?lat=43.079389&lon=-75.730133
@@ -74,6 +78,7 @@ Ams http://www.openstreetmap.org/?lat=42.953556&lon=-74.219706
 +DIV_Mon http://www.openstreetmap.org/?lat=42.816031&lon=-73.941572
 Sch http://www.openstreetmap.org/?lat=42.814339&lon=-73.942666
 +X358147 http://www.openstreetmap.org/?lat=42.797180&lon=-73.957343
++SKIP_Col http://www.openstreetmap.org/?lat=42.728904&lon=-73.865697
 +X142867 http://www.openstreetmap.org/?lat=42.691552&lon=-73.816710
 +X487679 http://www.openstreetmap.org/?lat=42.686190&lon=-73.789501
 +X920114 http://www.openstreetmap.org/?lat=42.664356&lon=-73.746929

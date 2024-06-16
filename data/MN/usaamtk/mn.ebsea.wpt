@@ -46,9 +46,11 @@ StClo http://www.openstreetmap.org/?lat=45.568000&lon=-94.148712
 +SKIP_Fri http://www.openstreetmap.org/?lat=45.078870&lon=-93.270879
 +X962108 http://www.openstreetmap.org/?lat=45.037960&lon=-93.274097
 +DIV_Nor http://www.openstreetmap.org/?lat=44.994547&lon=-93.245173
++X425071 http://www.openstreetmap.org/?lat=44.981162&lon=-93.224938
 +X483721 http://www.openstreetmap.org/?lat=44.971781&lon=-93.187065
 *Mid http://www.openstreetmap.org/?lat=44.962991&lon=-93.184018
-+X399406 http://www.openstreetmap.org/?lat=44.955506&lon=-93.187065
++DIV_Mid http://www.openstreetmap.org/?lat=44.954056&lon=-93.182924
++X839274 http://www.openstreetmap.org/?lat=44.943995&lon=-93.154707
 +X783013 http://www.openstreetmap.org/?lat=44.932268&lon=-93.146553
 +X559165 http://www.openstreetmap.org/?lat=44.933848&lon=-93.113165
 StPaulUniDep http://www.openstreetmap.org/?lat=44.946409&lon=-93.084712

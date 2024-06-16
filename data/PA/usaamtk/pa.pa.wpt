@@ -1,13 +1,14 @@
 PitUni http://www.openstreetmap.org/?lat=40.444636&lon=-79.991498
 +DIV_Cap http://www.openstreetmap.org/?lat=40.459144&lon=-79.967809
 +X586938 http://www.openstreetmap.org/?lat=40.456401&lon=-79.907598
-+X144862 http://www.openstreetmap.org/?lat=40.448351&lon=-79.890389
+*Wil http://www.openstreetmap.org/?lat=40.443363&lon=-79.887391
 +X772812 http://www.openstreetmap.org/?lat=40.421191&lon=-79.887257
 +X567713 http://www.openstreetmap.org/?lat=40.398709&lon=-79.859619
 +X239732 http://www.openstreetmap.org/?lat=40.392393&lon=-79.837925
 +X704505 http://www.openstreetmap.org/?lat=40.402810&lon=-79.825888
 +X144386 http://www.openstreetmap.org/?lat=40.394052&lon=-79.810266
-+X622684 http://www.openstreetmap.org/?lat=40.400163&lon=-79.782801
+*Pitc http://www.openstreetmap.org/?lat=40.399877&lon=-79.779561
++X908577 http://www.openstreetmap.org/?lat=40.375092&lon=-79.762738
 +X149231 http://www.openstreetmap.org/?lat=40.336142&lon=-79.711304
 +X906549 http://www.openstreetmap.org/?lat=40.331366&lon=-79.629765
 Gre http://www.openstreetmap.org/?lat=40.304739&lon=-79.547024
@@ -134,6 +135,7 @@ Pao http://www.openstreetmap.org/?lat=40.042910&lon=-75.483713
 +SKIP_Mer http://www.openstreetmap.org/?lat=39.997556&lon=-75.251455
 +SKIP_Ove http://www.openstreetmap.org/?lat=39.990125&lon=-75.249910
 +DIV_Cyn http://www.openstreetmap.org/?lat=39.978723&lon=-75.228131
++SKIP_52ndSt http://www.openstreetmap.org/?lat=39.978000&lon=-75.226275
 +DIV_NEN http://www.openstreetmap.org/?lat=39.968347&lon=-75.194871
 +DIV_Sub1 http://www.openstreetmap.org/?lat=39.965391&lon=-75.187801
 Phi30thSt http://www.openstreetmap.org/?lat=39.956526&lon=-75.181707

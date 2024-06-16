@@ -13,12 +13,14 @@ Ren http://www.openstreetmap.org/?lat=40.943261&lon=-87.154841
 +X474067 http://www.openstreetmap.org/?lat=40.859947&lon=-86.877823
 +X814530 http://www.openstreetmap.org/?lat=40.589743&lon=-86.866493
 +X708044 http://www.openstreetmap.org/?lat=40.521238&lon=-86.836109
++DIV_LafN http://www.openstreetmap.org/?lat=40.427970&lon=-86.891642
 Laf http://www.openstreetmap.org/?lat=40.419524&lon=-86.896319
-+X508489 http://www.openstreetmap.org/?lat=40.405621&lon=-86.901598
++DIV_LafS http://www.openstreetmap.org/?lat=40.405547&lon=-86.902102
 +X970361 http://www.openstreetmap.org/?lat=40.393398&lon=-86.926146
 +X474952 http://www.openstreetmap.org/?lat=40.345955&lon=-86.936016
 +X925022 http://www.openstreetmap.org/?lat=40.299494&lon=-86.913357
 Cra http://www.openstreetmap.org/?lat=40.044635&lon=-86.899120
++DIV_Cra http://www.openstreetmap.org/?lat=40.036084&lon=-86.886513
 +X101243 http://www.openstreetmap.org/?lat=39.945114&lon=-86.666465
 +X805882 http://www.openstreetmap.org/?lat=39.888731&lon=-86.546860
 +X178726 http://www.openstreetmap.org/?lat=39.854081&lon=-86.416569

@@ -42,7 +42,7 @@ WinHav http://www.openstreetmap.org/?lat=28.001961&lon=-81.734676
 +X897393 http://www.openstreetmap.org/?lat=28.105733&lon=-81.631894
 +X522580 http://www.openstreetmap.org/?lat=28.256025&lon=-81.552629
 +X407713 http://www.openstreetmap.org/?lat=28.267308&lon=-81.526794
-+SKIP_Poi http://www.openstreetmap.org/?lat=28.258874&lon=-81.484351
+*Poi http://www.openstreetmap.org/?lat=28.258874&lon=-81.484351
 +X780823 http://www.openstreetmap.org/?lat=28.258267&lon=-81.466010
 Kis http://www.openstreetmap.org/?lat=28.293819&lon=-81.403842
 +SKIP_Tup http://www.openstreetmap.org/?lat=28.343122&lon=-81.390023
@@ -61,6 +61,7 @@ WinPark http://www.openstreetmap.org/?lat=28.597013&lon=-81.351657
 +SKIP_Lon http://www.openstreetmap.org/?lat=28.701519&lon=-81.345220
 +SKIP_LakeMary http://www.openstreetmap.org/?lat=28.758527&lon=-81.318419
 +X655319 http://www.openstreetmap.org/?lat=28.785667&lon=-81.292155
+*OldSan http://www.openstreetmap.org/?lat=28.805689&lon=-81.291828
 +DIV_AT http://www.openstreetmap.org/?lat=28.810583&lon=-81.293764
 +SKIP_San http://www.openstreetmap.org/?lat=28.813628&lon=-81.298474
 +X522565 http://www.openstreetmap.org/?lat=28.831572&lon=-81.325951
@@ -89,7 +90,8 @@ Pal http://www.openstreetmap.org/?lat=29.649915&lon=-81.640756
 +X902725 http://www.openstreetmap.org/?lat=30.241236&lon=-81.696653
 +X109735 http://www.openstreetmap.org/?lat=30.277785&lon=-81.720428
 +X298161 http://www.openstreetmap.org/?lat=30.302094&lon=-81.720428
-+X772515 http://www.openstreetmap.org/?lat=30.331509&lon=-81.681032
++DIV_Jac http://www.openstreetmap.org/?lat=30.333306&lon=-81.684401
++DIV_SLn http://www.openstreetmap.org/?lat=30.360969&lon=-81.718937
 Jac http://www.openstreetmap.org/?lat=30.365127&lon=-81.724119
 +X911938 http://www.openstreetmap.org/?lat=30.567213&lon=-81.837845
 +X138319 http://www.openstreetmap.org/?lat=30.713984&lon=-81.936636

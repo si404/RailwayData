@@ -4,11 +4,12 @@ Wes http://www.openstreetmap.org/?lat=41.381293&lon=-71.829965
 +X711942 http://www.openstreetmap.org/?lat=41.412898&lon=-71.722097
 +X363690 http://www.openstreetmap.org/?lat=41.430975&lon=-71.710339
 +X594642 http://www.openstreetmap.org/?lat=41.451018&lon=-71.654935
++SKIP_Sha http://www.openstreetmap.org/?lat=41.447282&lon=-71.640344
 +X570092 http://www.openstreetmap.org/?lat=41.447222&lon=-71.623349
 Kin http://www.openstreetmap.org/?lat=41.484092&lon=-71.560736
 +X791262 http://www.openstreetmap.org/?lat=41.502824&lon=-71.531210
 +SKIP_WicJct http://www.openstreetmap.org/?lat=41.580950&lon=-71.491299
-+X778158 http://www.openstreetmap.org/?lat=41.661507&lon=-71.446946
+*EastGre http://www.openstreetmap.org/?lat=41.659419&lon=-71.447895
 +X605043 http://www.openstreetmap.org/?lat=41.694562&lon=-71.453962
 +SKIP_TFGAir http://www.openstreetmap.org/?lat=41.727456&lon=-71.442118
 +X763805 http://www.openstreetmap.org/?lat=41.783905&lon=-71.421733

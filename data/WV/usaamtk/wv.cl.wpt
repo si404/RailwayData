@@ -9,7 +9,7 @@ MD/WV http://www.openstreetmap.org/?lat=39.560673&lon=-78.429337
 +X243285 http://www.openstreetmap.org/?lat=39.663724&lon=-78.224030
 +X669090 http://www.openstreetmap.org/?lat=39.673503&lon=-78.231583
 +X622336 http://www.openstreetmap.org/?lat=39.676343&lon=-78.202915
-+X992573 http://www.openstreetmap.org/?lat=39.690743&lon=-78.186607
+*Han http://www.openstreetmap.org/?lat=39.692547&lon=-78.177686
 +X788475 http://www.openstreetmap.org/?lat=39.689290&lon=-78.144550
 +X564865 http://www.openstreetmap.org/?lat=39.665707&lon=-78.074856
 +X531716 http://www.openstreetmap.org/?lat=39.600133&lon=-78.010912
@@ -19,7 +19,7 @@ Mar http://www.openstreetmap.org/?lat=39.458413&lon=-77.960572
 +X144833 http://www.openstreetmap.org/?lat=39.440949&lon=-77.905297
 +X166555 http://www.openstreetmap.org/?lat=39.373023&lon=-77.881136
 +X391631 http://www.openstreetmap.org/?lat=39.360698&lon=-77.858219
-+SKIP_Duf http://www.openstreetmap.org/?lat=39.362058&lon=-77.828050
+*Duf http://www.openstreetmap.org/?lat=39.362058&lon=-77.828050
 +X454219 http://www.openstreetmap.org/?lat=39.363850&lon=-77.814016
 +X701332 http://www.openstreetmap.org/?lat=39.336140&lon=-77.772560
 HarFry http://www.openstreetmap.org/?lat=39.324521&lon=-77.730932
