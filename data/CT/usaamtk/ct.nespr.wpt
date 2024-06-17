@@ -33,7 +33,7 @@ NHUniSta http://www.openstreetmap.org/?lat=41.297300&lon=-72.925894
 NHStaSt http://www.openstreetmap.org/?lat=41.305134&lon=-72.921796
 +DIV_SLE http://www.openstreetmap.org/?lat=41.319865&lon=-72.897077
 +X207031 http://www.openstreetmap.org/?lat=41.344984&lon=-72.894459
-+X239143 http://www.openstreetmap.org/?lat=41.384649&lon=-72.873302
+*NorHav http://www.openstreetmap.org/?lat=41.377738&lon=-72.878264
 +X118215 http://www.openstreetmap.org/?lat=41.407169&lon=-72.847080
 Wal http://www.openstreetmap.org/?lat=41.461559&lon=-72.822790
 +X475307 http://www.openstreetmap.org/?lat=41.487620&lon=-72.809916
@@ -52,5 +52,5 @@ Win http://www.openstreetmap.org/?lat=41.852197&lon=-72.642117
 WinLoc http://www.openstreetmap.org/?lat=41.913919&lon=-72.626023
 +X841626 http://www.openstreetmap.org/?lat=41.935256&lon=-72.627075
 +X277479 http://www.openstreetmap.org/?lat=41.945990&lon=-72.606540
-+X441602 http://www.openstreetmap.org/?lat=42.001904&lon=-72.604480
+*Enf http://www.openstreetmap.org/?lat=41.999093&lon=-72.604410
 CT/MA http://www.openstreetmap.org/?lat=42.025029&lon=-72.598450

@@ -537,6 +537,7 @@ turim;TUR;İstanbul Metrosu;TMblue;3;preview
 turit;TUR;İstanbul Tramvayı;TMred;4;preview
 turif;TUR;İstanbul Füniküleri;TMyellow;5;preview
 uryafe;URY;Administración de Ferrocarriles del Estado;TMpurple;1;preview
+usaamtk;USA;Amtrak;TMpurple;1;preview
 usaarr;USA;Alaska Railroad;TMpurple;1;preview
 usablfx;USA;Brightline;TMgreen;2;preview
 usacfr;USA;SunRail;TMgreen;2;preview
@@ -644,4 +645,3 @@ usawst;USA;Willamette Shore Trolley;TMyellow;5;preview
 usascm;USA;Seattle Center Monorail;TMyellow;5;preview
 usassc;USA;Seattle Streetcars;TMyellow;5;preview
 nawpy;NA;White Pass & Yukon Route Railway;TMyellow;5;preview
-usaamtk;USA;Amtrak;TMgrey;1;devel

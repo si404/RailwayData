@@ -5,6 +5,7 @@ Was http://www.openstreetmap.org/?lat=35.594123&lon=-119.331694
 +X742504 http://www.openstreetmap.org/?lat=35.650252&lon=-119.331608
 +X500042 http://www.openstreetmap.org/?lat=35.718016&lon=-119.330750
 +X990962 http://www.openstreetmap.org/?lat=35.851561&lon=-119.376926
+All http://www.openstreetmap.org/?lat=35.863978&lon=-119.385713
 +X108955 http://www.openstreetmap.org/?lat=35.936390&lon=-119.439068
 +X435819 http://www.openstreetmap.org/?lat=36.040702&lon=-119.514942
 Cor http://www.openstreetmap.org/?lat=36.098319&lon=-119.556999
@@ -21,6 +22,7 @@ Fre http://www.openstreetmap.org/?lat=36.738437&lon=-119.782562
 +X458009 http://www.openstreetmap.org/?lat=36.786398&lon=-119.807796
 +X786119 http://www.openstreetmap.org/?lat=36.854969&lon=-119.913025
 +X127710 http://www.openstreetmap.org/?lat=36.944747&lon=-119.993191
+*Sto http://www.openstreetmap.org/?lat=36.976004&lon=-120.020496
 Mad http://www.openstreetmap.org/?lat=37.022480&lon=-120.075288
 +X426113 http://www.openstreetmap.org/?lat=37.176526&lon=-120.181847
 +X803032 http://www.openstreetmap.org/?lat=37.294472&lon=-120.329132
@@ -29,13 +31,15 @@ Mer http://www.openstreetmap.org/?lat=37.307427&lon=-120.476761
 +X220573 http://www.openstreetmap.org/?lat=37.318127&lon=-120.505171
 +X410208 http://www.openstreetmap.org/?lat=37.426991&lon=-120.673742
 +X122106 http://www.openstreetmap.org/?lat=37.483474&lon=-120.753479
+TurDen http://www.openstreetmap.org/?lat=37.527234&lon=-120.798170
 +X821087 http://www.openstreetmap.org/?lat=37.620435&lon=-120.898705
 Mod http://www.openstreetmap.org/?lat=37.669198&lon=-120.912309
+*Riv http://www.openstreetmap.org/?lat=37.726283&lon=-120.936089
 +X540644 http://www.openstreetmap.org/?lat=37.758332&lon=-120.947371
 +X625979 http://www.openstreetmap.org/?lat=37.816870&lon=-121.023588
 +X887041 http://www.openstreetmap.org/?lat=37.951034&lon=-121.253185
 +DIV_Sto http://www.openstreetmap.org/?lat=37.946795&lon=-121.275909
-StoSanJoaSq http://www.openstreetmap.org/?lat=37.945061&lon=-121.285458
+SanJoaSt http://www.openstreetmap.org/?lat=37.945061&lon=-121.285458
 +X461924 http://www.openstreetmap.org/?lat=37.934281&lon=-121.353006
 +X456082 http://www.openstreetmap.org/?lat=37.940441&lon=-121.623373
 +X413780 http://www.openstreetmap.org/?lat=37.992814&lon=-121.698303
@@ -54,7 +58,8 @@ Mar http://www.openstreetmap.org/?lat=38.019123&lon=-122.138958
 +X549938 http://www.openstreetmap.org/?lat=37.952286&lon=-122.360315
 Ric http://www.openstreetmap.org/?lat=37.936684&lon=-122.353320
 +X607898 http://www.openstreetmap.org/?lat=37.895006&lon=-122.309504
-+SKIP_Ber http://www.openstreetmap.org/?lat=37.867299&lon=-122.300749
+*Ber http://www.openstreetmap.org/?lat=37.867299&lon=-122.300749
 Eme http://www.openstreetmap.org/?lat=37.840326&lon=-122.292423
+*Oak16thSt http://www.openstreetmap.org/?lat=37.816777&lon=-122.298743
 +X302595 http://www.openstreetmap.org/?lat=37.806834&lon=-122.305298
 OakJackLonSq http://www.openstreetmap.org/?lat=37.793219&lon=-122.271824

@@ -22,6 +22,7 @@ DodCity http://www.openstreetmap.org/?lat=37.752139&lon=-100.016270
 +X583562 http://www.openstreetmap.org/?lat=37.913563&lon=-99.431334
 +X776780 http://www.openstreetmap.org/?lat=37.934619&lon=-99.376144
 +X588899 http://www.openstreetmap.org/?lat=37.933130&lon=-99.335461
++X352545 http://www.openstreetmap.org/?lat=37.953081&lon=-99.095532
 +X733843 http://www.openstreetmap.org/?lat=37.974955&lon=-98.828630
 +X822096 http://www.openstreetmap.org/?lat=37.994641&lon=-98.756618
 +X422197 http://www.openstreetmap.org/?lat=37.958207&lon=-98.505993
@@ -29,6 +30,7 @@ DodCity http://www.openstreetmap.org/?lat=37.752139&lon=-100.016270
 +X406886 http://www.openstreetmap.org/?lat=37.973906&lon=-98.341970
 +X475328 http://www.openstreetmap.org/?lat=37.970591&lon=-98.083277
 Hut http://www.openstreetmap.org/?lat=38.055695&lon=-97.930841
++X195901 http://www.openstreetmap.org/?lat=38.023796&lon=-97.671515
 +X861181 http://www.openstreetmap.org/?lat=38.006037&lon=-97.503319
 +X627905 http://www.openstreetmap.org/?lat=38.024092&lon=-97.378178
 New http://www.openstreetmap.org/?lat=38.046841&lon=-97.344275
@@ -46,6 +48,7 @@ New http://www.openstreetmap.org/?lat=38.046841&lon=-97.344275
 +X397088 http://www.openstreetmap.org/?lat=38.384089&lon=-96.507168
 +X765302 http://www.openstreetmap.org/?lat=38.393978&lon=-96.426058
 +X462631 http://www.openstreetmap.org/?lat=38.405211&lon=-96.380739
+*Emp http://www.openstreetmap.org/?lat=38.401316&lon=-96.186907
 +X505986 http://www.openstreetmap.org/?lat=38.401209&lon=-96.165390
 +X256798 http://www.openstreetmap.org/?lat=38.475901&lon=-96.060848
 +X858407 http://www.openstreetmap.org/?lat=38.517348&lon=-95.982399

@@ -11,7 +11,7 @@ PennSta http://www.openstreetmap.org/?lat=40.750220&lon=-73.992802
 +X759084 http://www.openstreetmap.org/?lat=40.835681&lon=-73.879023
 +X603011 http://www.openstreetmap.org/?lat=40.864605&lon=-73.816581
 +DIV_MN http://www.openstreetmap.org/?lat=40.907764&lon=-73.788085
-+SKIP_NewRoc http://www.openstreetmap.org/?lat=40.911315&lon=-73.783901
+*NewRoc http://www.openstreetmap.org/?lat=40.911315&lon=-73.783901
 +SKIP_Lar http://www.openstreetmap.org/?lat=40.934500&lon=-73.758345
 +SKIP_Mam http://www.openstreetmap.org/?lat=40.953853&lon=-73.736222
 +SKIP_Har http://www.openstreetmap.org/?lat=40.969700&lon=-73.711867

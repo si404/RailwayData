@@ -5,10 +5,11 @@ NC/VA http://www.openstreetmap.org/?lat=36.545122&lon=-77.530003
 +X375124 http://www.openstreetmap.org/?lat=36.828008&lon=-77.455759
 +X230408 http://www.openstreetmap.org/?lat=36.936789&lon=-77.401428
 +X739515 http://www.openstreetmap.org/?lat=37.020612&lon=-77.393103
++DIV_Bur http://www.openstreetmap.org/?lat=37.149884&lon=-77.415483
 +DIV_Nor http://www.openstreetmap.org/?lat=37.189929&lon=-77.421341
 +X527780 http://www.openstreetmap.org/?lat=37.230516&lon=-77.434688
 Pet http://www.openstreetmap.org/?lat=37.241791&lon=-77.429152
-+X788437 http://www.openstreetmap.org/?lat=37.271765&lon=-77.406664
++DIV_Hil http://www.openstreetmap.org/?lat=37.271765&lon=-77.406664
 +X930455 http://www.openstreetmap.org/?lat=37.311472&lon=-77.402458
 +X791224 http://www.openstreetmap.org/?lat=37.357503&lon=-77.443528
 +X313251 http://www.openstreetmap.org/?lat=37.387038&lon=-77.454214
@@ -42,7 +43,7 @@ Fre http://www.openstreetmap.org/?lat=38.298273&lon=-77.456832
 +SKIP_Woo http://www.openstreetmap.org/?lat=38.658999&lon=-77.248263
 +X268234 http://www.openstreetmap.org/?lat=38.675979&lon=-77.229295
 +SKIP_LorAutoTra http://www.openstreetmap.org/?lat=38.708269&lon=-77.220197
-Lor http://www.openstreetmap.org/?lat=38.715067&lon=-77.214618
++SKIP_Lor http://www.openstreetmap.org/?lat=38.715067&lon=-77.214618
 +X759733 http://www.openstreetmap.org/?lat=38.730234&lon=-77.188568
 +SKIP_FraSpr http://www.openstreetmap.org/?lat=38.766172&lon=-77.168312
 +X656682 http://www.openstreetmap.org/?lat=38.773333&lon=-77.158163
@@ -54,5 +55,5 @@ Lor http://www.openstreetmap.org/?lat=38.715067&lon=-77.214618
 Ale http://www.openstreetmap.org/?lat=38.806816&lon=-77.060959
 +X357932 http://www.openstreetmap.org/?lat=38.824380&lon=-77.047184
 +X883466 http://www.openstreetmap.org/?lat=38.845657&lon=-77.050509
-CryCity http://www.openstreetmap.org/?lat=38.858182&lon=-77.048321
++SKIP_CryCity http://www.openstreetmap.org/?lat=38.858182&lon=-77.048321
 VA/DC http://www.openstreetmap.org/?lat=38.871636&lon=-77.041132

@@ -15,6 +15,7 @@ PortKent http://www.openstreetmap.org/?lat=44.523972&lon=-73.403435
 +X637672 http://www.openstreetmap.org/?lat=44.482331&lon=-73.420773
 +X547012 http://www.openstreetmap.org/?lat=44.451643&lon=-73.397856
 +X686276 http://www.openstreetmap.org/?lat=44.407267&lon=-73.417768
+*Wil http://www.openstreetmap.org/?lat=44.372486&lon=-73.407024
 +X953841 http://www.openstreetmap.org/?lat=44.293230&lon=-73.387899
 +X556274 http://www.openstreetmap.org/?lat=44.264349&lon=-73.399916
 +X967357 http://www.openstreetmap.org/?lat=44.247689&lon=-73.425579
@@ -42,7 +43,7 @@ Whi http://www.openstreetmap.org/?lat=43.554800&lon=-73.403263
 +X819002 http://www.openstreetmap.org/?lat=43.423066&lon=-73.482399
 +X451355 http://www.openstreetmap.org/?lat=43.366561&lon=-73.490639
 +X922661 http://www.openstreetmap.org/?lat=43.330984&lon=-73.513985
-FortEdwGleFal http://www.openstreetmap.org/?lat=43.269612&lon=-73.580267
+FortEdw http://www.openstreetmap.org/?lat=43.269612&lon=-73.580267
 +X822908 http://www.openstreetmap.org/?lat=43.238044&lon=-73.601017
 +X433244 http://www.openstreetmap.org/?lat=43.188188&lon=-73.665562
 +X101960 http://www.openstreetmap.org/?lat=43.125231&lon=-73.721180
@@ -52,9 +53,11 @@ SarSpr http://www.openstreetmap.org/?lat=43.082775&lon=-73.810530
 +X600740 http://www.openstreetmap.org/?lat=43.020870&lon=-73.837566
 +X726170 http://www.openstreetmap.org/?lat=42.999594&lon=-73.839111
 +X184349 http://www.openstreetmap.org/?lat=42.919192&lon=-73.870182
++DIV_Mec http://www.openstreetmap.org/?lat=42.903704&lon=-73.879033
 +DIV_Emp http://www.openstreetmap.org/?lat=42.816031&lon=-73.941572
 Sch http://www.openstreetmap.org/?lat=42.814339&lon=-73.942666
 +X358147 http://www.openstreetmap.org/?lat=42.797180&lon=-73.957343
++SKIP_Col http://www.openstreetmap.org/?lat=42.728904&lon=-73.865697
 +X142867 http://www.openstreetmap.org/?lat=42.691552&lon=-73.816710
 +X487679 http://www.openstreetmap.org/?lat=42.686190&lon=-73.789501
 +X920114 http://www.openstreetmap.org/?lat=42.664356&lon=-73.746929
@@ -70,7 +73,7 @@ Hud http://www.openstreetmap.org/?lat=42.254109&lon=-73.797956
 +X987511 http://www.openstreetmap.org/?lat=42.155705&lon=-73.888035
 +X203743 http://www.openstreetmap.org/?lat=42.110767&lon=-73.914299
 +X195202 http://www.openstreetmap.org/?lat=42.009063&lon=-73.927345
-RhiKin http://www.openstreetmap.org/?lat=41.921423&lon=-73.951721
+Rhi http://www.openstreetmap.org/?lat=41.921423&lon=-73.951721
 +X421520 http://www.openstreetmap.org/?lat=41.903746&lon=-73.955326
 +X777268 http://www.openstreetmap.org/?lat=41.863553&lon=-73.926659
 +X293243 http://www.openstreetmap.org/?lat=41.792305&lon=-73.946571

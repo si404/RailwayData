@@ -3,6 +3,7 @@ UniSta http://www.openstreetmap.org/?lat=34.055837&lon=-118.234525
 +DIV_Uni http://www.openstreetmap.org/?lat=34.062064&lon=-118.228812
 +X855488 http://www.openstreetmap.org/?lat=34.062099&lon=-118.183537
 +X694419 http://www.openstreetmap.org/?lat=34.077705&lon=-118.164740
++SKIP_Alh http://www.openstreetmap.org/?lat=34.079420&lon=-118.148797
 +X645158 http://www.openstreetmap.org/?lat=34.097360&lon=-118.099208
 +DIV_SBW http://www.openstreetmap.org/?lat=34.078132&lon=-118.037710
 +SKIP_ElMon http://www.openstreetmap.org/?lat=34.076843&lon=-118.035575
@@ -25,6 +26,7 @@ Ont http://www.openstreetmap.org/?lat=34.061468&lon=-117.649519
 +X115068 http://www.openstreetmap.org/?lat=33.904937&lon=-116.646051
 PalmSpr http://www.openstreetmap.org/?lat=33.897795&lon=-116.547904
 +X575130 http://www.openstreetmap.org/?lat=33.765270&lon=-116.320581
+*Ind http://www.openstreetmap.org/?lat=33.720940&lon=-116.215600
 +X491286 http://www.openstreetmap.org/?lat=33.715255&lon=-116.205397
 +X708351 http://www.openstreetmap.org/?lat=33.557597&lon=-116.066437
 +X550201 http://www.openstreetmap.org/?lat=33.538462&lon=-116.024895
@@ -37,6 +39,7 @@ PalmSpr http://www.openstreetmap.org/?lat=33.897795&lon=-116.547904
 +X685361 http://www.openstreetmap.org/?lat=33.265353&lon=-115.561409
 +X925700 http://www.openstreetmap.org/?lat=33.153290&lon=-115.309925
 +X412252 http://www.openstreetmap.org/?lat=32.989156&lon=-115.058098
++X934763 http://www.openstreetmap.org/?lat=32.875929&lon=-114.913924
 +X312931 http://www.openstreetmap.org/?lat=32.750593&lon=-114.755244
 +X208336 http://www.openstreetmap.org/?lat=32.745233&lon=-114.721041
 +X802817 http://www.openstreetmap.org/?lat=32.755917&lon=-114.682932
