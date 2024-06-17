@@ -15,11 +15,11 @@ EdiGat http://www.openstreetmap.org/?lat=55.940927&lon=-3.320124
 +X474192 http://www.openstreetmap.org/?lat=56.023554&lon=-3.405097
 Inv http://www.openstreetmap.org/?lat=56.035184&lon=-3.395376
 +DIV_Dun http://www.openstreetmap.org/?lat=56.037294&lon=-3.395827
-DalBay http://www.openstreetmap.org/?lat=56.042280&lon=-3.367181
-Abe http://www.openstreetmap.org/?lat=56.054773&lon=-3.301005
++SKIP_DalBay http://www.openstreetmap.org/?lat=56.042280&lon=-3.367181
++SKIP_Abe http://www.openstreetmap.org/?lat=56.054773&lon=-3.301005
 +X558421 http://www.openstreetmap.org/?lat=56.061219&lon=-3.249378
-Bur http://www.openstreetmap.org/?lat=56.057385&lon=-3.233886
-Kin http://www.openstreetmap.org/?lat=56.069053&lon=-3.174534
++SKIP_Bur http://www.openstreetmap.org/?lat=56.057385&lon=-3.233886
++SKIP_Kin http://www.openstreetmap.org/?lat=56.069053&lon=-3.174534
 +X824589 http://www.openstreetmap.org/?lat=56.083447&lon=-3.162131
 Kir http://www.openstreetmap.org/?lat=56.111933&lon=-3.167067
 +X858908 http://www.openstreetmap.org/?lat=56.129612&lon=-3.124151
