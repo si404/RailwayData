@@ -1,6 +1,6 @@
 WV/MD http://www.openstreetmap.org/?lat=39.324540&lon=-77.730396
 +X869415 http://www.openstreetmap.org/?lat=39.329907&lon=-77.680593
-+SKIP_Bru http://www.openstreetmap.org/?lat=39.311673&lon=-77.627764
+*Bru http://www.openstreetmap.org/?lat=39.311673&lon=-77.627764
 +X177792 http://www.openstreetmap.org/?lat=39.305729&lon=-77.598410
 +X425489 http://www.openstreetmap.org/?lat=39.311008&lon=-77.566094
 +X342675 http://www.openstreetmap.org/?lat=39.274441&lon=-77.543778
@@ -13,11 +13,11 @@ WV/MD http://www.openstreetmap.org/?lat=39.324540&lon=-77.730396
 +SKIP_Boy http://www.openstreetmap.org/?lat=39.184244&lon=-77.314267
 +SKIP_Ger http://www.openstreetmap.org/?lat=39.173245&lon=-77.270536
 +SKIP_MetGro http://www.openstreetmap.org/?lat=39.149657&lon=-77.226655
-+SKIP_Gai http://www.openstreetmap.org/?lat=39.141553&lon=-77.192430
+*Gai http://www.openstreetmap.org/?lat=39.141553&lon=-77.192430
 +SKIP_WasGro http://www.openstreetmap.org/?lat=39.136460&lon=-77.177732
 +X446611 http://www.openstreetmap.org/?lat=39.113372&lon=-77.159214
 Roc http://www.openstreetmap.org/?lat=39.084165&lon=-77.145980
 +SKIP_GarPk http://www.openstreetmap.org/?lat=39.038945&lon=-77.093511
 +SKIP_Ken http://www.openstreetmap.org/?lat=39.026856&lon=-77.071742
-+SKIP_SilSpr http://www.openstreetmap.org/?lat=38.993118&lon=-77.030522
+*SilSpr http://www.openstreetmap.org/?lat=38.993118&lon=-77.030522
 MD/DC http://www.openstreetmap.org/?lat=38.979574&lon=-77.020104

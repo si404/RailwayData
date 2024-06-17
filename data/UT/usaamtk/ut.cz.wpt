@@ -1,5 +1,7 @@
 NV/UT http://www.openstreetmap.org/?lat=40.732007&lon=-114.043579
 +X268963 http://www.openstreetmap.org/?lat=40.738055&lon=-114.019289
++X726637 http://www.openstreetmap.org/?lat=40.731844&lon=-113.709183
++X122038 http://www.openstreetmap.org/?lat=40.726625&lon=-113.475208
 +X145312 http://www.openstreetmap.org/?lat=40.719876&lon=-113.204498
 +X585393 http://www.openstreetmap.org/?lat=40.702602&lon=-113.074036
 +X209717 http://www.openstreetmap.org/?lat=40.723649&lon=-113.021851
@@ -35,7 +37,7 @@ SaltLakeCity http://www.openstreetmap.org/?lat=40.761801&lon=-111.908954
 +SKIP_OremCen http://www.openstreetmap.org/?lat=40.280330&lon=-111.725657
 +DIV_FRS http://www.openstreetmap.org/?lat=40.272458&lon=-111.719107
 +X01 http://www.openstreetmap.org/?lat=40.225991&lon=-111.671004
-Provo http://www.openstreetmap.org/?lat=40.225770&lon=-111.664009
+Pro http://www.openstreetmap.org/?lat=40.225770&lon=-111.664009
 +X457666 http://www.openstreetmap.org/?lat=40.225000&lon=-111.655190
 +X394717 http://www.openstreetmap.org/?lat=40.204739&lon=-111.630449
 +X995502 http://www.openstreetmap.org/?lat=40.161231&lon=-111.617832
@@ -89,7 +91,10 @@ GreRiv http://www.openstreetmap.org/?lat=38.992071&lon=-110.165663
 +X943622 http://www.openstreetmap.org/?lat=38.961344&lon=-110.002842
 +X154675 http://www.openstreetmap.org/?lat=38.929970&lon=-109.958038
 +X763522 http://www.openstreetmap.org/?lat=38.923560&lon=-109.928513
-+X882597 http://www.openstreetmap.org/?lat=38.971755&lon=-109.717541
++X368964 http://www.openstreetmap.org/?lat=38.935678&lon=-109.894052
++X760536 http://www.openstreetmap.org/?lat=38.939851&lon=-109.832811
++X952952 http://www.openstreetmap.org/?lat=38.962312&lon=-109.780154
+*Tho http://www.openstreetmap.org/?lat=38.971421&lon=-109.714966
 +X271213 http://www.openstreetmap.org/?lat=38.957206&lon=-109.690590
 +X305960 http://www.openstreetmap.org/?lat=38.966917&lon=-109.641151
 +X661439 http://www.openstreetmap.org/?lat=38.960543&lon=-109.542618

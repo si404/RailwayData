@@ -1,5 +1,7 @@
 IN/OH http://www.openstreetmap.org/?lat=41.438440&lon=-84.804046
 Bry http://www.openstreetmap.org/?lat=41.480258&lon=-84.551811
++X621028 http://www.openstreetmap.org/?lat=41.520788&lon=-84.306314
++X338976 http://www.openstreetmap.org/?lat=41.580461&lon=-83.940756
 +X175741 http://www.openstreetmap.org/?lat=41.638571&lon=-83.577290
 Tol http://www.openstreetmap.org/?lat=41.637986&lon=-83.541670
 +X156133 http://www.openstreetmap.org/?lat=41.562963&lon=-83.420992
@@ -16,7 +18,7 @@ San http://www.openstreetmap.org/?lat=41.440555&lon=-82.718639
 +X150386 http://www.openstreetmap.org/?lat=41.420541&lon=-82.370553
 +X875998 http://www.openstreetmap.org/?lat=41.421072&lon=-82.351370
 Ely http://www.openstreetmap.org/?lat=41.370207&lon=-82.096539
-+X783990 http://www.openstreetmap.org/?lat=41.378322&lon=-81.859732
++DIV_Ber http://www.openstreetmap.org/?lat=41.378427&lon=-81.859818
 +X531560 http://www.openstreetmap.org/?lat=41.419648&lon=-81.823490
 +X483222 http://www.openstreetmap.org/?lat=41.440905&lon=-81.805830
 +X919479 http://www.openstreetmap.org/?lat=41.456775&lon=-81.792612
@@ -26,6 +28,7 @@ Ely http://www.openstreetmap.org/?lat=41.370207&lon=-82.096539
 +X535090 http://www.openstreetmap.org/?lat=41.492306&lon=-81.724420
 Cle http://www.openstreetmap.org/?lat=41.505327&lon=-81.696369
 +DIV_Cap http://www.openstreetmap.org/?lat=41.510730&lon=-81.684723
++DIV_Col http://www.openstreetmap.org/?lat=41.557902&lon=-81.586860
 +X382939 http://www.openstreetmap.org/?lat=41.644119&lon=-81.412640
 +X359258 http://www.openstreetmap.org/?lat=41.649379&lon=-81.389122
 +X406246 http://www.openstreetmap.org/?lat=41.737055&lon=-81.236687

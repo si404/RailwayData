@@ -21,6 +21,7 @@ OldTownTC http://www.openstreetmap.org/?lat=32.754509&lon=-117.199496
 +X526511 http://www.openstreetmap.org/?lat=32.887516&lon=-117.208843
 SorVly http://www.openstreetmap.org/?lat=32.902794&lon=-117.225183
 +X627236 http://www.openstreetmap.org/?lat=32.939287&lon=-117.261543
++SKIP_DelMar http://www.openstreetmap.org/?lat=32.961196&lon=-117.267219
 SolBea http://www.openstreetmap.org/?lat=32.993156&lon=-117.271623
 +X536808 http://www.openstreetmap.org/?lat=33.035866&lon=-117.291498
 Enc http://www.openstreetmap.org/?lat=33.047288&lon=-117.293209
