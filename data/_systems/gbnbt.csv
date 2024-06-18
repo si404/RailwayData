@@ -1,2 +1,4 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-gbnbt;ENG;BlaTra;;;Blackpool Tramway;eng.blatra;
+gbnbt;ENG;T1;;;T1 (Blackpool);eng.t1bla;
+gbnbt;ENG;T2;;;T2 (Blackpool);eng.t2bla;
+gbnbt;ENG;T3;;;T3 (Blackpool);eng.t3bla;
