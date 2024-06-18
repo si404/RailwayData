@@ -345,8 +345,8 @@ gbnnet;GBR;Nottingham Express Transit;TMred;4;preview
 gbnss;GBR;Sheffield Supertram;TMred;4;preview
 gbnwmm;GBR;West Midlands Metro;TMred;4;preview
 hkgmtr;CHN;Hong Kong Mass Transit Railway;TMblue;3;preview
+hkglr;CHN;Hong Kong Light Rail;TMlightsalmon;4;preview
 hkghkt;CHN;Hong Kong Tramways;TMred;4;preview
-hkglr;CHN;Hong Kong Light Rail;TMred;4;preview
 hkgop;CHN;Ocean Park Transport;TMyellow;5;preview
 hkgpt;CHN;Peak Tram;TMyellow;5;preview
 hrvzt;HRV;Tramvajski promet u Zagrebu;TMred;4;preview
@@ -365,7 +365,7 @@ itanv;ITA;Ferrovie vesuviane di Napoli;TMgreen;2;preview
 itagu;ITA;Servizio ferroviario urbano di Genova;TMgreen;2;preview
 itams;ITA;Servizio ferroviario suburbano di Milano;TMgreen;2;preview
 itatfm;ITA;Servizio ferroviario metropolitano di Torino;TMgreen;2;preview
-itafc;ITA;Ferrovie urbana Roma;TMblue;3;preview
+itafc;ITA;Ferrovie urbana Roma;TMcyan;3;preview
 itagm;ITA;Metropolitana di Genova;TMblue;3;preview
 itamm;ITA;Metropolitana di Milano;TMblue;3;preview
 itanm;ITA;Metropolitana di Napoli;TMblue;3;preview
