@@ -333,7 +333,7 @@ gbntp;GBR;(National Rail) TransPennine Express;TMgreen;2;preview
 gbnwm;GBR;(National Rail) West Midlands Railway;TMgreen;2;preview
 gbnxr;GBR;TfL Elizabeth Line;TMgreen;2;preview
 irlnir;GBR;NI Railways;TMgreen;2;preview
-gbndlr;GBR;Docklands Light Railway;TMblue;3;preview
+gbndlr;GBR;Docklands Light Railway;TMcyan;3;preview
 gbngs;GBR;Glasgow Subway;TMblue;3;preview
 gbnlu;GBR;London Underground;TMblue;3;preview
 gbntwm;GBR;Tyne & Wear Metro;TMblue;3;preview
@@ -529,8 +529,8 @@ svkedb;SVK;Električková_doprava v Bratislave;TMred;4;preview
 svkedk;SVK;Električková_doprava v Košiciach;TMred;4;preview
 svktez;SVK;Trenčianska elektrická železnica;TMred;4;preview
 swesj;SWE;Stockholms pendeltåg;TMgreen;2;preview
-swesl;SWE;Stockholms lokalbana;TMblue;3;preview
 swest;SWE;Stockholms tunnelbana;TMblue;3;preview
+swesl;SWE;Stockholms lokalbana;TMlightsalmon;4;preview
 swess;SWE;Stockholms spårvagn;TMred;4;preview
 turib;TUR;İstanbul Banliyö Treni;TMgreen;2;preview
 turim;TUR;İstanbul Metrosu;TMblue;3;preview
