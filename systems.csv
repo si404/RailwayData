@@ -333,7 +333,7 @@ gbntp;GBR;(National Rail) TransPennine Express;TMgreen;2;preview
 gbnwm;GBR;(National Rail) West Midlands Railway;TMgreen;2;preview
 gbnxr;GBR;TfL Elizabeth Line;TMgreen;2;preview
 irlnir;GBR;NI Railways;TMgreen;2;preview
-gbndlr;GBR;Docklands Light Railway;TMcyan;3;preview
+gbndlr;GBR;Docklands Light Railway;TMteal;3;preview
 gbngs;GBR;Glasgow Subway;TMblue;3;preview
 gbnlu;GBR;London Underground;TMblue;3;preview
 gbntwm;GBR;Tyne & Wear Metro;TMblue;3;preview
@@ -365,7 +365,7 @@ itanv;ITA;Ferrovie vesuviane di Napoli;TMgreen;2;preview
 itagu;ITA;Servizio ferroviario urbano di Genova;TMgreen;2;preview
 itams;ITA;Servizio ferroviario suburbano di Milano;TMgreen;2;preview
 itatfm;ITA;Servizio ferroviario metropolitano di Torino;TMgreen;2;preview
-itafc;ITA;Ferrovie urbana Roma;TMcyan;3;preview
+itafc;ITA;Ferrovie urbana Roma;TMteal;3;preview
 itagm;ITA;Metropolitana di Genova;TMblue;3;preview
 itamm;ITA;Metropolitana di Milano;TMblue;3;preview
 itanm;ITA;Metropolitana di Napoli;TMblue;3;preview
