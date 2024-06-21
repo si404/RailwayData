@@ -362,19 +362,34 @@ itanf;ITA;Ferrovie flegree di Napoli;TMgreen;2;preview
 itanr;ITA;Ferrovie regionali di Napoli;TMgreen;2;preview
 itans;ITA;Ferrovie suburbane di Napoli;TMgreen;2;preview
 itanv;ITA;Ferrovie vesuviane di Napoli;TMgreen;2;preview
+itabafm;ITA;Servizio ferroviario metropolitano di Bari;2;preview
+itabfm;ITA;Servizio ferroviario metropolitano di Bologna;2;preview
 itagu;ITA;Servizio ferroviario urbano di Genova;TMgreen;2;preview
 itams;ITA;Servizio ferroviario suburbano di Milano;TMgreen;2;preview
 itatfm;ITA;Servizio ferroviario metropolitano di Torino;TMgreen;2;preview
 itafc;ITA;Ferrovie urbana Roma;TMteal;3;preview
+itabm;ITA;Metropolitana di Brescia;TMblue;3;preview
+itacm;ITA;Metropolitana di Catania;TMblue;3;preview
 itagm;ITA;Metropolitana di Genova;TMblue;3;preview
 itamm;ITA;Metropolitana di Milano;TMblue;3;preview
 itanm;ITA;Metropolitana di Napoli;TMblue;3;preview
 itarm;ITA;Metropolitana di Roma;TMblue;3;preview
 itatm;ITA;Metropolitana di Torino;TMblue;3;preview
-itart;ITA;Tranviaria di Roma;TMred;4;preview
+itabat;ITA;Tranviaria di Bergamo-Albino;TMred;4;preview
+itact;ITA;Tranviaria di Cagliari;TMred;4;preview
+itaft;ITA;Tranviaria di Firenze;TMred;4;preview
+itamet;ITA;Tranviaria di Messina;TMred;4;preview
 itamt;ITA;Tranviaria di Milano;TMred;4;preview
 itant;ITA;Tranviaria di Napoli;TMred;4;preview
+itaot;ITA;Tranviaria di Opicina;TMred;4;preview
+itapat;ITA;Tranviaria di Padova;TMred;4;preview
+itapt;ITA;Tranviaria di Palermo;TMred;4;preview
+itart;ITA;Tranviaria di Roma;TMred;4;preview
+itast;ITA;Tranviaria di Sassari;TMred;4;preview
 itatt;ITA;Tranviaria di Torino;TMred;4;preview
+itavt;ITA;Tranviaria di Venezia;TMred;4;preview
+itapm;ITA;Minimetrò Perugia;TMyellow;5;preview
+itavpm;ITA;People Mover di Venezia;TMyellow;5;preview
 jpnjrsks;JPN;JR Shinkansens;TMpurple;1;preview
 jpnjrc;JPN;JR Central;TMpurple;1;preview
 jpnjre;JPN;JR East;TMpurple;1;preview
