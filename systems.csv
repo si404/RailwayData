@@ -362,8 +362,8 @@ itanf;ITA;Ferrovie flegree di Napoli;TMgreen;2;preview
 itanr;ITA;Ferrovie regionali di Napoli;TMgreen;2;preview
 itans;ITA;Ferrovie suburbane di Napoli;TMgreen;2;preview
 itanv;ITA;Ferrovie vesuviane di Napoli;TMgreen;2;preview
-itabafm;ITA;Servizio ferroviario metropolitano di Bari;2;preview
-itabfm;ITA;Servizio ferroviario metropolitano di Bologna;2;preview
+itabafm;ITA;Servizio ferroviario metropolitano di Bari;TMgreen;2;preview
+itabfm;ITA;Servizio ferroviario metropolitano di Bologna;TMgreen;2;preview
 itagu;ITA;Servizio ferroviario urbano di Genova;TMgreen;2;preview
 itams;ITA;Servizio ferroviario suburbano di Milano;TMgreen;2;preview
 itatfm;ITA;Servizio ferroviario metropolitano di Torino;TMgreen;2;preview
