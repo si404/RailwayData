@@ -1,6 +1,6 @@
 systemName;route;banner;groupName;roots
 itabfm;S1;;Bologna;itaemi.s1a,itaemi.s1b
 itabfm;S2;;Bologna;itaemi.s2a,itaemi.s2b
-itabfm;S3;;Bologna;italom.s03,itaemi.s03
+itabfm;S3;;Bologna;italom.s03bol,itaemi.s03
 itabfm;S4;;Bologna;itaemi.s4a,itaemi.s4b
 itabfm;S5;;Bologna;itaemi.s05
