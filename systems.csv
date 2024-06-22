@@ -535,9 +535,12 @@ poltt;POL;Tramwaje w Toruniu;TMred;4;preview
 polwt;POL;Tramwaje w Warszawie;TMred;4;preview
 polwrt;POL;Tramwaje we Wrocławiu;TMred;4;preview
 prtlu;PRT;Urbanos de Lisboa;TMgreen;2;preview
+prtpu;PRT;Urbanos de Porto;TMgreen;2;preview
 prtlm;PRT;Metropolitano de Lisboa;TMblue;3;preview
+prtpm;PRT;Metro do Porto;TMblue;3;preview
 prtle;PRT;Elétricos de Lisboa;TMred;4;preview
 prtmts;PRT;Metro Sul do Tejo;TMred;4;preview
+prtpe;PRT;Elétricos do Porto;TMred;4;preview
 prtse;PRT;Elétricos de Sintra;TMred;4;preview
 roubm;ROU;Metroul din București;TMblue;3;preview
 roubt;ROU;Tramvaiul din București (as-of July 2023);TMred;4;preview
