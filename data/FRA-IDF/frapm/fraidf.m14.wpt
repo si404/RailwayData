@@ -6,7 +6,7 @@ PorCli http://www.openstreetmap.org/?lat=48.894370&lon=2.313620
 PontCar http://www.openstreetmap.org/?lat=48.889483&lon=2.315294
 +X945557 http://www.openstreetmap.org/?lat=48.879702&lon=2.327621
 +X148085 http://www.openstreetmap.org/?lat=48.877819&lon=2.326055
-StLaz http://www.openstreetmap.org/?lat=48.875406&lon=2.325368
+StLaz +SaiLaz http://www.openstreetmap.org/?lat=48.875406&lon=2.325368
 +X821859 http://www.openstreetmap.org/?lat=48.872534&lon=2.323201
 Mad http://www.openstreetmap.org/?lat=48.870015&lon=2.326033
 Pyr http://www.openstreetmap.org/?lat=48.865802&lon=2.334423
