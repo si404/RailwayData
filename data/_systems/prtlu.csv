@@ -1,0 +1,10 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+prtlu;PRT;LnAza;;Apo;Linhas Azambuja (Lisboa Santa Apolonia - Azambuja);prt.lnazaapo;
+prtlu;PRT;LnAza;;Alc;Linhas Azambuja (Lisboa Alcantara-Terra - Castanheira do Ribatejo);prt.lnazaalc;
+prtlu;PRT;LnAza;;Sin;Linhas Azambuja (Sintra - Alverca);prt.lnazasin;
+prtlu;PRT;LnCas;;;Linhas Cascais;prt.lncas;
+prtlu;PRT;LnSad;;;Linhas Sado;prt.lnsad;
+prtlu;PRT;LnSin;;Ros;Linhas Sintra (Lisboa Rossio - Sintra);prt.lnsinros;
+prtlu;PRT;LnSin;;Mir;Linhas Sintra (Lisboa Rossia - Mira Sintra-Melecas);prt.lnsinmir;
+prtlu;PRT;LnSin;;Ori;Linhas Sintra (Oriente - Sintra);prt.lnsinori;
+prtlu;PRT;LnSul;;;Linhas Sul;prt.lnsul;

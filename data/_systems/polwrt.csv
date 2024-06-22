@@ -1,6 +1,4 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-polwrt;POL;0L;;Wro;Wroclaw;pol.0lwro;
-polwrt;POL;0P;;Wro;Wroclaw;pol.0pwro;
 polwrt;POL;1;;Wro;Wroclaw;pol.01wro;
 polwrt;POL;2;;Wro;Wroclaw;pol.02wro;
 polwrt;POL;3;;Wro;Wroclaw;pol.03wro;
@@ -12,6 +10,8 @@ polwrt;POL;8;;Wro;Wroclaw;pol.08wro;
 polwrt;POL;9;;Wro;Wroclaw;pol.09wro;
 polwrt;POL;10;;Wro;Wroclaw;pol.10wro;
 polwrt;POL;11;;Wro;Wroclaw;pol.11wro;
+polwrt;POL;12;;Wro;Wroclaw;pol.12wro;
+polwrt;POL;13;;Wro;Wroclaw;pol.13wro;
 polwrt;POL;14;;Wro;Wroclaw;pol.14wro;
 polwrt;POL;15;;Wro;Wroclaw;pol.15wro;
 polwrt;POL;16;;Wro;Wroclaw;pol.16wro;
@@ -19,7 +19,6 @@ polwrt;POL;17;;Wro;Wroclaw;pol.17wro;
 polwrt;POL;18;;Wro;Wroclaw;pol.18wro;
 polwrt;POL;19;;Wro;Wroclaw;pol.19wro;
 polwrt;POL;20;;Wro;Wroclaw;pol.20wro;
+polwrt;POL;21;;Wro;Wroclaw;pol.21wro;
+polwrt;POL;22;;Wro;Wroclaw;pol.22wro;
 polwrt;POL;23;;Wro;Wroclaw;pol.23wro;
-polwrt;POL;24;;Wro;Wroclaw;pol.24wro;
-polwrt;POL;31;;Wro;Wroclaw;pol.31wro;
-polwrt;POL;33;;Wro;Wroclaw;pol.33wro;

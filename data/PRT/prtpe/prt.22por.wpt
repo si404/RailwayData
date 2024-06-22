@@ -1,0 +1,14 @@
+LOOP http://www.openstreetmap.org/?lat=41.146089&lon=-8.607059
+SanCat http://www.openstreetmap.org/?lat=41.146949&lon=-8.606833
+PraDomJoao http://www.openstreetmap.org/?lat=41.147547&lon=-8.609253
+Ali http://www.openstreetmap.org/?lat=41.148056&lon=-8.611055
+PraFilLen http://www.openstreetmap.org/?lat=41.148266&lon=-8.612847
+GuiGomFer http://www.openstreetmap.org/?lat=41.147652&lon=-8.614671
++DIV_18N http://www.openstreetmap.org/?lat=41.147087&lon=-8.616178
+Car http://www.openstreetmap.org/?lat=41.146632&lon=-8.616221
++DIV_18S http://www.openstreetmap.org/?lat=41.146048&lon=-8.616473
+Cle http://www.openstreetmap.org/?lat=41.145568&lon=-8.615030
+PraLib http://www.openstreetmap.org/?lat=41.145935&lon=-8.612520
++DIV_Lp http://www.openstreetmap.org/?lat=41.146089&lon=-8.607059
+Bat http://www.openstreetmap.org/?lat=41.145426&lon=-8.607332
+BatGui http://www.openstreetmap.org/?lat=41.143207&lon=-8.608249

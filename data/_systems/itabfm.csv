@@ -1,0 +1,10 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+itabfm;ITA-EMI;S1;A;;Bologna;itaemi.s1a;
+itabfm;ITA-EMI;S1;B;;Bologna;itaemi.s1b;
+itabfm;ITA-EMI;S2;A;;Bologna;itaemi.s2a;
+itabfm;ITA-EMI;S2;B;;Bologna;itaemi.s2b;
+itabfm;ITA-LOM;S3;;Bol;Bologna;italom.s03bol;
+itabfm;ITA-EMI;S3;;;Bologna;itaemi.s03;
+itabfm;ITA-EMI;S4;A;;Bologna;itaemi.s4a;
+itabfm;ITA-EMI;S4;B;;Bologna;itaemi.s4b;
+itabfm;ITA-EMI;S5;;;Bologna;itaemi.s05;
