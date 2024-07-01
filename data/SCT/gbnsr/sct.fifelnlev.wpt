@@ -7,11 +7,11 @@ Hay http://www.openstreetmap.org/?lat=55.945337&lon=-3.218951
 +SKIP_Bal http://www.openstreetmap.org/?lat=55.937994&lon=-3.251867
 +DIV_Bal http://www.openstreetmap.org/?lat=55.936192&lon=-3.259935
 +DIV_Bat http://www.openstreetmap.org/?lat=55.934197&lon=-3.268733
-+SKIP_SouGyle http://www.openstreetmap.org/?lat=55.936504&lon=-3.299332
+SouGyle http://www.openstreetmap.org/?lat=55.936504&lon=-3.299332
 EdiGat http://www.openstreetmap.org/?lat=55.940927&lon=-3.320124
 +X244002 http://www.openstreetmap.org/?lat=55.974399&lon=-3.373232
-+SKIP_Dal http://www.openstreetmap.org/?lat=55.986254&lon=-3.381536
-+SKIP_NorQue http://www.openstreetmap.org/?lat=56.012412&lon=-3.394647
+Dal http://www.openstreetmap.org/?lat=55.986254&lon=-3.381536
+NorQue http://www.openstreetmap.org/?lat=56.012412&lon=-3.394647
 +X474192 http://www.openstreetmap.org/?lat=56.023554&lon=-3.405097
 Inv http://www.openstreetmap.org/?lat=56.035184&lon=-3.395376
 +DIV_Dun http://www.openstreetmap.org/?lat=56.037294&lon=-3.395827

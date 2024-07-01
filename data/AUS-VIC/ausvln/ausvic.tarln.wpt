@@ -36,6 +36,7 @@ Dan http://www.openstreetmap.org/?lat=-37.990117&lon=145.209861
 +SKIP_Off http://www.openstreetmap.org/?lat=-38.066279&lon=145.411713
 +SKIP_CarRd http://www.openstreetmap.org/?lat=-38.071242&lon=145.437645
 Pak http://www.openstreetmap.org/?lat=-38.080422&lon=145.486418
++SKIP_EPak http://www.openstreetmap.org/?lat=-38.084336&lon=145.506685
 NarNarGoon http://www.openstreetmap.org/?lat=-38.081465&lon=145.571530
 Tyn http://www.openstreetmap.org/?lat=-38.084894&lon=145.628350
 Gar http://www.openstreetmap.org/?lat=-38.091126&lon=145.674398

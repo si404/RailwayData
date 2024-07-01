@@ -14,7 +14,7 @@ Wol http://www.openstreetmap.org/?lat=52.587811&lon=-2.120104
 +SKIP_Bil http://www.openstreetmap.org/?lat=52.623972&lon=-2.187223
 +SKIP_Cod http://www.openstreetmap.org/?lat=52.627306&lon=-2.201557
 +SKIP_Alb http://www.openstreetmap.org/?lat=52.638298&lon=-2.269278
-Cos http://www.openstreetmap.org/?lat=52.644847&lon=-2.300692
++SKIP_Cos http://www.openstreetmap.org/?lat=52.644847&lon=-2.300692
 Shi http://www.openstreetmap.org/?lat=52.666103&lon=-2.371502
 TelCen http://www.openstreetmap.org/?lat=52.681091&lon=-2.441282
 +SKIP_Oak http://www.openstreetmap.org/?lat=52.693162&lon=-2.450123

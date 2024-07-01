@@ -21,7 +21,7 @@ GraJct http://www.openstreetmap.org/?lat=39.064415&lon=-108.570757
 +X692423 http://www.openstreetmap.org/?lat=39.499603&lon=-107.931404
 +X143594 http://www.openstreetmap.org/?lat=39.501061&lon=-107.886429
 +X782873 http://www.openstreetmap.org/?lat=39.527017&lon=-107.824631
-+X493983 http://www.openstreetmap.org/?lat=39.528076&lon=-107.773132
+*Rif http://www.openstreetmap.org/?lat=39.528469&lon=-107.785170
 +X854049 http://www.openstreetmap.org/?lat=39.547140&lon=-107.706013
 +X452345 http://www.openstreetmap.org/?lat=39.545022&lon=-107.635460
 +X575880 http://www.openstreetmap.org/?lat=39.569440&lon=-107.523365
@@ -45,6 +45,7 @@ GleSpr http://www.openstreetmap.org/?lat=39.548232&lon=-107.323101
 +X747647 http://www.openstreetmap.org/?lat=39.898049&lon=-106.798439
 +X890009 http://www.openstreetmap.org/?lat=39.913291&lon=-106.785564
 +X504491 http://www.openstreetmap.org/?lat=39.901045&lon=-106.712780
+*Bond http://www.openstreetmap.org/?lat=39.872948&lon=-106.689402
 +X548505 http://www.openstreetmap.org/?lat=39.859517&lon=-106.678190
 +X938663 http://www.openstreetmap.org/?lat=39.855795&lon=-106.642914
 +X863688 http://www.openstreetmap.org/?lat=39.906280&lon=-106.609182
@@ -64,8 +65,8 @@ Gra http://www.openstreetmap.org/?lat=40.084146&lon=-105.935669
 +X641163 http://www.openstreetmap.org/?lat=40.073901&lon=-105.887775
 +X790140 http://www.openstreetmap.org/?lat=40.027812&lon=-105.875673
 +X482276 http://www.openstreetmap.org/?lat=39.992016&lon=-105.832844
-Fra http://www.openstreetmap.org/?lat=39.947566&lon=-105.817609
-WinParkRes http://www.openstreetmap.org/?lat=39.887529&lon=-105.763021
+FraWinPark http://www.openstreetmap.org/?lat=39.947566&lon=-105.817609
++SKIP_WinParkRes http://www.openstreetmap.org/?lat=39.887529&lon=-105.763021
 +X730428 http://www.openstreetmap.org/?lat=39.901638&lon=-105.613804
 +X242562 http://www.openstreetmap.org/?lat=39.917636&lon=-105.516644
 +X148100 http://www.openstreetmap.org/?lat=39.910987&lon=-105.482483
@@ -110,8 +111,10 @@ FortMor http://www.openstreetmap.org/?lat=40.246958&lon=-103.802862
 +X244840 http://www.openstreetmap.org/?lat=40.172643&lon=-103.379803
 +X231207 http://www.openstreetmap.org/?lat=40.160706&lon=-103.343239
 +X898075 http://www.openstreetmap.org/?lat=40.164117&lon=-103.273888
+*Akr http://www.openstreetmap.org/?lat=40.157926&lon=-103.214573
 +X860853 http://www.openstreetmap.org/?lat=40.150866&lon=-103.157330
 +X409150 http://www.openstreetmap.org/?lat=40.154540&lon=-103.032188
++X188033 http://www.openstreetmap.org/?lat=40.125735&lon=-102.723761
 +X384920 http://www.openstreetmap.org/?lat=40.108997&lon=-102.547417
 +X403088 http://www.openstreetmap.org/?lat=40.116087&lon=-102.506390
 +X118684 http://www.openstreetmap.org/?lat=40.097837&lon=-102.351036

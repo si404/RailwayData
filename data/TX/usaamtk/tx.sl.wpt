@@ -17,11 +17,14 @@ ElPaso http://www.openstreetmap.org/?lat=31.758076&lon=-106.495886
 +X386749 http://www.openstreetmap.org/?lat=31.276864&lon=-105.518703
 +X304509 http://www.openstreetmap.org/?lat=31.195109&lon=-105.436993
 +X130055 http://www.openstreetmap.org/?lat=31.173961&lon=-105.351334
++X622277 http://www.openstreetmap.org/?lat=31.106725&lon=-105.210797
 +X639559 http://www.openstreetmap.org/?lat=31.023940&lon=-105.038738
 +X975079 http://www.openstreetmap.org/?lat=30.935176&lon=-104.917288
 +X105397 http://www.openstreetmap.org/?lat=30.952328&lon=-104.868793
 +X551026 http://www.openstreetmap.org/?lat=30.925973&lon=-104.804764
 +X345019 http://www.openstreetmap.org/?lat=30.782511&lon=-104.735241
++X642477 http://www.openstreetmap.org/?lat=30.669773&lon=-104.601506
++X353013 http://www.openstreetmap.org/?lat=30.518803&lon=-104.410340
 +X270585 http://www.openstreetmap.org/?lat=30.381798&lon=-104.237852
 +X850550 http://www.openstreetmap.org/?lat=30.348472&lon=-104.157257
 +X851839 http://www.openstreetmap.org/?lat=30.348324&lon=-104.133739
@@ -145,7 +148,8 @@ SanAnt http://www.openstreetmap.org/?lat=29.419302&lon=-98.477669
 +X890360 http://www.openstreetmap.org/?lat=29.658782&lon=-96.408119
 +X384727 http://www.openstreetmap.org/?lat=29.581593&lon=-96.324692
 +X787428 http://www.openstreetmap.org/?lat=29.528135&lon=-96.102390
-+X238742 http://www.openstreetmap.org/?lat=29.563528&lon=-95.790138
+*Ros http://www.openstreetmap.org/?lat=29.561321&lon=-95.806301
++X941657 http://www.openstreetmap.org/?lat=29.563696&lon=-95.790203
 +X372900 http://www.openstreetmap.org/?lat=29.593162&lon=-95.744991
 +X476483 http://www.openstreetmap.org/?lat=29.628906&lon=-95.588093
 +X124963 http://www.openstreetmap.org/?lat=29.615923&lon=-95.552902
@@ -160,6 +164,7 @@ Hou http://www.openstreetmap.org/?lat=29.767553&lon=-95.367422
 +X449164 http://www.openstreetmap.org/?lat=30.062186&lon=-94.874840
 +X280223 http://www.openstreetmap.org/?lat=30.058471&lon=-94.772701
 +X849635 http://www.openstreetmap.org/?lat=30.021172&lon=-94.532890
++X143720 http://www.openstreetmap.org/?lat=30.047987&lon=-94.335448
 Bea http://www.openstreetmap.org/?lat=30.076113&lon=-94.127598
 +X568854 http://www.openstreetmap.org/?lat=30.074850&lon=-94.100819
 +X244402 http://www.openstreetmap.org/?lat=30.103182&lon=-94.031639

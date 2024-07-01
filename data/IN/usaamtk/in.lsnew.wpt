@@ -1,5 +1,5 @@
 IL/IN http://www.openstreetmap.org/?lat=41.704143&lon=-87.524514
-+SKIP_HamWhi http://www.openstreetmap.org/?lat=41.690949&lon=-87.506897
+*HamWhi http://www.openstreetmap.org/?lat=41.690949&lon=-87.506897
 +X925952 http://www.openstreetmap.org/?lat=41.629397&lon=-87.407742
 +X719146 http://www.openstreetmap.org/?lat=41.606025&lon=-87.337189
 +DIV_SSL1 http://www.openstreetmap.org/?lat=41.604805&lon=-87.244792
@@ -22,6 +22,8 @@ Elk http://www.openstreetmap.org/?lat=41.680268&lon=-85.971580
 +X794530 http://www.openstreetmap.org/?lat=41.621217&lon=-85.897808
 +X584886 http://www.openstreetmap.org/?lat=41.591391&lon=-85.837083
 +X745550 http://www.openstreetmap.org/?lat=41.465724&lon=-85.579548
++X544934 http://www.openstreetmap.org/?lat=41.445879&lon=-85.253134
 +X391179 http://www.openstreetmap.org/?lat=41.437643&lon=-85.201550
+Wat http://www.openstreetmap.org/?lat=41.431570&lon=-85.024288
 +X392225 http://www.openstreetmap.org/?lat=41.426446&lon=-84.878311
 IN/OH http://www.openstreetmap.org/?lat=41.438440&lon=-84.804046

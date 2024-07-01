@@ -1,6 +1,4 @@
 systemName;route;banner;groupName;roots
-polwrt;0L;;Wroclaw;pol.0lwro
-polwrt;0P;;Wroclaw;pol.0pwro
 polwrt;1;;Wroclaw;pol.01wro
 polwrt;2;;Wroclaw;pol.02wro
 polwrt;3;;Wroclaw;pol.03wro
@@ -12,6 +10,8 @@ polwrt;8;;Wroclaw;pol.08wro
 polwrt;9;;Wroclaw;pol.09wro
 polwrt;10;;Wroclaw;pol.10wro
 polwrt;11;;Wroclaw;pol.11wro
+polwrt;12;;Wroclaw;pol.12wro
+polwrt;13;;Wroclaw;pol.13wro
 polwrt;14;;Wroclaw;pol.14wro
 polwrt;15;;Wroclaw;pol.15wro
 polwrt;16;;Wroclaw;pol.16wro
@@ -19,7 +19,6 @@ polwrt;17;;Wroclaw;pol.17wro
 polwrt;18;;Wroclaw;pol.18wro
 polwrt;19;;Wroclaw;pol.19wro
 polwrt;20;;Wroclaw;pol.20wro
+polwrt;21;;Wroclaw;pol.21wro
+polwrt;22;;Wroclaw;pol.22wro
 polwrt;23;;Wroclaw;pol.23wro
-polwrt;24;;Wroclaw;pol.24wro
-polwrt;31;;Wroclaw;pol.31wro
-polwrt;33;;Wroclaw;pol.33wro

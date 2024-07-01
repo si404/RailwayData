@@ -1,5 +1,5 @@
 ND/MN http://www.openstreetmap.org/?lat=46.879159&lon=-96.775475
-+X929658 http://www.openstreetmap.org/?lat=46.874319&lon=-96.752687
++DIV_Bre http://www.openstreetmap.org/?lat=46.874586&lon=-96.753287
 +X463052 http://www.openstreetmap.org/?lat=46.872808&lon=-96.450348
 +X808677 http://www.openstreetmap.org/?lat=46.845928&lon=-96.345978
 +X315647 http://www.openstreetmap.org/?lat=46.854733&lon=-96.326580
@@ -46,8 +46,11 @@ StClo http://www.openstreetmap.org/?lat=45.568000&lon=-94.148712
 +SKIP_Fri http://www.openstreetmap.org/?lat=45.078870&lon=-93.270879
 +X962108 http://www.openstreetmap.org/?lat=45.037960&lon=-93.274097
 +DIV_Nor http://www.openstreetmap.org/?lat=44.994547&lon=-93.245173
++X425071 http://www.openstreetmap.org/?lat=44.981162&lon=-93.224938
 +X483721 http://www.openstreetmap.org/?lat=44.971781&lon=-93.187065
-+X399406 http://www.openstreetmap.org/?lat=44.955506&lon=-93.187065
+*Mid http://www.openstreetmap.org/?lat=44.962991&lon=-93.184018
++DIV_Mid http://www.openstreetmap.org/?lat=44.954056&lon=-93.182924
++X839274 http://www.openstreetmap.org/?lat=44.943995&lon=-93.154707
 +X783013 http://www.openstreetmap.org/?lat=44.932268&lon=-93.146553
 +X559165 http://www.openstreetmap.org/?lat=44.933848&lon=-93.113165
 StPaulUniDep http://www.openstreetmap.org/?lat=44.946409&lon=-93.084712

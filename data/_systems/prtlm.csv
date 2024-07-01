@@ -1,0 +1,5 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+prtlm;PRT;LnAma;;;Linha Amarela;prt.lnama;
+prtlm;PRT;LnAzu;;;Linha Azul;prt.lnazu;
+prtlm;PRT;LnVrd;;;Linha Verde;prt.lnvrd;
+prtlm;PRT;LnVrm;;;Linha Vermelha;prt.lnvrm;

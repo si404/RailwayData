@@ -6,18 +6,22 @@ Dyer http://www.openstreetmap.org/?lat=41.515551&lon=-87.518206
 +X121322 http://www.openstreetmap.org/?lat=41.346853&lon=-87.442245
 +X445138 http://www.openstreetmap.org/?lat=41.309309&lon=-87.422848
 +X825357 http://www.openstreetmap.org/?lat=41.294124&lon=-87.424564
++X677872 http://www.openstreetmap.org/?lat=41.055020&lon=-87.240458
 +X874205 http://www.openstreetmap.org/?lat=40.958285&lon=-87.174196
 Ren http://www.openstreetmap.org/?lat=40.943261&lon=-87.154841
 +X358037 http://www.openstreetmap.org/?lat=40.943051&lon=-87.098665
 +X474067 http://www.openstreetmap.org/?lat=40.859947&lon=-86.877823
 +X814530 http://www.openstreetmap.org/?lat=40.589743&lon=-86.866493
 +X708044 http://www.openstreetmap.org/?lat=40.521238&lon=-86.836109
++DIV_LafN http://www.openstreetmap.org/?lat=40.427970&lon=-86.891642
 Laf http://www.openstreetmap.org/?lat=40.419524&lon=-86.896319
-+X508489 http://www.openstreetmap.org/?lat=40.405621&lon=-86.901598
++DIV_LafS http://www.openstreetmap.org/?lat=40.405547&lon=-86.902102
 +X970361 http://www.openstreetmap.org/?lat=40.393398&lon=-86.926146
 +X474952 http://www.openstreetmap.org/?lat=40.345955&lon=-86.936016
 +X925022 http://www.openstreetmap.org/?lat=40.299494&lon=-86.913357
 Cra http://www.openstreetmap.org/?lat=40.044635&lon=-86.899120
++DIV_Cra http://www.openstreetmap.org/?lat=40.036084&lon=-86.886513
++X101243 http://www.openstreetmap.org/?lat=39.945114&lon=-86.666465
 +X805882 http://www.openstreetmap.org/?lat=39.888731&lon=-86.546860
 +X178726 http://www.openstreetmap.org/?lat=39.854081&lon=-86.416569
 +X645415 http://www.openstreetmap.org/?lat=39.809064&lon=-86.313057
@@ -26,6 +30,7 @@ Cra http://www.openstreetmap.org/?lat=40.044635&lon=-86.899120
 IndUniSta http://www.openstreetmap.org/?lat=39.762086&lon=-86.159592
 +X642550 http://www.openstreetmap.org/?lat=39.766606&lon=-86.091228
 +X943215 http://www.openstreetmap.org/?lat=39.715605&lon=-85.857639
++X998280 http://www.openstreetmap.org/?lat=39.674906&lon=-85.694926
 +X435609 http://www.openstreetmap.org/?lat=39.610482&lon=-85.444880
 +X792185 http://www.openstreetmap.org/?lat=39.629110&lon=-85.302401
 +X877098 http://www.openstreetmap.org/?lat=39.661313&lon=-85.205841
@@ -34,4 +39,5 @@ Con http://www.openstreetmap.org/?lat=39.645982&lon=-85.133057
 +X690313 http://www.openstreetmap.org/?lat=39.673337&lon=-85.012743
 +X433276 http://www.openstreetmap.org/?lat=39.640769&lon=-84.992144
 +X882015 http://www.openstreetmap.org/?lat=39.655762&lon=-84.961481
++DIV_CG http://www.openstreetmap.org/?lat=39.596740&lon=-84.861137
 IN/OH http://www.openstreetmap.org/?lat=39.566480&lon=-84.815140
