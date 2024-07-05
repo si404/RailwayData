@@ -1,12 +1,7 @@
 EdiWav http://www.openstreetmap.org/?lat=55.952197&lon=-3.188674
 Hay http://www.openstreetmap.org/?lat=55.945337&lon=-3.218951
-+DIV_Tram http://www.openstreetmap.org/?lat=55.944787&lon=-3.221548
-+DIV_Liv http://www.openstreetmap.org/?lat=55.944313&lon=-3.223640
-+DIV_Ros http://www.openstreetmap.org/?lat=55.943186&lon=-3.228736
-+DIV_Mur http://www.openstreetmap.org/?lat=55.940861&lon=-3.239143
-+SKIP_Bal http://www.openstreetmap.org/?lat=55.937994&lon=-3.251867
-+DIV_Bal http://www.openstreetmap.org/?lat=55.936192&lon=-3.259935
-+DIV_Bat http://www.openstreetmap.org/?lat=55.934197&lon=-3.268733
++DIV_CstSho http://www.openstreetmap.org/?lat=55.944313&lon=-3.223640
++DIV_HML http://www.openstreetmap.org/?lat=55.934197&lon=-3.268733
 SouGyle http://www.openstreetmap.org/?lat=55.936504&lon=-3.299332
 EdiGat http://www.openstreetmap.org/?lat=55.940927&lon=-3.320124
 +X244002 http://www.openstreetmap.org/?lat=55.974399&lon=-3.373232
@@ -14,7 +9,7 @@ Dal http://www.openstreetmap.org/?lat=55.986254&lon=-3.381536
 NorQue http://www.openstreetmap.org/?lat=56.012412&lon=-3.394647
 +X474192 http://www.openstreetmap.org/?lat=56.023554&lon=-3.405097
 Inv http://www.openstreetmap.org/?lat=56.035184&lon=-3.395376
-+DIV_Kir http://www.openstreetmap.org/?lat=56.037294&lon=-3.395827
++DIV_DunLevPer http://www.openstreetmap.org/?lat=56.037294&lon=-3.395827
 Ros http://www.openstreetmap.org/?lat=56.045360&lon=-3.426211
 +X975824 http://www.openstreetmap.org/?lat=56.056966&lon=-3.450823
 DunCity http://www.openstreetmap.org/?lat=56.068101&lon=-3.452260

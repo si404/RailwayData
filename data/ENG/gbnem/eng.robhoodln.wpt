@@ -1,7 +1,7 @@
 Not http://www.openstreetmap.org/?lat=52.947170&lon=-1.145625
-+DIV_Mid http://www.openstreetmap.org/?lat=52.943763&lon=-1.162405
-+DIV_EV http://www.openstreetmap.org/?lat=52.956853&lon=-1.184506
-+DIV_Tram http://www.openstreetmap.org/?lat=52.974869&lon=-1.177769
++DIV_MML http://www.openstreetmap.org/?lat=52.942949&lon=-1.168242
++DIV_EVL http://www.openstreetmap.org/?lat=52.956853&lon=-1.184506
++DIV_NET http://www.openstreetmap.org/?lat=52.974869&lon=-1.177769
 +SKIP_Bas http://www.openstreetmap.org/?lat=52.981665&lon=-1.178176
 +SKIP_DavLn http://www.openstreetmap.org/?lat=52.984992&lon=-1.182017
 +SKIP_HigVale http://www.openstreetmap.org/?lat=52.989396&lon=-1.189163
@@ -21,5 +21,5 @@ Shi http://www.openstreetmap.org/?lat=53.204169&lon=-1.202617
 LanWhaTho http://www.openstreetmap.org/?lat=53.232692&lon=-1.209311
 Cre http://www.openstreetmap.org/?lat=53.263942&lon=-1.216393
 Whi http://www.openstreetmap.org/?lat=53.279957&lon=-1.200171
-+DIV_She http://www.openstreetmap.org/?lat=53.318223&lon=-1.145754
++DIV_Pil http://www.openstreetmap.org/?lat=53.318223&lon=-1.145754
 Wor http://www.openstreetmap.org/?lat=53.311583&lon=-1.122751

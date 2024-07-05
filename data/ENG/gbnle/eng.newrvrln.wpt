@@ -3,10 +3,10 @@ LonLivSt http://www.openstreetmap.org/?lat=51.518057&lon=-0.081389
 +SKIP_CamHea http://www.openstreetmap.org/?lat=51.532235&lon=-0.057421
 +SKIP_LonFie http://www.openstreetmap.org/?lat=51.541004&lon=-0.057786
 +SKIP_HacDow http://www.openstreetmap.org/?lat=51.548557&lon=-0.060575
-+DIV_Sev http://www.openstreetmap.org/?lat=51.549931&lon=-0.061390
++DIV_WeaS http://www.openstreetmap.org/?lat=51.549931&lon=-0.061390
 +SKIP_Cla http://www.openstreetmap.org/?lat=51.561638&lon=-0.056906
-+DIV_Chi http://www.openstreetmap.org/?lat=51.568494&lon=-0.050554
-+DIV_Str http://www.openstreetmap.org/?lat=51.573996&lon=-0.052421
++DIV_WeaE http://www.openstreetmap.org/?lat=51.568494&lon=-0.050554
++DIV_WAMLS http://www.openstreetmap.org/?lat=51.573996&lon=-0.052421
 TotHale http://www.openstreetmap.org/?lat=51.588203&lon=-0.059856
 +SKIP_NorPark http://www.openstreetmap.org/?lat=51.601933&lon=-0.053945
 +SKIP_MerWat http://www.openstreetmap.org/?lat=51.610009&lon=-0.050254
@@ -14,10 +14,10 @@ PonEnd http://www.openstreetmap.org/?lat=51.643044&lon=-0.034633
 Bri http://www.openstreetmap.org/?lat=51.655559&lon=-0.030899
 EnfLock http://www.openstreetmap.org/?lat=51.670892&lon=-0.028625
 WalCro http://www.openstreetmap.org/?lat=51.685248&lon=-0.026479
-+DIV_Sou http://www.openstreetmap.org/?lat=51.699730&lon=-0.024322
++DIV_WeaN http://www.openstreetmap.org/?lat=51.699730&lon=-0.024322
 Che http://www.openstreetmap.org/?lat=51.702686&lon=-0.023861
 Bro http://www.openstreetmap.org/?lat=51.746867&lon=-0.010600
-+DIV_WA http://www.openstreetmap.org/?lat=51.762425&lon=0.005107
++DIV_WAMLN http://www.openstreetmap.org/?lat=51.762425&lon=0.005107
 RyeHou http://www.openstreetmap.org/?lat=51.769447&lon=0.005493
 StMar http://www.openstreetmap.org/?lat=51.787963&lon=0.001073
 Ware http://www.openstreetmap.org/?lat=51.808097&lon=-0.029483

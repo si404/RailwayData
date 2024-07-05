@@ -1,7 +1,7 @@
 Lee http://www.openstreetmap.org/?lat=53.794358&lon=-1.547720
 +DIV_Hal http://www.openstreetmap.org/?lat=53.792634&lon=-1.555617
 +DIV_Har http://www.openstreetmap.org/?lat=53.792402&lon=-1.561314
-+DIV_Bra http://www.openstreetmap.org/?lat=53.791329&lon=-1.568513
++DIV_Cal http://www.openstreetmap.org/?lat=53.791329&lon=-1.568513
 +X384173 http://www.openstreetmap.org/?lat=53.788249&lon=-1.575723
 +X776880 http://www.openstreetmap.org/?lat=53.742956&lon=-1.561990
 +X403527 http://www.openstreetmap.org/?lat=53.723447&lon=-1.514311
@@ -17,6 +17,6 @@ SouElm http://www.openstreetmap.org/?lat=53.594861&lon=-1.285315
 +X844944 http://www.openstreetmap.org/?lat=53.587155&lon=-1.229482
 Adw http://www.openstreetmap.org/?lat=53.572110&lon=-1.180043
 Ben http://www.openstreetmap.org/?lat=53.543814&lon=-1.150732
-+DIV_EC http://www.openstreetmap.org/?lat=53.530679&lon=-1.139746
-+DIV_Scu http://www.openstreetmap.org/?lat=53.527229&lon=-1.139724
++DIV_ECML http://www.openstreetmap.org/?lat=53.530679&lon=-1.139746
++DIV_YCL http://www.openstreetmap.org/?lat=53.527229&lon=-1.139724
 Don http://www.openstreetmap.org/?lat=53.522031&lon=-1.139874

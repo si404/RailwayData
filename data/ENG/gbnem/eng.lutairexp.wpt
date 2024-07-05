@@ -1,6 +1,6 @@
 LonStPanInt http://www.openstreetmap.org/?lat=51.530246&lon=-0.124090
-+DIV_HS1 http://www.openstreetmap.org/?lat=51.537697&lon=-0.129261
-+DIV_TL http://www.openstreetmap.org/?lat=51.541614&lon=-0.130763
++X507692 http://www.openstreetmap.org/?lat=51.535088&lon=-0.129175
++DIV_Tha http://www.openstreetmap.org/?lat=51.541614&lon=-0.130763
 +SKIP_KenTown http://www.openstreetmap.org/?lat=51.550058&lon=-0.138831
 +SKIP_WestHam http://www.openstreetmap.org/?lat=51.548403&lon=-0.192261
 +SKIP_Cri http://www.openstreetmap.org/?lat=51.558303&lon=-0.212517
@@ -25,7 +25,7 @@ Lut http://www.openstreetmap.org/?lat=51.882452&lon=-0.413961
 +X252715 http://www.openstreetmap.org/?lat=52.027888&lon=-0.512495
 +X833105 http://www.openstreetmap.org/?lat=52.056264&lon=-0.512667
 +X862147 http://www.openstreetmap.org/?lat=52.086706&lon=-0.486746
-+DIV_EW http://www.openstreetmap.org/?lat=52.134038&lon=-0.478270
++DIV_Var http://www.openstreetmap.org/?lat=52.134038&lon=-0.478270
 Bed http://www.openstreetmap.org/?lat=52.136214&lon=-0.479751
 +X685244 http://www.openstreetmap.org/?lat=52.175998&lon=-0.520949
 +X545270 http://www.openstreetmap.org/?lat=52.222607&lon=-0.529189
@@ -33,11 +33,11 @@ Bed http://www.openstreetmap.org/?lat=52.136214&lon=-0.479751
 Wel http://www.openstreetmap.org/?lat=52.303821&lon=-0.676303
 +X982200 http://www.openstreetmap.org/?lat=52.355028&lon=-0.693083
 Ket http://www.openstreetmap.org/?lat=52.393476&lon=-0.732136
-+DIV_Mid http://www.openstreetmap.org/?lat=52.427934&lon=-0.744324
++DIV_MML http://www.openstreetmap.org/?lat=52.427934&lon=-0.744324
 +X954810 http://www.openstreetmap.org/?lat=52.460037&lon=-0.708704
 Cor http://www.openstreetmap.org/?lat=52.488713&lon=-0.688362
 +X232726 http://www.openstreetmap.org/?lat=52.531156&lon=-0.684071
 +X407108 http://www.openstreetmap.org/?lat=52.557934&lon=-0.656176
 +X116167 http://www.openstreetmap.org/?lat=52.575333&lon=-0.652742
-+DIV_Pet http://www.openstreetmap.org/?lat=52.627658&lon=-0.696902
++DIV_BPL http://www.openstreetmap.org/?lat=52.627658&lon=-0.696902
 Oak http://www.openstreetmap.org/?lat=52.672297&lon=-0.734367

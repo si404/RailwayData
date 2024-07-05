@@ -1,6 +1,6 @@
 Car http://www.openstreetmap.org/?lat=54.890518&lon=-2.933135
-+DIV_WC http://www.openstreetmap.org/?lat=54.886997&lon=-2.928919
-+DIV_SC http://www.openstreetmap.org/?lat=54.885920&lon=-2.914445
++DIV_WCML http://www.openstreetmap.org/?lat=54.886997&lon=-2.928919
++DIV_SCL http://www.openstreetmap.org/?lat=54.885920&lon=-2.914445
 +X335501 http://www.openstreetmap.org/?lat=54.889024&lon=-2.876873
 Wet http://www.openstreetmap.org/?lat=54.883840&lon=-2.832069
 +X129611 http://www.openstreetmap.org/?lat=54.894281&lon=-2.776880
@@ -26,9 +26,10 @@ Pru http://www.openstreetmap.org/?lat=54.965876&lon=-1.864758
 MetCen http://www.openstreetmap.org/?lat=54.958904&lon=-1.664901
 +SKIP_Dun http://www.openstreetmap.org/?lat=54.949983&lon=-1.641469
 +X824062 http://www.openstreetmap.org/?lat=54.947863&lon=-1.625719
-+DIV_EC http://www.openstreetmap.org/?lat=54.959030&lon=-1.616900
++X870412 http://www.openstreetmap.org/?lat=54.955324&lon=-1.619089
++DIV_ECML http://www.openstreetmap.org/?lat=54.959030&lon=-1.616900
 New http://www.openstreetmap.org/?lat=54.968226&lon=-1.616943
-+DIV_DC http://www.openstreetmap.org/?lat=54.968620&lon=-1.612501
++DIV_DCL http://www.openstreetmap.org/?lat=54.968620&lon=-1.612501
 Man http://www.openstreetmap.org/?lat=54.972678&lon=-1.605581
 +X838437 http://www.openstreetmap.org/?lat=54.983303&lon=-1.572332
 +X434384 http://www.openstreetmap.org/?lat=55.004598&lon=-1.558256

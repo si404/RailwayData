@@ -1,6 +1,6 @@
 TowGat +TOG http://www.openstreetmap.org/?lat=51.510699&lon=-0.073986
-+DIV_Ban http://www.openstreetmap.org/?lat=51.511078&lon=-0.067769
-+DIV_Fen http://www.openstreetmap.org/?lat=51.511504&lon=-0.061101
++DIV_WooW http://www.openstreetmap.org/?lat=51.511078&lon=-0.067769
++DIV_LTS http://www.openstreetmap.org/?lat=51.511504&lon=-0.061101
 Sha http://www.openstreetmap.org/?lat=51.511781&lon=-0.055404
 Lim http://www.openstreetmap.org/?lat=51.512452&lon=-0.039740
 Wes http://www.openstreetmap.org/?lat=51.509432&lon=-0.026715
@@ -11,10 +11,11 @@ Pop http://www.openstreetmap.org/?lat=51.507661&lon=-0.016834
 Bla http://www.openstreetmap.org/?lat=51.507874&lon=-0.007210
 EasInd http://www.openstreetmap.org/?lat=51.509370&lon=-0.002103
 CanTown http://www.openstreetmap.org/?lat=51.513857&lon=0.008411
-+DIV_Woo http://www.openstreetmap.org/?lat=51.510378&lon=0.010600
++DIV_WooE http://www.openstreetmap.org/?lat=51.510378&lon=0.010600
 RoyVic http://www.openstreetmap.org/?lat=51.509076&lon=0.017638
 CusHou http://www.openstreetmap.org/?lat=51.509617&lon=0.025942
 PriReg http://www.openstreetmap.org/?lat=51.509450&lon=0.033174
++X306241 http://www.openstreetmap.org/?lat=51.508375&lon=0.036907
 RoyAlb http://www.openstreetmap.org/?lat=51.508355&lon=0.045919
 BecPark http://www.openstreetmap.org/?lat=51.508676&lon=0.055060
 Cyp http://www.openstreetmap.org/?lat=51.508435&lon=0.064030

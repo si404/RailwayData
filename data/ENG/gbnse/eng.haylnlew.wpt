@@ -1,19 +1,19 @@
-ChaCro http://www.openstreetmap.org/?lat=51.507721&lon=-0.124090
-WatEast http://www.openstreetmap.org/?lat=51.504115&lon=-0.108876
-+DIV_TL http://www.openstreetmap.org/?lat=51.504070&lon=-0.099784
-+DIV_Can http://www.openstreetmap.org/?lat=51.505616&lon=-0.089060
+LonChaCro +ChaCro http://www.openstreetmap.org/?lat=51.507721&lon=-0.124090
+LonWatEast +WatEast http://www.openstreetmap.org/?lat=51.504115&lon=-0.108876
++DIV_ThaN http://www.openstreetmap.org/?lat=51.504070&lon=-0.099784
++DIV_WooW http://www.openstreetmap.org/?lat=51.505616&lon=-0.089060
 LonBri http://www.openstreetmap.org/?lat=51.504232&lon=-0.084994
 +DIV_Pec http://www.openstreetmap.org/?lat=51.492015&lon=-0.059727
-+DIV_Bri http://www.openstreetmap.org/?lat=51.488989&lon=-0.052485
-+DIV_Gre http://www.openstreetmap.org/?lat=51.483447&lon=-0.039096
-+DIV_ELL http://www.openstreetmap.org/?lat=51.478967&lon=-0.034482
++DIV_ThaS http://www.openstreetmap.org/?lat=51.488989&lon=-0.052485
++DIV_WooE http://www.openstreetmap.org/?lat=51.483447&lon=-0.039096
++DIV_Win http://www.openstreetmap.org/?lat=51.478967&lon=-0.034482
 +SKIP_NewCro http://www.openstreetmap.org/?lat=51.476375&lon=-0.032626
-+DIV_Tan http://www.openstreetmap.org/?lat=51.470334&lon=-0.025342
-+DIV_Nun http://www.openstreetmap.org/?lat=51.467961&lon=-0.020202
-+DIV_Lew http://www.openstreetmap.org/?lat=51.467306&lon=-0.018271
++DIV_SEML http://www.openstreetmap.org/?lat=51.470334&lon=-0.025342
++DIV_Bex http://www.openstreetmap.org/?lat=51.467961&lon=-0.020202
++DIV_NKL http://www.openstreetmap.org/?lat=51.467306&lon=-0.018271
 Lew http://www.openstreetmap.org/?lat=51.465605&lon=-0.013969
-+DIV_Cou http://www.openstreetmap.org/?lat=51.461867&lon=-0.013926
-+DIV_Lad http://www.openstreetmap.org/?lat=51.459201&lon=-0.016587
++DIV_Sid http://www.openstreetmap.org/?lat=51.461867&lon=-0.013926
++DIV_Byp http://www.openstreetmap.org/?lat=51.459201&lon=-0.016587
 Lad http://www.openstreetmap.org/?lat=51.456019&lon=-0.019162
 CatBri http://www.openstreetmap.org/?lat=51.444613&lon=-0.024912
 LowSyd http://www.openstreetmap.org/?lat=51.424574&lon=-0.033345

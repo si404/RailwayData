@@ -1,15 +1,15 @@
 GlaQueSt http://www.openstreetmap.org/?lat=55.862471&lon=-4.251108
-+DIV_Spr http://www.openstreetmap.org/?lat=55.883508&lon=-4.237247
-+DIV_Mar http://www.openstreetmap.org/?lat=55.888803&lon=-4.241624
++DIV_CumS http://www.openstreetmap.org/?lat=55.883508&lon=-4.237247
++DIV_WHL http://www.openstreetmap.org/?lat=55.888803&lon=-4.241624
 +SKIP_Bis http://www.openstreetmap.org/?lat=55.903977&lon=-4.224468
 +SKIP_Len http://www.openstreetmap.org/?lat=55.921304&lon=-4.153991
 +X717832 http://www.openstreetmap.org/?lat=55.933217&lon=-4.096270
 +SKIP_Croy http://www.openstreetmap.org/?lat=55.955651&lon=-4.036188
 +X573797 http://www.openstreetmap.org/?lat=55.969211&lon=-4.014988
 +X384470 http://www.openstreetmap.org/?lat=55.979273&lon=-3.978767
-+DIV_Fal http://www.openstreetmap.org/?lat=55.986416&lon=-3.898945
-+DIV_Cum http://www.openstreetmap.org/?lat=55.991091&lon=-3.887014
-+DIV_Cam http://www.openstreetmap.org/?lat=56.008687&lon=-3.834057
++DIV_Croy http://www.openstreetmap.org/?lat=55.986416&lon=-3.898945
++DIV_CumN http://www.openstreetmap.org/?lat=55.991091&lon=-3.887014
++DIV_Edi http://www.openstreetmap.org/?lat=56.008687&lon=-3.834057
 +SKIP_Lar http://www.openstreetmap.org/?lat=56.022408&lon=-3.829765
 +X724331 http://www.openstreetmap.org/?lat=56.056103&lon=-3.847876
 Sti http://www.openstreetmap.org/?lat=56.120109&lon=-3.934736
@@ -24,7 +24,7 @@ Sti http://www.openstreetmap.org/?lat=56.120109&lon=-3.934736
 +X804901 http://www.openstreetmap.org/?lat=56.283701&lon=-3.718529
 +X122747 http://www.openstreetmap.org/?lat=56.306229&lon=-3.648233
 +X155713 http://www.openstreetmap.org/?lat=56.331409&lon=-3.609352
-+DIV_Kir http://www.openstreetmap.org/?lat=56.364335&lon=-3.431726
++DIV_Fife http://www.openstreetmap.org/?lat=56.364335&lon=-3.431726
 +X537681 http://www.openstreetmap.org/?lat=56.375292&lon=-3.427863
 Per http://www.openstreetmap.org/?lat=56.390908&lon=-3.438463
 +X794722 http://www.openstreetmap.org/?lat=56.434004&lon=-3.472109
@@ -75,5 +75,5 @@ Car http://www.openstreetmap.org/?lat=57.279524&lon=-3.828135
 +X718712 http://www.openstreetmap.org/?lat=57.490645&lon=-4.109917
 +X719658 http://www.openstreetmap.org/?lat=57.476020&lon=-4.160900
 +X288466 http://www.openstreetmap.org/?lat=57.483541&lon=-4.197271
-+DIV_Abe http://www.openstreetmap.org/?lat=57.482696&lon=-4.206015
++DIV_AIL http://www.openstreetmap.org/?lat=57.482696&lon=-4.206015
 Inv http://www.openstreetmap.org/?lat=57.479746&lon=-4.223256

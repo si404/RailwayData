@@ -1,5 +1,5 @@
 DubHeu http://www.openstreetmap.org/?lat=53.346299&lon=-6.294823
-+DIV_Con http://www.openstreetmap.org/?lat=53.344441&lon=-6.305380
++DIV_SWC http://www.openstreetmap.org/?lat=53.344441&lon=-6.305380
 +SKIP_ParkWestCheOrc http://www.openstreetmap.org/?lat=53.334076&lon=-6.378765
 +SKIP_CloFon http://www.openstreetmap.org/?lat=53.333461&lon=-6.406403
 +SKIP_Kis http://www.openstreetmap.org/?lat=53.334448&lon=-6.430435
@@ -27,9 +27,9 @@ MuiBhe http://www.openstreetmap.org/?lat=52.699027&lon=-6.952372
 +X595883 http://www.openstreetmap.org/?lat=52.690002&lon=-7.026443
 +X595486 http://www.openstreetmap.org/?lat=52.645928&lon=-7.069530
 +X224185 http://www.openstreetmap.org/?lat=52.632386&lon=-7.128239
-+DIV_Wat http://www.openstreetmap.org/?lat=52.637490&lon=-7.190466
++DIV_WatS http://www.openstreetmap.org/?lat=52.637490&lon=-7.190466
 KilMac http://www.openstreetmap.org/?lat=52.654441&lon=-7.243595
-+DIV_Dub http://www.openstreetmap.org/?lat=52.637490&lon=-7.190466
++DIV_WatN http://www.openstreetmap.org/?lat=52.637490&lon=-7.190466
 Tho http://www.openstreetmap.org/?lat=52.523193&lon=-7.148838
 +X346692 http://www.openstreetmap.org/?lat=52.507602&lon=-7.157593
 +X331826 http://www.openstreetmap.org/?lat=52.501959&lon=-7.177849
@@ -37,6 +37,6 @@ Tho http://www.openstreetmap.org/?lat=52.523193&lon=-7.148838
 +X860837 http://www.openstreetmap.org/?lat=52.384977&lon=-7.175789
 +X962650 http://www.openstreetmap.org/?lat=52.340846&lon=-7.169609
 +X536744 http://www.openstreetmap.org/?lat=52.319760&lon=-7.150898
-+DIV_Clo http://www.openstreetmap.org/?lat=52.283893&lon=-7.142079
++DIV_LWL http://www.openstreetmap.org/?lat=52.283893&lon=-7.142079
 +X878257 http://www.openstreetmap.org/?lat=52.269195&lon=-7.130985
 Wat http://www.openstreetmap.org/?lat=52.266398&lon=-7.117682

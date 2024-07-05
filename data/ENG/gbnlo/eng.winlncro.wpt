@@ -1,6 +1,6 @@
 HigIsl http://www.openstreetmap.org/?lat=51.546188&lon=-0.103405
 Can http://www.openstreetmap.org/?lat=51.548543&lon=-0.093062
-+DIV_NLL http://www.openstreetmap.org/?lat=51.548317&lon=-0.078235
++DIV_Mil http://www.openstreetmap.org/?lat=51.548317&lon=-0.078235
 DalJct http://www.openstreetmap.org/?lat=51.545341&lon=-0.074952
 Hag http://www.openstreetmap.org/?lat=51.538508&lon=-0.075617
 Hox http://www.openstreetmap.org/?lat=51.531247&lon=-0.075660
@@ -11,9 +11,9 @@ Wap http://www.openstreetmap.org/?lat=51.504422&lon=-0.056026
 Rot +ROE http://www.openstreetmap.org/?lat=51.500735&lon=-0.051885
 CanWat http://www.openstreetmap.org/?lat=51.497890&lon=-0.049889
 SurQua http://www.openstreetmap.org/?lat=51.493415&lon=-0.047786
-+DIV_Pec http://www.openstreetmap.org/?lat=51.489661&lon=-0.045984
++DIV_Cla http://www.openstreetmap.org/?lat=51.489661&lon=-0.045984
 +DIV_New http://www.openstreetmap.org/?lat=51.483795&lon=-0.043280
-+DIV_Lon http://www.openstreetmap.org/?lat=51.479465&lon=-0.043130
++DIV_Tha http://www.openstreetmap.org/?lat=51.479465&lon=-0.043130
 NewCroGate http://www.openstreetmap.org/?lat=51.475042&lon=-0.040233
 Bro http://www.openstreetmap.org/?lat=51.464629&lon=-0.037572
 HonOakPark http://www.openstreetmap.org/?lat=51.450069&lon=-0.045469
@@ -22,8 +22,8 @@ Syd http://www.openstreetmap.org/?lat=51.426875&lon=-0.054610
 +DIV_Pal http://www.openstreetmap.org/?lat=51.420761&lon=-0.057721
 PenWest http://www.openstreetmap.org/?lat=51.417496&lon=-0.060725
 Ane http://www.openstreetmap.org/?lat=51.412584&lon=-0.065575
-+DIV_Cry http://www.openstreetmap.org/?lat=51.404580&lon=-0.070488
++DIV_Gip http://www.openstreetmap.org/?lat=51.404580&lon=-0.070488
 NorJct http://www.openstreetmap.org/?lat=51.397218&lon=-0.074673
-+DIV_ECr http://www.openstreetmap.org/?lat=51.389157&lon=-0.081646
-+DIV_Sel http://www.openstreetmap.org/?lat=51.387112&lon=-0.086936
++DIV_Cat http://www.openstreetmap.org/?lat=51.389157&lon=-0.081646
++DIV_Wal http://www.openstreetmap.org/?lat=51.387112&lon=-0.086936
 WestCro http://www.openstreetmap.org/?lat=51.378809&lon=-0.102063

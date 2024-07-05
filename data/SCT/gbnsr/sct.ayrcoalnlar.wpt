@@ -1,7 +1,7 @@
 GlaCen http://www.openstreetmap.org/?lat=55.858515&lon=-4.258533
-+DIV_WC http://www.openstreetmap.org/?lat=55.851860&lon=-4.260013
++DIV_WCML http://www.openstreetmap.org/?lat=55.851860&lon=-4.260013
 +SKIP_WestSt http://www.openstreetmap.org/?lat=55.849439&lon=-4.265678
-+DIV_PC http://www.openstreetmap.org/?lat=55.847584&lon=-4.287350
++DIV_PCL http://www.openstreetmap.org/?lat=55.847584&lon=-4.287350
 +SKIP_Car http://www.openstreetmap.org/?lat=55.852734&lon=-4.340200
 +SKIP_HilEast http://www.openstreetmap.org/?lat=55.854227&lon=-4.354877
 +SKIP_HilWest http://www.openstreetmap.org/?lat=55.855913&lon=-4.371700
