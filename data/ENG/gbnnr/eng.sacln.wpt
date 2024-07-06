@@ -21,7 +21,7 @@ Ski http://www.openstreetmap.org/?lat=53.958295&lon=-2.025733
 Garg http://www.openstreetmap.org/?lat=53.978288&lon=-2.104998
 +X916777 http://www.openstreetmap.org/?lat=53.982705&lon=-2.130961
 +X837890 http://www.openstreetmap.org/?lat=54.008097&lon=-2.162676
-+DIV_RV http://www.openstreetmap.org/?lat=54.009515&lon=-2.225332
++DIV_RVL http://www.openstreetmap.org/?lat=54.009515&lon=-2.225332
 Hel http://www.openstreetmap.org/?lat=54.010612&lon=-2.227070
 LongPre http://www.openstreetmap.org/?lat=54.016683&lon=-2.255158
 +DIV_Ben http://www.openstreetmap.org/?lat=54.042294&lon=-2.286143
@@ -56,6 +56,6 @@ Arm http://www.openstreetmap.org/?lat=54.809484&lon=-2.771945
 +X666992 http://www.openstreetmap.org/?lat=54.852921&lon=-2.809410
 +X478973 http://www.openstreetmap.org/?lat=54.856380&lon=-2.834644
 +X623769 http://www.openstreetmap.org/?lat=54.883001&lon=-2.869835
-+DIV_TV http://www.openstreetmap.org/?lat=54.885920&lon=-2.914445
-+DIV_WC http://www.openstreetmap.org/?lat=54.886997&lon=-2.928919
++DIV_TVL http://www.openstreetmap.org/?lat=54.885920&lon=-2.914445
++DIV_WCML http://www.openstreetmap.org/?lat=54.886997&lon=-2.928919
 Car http://www.openstreetmap.org/?lat=54.890518&lon=-2.933135

@@ -1,5 +1,5 @@
 ENG/SCT http://www.openstreetmap.org/?lat=54.998026&lon=-3.045187
-+DIV_Gre http://www.openstreetmap.org/?lat=54.998767&lon=-3.045959
++DIV_Car http://www.openstreetmap.org/?lat=54.998767&lon=-3.045959
 +X792912 http://www.openstreetmap.org/?lat=55.012006&lon=-3.058491
 +X493619 http://www.openstreetmap.org/?lat=55.028243&lon=-3.163633
 +X523120 http://www.openstreetmap.org/?lat=55.065517&lon=-3.238993
@@ -21,11 +21,9 @@ ENG/SCT http://www.openstreetmap.org/?lat=54.998026&lon=-3.045187
 +X709704 http://www.openstreetmap.org/?lat=55.605845&lon=-3.602657
 +X479100 http://www.openstreetmap.org/?lat=55.630080&lon=-3.636131
 +X658444 http://www.openstreetmap.org/?lat=55.661441&lon=-3.632097
-+DIV_Edi http://www.openstreetmap.org/?lat=55.687915&lon=-3.661451
-+DIV_Car1 http://www.openstreetmap.org/?lat=55.690401&lon=-3.666236
++DIV_Cst1 http://www.openstreetmap.org/?lat=55.689694&lon=-3.662996
 Car http://www.openstreetmap.org/?lat=55.691344&lon=-3.669391
-+DIV_Loc http://www.openstreetmap.org/?lat=55.690401&lon=-3.666236
-+DIV_Car2 http://www.openstreetmap.org/?lat=55.692004&lon=-3.655272
++DIV_Cst2 http://www.openstreetmap.org/?lat=55.689694&lon=-3.662996
 +X718084 http://www.openstreetmap.org/?lat=55.749096&lon=-3.609524
 +X843332 http://www.openstreetmap.org/?lat=55.773628&lon=-3.608494
 +X601058 http://www.openstreetmap.org/?lat=55.834024&lon=-3.538628
@@ -35,7 +33,6 @@ Car http://www.openstreetmap.org/?lat=55.691344&lon=-3.669391
 +SKIP_WesHai http://www.openstreetmap.org/?lat=55.914371&lon=-3.283753
 +SKIP_Kin http://www.openstreetmap.org/?lat=55.918857&lon=-3.264806
 +SKIP_Sla http://www.openstreetmap.org/?lat=55.926479&lon=-3.244164
-+DIV_Fal http://www.openstreetmap.org/?lat=55.944313&lon=-3.223640
-+DIV_Tram http://www.openstreetmap.org/?lat=55.944787&lon=-3.221548
++DIV_GMLHML http://www.openstreetmap.org/?lat=55.944313&lon=-3.223640
 +SKIP_Hay http://www.openstreetmap.org/?lat=55.945337&lon=-3.218951
 EdiWav http://www.openstreetmap.org/?lat=55.952197&lon=-3.188674

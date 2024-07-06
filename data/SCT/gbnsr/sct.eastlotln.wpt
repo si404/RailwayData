@@ -7,7 +7,7 @@ Wal http://www.openstreetmap.org/?lat=55.940200&lon=-3.015532
 +SKIP_Pre http://www.openstreetmap.org/?lat=55.952960&lon=-2.974463
 +SKIP_Lon http://www.openstreetmap.org/?lat=55.976428&lon=-2.888031
 +SKIP_Drem http://www.openstreetmap.org/?lat=56.005064&lon=-2.785678
-+DIV_NB http://www.openstreetmap.org/?lat=56.006654&lon=-2.775249
++DIV_NBL http://www.openstreetmap.org/?lat=56.006654&lon=-2.775249
 +X211882 http://www.openstreetmap.org/?lat=56.008171&lon=-2.725554
 EastLin http://www.openstreetmap.org/?lat=55.987025&lon=-2.662532
 +X490054 http://www.openstreetmap.org/?lat=55.984483&lon=-2.650881
