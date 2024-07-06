@@ -1,6 +1,6 @@
 Sch http://www.openstreetmap.org/?lat=46.967822&lon=9.688010
 Gru http://www.openstreetmap.org/?lat=46.980560&lon=9.645653
-SeePar http://www.openstreetmap.org/?lat=46.976900&lon=9.632478
++SKIP_SeePar http://www.openstreetmap.org/?lat=46.976900&lon=9.632478
 Mal http://www.openstreetmap.org/?lat=46.977603&lon=9.573727
 Lan http://www.openstreetmap.org/?lat=46.967514&lon=9.554071
 LanRied http://www.openstreetmap.org/?lat=46.957344&lon=9.560766
@@ -23,3 +23,7 @@ ReiTam http://www.openstreetmap.org/?lat=46.823945&lon=9.413459
 +X884653 http://www.openstreetmap.org/?lat=46.821229&lon=9.386230
 Bon http://www.openstreetmap.org/?lat=46.810201&lon=9.397860
 Rha http://www.openstreetmap.org/?lat=46.799729&lon=9.399340
+Rot http://www.openstreetmap.org/?lat=46.767889&lon=9.419618
+RodRea http://www.openstreetmap.org/?lat=46.735544&lon=9.433157
+Caz http://www.openstreetmap.org/?lat=46.719924&lon=9.432878
+Thu http://www.openstreetmap.org/?lat=46.698295&lon=9.440818

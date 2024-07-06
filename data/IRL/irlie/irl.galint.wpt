@@ -1,5 +1,5 @@
 DubHeu http://www.openstreetmap.org/?lat=53.346299&lon=-6.294823
-+DIV_Con http://www.openstreetmap.org/?lat=53.344441&lon=-6.305380
++DIV_SWC http://www.openstreetmap.org/?lat=53.344441&lon=-6.305380
 +SKIP_ParkWestCheOrc http://www.openstreetmap.org/?lat=53.334076&lon=-6.378765
 +SKIP_CloFon http://www.openstreetmap.org/?lat=53.333461&lon=-6.406403
 +SKIP_Kis http://www.openstreetmap.org/?lat=53.334448&lon=-6.430435
@@ -12,12 +12,12 @@ DubHeu http://www.openstreetmap.org/?lat=53.346299&lon=-6.294823
 +SKIP_New http://www.openstreetmap.org/?lat=53.185298&lon=-6.808777
 +X607914 http://www.openstreetmap.org/?lat=53.171653&lon=-6.855640
 +SKIP_Kil http://www.openstreetmap.org/?lat=53.162700&lon=-6.909199
-+DIV_Kil http://www.openstreetmap.org/?lat=53.154324&lon=-6.966019
++DIV_Wat http://www.openstreetmap.org/?lat=53.154324&lon=-6.966019
 +X403249 http://www.openstreetmap.org/?lat=53.154208&lon=-7.012110
 +SKIP_Mon http://www.openstreetmap.org/?lat=53.145445&lon=-7.063050
 +X174790 http://www.openstreetmap.org/?lat=53.139395&lon=-7.138710
 Por http://www.openstreetmap.org/?lat=53.145985&lon=-7.180982
-+DIV_Por http://www.openstreetmap.org/?lat=53.145779&lon=-7.183642
++DIV_LimCork http://www.openstreetmap.org/?lat=53.145779&lon=-7.183642
 +X697117 http://www.openstreetmap.org/?lat=53.193025&lon=-7.286682
 +X943692 http://www.openstreetmap.org/?lat=53.200326&lon=-7.321529
 +X618098 http://www.openstreetmap.org/?lat=53.245649&lon=-7.407188
@@ -36,7 +36,7 @@ Woo http://www.openstreetmap.org/?lat=53.342942&lon=-8.471661
 Att http://www.openstreetmap.org/?lat=53.321351&lon=-8.606501
 +X500492 http://www.openstreetmap.org/?lat=53.314339&lon=-8.719368
 Athe http://www.openstreetmap.org/?lat=53.301326&lon=-8.749022
-+DIV_Enn http://www.openstreetmap.org/?lat=53.299248&lon=-8.752670
++DIV_LGL http://www.openstreetmap.org/?lat=53.299248&lon=-8.752670
 +X605598 http://www.openstreetmap.org/?lat=53.276326&lon=-8.821335
 +X511753 http://www.openstreetmap.org/?lat=53.281663&lon=-8.913774
 Ora http://www.openstreetmap.org/?lat=53.275505&lon=-8.946733

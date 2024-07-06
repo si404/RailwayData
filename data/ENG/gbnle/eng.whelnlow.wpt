@@ -1,5 +1,5 @@
 Nor http://www.openstreetmap.org/?lat=52.626769&lon=1.306708
-+DIV_GE http://www.openstreetmap.org/?lat=52.623734&lon=1.313124
++DIV_GEML http://www.openstreetmap.org/?lat=52.623734&lon=1.313124
 +DIV_Bit http://www.openstreetmap.org/?lat=52.625515&lon=1.349666
 +SKIP_BruGar http://www.openstreetmap.org/?lat=52.623366&lon=1.418180
 Bru http://www.openstreetmap.org/?lat=52.619419&lon=1.439145
@@ -13,5 +13,5 @@ Som http://www.openstreetmap.org/?lat=52.510188&lon=1.652155
 +X931449 http://www.openstreetmap.org/?lat=52.500105&lon=1.680307
 +X340997 http://www.openstreetmap.org/?lat=52.480140&lon=1.688805
 OulBroNor http://www.openstreetmap.org/?lat=52.477644&lon=1.715627
-+DIV_ES http://www.openstreetmap.org/?lat=52.477801&lon=1.718588
++DIV_ESL http://www.openstreetmap.org/?lat=52.477801&lon=1.718588
 Low http://www.openstreetmap.org/?lat=52.474272&lon=1.750002

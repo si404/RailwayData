@@ -1,0 +1,6 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+usabart;CA;BARTBlue;;;BART Blue Line;ca.bartblue;
+usabart;CA;BARTGre;;;BART Green Line;ca.bartgre;
+usabart;CA;BARTOra;;;BART Orange Line;ca.bartora;
+usabart;CA;BARTRed;;;BART Red Line;ca.bartred;
+usabart;CA;BARTYel;;;BART Yellow Line;ca.bartyel;

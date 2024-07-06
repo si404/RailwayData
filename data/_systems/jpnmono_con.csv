@@ -1,0 +1,12 @@
+systemName;route;banner;groupName;roots
+jpnmono;ChiMon1;;Chiba Monorail Line 1;jpn.mnochiba1
+jpnmono;ChiMon2;;Chiba Monorail Line 2;jpn.mnochiba2
+jpnmono;DisMon;;Disney Resort Monorail;jpn.mnodisney
+jpnmono;KitaKyuMon;;Kitakyushu Monorail;jpn.mnokitakyushu
+jpnmono;OkiMon;;Okinawa Monorail;jpn.mnookinawa
+jpnmono;OsaMon;;Osaka Main Monorail;jpn.mnoosakamain
+jpnmono;OsaSaiMon;;Osaka Saito Monorail;jpn.mnoosakasaito
+jpnmono;ShoMon;;Shonan Monorail;jpn.mnoshonan
+jpnmono;SkyMon;;Skyrail Monorail;jpn.mnoskyrail
+jpnmono;TamaMon;;Tama Toshi Monorail;jpn.mnotamatoshi
+jpnmono;TokMon;;Tokyo Monorail;jpn.mnotokyo

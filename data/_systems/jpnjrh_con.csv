@@ -1,0 +1,17 @@
+systemName;route;banner;groupName;roots
+jpnjrh;ChitoseLn;;Chitose Line;jpn.chitose
+jpnjrh;ChitoseAirLn;;Chitose Airport Branch Line;jpn.chitoseair
+jpnjrh;FuranoLn;;Furano Line;jpn.furano
+jpnjrh;HakodateLn;;Hakodate Line;jpn.hakodate
+jpnjrh;SawaraLn;;Hakodate Sawara Branch Line;jpn.hakosawara
+jpnjrh;HidakaLn;;Hidaka Line;jpn.hidaka
+jpnjrh;MuroranLn;;Muroran Line;jpn.muroran
+jpnjrh;MuroranCityLn;;Muroran City Branch Line;jpn.murorancity
+jpnjrh;NemuroLnE;;Nemuro Line East;jpn.nemuroeast
+jpnjrh;NemuroLnW;;Nemuro Line West;jpn.nemurowest
+jpnjrh;RumoiLn;;Rumoi Line;jpn.rumoi
+jpnjrh;SasshoLn;;Sassho Line;jpn.sassho
+jpnjrh;SekihokuLn;;Sekihoku Line;jpn.sekihoku
+jpnjrh;SekishoLn;;Sekisho Line;jpn.sekisho
+jpnjrh;SenmoLn;;Senmo Line;jpn.senmo
+jpnjrh;SoyaLn;;Soya Line;jpn.soya

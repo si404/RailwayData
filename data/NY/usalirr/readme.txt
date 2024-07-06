@@ -1,17 +1,17 @@
 Atlantic and West Hempstead Branches
- 	Atlantic - Jamaica	2tph	AtlBra
+ 	Atlantic - Jamaica	2tph	WHemBra
 	Atlantic - West Hempstead	1tph	WHemBra
 
 Babylon Branch
-	Penn Station - Babylon (limited stop)	1tph	BabBraLim
+	Penn Station - Babylon (limited stop)	1tph	BabBra
 	Grand Central - Babylon	1tph	BabBraGCT
 	Penn Station - Babylon (stopping)	1tph	BabBra
 
 Hempstead Branch	Grand Central - Hempstead	1tph	HemBra
 
 Huntingdon and Port Jefferson Branch
-	Grand Central - Huntingdon	1tph	HunBraGCT
-	Penn Station - Huntingdon	1tph	HunBra
+	Grand Central - Huntingdon	1tph	HunBra
+	Penn Station - Huntingdon	1tph	PortJefBra
 	Huntingdon - Port Jefferson	1tp2h	PortJefBra
 
 Long Beach Branch
@@ -28,7 +28,7 @@ Port Washington Branch
 	Penn Station - Port Washington	1tph	PortWasBra
 
 Rockaway Branch
-	Grand Central - Far Rockaway	1tph	RocBra
+	Grand Central - Far Rockaway	1tph	FarRocBra
 
 Ronkonkoma and Greenport Branches
 	Grand Central - Ronkonkoma	1tph	RonBraGCT

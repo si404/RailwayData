@@ -1,0 +1,17 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+usametx;IL;ME;;;Metra Electric;il.me;
+usametx;IL;ME;;Blu;Metra Electric (Blue Island Branch);il.meblue;
+usametx;IL;ME;;SCh;Metra Electric (South Chicago Branch);il.meschi;
+usametx;IL;RI;;;Rock Island District;il.ri;
+usametx;IL;RI;;Sub;Rock Island District (Suburban Branch);il.risub;
+usametx;IL;SWS;;;Southwest Service;il.sws;
+usametx;IL;HC;;;Heritage Corridor;il.hc;
+usametx;IL;BNSF;;;BNSF;il.bnsf;
+usametx;IL;MDW;;;Milwaukee District West;il.mdw;
+usametx;IL;UPW;;;Union Pacific West;il.upw;
+usametx;IL;MDN;;;Milwaukee District North;il.mdn;
+usametx;IL;NCS;;;North Central Service;il.ncs;
+usametx;IL;UPNW;;;Union Pacific Northwest;il.upnw;
+usametx;IL;UPNW;;McH;Union Pacific Northwest (McHenry Branch);il.upnwmch;
+usametx;IL;UPN;;;Union Pacific North;il.upn;
+usametx;WI;UPN;;;Union Pacific North;wi.upn;

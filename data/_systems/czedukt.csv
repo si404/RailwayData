@@ -1,0 +1,15 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+czedukt;CZE;T1;;;;cze.t01;
+czedukt;CZE;T2;;;;cze.t02;
+czedukt;CZE;T3;;;;cze.t03;
+czedukt;CZE;T4;;;;cze.t04;
+czedukt;CZE;T5;;;;cze.t05;
+czedukt;CZE;T6;;;Podborany;cze.t06;
+czedukt;CZE;T6;;Kad;Kadane;cze.t06kad;
+czedukt;DEU-SN;T7;;;;deusn.t07;
+czedukt;CZE;T7;;;;cze.t07;
+czedukt;CZE;T8;;;;cze.t08;
+czedukt;CZE;T9;;;;cze.t09;
+czedukt;DEU-SN;T9;;;;deusn.t09;
+czedukt;CZE;T10;;;;cze.t10;
+czedukt;CZE;T11;;;;cze.t11;

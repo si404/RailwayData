@@ -1,18 +1,19 @@
-HovBaneGard_A http://www.openstreetmap.org/?lat=55.671916&lon=12.565581
-RadHusPla http://www.openstreetmap.org/?lat=55.676438&lon=12.568204
+KobHov_1 +HovBaneGard_A http://www.openstreetmap.org/?lat=55.671916&lon=12.565581
+Rad +RadHusPla http://www.openstreetmap.org/?lat=55.676438&lon=12.568204
 GamStr http://www.openstreetmap.org/?lat=55.677597&lon=12.578925
 KonNyt http://www.openstreetmap.org/?lat=55.679764&lon=12.585040
-MarKir http://www.openstreetmap.org/?lat=55.685127&lon=12.589039
-OstPort http://www.openstreetmap.org/?lat=55.693122&lon=12.588594
+Mar +MarKir http://www.openstreetmap.org/?lat=55.685127&lon=12.589039
+Ost  +OstPort http://www.openstreetmap.org/?lat=55.693122&lon=12.588594
 Tri http://www.openstreetmap.org/?lat=55.699254&lon=12.575553
 PoulHenPla http://www.openstreetmap.org/?lat=55.709476&lon=12.576138
-VibHusRun http://www.openstreetmap.org/?lat=55.706399&lon=12.564773
+VibRun +VibHusRun http://www.openstreetmap.org/?lat=55.706399&lon=12.564773
 SkjPla http://www.openstreetmap.org/?lat=55.703502&lon=12.548771
-NorBro http://www.openstreetmap.org/?lat=55.700046&lon=12.537975
-NorBrosRun http://www.openstreetmap.org/?lat=55.693526&lon=12.548935
+Nor +NorBro http://www.openstreetmap.org/?lat=55.700188&lon=12.537873
+NorRun +NorBrosRun http://www.openstreetmap.org/?lat=55.693526&lon=12.548935
 NuuPla http://www.openstreetmap.org/?lat=55.688476&lon=12.542524
 AksMolHave http://www.openstreetmap.org/?lat=55.686053&lon=12.532949
-FreBerg http://www.openstreetmap.org/?lat=55.681205&lon=12.532415
-FreBergAlle http://www.openstreetmap.org/?lat=55.673504&lon=12.540604
+Fre +FreBerg http://www.openstreetmap.org/?lat=55.681205&lon=12.532415
+FreAlle +FreBergAlle http://www.openstreetmap.org/?lat=55.673504&lon=12.540604
 EngPla http://www.openstreetmap.org/?lat=55.667222&lon=12.546792
-HovBaneGard_B http://www.openstreetmap.org/?lat=55.671916&lon=12.565581
++DIV_M4S http://www.openstreetmap.org/?lat=55.668116&lon=12.555742
+KobHov_2 +HovBaneGard_B http://www.openstreetmap.org/?lat=55.671916&lon=12.565581

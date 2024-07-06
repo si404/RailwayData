@@ -21,8 +21,7 @@ Loc http://www.openstreetmap.org/?lat=55.122441&lon=-3.353748
 +X709704 http://www.openstreetmap.org/?lat=55.605845&lon=-3.602657
 +X479100 http://www.openstreetmap.org/?lat=55.630080&lon=-3.636131
 +X658444 http://www.openstreetmap.org/?lat=55.661441&lon=-3.632097
-+DIV_Gla http://www.openstreetmap.org/?lat=55.687915&lon=-3.661451
-+DIV_Car http://www.openstreetmap.org/?lat=55.692004&lon=-3.655272
++DIV_Cst http://www.openstreetmap.org/?lat=55.689694&lon=-3.662996
 +X718084 http://www.openstreetmap.org/?lat=55.749096&lon=-3.609524
 +X843332 http://www.openstreetmap.org/?lat=55.773628&lon=-3.608494
 +X601058 http://www.openstreetmap.org/?lat=55.834024&lon=-3.538628
@@ -32,7 +31,6 @@ Loc http://www.openstreetmap.org/?lat=55.122441&lon=-3.353748
 +SKIP_WesHai http://www.openstreetmap.org/?lat=55.914371&lon=-3.283753
 +SKIP_Kin http://www.openstreetmap.org/?lat=55.918857&lon=-3.264806
 +SKIP_Sla http://www.openstreetmap.org/?lat=55.926479&lon=-3.244164
-+DIV_Fal http://www.openstreetmap.org/?lat=55.944313&lon=-3.223640
-+DIV_Tram http://www.openstreetmap.org/?lat=55.944787&lon=-3.221548
++DIV_GMLHML http://www.openstreetmap.org/?lat=55.944313&lon=-3.223640
 Hay http://www.openstreetmap.org/?lat=55.945337&lon=-3.218951
 EdiWav http://www.openstreetmap.org/?lat=55.952197&lon=-3.188674

@@ -1,9 +1,11 @@
 
 Tyne Valley Line
 	| Carlisle, Haltwhistle, Hexham, Prudhoe, MetroCentre, Newcastle | 1tph
-	| Carlisle, Wetheral, Brampton, Haltwhistle, Bardon Mill, Haydon Bridge, Hexham, Prudhoe, MetroCentre, Newcastle, Manors, Cramlington, Morpeth | 1tph
+	| Carlisle, Wetheral, Brampton, Haltwhistle, Bardon Mill, Haydon Bridge, Hexham, Prudhoe, MetroCentre, Newcastle, Manors, Cramlington, Morpeth | 1tph (2tpd continue to Chathill)
 
-Durham Coast Line | Hexham, Corbridge, Riding Mill, Stocksfield, Prudhoe, Wylam, Blaydon, MetroCentre, Dunston, Newcastle, Heworth, Sunderland, Seaham, Horden, Hartlepool, Seaton Carew, Billingham, Stockton, Thornaby, Middlesbrough, James Cook University Hospital, Marton, Gypsy Lane, Nunthorpe | 1tph
+Durham Coast Line
+	| Hexham, Corbridge, Riding Mill, Stocksfield, Prudhoe, Wylam, Blaydon, MetroCentre, Dunston, Newcastle, Heworth, Sunderland, Seaham, Horden, Hartlepool, Seaton Carew, Billingham, Stockton, Thornaby, Middlesbrough, James Cook University Hospital, Marton, Gypsy Lane, Nunthorpe | 1tph
+	| Newcastle, Sunderland, (Hartlepool), Stockton, Middlesbrough | 1tp2h
 
 Esk Valley Line | Middlesbrough, James Cook University Hospital, Marton, Gypsy Lane, Nunthorpe, Great Ayton, Battersby, Kildale, Commondale, Castleton Moor, Danby, Lealholm, Glaisdale, Egton, Grosmont, Sleights, Ruswarp, Whitby | 1tp4h
 
@@ -15,7 +17,7 @@ Furness Line | Manchester Airport, Gatley, Manchester Piccadilly, Manchester Oxf
 
 Cumbrian Coast Line | Lancaster, Carnforth, Silverdale, Arnside, Grange-over-Sands, Kents Bank, Cark, Ulverston, Dalton, Roose, Barrow-in-Furness, Askam, Kirkby-in-Furness, Foxfield, Green Road, Millom, Silecroft, Bootle, Ravenglass, Drigg, Seascale, Sellafield, Braystones, Nethertown, St Bees, Corkickle, Whitehaven, Parton, Harrington, Workington, Flimby, Maryport, Aspatria, Wigton, Dalston, Carlisle | 1tph (only 4tpd between Barrow and Lancaster)
 
-Lakes Line | Manchester Airport, Gatley, Manchester Piccadilly, Manchester Oxford Road, Deansgate, Bolton, Chorley, Preston, Lancaster, Oxenholme Lake District, Kendal, Burneside, Staveley, Windermere | 1tph (only 4tpd between Manchester and Oxenholme
+Lakes Line | Manchester Airport, Gatley, Manchester Piccadilly, Manchester Oxford Road, Deansgate, Bolton, Chorley, Preston, Lancaster, Oxenholme Lake District, Kendal, Burneside, Staveley, Windermere | 1tph (only 4tpd between Manchester and Oxenholme)
 
 City Line
 	| Liverpool Lime Street, Edge Hill, Wavertree Technology Park, Broad Green, Roby, Huyton, Prescot, Eccleston Park, Thatto Heath, St Helens Central, Garswood, Bryn, Wigan North Western | 2tph
@@ -32,7 +34,7 @@ West Lancashire Line | Ormskirk, Burscough Junction, Rufford, Croston, Preston |
 
 CLC Line
 	| Liverpool Lime Street, Edge Hill, Mossley Hill, West Allerton, Liverpool South Parkway, Hough Green, Warrington West, Warrington Central, Padgate, Birchwood, Glazebrook, Irlam, Flixton, Chassen Road, Urmston, Humphrey Park, Trafford Park, Deansgate, Manchester Oxford Road
-	| Liverpool Lime Street to Warrington Central || 1 || Mossley Hill, West Allerton, Liverpool South Parkway, Hunts Cross, Halewood, Hough Green, Widnes, Sankey for Penketh, Warrington West
+	| Liverpool Lime Street, Mossley Hill, West Allerton, Liverpool South Parkway, Hunts Cross, Halewood, Hough Green, Widnes, Sankey for Penketh (2tpd), Warrington West, Warrington Central | 1tph
 
 Chat Moss Line | Liverpool Lime Street, Edge Hill, Wavertree Technology Park, Broad Green, Roby, Huyton, Whiston, Rainhill, Lea Green, St Helens Junction, Earlestown, Newton-le-Willows, Patricroft, Eccles, Deansgate, Manchester Oxford Road, Manchester Piccadilly, Mauldeth Road, Burnage, East Didsbury, Gatley, Heald Green, Manchester Airport | 1tph
 
@@ -69,7 +71,6 @@ Calder Valley Line | Headbolt Lane, Rainford, Upholland, Orrell, Pemberton, Wiga
 Ribble Valley Line | Clitheroe, Whalley, Langho, Ramsgreave & Wilpshire, Blackburn, Darwen, Entwistle, Bromley Cross, Hall i' th' Wood, Bolton, Salford Crescent, Salford Central, Manchester Victoria, Moston, Mills Hill, Castleton, Rochdale | 1tph + 1tph Blackburn - Rochdale
 
 Huddersfield Line
-	| Castleford, Normanton, Wakefield Kirkgate, Mirfield, Deighton, Huddersfield | 3tpd
 	| Bradford Interchange to Huddersfield || {{abbr|{{fract|1|2|1 train every 2 hours || Low Moor, Halifax, Brighouse, Huddersfield | 1tp2h
 
 Leeds - Bradford Line | Leeds, Kirkstall Forge, Apperley Bridge, Shipley, Frizinghall, Bradford Forster Square | 2tph

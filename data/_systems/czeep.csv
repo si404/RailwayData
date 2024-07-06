@@ -1,8 +1,8 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
 czeep;CZE;S1;;;Praha;cze.s01;
 czeep;CZE;S2;;;Praha;cze.s02;
-czeep;CZE;S3;;;Praha;cze.s03;
-czeep;CZE;S3;;Mla;Mlada;cze.s03mla;
+czeep;CZE;S3;;;Melnik, Praha;cze.s03;
+czeep;CZE;S3;;Mla;Mlada, Praha;cze.s03mla;
 czeep;CZE;S4;;;Praha;cze.s04;
 czeep;CZE;S5;;;Praha;cze.s05;
 czeep;CZE;S6;;;Praha;cze.s06;
@@ -36,15 +36,16 @@ czeep;CZE;S45;;;Praha;cze.s45;
 czeep;CZE;S46;;;Praha;cze.s46;
 czeep;CZE;S49;;;Praha;cze.s49;
 czeep;CZE;S50;;;Praha;cze.s50;
-czeep;CZE;S53;;;Praha;cze.s53;
 czeep;CZE;S54;;;Praha;cze.s54;
 czeep;CZE;S57;;;Praha;cze.s57;
+czeep;CZE;S58;;;Praha;cze.s58;
 czeep;CZE;S60;;;Praha;cze.s60;
 czeep;CZE;S61;;;Praha;cze.s61;
 czeep;CZE;S65;;;Praha;cze.s65;
 czeep;CZE;S66;;;Praha;cze.s66;
 czeep;CZE;S67;;;Praha;cze.s67;
 czeep;CZE;S70;;;Praha;cze.s70;
+czeep;CZE;S71;;;Praha;cze.s71;
 czeep;CZE;S75;;;Praha;cze.s75;
 czeep;CZE;S76;;;Praha;cze.s76;
 czeep;CZE;S80;;;Praha;cze.s80;

@@ -1,0 +1,11 @@
+G01 http://www.openstreetmap.org/?lat=35.514802&lon=139.540189
+G02 http://www.openstreetmap.org/?lat=35.528457&lon=139.549128
+G03 http://www.openstreetmap.org/?lat=35.536559&lon=139.561265
+G04 http://www.openstreetmap.org/?lat=35.545357&lon=139.574438
++X281407 http://www.openstreetmap.org/?lat=35.549787&lon=139.576841
+G05 http://www.openstreetmap.org/?lat=35.553381&lon=139.578386
+G06 http://www.openstreetmap.org/?lat=35.561084&lon=139.592148
+G07 http://www.openstreetmap.org/?lat=35.554169&lon=139.604690
+G08 http://www.openstreetmap.org/?lat=35.549673&lon=139.620051
+G09 http://www.openstreetmap.org/?lat=35.550062&lon=139.633621
+G10 http://www.openstreetmap.org/?lat=35.553440&lon=139.646482

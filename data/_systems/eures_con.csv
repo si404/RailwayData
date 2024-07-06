@@ -1,3 +1,6 @@
 systemName;route;banner;groupName;roots
-eures;LonPar;;Eurostar (London - Paris);eng.lonpar,frahdf.lonpar,fraidf.lonpar
-eures;LonAms;;Eurostar (London - Amsterdam);eng.lonams,frahdf.lonams,bel.lonams,nld.lonams
+eures;LonPar;;Eurostar Blue (London - Paris);eng.lonpar,frahdf.lonpar,fraidf.lonpar
+eures;LonAms;;Eurostar Blue (London - Amsterdam);eng.lonams,frahdf.lonams,bel.lonams,nld.lonams
+eures;ParAms;;Eurostar Red (Paris - Amsterdam);fraidf.params,frahdf.params,bel.params,nld.params
+eures;ParDor;;Eurostar Red (Paris - Dortmund);fraidf.pardor,frahdf.pardor,bel.pardor,deunw.pardor
+eures;AmsDis;;Eurostar Red (Amsterdam - Marne-la-Vallée);nld.amsdis,bel.amsdis,frahdf.amsdis,fraidf.amsdis

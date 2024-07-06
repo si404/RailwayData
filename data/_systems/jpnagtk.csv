@@ -1,0 +1,4 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+jpnagtk;JPN;KobePortLn;;;Kobe Port Liner;jpn.agtkobeport;
+jpnagtk;JPN;KobeFutoLn;;;Kobe Port Liner Futo Loop;jpn.agtkobefuto;
+jpnagtk;JPN;KobeRokkoLn;;;Kobe Rokko Liner;jpn.agtrokko;

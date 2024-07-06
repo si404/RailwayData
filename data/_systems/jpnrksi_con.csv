@@ -1,0 +1,14 @@
+systemName;route;banner;groupName;roots
+jpnrksi;Skyliner;;Keisei Skyliner;jpn.ksiskyliner
+jpnrksi;AccExpHaneda;;Keisei Access Express Haneda;jpn.ksiaccesshaneda
+jpnrksi;AccExpUeno;;Keisei Access Express Ueno;jpn.ksiaccessueno
+jpnrksi;Morningliner;;Keisei Morningliner / Eveningliner;jpn.ksimorningliner
+jpnrksi;ChibaLn;;Keisei Chiba Line;jpn.ksichiba
+jpnrksi;ChiharaLn;;Keisei Chihara Line;jpn.ksichihara
+jpnrksi;HigaNaritaLn;;Keisei Higashi Narita Line;jpn.ksihigashinarita
+jpnrksi;HokusoLn;;Keisei Hokuso Line;jpn.ksihokuso
+jpnrksi;KanamachiLn;;Keisei Kanamachi Line;jpn.ksikanamachi
+jpnrksi;KeiNarAptLn;;Keisei Narita Airport Line;jpn.ksinaritaairport
+jpnrksi;KeiseiMainLn;;Keisei Main Line;jpn.ksimain
+jpnrksi;OshiageLn;;Keisei Oshiage Line;jpn.ksioshiage
+jpnrksi;ShinKeiseiLn;;Keisei Shin Keisei Line;jpn.ksishinkeisei

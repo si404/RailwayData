@@ -1,0 +1,7 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+jpntmty;JPN;CityLn1;;;City Line Route 1;jpn.tmtoyama1;
+jpntmty;JPN;CityLn2;;;City Line Route 2;jpn.tmtoyama2;
+jpntmty;JPN;CityLn3;;;City Line Route 3;jpn.tmtoyama3;
+jpntmty;JPN;CityLn4;;;City Line Route 4;jpn.tmtoyama4;
+jpntmty;JPN;CityLn5;;;City Line Route 5;jpn.tmtoyama5;
+jpntmty;JPN;CityLn6;;;City Line Route 6;jpn.tmtoyama6;

@@ -1,9 +1,13 @@
 systemName;route;banner;groupName;roots
-eurapm;BARL;;Birmingham Air-Rail Link;eng.barl
-eurapm;GAST;;London Gatwick Airport Shuttle Transit;eng.gast
-eurapm;HPRT;5A;London Heathrow PRT (Terminal 5 - Parking A);eng.hprt5a
-eurapm;HPRT;5B;London Heathrow PRT (Terminal 5 - Parking B);eng.hprt5b
-eurapm;HPRT;AB;London Heathrow PRT (Parking A - Parking B);eng.hprtab
-eurapm;DART;;London Luton Direct Air-Rail Transit;eng.dart
-eurapm;CDGVAL;;Paris CDG Véhicule Automatique Léger;fraidf.cdgval
-eurapm;Orlyval;;Paris Orly Véhicule Automatique Léger;fraidf.orlyval
+eurapm;BARL;;BHX Birmingham Air-Rail Link;eng.barl
+eurapm;MEX;;BQL Bologna Marconi Express;itaemi.mex
+eurapm;CDGVAL;;CDG Paris CDG Véhicule Automatique Léger;fraidf.cdgval
+eurapm;SkyTrn;;DUS SkyTrain Düsseldorf;deunw.skytrn
+eurapm;SkyLn;;FRA SkyLine Frankurt;deuhe.skyln
+eurapm;GAST;;LGA London Gatwick Airport Shuttle Transit;eng.gast
+eurapm;HPRT;;LHR London Heathrow PRT (Terminal 5 - Parking A);eng.hprt5a
+eurapm;HPRT;;LHR London Heathrow PRT (Terminal 5 - Parking B);eng.hprt5b
+eurapm;HPRT;;LHR London Heathrow PRT (Parking A - Parking B);eng.hprtab
+eurapm;DART;;LUT London Luton Direct Air-Rail Transit;eng.dart
+eurapm;Orlyval;;ORY Paris Orly Véhicule Automatique Léger;fraidf.orlyval
+eurapm;PisaMov;;PSA Pisa Mover;itatos.pisamov

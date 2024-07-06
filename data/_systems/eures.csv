@@ -1,8 +1,20 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-eures;ENG;LonPar;;;Eurostar (London - Paris);eng.lonpar;
-eures;FRA-HDF;LonPar;;;Eurostar (London - Paris);frahdf.lonpar;
-eures;FRA-IDF;LonPar;;;Eurostar (London - Paris);fraidf.lonpar;
-eures;ENG;LonAms;;;Eurostar (London - Amsterdam);eng.lonams;
-eures;FRA-HDF;LonAms;;;Eurostar (London - Amsterdam);frahdf.lonams;
-eures;BEL;LonAms;;;Eurostar (London - Amsterdam);bel.lonams;
-eures;NLD;LonAms;;;Eurostar (London - Amsterdam);nld.lonams;
+eures;ENG;LonPar;;;Eurostar Blue (London - Paris);eng.lonpar;
+eures;FRA-HDF;LonPar;;;Eurostar Blue (London - Paris);frahdf.lonpar;
+eures;FRA-IDF;LonPar;;;Eurostar Blue (London - Paris);fraidf.lonpar;
+eures;ENG;LonAms;;;Eurostar Blue (London - Amsterdam);eng.lonams;
+eures;FRA-HDF;LonAms;;;Eurostar Blue (London - Amsterdam);frahdf.lonams;
+eures;BEL;LonAms;;;Eurostar Blue (London - Amsterdam);bel.lonams;
+eures;NLD;LonAms;;;Eurostar Blue (London - Amsterdam);nld.lonams;
+eures;FRA-IDF;ParAms;;;Eurostar Red (Paris - Amsterdam);fraidf.params;
+eures;FRA-HDF;ParAms;;;Eurostar Red (Paris - Amsterdam);frahdf.params;
+eures;BEL;ParAms;;;Eurostar Red (Paris - Amsterdam);bel.params;
+eures;NLD;ParAms;;;Eurostar Red (Paris - Amsterdam);nld.params;
+eures;FRA-IDF;ParDor;;;Eurostar Red (Paris - Dortmund);fraidf.pardor;
+eures;FRA-HDF;ParDor;;;Eurostar Red (Paris - Dortmund);frahdf.pardor;
+eures;BEL;ParDor;;;Eurostar Red (Paris - Dortmund);bel.pardor;
+eures;DEU-NW;ParDor;;;Eurostar Red (Paris - Dortmund);deunw.pardor;
+eures;NLD;AmsDis;;;Eurostar Red (Amsterdam - Marne-la-Vallée);nld.amsdis;
+eures;BEL;AmsDis;;;Eurostar Red (Amsterdam - Marne-la-Vallée);bel.amsdis;
+eures;FRA-HDF;AmsDis;;;Eurostar Red (Amsterdam - Marne-la-Vallée);frahdf.amsdis;
+eures;FRA-IDF;AmsDis;;;Eurostar Red (Amsterdam - Marne-la-Vallée);fraidf.amsdis;

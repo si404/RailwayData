@@ -1,16 +1,16 @@
 systemName;route;banner;groupName;roots
-frarer;A;;Saint-Germain-en-Laye - Marne-la-Vallee-Chessy;fraidf.rera
-frarer;A;;Cergy-le-Haut - Boissy-Saint-Leger;fraidf.reraboi
-frarer;A;;Poissy - Torcy;fraidf.rerapoi
-frarer;B;;Aeroport CDG - Massy-Plaiseau;fraidf.rerb
-frarer;B;;Mitry-Claye - Robinson;fraidf.rerbmit
-frarer;C;;Saint-Quentin-en-Yvelines - Saint-Martin-d'Etampes;fraidf.rerc
-frarer;C;;Invalides - Doudan La Foret;fraidf.rercdou
-frarer;C;;Versailles-Chateau-Rive-Gauche - Versailles-Chantiers;fraidf.rercver
-frarer;C;;Pontoise - Massy Palaiseau;fraidf.rercpon
-frarer;D;;Creil - Corbeil-Essones;frahdf.rerd,fraidf.rerd
-frarer;D;;Goussainville - Melun;fraidf.rerdmel
-frarer;D;;Juvisy - Malesherbes;fraidf.rerdmal,fracvl.rerd
-frarer;D;;Juvisy - Melun;fraidf.rerdpon
-frarer;E;;Haussmann-Saint-Lazare - Tournan;fraidf.rere
-frarer;E;;Haussmann-Saint-Lazare - Chelles-Gournay;fraidf.rereche
+frarer;A;;Saint-Germain-en-Laye - Marne-la-Vallee-Chessy;fraidf.a
+frarer;A;;Cergy-le-Haut - Boissy-Saint-Leger;fraidf.aboi
+frarer;A;;Poissy - Torcy;fraidf.apoi
+frarer;B;;Aeroport CDG - St Remy Chevreause;fraidf.b
+frarer;B;;Mitry-Claye - Robinson;fraidf.bmit
+frarer;C;;Saint-Quentin-en-Yvelines - Saint-Martin-d'Etampes;fraidf.c
+frarer;C;;Invalides - Doudan La Foret;fraidf.cdou
+frarer;C;;Versailles-Chateau-Rive-Gauche - Juvisy;fraidf.cver
+frarer;C;;Pontoise - Massy Palaiseau;fraidf.cpon
+frarer;D;;Creil - Corbeil-Essones;frahdf.d,fraidf.d
+frarer;D;;Goussainville - Melun;fraidf.dmel
+frarer;D;;Juvisy - Malesherbes;fraidf.dmal,fracvl.d
+frarer;D;;Juvisy - Melun;fraidf.dpon
+frarer;E;;Nanterre La Foliee - Tournan;fraidf.e
+frarer;E;;Nanterre La Folie - Chelles-Gournay;fraidf.eche

@@ -1,5 +1,5 @@
 Nor http://www.openstreetmap.org/?lat=52.626769&lon=1.306708
-+DIV_GE http://www.openstreetmap.org/?lat=52.623734&lon=1.313124
++DIV_GEML http://www.openstreetmap.org/?lat=52.623734&lon=1.313124
 +DIV_Whe http://www.openstreetmap.org/?lat=52.625515&lon=1.349666
 +X568966 http://www.openstreetmap.org/?lat=52.633766&lon=1.366596
 Sal http://www.openstreetmap.org/?lat=52.675471&lon=1.391315
@@ -12,8 +12,8 @@ NorWal http://www.openstreetmap.org/?lat=52.816834&lon=1.384535
 Gun http://www.openstreetmap.org/?lat=52.866086&lon=1.349387
 RouRd http://www.openstreetmap.org/?lat=52.917843&lon=1.299992
 +X665289 http://www.openstreetmap.org/?lat=52.928684&lon=1.270208
-+DIV_She http://www.openstreetmap.org/?lat=52.931918&lon=1.275444
++DIV_BitN http://www.openstreetmap.org/?lat=52.931918&lon=1.275444
 Cro http://www.openstreetmap.org/?lat=52.930081&lon=1.291623
-+DIV_Nor http://www.openstreetmap.org/?lat=52.931918&lon=1.275444
++DIV_BitS http://www.openstreetmap.org/?lat=52.931918&lon=1.275444
 WestRun http://www.openstreetmap.org/?lat=52.935513&lon=1.245618
 She http://www.openstreetmap.org/?lat=52.941332&lon=1.210771

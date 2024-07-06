@@ -1,4 +1,7 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
+gbnse;ENG;HS1;;Can;Southeastern Highspeed (London - Canterbury - Margate);eng.hs1can;CanWLn
+gbnse;ENG;HS1;;Dov;Southeastern Highspeed (London - Dover - Ramsgate);eng.hs1dov;WhiCliLn
+gbnse;ENG;HS1;;Cha;Southeastern Highspeed (London - Chatham - Ramsgate);eng.hs1cha;KentCoaLn
 gbnse;ENG;SEML;;;South East Main Line;eng.seml;
 gbnse;ENG;PadWoodLn;;;Paddock Wood Line;eng.padwoodln;
 gbnse;ENG;HasLn;;;Hastings Line;eng.hasln;1066Ln

@@ -1,0 +1,4 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+usasrt;CA;SRTBlue;;;Blue Line (Sacramento RT);ca.srtblue;
+usasrt;CA;SRTGold;;;Gold Line (Sacramento RT);ca.srtgold;
+usasrt;CA;SRTGre;;;Green Line (Sacramento RT);ca.srtgre;

@@ -5,7 +5,7 @@ TecPark http://www.openstreetmap.org/?lat=49.419216&lon=8.676302
 BunGym http://www.openstreetmap.org/?lat=49.416969&lon=8.676345
 JahnStr_1 http://www.openstreetmap.org/?lat=49.412921&lon=8.676624
 +DIV_MitA http://www.openstreetmap.org/?lat=49.407919&lon=8.676860
-VolHochSch +Volkshochschule http://www.openstreetmap.org/?lat=49.407825&lon=8.680530
+VolHochSch http://www.openstreetmap.org/?lat=49.407825&lon=8.680530
 AltHalBad http://www.openstreetmap.org/?lat=49.408397&lon=8.688383
 +DIV_Bis http://www.openstreetmap.org/?lat=49.409012&lon=8.692460
 SeeGar http://www.openstreetmap.org/?lat=49.407085&lon=8.691773
@@ -14,6 +14,6 @@ StaBuc http://www.openstreetmap.org/?lat=49.406177&lon=8.686473
 StaWer http://www.openstreetmap.org/?lat=49.404991&lon=8.681731
 HeiBergHbf http://www.openstreetmap.org/?lat=49.405074&lon=8.674951
 +DIV_Bet http://www.openstreetmap.org/?lat=49.407828&lon=8.674897
-BetHof +Bretriebshof http://www.openstreetmap.org/?lat=49.407884&lon=8.676002
+BetHof http://www.openstreetmap.org/?lat=49.407884&lon=8.676002
 +DIV_MitB http://www.openstreetmap.org/?lat=49.407919&lon=8.676860
 JahnStr_2 http://www.openstreetmap.org/?lat=49.412921&lon=8.676624
