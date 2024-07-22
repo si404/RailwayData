@@ -1,6 +1,7 @@
 HunCro http://www.openstreetmap.org/?lat=53.360701&lon=-2.855458
 +DIV_CLC http://www.openstreetmap.org/?lat=53.357307&lon=-2.878568
-LivSouPkwy http://www.openstreetmap.org/?lat=53.358146&lon=-2.889018
++X191199 http://www.openstreetmap.org/?lat=53.356961&lon=-2.886100
+LivSouPkwy http://www.openstreetmap.org/?lat=53.357698&lon=-2.889404
 Cre http://www.openstreetmap.org/?lat=53.358658&lon=-2.912235
 Aig http://www.openstreetmap.org/?lat=53.364523&lon=-2.926741
 StMic http://www.openstreetmap.org/?lat=53.375687&lon=-2.952962
@@ -8,7 +9,7 @@ Bru http://www.openstreetmap.org/?lat=53.383264&lon=-2.976136
 LivCen http://www.openstreetmap.org/?lat=53.404383&lon=-2.979591
 Moo http://www.openstreetmap.org/?lat=53.408617&lon=-2.989333
 San http://www.openstreetmap.org/?lat=53.429826&lon=-2.991843
-+DIV_WLa http://www.openstreetmap.org/?lat=53.434307&lon=-2.987723
++DIV_Oms http://www.openstreetmap.org/?lat=53.434307&lon=-2.987723
 BankHall http://www.openstreetmap.org/?lat=53.437956&lon=-2.987895
 BooOriRd http://www.openstreetmap.org/?lat=53.446647&lon=-2.995706
 BooNewStr http://www.openstreetmap.org/?lat=53.452960&lon=-2.994590
@@ -22,5 +23,5 @@ Fre http://www.openstreetmap.org/?lat=53.566172&lon=-3.071837
 Ain http://www.openstreetmap.org/?lat=53.602119&lon=-3.042440
 Hil http://www.openstreetmap.org/?lat=53.621526&lon=-3.025424
 Bir http://www.openstreetmap.org/?lat=53.633869&lon=-3.014610
-+DIV_Wig http://www.openstreetmap.org/?lat=53.645420&lon=-3.000770
++DIV_Sou http://www.openstreetmap.org/?lat=53.645420&lon=-3.000770
 Sou http://www.openstreetmap.org/?lat=53.646628&lon=-3.002701

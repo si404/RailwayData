@@ -4,7 +4,7 @@ SouHam http://www.openstreetmap.org/?lat=51.541331&lon=-0.178828
 KilHighRd http://www.openstreetmap.org/?lat=51.537514&lon=-0.191531
 QuePark http://www.openstreetmap.org/?lat=51.533696&lon=-0.205779
 KenGre http://www.openstreetmap.org/?lat=51.530626&lon=-0.224447
-+DIV_WC http://www.openstreetmap.org/?lat=51.530146&lon=-0.234962
++DIV_WCMLS http://www.openstreetmap.org/?lat=51.530146&lon=-0.234962
 WilJct http://www.openstreetmap.org/?lat=51.532141&lon=-0.243309
 Har http://www.openstreetmap.org/?lat=51.536366&lon=-0.257835
 StoPark http://www.openstreetmap.org/?lat=51.544053&lon=-0.276203
@@ -19,5 +19,5 @@ HatEnd http://www.openstreetmap.org/?lat=51.609642&lon=-0.368621
 CarPark http://www.openstreetmap.org/?lat=51.627935&lon=-0.385466
 Bus http://www.openstreetmap.org/?lat=51.645301&lon=-0.384929
 WatHighSt http://www.openstreetmap.org/?lat=51.652251&lon=-0.392504
-+DIV_Wat http://www.openstreetmap.org/?lat=51.661502&lon=-0.393147
++DIV_WCMLN http://www.openstreetmap.org/?lat=51.661502&lon=-0.393147
 WatJct http://www.openstreetmap.org/?lat=51.663725&lon=-0.395851
