@@ -18,14 +18,14 @@ RheNecStr http://www.openstreetmap.org/?lat=49.871762&lon=8.644556
 BesStr http://www.openstreetmap.org/?lat=49.858000&lon=8.646884
 LanStr http://www.openstreetmap.org/?lat=49.852792&lon=8.646691
 +SKIP_LinSie http://www.openstreetmap.org/?lat=49.848274&lon=8.646390
-+SKIP_MarHohe http://www.openstreetmap.org/?lat=49.843528&lon=8.646090
+MarHohe http://www.openstreetmap.org/?lat=49.843528&lon=8.646090
 +SKIP_FriEbeStr http://www.openstreetmap.org/?lat=49.838242&lon=8.645639
 +SKIP_CarlUrlStr http://www.openstreetmap.org/?lat=49.832907&lon=8.645210
 +SKIP_KetStr http://www.openstreetmap.org/?lat=49.828820&lon=8.644888
 +SKIP_KatStr http://www.openstreetmap.org/?lat=49.824539&lon=8.644609
 WarHal http://www.openstreetmap.org/?lat=49.820760&lon=8.644223
 ModBru http://www.openstreetmap.org/?lat=49.817015&lon=8.644212
-EberStaKir http://www.openstreetmap.org/?lat=49.814066&lon=8.646197
++SKIP_EberStaKir http://www.openstreetmap.org/?lat=49.814066&lon=8.646197
 EberStaFriHof http://www.openstreetmap.org/?lat=49.811234&lon=8.646176
 EberStaFraSte http://www.openstreetmap.org/?lat=49.807731&lon=8.645634
 MitSch http://www.openstreetmap.org/?lat=49.802358&lon=8.646519
