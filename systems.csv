@@ -489,6 +489,11 @@ mexsiteur;MEX;Sistema de Tren Eléctrico Urbano (Guadalajara);TMblue;3;preview
 mexstc;MEX;Sistema de Transporte Colectivo (Ciudad de México);TMblue;3;preview
 mexstcm;MEX;Sistema de Transporte Colectivo Metrorrey;TMblue;3;preview
 mexste;MEX;Servicio de Transportes Eléctricos (Ciudad de México);TMred;4;preview
+mysktmk;MYS;Keretapi Tanah Melayu Komuter;3;TMgreen;preview
+myserl;MYS;Express Rail Link;3;TMgreen;preview
+mysmrt;MYS;Rapid KL Mass Rapid Transit;4;TMblue;preview
+mysklm;MYS;Rapid KL Monorail;4;TMcyan;preview
+myslrt;MYS;Rapid KL Light Rapid Transit;5;TMred;preview
 nldic;NLD;Netherlands Intercity;TMpurple;1;preview
 nldre;NLD;Netherlands Sneltrein;TMgreen;2;preview
 nldrs;NLD;Netherlands Sprinter / Stoptrein;TMgreen;2;preview
