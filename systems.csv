@@ -358,6 +358,10 @@ hkgpt;CHN;Peak Tram;TMyellow;5;preview
 hrvzt;HRV;Tramvajski promet u Zagrebu;TMred;4;preview
 hunbm;HUN;Budapesti metró;TMblue;3;preview
 hunbt;HUN;Budapest villamosvonal;TMred;4;preview
+idnkrlc;IDN;KRL Commuterline;TMgreen;2;preview
+idnmrtj;IDN;Moda Raya Terpadu Jakarta;TMblue;3;preview
+idnlrtj;IDN;Lintas Rel Terpadu;TMred;4;preview
+idnlrtjb;IDN;Lintas Rel Terpadu Jabodebek;TMred;4;preview
 imnimr;IMN;Isle of Man Railways;TMred;4;preview
 indcmrl;IND;Chennai Metro;TMblue;3;preview
 irlent;IRL;Enterprise;TMpurple;1;preview
