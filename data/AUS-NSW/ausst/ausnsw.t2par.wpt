@@ -1,5 +1,3 @@
-Cen_1 http://www.openstreetmap.org/?lat=-33.882922&lon=151.207216
-+DIV_LpA http://www.openstreetmap.org/?lat=-33.879559&lon=151.208847
 Mus http://www.openstreetmap.org/?lat=-33.876032&lon=151.210016
 StJam http://www.openstreetmap.org/?lat=-33.870883&lon=151.211872
 +X734055 http://www.openstreetmap.org/?lat=-33.862999&lon=151.214919
@@ -8,8 +6,8 @@ CirQuay http://www.openstreetmap.org/?lat=-33.861369&lon=151.210660
 Wyn http://www.openstreetmap.org/?lat=-33.865975&lon=151.205821
 TownHall http://www.openstreetmap.org/?lat=-33.873689&lon=151.206894
 +X189676 http://www.openstreetmap.org/?lat=-33.878125&lon=151.208675
-+DIV_LpB http://www.openstreetmap.org/?lat=-33.879559&lon=151.208847
-Cen_2 http://www.openstreetmap.org/?lat=-33.882922&lon=151.207216
++DIV_Lp http://www.openstreetmap.org/?lat=-33.879559&lon=151.208847
+Cen +Cen_1 +Cen_2 http://www.openstreetmap.org/?lat=-33.882922&lon=151.207216
 +DIV_8 http://www.openstreetmap.org/?lat=-33.886257&lon=151.204802
 +DIV_Main http://www.openstreetmap.org/?lat=-33.888079&lon=151.202366
 Red http://www.openstreetmap.org/?lat=-33.892313&lon=151.198128
