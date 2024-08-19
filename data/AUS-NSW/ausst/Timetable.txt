@@ -1,4 +1,4 @@
-Timetables created August 18/19th 2024
+Timetables created August 18/19th 2024 (next coming ~ October)
 
 T1
 	2tph Berowa - all stops - Central ... becomes T9 to Hornsby
@@ -16,7 +16,7 @@ T3
 	4tph Lidcombe - all stops - Central - Town Hall - Wynyard - Circular Quay - St James - Museum ... becomes T8 to Macarthur
 
 T4
-	2tph Waterfall - all stations - Loftus - Sutherland - Mortdale - all stations - Bondi Junction
+	2tph Waterfall - all stations - Sutherland - Mortdale - all stations - Bondi Junction
 	4tph Cronulla - all stations - Rockdale - Wolli Creek - Sydenham - all stations - Bondi Junction
 
 T5
