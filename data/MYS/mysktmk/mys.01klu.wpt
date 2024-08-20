@@ -1,14 +1,14 @@
 KC05 http://www.openstreetmap.org/?lat=3.237751&lon=101.681170
 KC04 http://www.openstreetmap.org/?lat=3.214442&lon=101.672201
 +X944439 http://www.openstreetmap.org/?lat=3.207822&lon=101.673081
-KC03 +PY13 http://www.openstreetmap.org/?lat=3.205819&lon=101.674991
+KC03 http://www.openstreetmap.org/?lat=3.205819&lon=101.674991
 KC02 http://www.openstreetmap.org/?lat=3.198304&lon=101.681149
 KC01 http://www.openstreetmap.org/?lat=3.181877&lon=101.688616
 +DIV_2 http://www.openstreetmap.org/?lat=3.173307&lon=101.684217
 KA04 http://www.openstreetmap.org/?lat=3.165616&lon=101.690698
 KA03 http://www.openstreetmap.org/?lat=3.154260&lon=101.692865
 KA02 http://www.openstreetmap.org/?lat=3.140768&lon=101.693981
-KA01 +KJ15 +KE1 +KT1 +KS01 http://www.openstreetmap.org/?lat=3.134287&lon=101.686406
+KA01 http://www.openstreetmap.org/?lat=3.134287&lon=101.686406
 +X651854 http://www.openstreetmap.org/?lat=3.131009&lon=101.682200
 +DIV_210 http://www.openstreetmap.org/?lat=3.123477&lon=101.677845
 KB01 http://www.openstreetmap.org/?lat=3.118713&lon=101.678944
@@ -16,7 +16,7 @@ KB02 http://www.openstreetmap.org/?lat=3.113619&lon=101.681439
 KB03 http://www.openstreetmap.org/?lat=3.098318&lon=101.705332
 +X245608 http://www.openstreetmap.org/?lat=3.086983&lon=101.711190
 +X284913 http://www.openstreetmap.org/?lat=3.083448&lon=101.715814
-KB04 +KT2 +SP15 http://www.openstreetmap.org/?lat=3.076265&lon=101.711072
+KB04 http://www.openstreetmap.org/?lat=3.076265&lon=101.711072
 +X511503 http://www.openstreetmap.org/?lat=3.063189&lon=101.707757
 +X509727 http://www.openstreetmap.org/?lat=3.047858&lon=101.706641
 KB05 http://www.openstreetmap.org/?lat=3.023264&lon=101.715878
@@ -24,7 +24,7 @@ KB05 http://www.openstreetmap.org/?lat=3.023264&lon=101.715878
 +X948378 http://www.openstreetmap.org/?lat=2.990731&lon=101.760027
 +X207129 http://www.openstreetmap.org/?lat=2.995542&lon=101.775134
 +X947399 http://www.openstreetmap.org/?lat=2.989831&lon=101.788695
-KB06 +KG35 http://www.openstreetmap.org/?lat=2.982674&lon=101.790433
+KB06 http://www.openstreetmap.org/?lat=2.982674&lon=101.790433
 KB06A http://www.openstreetmap.org/?lat=2.962606&lon=101.791935
 KB07 http://www.openstreetmap.org/?lat=2.939505&lon=101.787901
 +X598972 http://www.openstreetmap.org/?lat=2.916018&lon=101.796827
