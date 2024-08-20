@@ -1,0 +1,8 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+chngdprd;CHN-GD;GuangZhouE;;;Guangfo Ring ICR (East);chngd.guangfoe;
+chngdprd;CHN-GD;GuangHui;;;Guanghui ICR;chngd.guanghui;
+chngdprd;CHN-GD;GuangQing;;;Guangqing ICR;chngd.guangqing;
+chngdprd;CHN-GD;GuangZhao;;;Guangzhao ICR;chngd.guangzhao;
+chngdprd;CHN-GD;GuangZhu;;;Guangzhu ICR;chngd.guangzhu;
+chngdprd;CHN-GD;SuiShen;;;Suishen ICR;chngd.suishen;
+chngdprd;CHN-GD;ZhuJi;;;Zhuji ICR;chngd.zhuji;
