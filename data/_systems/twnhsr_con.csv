@@ -1,2 +1,2 @@
-systemName;region;route;banner;abbrev;city;root;altRouteNames
-twnhsr;TWN;HSR;;;Taiwan High Speed Rail;twn.hsr;
+systemName;route;banner;groupName;roots
+twnhsr;HSR;;Taiwan High Speed Rail;twn.hsr
