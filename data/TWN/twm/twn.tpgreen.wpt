@@ -1,6 +1,6 @@
 G01 http://www.openstreetmap.org/?lat=24.958048&lon=121.537628
 G02 http://www.openstreetmap.org/?lat=24.967366&lon=121.541351
-+X852014 http://www.openstreetmap.org/?lat=24.972268&lon=121.542907
++DIV http://www.openstreetmap.org/?lat=24.972268&lon=121.542907
 G03 http://www.openstreetmap.org/?lat=24.974883&lon=121.542907
 G04 http://www.openstreetmap.org/?lat=24.982849&lon=121.541346
 +X212742 http://www.openstreetmap.org/?lat=24.988655&lon=121.539355
