@@ -1,0 +1,10 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+espave;ESP-AN;MadGra;;;Madrid - Granada;espan.madgra;
+espave;ESP-CM;MadGra;;;Madrid - Granada;espcm.madgra;
+espave;ESP-MD;MadGra;;;Madrid - Granada;espmd.madgra;
+espave;ESP-AN;MadMal;;;Madrid - Málaga;espan.madmal;
+espave;ESP-CM;MadMal;;;Madrid - Málaga;espcm.madmal;
+espave;ESP-MD;MadMal;;;Madrid - Málaga;espmd.madmal;
+espave;ESP-AN;MadSev;;;Madrid - Sevilla;espan.madsev;
+espave;ESP-CM;MadSev;;;Madrid - Sevilla;espcm.madsev;
+espave;ESP-MD;MadSev;;;Madrid - Sevilla;espmd.madsev;
