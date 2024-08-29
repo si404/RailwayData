@@ -1,6 +1,6 @@
 systemName;route;banner;groupName;roots
 twntpm;TPBrown;;Taipei Metro Wenhu (Brown) line;twn.tpbrown
-twntpm;JofMer;;Taipei Metro Tamsui–Xinyi (Red) line;twn.tpred
+twntpm;TPRed;;Taipei Metro Tamsui–Xinyi (Red) line;twn.tpred
 twntpm;TPRedXin;;Taipei Metro Xinbeitou branch line;twn.tpredb
 twntpm;TPGreen;;Taipei Metro Songshan–Xindian (Green) line;twn.tpgreen
 twntpm;TPGreenXiao;;Taipei Metro Xiaobitan branch line;twn.tpgreenb
