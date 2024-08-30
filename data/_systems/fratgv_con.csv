@@ -7,9 +7,9 @@ fratgv;BruRen;;Brussels - Rennes;bel.bruren,frahdf.bruren,fraidf.bruren,fracvl.b
 fratgv;BruStr;;Brussels - Strasbourg;bel.brustr,frahdf.brustr,fraidf.brustr,frahdf.brustrcha,frages.brustrcha,frahdf.brustrgou,frages.brustr
 fratgv;HavMar;;Le Havre - Marseille;franor.havmar,fraidf.havmar,frabfc.havmar,fraara.havmar,frapac.havmarlap,fraocc.havmarven,frapac.havmarmor,fraocc.havmarses,frapac.havmarora,fraocc.havmarvil,frapac.havmar
 fratgv;LyonTou;;Lyon - Toulouse;fraara.lyontou,frapac.lyontoulap,fraocc.lyontouven,frapac.lyontoumor,fraocc.lyontouses,frapac.lyontouora,fraocc.lyontou
-fratgv;NanMar;;Nantes - Marseille;frapdl.nanmar,fracvl.nanmar,fraidf.nanmar,frabfc.nanmar,fraara.nanmar,frapac.nanmarlap,fraocc.nanmarven,frapac.nanmarmor,fraocc.nanmarses,frapac.nanmarora,fraocc.nanmarvil,frapac.nanmar;
+fratgv;NanMar;;Nantes - Marseille;frapdl.nanmar,fracvl.nanmar,fraidf.nanmar,frabfc.nanmar,fraara.nanmar,frapac.nanmarlap,fraocc.nanmarven,frapac.nanmarmor,fraocc.nanmarses,frapac.nanmarora,fraocc.nanmarvil,frapac.nanmar
 fratgv;NanMon;;Nantes - Montpellier;frapdl.nanmon,fracvl.nanmon,fraidf.nanmon,frabfc.nanmon,fraara.nanmon,frapac.nanmonlap,fraocc.nanmonven,frapac.nanmonmor,fraocc.nanmonses,frapac.nanmonora,fraocc.nanmon
-fratgv;NanStr;;Nantes - Strasbourg;frapdl.nanstr,fracvl.nanstr,fraidf.nanstr,frahdf.nanstrcha,frages.nanstrcha,frahdf.nanstrgou,frages.nanstr
+fratgv;NanStr;;Nantes - Strasbourg;frapdl.nanstr,fracvl.nanstr,fraidf.nanstr,frahdf.nanstr,frages.nanstrcha,frahdf.nanstrgou,frages.nanstr
 fratgv;ParAnn;;Paris - Annecy;fraidf.parann,frabfc.parann,fraara.parann
 fratgv;ParArc;;Paris - Arcachon;fraidf.pararc,fracvl.pararc,franaq.pararc
 fratgv;ParBlD;;Paris - Bar-le-Duc;fraidf.parbld,frahdf.parbld,frages.parbldcha,frahdf.parbldgou,frages.parbld
@@ -45,9 +45,9 @@ fratgv;ParTar;;Paris - Tarbes;fraidf.partar,fracvl.partar,franaq.partar,fraocc.p
 fratgv;ParTou;;Paris - Toulouse;fraidf.partou,fracvl.partou,franaq.partou,fraocc.partou
 fratgv;ParTrs;;Paris - Tours;fraidf.partrs,fracvl.partrs
 fratgv;ParVal;;Paris - Valenciennes;fraidf.parval,frahdf.parval
-fratgv;RenMar;;Rennes - Marseille;frabre.renmar,frapdl.renmar,fracvl.renmar,fraidf.renmar,frabfc.renmar,fraara.renmar,frapac.renmarlap,fraocc.renmarven,frapac.renmarmor,fraocc.renmarses,frapac.renmarora,raocc.renmarvil,frapac.renmar;
+fratgv;RenMar;;Rennes - Marseille;frabre.renmar,frapdl.renmar,fracvl.renmar,fraidf.renmar,frabfc.renmar,fraara.renmar,frapac.renmarlap,fraocc.renmarven,frapac.renmarmor,fraocc.renmarses,frapac.renmarora,raocc.renmarvil,frapac.renmar
 fratgv;RenMon;;Rennes - Montpellier;frabre.renmon,frapdl.renmon,fracvl.renmon,fraidf.renmon,frabfc.renmon,fraara.renmon,frapac.renmonlap,fraocc.renmonven,frapac.renmonmor,fraocc.renmonses,frapac.renmonora,fraocc.renmon
-fratgv;RenStr;;Rennes - Strasbourg;frapdl.renstr,fracvl.renstr,fraidf.renstr,frahdf.renstrcha,frages.renstrcha,frahdf.renstrgou,frages.renstr
+fratgv;RenStr;;Rennes - Strasbourg;frapdl.renstr,fracvl.renstr,fraidf.renstr,frahdf.renstr,frages.renstrcha,frahdf.renstrgou,frages.renstr
 fratgv;StrBor;;Strasbourg - Bordeaux;frages.strbor,frahdf.strborgou,frages.strborcha,frahdf.strbor,fraidf.strbor,fracvl.strbor,franaq.strbor
-fratgv;StrMon;;Luxembourg - Strasbourg - Montpellier;fralux.strmon,frages.strmon,frabfc.strmon,fraara.strmon,frapac.strmonlap,fraocc.strmonven,frapac.strmonmor,fraocc.strmonses,frapac.strmonora,fraocc.strmon
+fratgv;StrMon;;Luxembourg - Strasbourg - Montpellier;lux.strmon,frages.strmon,frabfc.strmon,fraara.strmon,frapac.strmonlap,fraocc.strmonven,frapac.strmonmor,fraocc.strmonses,frapac.strmonora,fraocc.strmon
 fratgv;StrNice;;Nancy - Strasbourg - Nice;frages.strnice,frabfc.strnice,fraara.strnice,frapac.strnicelap,fraocc.strniceven,frapac.strnicemor,fraocc.strniceses,frapac.strniceora,fraocc.strnicevil,frapac.strnice
