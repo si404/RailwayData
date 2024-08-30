@@ -45,7 +45,7 @@ fratgv;ParTar;;Paris - Tarbes;fraidf.partar,fracvl.partar,franaq.partar,fraocc.p
 fratgv;ParTou;;Paris - Toulouse;fraidf.partou,fracvl.partou,franaq.partou,fraocc.partou
 fratgv;ParTrs;;Paris - Tours;fraidf.partrs,fracvl.partrs
 fratgv;ParVal;;Paris - Valenciennes;fraidf.parval,frahdf.parval
-fratgv;RenMar;;Rennes - Marseille;frabre.renmar,frapdl.renmar,fracvl.renmar,fraidf.renmar,frabfc.renmar,fraara.renmar,frapac.renmarlap,fraocc.renmarven,frapac.renmarmor,fraocc.renmarses,frapac.renmarora,raocc.renmarvil,frapac.renmar
+fratgv;RenMar;;Rennes - Marseille;frabre.renmar,frapdl.renmar,fracvl.renmar,fraidf.renmar,frabfc.renmar,fraara.renmar,frapac.renmarlap,fraocc.renmarven,frapac.renmarmor,fraocc.renmarses,frapac.renmarora,fraocc.renmarvil,frapac.renmar
 fratgv;RenMon;;Rennes - Montpellier;frabre.renmon,frapdl.renmon,fracvl.renmon,fraidf.renmon,frabfc.renmon,fraara.renmon,frapac.renmonlap,fraocc.renmonven,frapac.renmonmor,fraocc.renmonses,frapac.renmonora,fraocc.renmon
 fratgv;RenStr;;Rennes - Strasbourg;frapdl.renstr,fracvl.renstr,fraidf.renstr,frahdf.renstr,frages.renstrcha,frahdf.renstrgou,frages.renstr
 fratgv;StrBor;;Strasbourg - Bordeaux;frages.strbor,frahdf.strborgou,frages.strborcha,frahdf.strbor,fraidf.strbor,fracvl.strbor,franaq.strbor
