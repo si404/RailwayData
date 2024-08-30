@@ -1,0 +1,10 @@
+systemName;route;banner;groupName;roots
+korsms;1;;Line 1;kor.s1
+korsms;1Gyeongbu;;Line 1, Gyeongbu branch;kor.s1p
+korsms;1Gwang;;Line 1, Gwangmyeong shuttle;kor.s1gwa
+korsms;1Byeong;;Line 1, Gyeongbu branch to Seodongtan;kor.s1seo
+korsms;AREX;;AREX;kor.arex
+korsms;Gyeongui;;Gyeongui–Jungang Line;kor.gj
+korsms;GyeonguiSeo;;Gyeongui–Jungang Line, Seoul Station branch;kor.gjseo
+korsms;GyeonguiIm;;Gyeongui–Jungang Line, Munsan - Imjingang shuttle;kor.gjim
+korsms;GyeonguiDo;;Gyeongui–Jungang Line, Imjingang - Dorasan shuttle;kor.gjdo
