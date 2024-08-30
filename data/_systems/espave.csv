@@ -1,4 +1,11 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
+espave;ESP-AS;GijVin;;;Gijón - León - Madrid - Valencia - Vinaroz;espas.gijvin;
+espave;ESP-CL;GijVin;;;Gijón - León - Madrid - Valencia - Vinaroz;espcl.gijvin;
+espave;ESP-MD;GijVin;;;Gijón - León - Madrid - Valencia - Vinaroz;espmd.gijvin;
+espave;ESP-CM;GijVin;;;Gijón - León - Madrid - Valencia - Vinaroz (Seseña);espas.gijvinses;
+espave;ESP-MD;GijVin;;;Gijón - León - Madrid - Valencia - Vinaroz (Aranjuez);espmd.gijvinara;
+espave;ESP-CM;GijVin;;;Gijón - León - Madrid - Valencia - Vinaroz ;espas.gijvin;
+espave;ESP-VC;GijVin;;;Gijón - León - Madrid - Valencia - Vinaroz;espas.gijvin;
 espave;ESP-AN;MadGra;;;Madrid - Granada;espan.madgra;
 espave;ESP-CM;MadGra;;;Madrid - Granada;espcm.madgra;
 espave;ESP-MD;MadGra;;;Madrid - Granada;espmd.madgra;
