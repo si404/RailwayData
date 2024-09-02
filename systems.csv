@@ -128,7 +128,8 @@ chlefes;CHL;Empresa de los Ferrocarriles del Estado (suburbanos);TMgreen;2;previ
 chlefeu;CHL;Empresa de los Ferrocarriles del Estado (urbanos);TMgreen;2;preview
 chlms;CHL;Metro de Santiago;TMblue;3;preview
 chngdprd;CHN;Pearl River Delta Metropolitan Region Intercity Railway;TMgreen;2;preview
-chngdszm;CHN;Shenzhen Matro;TMblue;3;preview
+chngdgzfm;CHN;Guangzhou & Foshan Metros;TMblue;3;preview
+chngdszm;CHN;Shenzhen Metro;TMblue;3;preview
 colmm;COL;Metro de Medellín;TMblue;3;preview
 colmmt;COL;Metro de Medellín (tranvía);TMred;4;preview
 czeduk;CZE;Doprava Ústeckého kraje;TMgreen;2;preview
@@ -582,6 +583,7 @@ turim;TUR;İstanbul Metrosu;TMblue;3;preview
 turit;TUR;İstanbul Tramvayı;TMred;4;preview
 turif;TUR;İstanbul Füniküleri;TMyellow;5;preview
 twnhsr;CHN;Taiwan High Speed Rail;TMpurple;1;preview
+twntpm;CHN;Taipei urban rail transit;TMblue;3;preview
 uryafe;URY;Administración de Ferrocarriles del Estado;TMpurple;1;preview
 usaamtk;USA;Amtrak;TMpurple;1;preview
 usaarr;USA;Alaska Railroad;TMpurple;1;preview
