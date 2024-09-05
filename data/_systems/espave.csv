@@ -1,0 +1,22 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+espave;ESP-AS;GijVin;;;Gijón - León - Madrid - Valencia - Vinaroz;espas.gijvin;
+espave;ESP-CL;GijVin;;;Gijón - León - Madrid - Valencia - Vinaroz;espcl.gijvin;
+espave;ESP-MD;GijVin;;;Gijón - León - Madrid - Valencia - Vinaroz;espmd.gijvin;
+espave;ESP-CM;GijVinSes;;;Gijón - León - Madrid - Valencia - Vinaroz (Seseña);espcm.gijvinses;
+espave;ESP-MD;GijVinAra;;;Gijón - León - Madrid - Valencia - Vinaroz (Aranjuez);espmd.gijvinara;
+espave;ESP-CM;GijVin;;;Gijón - León - Madrid - Valencia - Vinaroz;espcm.gijvin;
+espave;ESP-VC;GijVin;;;Gijón - León - Madrid - Valencia - Vinaroz;espvc.gijvin;
+espave;ESP-AN;MadGra;;;Madrid - Granada;espan.madgra;
+espave;ESP-CM;MadGra;;;Madrid - Granada;espcm.madgra;
+espave;ESP-MD;MadGra;;;Madrid - Granada;espmd.madgra;
+espave;ESP-AN;MadMal;;;Madrid - Málaga;espan.madmal;
+espave;ESP-CM;MadMal;;;Madrid - Málaga;espcm.madmal;
+espave;ESP-MD;MadMal;;;Madrid - Málaga;espmd.madmal;
+espave;ESP-AN;MadSev;;;Madrid - Sevilla;espan.madsev;
+espave;ESP-CM;MadSev;;;Madrid - Sevilla;espcm.madsev;
+espave;ESP-MD;MadSev;;;Madrid - Sevilla;espmd.madsev;
+espave;ESP-MD;MadBarFig;;;Madrid - Barcelona - Figueras;espmd.madbarfig;
+espave;ESP-CL;MadBarFig;;;Madrid - Barcelona - Figueras;espcl.madbarfig;
+espave;ESP-CM;MadBarFig;;;Madrid - Barcelona - Figueras;espcm.madbarfig;
+espave;ESP-AR;MadBarFig;;;Madrid - Barcelona - Figueras;espar.madbarfig;
+espave;ESP-CT;MadBarFig;;;Madrid - Barcelona - Figueras;espct.madbarfig;
