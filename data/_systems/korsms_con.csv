@@ -3,8 +3,29 @@ korsms;1;;Line 1;kor.s1
 korsms;1Gyeongbu;;Line 1, Gyeongbu branch;kor.s1p
 korsms;1Gwang;;Line 1, Gwangmyeong shuttle;kor.s1gwa
 korsms;1Byeong;;Line 1, Gyeongbu branch to Seodongtan;kor.s1seo
+korsms;2;;Line 2;kor.s2
+korsms;2Seong;;Line 2, Seongsu branch;kor.s2seong
+korsms;2Sin;;Line 2, Sinjeong branch;kor.s2sin
+korsms;3;;Line 3;kor.s3
+korsms;4;;Line 4;kor.s4
+korsms;5;;Line 5;kor.s5
+korsms;5Man;;Line 5, Macheon branch;kor.s5p
+korsms;6;;Line 6;kor.s6
+korsms;7;;Line 7;kor.s7
+korsms;8;;Line 8;kor.s8
+korsms;9;;Line 9;kor.s9
+korsms;I1;;Incheon Line 1;kor.i1
 korsms;AREX;;AREX;kor.arex
+korsms;Gyeongchun;;Gyeongchun Line;kor.gc
+korsms;GyeongchunMan;;Gyeongchun Line, Mangu branch;kor.gcman
+korsms;Geyonggang;;Geyonggang Line;kor.gg
 korsms;Gyeongui;;Gyeongui–Jungang Line;kor.gj
 korsms;GyeonguiSeo;;Gyeongui–Jungang Line, Seoul Station branch;kor.gjseo
 korsms;GyeonguiIm;;Gyeongui–Jungang Line, Munsan - Imjingang shuttle;kor.gjim
 korsms;GyeonguiDo;;Gyeongui–Jungang Line, Imjingang - Dorasan shuttle;kor.gjdo
+korsms;Seohae;;Seohae Line;kor.sh
+korsms;Suin;;Suin-Budang Line;kor.sb
+korsms;Shinbudang;;Shinbudang Line;kor.dx
+korsms;GTX-A;;GTX-A;kor.gtxa
+korsms;Everline;;Everline;kor.ever
+korsms;Silim;;Silim Line;kor.silim
