@@ -1,11 +1,11 @@
 systemName;route;banner;groupName;roots
-thab;ARL;;Airport Rail Link;thab.arl
-thab;Silom;;BTS Silom Line;thab.silom
-thab;Suk;;BTS Sukumvit Line;thab.suk
-thab;Gold;;BTS Gold Line;thab.gold
-thab;Blue;;MRT Blue Line;thab.blue
-thab;Purple;;MRT Purple Line;thab.purple
-thab;Pink;;MRT Pink Line;thab.pink
-thab;Yellow;;MRT Yellow Line;thab.yellow
-thab;DarkRed;;SRT Dark Red Line;thab.darkred
-thab;LightRed;;SRT Light Red Line;thab.lightred
+thab;ARL;;Airport Rail Link;tha.arl
+thab;Silom;;BTS Silom Line;tha.silom
+thab;Suk;;BTS Sukumvit Line;tha.suk
+thab;Gold;;BTS Gold Line;tha.gold
+thab;Blue;;MRT Blue Line;tha.blue
+thab;Purple;;MRT Purple Line;tha.purple
+thab;Pink;;MRT Pink Line;tha.pink
+thab;Yellow;;MRT Yellow Line;tha.yellow
+thab;DarkRed;;SRT Dark Red Line;tha.darkred
+thab;LightRed;;SRT Light Red Line;tha.lightred
