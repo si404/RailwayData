@@ -15,6 +15,8 @@ korsms;KOR;7;;;Line 7;kor.s7;
 korsms;KOR;8;;;Line 8;kor.s8;
 korsms;KOR;9;;;Line 9;kor.s9;
 korsms;KOR;I1;;;Incheon Line 1;kor.i1;
+korsms;KOR;I2;;;Incheon Line 2;kor.i2;
+korsms;KOR;GGold;;;Gimpo Goldline;kor.ggold;
 korsms;KOR;AREX;;;;kor.arex;
 korsms;KOR;Gyeongchun;;;Gyeongchun Line;kor.gc;
 korsms;KOR;GyeongchunMan;;;Gyeongchun Line, Mangu branch;kor.gcman;
