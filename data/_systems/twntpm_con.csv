@@ -9,5 +9,6 @@ twntpm;TPOrangeLu;;Taipei Metro Zhonghe–Xinlu (Orange) line, Luzhou branch;twn
 twntpm;TPBlue;;Taipei Metro Bannan (Blue) line;twn.tpblue
 twntpm;NTYellow;;New Taipei Metro Circular (Yellow) line;twn.ntyellow
 twntpm;NTDansuiMtn;;New Taipei Metro Dansui LRT Mountain Line;twn.ntdsmtn
-twntpm;NTDansuiSea;;New Taipei Metro Ankeng LRT;twn.ntak
+twntpm;NTDansuiSea;;New Taipei Metro Dansui LRT Seaside Line;twn.ntdssea
+twntpm;NTAnkeng;;New Taipei Metro Ankeng LRT;twn.ntak
 twntpm;TYAir;;Taoyuan Metro Taoyuan Airport MRT;twn.tyairport
