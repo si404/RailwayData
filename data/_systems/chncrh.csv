@@ -1,0 +1,9 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+chncrh;CHN-GD;GuangShenJiang;;;Guangshenjiang HSR;chngd.hsrguangshenjiang;
+chncrh;HKG;GuangShenJiang;;;Guangshenjiang HSR;hkg.hsrguangshenjiang;
+chncrh;CHN-BJ;JingGuang;;;Jingguang HSR;chnbj.hsrjingguang;
+chncrh;CHN-HE;JingGuang;;;Jingguang HSR;chnhe.hsrjingguang;
+chncrh;CHN-HA;JingGuang;;;Jingguang HSR;chnha.hsrjingguang;
+chncrh;CHN-HB;JingGuang;;;Jingguang HSR;chnhb.hsrjingguang;
+chncrh;CHN-HN;JingGuang;;;Jingguang HSR;chnhn.hsrjingguang;
+chncrh;CHN-GD;JingGuang;;;Jingguang HSR;chngd.hsrjingguang;
