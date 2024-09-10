@@ -1,0 +1,4 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+korktx;KOR;KTXGeyong;;;KTX Gyeongbu HSR;kor.ktxgyeong;
+korktx;KOR;KTXHon;;;KTX Honam HSR;kor.ktxhon;
+korktx;KOR;KTXJun;;;KTX Jungang Line;kor.ktxjun;
