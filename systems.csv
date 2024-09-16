@@ -127,6 +127,7 @@ chlefep;CHL;Empresa de los Ferrocarriles del Estado (provincial);TMpurple;1;prev
 chlefes;CHL;Empresa de los Ferrocarriles del Estado (suburbanos);TMgreen;2;preview
 chlefeu;CHL;Empresa de los Ferrocarriles del Estado (urbanos);TMgreen;2;preview
 chlms;CHL;Metro de Santiago;TMblue;3;preview
+chncrh;CHN;China Railway High-speed;TMpurple;1;preview
 chngdprd;CHN;Pearl River Delta Metropolitan Region Intercity Railway;TMgreen;2;preview
 chngdgzfm;CHN;Guangzhou & Foshan Metros;TMblue;3;preview
 chngdszm;CHN;Shenzhen Metro;TMblue;3;preview
@@ -496,6 +497,7 @@ jpntmut;JPN;Utsunomiya Light Rail;TMred;4;preview
 jpndmv;JPN;Dual Mode Vehicle Lines;TMyellow;5;preview
 jpnfuni;JPN;Japan Funiculars;TMyellow;5;preview
 jpntour;JPN;Japan Tourist/Heritage Railroads;TMyellow;5;preview
+korsms;KOR;Seoul Metropolitan Subway;TMblue;3;preview
 luxcfl;LUX;Société Nationale des Chemins de Fer Luxembourgeois;TMgreen;2;preview
 luxst;LUX;Stater Tram;TMred;4;preview
 macmlm;CHN;Metro Ligeiro de Macau;TMred;4;preview
@@ -580,6 +582,7 @@ swesj;SWE;Stockholms pendeltåg;TMgreen;2;preview
 swest;SWE;Stockholms tunnelbana;TMblue;3;preview
 swesl;SWE;Stockholms lokalbana;TMlightsalmon;4;preview
 swess;SWE;Stockholms spårvagn;TMred;4;preview
+thab;THA;Bangkok urban rail transit;TMblue;3;preview
 turib;TUR;İstanbul Banliyö Treni;TMgreen;2;preview
 turim;TUR;İstanbul Metrosu;TMblue;3;preview
 turit;TUR;İstanbul Tramvayı;TMred;4;preview
