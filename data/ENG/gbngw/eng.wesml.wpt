@@ -3,9 +3,10 @@ WLS/ENG http://www.openstreetmap.org/?lat=51.580457&lon=-2.703323
 +SKIP_Pat http://www.openstreetmap.org/?lat=51.525787&lon=-2.562368
 +DIV_XCMLN http://www.openstreetmap.org/?lat=51.515820&lon=-2.560759
 FilAbbWood http://www.openstreetmap.org/?lat=51.503280&lon=-2.563848
++SKIP_AshDown http://www.openstreetmap.org/?lat=51.478090&lon=-2.576551
 +DIV_SBL http://www.openstreetmap.org/?lat=51.471807&lon=-2.572474
-StaRd http://www.openstreetmap.org/?lat=51.467356&lon=-2.566144
-LawHill http://www.openstreetmap.org/?lat=51.458546&lon=-2.564127
++SKIP_StaRd http://www.openstreetmap.org/?lat=51.467356&lon=-2.566144
++SKIP_LawHill http://www.openstreetmap.org/?lat=51.458546&lon=-2.564127
 +DIV_WML http://www.openstreetmap.org/?lat=51.451827&lon=-2.573075
 BriTemMea http://www.openstreetmap.org/?lat=51.449019&lon=-2.580199
 +DIV_XCMLS http://www.openstreetmap.org/?lat=51.451827&lon=-2.573075

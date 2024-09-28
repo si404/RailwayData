@@ -48,6 +48,7 @@ BriTemMea http://www.openstreetmap.org/?lat=51.449019&lon=-2.580199
 +SKIP_LawHill http://www.openstreetmap.org/?lat=51.458546&lon=-2.564127
 +SKIP_StaRd http://www.openstreetmap.org/?lat=51.467356&lon=-2.566144
 +DIV_SBLN http://www.openstreetmap.org/?lat=51.471807&lon=-2.572474
++SKIP_AshDown http://www.openstreetmap.org/?lat=51.478090&lon=-2.576551
 +SKIP_FilAbbWood http://www.openstreetmap.org/?lat=51.503280&lon=-2.563848
 +DIV_SWMLW http://www.openstreetmap.org/?lat=51.515820&lon=-2.560759
 BriPkwy http://www.openstreetmap.org/?lat=51.513867&lon=-2.542723
