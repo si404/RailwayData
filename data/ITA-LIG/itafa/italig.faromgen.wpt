@@ -17,7 +17,7 @@ GenBri http://www.openstreetmap.org/?lat=44.406799&lon=8.947442
 +SKIP_SanMarLigPor http://www.openstreetmap.org/?lat=44.336642&lon=9.216864
 Rap http://www.openstreetmap.org/?lat=44.351293&lon=9.231337
 +SKIP_Zao http://www.openstreetmap.org/?lat=44.335337&lon=9.269178
-Chi http://www.openstreetmap.org/?lat=44.315090&lon=9.322436
++SKIP_Chi http://www.openstreetmap.org/?lat=44.315090&lon=9.322436
 +SKIP_Lav http://www.openstreetmap.org/?lat=44.305585&lon=9.346426
 +SKIP_Cavi http://www.openstreetmap.org/?lat=44.293499&lon=9.372497
 +SKIP_SesLev http://www.openstreetmap.org/?lat=44.276233&lon=9.397602
