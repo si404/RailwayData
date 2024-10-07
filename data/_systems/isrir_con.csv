@@ -1,0 +1,14 @@
+systemName;route;banner;groupName;roots
+isrir;KarBee;;Karmiel–Beersheba;isr.karbee
+isrir;NahBee;;Nahariya–Beersheba;isr.nahbee
+isrir;NahMod;;Nahariya–Modi'in;isr.nahmod
+isrir;HerJer;;Herzliya–Jerusalem;isr.herjer,pse.herjer,isr.herjerkfi,pse.herjeriks,isr.herjerjer
+isrir;BinAsh;;Binyamina–Ashkelon;isr.binash
+isrir;BeiAtl;;Beit She'an–Atlit;isr.beiatl
+isrir;NetBei;;Netanya–Beit Shemesh;isr.netbei
+isrir;HerAsh;;Herzliya–Ashkelon;isr.herash
+isrir;KarHai;;Karmiel–Haifa;isr.karhai
+isrir;JerMod;;Jerusalem–Modi'in (Jerusalem);isr.jermodjer,pse.jermodiks,isr.jermodkfi,pse.jermod,isr.jermod
+isrir;AshBee;;Ashkelon–Beersheba;isr.ashbee
+isrir;BeeDim;;Beersheba–Dimona;isr.beedim
+isrir;LodRis;;Lod–Rishon LeZion;isr.lodris

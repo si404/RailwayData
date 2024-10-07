@@ -1,0 +1,4 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+isrtalr;ISR;R1;;;Red Line (Tel Aviv);isr.r01;
+isrtalr;ISR;R2;;;Red Line (Tel Aviv);isr.r02;
+isrtalr;ISR;R3;;;Red Line (Tel Aviv);isr.r03;
