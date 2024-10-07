@@ -13,10 +13,10 @@ irlie;IRL;LimBalLn;;;Limerick - Ballybrophy InterCity;irl.limballn;
 irlie;IRL;LimWatLn;;;Limerick Junction - Waterford InterCity;irl.limwatln;
 irlie;IRL;CorkCom;;;Cork Commuter (Cobh);irl.corkcom;
 irlie;IRL;CorkCom;;Mid;Cork Commuter (Midleton);irl.corkcommid;
-irlie;IRL;NorCom;;;Dublin Northern Commuter;irl.norcom;N
-irlie;IRL;SouCom;;GCD;Dublin Southwestern Commuter (Grand Canal Dock);irl.soucomgcd;SWGCD
-irlie;IRL;SouCom;;;Dublin Southwestern Commuter (Heuston);irl.soucom;SW
-irlie;IRL;WesCom;;;Dublin Western Commuter (Maynooth);irl.wescom;W
-irlie;IRL;WesCom;;M3P;Dublin Western Commuter (M3 Parkway);irl.wescomm3p;WM3P
+irlie;IRL;NorCom;;;Dublin Northern Commuter;irl.norcom;
+irlie;IRL;SouCom;;GCD;Dublin Southwestern Commuter (Grand Canal Dock);irl.soucomgcd;
+irlie;IRL;SouCom;;;Dublin Southwestern Commuter (Heuston);irl.soucom;
+irlie;IRL;WesCom;;;Dublin Western Commuter (Maynooth);irl.wescom;
+irlie;IRL;WesCom;;M3P;Dublin Western Commuter (M3 Parkway);irl.wescomm3p;
 irlie;IRL;DART;;;Dublin Area Rapid Transit (Malahide);irl.dart;
 irlie;IRL;DART;;How;Dublin Area Rapid Transit (Howth);irl.darthow;

@@ -1,3 +1,4 @@
+BurOud http://www.openstreetmap.org/?lat=51.916529&lon=4.522945
 EraUni http://www.openstreetmap.org/?lat=51.917469&lon=4.522666
 Gra http://www.openstreetmap.org/?lat=51.922537&lon=4.525820
 Ess http://www.openstreetmap.org/?lat=51.923748&lon=4.520209
@@ -20,9 +21,8 @@ Kru http://www.openstreetmap.org/?lat=51.921065&lon=4.471704
 +DIV_825 http://www.openstreetmap.org/?lat=51.918971&lon=4.472272
 Een http://www.openstreetmap.org/?lat=51.916235&lon=4.473345
 Mus http://www.openstreetmap.org/?lat=51.914883&lon=4.475126
-Wes_1 http://www.openstreetmap.org/?lat=51.909820&lon=4.478275
-+DIV_Lp1 http://www.openstreetmap.org/?lat=51.909105&lon=4.480201
+Wesp http://www.openstreetmap.org/?lat=51.909820&lon=4.478275
++DIV_Lp http://www.openstreetmap.org/?lat=51.909105&lon=4.480201
 Wil http://www.openstreetmap.org/?lat=51.909052&lon=4.482180
-Wes http://www.openstreetmap.org/?lat=51.909635&lon=4.481649
-+DIV_Lp2 http://www.openstreetmap.org/?lat=51.909105&lon=4.480201
-Wes_2 http://www.openstreetmap.org/?lat=51.909820&lon=4.478275
+Wess http://www.openstreetmap.org/?lat=51.909635&lon=4.481649
+LOOP http://www.openstreetmap.org/?lat=51.909105&lon=4.480201

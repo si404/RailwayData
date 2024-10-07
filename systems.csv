@@ -1,4 +1,5 @@
 ﻿System;CountryCode;Name;Color;Tier;Level
+ared;ARE;Dubai urban rail transit;TMblue;3;preview
 argtaold;ARG;Trenes Argentinos Operaciones (larga distancia);TMpurple;1;preview
 argtaor;ARG;Trenes Argentinos Operaciones (regionales e internacional);TMgreen;2;preview
 argbs;ARG;Línea Belgrano Sur;TMgreen;2;preview
@@ -58,6 +59,7 @@ belgt;BEL;Gentse tram;TMred;4;preview
 belkt;BEL;Kusttram;TMred;4;preview
 bgrsm;BGR;Sofiyski Metropoliten;TMblue;3;preview
 bgrst;BGR;Sofiyski Trams;TMred;4;preview
+bihst;BIH;Sarajevski Tramvaji;TMred;4;preview
 bolmtc;BOL;Mi Tren Cochabamba;TMred;4;preview
 braefc;BRA;Estrada de Ferro Carajás;TMpurple;1;preview
 braefvm;BRA;Estrada de Ferro Vitória a Minas;TMpurple;1;preview
@@ -126,6 +128,10 @@ chlefep;CHL;Empresa de los Ferrocarriles del Estado (provincial);TMpurple;1;prev
 chlefes;CHL;Empresa de los Ferrocarriles del Estado (suburbanos);TMgreen;2;preview
 chlefeu;CHL;Empresa de los Ferrocarriles del Estado (urbanos);TMgreen;2;preview
 chlms;CHL;Metro de Santiago;TMblue;3;preview
+chncrh;CHN;China Railway High-speed;TMpurple;1;preview
+chngdprd;CHN;Pearl River Delta Metropolitan Region Intercity Railway;TMgreen;2;preview
+chngdgzfm;CHN;Guangzhou & Foshan Metros;TMblue;3;preview
+chngdszm;CHN;Shenzhen Metro;TMblue;3;preview
 colmm;COL;Metro de Medellín;TMblue;3;preview
 colmmt;COL;Metro de Medellín (tranvía);TMred;4;preview
 czeduk;CZE;Doprava Ústeckého kraje;TMgreen;2;preview
@@ -220,6 +226,7 @@ dnkkm;DNK;Københavns Metro;TMblue;3;preview
 domopret;DOM;Oficina Para el Reordenamiento del Transporte;TMblue;3;preview
 ecumq;ECU;Metro de Quito;TMblue;3;preview
 ecutc;ECU;Tranvia Cuenca;TMred;4;preview
+espave;ESP;Alta Velocidad Española (AVE);TMpurple;1;preview
 espca;ESP;Cercanías Asturias;TMgreen;2;preview
 espcc;ESP;Cercanías Cádiz;TMgreen;2;preview
 espcm;ESP;Cercanías Madrid;TMgreen;2;preview
@@ -260,6 +267,7 @@ euret;EUR;LeShuttle (Eurotunnel);TMpurple;1;preview
 eurapm;EUR;Europe Airport People Movers (landside);TMyellow;5;preview
 eurf;EUR;Europe Funiculars;TMyellow;5;preview
 eurhr;EUR;Europe Heritage & Tourist Railways;TMbrown;5;preview
+fratgv;FRA;TGV InOui;TMpurple;1;preview
 fracp;FRA;Chemins de fer de Provence;TMgreen;2;preview
 frahdfterk;FRA;TER Hauts-de-France (Krono);TMgreen;2;preview
 frahdfterc;FRA;TER Hauts-de-France (Citi);TMgreen;2;preview
@@ -277,6 +285,7 @@ frapm;FRA;Paris Métro;TMblue;3;preview
 frarm;FRA;Rennes Métro;TMblue;3;preview
 fratm;FRA;Toulouse Métro;TMblue;3;preview
 fraant;FRA;Angers Tramway;TMred;4;preview
+fraavt;FRA;Avignon Tramway;TMred;4;preview
 fraaut;FRA;Tramway d'Aubagne;TMred;4;preview
 frabet;FRA;Besancon Tramway;TMred;4;preview
 frabrt;FRA;Brest Tramway;TMred;4;preview
@@ -344,6 +353,12 @@ gbnman;GBR;Manchester Metrolink;TMred;4;preview
 gbnnet;GBR;Nottingham Express Transit;TMred;4;preview
 gbnss;GBR;Sheffield Supertram;TMred;4;preview
 gbnwmm;GBR;West Midlands Metro;TMred;4;preview
+grcpa;GRC;Proastiakos Athenas;TMgreen;2;preview
+grcpp;GRC;Proastiakos Patras;TMgreen;2;preview
+grcpt;GRC;Proastiakos Thessalonikis;TMgreen;2;preview
+grcma;GRC;Metro Athenas;TMblue;3;preview
+grcmt;GRC;Metro Thessalonikis;TMblue;3;preview
+grcta;GRC;Tram Athenas;TMred;4;preview
 hkgmtr;CHN;Hong Kong Mass Transit Railway;TMblue;3;preview
 hkglr;CHN;Hong Kong Light Rail;TMlightsalmon;4;preview
 hkghkt;CHN;Hong Kong Tramways;TMred;4;preview
@@ -352,11 +367,18 @@ hkgpt;CHN;Peak Tram;TMyellow;5;preview
 hrvzt;HRV;Tramvajski promet u Zagrebu;TMred;4;preview
 hunbm;HUN;Budapesti metró;TMblue;3;preview
 hunbt;HUN;Budapest villamosvonal;TMred;4;preview
+idnkrlc;IDN;KRL Commuterline;TMgreen;2;preview
+idnmrtj;IDN;Moda Raya Terpadu Jakarta;TMblue;3;preview
+idnlrtj;IDN;Lintas Rel Terpadu;TMred;4;preview
+idnlrtjb;IDN;Lintas Rel Terpadu Jabodebek;TMred;4;preview
 imnimr;IMN;Isle of Man Railways;TMred;4;preview
 indcmrl;IND;Chennai Metro;TMblue;3;preview
+inddmrc;IND;Delhi Metro;TMblue;3;preview
 irlent;IRL;Enterprise;TMpurple;1;preview
 irlie;IRL;Iarnród Éireann;TMgreen;2;preview
 irlluas;IRL;Luas;TMred;4;preview
+itafa;ITA;Trenitalia Frecciargento;TMpurple;1;preview
+itafb;ITA;Trenitalia Frecciabianca;TMpurple;1;preview
 itafl;ITA;Ferrovie Laziali;TMgreen;2;preview
 itanf;ITA;Ferrovie flegree di Napoli;TMgreen;2;preview
 itanr;ITA;Ferrovie regionali di Napoli;TMgreen;2;preview
@@ -478,8 +500,12 @@ jpntmut;JPN;Utsunomiya Light Rail;TMred;4;preview
 jpndmv;JPN;Dual Mode Vehicle Lines;TMyellow;5;preview
 jpnfuni;JPN;Japan Funiculars;TMyellow;5;preview
 jpntour;JPN;Japan Tourist/Heritage Railroads;TMyellow;5;preview
+korktx;KOR;Korea Train Express (KTX);TMpurple;1;preview
+korsrt;KOR;Super Rapid Train (SRT);TMpurple;1;preview
+korsms;KOR;Seoul Metropolitan Subway;TMblue;3;preview
 luxcfl;LUX;Société Nationale des Chemins de Fer Luxembourgeois;TMgreen;2;preview
 luxst;LUX;Stater Tram;TMred;4;preview
+macmlm;CHN;Metro Ligeiro de Macau;TMred;4;preview
 mexchp;MEX;Chepe;TMpurple;1;preview
 mexciit;MEX;Corredor Interoceánico del Istmo de Tehuantepec;TMpurple;1;preview
 mextm;MEX;Tren Maya;TMpurple;1;preview
@@ -489,6 +515,11 @@ mexsiteur;MEX;Sistema de Tren Eléctrico Urbano (Guadalajara);TMblue;3;preview
 mexstc;MEX;Sistema de Transporte Colectivo (Ciudad de México);TMblue;3;preview
 mexstcm;MEX;Sistema de Transporte Colectivo Metrorrey;TMblue;3;preview
 mexste;MEX;Servicio de Transportes Eléctricos (Ciudad de México);TMred;4;preview
+mysktmk;MYS;Keretapi Tanah Melayu Komuter;TMgreen;2;preview
+myserl;MYS;Express Rail Link;TMgreen;2;preview
+mysmrt;MYS;Rapid KL Mass Rapid Transit;TMblue;3;preview
+mysklm;MYS;Rapid KL Monorail;TMcyan;3;preview
+myslrt;MYS;Rapid KL Light Rapid Transit;TMred;4;preview
 nldic;NLD;Netherlands Intercity;TMpurple;1;preview
 nldre;NLD;Netherlands Sneltrein;TMgreen;2;preview
 nldrs;NLD;Netherlands Sprinter / Stoptrein;TMgreen;2;preview
@@ -556,10 +587,13 @@ swesj;SWE;Stockholms pendeltåg;TMgreen;2;preview
 swest;SWE;Stockholms tunnelbana;TMblue;3;preview
 swesl;SWE;Stockholms lokalbana;TMlightsalmon;4;preview
 swess;SWE;Stockholms spårvagn;TMred;4;preview
+thab;THA;Bangkok urban rail transit;TMblue;3;preview
 turib;TUR;İstanbul Banliyö Treni;TMgreen;2;preview
 turim;TUR;İstanbul Metrosu;TMblue;3;preview
 turit;TUR;İstanbul Tramvayı;TMred;4;preview
 turif;TUR;İstanbul Füniküleri;TMyellow;5;preview
+twnhsr;CHN;Taiwan High Speed Rail;TMpurple;1;preview
+twntpm;CHN;Taipei urban rail transit;TMblue;3;preview
 uryafe;URY;Administración de Ferrocarriles del Estado;TMpurple;1;preview
 usaamtk;USA;Amtrak;TMpurple;1;preview
 usaarr;USA;Alaska Railroad;TMpurple;1;preview
@@ -590,8 +624,7 @@ usawes;USA;Westside Express Service;TMgreen;2;preview
 usanrtx;USA;WeGo Star;TMgreen;2;preview
 usacmr;USA;CapMetro Rail;TMgreen;2;preview
 usadcta;USA;Denton County Transportation Authority;TMgreen;2;preview
-usatex;USA;TEXRail;TMgreen;2;preview
-usatre;USA;Trinity Railway Express;TMgreen;2;preview
+usatmdart;USA;Dallas/Fort Worth Commuter Railroads;TMgreen;2;preview
 usasdrx;USA;Sounder;TMgreen;2;preview
 usabmsl;USA;Baltimore Metro SubwayLink;TMblue;3;preview
 usambta;USA;MBTA Subway;TMblue;3;preview

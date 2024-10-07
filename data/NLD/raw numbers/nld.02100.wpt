@@ -19,9 +19,7 @@ LeiCen http://www.openstreetmap.org/?lat=52.166391&lon=4.482293
 +SKIP_DeVink http://www.openstreetmap.org/?lat=52.147164&lon=4.456244
 +SKIP_Voos http://www.openstreetmap.org/?lat=52.126177&lon=4.433713
 +SKIP_DenHaagMar http://www.openstreetmap.org/?lat=52.090964&lon=4.370027
-+DIV_E http://www.openstreetmap.org/?lat=52.084609&lon=4.356165
 +SKIP_DenHaagLaanNOI http://www.openstreetmap.org/?lat=52.078939&lon=4.343119
-+DIV_34 http://www.openstreetmap.org/?lat=52.077231&lon=4.339256
 +DIV_Rot http://www.openstreetmap.org/?lat=52.076268&lon=4.337153
 +DIV_Gou http://www.openstreetmap.org/?lat=52.076503&lon=4.330341
 DenHaagCen http://www.openstreetmap.org/?lat=52.080917&lon=4.324450

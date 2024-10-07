@@ -16,6 +16,7 @@ Yate http://www.openstreetmap.org/?lat=51.541501&lon=-2.432066
 BriPkwy http://www.openstreetmap.org/?lat=51.513867&lon=-2.542723
 +DIV_SWMLW http://www.openstreetmap.org/?lat=51.515820&lon=-2.560759
 FilAbbWood http://www.openstreetmap.org/?lat=51.503280&lon=-2.563848
++SKIP_AshDown http://www.openstreetmap.org/?lat=51.478090&lon=-2.576551
 +DIV_SBL http://www.openstreetmap.org/?lat=51.471807&lon=-2.572474
 +SKIP_StaRd http://www.openstreetmap.org/?lat=51.467356&lon=-2.566144
 +SKIP_LawHill http://www.openstreetmap.org/?lat=51.458546&lon=-2.564127
