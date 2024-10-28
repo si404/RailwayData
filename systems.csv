@@ -377,6 +377,9 @@ inddmrc;IND;Delhi Metro;TMblue;3;preview
 irlent;IRL;Enterprise;TMpurple;1;preview
 irlie;IRL;Iarnród Éireann;TMgreen;2;preview
 irlluas;IRL;Luas;TMred;4;preview
+isrir;ISR;Israel Railways;TMgreen;2;preview
+isrjlr;ISR;Jerusalem Light Rail;TMred;4;preview
+isrtalr;ISR;Tel Aviv Light Rail;TMred;4;preview
 itafa;ITA;Trenitalia Frecciargento;TMpurple;1;preview
 itafb;ITA;Trenitalia Frecciabianca;TMpurple;1;preview
 itafl;ITA;Ferrovie Laziali;TMgreen;2;preview
@@ -594,6 +597,17 @@ turit;TUR;İstanbul Tramvayı;TMred;4;preview
 turif;TUR;İstanbul Füniküleri;TMyellow;5;preview
 twnhsr;CHN;Taiwan High Speed Rail;TMpurple;1;preview
 twntpm;CHN;Taipei urban rail transit;TMblue;3;preview
+ukrkme;Kyiv Miska Elektrychks;TMgreen;2;preview
+ukrdnm;Dnipro Metropoliten;TMblue;3;preview
+ukrkhm;Kharkiv Metropoliten;TMblue;3;preview
+ukrkm;Kyiv Metropoliten;TMblue;3;preview
+ukrkrmt;Kryvyi Rih Shvydkisnyj Tramvaj;TMred;4;preview
+ukrkst;Kyiv Shvydkisnyj Tramvaj;TMred;4;preview
+ukrdnt;Dnipro Tramvaj;TMlightsalmon;4;preview
+ukrkht;Kharkiv Tramvaj;TMlightsalmon;4;preview
+ukrkrt;Kryvyi Rih Tramvaj;TMlightsalmon;4;preview
+ukrkt;Kyiv Tramvaj;TMlightsalmon;4;preview
+ukrzat;Zaporozhye Tramvaj;TMlightsalmon;4;preview
 uryafe;URY;Administración de Ferrocarriles del Estado;TMpurple;1;preview
 usaamtk;USA;Amtrak;TMpurple;1;preview
 usaarr;USA;Alaska Railroad;TMpurple;1;preview

@@ -1,0 +1,22 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+isrir;ISR;KarBee;;;Karmiel–Beersheba;isr.karbee;
+isrir;ISR;NahBee;;;Nahariya–Beersheba;isr.nahbee;
+isrir;ISR;NahMod;;;Nahariya–Modi'in;isr.nahmod;
+isrir;ISR;HerJer;;;Herzliya–Jerusalem (Tel Aviv);isr.herjer;
+isrir;PSE;HerJer;;;Herzliya–Jerusalem (Mevo Horon);pse.herjer;
+isrir;ISR;HerJer;;Kfi;Herzliya–Jerusalem (Kfira Nature Reserve);isr.herjerkfi;
+isrir;PSE;HerJer;;Iks;Herzliya–Jerusalem (Beit Iksa);pse.herjeriks;
+isrir;ISR;HerJer;;Jer;Herzliya–Jerusalem (Jerusalem);isr.herjerjer;
+isrir;ISR;BinAsh;;;Binyamina–Ashkelon;isr.binash;
+isrir;ISR;BeiAtl;;;Beit She'an–Atlit;isr.beiatl;
+isrir;ISR;NetBei;;;Netanya–Beit Shemesh;isr.netbei;
+isrir;ISR;HerAsh;;;Herzliya–Ashkelon;isr.herash;
+isrir;ISR;KarHai;;;Karmiel–Haifa;isr.karhai;
+isrir;ISR;JerMod;;Jer;Jerusalem–Modi'in (Jerusalem);isr.jermodjer;
+isrir;PSE;JerMod;;Iks;Jerusalem–Modi'in (Beit Iksa);pse.jermodiks;
+isrir;ISR;JerMod;;Kfi;Jerusalem–Modi'in (Kfira Nature Reserve);isr.jermodkfi;
+isrir;PSE;JerMod;;;Jerusalem–Modi'in (Mevo Horon);pse.jermod;
+isrir;ISR;JerMod;;;Jerusalem–Modi'in (Modi'in);isr.jermod;
+isrir;ISR;AshBee;;;Ashkelon–Beersheba;isr.ashbee;
+isrir;ISR;BeeDim;;;Beersheba–Dimona;isr.beedim;
+isrir;ISR;LodRis;;;Lod–Rishon LeZion;isr.lodris;
