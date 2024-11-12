@@ -16,8 +16,7 @@ WestKen http://www.openstreetmap.org/?lat=51.490676&lon=-0.205886
 +DIV_Oly http://www.openstreetmap.org/?lat=51.490783&lon=-0.201402
 +DIV_Wim http://www.openstreetmap.org/?lat=51.490409&lon=-0.195844
 EarCou http://www.openstreetmap.org/?lat=51.491638&lon=-0.193913
-+DIV_Edg http://www.openstreetmap.org/?lat=51.494323&lon=-0.189750
-+DIV_CirW http://www.openstreetmap.org/?lat=51.494965&lon=-0.185609
++DIV_CirEdg http://www.openstreetmap.org/?lat=51.495512&lon=-0.187712
 GloRd http://www.openstreetmap.org/?lat=51.494524&lon=-0.183785
 +X196200 http://www.openstreetmap.org/?lat=51.493749&lon=-0.179172
 SouKen http://www.openstreetmap.org/?lat=51.494069&lon=-0.173056
@@ -32,7 +31,7 @@ ManHou http://www.openstreetmap.org/?lat=51.511877&lon=-0.095218
 CanSt http://www.openstreetmap.org/?lat=51.511357&lon=-0.090337
 Mon http://www.openstreetmap.org/?lat=51.510636&lon=-0.086120
 TowHill http://www.openstreetmap.org/?lat=51.509848&lon=-0.076679
-+DIV_CirE http://www.openstreetmap.org/?lat=51.513487&lon=-0.075381
++DIV_Cir http://www.openstreetmap.org/?lat=51.513487&lon=-0.075381
 +DIV_HaC http://www.openstreetmap.org/?lat=51.514493&lon=-0.073911
 AldEast http://www.openstreetmap.org/?lat=51.515625&lon=-0.070821
 Whi http://www.openstreetmap.org/?lat=51.519626&lon=-0.060489
