@@ -6,6 +6,7 @@ usaaair;TX;Sky;;;DFW Skylink;tx.sky;
 usaaair;MI;ExpTram;;;DTW ExpressTram;mi.exptram;
 usaaair;VA;AerTrn;;;IAD AeroTrain;va.aertrn;
 usaaair;FL;SkyTrn;;;MIA SkyTrain;fl.skytrn;
+usaaair;FL;ETrn;;;MIA E Train;fl.etrn;
 usaaair;TX;IAHSky;;;IAH Skyway;tx.iahsky;
 usaaair;MN;MSPTram;;;MSP Tram;mn.msptram;
 usaaair;FL;TPAShu;;;TPA Shuttle (Airside A);fl.tpashu;
