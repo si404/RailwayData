@@ -1,5 +1,5 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-usaaair;GA;PlaTrn;;;ATL Plane Train;ny.platrn;
+usaaair;GA;PlaTrn;;;ATL Plane Train;ga.platrn;
 usaaair;KY;CVGTram;;;CVG Tram;ky.cvgtram;
 usaaair;CO;DENTrn;;;DEN Train;co.dentrn;
 usaaair;TX;Sky;;;DFW Skylink;tx.sky;
