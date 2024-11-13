@@ -1,0 +1,26 @@
+systemName;route;banner;groupName;roots
+usaair;AirTrnBlue;;SFO AirTrain Blue Line;ca.airtrnblue
+usaaair;PlaTrn;;ATL Plane Train;ny.platrn
+usaaair;CVGTram;;CVG Tram;ky.cvgtram
+usaaair;DENTrn;;DEN Train;co.dentrn
+usaaair;Sky;;DFW Skylink;tx.sky
+usaaair;ExpTram;;DTW ExpressTram;mi.exptram
+usaaair;AerTrn;;IAD AeroTrain;va.aertrn
+usaaair;SkyTrn;;MIA SkyTrain;fl.skytrn
+usaaair;IAHSky;;IAH Skyway;tx.iahsky
+usaaair;MSPTram;;MSP Tram;mn.msptram
+usaaair;TPAShu;;TPA Shuttle (Airside A);fl.tpashu
+usaaair;TPAShu;;TPA Shuttle (Airside C);fl.tpashuaic
+usaaair;TPAShu;;TPA Shuttle (Airside E);fl.tpashuaie
+usaaair;TPAShu;;TPA Shuttle (Airside F);fl.tpashuaif
+usaaair;GateLink;;MCO Gate Link (Terminal A East);fl.gatelink
+usaaair;GateLink;;MCO Gate Link (Terminal A West);fl.gatelinktaw
+usaaair;GateLink;;MCO Gate Link (Terminal B East);fl.gatelinktbe
+usaaair;GateLink;;MCO Gate Link (Terminal B West);fl.gatelinktbw
+usaaair;PITTrn;;PIT Train;pa.pittrn
+usaaair;GreLn;;SEA Green Line;wa.grnln
+usaaair;BlueLn;;SEA Blue Line;wa.grnln
+usaaair;AutPeoMov;;SMF Automated People Mover;ca.autpeomov
+usaaair;GreLn;;LAS Green Line;nv.grnln
+usaaair;BlueLn;;LAS Blue Line;nv.blueln
+usaaair;RedLn;;LAS Red Line;nv.redln
