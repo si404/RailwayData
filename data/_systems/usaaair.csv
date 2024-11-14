@@ -19,7 +19,7 @@ usaaair;FL;GateLink;;TBE;MCO Gate Link (Terminal B East);fl.gatelinktbe;
 usaaair;FL;GateLink;;TBW;MCO Gate Link (Terminal B West);fl.gatelinktbw;
 usaaair;PA;PITTrn;;;PIT Train;pa.pittrn;
 usaaair;WA;GreLn;;;SEA Green Line;wa.grnln;
-usaaair;WA;BlueLn;;;SEA Blue Line;wa.grnln;
+usaaair;WA;BlueLn;;;SEA Blue Line;wa.blueln;
 usaaair;CA;AutPeoMov;;;SMF Automated People Mover;ca.autpeomov;
 usaaair;NV;GreLn;;;LAS Green Line;nv.grnln;
 usaaair;NV;BlueLn;;;LAS Blue Line;nv.blueln;
