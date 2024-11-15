@@ -1,0 +1,8 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+euraair;FRA-IDF;LISA;;;CDG Paris CdG Liaison Interne Satellite Aérogare;fraidf.lisa;
+euraair;DEU-HE;SkyLn;;;FRA SkyLine Frankfurt;deuhe.skyln;
+euraair;ITA-LAZ;SkyBri;;;FCO Rome Fiumicino SkyBridge;italaz.skybri;
+euraair;ENG;HT5Tra;;;LHR London Heathrow Terminal 5 Transit;eng.ht5tra;
+euraair;ESP-MD;APM;;;MAD Madrid-Barajas Airport People Mover;espmd.apm;
+euraair;DEU-BY;APM;;;MUC Munich Airport People Mover;deuby.apm;
+euraair;CHE;SkyMet;;;ZRH Zurich Airport Skymetro;che.skymet;
