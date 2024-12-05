@@ -2,7 +2,7 @@ Ric http://www.openstreetmap.org/?lat=51.463139&lon=-0.300407
 +DIV_Win http://www.openstreetmap.org/?lat=51.464469&lon=-0.292296
 KewGar http://www.openstreetmap.org/?lat=51.477127&lon=-0.284979
 Gun http://www.openstreetmap.org/?lat=51.491357&lon=-0.275495
-+DIV_NLL http://www.openstreetmap.org/?lat=51.492653&lon=-0.273607
++DIV_Mil http://www.openstreetmap.org/?lat=51.492653&lon=-0.273607
 +DIV_Eal http://www.openstreetmap.org/?lat=51.494828&lon=-0.262620
 TurGre http://www.openstreetmap.org/?lat=51.495135&lon=-0.254692
 StaBro http://www.openstreetmap.org/?lat=51.494981&lon=-0.245894
@@ -14,8 +14,7 @@ WestKen +WEK http://www.openstreetmap.org/?lat=51.490676&lon=-0.205886
 +DIV_Oly http://www.openstreetmap.org/?lat=51.490783&lon=-0.201402
 +DIV_Wim http://www.openstreetmap.org/?lat=51.490409&lon=-0.195844
 EarCou http://www.openstreetmap.org/?lat=51.491638&lon=-0.193913
-+DIV_Edg http://www.openstreetmap.org/?lat=51.494323&lon=-0.189750
-+DIV_CiW http://www.openstreetmap.org/?lat=51.494965&lon=-0.185609
++DIV_CirEdg http://www.openstreetmap.org/?lat=51.495512&lon=-0.187712
 GloRd http://www.openstreetmap.org/?lat=51.494524&lon=-0.183785
 +X196200 http://www.openstreetmap.org/?lat=51.493749&lon=-0.179172
 SouKen +SKS http://www.openstreetmap.org/?lat=51.494069&lon=-0.173056
@@ -30,22 +29,22 @@ ManHou http://www.openstreetmap.org/?lat=51.511877&lon=-0.095218
 CanSt http://www.openstreetmap.org/?lat=51.511357&lon=-0.090337
 Mon http://www.openstreetmap.org/?lat=51.510636&lon=-0.086120
 TowHill +TWH http://www.openstreetmap.org/?lat=51.509848&lon=-0.076679
-+DIV_CiE http://www.openstreetmap.org/?lat=51.513487&lon=-0.075381
++DIV_CirE http://www.openstreetmap.org/?lat=51.513487&lon=-0.075381
 +DIV_HaC http://www.openstreetmap.org/?lat=51.514493&lon=-0.073911
 AldEast http://www.openstreetmap.org/?lat=51.515625&lon=-0.070821
 Whi http://www.openstreetmap.org/?lat=51.519626&lon=-0.060489
 SteGre http://www.openstreetmap.org/?lat=51.521698&lon=-0.046692
 MileEnd http://www.openstreetmap.org/?lat=51.525350&lon=-0.033410
 BowRd http://www.openstreetmap.org/?lat=51.526852&lon=-0.024784
-+DIV_Fen http://www.openstreetmap.org/?lat=51.524542&lon=-0.019205
++DIV_LTS http://www.openstreetmap.org/?lat=51.524542&lon=-0.019205
 BroByBow http://www.openstreetmap.org/?lat=51.524622&lon=-0.012327
 WestHam http://www.openstreetmap.org/?lat=51.528223&lon=0.004549
 Pla http://www.openstreetmap.org/?lat=51.531097&lon=0.016705
 UptPark http://www.openstreetmap.org/?lat=51.535008&lon=0.034032
 EastHam http://www.openstreetmap.org/?lat=51.539272&lon=0.052603
-+DIV_Gob http://www.openstreetmap.org/?lat=51.544387&lon=0.067077
++DIV_SufW http://www.openstreetmap.org/?lat=51.544387&lon=0.067077
 Bar http://www.openstreetmap.org/?lat=51.540263&lon=0.079436
-+DIV_Til http://www.openstreetmap.org/?lat=51.538001&lon=0.083857
++DIV_SufE http://www.openstreetmap.org/?lat=51.538001&lon=0.083857
 Upn http://www.openstreetmap.org/?lat=51.538208&lon=0.099649
 Bec http://www.openstreetmap.org/?lat=51.540236&lon=0.126514
 DagHea http://www.openstreetmap.org/?lat=51.541461&lon=0.145601
@@ -53,5 +52,5 @@ DagEast http://www.openstreetmap.org/?lat=51.543920&lon=0.164967
 ElmPark http://www.openstreetmap.org/?lat=51.549524&lon=0.197453
 Hor http://www.openstreetmap.org/?lat=51.553820&lon=0.218310
 UpmBri http://www.openstreetmap.org/?lat=51.558196&lon=0.234919
-+DIV_Rom http://www.openstreetmap.org/?lat=51.559217&lon=0.243545
++DIV_Lib http://www.openstreetmap.org/?lat=51.559217&lon=0.243545
 Upm http://www.openstreetmap.org/?lat=51.558977&lon=0.251977

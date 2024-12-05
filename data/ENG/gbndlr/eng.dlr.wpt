@@ -1,11 +1,10 @@
 Bank +BAN http://www.openstreetmap.org/?lat=51.513366&lon=-0.088953
 +X658288 http://www.openstreetmap.org/?lat=51.509370&lon=-0.077806
-+DIV_Tow http://www.openstreetmap.org/?lat=51.511078&lon=-0.067769
-+DIV_Fen http://www.openstreetmap.org/?lat=51.511504&lon=-0.061101
++DIV_RoyW http://www.openstreetmap.org/?lat=51.511078&lon=-0.067769
 Sha http://www.openstreetmap.org/?lat=51.511781&lon=-0.055404
 Lim http://www.openstreetmap.org/?lat=51.512452&lon=-0.039740
 Wes http://www.openstreetmap.org/?lat=51.509432&lon=-0.026715
-+DIV_Roy http://www.openstreetmap.org/?lat=51.508280&lon=-0.022976
++DIV_RoyE http://www.openstreetmap.org/?lat=51.508280&lon=-0.022976
 +DIV_Str http://www.openstreetmap.org/?lat=51.507348&lon=-0.020342
 WestIndQuay http://www.openstreetmap.org/?lat=51.506759&lon=-0.020492
 CanWha http://www.openstreetmap.org/?lat=51.505090&lon=-0.020943

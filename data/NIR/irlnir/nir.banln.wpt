@@ -1,10 +1,10 @@
 BelGraCen http://www.openstreetmap.org/?lat=54.593923&lon=-5.941651
-+DIV_GVS http://www.openstreetmap.org/?lat=54.592213&lon=-5.944011
-+DIV_Lis http://www.openstreetmap.org/?lat=54.590373&lon=-5.945728
+*BelGVS http://www.openstreetmap.org/?lat=54.592213&lon=-5.944011
++DIV_NewEnt http://www.openstreetmap.org/?lat=54.590373&lon=-5.945728
 CityHos http://www.openstreetmap.org/?lat=54.588620&lon=-5.939741
 Bot http://www.openstreetmap.org/?lat=54.588409&lon=-5.932853
 BelLanPl http://www.openstreetmap.org/?lat=54.595122&lon=-5.917296
-+DIV_Lar http://www.openstreetmap.org/?lat=54.598678&lon=-5.916910
++DIV_DerLar http://www.openstreetmap.org/?lat=54.598678&lon=-5.916910
 TitQua http://www.openstreetmap.org/?lat=54.601897&lon=-5.906546
 Syd http://www.openstreetmap.org/?lat=54.609279&lon=-5.877342
 Hol http://www.openstreetmap.org/?lat=54.641006&lon=-5.839791

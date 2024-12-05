@@ -1,6 +1,6 @@
 LimCol http://www.openstreetmap.org/?lat=52.658385&lon=-8.623109
-+DIV_Enn http://www.openstreetmap.org/?lat=52.652762&lon=-8.606243
-+DIV_LJ http://www.openstreetmap.org/?lat=52.640212&lon=-8.528223
++DIV_LGL http://www.openstreetmap.org/?lat=52.652762&lon=-8.606243
++DIV_LimW http://www.openstreetmap.org/?lat=52.640212&lon=-8.528223
 +X659126 http://www.openstreetmap.org/?lat=52.643298&lon=-8.517666
 Cas http://www.openstreetmap.org/?lat=52.712990&lon=-8.497882
 +X269776 http://www.openstreetmap.org/?lat=52.731380&lon=-8.490887
@@ -19,5 +19,5 @@ Ros http://www.openstreetmap.org/?lat=52.960763&lon=-7.794285
 +X140460 http://www.openstreetmap.org/?lat=52.961436&lon=-7.757034
 +X475029 http://www.openstreetmap.org/?lat=52.938578&lon=-7.681417
 +X463664 http://www.openstreetmap.org/?lat=52.935267&lon=-7.631979
-+DIV_Por http://www.openstreetmap.org/?lat=52.901538&lon=-7.598805
++DIV_LimCork http://www.openstreetmap.org/?lat=52.901538&lon=-7.598805
 Bal http://www.openstreetmap.org/?lat=52.900250&lon=-7.602131

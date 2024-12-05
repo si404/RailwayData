@@ -1,5 +1,5 @@
 Col http://www.openstreetmap.org/?lat=51.900554&lon=0.892339
-+DIV_GE http://www.openstreetmap.org/?lat=51.899336&lon=0.912037
++DIV_GEML http://www.openstreetmap.org/?lat=51.899336&lon=0.912037
 +DIV_Col1 http://www.openstreetmap.org/?lat=51.888438&lon=0.920277
 ColTown http://www.openstreetmap.org/?lat=51.886438&lon=0.904999
 +DIV_Col2 http://www.openstreetmap.org/?lat=51.888438&lon=0.920277

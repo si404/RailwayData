@@ -2,3 +2,5 @@ systemName;region;route;banner;abbrev;city;root;altRouteNames
 usamts;CA;BlueLn;;;Blue Line;ca.blueln;
 usamts;CA;GreLn;;;Green Line;ca.greln;
 usamts;CA;OraLn;;;Orange Line;ca.oraln;
+usamts;CA;SilLn;;;Silver Line;ca.silln;
+usamts;CA;CopLn;;;Copper Line;ca.copln;

@@ -1,0 +1,12 @@
+systemName;route;banner;groupName;roots
+inddmrc;RedLn;;Red Line;indup.redln,inddl.redln
+inddmrc;YelLn;;Yellow Line;inddl.yelln,indhr.yelln
+inddmrc;BluLn;;Blue Line;indup.bluln,inddl.bluln
+inddmrc;BluLn;;Blue Line (Vaishali);inddl.blulnvai,indup.blulnvai
+inddmrc;GreLn;;Green Line;inddl.greln,indhr.greln
+inddmrc;GreLn;;Green Line (Kirti Nagar);inddl.grelnkir
+inddmrc;VioLn;;Violet Line;inddl.violn,indhr.violn
+inddmrc;AirExpLn;;Airport Express Line;inddl.airexpln
+inddmrc;PinLn;;Pink Line;inddl.pinln,indup.pinln,inddl.pinlnshi
+inddmrc;MagLn;;Magenta Line;inddl.magln,indup.magln
+inddmrc;GreyLn;;Grey Line;inddl.greyln

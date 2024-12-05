@@ -1,12 +1,12 @@
 GlaCen http://www.openstreetmap.org/?lat=55.858515&lon=-4.258533
-+DIV_Ayr http://www.openstreetmap.org/?lat=55.851860&lon=-4.260013
-+DIV_WC http://www.openstreetmap.org/?lat=55.847822&lon=-4.261043
++DIV_ACLInvPCL http://www.openstreetmap.org/?lat=55.851860&lon=-4.260013
++DIV_WCML http://www.openstreetmap.org/?lat=55.847822&lon=-4.261043
 +SKIP_PolEast http://www.openstreetmap.org/?lat=55.840759&lon=-4.269100
-+DIV_Cat http://www.openstreetmap.org/?lat=55.838672&lon=-4.271321
++DIV_CCL http://www.openstreetmap.org/?lat=55.838672&lon=-4.271321
 Cro http://www.openstreetmap.org/?lat=55.834012&lon=-4.284110
 +X283037 http://www.openstreetmap.org/?lat=55.830204&lon=-4.293594
 PolWest http://www.openstreetmap.org/?lat=55.823849&lon=-4.301383
-+DIV_SW http://www.openstreetmap.org/?lat=55.818662&lon=-4.310718
++DIV_CarStr http://www.openstreetmap.org/?lat=55.818662&lon=-4.310718
 Thor http://www.openstreetmap.org/?lat=55.811037&lon=-4.311662
 Gif http://www.openstreetmap.org/?lat=55.804187&lon=-4.293036
 Cla http://www.openstreetmap.org/?lat=55.789544&lon=-4.275784

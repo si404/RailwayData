@@ -1,0 +1,17 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+chngdszm;CHN-GD;SZMLn1;;;Shenzhen Metro Line 1;chngd.szm01;
+chngdszm;CHN-GD;SZMLn2;;;Shenzhen Metro Line 2;chngd.szm02;
+chngdszm;CHN-GD;SZMLn3;;;Shenzhen Metro Line 3;chngd.szm03;
+chngdszm;CHN-GD;SZMLn4;;;Shenzhen Metro Line 4;chngd.szm04;
+chngdszm;CHN-GD;SZMLn5;;;Shenzhen Metro Line 5;chngd.szm05;
+chngdszm;CHN-GD;SZMLn6;;;Shenzhen Metro Line 6;chngd.szm06;
+chngdszm;CHN-GD;SZMLn6B;;;Shenzhen Metro Line 6 (Branch);chngd.szm06b;
+chngdszm;CHN-GD;SZMLn7;;;Shenzhen Metro Line 7;chngd.szm07;
+chngdszm;CHN-GD;SZMLn8;;;Shenzhen Metro Line 8;chngd.szm08;
+chngdszm;CHN-GD;SZMLn9;;;Shenzhen Metro Line 9;chngd.szm09;
+chngdszm;CHN-GD;SZMLn10;;;Shenzhen Metro Line 10;chngd.szm10;
+chngdszm;CHN-GD;SZMLn11;;;Shenzhen Metro Line 11;chngd.szm11;
+chngdszm;CHN-GD;SZMLn12;;;Shenzhen Metro Line 12;chngd.szm12;
+chngdszm;CHN-GD;SZMLn14;;;Shenzhen Metro Line 14;chngd.szm14;
+chngdszm;CHN-GD;SZMLn16;;;Shenzhen Metro Line 16;chngd.szm16;
+chngdszm;CHN-GD;SZMLn20;;;Shenzhen Metro Line 20;chngd.szm20;

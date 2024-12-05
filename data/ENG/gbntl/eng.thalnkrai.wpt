@@ -15,20 +15,20 @@ BreCroWest http://www.openstreetmap.org/?lat=51.568844&lon=-0.226518
 +SKIP_Cri http://www.openstreetmap.org/?lat=51.558303&lon=-0.212517
 WestHam http://www.openstreetmap.org/?lat=51.548403&lon=-0.192261
 +SKIP_KenTown http://www.openstreetmap.org/?lat=51.550058&lon=-0.138831
-+DIV_StP http://www.openstreetmap.org/?lat=51.541614&lon=-0.130763
++DIV_MML http://www.openstreetmap.org/?lat=51.541614&lon=-0.130763
 +DIV_Cam http://www.openstreetmap.org/?lat=51.536166&lon=-0.128725
-StPanInt http://www.openstreetmap.org/?lat=51.530246&lon=-0.124090
-+X321572 http://www.openstreetmap.org/?lat=51.527563&lon=-0.114413
+StPanInt http://www.openstreetmap.org/?lat=51.532595&lon=-0.126987
++X321572 http://www.openstreetmap.org/?lat=51.527669&lon=-0.114359
 Far http://www.openstreetmap.org/?lat=51.520080&lon=-0.104842
 CityTha http://www.openstreetmap.org/?lat=51.515326&lon=-0.103555
 LonBla http://www.openstreetmap.org/?lat=51.509993&lon=-0.103281
-+DIV_Ele http://www.openstreetmap.org/?lat=51.505035&lon=-0.102616
-+DIV_Chx http://www.openstreetmap.org/?lat=51.504070&lon=-0.099784
-+DIV_Can http://www.openstreetmap.org/?lat=51.505616&lon=-0.089060
++DIV_Wim http://www.openstreetmap.org/?lat=51.505035&lon=-0.102616
++DIV_SEMLW http://www.openstreetmap.org/?lat=51.504070&lon=-0.099784
++DIV_Woo http://www.openstreetmap.org/?lat=51.505616&lon=-0.089060
 LonBri +LBG http://www.openstreetmap.org/?lat=51.504232&lon=-0.084994
 +DIV_Pec http://www.openstreetmap.org/?lat=51.492015&lon=-0.059727
 +DIV_Bri http://www.openstreetmap.org/?lat=51.488989&lon=-0.052485
-+DIV_SE http://www.openstreetmap.org/?lat=51.483447&lon=-0.039096
++DIV_SEMLE http://www.openstreetmap.org/?lat=51.483447&lon=-0.039096
 Dep http://www.openstreetmap.org/?lat=51.479011&lon=-0.026693
 Gre http://www.openstreetmap.org/?lat=51.478102&lon=-0.015364
 MazeHill +MZH http://www.openstreetmap.org/?lat=51.482619&lon=0.003455
@@ -43,10 +43,8 @@ AbbWoo http://www.openstreetmap.org/?lat=51.491124&lon=0.120506
 +SKIP_Bel http://www.openstreetmap.org/?lat=51.492172&lon=0.152457
 +SKIP_Eri http://www.openstreetmap.org/?lat=51.481617&lon=0.175159
 SlaGre http://www.openstreetmap.org/?lat=51.467665&lon=0.190313
-+DIV_Bar http://www.openstreetmap.org/?lat=51.466987&lon=0.190904
-+DIV_Bex http://www.openstreetmap.org/?lat=51.462791&lon=0.194621
-+DIV_Cra http://www.openstreetmap.org/?lat=51.453432&lon=0.203118
-+DIV_Sid http://www.openstreetmap.org/?lat=51.450089&lon=0.209255
++DIV_Bex http://www.openstreetmap.org/?lat=51.464622&lon=0.191574
++DIV_Sid http://www.openstreetmap.org/?lat=51.451734&lon=0.203676
 Dar http://www.openstreetmap.org/?lat=51.447468&lon=0.219083
 StoCro http://www.openstreetmap.org/?lat=51.451426&lon=0.263500
 Greh http://www.openstreetmap.org/?lat=51.450437&lon=0.279894

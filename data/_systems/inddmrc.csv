@@ -1,0 +1,21 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+inddmrc;IND-UP;RedLn;;;Red Line;indup.redln;
+inddmrc;IND-DL;RedLn;;;Red Line;inddl.redln;
+inddmrc;IND-DL;YelLn;;;Yellow Line;inddl.yelln;
+inddmrc;IND-HR;YelLn;;;Yellow Line;indhr.yelln;
+inddmrc;IND-UP;BluLn;;;Blue Line;indup.bluln;
+inddmrc;IND-DL;BluLn;;;Blue Line;inddl.bluln;
+inddmrc;IND-DL;BluLn;;Vai;Blue Line (Vaishali);inddl.blulnvai;
+inddmrc;IND-UP;BluLn;;Vai;Blue Line (Vaishali);indup.blulnvai;
+inddmrc;IND-DL;GreLn;;;Green Line;inddl.greln;
+inddmrc;IND-HR;GreLn;;;Green Line;indhr.greln;
+inddmrc;IND-DL;GreLn;;Kir;Green Line (Kirti Nagar);inddl.grelnkir;
+inddmrc;IND-DL;VioLn;;;Violet Line;inddl.violn;
+inddmrc;IND-HR;VioLn;;;Violet Line;indhr.violn;
+inddmrc;IND-DL;AirExpLn;;;Airport Express Line;inddl.airexpln;
+inddmrc;IND-DL;PinLn;;;Pink Line;inddl.pinln;
+inddmrc;IND-UP;PinLn;;;Pink Line;indup.pinln;
+inddmrc;IND-DL;PinLn;;Shi;Pink Line (Shiv Vihar);inddl.pinlnshi;
+inddmrc;IND-DL;MagLn;;;Magenta Line;inddl.magln;
+inddmrc;IND-UP;MagLn;;;Magenta Line;indup.magln;
+inddmrc;IND-DL;GreyLn;;;Grey Line;inddl.greyln;

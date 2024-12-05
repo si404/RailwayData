@@ -1,3 +1,12 @@
 date;region;route;root;description
-2024-05-06;France (Ile-de-France);RER E (Tournan branch);fraidf.rere;Route extended at west end from Haussmann Saint-Lazare to Nanterre La Folie
-2024-05-06;France (Ile-de-France);RER E (Chelles-Gournay branch);fraidf.rereche;Route extended at west end from Haussmann Saint-Lazare to Nanterre La Folie
+2024-11-04;(United States) California;C (Green) Line;ca.c;Rerouted west of Aviation/LAX to new Aviation/Century station, no longer serves Mariposa through Redondo Beach
+2024-11-04;(United States) California;K Line (El Segundo);ca.kels;Route added, replaces section of rerouted C (Green) Line from west of Aviation/LAX to Redondo Beach
+2024-09-30;(Australia) New South Wales;T3 Bankstown Line (Liverpool branch);ausnsw.t3;Route removed from Bankstown Line and relocated onto Inner West Line between Sefton and Redfern. Route renamed 'Liverpool & Inner West Line'.
+2024-09-30;(Australia) New South Wales;T3 Bankstown Line (Bankstown branch);;Route deleted
+2024-09-30;(Australia) New South Wales;T6 Lidcombe & Bankstown Line;ausnsw.t6;Route added
+2024-08-19;(Australia) New South Wales;M1 (Metro North West & Bankstown Line);ausnsw.m1;Route extended at south end from Chatswood to Sydenham
+2024-08-19;(Australia) New South Wales;L4 (Westmead & Carlingford Line);ausnsw.l4;Route added
+2024-06-24;(France) Ile-de-France;M14;fraidf.m14;Route extended at north end from Mairie de Saint-Ouen to Saint-Denis Pleyel and at south end from Olympiades to Aeroport d'Orly
+2024-06-13;(France) Ile-de-France;M11;fraidf.m11;Route extended at east end from Mairie des Lilas to Rosny-Bois-Perrier
+2024-05-06;(France) Ile-de-France;RER E (Tournan branch);fraidf.e;Route extended at west end from Haussmann Saint-Lazare to Nanterre La Folie
+2024-05-06;(France) Ile-de-France;RER E (Chelles-Gournay branch);fraidf.eche;Route extended at west end from Haussmann Saint-Lazare to Nanterre La Folie

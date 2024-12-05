@@ -1,6 +1,5 @@
-ManPic http://www.openstreetmap.org/?lat=53.476321&lon=-2.228765
-+X904171 http://www.openstreetmap.org/?lat=53.475963&lon=-2.225193
-+DIV_WC http://www.openstreetmap.org/?lat=53.471506&lon=-2.214775
+ManPic http://www.openstreetmap.org/?lat=53.476918&lon=-2.228969
++DIV_WCML http://www.openstreetmap.org/?lat=53.471506&lon=-2.214775
 +SKIP_Ard http://www.openstreetmap.org/?lat=53.471119&lon=-2.212994
 +SKIP_Ash http://www.openstreetmap.org/?lat=53.471835&lon=-2.195141
 +DIV_Glo http://www.openstreetmap.org/?lat=53.471375&lon=-2.190292
@@ -9,13 +8,13 @@ RydBrow http://www.openstreetmap.org/?lat=53.456889&lon=-2.173898
 RedNor http://www.openstreetmap.org/?lat=53.449606&lon=-2.156518
 Bri http://www.openstreetmap.org/?lat=53.431980&lon=-2.134116
 Bre http://www.openstreetmap.org/?lat=53.423005&lon=-2.110384
-+DIV_MarN http://www.openstreetmap.org/?lat=53.415409&lon=-2.093604
++DIV_MplN http://www.openstreetmap.org/?lat=53.415409&lon=-2.093604
 Rom http://www.openstreetmap.org/?lat=53.414028&lon=-2.089355
-+DIV_MarS http://www.openstreetmap.org/?lat=53.406763&lon=-2.065752
++DIV_MplS http://www.openstreetmap.org/?lat=53.406763&lon=-2.065752
 Mar http://www.openstreetmap.org/?lat=53.400597&lon=-2.057126
 Str http://www.openstreetmap.org/?lat=53.374554&lon=-2.033308
 NewMilCen http://www.openstreetmap.org/?lat=53.364862&lon=-2.005520
-+DIV_HG http://www.openstreetmap.org/?lat=53.357490&lon=-1.991884
++DIV_TPSR http://www.openstreetmap.org/?lat=53.357490&lon=-1.991884
 +X841614 http://www.openstreetmap.org/?lat=53.338010&lon=-1.970801
 Chi http://www.openstreetmap.org/?lat=53.340137&lon=-1.944408
 +X981113 http://www.openstreetmap.org/?lat=53.336857&lon=-1.910634
@@ -27,6 +26,6 @@ Hat http://www.openstreetmap.org/?lat=53.325862&lon=-1.652112
 Gri http://www.openstreetmap.org/?lat=53.305608&lon=-1.626105
 +X420529 http://www.openstreetmap.org/?lat=53.319396&lon=-1.528623
 DoreTot http://www.openstreetmap.org/?lat=53.327535&lon=-1.515341
-+DIV_MM http://www.openstreetmap.org/?lat=53.332894&lon=-1.511940
++DIV_MML http://www.openstreetmap.org/?lat=53.332894&lon=-1.511940
 +X824958 http://www.openstreetmap.org/?lat=53.369139&lon=-1.462598
 She http://www.openstreetmap.org/?lat=53.378119&lon=-1.461954

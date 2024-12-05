@@ -10,7 +10,7 @@ NorBlvd http://www.openstreetmap.org/?lat=40.753292&lon=-73.906864
 46St http://www.openstreetmap.org/?lat=40.756677&lon=-73.914063
 SteSt http://www.openstreetmap.org/?lat=40.758278&lon=-73.919599
 +DIV_E/F http://www.openstreetmap.org/?lat=40.752357&lon=-73.924620
-36St http://www.openstreetmap.org/?lat=40.752065&lon=-73.928279
+36St_Que http://www.openstreetmap.org/?lat=40.752065&lon=-73.928279
 +DIV_F http://www.openstreetmap.org/?lat=40.750984&lon=-73.934727
 QuePla http://www.openstreetmap.org/?lat=40.749067&lon=-73.937162
 +DIV_E/M http://www.openstreetmap.org/?lat=40.747936&lon=-73.939995
@@ -45,7 +45,7 @@ UniSt http://www.openstreetmap.org/?lat=40.677237&lon=-73.983178
 9thSt http://www.openstreetmap.org/?lat=40.670369&lon=-73.988800
 ProAve http://www.openstreetmap.org/?lat=40.665552&lon=-73.992791
 25St http://www.openstreetmap.org/?lat=40.660473&lon=-73.998027
-36St http://www.openstreetmap.org/?lat=40.654222&lon=-74.004421
+36St_Bro http://www.openstreetmap.org/?lat=40.654222&lon=-74.004421
 +DIV_D http://www.openstreetmap.org/?lat=40.653358&lon=-74.005381
 45St http://www.openstreetmap.org/?lat=40.649241&lon=-74.009571
 53St http://www.openstreetmap.org/?lat=40.644804&lon=-74.014313

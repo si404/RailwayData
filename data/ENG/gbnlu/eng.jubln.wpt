@@ -3,14 +3,13 @@ CanPark http://www.openstreetmap.org/?lat=51.608010&lon=-0.294785
 Que http://www.openstreetmap.org/?lat=51.594229&lon=-0.286202
 Kin http://www.openstreetmap.org/?lat=51.584363&lon=-0.278606
 +DIV_Met http://www.openstreetmap.org/?lat=51.568628&lon=-0.287747
-WemPark http://www.openstreetmap.org/?lat=51.563532&lon=-0.280023
-+DIV_Chi http://www.openstreetmap.org/?lat=51.555008&lon=-0.253769
-Nea http://www.openstreetmap.org/?lat=51.554254&lon=-0.250776
-DolHill http://www.openstreetmap.org/?lat=51.551959&lon=-0.238996
-WilGre http://www.openstreetmap.org/?lat=51.549277&lon=-0.222280
-Kil http://www.openstreetmap.org/?lat=51.546902&lon=-0.205050
-WestHamp http://www.openstreetmap.org/?lat=51.546689&lon=-0.189922
-+DIV_Mar http://www.openstreetmap.org/?lat=51.547269&lon=-0.184064
+WemPark http://www.openstreetmap.org/?lat=51.563632&lon=-0.280066
+Nea http://www.openstreetmap.org/?lat=51.554337&lon=-0.250770
++DIV_CML http://www.openstreetmap.org/?lat=51.552930&lon=-0.245336
+DolHill http://www.openstreetmap.org/?lat=51.552003&lon=-0.238979
+WilGre http://www.openstreetmap.org/?lat=51.549351&lon=-0.222221
+Kil http://www.openstreetmap.org/?lat=51.546976&lon=-0.205350
+WestHamp http://www.openstreetmap.org/?lat=51.546809&lon=-0.189965
 FinRd http://www.openstreetmap.org/?lat=51.547209&lon=-0.180674
 SwiCot http://www.openstreetmap.org/?lat=51.543710&lon=-0.174966
 StJohWood http://www.openstreetmap.org/?lat=51.535405&lon=-0.174150
@@ -19,14 +18,16 @@ BondSt http://www.openstreetmap.org/?lat=51.514338&lon=-0.148916
 GrePark +GRP http://www.openstreetmap.org/?lat=51.506619&lon=-0.142865
 Wes http://www.openstreetmap.org/?lat=51.501303&lon=-0.124841
 Wat http://www.openstreetmap.org/?lat=51.502832&lon=-0.112803
-Sou http://www.openstreetmap.org/?lat=51.504135&lon=-0.105057
+Sou http://www.openstreetmap.org/?lat=51.503914&lon=-0.104960
 LonBri +LBG http://www.openstreetmap.org/?lat=51.504232&lon=-0.084994
 Ber http://www.openstreetmap.org/?lat=51.497723&lon=-0.064287
 CanWat http://www.openstreetmap.org/?lat=51.497890&lon=-0.049889
 CanWha +CYF http://www.openstreetmap.org/?lat=51.503520&lon=-0.018582
 NorGre +NGW http://www.openstreetmap.org/?lat=51.500582&lon=0.004292
-+X594379 http://www.openstreetmap.org/?lat=51.510121&lon=0.010804
++X554564 http://www.openstreetmap.org/?lat=51.507477&lon=0.012263
 CanTown http://www.openstreetmap.org/?lat=51.513857&lon=0.008411
-+X860753 http://www.openstreetmap.org/?lat=51.520190&lon=0.004184
++X333166 http://www.openstreetmap.org/?lat=51.520490&lon=0.004131
 WestHam http://www.openstreetmap.org/?lat=51.528223&lon=0.004549
++X509863 http://www.openstreetmap.org/?lat=51.532425&lon=0.003465
++X617086 http://www.openstreetmap.org/?lat=51.537524&lon=-0.000257
 Str http://www.openstreetmap.org/?lat=51.541671&lon=-0.003927

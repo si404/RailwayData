@@ -1,0 +1,4 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+myslrt;MYS;3;;KLu;LRT Ampang Line;mys.03klu;
+myslrt;MYS;4;;KLu;LRT Sri Petaling Line;mys.04klu;
+myslrt;MYS;5;;KLu;LRT Kelena Jaya Line;mys.05klu;

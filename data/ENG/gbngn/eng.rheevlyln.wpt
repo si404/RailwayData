@@ -1,11 +1,12 @@
-LonKinCro +KinCro http://www.openstreetmap.org/?lat=51.530246&lon=-0.124090
-+DIV_TL http://www.openstreetmap.org/?lat=51.541364&lon=-0.122695
-+DIV_NCL http://www.openstreetmap.org/?lat=51.558757&lon=-0.107889
+LonKinCro +KinCro http://www.openstreetmap.org/?lat=51.531954&lon=-0.123543
++DIV_Tha http://www.openstreetmap.org/?lat=51.541364&lon=-0.122695
++X660358 http://www.openstreetmap.org/?lat=51.548937&lon=-0.118704
++DIV_NCLS http://www.openstreetmap.org/?lat=51.558757&lon=-0.107889
 FinPark http://www.openstreetmap.org/?lat=51.564760&lon=-0.106344
 +SKIP_Har http://www.openstreetmap.org/?lat=51.577456&lon=-0.105186
 +SKIP_Hor http://www.openstreetmap.org/?lat=51.586363&lon=-0.111623
 +SKIP_AlePal http://www.openstreetmap.org/?lat=51.597881&lon=-0.120335
-+DIV_Bow http://www.openstreetmap.org/?lat=51.601000&lon=-0.124068
++DIV_NCLE http://www.openstreetmap.org/?lat=51.601000&lon=-0.124068
 +SKIP_NewSou http://www.openstreetmap.org/?lat=51.614086&lon=-0.143166
 +SKIP_OakPark http://www.openstreetmap.org/?lat=51.637750&lon=-0.166297
 +SKIP_NewBar http://www.openstreetmap.org/?lat=51.648849&lon=-0.172820
@@ -19,11 +20,11 @@ WelGarCity http://www.openstreetmap.org/?lat=51.800800&lon=-0.203676
 WelNor http://www.openstreetmap.org/?lat=51.823763&lon=-0.192089
 +X858390 http://www.openstreetmap.org/?lat=51.843799&lon=-0.182734
 Kne http://www.openstreetmap.org/?lat=51.866926&lon=-0.187025
-+DIV_Her http://www.openstreetmap.org/?lat=51.885419&lon=-0.195866
++DIV_NCLN http://www.openstreetmap.org/?lat=51.885419&lon=-0.195866
 Ste http://www.openstreetmap.org/?lat=51.901627&lon=-0.206938
 +X647962 http://www.openstreetmap.org/?lat=51.928945&lon=-0.227194
 Hit http://www.openstreetmap.org/?lat=51.953232&lon=-0.263157
-+DIV_Pet http://www.openstreetmap.org/?lat=51.962012&lon=-0.270967
++DIV_ECML http://www.openstreetmap.org/?lat=51.962012&lon=-0.270967
 LetGarCity http://www.openstreetmap.org/?lat=51.980466&lon=-0.228910
 Bal http://www.openstreetmap.org/?lat=51.992941&lon=-0.187626
 +X893653 http://www.openstreetmap.org/?lat=52.008106&lon=-0.142436
@@ -32,5 +33,5 @@ Roy http://www.openstreetmap.org/?lat=52.053150&lon=-0.027552
 Mel http://www.openstreetmap.org/?lat=52.090635&lon=0.009270
 She http://www.openstreetmap.org/?lat=52.114359&lon=0.031071
 Fox http://www.openstreetmap.org/?lat=52.119208&lon=0.056820
-+DIV_WA http://www.openstreetmap.org/?lat=52.156966&lon=0.135098
++DIV_WAML http://www.openstreetmap.org/?lat=52.156966&lon=0.135098
 Cam http://www.openstreetmap.org/?lat=52.194113&lon=0.137758
