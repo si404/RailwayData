@@ -9,7 +9,6 @@ usaamtk;BO;;Borealis;il.bo,wi.bo,mn.bo
 usaamtk;BW;;Blue Water;il.bw,in.bw,mi.bw
 usaamtk;CZ;;California Zephyr;ca.cz,nv.cz,ut.cz,co.cz,ne.cz,ia.cz,il.cz
 usaamtk;CC;;Capitol Corridor;ca.cc
-usaamtk;CL;;Capitol Limited;il.cl,in.cl,oh.cl,pa.cl,md.clcum,wv.clpaw,md.clpaw,wv.cl,md.cl,dc.cl
 usaamtk;CA;;Cardinal;il.ca,in.ca,oh.ca,ky.ca,wv.ca,va.ca,dc.ca,md.ca,de.ca,pa.ca,nj.ca,ny.ca
 usaamtk;SB;;Carl Sandburg;il.sb
 usaamtk;CN;;Carolinian;nc.cn,va.cn,dc.cn,md.cn,de.cn,pa.cn,nj.cn,ny.cn
@@ -21,6 +20,7 @@ usaamtk;EB;;Empire Builder (Portland);or.ebpor,wa.ebpor,id.ebpor,mt.ebpor,nd.ebp
 usaamtk;EB;;Empire Builder (Seattle);wa.ebsea,id.ebsea,mt.ebsea,nd.ebsea,mn.ebsea,wi.ebsea,il.ebsea
 usaamtk;ES;;Empire Service;ny.es
 usaamtk;EA;;Ethan Allen Express;ny.ea,vt.ea
+usaamtk;FL;;Floridian;il.fl,in.fl,oh.fl,pa.fl,md.flcum,wv.flpaw,md.flpaw,wv.fl,md.fl,dc.fl,va.fl,nc.fl,sc.fl,ga.fl,fl.fl
 usaamtk;HF;;Heartland Flyer;tx.hf,ok.hf
 usaamtk;HI;;Hiawatha;il.hi,wi.hi
 usaamtk;IL;;Illini Service;il.il
@@ -44,7 +44,6 @@ usaamtk;SK;;Saluki;il.sk
 usaamtk;SJ;;San Joaquins (Sacramento);ca.sjsac
 usaamtk;SJ;;San Joaquins (Oakland);ca.sjoak
 usaamtk;SM;;Silver Meteor;fl.sm,ga.sm,sc.sm,nc.sm,va.sm,dc.sm,md.sm,de.sm,pa.sm,nj.sm,ny.sm
-usaamtk;SS;;Silver Star;fl.ss,ga.ss,sc.ss,nc.ss,va.ss,dc.ss,md.ss,de.ss,pa.ss,nj.ss,ny.ss
 usaamtk;SW;;Southwest Chief;ca.sw,az.sw,nm.sw,co.sw,ks.sw,mo.sw,ia.sw,il.sw
 usaamtk;SL;;Sunset Limited;ca.sl,az.sl,nm.sl,tx.sl,la.sl
 usaamtk;TX;;Texas Eagle;ca.tx,az.tx,nm.tx,tx.tx,ar.tx,mo.tx,il.tx
