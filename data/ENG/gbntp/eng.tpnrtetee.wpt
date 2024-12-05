@@ -72,7 +72,7 @@ Nor http://www.openstreetmap.org/?lat=54.332954&lon=-1.441655
 +X679759 http://www.openstreetmap.org/?lat=54.465399&lon=-1.349087
 Yarm http://www.openstreetmap.org/?lat=54.493798&lon=-1.351576
 +DIV_TVL http://www.openstreetmap.org/?lat=54.528497&lon=-1.350610
-+SKIP_Eag http://www.openstreetmap.org/?lat=54.529581&lon=-1.349967
+Eag http://www.openstreetmap.org/?lat=54.529581&lon=-1.349967
 +DIV_DCL http://www.openstreetmap.org/?lat=54.553400&lon=-1.327114
 Tho http://www.openstreetmap.org/?lat=54.559092&lon=-1.302009
 Mid http://www.openstreetmap.org/?lat=54.579207&lon=-1.233923
@@ -81,7 +81,4 @@ Mid http://www.openstreetmap.org/?lat=54.579207&lon=-1.233923
 +X308552 http://www.openstreetmap.org/?lat=54.588937&lon=-1.150732
 +SKIP_RedBriSte http://www.openstreetmap.org/?lat=54.609770&lon=-1.112580
 RedCen http://www.openstreetmap.org/?lat=54.615983&lon=-1.070309
-+SKIP_RedEast http://www.openstreetmap.org/?lat=54.609099&lon=-1.051855
-+SKIP_Lon http://www.openstreetmap.org/?lat=54.589360&lon=-1.030912
-+SKIP_Mar http://www.openstreetmap.org/?lat=54.587420&lon=-1.019497
-Sal http://www.openstreetmap.org/?lat=54.583435&lon=-0.975187
+

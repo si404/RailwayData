@@ -1,26 +1,26 @@
 NORTH ROUTE
 
-TPNorRte || Liverpool Lime Street, Lea Green, Newton-le-Willows, Manchester Victoria, Stalybridge, Huddersfield, Leeds, York, Northallerton, Darlington, Durham, Chester-le-Street, Newcastle || 1tph
-TPNorRte || Newcastle, Morpeth, Alnmouth, Berwick-upon-Tweed, Reston, Dunbar, East Linton, Edinburgh Waverley || 6 trains per day
+1tph	Manchester Airport - Manchester Piccadilly - Manchester Oxford Road - Manchester Victoria - Huddersfield - Dewsbury - Leeds - York - Thirsk - Northallerton - Yarm - Eaglescliffe - Thornaby - Middlesbrough - Redcar Central
 
-TPNorRteHul || Manchester Piccadilly, Huddersfield, Deighton, Mirfield, Ravensthorpe, Dewsbury, Batley, Morley, Cottingley, Leeds, Selby, Brough, Hull || 1tph
+1tph	Manchester Victoria - Huddersfield - Dewsbury - Leeds - York - Malton - Seamer - Scarborough
+1tp2h	Huddersfield - Deighton - Mirfield - Ravensthorpe - Dewsbury - Batley - Morley - Cottingley - Leeds
 
-TPNorRteTee || Manchester Airport, Manchester Piccadilly, Manchester Oxford Road, Manchester Victoria, Huddersfield, Dewsbury, Leeds, York, Thirsk, Northallerton, Yarm, Thornaby, Middlesbrough, Redcar Central, Saltburn || 1tph
+1tph	Liverpool Lime Street - Lea Green - Manchester Victoria - Stalybridge - Huddersfield - Leeds - Selby - Brough - Hull
 
-TPNorRtePic || Manchester Piccadilly, Stalybridge, Mossley, Greenfield, Marsden, Slaithwaite, Huddersfield || 1tph, except when extended
-TPNorRtePic || Manchester Piccadilly, Stalybridge, Mossley, Greenfield, Marsden, Slaithwaite, Huddersfield, Deighton, Mirfield, Wakefield Kirkgate, Normanton, Castleford, York || ?tpd
+1tph	Liverpool Lime Street - Newton-le-Willows - Manchester Victoria - Huddersfield - Leeds - York - Darlington - Durham - Chester-le-Street - Newcastle
+1tp2h	Newcastle - Morpeth - Alnwick - Berwick - Reston - Dunbar - East Linton - Edinburgh
 
-TPNorRteSca || York, Malton, Seamer, Scarborough || 1tph
+1tph	Manchester Piccadilly - Stalybridge - Mossley - Greenfield - Marsden - Slaithwaite - Huddersfield - Deighton - Mirfield - Wakefield Kirkgate - Normanton - Castleford - York
 
 SOUTH ROUTE
 
-TPSouRte || Liverpool Lime Street, Liverpool South Parkway, Warrington Central, Birchwood, Manchester Oxford Road, Manchester Piccadilly, Stockport, Sheffield, Meadowhall, Doncaster, Scunthorpe, Barnetby, Habrough, Grimsby Town, Cleethorpes || 1tph
+1tph	Liverpool Lime Street - Liverpool South Parkway - Warrington Central - Birchwood - Irlam - Urmston - Manchester Oxford Road - Manchester Piccadilly - Stockport - Sheffield - Meadowhall - Doncaster - Scunthorpe - Barnetby - Habrough - Grimsby Town - Cleethorpes
+
 
 ANGLO-SCOTTISH ROUTE
 
-| Manchester Airport to Glasgow Central | 1{{abbr|tp2h|train every 2 hours||  Manchester Piccadilly, Manchester Oxford Road, Preston, Lancaster, Oxenholme Lake District, Penrith North Lakes, Carlisle, Lockerbie, Motherwell
+1tp2h	Manchester Airport - Manchester Piccadilly - Manchester Oxford Road - Bolton - Preston - Lancaster - Oxenholme Lake District - Penrith North Lakes - Carlisle - Lockerbie - Haymarket - Edinburgh
 
-| Manchester Airport to Edinburgh Waverley | 1{{abbr|tp2h|train every 2 hours||  Manchester Piccadilly, Manchester Oxford Road, Preston, Lancaster, Oxenholme Lake District, Penrith North Lakes, Carlisle, Lockerbie, Haymarket
-|-
-| Liverpool Lime Street to Glasgow Central ||  St Helens Central, Wigan North Western, Preston, Lancaster Oxenholme Lake District, Carlisle, Lockerbie, Motherwell || 2tpd
-|}
+1tp2h	Manchester Airport - Manchester Piccadilly - Manchester Oxford Road - Bolton - Preston - Lancaster - Oxenholme Lake District - Penrith North Lakes - Carlisle - Lockerbie - Motherwell - Glasgow
+
+1tp4h	Liverpool Lime Street - St Helens Central - Wigan North Western - Preston - Lancaster - Oxenholme Lake District - Penrith North Lakes - Carlisle - Lockerbie - Motherwell - Glasgow
