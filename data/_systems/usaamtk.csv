@@ -99,21 +99,21 @@ usaamtk;IL;EB;;Sea;Empire Builder (Seattle);il.ebsea;
 usaamtk;NY;ES;;;Empire Service;ny.es;
 usaamtk;NY;EA;;;Ethan Allen Express;ny.ea;
 usaamtk;VT;EA;;;Ethan Allen Express;vt.ea;
-usaamtk;IL;FL;;;Floridian;il.fl;il.cl
-usaamtk;IN;FL;;;Floridian;in.fl;in.cl
-usaamtk;OH;FL;;;Floridian;oh.fl;oh.cl
-usaamtk;PA;FL;;;Floridian;pa.fl;pa.cl
-usaamtk;MD;FL;;Cum;Floridian (Cumberland);md.flcum;md.clcum
-usaamtk;WV;FL;;Paw;Floridian (Paw Paw);wv.flpaw;wv.clpaw
-usaamtk;MD;FL;;Paw;Floridian (Paw Paw);md.flpaw;md.clpaw
-usaamtk;WV;FL;;;Floridian (Martinsburg);wv.fl;wv.cl
-usaamtk;MD;FL;;;Floridian (Rockville);md.fl;md.cl
-usaamtk;DC;FL;;;Floridian;dc.fl;dc.cl,dc.ss
-usaamtk;VA;FL;;;Floridian;va.fl;va.ss
-usaamtk;NC;FL;;;Floridian;nc.fl;nc.ss
-usaamtk;SC;FL;;;Floridian;sc.fl;sc.ss
-usaamtk;GA;FL;;;Floridian;ga.fl;ga.ss
-usaamtk;FL;FL;;;Floridian;fl.fl;fl.ss
+usaamtk;IL;FL;;;Floridian;il.fl;CL
+usaamtk;IN;FL;;;Floridian;in.fl;CL
+usaamtk;OH;FL;;;Floridian;oh.fl;CL
+usaamtk;PA;FL;;;Floridian;pa.fl;CL
+usaamtk;MD;FL;;Cum;Floridian (Cumberland);md.flcum;md.CLCum
+usaamtk;WV;FL;;Paw;Floridian (Paw Paw);wv.flpaw;wv.CLPaw
+usaamtk;MD;FL;;Paw;Floridian (Paw Paw);md.flpaw;md.CLPaw
+usaamtk;WV;FL;;;Floridian (Martinsburg);wv.fl;wv.CL
+usaamtk;MD;FL;;;Floridian (Rockville);md.fl;md.CL
+usaamtk;DC;FL;;;Floridian;dc.fl;dc.CL,dc.SS
+usaamtk;VA;FL;;;Floridian;va.fl;va.SS
+usaamtk;NC;FL;;;Floridian;nc.fl;nc.SS
+usaamtk;SC;FL;;;Floridian;sc.fl;sc.SS
+usaamtk;GA;FL;;;Floridian;ga.fl;ga.SS
+usaamtk;FL;FL;;;Floridian;fl.fl;fl.SS
 usaamtk;TX;HF;;;Heartland Flyer;tx.hf;
 usaamtk;OK;HF;;;Heartland Flyer;ok.hf;
 usaamtk;IL;HI;;;Hiawatha;il.hi;
