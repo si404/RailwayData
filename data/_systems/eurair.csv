@@ -1,0 +1,13 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+eurair;ENG;BARL;;;BHX Birmingham Air-Rail Link;eng.barl;
+eurair;ITA-EMI;MEX;;;BQL Bologna Marconi Express;itaemi.mex;
+eurair;FRA-IDF;CDGVAL;;;CDG Paris CDG Véhicule Automatique Léger;fraidf.cdgval;
+eurair;DEU-NW;SkyTrn;;;DUS SkyTrain Düsseldorf;deunw.skytrn;
+eurair;DEU-HE;SquMet;;;FRA Squaire Metro Frankfurt;deuhe.squmet;
+eurair;ENG;GAST;;;LGA London Gatwick Airport Shuttle Transit;eng.gast;
+eurair;ENG;HPRT;;5A;LHR London Heathrow PRT (Terminal 5 - Parking A);eng.hprt5a;
+eurair;ENG;HPRT;;5B;LHR London Heathrow PRT (Terminal 5 - Parking B);eng.hprt5b;
+eurair;ENG;HPRT;;AB;LHR London Heathrow PRT (Parking A - Parking B);eng.hprtab;
+eurair;ENG;DART;;;LUT London Luton Direct Air-Rail Transit;eng.dart;
+eurair;FRA-IDF;OrlyVAL;;;ORY Paris Orly Véhicule Automatique Léger;fraidf.orlyval;
+eurair;ITA-TOS;PisaMov;;;PSA Pisa Mover;itatos.pisamov;

@@ -36,16 +36,6 @@ usaamtk;NE;CZ;;;California Zephyr;ne.cz;
 usaamtk;IA;CZ;;;California Zephyr;ia.cz;
 usaamtk;IL;CZ;;;California Zephyr;il.cz;
 usaamtk;CA;CC;;;Capitol Corridor;ca.cc;
-usaamtk;IL;CL;;;Capitol Limited;il.cl;
-usaamtk;IN;CL;;;Capitol Limited;in.cl;
-usaamtk;OH;CL;;;Capitol Limited;oh.cl;
-usaamtk;PA;CL;;;Capitol Limited;pa.cl;
-usaamtk;MD;CL;;Cum;Capitol Limited (Cumberland);md.clcum;
-usaamtk;WV;CL;;Paw;Capitol Limited (Paw Paw);wv.clpaw;
-usaamtk;MD;CL;;Paw;Capitol Limited (Paw Paw);md.clpaw;
-usaamtk;WV;CL;;;Capitol Limited (Martinsburg);wv.cl;
-usaamtk;MD;CL;;;Capitol Limited (Rockville);md.cl;
-usaamtk;DC;CL;;;Capitol Limited;dc.cl;
 usaamtk;IL;CA;;;Cardinal;il.ca;
 usaamtk;IN;CA;;;Cardinal;in.ca;
 usaamtk;OH;CA;;;Cardinal;oh.ca;
@@ -109,6 +99,21 @@ usaamtk;IL;EB;;Sea;Empire Builder (Seattle);il.ebsea;
 usaamtk;NY;ES;;;Empire Service;ny.es;
 usaamtk;NY;EA;;;Ethan Allen Express;ny.ea;
 usaamtk;VT;EA;;;Ethan Allen Express;vt.ea;
+usaamtk;IL;FL;;;Floridian;il.fl;CL
+usaamtk;IN;FL;;;Floridian;in.fl;CL
+usaamtk;OH;FL;;;Floridian;oh.fl;CL
+usaamtk;PA;FL;;;Floridian;pa.fl;CL
+usaamtk;MD;FL;;Cum;Floridian (Cumberland);md.flcum;CLCum
+usaamtk;WV;FL;;Paw;Floridian (Paw Paw);wv.flpaw;CLPaw
+usaamtk;MD;FL;;Paw;Floridian (Paw Paw);md.flpaw;CLPaw
+usaamtk;WV;FL;;;Floridian (Martinsburg);wv.fl;CL
+usaamtk;MD;FL;;;Floridian (Rockville);md.fl;CL
+usaamtk;DC;FL;;;Floridian;dc.fl;CL,SS
+usaamtk;VA;FL;;;Floridian;va.fl;SS
+usaamtk;NC;FL;;;Floridian;nc.fl;SS
+usaamtk;SC;FL;;;Floridian;sc.fl;SS
+usaamtk;GA;FL;;;Floridian;ga.fl;SS
+usaamtk;FL;FL;;;Floridian;fl.fl;SS
 usaamtk;TX;HF;;;Heartland Flyer;tx.hf;
 usaamtk;OK;HF;;;Heartland Flyer;ok.hf;
 usaamtk;IL;HI;;;Hiawatha;il.hi;
@@ -204,17 +209,6 @@ usaamtk;DE;SM;;;Silver Meteor;de.sm;
 usaamtk;PA;SM;;;Silver Meteor;pa.sm;
 usaamtk;NJ;SM;;;Silver Meteor;nj.sm;
 usaamtk;NY;SM;;;Silver Meteor;ny.sm;
-usaamtk;FL;SS;;;Silver Star;fl.ss;
-usaamtk;GA;SS;;;Silver Star;ga.ss;
-usaamtk;SC;SS;;;Silver Star;sc.ss;
-usaamtk;NC;SS;;;Silver Star;nc.ss;
-usaamtk;VA;SS;;;Silver Star;va.ss;
-usaamtk;DC;SS;;;Silver Star;dc.ss;
-usaamtk;MD;SS;;;Silver Star;md.ss;
-usaamtk;DE;SS;;;Silver Star;de.ss;
-usaamtk;PA;SS;;;Silver Star;pa.ss;
-usaamtk;NJ;SS;;;Silver Star;nj.ss;
-usaamtk;NY;SS;;;Silver Star;ny.ss;
 usaamtk;CA;SW;;;Southwest Chief;ca.sw;
 usaamtk;AZ;SW;;;Southwest Chief;az.sw;
 usaamtk;NM;SW;;;Southwest Chief;nm.sw;
