@@ -18,7 +18,7 @@ LonEus http://www.openstreetmap.org/?lat=51.528784&lon=-0.134239
 +SKIP_Bus http://www.openstreetmap.org/?lat=51.645301&lon=-0.384929
 +X198270 http://www.openstreetmap.org/?lat=51.652770&lon=-0.384350
 +DIV_LioN http://www.openstreetmap.org/?lat=51.661502&lon=-0.393147
-+SKIP_WatJct http://www.openstreetmap.org/?lat=51.663725&lon=-0.395851
+WatJct http://www.openstreetmap.org/?lat=51.663725&lon=-0.395851
 +X115762 http://www.openstreetmap.org/?lat=51.693795&lon=-0.433273
 +SKIP_KinLan http://www.openstreetmap.org/?lat=51.706389&lon=-0.437844
 +SKIP_Aps http://www.openstreetmap.org/?lat=51.732371&lon=-0.463057
@@ -32,16 +32,16 @@ LonEus http://www.openstreetmap.org/?lat=51.528784&lon=-0.134239
 +X932008 http://www.openstreetmap.org/?lat=51.934568&lon=-0.683126
 +X802565 http://www.openstreetmap.org/?lat=51.952187&lon=-0.720034
 +SKIP_Ble http://www.openstreetmap.org/?lat=51.995464&lon=-0.736427
-+DIV_Var http://www.openstreetmap.org/?lat=52.008747&lon=-0.742886
-+SKIP_MilKeyCen http://www.openstreetmap.org/?lat=52.033763&lon=-0.774236
++DIV_EW http://www.openstreetmap.org/?lat=52.008747&lon=-0.742886
+MilKeyCen http://www.openstreetmap.org/?lat=52.033763&lon=-0.774236
 +SKIP_Wol http://www.openstreetmap.org/?lat=52.065723&lon=-0.804577
 +X298268 http://www.openstreetmap.org/?lat=52.100258&lon=-0.847492
 +DIV_NorS http://www.openstreetmap.org/?lat=52.170155&lon=-0.908904
 +X737199 http://www.openstreetmap.org/?lat=52.226301&lon=-1.073313
 +X353002 http://www.openstreetmap.org/?lat=52.285750&lon=-1.103182
 +DIV_NorN http://www.openstreetmap.org/?lat=52.360074&lon=-1.205664
-+SKIP_Rug http://www.openstreetmap.org/?lat=52.379018&lon=-1.249738
-+DIV_TVL http://www.openstreetmap.org/?lat=52.380537&lon=-1.272655
+Rug http://www.openstreetmap.org/?lat=52.379018&lon=-1.249738
++DIV_TVLS http://www.openstreetmap.org/?lat=52.380537&lon=-1.272655
 +X113521 http://www.openstreetmap.org/?lat=52.382319&lon=-1.426034
 +DIV_NucS http://www.openstreetmap.org/?lat=52.400416&lon=-1.510749
 Cov http://www.openstreetmap.org/?lat=52.400861&lon=-1.513538
@@ -65,6 +65,6 @@ BirNewSt http://www.openstreetmap.org/?lat=52.477651&lon=-1.898704
 SanDud http://www.openstreetmap.org/?lat=52.508581&lon=-2.011743
 +SKIP_DudPort http://www.openstreetmap.org/?lat=52.524460&lon=-2.049294
 +SKIP_Tip http://www.openstreetmap.org/?lat=52.530569&lon=-2.065773
-+SKIP_Cose http://www.openstreetmap.org/?lat=52.545239&lon=-2.085814
++SKIP_Cos http://www.openstreetmap.org/?lat=52.545239&lon=-2.085814
 +DIV_Sal http://www.openstreetmap.org/?lat=52.586742&lon=-2.115211
 Wol http://www.openstreetmap.org/?lat=52.587811&lon=-2.120104
