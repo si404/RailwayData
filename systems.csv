@@ -110,6 +110,7 @@ chebss;CHE;Trinationale S-Bahn Basel / RER trinational de Bâle;TMgreen;2;previe
 chechs;CHE;S-Bahn Chur;TMgreen;2;preview
 chefrrer;CHE;Réseau express régional fribourgeois / S-Bahn Freiburg;TMgreen;2;preview
 chelx;CHE;Léman Express;TMgreen;2;preview
+chener;CHE;Neuchâtel Regio;TMgreen;2;preview
 chesgs;CHE;S-Bahn St. Gallen;TMgreen;2;preview
 cheshs;CHE;S-Bahn Schaffhausen;TMgreen;2;preview
 chesob;CHE;Südostbahn;TMgreen;2;preview
@@ -264,10 +265,12 @@ esptv;ESP;Metrovalencia (Tramvia);TMred;4;preview
 esptz;ESP;Tranvía de Zaragoza;TMred;4;preview
 eures;EUR;Eurostar;TMpurple;1;preview
 euret;EUR;LeShuttle (Eurotunnel);TMpurple;1;preview
-eurapm;EUR;Europe Airport People Movers (landside);TMyellow;5;preview
+euraair;EUR;Europe Airport People Movers (airside);TMyellow;5;preview
+eurair;EUR;Europe Airport People Movers (landside);TMyellow;5;preview
 eurf;EUR;Europe Funiculars;TMyellow;5;preview
 eurhr;EUR;Europe Heritage & Tourist Railways;TMbrown;5;preview
 fratgv;FRA;TGV InOui;TMpurple;1;preview
+fratgvl;FRA;TGV Lyria;TMpurple;1;preview
 fracp;FRA;Chemins de fer de Provence;TMgreen;2;preview
 frahdfterk;FRA;TER Hauts-de-France (Krono);TMgreen;2;preview
 frahdfterc;FRA;TER Hauts-de-France (Citi);TMgreen;2;preview
@@ -685,6 +688,7 @@ usamax;USA;MAX Light Rail;TMred;4;preview
 usastlr;USA;Sound Transit Light Rail;TMred;4;preview
 usaebart;USA;East Contra Costa County BART Extension;TMred;4;preview
 usaair;USA;United States Landside Airport Rail Systems;TMyellow;5;preview
+usaaair;USA;United States Airside Airport Rail Systems;TMyellow;5;preview
 usahart;USA;TECO Line Streetcar Tampa;TMyellow;5;preview
 usahunhts;USA;Huntsville Hospital Tram System;TMyellow;5;preview
 usair;USA;United States Incline Railways;TMyellow;5;preview

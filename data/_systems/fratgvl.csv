@@ -1,0 +1,12 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+fratgvl;FRA-IDF;ParGen;;;Paris - Geneva;fraidf.pargen;
+fratgvl;FRA-BFC;ParGen;;;Paris - Geneva;frabfc.pargen;
+fratgvl;FRA-ARA;ParGen;;;Paris - Geneva;fraara.pargen;
+fratgvl;CHE;ParGen;;;Paris - Geneva;che.pargen;
+fratgvl;FRA-IDF;ParLau;;;Paris - Lausanne;fraidf.parlau;
+fratgvl;FRA-BFC;ParLau;;;Paris - Lausanne;frabfc.parlau;
+fratgvl;CHE;ParLau;;;Paris - Lausanne;che.parlau;
+fratgvl;FRA-IDF;ParZur;;;Paris - Zurich;fraidf.parzur;
+fratgvl;FRA-BFC;ParZur;;;Paris - Zurich;frabfc.parzur;
+fratgvl;FRA-GES;ParZur;;;Paris - Zurich;frages.parzur;
+fratgvl;CHE;ParZur;;;Paris - Zurich;che.parzur;

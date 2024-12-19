@@ -1,10 +1,10 @@
 LonEus http://www.openstreetmap.org/?lat=51.528784&lon=-0.134239
-+X461847 http://www.openstreetmap.org/?lat=51.542025&lon=-0.152307
-+SKIP_SouHam http://www.openstreetmap.org/?lat=51.541331&lon=-0.178828
-+SKIP_KilHighRd http://www.openstreetmap.org/?lat=51.537514&lon=-0.191531
-+SKIP_QuePark http://www.openstreetmap.org/?lat=51.533696&lon=-0.205779
-+SKIP_KenGre http://www.openstreetmap.org/?lat=51.530626&lon=-0.224447
-+DIV_Bak http://www.openstreetmap.org/?lat=51.530146&lon=-0.234962
++DIV_LioS http://www.openstreetmap.org/?lat=51.543052&lon=-0.157628
++X807261 http://www.openstreetmap.org/?lat=51.541187&lon=-0.178742
++X410220 http://www.openstreetmap.org/?lat=51.534884&lon=-0.199771
++SKIP_QuePark http://www.openstreetmap.org/?lat=51.533873&lon=-0.205505
++X391654 http://www.openstreetmap.org/?lat=51.530409&lon=-0.224340
++X746175 http://www.openstreetmap.org/?lat=51.530156&lon=-0.235155
 +DIV_WLL http://www.openstreetmap.org/?lat=51.532789&lon=-0.249081
 +X378870 http://www.openstreetmap.org/?lat=51.544000&lon=-0.282941
 +SKIP_WemCen http://www.openstreetmap.org/?lat=51.552219&lon=-0.296588
@@ -17,7 +17,7 @@ LonEus http://www.openstreetmap.org/?lat=51.528784&lon=-0.134239
 +SKIP_CarPark http://www.openstreetmap.org/?lat=51.627935&lon=-0.385466
 +SKIP_Bus http://www.openstreetmap.org/?lat=51.645301&lon=-0.384929
 +X198270 http://www.openstreetmap.org/?lat=51.652770&lon=-0.384350
-+DIV_Lio http://www.openstreetmap.org/?lat=51.661502&lon=-0.393147
++DIV_LioN http://www.openstreetmap.org/?lat=51.661502&lon=-0.393147
 WatJct http://www.openstreetmap.org/?lat=51.663725&lon=-0.395851
 +X115762 http://www.openstreetmap.org/?lat=51.693795&lon=-0.433273
 +SKIP_KinLan http://www.openstreetmap.org/?lat=51.706389&lon=-0.437844
@@ -46,7 +46,7 @@ WatJct http://www.openstreetmap.org/?lat=51.663725&lon=-0.395851
 +X955320 http://www.openstreetmap.org/?lat=52.472377&lon=-1.435261
 +DIV_Lei http://www.openstreetmap.org/?lat=52.522795&lon=-1.458478
 +DIV_Bed http://www.openstreetmap.org/?lat=52.524225&lon=-1.460409
-NUN http://www.openstreetmap.org/?lat=52.526692&lon=-1.463928
++SKIP_Nun http://www.openstreetmap.org/?lat=52.526692&lon=-1.463928
 +DIV_Bir http://www.openstreetmap.org/?lat=52.530282&lon=-1.470108
 +SKIP_Ath http://www.openstreetmap.org/?lat=52.578462&lon=-1.552420
 +X884373 http://www.openstreetmap.org/?lat=52.595149&lon=-1.581516

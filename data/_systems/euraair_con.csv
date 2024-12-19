@@ -1,0 +1,8 @@
+systemName;route;banner;groupName;roots
+euraair;LISA;;CDG Paris CdG Liaison Interne Satellite Aérogare;fraidf.lisa
+euraair;SkyLn;;FRA SkyLine Frankfurt;deuhe.skyln
+euraair;SkyBri;;FCO Rome Fiumicino SkyBridge;italaz.skybri
+euraair;HT5Tra;;LHR London Heathrow Terminal 5 Transit;eng.ht5tra
+euraair;APM;;MAD Madrid-Barajas Airport People Mover;espmd.apm
+euraair;APM;;MUC Munich Airport People Mover;deuby.apm
+euraair;SkyMet;;ZRH Zurich Airport Skymetro;che.skymet

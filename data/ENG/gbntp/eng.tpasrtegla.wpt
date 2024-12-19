@@ -14,13 +14,13 @@ ManOxfRd http://www.openstreetmap.org/?lat=53.473789&lon=-2.242284
 +DIV_Cal http://www.openstreetmap.org/?lat=53.478329&lon=-2.260222
 +DIV_CalCML http://www.openstreetmap.org/?lat=53.478590&lon=-2.267175
 +DIV_AthCVLRVL http://www.openstreetmap.org/?lat=53.483928&lon=-2.275007
-SalCre http://www.openstreetmap.org/?lat=53.486450&lon=-2.275715
++SKIP_SalCre http://www.openstreetmap.org/?lat=53.486450&lon=-2.275715
 +DIV_AthCVL http://www.openstreetmap.org/?lat=53.488253&lon=-2.276219
 +SKIP_Cli http://www.openstreetmap.org/?lat=53.522279&lon=-2.313995
 +SKIP_Kea http://www.openstreetmap.org/?lat=53.544381&lon=-2.375171
 +SKIP_Far http://www.openstreetmap.org/?lat=53.550373&lon=-2.388346
 +SKIP_MosGate http://www.openstreetmap.org/?lat=53.556263&lon=-2.401564
-+SKIP_Bol http://www.openstreetmap.org/?lat=53.573521&lon=-2.425092
+Bol http://www.openstreetmap.org/?lat=53.573521&lon=-2.425092
 +DIV_Dar http://www.openstreetmap.org/?lat=53.574865&lon=-2.426498
 +DIV_Wig http://www.openstreetmap.org/?lat=53.573719&lon=-2.492148
 +SKIP_Los http://www.openstreetmap.org/?lat=53.572789&lon=-2.494755

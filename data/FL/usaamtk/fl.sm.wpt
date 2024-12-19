@@ -9,7 +9,7 @@ Hol http://www.openstreetmap.org/?lat=26.012882&lon=-80.167623
 FortLau http://www.openstreetmap.org/?lat=26.120013&lon=-80.169725
 +SKIP_CypCrk http://www.openstreetmap.org/?lat=26.201096&lon=-80.150328
 +SKIP_PomBea http://www.openstreetmap.org/?lat=26.272271&lon=-80.134792
-+SKIP_DeeBea http://www.openstreetmap.org/?lat=26.317056&lon=-80.122347
+DeeBea http://www.openstreetmap.org/?lat=26.317056&lon=-80.122347
 +X269645 http://www.openstreetmap.org/?lat=26.371859&lon=-80.120201
 +SKIP_BocaRat http://www.openstreetmap.org/?lat=26.392427&lon=-80.099258
 +X282878 http://www.openstreetmap.org/?lat=26.402229&lon=-80.090804

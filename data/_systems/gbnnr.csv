@@ -1,4 +1,5 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
+gbnnr;ENG;NhbLn;;;Northumberland Line;eng.nhbln;
 gbnnr;ENG;TyneVlyLn;;;Tyne Valley Line;eng.tynevlyln;
 gbnnr;ENG;DurCoaLn;;;Durham Coast Line;eng.durcoaln;
 gbnnr;ENG;EskVlyLn;;;Esk Valley Line;eng.eskvlyln;
@@ -20,7 +21,8 @@ gbnnr;ENG;AdlLn;;Lee;Airedale Line (Leeds);eng.adllnlee;
 gbnnr;ENG;DeaVlyLn;;;Dearne Valley Line;eng.deavlyln;
 gbnnr;ENG;HalLn;;;Hallam Line;eng.halln;
 gbnnr;ENG;HarLn;;;Harrogate Line;eng.harln;
-gbnnr;ENG;HudLn;;;Huddersfield Line;eng.hudln;
+gbnnr;ENG;HudLn;;;Huddersfield Line (Bradford);eng.hudln;
+gbnnr;ENG;HudLn;;Lee;Huddersfield Line (Leeds);eng.hudlnlee;
 gbnnr;ENG;LeeBraLn;;;Leeds - Bradford Line;eng.leebraln;
 gbnnr;ENG;PenLn;;;Penistone Line;eng.penln;
 gbnnr;ENG;PonLn;;Cas;Pontefract Line (Castleford);eng.ponlncas;

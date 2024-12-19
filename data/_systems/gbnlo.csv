@@ -1,13 +1,13 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-gbnlo;ENG;LibLn;;;Liberty Line;eng.libln;RomUpmShu
-gbnlo;ENG;LioLn;;;Lioness Line;eng.lioln;WatDC
-gbnlo;ENG;MilLn;;;Mildmay Line (Clapham Junction);eng.milln;NLL
-gbnlo;ENG;MilLn;;Ric;Mildmay Line (Richmond);eng.millnric;NLLRic
-gbnlo;ENG;SufLn;;;Suffragette Line;eng.sufln;Goblin
-gbnlo;ENG;WinLn;;Cla;East London Line (Clapham Junction);eng.winlncla;ELLCla
-gbnlo;ENG;WinLn;;Cry;East London Line (Crystal Palace);eng.winlncry;ELLCry
-gbnlo;ENG;WinLn;;New;East London Line (New Cross);eng.winlnnew;ELLNew
+gbnlo;ENG;LibLn;;;Liberty Line;eng.libln;
+gbnlo;ENG;LioLn;;;Lioness Line;eng.lioln;
+gbnlo;ENG;MilLn;;;Mildmay Line (Clapham Junction);eng.milln;
+gbnlo;ENG;MilLn;;Ric;Mildmay Line (Richmond);eng.millnric;
+gbnlo;ENG;SufLn;;;Suffragette Line;eng.sufln;
+gbnlo;ENG;WinLn;;Cla;East London Line (Clapham Junction);eng.winlncla;
+gbnlo;ENG;WinLn;;Cry;East London Line (Crystal Palace);eng.winlncry;
+gbnlo;ENG;WinLn;;New;East London Line (New Cross);eng.winlnnew;
 gbnlo;ENG;WinLn;;Cro;East London Line (West Croydon);eng.winlncro;ELL
-gbnlo;ENG;WeaLn;;;Lea Valley Line (Cheshunt);eng.wealn;LVL
-gbnlo;ENG;WeaLn;;Chi;Lea Valley Line (Chingford);eng.wealnchi;LVLChi
-gbnlo;ENG;WeaLn;;Enf;Lea Valley Line (Enfield);eng.wealnenf;LVLEnf
+gbnlo;ENG;WeaLn;;;Lea Valley Line (Cheshunt);eng.wealn;
+gbnlo;ENG;WeaLn;;Chi;Lea Valley Line (Chingford);eng.wealnchi;
+gbnlo;ENG;WeaLn;;Enf;Lea Valley Line (Enfield);eng.wealnenf;

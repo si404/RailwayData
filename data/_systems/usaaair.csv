@@ -1,0 +1,27 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+usaaair;GA;PlaTrn;;;ATL Plane Train;ga.platrn;
+usaaair;KY;CVGTram;;;CVG Tram;ky.cvgtram;
+usaaair;CO;DENTrn;;;DEN Train;co.dentrn;
+usaaair;TX;Sky;;;DFW Skylink;tx.sky;
+usaaair;MI;ExpTram;;;DTW ExpressTram;mi.exptram;
+usaaair;VA;AerTrn;;;IAD AeroTrain;va.aertrn;
+usaaair;FL;SkyTrn;;;MIA SkyTrain;fl.skytrn;
+usaaair;FL;ETrn;;;MIA E Train;fl.etrn;
+usaaair;TX;IAHSky;;;IAH Skyway;tx.iahsky;
+usaaair;MN;MSPTram;;;MSP Tram;mn.msptram;
+usaaair;FL;TPAShu;;;TPA Shuttle (Airside A);fl.tpashu;
+usaaair;FL;TPAShu;;AiC;TPA Shuttle (Airside C);fl.tpashuaic;
+usaaair;FL;TPAShu;;AiE;TPA Shuttle (Airside E);fl.tpashuaie;
+usaaair;FL;TPAShu;;AiF;TPA Shuttle (Airside F);fl.tpashuaif;
+usaaair;FL;GateLink;;;MCO Gate Link (Terminal A East);fl.gatelink;
+usaaair;FL;GateLink;;TAW;MCO Gate Link (Terminal A West);fl.gatelinktaw;
+usaaair;FL;GateLink;;TBE;MCO Gate Link (Terminal B East);fl.gatelinktbe;
+usaaair;FL;GateLink;;TBW;MCO Gate Link (Terminal B West);fl.gatelinktbw;
+usaaair;PA;PITTrn;;;PIT Train;pa.pittrn;
+usaaair;WA;GreLn;;;SEA Green Line;wa.grnln;
+usaaair;WA;YelLn;;;SEA Yellow Line;wa.yelln;
+usaaair;WA;BlueLn;;;SEA Blue Line;wa.blueln;
+usaaair;CA;AutPeoMov;;;SMF Automated People Mover;ca.autpeomov;
+usaaair;NV;GreLn;;;LAS Green Line;nv.grnln;
+usaaair;NV;BlueLn;;;LAS Blue Line;nv.blueln;
+usaaair;NV;RedLn;;;LAS Red Line;nv.redln;
