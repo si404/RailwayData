@@ -2,7 +2,7 @@ Kor http://www.openstreetmap.org/?lat=50.824224&lon=3.264527
 +DIV_IC13 http://www.openstreetmap.org/?lat=50.836157&lon=3.292122
 Har http://www.openstreetmap.org/?lat=50.856168&lon=3.314567
 War http://www.openstreetmap.org/?lat=50.891702&lon=3.424344
-+DIV_IC29 http://www.openstreetmap.org/?lat=50.975494&lon=3.527620
++DIV_IC29W http://www.openstreetmap.org/?lat=50.975494&lon=3.527620
 Dei http://www.openstreetmap.org/?lat=50.978149&lon=3.535001
 Pin http://www.openstreetmap.org/?lat=50.996566&lon=3.649521
 +DIV_L2 http://www.openstreetmap.org/?lat=51.038938&lon=3.695526
@@ -28,7 +28,7 @@ BruNord http://www.openstreetmap.org/?lat=50.860174&lon=4.361250
 +X639578 http://www.openstreetmap.org/?lat=50.875792&lon=4.373953
 +SKIP_Sch http://www.openstreetmap.org/?lat=50.878351&lon=4.378846
 +DIV_IC6 http://www.openstreetmap.org/?lat=50.881519&lon=4.386828
-+DIV_IC29 http://www.openstreetmap.org/?lat=50.884538&lon=4.396484
++DIV_IC29E http://www.openstreetmap.org/?lat=50.884538&lon=4.396484
 +DIV_S2 http://www.openstreetmap.org/?lat=50.888230&lon=4.410292
 +SKIP_HarSud http://www.openstreetmap.org/?lat=50.889702&lon=4.415689
 +DIV_S9S19 http://www.openstreetmap.org/?lat=50.891435&lon=4.423285

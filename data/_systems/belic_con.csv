@@ -5,12 +5,12 @@ belic;IC3;;;bel.ic03
 belic;IC4;;Poperinge portion;bel.ic04
 belic;IC4;;Lille portion;bel.ic04lil,frahdf.ic04
 belic;IC5;;;bel.ic05
-belic;IC6;;;bel.ic06
-belic;IC6A;;;bel.ic06a
+belic;IC6;;;bel.ic06,bel.ic06mon
 belic;IC7;;;bel.ic07
 belic;IC8;;;bel.ic08
 belic;IC9;;;bel.ic09
-belic;IC10;;;bel.ic10
+belic;IC10;;Hamont portion;bel.ic10
+belic;IC10;;Hasselt portion;bel.ic10has
 belic;IC11;;;bel.ic11
 belic;IC12;;;bel.ic12
 belic;IC13;;;bel.ic13
@@ -22,9 +22,8 @@ belic;IC18;;;bel.ic18
 belic;IC19;;;bel.ic19
 belic;IC20;;;bel.ic20
 belic;IC21;;;bel.ic21
-belic;IC22;;;bel.ic22
-belic;IC23;;;bel.ic23
-belic;IC23A;;;bel.ic23a
+belic;IC23;;;bel.ic23,bel.ic23gen
+belic;IC24;;;bel.ic24
 belic;IC25;;;bel.ic25
 belic;IC26;;;bel.ic26
 belic;IC28;;;bel.ic28
