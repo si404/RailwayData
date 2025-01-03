@@ -1,5 +1,6 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
 belrsc;BEL;S61;;;Charleroi;bel.s61;
 belrsc;BEL;S62;;;Charleroi;bel.s62;
+belrsc;FRA-HDF;S63;;;Charleroi;frahdf.s63;
 belrsc;BEL;S63;;;Charleroi;bel.s63;
 belrsc;BEL;S64;;;Charleroi;bel.s64;
