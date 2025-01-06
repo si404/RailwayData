@@ -8,7 +8,7 @@ Ton http://www.openstreetmap.org/?lat=51.619815&lon=-3.449106
 DinRho http://www.openstreetmap.org/?lat=51.617310&lon=-3.436875
 Por http://www.openstreetmap.org/?lat=51.612454&lon=-3.407671
 Tred http://www.openstreetmap.org/?lat=51.610022&lon=-3.380420
-+DIV_Mer http://www.openstreetmap.org/?lat=51.600593&lon=-3.343320
++DIV_NRS http://www.openstreetmap.org/?lat=51.600593&lon=-3.343320
 Pon http://www.openstreetmap.org/?lat=51.599257&lon=-3.341829
 Tref http://www.openstreetmap.org/?lat=51.591909&lon=-3.324995
 TreEst http://www.openstreetmap.org/?lat=51.568121&lon=-3.290234
@@ -16,8 +16,8 @@ TafWell http://www.openstreetmap.org/?lat=51.540770&lon=-3.263412
 Rad http://www.openstreetmap.org/?lat=51.516681&lon=-3.249335
 Lla http://www.openstreetmap.org/?lat=51.508442&lon=-3.228736
 Cat http://www.openstreetmap.org/?lat=51.489019&lon=-3.179169
-+DIV_Rhy http://www.openstreetmap.org/?lat=51.483718&lon=-3.170875
++DIV_GOY http://www.openstreetmap.org/?lat=51.483718&lon=-3.170875
 CarQueSt http://www.openstreetmap.org/?lat=51.481958&lon=-3.170328
-+DIV_Bay http://www.openstreetmap.org/?lat=51.477604&lon=-3.171272
-+DIV_SW http://www.openstreetmap.org/?lat=51.476645&lon=-3.173311
-CarCen http://www.openstreetmap.org/?lat=51.475630&lon=-3.179255
++DIV_BNS http://www.openstreetmap.org/?lat=51.477604&lon=-3.171272
++X595669 http://www.openstreetmap.org/?lat=51.476809&lon=-3.172560
+CarCen http://www.openstreetmap.org/?lat=51.475580&lon=-3.179705
