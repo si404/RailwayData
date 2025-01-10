@@ -19,7 +19,6 @@ NewWil http://www.openstreetmap.org/?lat=53.453139&lon=-2.613072
 +DIV_TPASRS http://www.openstreetmap.org/?lat=53.478329&lon=-2.260222
 +SKIP_SalCen http://www.openstreetmap.org/?lat=53.482740&lon=-2.255512
 ManVic http://www.openstreetmap.org/?lat=53.488052&lon=-2.242563
-+DIV_Tram http://www.openstreetmap.org/?lat=53.490988&lon=-2.231791
 +DIV_AthCalCVL http://www.openstreetmap.org/?lat=53.496554&lon=-2.212458
 +SKIP_AshLyne http://www.openstreetmap.org/?lat=53.491186&lon=-2.093840
 +DIV_PicHul http://www.openstreetmap.org/?lat=53.483947&lon=-2.071009
@@ -36,8 +35,7 @@ Sta http://www.openstreetmap.org/?lat=53.484142&lon=-2.064228
 +DIV_Pen http://www.openstreetmap.org/?lat=53.643617&lon=-1.793668
 Hud http://www.openstreetmap.org/?lat=53.648498&lon=-1.784785
 +SKIP_Dei http://www.openstreetmap.org/?lat=53.668284&lon=-1.752470
-+DIV_Hud http://www.openstreetmap.org/?lat=53.676203&lon=-1.740732
-+DIV_Ath http://www.openstreetmap.org/?lat=53.680868&lon=-1.720970
++DIV_Ath http://www.openstreetmap.org/?lat=53.682958&lon=-1.734552
 +SKIP_Mir http://www.openstreetmap.org/?lat=53.671462&lon=-1.693332
 +DIV_Pic http://www.openstreetmap.org/?lat=53.675056&lon=-1.657197
 +SKIP_Rav http://www.openstreetmap.org/?lat=53.675549&lon=-1.655889

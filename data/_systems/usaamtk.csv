@@ -108,11 +108,11 @@ usaamtk;WV;FL;;Paw;Floridian (Paw Paw);wv.flpaw;CLPaw
 usaamtk;MD;FL;;Paw;Floridian (Paw Paw);md.flpaw;CLPaw
 usaamtk;WV;FL;;;Floridian (Martinsburg);wv.fl;CL
 usaamtk;MD;FL;;;Floridian (Rockville);md.fl;CL
-usaamtk;DC;FL;;;Floridian;dc.fl;CL,SS
-usaamtk;VA;FL;;;Floridian;va.fl;SS
+usaamtk;DC;FL;;;Floridian;dc.fl;CL
+usaamtk;VA;FL;;;Floridian;va.fl;
 usaamtk;NC;FL;;;Floridian;nc.fl;SS
-usaamtk;SC;FL;;;Floridian;sc.fl;SS
-usaamtk;GA;FL;;;Floridian;ga.fl;SS
+usaamtk;SC;FL;;;Floridian;sc.fl;
+usaamtk;GA;FL;;;Floridian;ga.fl;
 usaamtk;FL;FL;;;Floridian;fl.fl;SS
 usaamtk;TX;HF;;;Heartland Flyer;tx.hf;
 usaamtk;OK;HF;;;Heartland Flyer;ok.hf;

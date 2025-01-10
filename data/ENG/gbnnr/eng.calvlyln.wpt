@@ -22,14 +22,14 @@ SalCre http://www.openstreetmap.org/?lat=53.486450&lon=-2.275715
 +DIV_BlaFurS http://www.openstreetmap.org/?lat=53.483928&lon=-2.275007
 SalCen http://www.openstreetmap.org/?lat=53.482740&lon=-2.255512
 ManVic http://www.openstreetmap.org/?lat=53.488052&lon=-2.242563
-+DIV_TramW http://www.openstreetmap.org/?lat=53.490988&lon=-2.231791
 +DIV_Sta http://www.openstreetmap.org/?lat=53.496554&lon=-2.212458
 +X616711 http://www.openstreetmap.org/?lat=53.506107&lon=-2.186193
 +SKIP_Mos http://www.openstreetmap.org/?lat=53.523230&lon=-2.171044
 +SKIP_MilHill http://www.openstreetmap.org/?lat=53.550877&lon=-2.171559
 +SKIP_Cas http://www.openstreetmap.org/?lat=53.592683&lon=-2.177696
 Roc http://www.openstreetmap.org/?lat=53.610318&lon=-2.153406
-+DIV_TramE http://www.openstreetmap.org/?lat=53.614163&lon=-2.142420
++DIV_Tram http://www.openstreetmap.org/?lat=53.613322&lon=-2.145166
++X819748 http://www.openstreetmap.org/?lat=53.614133&lon=-2.142667
 SmiBri http://www.openstreetmap.org/?lat=53.632870&lon=-2.114010
 Lit http://www.openstreetmap.org/?lat=53.642768&lon=-2.094998
 +X841165 http://www.openstreetmap.org/?lat=53.657381&lon=-2.083025
