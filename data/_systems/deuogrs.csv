@@ -1,0 +1,8 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+deuogrs;DEU-BW;RS1;;Off;Offenburg;deubw.rs01off;
+deuogrs;DEU-BW;RS2;;Off;Offenburg;deubw.rs02off;
+deuogrs;DEU-BW;RS3;;Off;Achern;deubw.rs03off;
+deuogrs;DEU-BW;RS4;;Off;Offenburg;deubw.rs04off;
+deuogrs;FRA-GES;RS4;;Off;Strasbourg;frages.rs04off;
+deuogrs;DEU-BW;RS11;;Off;Housach;deubw.rs11off;
+deuogrs;DEU-BW;RS12;;Off;Harmersbach;deubw.rs12off;
