@@ -155,6 +155,7 @@ deubss;DEU;S-Bahn Bodensee;TMgreen;2;preview
 deufrs;DEU;Breisgau-S-Bahn;TMgreen;2;preview
 deuhbs;DEU;Regio-S-Bahn Bremen/Niedersachsen;TMgreen;2;preview
 deudds;DEU;S-Bahn Dresden;TMgreen;2;preview
+deuhha;DEU;AKN Eisenbahn;TMgreen;2;preview
 deuhhs;DEU;S-Bahn Hamburg;TMgreen;2;preview
 deuhs;DEU;S-Bahn Hannover;TMgreen;2;preview
 deukas;DEU;Stadtbahn Karlsruhe;TMgreen;2;preview
@@ -162,6 +163,7 @@ deuls;DEU;S-Bahn Mitteldeutschland;TMgreen;2;preview
 deumds;DEU;S-Bahn Mittelelbe;TMgreen;2;preview
 deums;DEU;S-Bahn München;TMgreen;2;preview
 deuns;DEU;S-Bahn Nürnberg;TMgreen;2;preview
+deuogrs;DEU;Regio S-Bahn Ortenau;TMgreen;2;preview
 deurms;DEU;S-Bahn Rhein-Main;TMgreen;2;preview
 deurns;DEU;S-Bahn Rhein-Neckar;TMgreen;2;preview
 deuros;DEU;S-Bahn Rostock;TMgreen;2;preview
@@ -278,6 +280,7 @@ frahdfterp;FRA;TER Hauts-de-France (Proxi);TMgreen;2;preview
 franaqterd;FRA;TER en Nouvelle-Aquitaine (Direct'R);TMgreen;2;preview
 franaqterf;FRA;TER en Nouvelle-Aquitaine (Facilit'R);TMgreen;2;preview
 franaqterl;FRA;TER en Nouvelle-Aquitaine (Liné'R);TMgreen;2;preview
+frareme;FRA;Réseau express métropolitain européen;TMgreen;2;preview
 frarer;FRA;Réseau Express Régional;TMgreen;2;preview
 fratra;FRA;Transillien;TMgreen;2;preview
 frattu;FRA;Toulouse Train urbain;TMgreen;2;preview
