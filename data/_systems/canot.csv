@@ -1,2 +1,4 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-canot;ON;ConLn;;;Confederation Line;on.conln;
+canot;ON;OT1;;;O-Train Line 1;on.ot1;
+canot;ON;OT2;;;O-Train Line 2;on.ot2;
+canot;ON;OT4;;;O-Train Line 4;on.ot4;
