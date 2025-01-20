@@ -8,7 +8,7 @@ Ins http://www.openstreetmap.org/?lat=46.999683&lon=7.099400
 +DIV_S52 http://www.openstreetmap.org/?lat=46.998863&lon=7.103391
 Sug http://www.openstreetmap.org/?lat=46.964183&lon=7.119548
 +DIV_S5 http://www.openstreetmap.org/?lat=46.941348&lon=7.138302
-MunLow http://www.openstreetmap.org/?lat=46.938092&lon=7.133228
++SKIP_MunLow http://www.openstreetmap.org/?lat=46.938092&lon=7.133228
 MutMor http://www.openstreetmap.org/?lat=46.925216&lon=7.115407
 MunCou http://www.openstreetmap.org/?lat=46.911241&lon=7.115364
 +X530294 http://www.openstreetmap.org/?lat=46.912209&lon=7.136221
