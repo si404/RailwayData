@@ -1,4 +1,6 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
+cher;CHE;R11;;Sim;Simmental;che.r11sim;
+cher;CHE;R12;;Sim;Simmental;che.r12sim;
 cher;CHE;R11;;Vau;Vaud;che.r11vau;
 cher;CHE;R12;;Vau;Vaud;che.r12vau;
 cher;CHE;R13;;Neu;Neuchâtel;che.r13neu;

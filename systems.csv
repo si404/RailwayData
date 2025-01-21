@@ -105,6 +105,7 @@ canrem;CAN;Montreal Réseau Express Métropolitain;TMred;4;preview
 canair;CAN;Canada Landside Airport Rail Systems;TMyellow;5;preview
 canedmsc;CAN;Edmonton Streetcars;TMyellow;5;preview
 cantsc;CAN;Toronto Streetcars;TMyellow;5;preview
+cheic;CHE;Inter City;TMpurple;1;preview
 cheags;CHE;S-Bahn Aargau;TMgreen;2;preview
 chebes;CHE;S-Bahn Bern / RER Berne;TMgreen;2;preview
 chebss;CHE;Trinationale S-Bahn Basel / RER trinational de Bâle;TMgreen;2;preview
