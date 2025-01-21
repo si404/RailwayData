@@ -4,7 +4,7 @@ Gru http://www.openstreetmap.org/?lat=47.008397&lon=7.724032
 Ram http://www.openstreetmap.org/?lat=46.996741&lon=7.710986
 +DIV_Sum http://www.openstreetmap.org/?lat=46.996888&lon=7.707510
 LutGol http://www.openstreetmap.org/?lat=47.004980&lon=7.682512
-+DIV_340N http://www.openstreetmap.org/?lat=47.015160&lon=7.657074
++DIV_S41 http://www.openstreetmap.org/?lat=47.015160&lon=7.657074
 HasRue http://www.openstreetmap.org/?lat=47.016045&lon=7.655400
 Obe http://www.openstreetmap.org/?lat=47.039795&lon=7.629426
 Ste http://www.openstreetmap.org/?lat=47.051521&lon=7.619147
@@ -41,5 +41,5 @@ Sef http://www.openstreetmap.org/?lat=46.786735&lon=7.540398
 Uet http://www.openstreetmap.org/?lat=46.775039&lon=7.572842
 UetAll http://www.openstreetmap.org/?lat=46.772981&lon=7.594943
 +DIV_S1S http://www.openstreetmap.org/?lat=46.771592&lon=7.600887
-+DIV_340S http://www.openstreetmap.org/?lat=46.760404&lon=7.620714
++DIV_S42 http://www.openstreetmap.org/?lat=46.760404&lon=7.620714
 Thun http://www.openstreetmap.org/?lat=46.754626&lon=7.629544

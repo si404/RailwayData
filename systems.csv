@@ -13,7 +13,7 @@ argsub;ARG;Subte (Buenos Aires);TMblue;3;preview
 argmetmen;ARG;Metrotranvía (Mendoza);TMred;4;preview
 argsubp;ARG;Subte (Premetro) (Buenos Aires);TMred;4;preview
 argtc;ARG;Tren de la Costa;TMred;4;preview
-asiaair;ASI;Asia Airport People Movers (airside);TMyellow;5;preview
+#asiaair;ASI;Asia Airport People Movers (airside);TMyellow;5;preview
 ausnswtl;AUS;New South Wales TrainLink;TMpurple;1;preview
 ausqrt;AUS;Queensland Rail Traveltrain;TMpurple;1;preview
 austwa;AUS;Transwa;TMpurple;1;preview
@@ -111,13 +111,14 @@ chebss;CHE;Trinationale S-Bahn Basel / RER trinational de Bâle;TMgreen;2;previe
 chechs;CHE;S-Bahn Chur;TMgreen;2;preview
 chefrrer;CHE;Réseau express régional fribourgeois / S-Bahn Freiburg;TMgreen;2;preview
 chelx;CHE;Léman Express;TMgreen;2;preview
-chener;CHE;Neuchâtel Regio;TMgreen;2;preview
+chener;CHE;Neuchâtel / Jura Regio;TMgreen;2;preview
 chesgs;CHE;S-Bahn St. Gallen;TMgreen;2;preview
 cheshs;CHE;S-Bahn Schaffhausen;TMgreen;2;preview
 chesob;CHE;Südostbahn;TMgreen;2;preview
 chesos;CHE;S-Bahn Solothurn;TMgreen;2;preview
 chetirc;CHE;Rete celere del Canton Ticino;TMgreen;2;preview
 chevdrer;CHE;Réseau express régional vaudois;TMgreen;2;preview
+#chevvr;CHE;Train régional Vaud et Valais;TMgreen;2;preview
 chezhs;CHE;S-Bahn Zürich;TMgreen;2;preview
 chezss;CHE;S-Bahn Zentralschweiz;TMgreen;2;preview
 chelm;CHE;Métro de Lausanne;TMblue;3;preview

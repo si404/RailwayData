@@ -1,6 +1,6 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-chebss;CHE;S1;;Bas;Basel;che.s01bas;
-chebss;CHE;S1;;Fri;Frick, Basel;che.s01fri;
+chebss;CHE;S1;;Bas;Basel (Laufenburg branch);che.s01bas;
+chebss;CHE;S1;;Fri;Basel (Frick branch);che.s01fri;
 chebss;CHE;S3;;Bas;Basel;che.s03bas;
 chebss;DEU-BW;S5;;Bas;Basel;deubw.s05bas;
 chebss;DEU-BW;S6;;Bas;Basel;deubw.s06bas;

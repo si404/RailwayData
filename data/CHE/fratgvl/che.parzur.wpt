@@ -21,8 +21,7 @@ BaselSBB http://www.openstreetmap.org/?lat=47.546966&lon=7.588978
 +SKIP_Gel http://www.openstreetmap.org/?lat=47.465998&lon=7.847414
 +X773942 http://www.openstreetmap.org/?lat=47.466172&lon=7.858701
 +SKIP_Tec http://www.openstreetmap.org/?lat=47.445598&lon=7.887433
-+DIV_S9 http://www.openstreetmap.org/?lat=47.364896&lon=7.918031
-+DIV_S23 http://www.openstreetmap.org/?lat=47.360150&lon=7.922559
++DIV_S9 http://www.openstreetmap.org/?lat=47.361720&lon=7.918954
 +SKIP_Dul http://www.openstreetmap.org/?lat=47.354016&lon=7.946634
 +X691266 http://www.openstreetmap.org/?lat=47.350236&lon=7.959337
 +SKIP_Dan http://www.openstreetmap.org/?lat=47.356400&lon=7.978520
@@ -36,9 +35,7 @@ BaselSBB http://www.openstreetmap.org/?lat=47.546966&lon=7.588978
 +DIV_S29 http://www.openstreetmap.org/?lat=47.404181&lon=8.132200
 +DIV_S28 http://www.openstreetmap.org/?lat=47.392721&lon=8.166125
 +SKIP_Len http://www.openstreetmap.org/?lat=47.391370&lon=8.170481
-+DIV_S26 http://www.openstreetmap.org/?lat=47.393331&lon=8.197796
-+X528207 http://www.openstreetmap.org/?lat=47.396512&lon=8.205028
-+DIV_S42 http://www.openstreetmap.org/?lat=47.401319&lon=8.207474
++DIV_S26 http://www.openstreetmap.org/?lat=47.393672&lon=8.202496
 +SKIP_Oth http://www.openstreetmap.org/?lat=47.407550&lon=8.214619
 +DIV_S25 http://www.openstreetmap.org/?lat=47.409394&lon=8.217559
 +SKIP_Mag http://www.openstreetmap.org/?lat=47.414593&lon=8.235004
