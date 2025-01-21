@@ -5,6 +5,6 @@ Ror http://www.openstreetmap.org/?lat=47.477790&lon=9.505255
 +SKIP_See http://www.openstreetmap.org/?lat=47.477522&lon=9.516521
 +SKIP_San http://www.openstreetmap.org/?lat=47.475375&lon=9.521799
 +SKIP_War http://www.openstreetmap.org/?lat=47.471662&lon=9.533901
-WieTob http://www.openstreetmap.org/?lat=47.466208&lon=9.540596
++SKIP_WieTob http://www.openstreetmap.org/?lat=47.466208&lon=9.540596
 +SKIP_SchHei http://www.openstreetmap.org/?lat=47.459361&lon=9.530683
 Hei http://www.openstreetmap.org/?lat=47.446041&lon=9.536605

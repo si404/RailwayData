@@ -7,9 +7,9 @@ HayHar http://www.openstreetmap.org/?lat=51.503026&lon=-0.420442
 +SKIP_Han http://www.openstreetmap.org/?lat=51.511761&lon=-0.338559
 WestEal http://www.openstreetmap.org/?lat=51.513497&lon=-0.320663
 EalBdwy http://www.openstreetmap.org/?lat=51.514865&lon=-0.301309
-+DIV_Cen http://www.openstreetmap.org/?lat=51.514986&lon=-0.287029
-+SKIP_ActMainLine http://www.openstreetmap.org/?lat=51.517102&lon=-0.267234
-+X165256 http://www.openstreetmap.org/?lat=51.525567&lon=-0.235262
++X964666 http://www.openstreetmap.org/?lat=51.514919&lon=-0.288434
++SKIP_ActMainLine http://www.openstreetmap.org/?lat=51.516958&lon=-0.267963
++SKIP_OldOakCom http://www.openstreetmap.org/?lat=51.524452&lon=-0.246398
 +X258198 http://www.openstreetmap.org/?lat=51.521191&lon=-0.200994
 +DIV_HEX http://www.openstreetmap.org/?lat=51.519846&lon=-0.195136
 +X206664 http://www.openstreetmap.org/?lat=51.518951&lon=-0.183227
@@ -22,7 +22,8 @@ LivSt http://www.openstreetmap.org/?lat=51.518057&lon=-0.081389
 Whi http://www.openstreetmap.org/?lat=51.519626&lon=-0.060489
 +DIV_Abb http://www.openstreetmap.org/?lat=51.516989&lon=-0.043344
 +X916875 http://www.openstreetmap.org/?lat=51.524806&lon=-0.021157
-+DIV_GEML http://www.openstreetmap.org/?lat=51.534150&lon=-0.014226
++X151216 http://www.openstreetmap.org/?lat=51.531824&lon=-0.017295
++DIV_GEML http://www.openstreetmap.org/?lat=51.534944&lon=-0.012553
 Str http://www.openstreetmap.org/?lat=51.541671&lon=-0.003927
 Mar http://www.openstreetmap.org/?lat=51.546075&lon=0.005879
 ForGate http://www.openstreetmap.org/?lat=51.549224&lon=0.023303

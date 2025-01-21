@@ -1,6 +1,6 @@
 Neu http://www.openstreetmap.org/?lat=46.996869&lon=6.935463
 +DIV_R13 http://www.openstreetmap.org/?lat=47.001377&lon=6.948638
-StBlaLac http://www.openstreetmap.org/?lat=47.011976&lon=6.984644
++SKIP_StBlaLac http://www.openstreetmap.org/?lat=47.011976&lon=6.984644
 MarEpa http://www.openstreetmap.org/?lat=47.009209&lon=7.010672
 Zih http://www.openstreetmap.org/?lat=47.009223&lon=7.030606
 Gam http://www.openstreetmap.org/?lat=47.009121&lon=7.057664
