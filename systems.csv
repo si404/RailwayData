@@ -105,20 +105,20 @@ canrem;CAN;Montreal Réseau Express Métropolitain;TMred;4;preview
 canair;CAN;Canada Landside Airport Rail Systems;TMyellow;5;preview
 canedmsc;CAN;Edmonton Streetcars;TMyellow;5;preview
 cantsc;CAN;Toronto Streetcars;TMyellow;5;preview
+cheic;CHE;Inter City;TMpurple;1;preview
 cheags;CHE;S-Bahn Aargau;TMgreen;2;preview
 chebes;CHE;S-Bahn Bern / RER Berne;TMgreen;2;preview
 chebss;CHE;Trinationale S-Bahn Basel / RER trinational de Bâle;TMgreen;2;preview
 chechs;CHE;S-Bahn Chur;TMgreen;2;preview
 chefrrer;CHE;Réseau express régional fribourgeois / S-Bahn Freiburg;TMgreen;2;preview
 chelx;CHE;Léman Express;TMgreen;2;preview
-chener;CHE;Neuchâtel / Jura Regio;TMgreen;2;preview
+cher;CHE;Train régional / Regionalzug ;TMgreen;2;preview
 chesgs;CHE;S-Bahn St. Gallen;TMgreen;2;preview
 cheshs;CHE;S-Bahn Schaffhausen;TMgreen;2;preview
 chesob;CHE;Südostbahn;TMgreen;2;preview
 chesos;CHE;S-Bahn Solothurn;TMgreen;2;preview
 chetirc;CHE;Rete celere del Canton Ticino;TMgreen;2;preview
 chevdrer;CHE;Réseau express régional vaudois;TMgreen;2;preview
-#chevvr;CHE;Train régional Vaud et Valais;TMgreen;2;preview
 chezhs;CHE;S-Bahn Zürich;TMgreen;2;preview
 chezss;CHE;S-Bahn Zentralschweiz;TMgreen;2;preview
 chelm;CHE;Métro de Lausanne;TMblue;3;preview
