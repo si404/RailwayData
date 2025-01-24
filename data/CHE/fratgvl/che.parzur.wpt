@@ -4,7 +4,7 @@ FRA/CHE http://www.openstreetmap.org/?lat=47.577546&lon=7.567606
 +X516850 http://www.openstreetmap.org/?lat=47.558725&lon=7.566791
 +X114008 http://www.openstreetmap.org/?lat=47.548378&lon=7.568979
 +X913881 http://www.openstreetmap.org/?lat=47.545459&lon=7.574730
-BaselSBB http://www.openstreetmap.org/?lat=47.546966&lon=7.588978
+BasSBB BaselSBB http://www.openstreetmap.org/?lat=47.546966&lon=7.588978
 +DIV_Por http://www.openstreetmap.org/?lat=47.544402&lon=7.597175
 +DIV_S6 http://www.openstreetmap.org/?lat=47.545995&lon=7.610328
 +X957834 http://www.openstreetmap.org/?lat=47.543519&lon=7.618375
