@@ -1,4 +1,4 @@
-BaselSBB http://www.openstreetmap.org/?lat=47.546966&lon=7.588978
+BasSBB http://www.openstreetmap.org/?lat=47.546966&lon=7.588978
 +DIV_Por http://www.openstreetmap.org/?lat=47.544402&lon=7.597175
 +DIV_S6 http://www.openstreetmap.org/?lat=47.545995&lon=7.610328
 +X957834 http://www.openstreetmap.org/?lat=47.543519&lon=7.618375
@@ -24,7 +24,7 @@ BaselSBB http://www.openstreetmap.org/?lat=47.546966&lon=7.588978
 +DIV_SchE http://www.openstreetmap.org/?lat=47.383023&lon=8.021779
 +SKIP_Aar http://www.openstreetmap.org/?lat=47.391181&lon=8.051412
 +SKIP_AarTor http://www.openstreetmap.org/?lat=47.393679&lon=8.062527
-+DIV_S14 http://www.openstreetmap.org/?lat=47.393977&lon=8.064179
++DIV_S14Aar http://www.openstreetmap.org/?lat=47.393977&lon=8.064179
 +SKIP_Rup http://www.openstreetmap.org/?lat=47.403396&lon=8.127115
 +DIV_S29 http://www.openstreetmap.org/?lat=47.404181&lon=8.132200
 +DIV_S28 http://www.openstreetmap.org/?lat=47.392721&lon=8.166125
@@ -48,18 +48,18 @@ BaselSBB http://www.openstreetmap.org/?lat=47.546966&lon=7.588978
 +DIV_S19 http://www.openstreetmap.org/?lat=47.389565&lon=8.498590
 +DIV_S7 http://www.openstreetmap.org/?lat=47.386187&lon=8.513492
 +SKIP_ZurHar http://www.openstreetmap.org/?lat=47.385134&lon=8.517312
-+DIV_S2 http://www.openstreetmap.org/?lat=47.381098&lon=8.528416
-+DIV_S http://www.openstreetmap.org/?lat=47.380321&lon=8.531742
++DIV_S2Zur http://www.openstreetmap.org/?lat=47.381098&lon=8.528416
++DIV_S_A http://www.openstreetmap.org/?lat=47.380321&lon=8.531742
 ZurHau http://www.openstreetmap.org/?lat=47.378062&lon=8.539424
-+DIV_S http://www.openstreetmap.org/?lat=47.380321&lon=8.531742
-+DIV_S3 http://www.openstreetmap.org/?lat=47.381098&lon=8.528416
++DIV_S_B http://www.openstreetmap.org/?lat=47.380321&lon=8.531742
++DIV_S3Zur http://www.openstreetmap.org/?lat=47.381098&lon=8.528416
 +DIV_S14 http://www.openstreetmap.org/?lat=47.381251&lon=8.525240
 +X724612 http://www.openstreetmap.org/?lat=47.379823&lon=8.521035
-+DIV_S8 http://www.openstreetmap.org/?lat=47.376420&lon=8.518610
++DIV_S8N http://www.openstreetmap.org/?lat=47.376420&lon=8.518610
 +X173182 http://www.openstreetmap.org/?lat=47.361669&lon=8.519704
 +X797194 http://www.openstreetmap.org/?lat=47.337732&lon=8.526592
 +X452156 http://www.openstreetmap.org/?lat=47.304153&lon=8.546033
-+DIV_S2 http://www.openstreetmap.org/?lat=47.299715&lon=8.560281
++DIV_S8S http://www.openstreetmap.org/?lat=47.299715&lon=8.560281
 +SKIP_Tha http://www.openstreetmap.org/?lat=47.295742&lon=8.564637
 +DIV_S24 http://www.openstreetmap.org/?lat=47.292642&lon=8.569443
 +SKIP_Obe http://www.openstreetmap.org/?lat=47.279680&lon=8.578563
@@ -72,7 +72,7 @@ ZurHau http://www.openstreetmap.org/?lat=47.378062&lon=8.539424
 +SKIP_FreSBB http://www.openstreetmap.org/?lat=47.207274&lon=8.755996
 +DIV_S40 http://www.openstreetmap.org/?lat=47.204868&lon=8.767412
 +SKIP_Pfa http://www.openstreetmap.org/?lat=47.203257&lon=8.778205
-+DIV_S5 http://www.openstreetmap.org/?lat=47.202791&lon=8.786230
++DIV_S5S http://www.openstreetmap.org/?lat=47.202791&lon=8.786230
 +SKIP_Alt http://www.openstreetmap.org/?lat=47.194014&lon=8.822880
 +SKIP_Lac http://www.openstreetmap.org/?lat=47.189960&lon=8.853092
 +SKIP_SieWan http://www.openstreetmap.org/?lat=47.182873&lon=8.900642
@@ -81,7 +81,7 @@ ZurHau http://www.openstreetmap.org/?lat=47.378062&lon=8.539424
 +SKIP_Bil http://www.openstreetmap.org/?lat=47.152209&lon=9.030204
 +DIV_S17 http://www.openstreetmap.org/?lat=47.139045&lon=9.054708
 +SKIP_Zie http://www.openstreetmap.org/?lat=47.136534&lon=9.060459
-+DIV_S6 http://www.openstreetmap.org/?lat=47.133556&lon=9.064665
++DIV_S6S http://www.openstreetmap.org/?lat=47.133556&lon=9.064665
 +SKIP_Wee http://www.openstreetmap.org/?lat=47.129787&lon=9.094255
 +SKIP_Muh http://www.openstreetmap.org/?lat=47.117942&lon=9.172833
 +SKIP_Murg http://www.openstreetmap.org/?lat=47.113342&lon=9.215040
@@ -94,7 +94,7 @@ Sar http://www.openstreetmap.org/?lat=47.045342&lon=9.445367
 +SKIP_BadRag http://www.openstreetmap.org/?lat=47.010445&lon=9.505234
 +SKIP_Mai http://www.openstreetmap.org/?lat=47.003744&lon=9.529095
 Lan http://www.openstreetmap.org/?lat=46.967514&lon=9.554071
-+DIV_S1 http://www.openstreetmap.org/?lat=46.942052&lon=9.558642
++DIV_S1Chu http://www.openstreetmap.org/?lat=46.942052&lon=9.558642
 +SKIP_Ziz http://www.openstreetmap.org/?lat=46.934931&lon=9.559393
 +DIV_UntN http://www.openstreetmap.org/?lat=46.928462&lon=9.560466
 +X619849 http://www.openstreetmap.org/?lat=46.923516&lon=9.561710
