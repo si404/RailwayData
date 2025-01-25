@@ -1,4 +1,5 @@
 systemName;route;banner;groupName;roots
-belgt;1;;Gent;bel.01gen
-belgt;2;;Gent;bel.02gen
-belgt;4;;Gent;bel.04gen
+belgt;T1;;Gent;bel.T01gen
+belgt;T2;;Gent;bel.T02gen
+belgt;T3;;Gent;bel.T03gen
+belgt;T4;;Gent;bel.T04gen
