@@ -26,9 +26,9 @@ Takatsuki http://www.openstreetmap.org/?lat=34.851715&lon=135.617844
 +SKIP_A44 http://www.openstreetmap.org/?lat=34.763227&lon=135.523669
 +SKIP_A45 http://www.openstreetmap.org/?lat=34.739164&lon=135.503950
 ShinOsaka http://www.openstreetmap.org/?lat=34.733748&lon=135.500983
-+X726054 http://www.openstreetmap.org/?lat=34.708493&lon=135.493419
-+X975968 http://www.openstreetmap.org/?lat=34.713219&lon=135.497924
 +DIV_Tokaido http://www.openstreetmap.org/?lat=34.716977&lon=135.503504
++X975968 http://www.openstreetmap.org/?lat=34.713219&lon=135.497924
++X726054 http://www.openstreetmap.org/?lat=34.708493&lon=135.493419
 Osaka http://www.openstreetmap.org/?lat=34.702459&lon=135.496015
 +SKIP_O11 http://www.openstreetmap.org/?lat=34.702459&lon=135.496015
 +X855233 http://www.openstreetmap.org/?lat=34.698318&lon=135.488693
