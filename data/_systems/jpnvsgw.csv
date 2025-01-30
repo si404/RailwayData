@@ -1,7 +1,7 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
 jpnvsgw;JPN;AinokazeLn;;;Ainokaze Toyama RW Line;jpn.sgwainokaze;
 jpnvsgw;JPN;ChizuLn;;;Chizu Express Chizu Line;jpn.sgwchizu;
-jpnvsgw;JPN;HapiLnFukuiLn;;;Hapi-Line Fukui Line;jpn.sgwihapilinefukui;
+jpnvsgw;JPN;HapiLnFukuiLn;;;Hapi-Line Fukui Line;jpn.sgwhapilinefukui;
 jpnvsgw;JPN;HojoLn;;;Hojo RW Line;jpn.sgwhojo;
 jpnvsgw;JPN;IbaraLn;;;Ibara RW Line;jpn.sgwibara;
 jpnvsgw;JPN;IgaLn;;;Iga RW Line;jpn.sgwiga;
