@@ -2,7 +2,6 @@ systemName;region;route;banner;abbrev;city;root;altRouteNames
 chnshm;CHN-SH;SHMLn1;;;Shanghai Metro Line 1;chnsh.shm01;
 chnshm;CHN-SH;SHMLn2;;;Shanghai Metro Line 2;chnsh.shm02;
 chnshm;CHN-SH;SHMLn3;;;Shanghai Metro Line 3;chnsh.shm03;
-chnshm;CHN-SH;SHMLn3;;;Shanghai Metro Line 3;chnsh.shm03;
 chnshm;CHN-SH;SHMLn4;;;Shanghai Metro Line 4;chnsh.shm04;
 chnshm;CHN-SH;SHMLn5;;;Shanghai Metro Line 5;chnsh.shm05;
 chnshm;CHN-SH;SHMLn5Min;;;Shanghai Metro Line 5 (Minhang branch);chnsh.shm05min;
