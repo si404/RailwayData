@@ -60,7 +60,7 @@ jpnjre;JPN;ShinetsuLnN;;;Shinetsu Line North;jpn.shinetsunorth;
 jpnjre;JPN;ShinetsuLnS;;;Shinetsu Line South;jpn.shinetsusouth;
 jpnjre;JPN;ShinonoiLn;;;Shinonoi Line;jpn.shinonoi;
 jpnjre;JPN;ShonanShinjukuLn;;;Shonan-Shinjuku Line;jpn.shonanshinjuku;
-jpnjre;JPN;SobuLn;;;Sobu Line;jpn.sobu;
+jpnjre;JPN;SobuMainLn;;;Sobu Main Line;jpn.sobu;
 jpnjre;JPN;SotoboLn;;;Sotobo Line;jpn.sotobo;
 jpnjre;JPN;SuigunLn;;;Suigun Line;jpn.suigun;
 jpnjre;JPN;TadamiLn;;;Tadami Line;jpn.tadami;
@@ -82,5 +82,5 @@ jpnjre;JPN;YamadaLn;;;Yamada Line;jpn.yamada;
 jpnjre;JPN;YamanoteLn;;;Yamanote Line;jpn.yamanote;
 jpnjre;JPN;YamagataLn;;;Yamagata Line;jpn.ouyamagata;
 jpnjre;JPN;YokohamaLn;;;Yokohama Line;jpn.yokohama;
-jpnjre;JPN;YokosukaLn;;;Yokosuka Line;jpn.yokosuka;
+jpnjre;JPN;YokosukaSobuLn;;;Yokosuka-Sobu (Rapid) Line;jpn.yokosuka;SobuLn,YokosukaLn
 jpnjre;JPN;YonesakaLn;;;Yonesaka Line;jpn.yonesaka;
