@@ -32,7 +32,7 @@ Thu http://www.openstreetmap.org/?lat=52.676668&lon=-7.821922
 +X250849 http://www.openstreetmap.org/?lat=52.645329&lon=-7.881231
 +X208659 http://www.openstreetmap.org/?lat=52.594732&lon=-7.950583
 +X957748 http://www.openstreetmap.org/?lat=52.516508&lon=-8.179064
-LimJct http://www.openstreetmap.org/?lat=52.502051&lon=-8.198848
++SKIP_LimJct http://www.openstreetmap.org/?lat=52.502051&lon=-8.198848
 +X337968 http://www.openstreetmap.org/?lat=52.477657&lon=-8.267212
 +X761813 http://www.openstreetmap.org/?lat=52.402785&lon=-8.541870
 +X631834 http://www.openstreetmap.org/?lat=52.369887&lon=-8.624439
@@ -41,7 +41,7 @@ Cha http://www.openstreetmap.org/?lat=52.347125&lon=-8.653493
 +X183358 http://www.openstreetmap.org/?lat=52.283781&lon=-8.681002
 +X290780 http://www.openstreetmap.org/?lat=52.264086&lon=-8.670444
 +X913247 http://www.openstreetmap.org/?lat=52.214207&lon=-8.695335
-Mal http://www.openstreetmap.org/?lat=52.138783&lon=-8.655424
++SKIP_Mal http://www.openstreetmap.org/?lat=52.138783&lon=-8.655424
 +DIV_Cork http://www.openstreetmap.org/?lat=52.127758&lon=-8.656926
 +X150292 http://www.openstreetmap.org/?lat=52.118549&lon=-8.702803
 +X161698 http://www.openstreetmap.org/?lat=52.118681&lon=-8.800049
