@@ -27,10 +27,10 @@ Shinjuku +JC05 http://www.openstreetmap.org/?lat=35.689069&lon=139.700736
 +SKIP_JB08 http://www.openstreetmap.org/?lat=35.706245&lon=139.684867
 +SKIP_JC06 http://www.openstreetmap.org/?lat=35.705826&lon=139.665630
 +SKIP_JC07 http://www.openstreetmap.org/?lat=35.705332&lon=139.649969
-+SKIP_JC08 +JB05 http://www.openstreetmap.org/?lat=35.704883&lon=139.635481
-+SKIP_JC09 +JB04 http://www.openstreetmap.org/?lat=35.704476&lon=139.620159
-+SKIP_JC10 +JB03 http://www.openstreetmap.org/?lat=35.703794&lon=139.599589
-+SKIP_JC11 +JB02 http://www.openstreetmap.org/?lat=35.703139&lon=139.580309
++SKIP_JC08 http://www.openstreetmap.org/?lat=35.704883&lon=139.635481
++SKIP_JC09 http://www.openstreetmap.org/?lat=35.704476&lon=139.620159
++SKIP_JC10 http://www.openstreetmap.org/?lat=35.703794&lon=139.599589
++SKIP_JC11 http://www.openstreetmap.org/?lat=35.703139&lon=139.580309
 +SKIP_JC12 http://www.openstreetmap.org/?lat=35.702710&lon=139.560898
 +SKIP_JC13 http://www.openstreetmap.org/?lat=35.702060&lon=139.543873
 +SKIP_JC14 http://www.openstreetmap.org/?lat=35.701599&lon=139.523945
