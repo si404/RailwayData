@@ -52,10 +52,10 @@ Shinjuku +JC05 http://www.openstreetmap.org/?lat=35.689069&lon=139.700736
 +SKIP_JB08 http://www.openstreetmap.org/?lat=35.706245&lon=139.684867
 +SKIP_JC06 http://www.openstreetmap.org/?lat=35.705826&lon=139.665630
 +SKIP_JC07 http://www.openstreetmap.org/?lat=35.705332&lon=139.649969
-+SKIP_JC08 +JB05 http://www.openstreetmap.org/?lat=35.704883&lon=139.635481
-+SKIP_JC09 +JB04 http://www.openstreetmap.org/?lat=35.704476&lon=139.620159
-+SKIP_JC10 +JB03 http://www.openstreetmap.org/?lat=35.703794&lon=139.599589
-+SKIP_JC11 +JB02 http://www.openstreetmap.org/?lat=35.703139&lon=139.580309
++SKIP_JC08 http://www.openstreetmap.org/?lat=35.704883&lon=139.635481
++SKIP_JC09 http://www.openstreetmap.org/?lat=35.704476&lon=139.620159
++SKIP_JC10 http://www.openstreetmap.org/?lat=35.703794&lon=139.599589
++SKIP_JC11 http://www.openstreetmap.org/?lat=35.703139&lon=139.580309
 +SKIP_JC12 http://www.openstreetmap.org/?lat=35.702710&lon=139.560898
 +SKIP_JC13 http://www.openstreetmap.org/?lat=35.702060&lon=139.543873
 +SKIP_JC14 http://www.openstreetmap.org/?lat=35.701599&lon=139.523945
@@ -130,38 +130,3 @@ Shiojiri http://www.openstreetmap.org/?lat=36.114381&lon=137.947791
 +SKIP_Hirata http://www.openstreetmap.org/?lat=36.191583&lon=137.962521
 +SKIP_MinaMatsu http://www.openstreetmap.org/?lat=36.210697&lon=137.969742
 Matsumoto http://www.openstreetmap.org/?lat=36.230737&lon=137.964155
-+SKIP_41 http://www.openstreetmap.org/?lat=36.237221&lon=137.960826
-+SKIP_40 http://www.openstreetmap.org/?lat=36.246917&lon=137.944916
-+SKIP_39 http://www.openstreetmap.org/?lat=36.246397&lon=137.931590
-+SKIP_38 http://www.openstreetmap.org/?lat=36.250271&lon=137.918042
-+SKIP_37 http://www.openstreetmap.org/?lat=36.259752&lon=137.904205
-+SKIP_36 http://www.openstreetmap.org/?lat=36.273346&lon=137.903210
-+SKIP_35 http://www.openstreetmap.org/?lat=36.291568&lon=137.903454
-Toyoshina http://www.openstreetmap.org/?lat=36.300230&lon=137.900804
-+SKIP_33 http://www.openstreetmap.org/?lat=36.323080&lon=137.888187
-Hotaka http://www.openstreetmap.org/?lat=36.339370&lon=137.881782
-+SKIP_31 http://www.openstreetmap.org/?lat=36.359602&lon=137.878346
-+SKIP_30 http://www.openstreetmap.org/?lat=36.371565&lon=137.872874
-+SKIP_29 http://www.openstreetmap.org/?lat=36.396996&lon=137.865699
-+SKIP_28 http://www.openstreetmap.org/?lat=36.406426&lon=137.862727
-+SKIP_27 http://www.openstreetmap.org/?lat=36.425102&lon=137.858487
-+SKIP_26 http://www.openstreetmap.org/?lat=36.447903&lon=137.854737
-+SKIP_25 http://www.openstreetmap.org/?lat=36.467193&lon=137.847170
-+X662136 http://www.openstreetmap.org/?lat=36.481924&lon=137.845625
-+SKIP_24 http://www.openstreetmap.org/?lat=36.491506&lon=137.856236
-ShiOmachi http://www.openstreetmap.org/?lat=36.500044&lon=137.861558
-+SKIP_22 http://www.openstreetmap.org/?lat=36.517576&lon=137.857923
-+SKIP_21 http://www.openstreetmap.org/?lat=36.535760&lon=137.846062
-+SKIP_20 http://www.openstreetmap.org/?lat=36.554279&lon=137.842589
-+SKIP_19 http://www.openstreetmap.org/?lat=36.565584&lon=137.841873
-+SKIP_18 http://www.openstreetmap.org/?lat=36.594665&lon=137.844654
-+X878075 http://www.openstreetmap.org/?lat=36.611788&lon=137.858637
-+SKIP_16 http://www.openstreetmap.org/?lat=36.636948&lon=137.841329
-+SKIP_15 http://www.openstreetmap.org/?lat=36.657874&lon=137.846524
-+SKIP_14 http://www.openstreetmap.org/?lat=36.670643&lon=137.850072
-Hakuba http://www.openstreetmap.org/?lat=36.695787&lon=137.863706
-+SKIP_12 http://www.openstreetmap.org/?lat=36.710958&lon=137.871587
-+X371674 http://www.openstreetmap.org/?lat=36.719808&lon=137.884434
-+SKIP_11 http://www.openstreetmap.org/?lat=36.740608&lon=137.885505
-+SKIP_10 http://www.openstreetmap.org/?lat=36.763526&lon=137.900946
-MinaOtari http://www.openstreetmap.org/?lat=36.774769&lon=137.908373
