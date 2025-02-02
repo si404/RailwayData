@@ -13,6 +13,7 @@ argsub;ARG;Subte (Buenos Aires);TMblue;3;preview
 argmetmen;ARG;Metrotranvía (Mendoza);TMred;4;preview
 argsubp;ARG;Subte (Premetro) (Buenos Aires);TMred;4;preview
 argtc;ARG;Tren de la Costa;TMred;4;preview
+asiaair;ASI;Asia Airport People Movers (airside);TMyellow;5;preview
 ausnswtl;AUS;New South Wales TrainLink;TMpurple;1;preview
 ausqrt;AUS;Queensland Rail Traveltrain;TMpurple;1;preview
 austwa;AUS;Transwa;TMpurple;1;preview
@@ -104,13 +105,14 @@ canrem;CAN;Montreal Réseau Express Métropolitain;TMred;4;preview
 canair;CAN;Canada Landside Airport Rail Systems;TMyellow;5;preview
 canedmsc;CAN;Edmonton Streetcars;TMyellow;5;preview
 cantsc;CAN;Toronto Streetcars;TMyellow;5;preview
+cheic;CHE;Inter City;TMpurple;1;preview
 cheags;CHE;S-Bahn Aargau;TMgreen;2;preview
 chebes;CHE;S-Bahn Bern / RER Berne;TMgreen;2;preview
 chebss;CHE;Trinationale S-Bahn Basel / RER trinational de Bâle;TMgreen;2;preview
 chechs;CHE;S-Bahn Chur;TMgreen;2;preview
 chefrrer;CHE;Réseau express régional fribourgeois / S-Bahn Freiburg;TMgreen;2;preview
 chelx;CHE;Léman Express;TMgreen;2;preview
-chener;CHE;Neuchâtel Regio;TMgreen;2;preview
+cher;CHE;Train régional / Regionalzug ;TMgreen;2;preview
 chesgs;CHE;S-Bahn St. Gallen;TMgreen;2;preview
 cheshs;CHE;S-Bahn Schaffhausen;TMgreen;2;preview
 chesob;CHE;Südostbahn;TMgreen;2;preview
@@ -133,6 +135,10 @@ chncrh;CHN;China Railway High-speed;TMpurple;1;preview
 chngdprd;CHN;Pearl River Delta Metropolitan Region Intercity Railway;TMgreen;2;preview
 chngdgzfm;CHN;Guangzhou & Foshan Metros;TMblue;3;preview
 chngdszm;CHN;Shenzhen Metro;TMblue;3;preview
+chnnmhm;CHN;Hohhot Metro;TMblue;3;preview
+chnxjum;CHN;Ürümqi Metro;TMblue;3;preview
+chnshsr;CHN;Shanghai Suburban Railway;TMgreen;2;preview
+chnshm;CHN;Shanghai Metro;TMblue;3;preview
 colmm;COL;Metro de Medellín;TMblue;3;preview
 colmmt;COL;Metro de Medellín (tranvía);TMred;4;preview
 czeduk;CZE;Doprava Ústeckého kraje;TMgreen;2;preview
@@ -155,6 +161,7 @@ deubss;DEU;S-Bahn Bodensee;TMgreen;2;preview
 deufrs;DEU;Breisgau-S-Bahn;TMgreen;2;preview
 deuhbs;DEU;Regio-S-Bahn Bremen/Niedersachsen;TMgreen;2;preview
 deudds;DEU;S-Bahn Dresden;TMgreen;2;preview
+deuhha;DEU;AKN Eisenbahn;TMgreen;2;preview
 deuhhs;DEU;S-Bahn Hamburg;TMgreen;2;preview
 deuhs;DEU;S-Bahn Hannover;TMgreen;2;preview
 deukas;DEU;Stadtbahn Karlsruhe;TMgreen;2;preview
@@ -162,6 +169,7 @@ deuls;DEU;S-Bahn Mitteldeutschland;TMgreen;2;preview
 deumds;DEU;S-Bahn Mittelelbe;TMgreen;2;preview
 deums;DEU;S-Bahn München;TMgreen;2;preview
 deuns;DEU;S-Bahn Nürnberg;TMgreen;2;preview
+deuogrs;DEU;Regio S-Bahn Ortenau;TMgreen;2;preview
 deurms;DEU;S-Bahn Rhein-Main;TMgreen;2;preview
 deurns;DEU;S-Bahn Rhein-Neckar;TMgreen;2;preview
 deuros;DEU;S-Bahn Rostock;TMgreen;2;preview
@@ -278,6 +286,7 @@ frahdfterp;FRA;TER Hauts-de-France (Proxi);TMgreen;2;preview
 franaqterd;FRA;TER en Nouvelle-Aquitaine (Direct'R);TMgreen;2;preview
 franaqterf;FRA;TER en Nouvelle-Aquitaine (Facilit'R);TMgreen;2;preview
 franaqterl;FRA;TER en Nouvelle-Aquitaine (Liné'R);TMgreen;2;preview
+frareme;FRA;Réseau express métropolitain européen;TMgreen;2;preview
 frarer;FRA;Réseau Express Régional;TMgreen;2;preview
 fratra;FRA;Transillien;TMgreen;2;preview
 frattu;FRA;Toulouse Train urbain;TMgreen;2;preview

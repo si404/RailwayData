@@ -1,5 +1,5 @@
 Lan http://www.openstreetmap.org/?lat=47.217360&lon=7.784672
-+DIV_Lan http://www.openstreetmap.org/?lat=47.219419&lon=7.787032
++DIV_S12 http://www.openstreetmap.org/?lat=47.219419&lon=7.787032
 +DIV_LanN http://www.openstreetmap.org/?lat=47.239388&lon=7.796549
 +DIV_MurS http://www.openstreetmap.org/?lat=47.251053&lon=7.812009
 RogWyn http://www.openstreetmap.org/?lat=47.251606&lon=7.814305
@@ -8,14 +8,12 @@ Mur http://www.openstreetmap.org/?lat=47.265376&lon=7.832286
 +DIV_MurN http://www.openstreetmap.org/?lat=47.293239&lon=7.855074
 Rot http://www.openstreetmap.org/?lat=47.306423&lon=7.878764
 +DIV_AarS http://www.openstreetmap.org/?lat=47.308474&lon=7.886124
-+X926887 http://www.openstreetmap.org/?lat=47.313726&lon=7.907238
-+DIV_S29S http://www.openstreetmap.org/?lat=47.318658&lon=7.910349
++DIV_S29S http://www.openstreetmap.org/?lat=47.316221&lon=7.912173
 AarOft http://www.openstreetmap.org/?lat=47.320360&lon=7.908332
 +DIV_AarN http://www.openstreetmap.org/?lat=47.344021&lon=7.908161
 +DIV_S20 http://www.openstreetmap.org/?lat=47.347845&lon=7.907109
 Olt http://www.openstreetmap.org/?lat=47.351923&lon=7.907925
-+DIV_S3 http://www.openstreetmap.org/?lat=47.359947&lon=7.916293
-+DIV_IC3 http://www.openstreetmap.org/?lat=47.360150&lon=7.922559
++DIV_S3 http://www.openstreetmap.org/?lat=47.361720&lon=7.918954
 +SKIP_Dul http://www.openstreetmap.org/?lat=47.354016&lon=7.946634
 +X691266 http://www.openstreetmap.org/?lat=47.350236&lon=7.959337
 Dan http://www.openstreetmap.org/?lat=47.356400&lon=7.978520
@@ -26,12 +24,10 @@ Aar http://www.openstreetmap.org/?lat=47.391181&lon=8.051412
 +SKIP_AarTor http://www.openstreetmap.org/?lat=47.393679&lon=8.062527
 +DIV_S14 http://www.openstreetmap.org/?lat=47.393977&lon=8.064179
 Rup http://www.openstreetmap.org/?lat=47.403396&lon=8.127115
-DIV_S29W http://www.openstreetmap.org/?lat=47.404181&lon=8.132200
++DIV_S29W http://www.openstreetmap.org/?lat=47.404181&lon=8.132200
 +DIV_S28 http://www.openstreetmap.org/?lat=47.392721&lon=8.166125
 Len http://www.openstreetmap.org/?lat=47.391370&lon=8.170481
-+DIV_S25 http://www.openstreetmap.org/?lat=47.393331&lon=8.197796
-+X528207 http://www.openstreetmap.org/?lat=47.396512&lon=8.205028
-+DIV_S42 http://www.openstreetmap.org/?lat=47.401319&lon=8.207474
++DIV_S25 http://www.openstreetmap.org/?lat=47.393672&lon=8.202496
 Oth http://www.openstreetmap.org/?lat=47.407550&lon=8.214619
 +DIV_S11 http://www.openstreetmap.org/?lat=47.409394&lon=8.217559
 Birr http://www.openstreetmap.org/?lat=47.436419&lon=8.217516
@@ -39,6 +35,6 @@ Lup http://www.openstreetmap.org/?lat=47.445011&lon=8.215113
 +X538647 http://www.openstreetmap.org/?lat=47.474396&lon=8.205607
 +DIV_S29E http://www.openstreetmap.org/?lat=47.478334&lon=8.206315
 Bru http://www.openstreetmap.org/?lat=47.480661&lon=8.208997
-+DIV_S19 http://www.openstreetmap.org/?lat=47.492957&lon=8.249938
++DIV_S27 http://www.openstreetmap.org/?lat=47.492957&lon=8.249938
 Tur http://www.openstreetmap.org/?lat=47.491957&lon=8.252900
 Bad http://www.openstreetmap.org/?lat=47.476311&lon=8.307488

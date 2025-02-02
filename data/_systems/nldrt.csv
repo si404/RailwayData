@@ -1,11 +1,10 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
+nldrt;NLD;1;;Rot;Rotterdam;nld.01rot;
 nldrt;NLD;2;;Rot;Rotterdam;nld.02rot;
+nldrt;NLD;3;;Rot;Rotterdam;nld.03rot;
 nldrt;NLD;4;;Rot;Rotterdam;nld.04rot;
+nldrt;NLD;5;;Rot;Rotterdam;nld.05rot;
+nldrt;NLD;6;;Rot;Rotterdam;nld.06rot;
 nldrt;NLD;7;;Rot;Rotterdam;nld.07rot;
 nldrt;NLD;8;;Rot;Rotterdam;nld.08rot;
-nldrt;NLD;12;;Rot;Rotterdam;nld.12rot;
-nldrt;NLD;20;;Rot;Rotterdam;nld.20rot;
-nldrt;NLD;21;;Rot;Rotterdam;nld.21rot;
-nldrt;NLD;23;;Rot;Rotterdam;nld.23rot;
-nldrt;NLD;24;;Rot;Rotterdam;nld.24rot;
-nldrt;NLD;25;;Rot;Rotterdam;nld.25rot;
+nldrt;NLD;11;;Rot;Rotterdam;nld.11rot;

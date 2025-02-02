@@ -11,12 +11,12 @@ VilStPie http://www.openstreetmap.org/?lat=46.720549&lon=6.960568
 Rom http://www.openstreetmap.org/?lat=46.693630&lon=6.911902
 +DIV_RE2 http://www.openstreetmap.org/?lat=46.684946&lon=6.906002
 +SKIP_Sil http://www.openstreetmap.org/?lat=46.659238&lon=6.885359
-Vaud http://www.openstreetmap.org/?lat=46.621287&lon=6.850061
+Vau http://www.openstreetmap.org/?lat=46.621287&lon=6.850061
 +X350826 http://www.openstreetmap.org/?lat=46.587985&lon=6.831565
 +SKIP_Oron http://www.openstreetmap.org/?lat=46.572396&lon=6.837165
 +DIV_R8 http://www.openstreetmap.org/?lat=46.547343&lon=6.844482
 Pal http://www.openstreetmap.org/?lat=46.542783&lon=6.837702
-More http://www.openstreetmap.org/?lat=46.508605&lon=6.785796
++SKIP_Mor http://www.openstreetmap.org/?lat=46.508605&lon=6.785796
 Pui http://www.openstreetmap.org/?lat=46.493628&lon=6.765733
 +DIV_R7 http://www.openstreetmap.org/?lat=46.491058&lon=6.763008
 Gra http://www.openstreetmap.org/?lat=46.496871&lon=6.722732
