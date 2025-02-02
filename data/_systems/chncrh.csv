@@ -1,4 +1,14 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
+chncrh;CHN-XJ;Eurasia;;;Eurasia Continental Bridge HSR;chnxj.hsreurasia;
+chncrh;CHN-GS;EurasiaYu;;;Eurasia Continental Bridge HSR (Yumen);chngs.hsreurasiayu;
+chncrh;CHN-QH;Eurasia;;;Eurasia Continental Bridge HSR;chnqh.hsreurasia;
+chncrh;CHN-GS;Eurasia;;;Eurasia Continental Bridge HSR;chngs.hsreurasia;
+chncrh;CHN-SN;Eurasia;;;Eurasia Continental Bridge HSR;chnsn.hsreurasia;
+chncrh;CHN-HA;Eurasia;;;Eurasia Continental Bridge HSR;chnha.hsreurasia;
+chncrh;CHN-AH;EurasiaDang;;;Eurasia Continental Bridge HSR (Dangshan);chnah.hsreurasiadang;
+chncrh;CHN-HA;EurasiaYong;;;Eurasia Continental Bridge HSR (Yongcheng);chnha.hsreurasiayong;
+chncrh;CHN-AH;Eurasia;;;Eurasia Continental Bridge HSR;chnah.hsreurasia;
+chncrh;CHN-JS;Eurasia;;;Eurasia Continental Bridge HSR;chnjs.hsreurasia;
 chncrh;CHN-GD;GuangShenGang;;;Guangshengang HSR;chngd.hsrguangshengang;
 chncrh;HKG;GuangShenGang;;;Guangshengang HSR;hkg.hsrguangshengang;
 chncrh;CHN-GD;JingGang;;;JingGang HSR;chngd.hsrjinggang;
