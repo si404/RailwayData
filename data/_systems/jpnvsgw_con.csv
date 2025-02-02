@@ -1,6 +1,7 @@
 systemName;route;banner;groupName;roots
 jpnvsgw;AinokazeLn;;Ainokaze Toyama RW Line;jpn.sgwainokaze
 jpnvsgw;ChizuLn;;Chizu Express Chizu Line;jpn.sgwchizu
+jpnvsgw;HapiLnFukuiLn;;Hapi-Line Fukui Line;jpn.sgwhapilinefukui
 jpnvsgw;HojoLn;;Hojo RW Line;jpn.sgwhojo
 jpnvsgw;IbaraLn;;Ibara RW Line;jpn.sgwibara
 jpnvsgw;IgaLn;;Iga RW Line;jpn.sgwiga
