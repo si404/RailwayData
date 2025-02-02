@@ -3,16 +3,55 @@ JS23 http://www.openstreetmap.org/?lat=35.858835&lon=139.657275
 +X611424 http://www.openstreetmap.org/?lat=35.804134&lon=139.715589
 JS22 http://www.openstreetmap.org/?lat=35.778280&lon=139.720623
 +X809236 http://www.openstreetmap.org/?lat=35.741270&lon=139.754977
-JS21 http://www.openstreetmap.org/?lat=35.730221&lon=139.711126
-JS20 http://www.openstreetmap.org/?lat=35.689069&lon=139.700736
-JS19 http://www.openstreetmap.org/?lat=35.658194&lon=139.701683
-+X801208 http://www.openstreetmap.org/?lat=35.652175&lon=139.706837
-JS18 http://www.openstreetmap.org/?lat=35.646434&lon=139.710209
-JS17 http://www.openstreetmap.org/?lat=35.619766&lon=139.728189
++X934922 http://www.openstreetmap.org/?lat=35.739807&lon=139.754377
++DIV_JSN http://www.openstreetmap.org/?lat=35.738618&lon=139.751646
++SKIP_JY10 http://www.openstreetmap.org/?lat=35.736740&lon=139.747617
++SKIP_JY11 http://www.openstreetmap.org/?lat=35.733495&lon=139.739638
++X970503 http://www.openstreetmap.org/?lat=35.730863&lon=139.733015
++SKIP_ +JY12 http://www.openstreetmap.org/?lat=35.731728&lon=139.728332
++X607026 http://www.openstreetmap.org/?lat=35.734600&lon=139.717318
++DIV_JA http://www.openstreetmap.org/?lat=35.733711&lon=139.713392
+JS21 +JY13 http://www.openstreetmap.org/?lat=35.730221&lon=139.711126
++SKIP_JY14 http://www.openstreetmap.org/?lat=35.721173&lon=139.706502
++SKIP_JY15 http://www.openstreetmap.org/?lat=35.712682&lon=139.703680
++X922354 http://www.openstreetmap.org/?lat=35.703877&lon=139.700603
++SKIP_JY16 http://www.openstreetmap.org/?lat=35.701292&lon=139.700306
++X408745 http://www.openstreetmap.org/?lat=35.695887&lon=139.699767
+JS20 +JY17 http://www.openstreetmap.org/?lat=35.689069&lon=139.700736
++SKIP_JY18 http://www.openstreetmap.org/?lat=35.683769&lon=139.702151
++X308062 http://www.openstreetmap.org/?lat=35.679113&lon=139.703715
++X453850 http://www.openstreetmap.org/?lat=35.675436&lon=139.704112
++SKIP_JY19 http://www.openstreetmap.org/?lat=35.670162&lon=139.702478
++X411324 http://www.openstreetmap.org/?lat=35.660818&lon=139.701290
+JS19 +JY20 http://www.openstreetmap.org/?lat=35.658194&lon=139.701683
++X117828 http://www.openstreetmap.org/?lat=35.650426&lon=139.708114
+JS18 +JY21 http://www.openstreetmap.org/?lat=35.646434&lon=139.710209
++X376829 http://www.openstreetmap.org/?lat=35.638674&lon=139.714379
++SKIP_JY22 http://www.openstreetmap.org/?lat=35.633337&lon=139.715796
++X691719 http://www.openstreetmap.org/?lat=35.629893&lon=139.717523
++X480553 http://www.openstreetmap.org/?lat=35.627944&lon=139.721707
++SKIP_JY23 http://www.openstreetmap.org/?lat=35.625905&lon=139.723880
+JS17 +JY24 http://www.openstreetmap.org/?lat=35.619766&lon=139.728189
++X143431 http://www.openstreetmap.org/?lat=35.615224&lon=139.731824
++DIV_Rinkai http://www.openstreetmap.org/?lat=35.613846&lon=139.732200
++X554828 http://www.openstreetmap.org/?lat=35.611626&lon=139.730907
++DIV_Yokosuka http://www.openstreetmap.org/?lat=35.609393&lon=139.725999
++X790352 http://www.openstreetmap.org/?lat=35.607459&lon=139.724432
 JS16 http://www.openstreetmap.org/?lat=35.601863&lon=139.721670
++X609246 http://www.openstreetmap.org/?lat=35.597342&lon=139.719605
++X826809 http://www.openstreetmap.org/?lat=35.596454&lon=139.718888
++X534341 http://www.openstreetmap.org/?lat=35.595250&lon=139.717450
++X159599 http://www.openstreetmap.org/?lat=35.594681&lon=139.716429
++X826345 http://www.openstreetmap.org/?lat=35.591512&lon=139.705759
++X304896 http://www.openstreetmap.org/?lat=35.583714&lon=139.678341
++X985778 http://www.openstreetmap.org/?lat=35.579307&lon=139.665982
++X364397 http://www.openstreetmap.org/?lat=35.577580&lon=139.663938
 JS15 http://www.openstreetmap.org/?lat=35.574778&lon=139.663326
++X594076 http://www.openstreetmap.org/?lat=35.563049&lon=139.667216
 JS14 http://www.openstreetmap.org/?lat=35.551458&lon=139.671839
 +X164517 http://www.openstreetmap.org/?lat=35.521547&lon=139.680916
++DIV_Tokaido http://www.openstreetmap.org/?lat=35.517601&lon=139.680982
++X704828 http://www.openstreetmap.org/?lat=35.514247&lon=139.678030
 +X596657 http://www.openstreetmap.org/?lat=35.503749&lon=139.675026
 JS13 http://www.openstreetmap.org/?lat=35.466125&lon=139.622715
 JS12 http://www.openstreetmap.org/?lat=35.446684&lon=139.599701
