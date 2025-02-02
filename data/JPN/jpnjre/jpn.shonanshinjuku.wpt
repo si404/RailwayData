@@ -8,7 +8,7 @@ JS22 http://www.openstreetmap.org/?lat=35.778280&lon=139.720623
 +SKIP_JY10 http://www.openstreetmap.org/?lat=35.736740&lon=139.747617
 +SKIP_JY11 http://www.openstreetmap.org/?lat=35.733495&lon=139.739638
 +X970503 http://www.openstreetmap.org/?lat=35.730863&lon=139.733015
-+SKIP_ +JY12 http://www.openstreetmap.org/?lat=35.731728&lon=139.728332
++SKIP_JY12 http://www.openstreetmap.org/?lat=35.731728&lon=139.728332
 +X607026 http://www.openstreetmap.org/?lat=35.734600&lon=139.717318
 +DIV_JA http://www.openstreetmap.org/?lat=35.733711&lon=139.713392
 JS21 +JY13 http://www.openstreetmap.org/?lat=35.730221&lon=139.711126
