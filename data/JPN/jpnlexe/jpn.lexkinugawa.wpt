@@ -1,8 +1,16 @@
-Shinjuku http://www.openstreetmap.org/?lat=35.689069&lon=139.700736
-Ikebukuro http://www.openstreetmap.org/?lat=35.730221&lon=139.711126
-+SKIP_Itabashi http://www.openstreetmap.org/?lat=35.745376&lon=139.719502
-+SKIP_Jujo http://www.openstreetmap.org/?lat=35.760008&lon=139.722305
-+SKIP_Akabane http://www.openstreetmap.org/?lat=35.778280&lon=139.720623
+Shinjuku +JY17 http://www.openstreetmap.org/?lat=35.689069&lon=139.700736
++X408745 http://www.openstreetmap.org/?lat=35.695887&lon=139.699767
++SKIP_JY16 http://www.openstreetmap.org/?lat=35.701292&lon=139.700306
++X922354 http://www.openstreetmap.org/?lat=35.703877&lon=139.700603
++SKIP_JY15 http://www.openstreetmap.org/?lat=35.712682&lon=139.703680
++SKIP_JY14 http://www.openstreetmap.org/?lat=35.721173&lon=139.706502
+Ikebukuro +JY13 http://www.openstreetmap.org/?lat=35.730221&lon=139.711126
++DIV_JY http://www.openstreetmap.org/?lat=35.733711&lon=139.713392
++SKIP_JA13 http://www.openstreetmap.org/?lat=35.745376&lon=139.719502
++X723877 http://www.openstreetmap.org/?lat=35.750047&lon=139.722039
++SKIP_JA14 http://www.openstreetmap.org/?lat=35.760008&lon=139.722305
++X401403 http://www.openstreetmap.org/?lat=35.775397&lon=139.721946
++SKIP_JA15 http://www.openstreetmap.org/?lat=35.778280&lon=139.720623
 +X879505 http://www.openstreetmap.org/?lat=35.803022&lon=139.716541
 Urawa http://www.openstreetmap.org/?lat=35.858835&lon=139.657275
 +SKIP_JU06 http://www.openstreetmap.org/?lat=35.893655&lon=139.633846
