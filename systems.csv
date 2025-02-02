@@ -13,7 +13,7 @@ argsub;ARG;Subte (Buenos Aires);TMblue;3;preview
 argmetmen;ARG;Metrotranvía (Mendoza);TMred;4;preview
 argsubp;ARG;Subte (Premetro) (Buenos Aires);TMred;4;preview
 argtc;ARG;Tren de la Costa;TMred;4;preview
-#asiaair;ASI;Asia Airport People Movers (airside);TMyellow;5;preview
+asiaair;ASI;Asia Airport People Movers (airside);TMyellow;5;preview
 ausnswtl;AUS;New South Wales TrainLink;TMpurple;1;preview
 ausqrt;AUS;Queensland Rail Traveltrain;TMpurple;1;preview
 austwa;AUS;Transwa;TMpurple;1;preview
