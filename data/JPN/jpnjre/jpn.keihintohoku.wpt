@@ -12,33 +12,35 @@ JK38 http://www.openstreetmap.org/?lat=35.778280&lon=139.720623
 JK37 http://www.openstreetmap.org/?lat=35.763845&lon=139.726878
 JK36 http://www.openstreetmap.org/?lat=35.752350&lon=139.738270
 JK35 http://www.openstreetmap.org/?lat=35.746793&lon=139.746670
-JK34 http://www.openstreetmap.org/?lat=35.737369&lon=139.761715
-JK33 http://www.openstreetmap.org/?lat=35.732142&lon=139.766704
-JK32 http://www.openstreetmap.org/?lat=35.728257&lon=139.770478
-+X292119 http://www.openstreetmap.org/?lat=35.725354&lon=139.773924
-JK31 http://www.openstreetmap.org/?lat=35.721663&lon=139.777949
-+X479007 http://www.openstreetmap.org/?lat=35.718451&lon=139.779654
-JK30 http://www.openstreetmap.org/?lat=35.713371&lon=139.776655
-+X751490 http://www.openstreetmap.org/?lat=35.710755&lon=139.774879
-JK29 http://www.openstreetmap.org/?lat=35.707138&lon=139.774720
-+X111156 http://www.openstreetmap.org/?lat=35.702496&lon=139.773731
-JK28 http://www.openstreetmap.org/?lat=35.698358&lon=139.773120
-+X718003 http://www.openstreetmap.org/?lat=35.695378&lon=139.772487
-JK27 http://www.openstreetmap.org/?lat=35.691781&lon=139.770915
-+X294199 http://www.openstreetmap.org/?lat=35.688341&lon=139.769440
-JK26 http://www.openstreetmap.org/?lat=35.681213&lon=139.767208
-+X878141 http://www.openstreetmap.org/?lat=35.677121&lon=139.765255
-JK25 http://www.openstreetmap.org/?lat=35.674882&lon=139.763104
-+X476281 http://www.openstreetmap.org/?lat=35.672703&lon=139.760492
-JK24 http://www.openstreetmap.org/?lat=35.666177&lon=139.758319
-+X393391 http://www.openstreetmap.org/?lat=35.660805&lon=139.758657
-JK23 http://www.openstreetmap.org/?lat=35.655317&lon=139.757114
-+X307194 http://www.openstreetmap.org/?lat=35.648975&lon=139.753904
-JK22 http://www.openstreetmap.org/?lat=35.645732&lon=139.747682
-+X131063 http://www.openstreetmap.org/?lat=35.643130&lon=139.743637
-JK21 http://www.openstreetmap.org/?lat=35.635620&lon=139.740781
-+X318823 http://www.openstreetmap.org/?lat=35.631707&lon=139.739141
-JK20 http://www.openstreetmap.org/?lat=35.628496&lon=139.739150
++DIV_JKN http://www.openstreetmap.org/?lat=35.740243&lon=139.757696
+JK34 +JY09 http://www.openstreetmap.org/?lat=35.737748&lon=139.761266
++X271655 http://www.openstreetmap.org/?lat=35.734708&lon=139.764810
+JK33 +JY08 http://www.openstreetmap.org/?lat=35.732137&lon=139.766706
+JK32 +JY07 http://www.openstreetmap.org/?lat=35.728155&lon=139.770625
+JK31 +JY06 http://www.openstreetmap.org/?lat=35.721663&lon=139.777949
++X149769 http://www.openstreetmap.org/?lat=35.718887&lon=139.780190
+JK30 +JY05 http://www.openstreetmap.org/?lat=35.713371&lon=139.776655
++X893390 http://www.openstreetmap.org/?lat=35.711400&lon=139.774879
+JK29 +JY04 http://www.openstreetmap.org/?lat=35.707138&lon=139.774720
+JK28 +JY03 http://www.openstreetmap.org/?lat=35.698358&lon=139.773120
++X114517 http://www.openstreetmap.org/?lat=35.696140&lon=139.772819
+JK27 +JY02 http://www.openstreetmap.org/?lat=35.691781&lon=139.770915
+JK26 +JY01 http://www.openstreetmap.org/?lat=35.681213&lon=139.767208
++X210291 http://www.openstreetmap.org/?lat=35.676315&lon=139.764815
+JK25 +JY30 http://www.openstreetmap.org/?lat=35.674882&lon=139.763104
++X412998 http://www.openstreetmap.org/?lat=35.673191&lon=139.760878
++X203656 http://www.openstreetmap.org/?lat=35.668837&lon=139.758249
+JK24 +JY29 http://www.openstreetmap.org/?lat=35.666177&lon=139.758319
++X982489 http://www.openstreetmap.org/?lat=35.662213&lon=139.758732
+JK23 +JY28 http://www.openstreetmap.org/?lat=35.655317&lon=139.757114
++X687498 http://www.openstreetmap.org/?lat=35.650588&lon=139.755632
++X734587 http://www.openstreetmap.org/?lat=35.647885&lon=139.752531
+JK22 +JY27 http://www.openstreetmap.org/?lat=35.645732&lon=139.747682
++X426840 http://www.openstreetmap.org/?lat=35.643391&lon=139.743819
+JK21 +JY26 http://www.openstreetmap.org/?lat=35.635620&lon=139.740781
+JK20 +JY25 http://www.openstreetmap.org/?lat=35.628496&lon=139.739150
++X875341 http://www.openstreetmap.org/?lat=35.625236&lon=139.738895
++DIV_JKS http://www.openstreetmap.org/?lat=35.619602&lon=139.737430
 JK19 http://www.openstreetmap.org/?lat=35.607252&lon=139.735005
 JK18 http://www.openstreetmap.org/?lat=35.588473&lon=139.727930
 JK17 http://www.openstreetmap.org/?lat=35.562009&lon=139.715794
