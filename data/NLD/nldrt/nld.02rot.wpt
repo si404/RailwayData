@@ -1,8 +1,8 @@
 LOOP http://www.openstreetmap.org/?lat=51.885430&lon=4.553645
 GroHag http://www.openstreetmap.org/?lat=51.887276&lon=4.553715
-+DIV_23E http://www.openstreetmap.org/?lat=51.889624&lon=4.552631
++DIV_3E http://www.openstreetmap.org/?lat=51.889624&lon=4.552631
 Kei http://www.openstreetmap.org/?lat=51.887342&lon=4.549166
-+DIV_23W http://www.openstreetmap.org/?lat=51.885430&lon=4.553645
++DIV_3W http://www.openstreetmap.org/?lat=51.885430&lon=4.553645
 Bred http://www.openstreetmap.org/?lat=51.883465&lon=4.552224
 Ker http://www.openstreetmap.org/?lat=51.881558&lon=4.544199
 Kre http://www.openstreetmap.org/?lat=51.882498&lon=4.539285

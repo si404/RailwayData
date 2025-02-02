@@ -1,11 +1,11 @@
 Gra http://www.openstreetmap.org/?lat=46.806155&lon=6.641793
-+DIV_212 http://www.openstreetmap.org/?lat=46.790122&lon=6.630979
++DIV_R12 http://www.openstreetmap.org/?lat=46.790122&lon=6.630979
 +SKIP_WilBar http://www.openstreetmap.org/?lat=46.788935&lon=6.631805
 YveBai http://www.openstreetmap.org/?lat=46.781604&lon=6.640989
 +DIV_S30 http://www.openstreetmap.org/?lat=46.779381&lon=6.650012
 +X353793 http://www.openstreetmap.org/?lat=46.771629&lon=6.653080
 +X796322 http://www.openstreetmap.org/?lat=46.766691&lon=6.636686
-Epe http://www.openstreetmap.org/?lat=46.746441&lon=6.607440
++SKIP_Epe http://www.openstreetmap.org/?lat=46.746441&lon=6.607440
 EssPit http://www.openstreetmap.org/?lat=46.727720&lon=6.580596
 Cha http://www.openstreetmap.org/?lat=46.709957&lon=6.568365
 Bav http://www.openstreetmap.org/?lat=46.687441&lon=6.559353
@@ -16,8 +16,7 @@ CouPen http://www.openstreetmap.org/?lat=46.606010&lon=6.523819
 VufVil http://www.openstreetmap.org/?lat=46.576135&lon=6.530685
 +X545605 http://www.openstreetmap.org/?lat=46.557459&lon=6.531672
 Bus http://www.openstreetmap.org/?lat=46.547432&lon=6.551585
-+DIV_IC5 http://www.openstreetmap.org/?lat=46.546428&lon=6.553710
-+DIV_R8 http://www.openstreetmap.org/?lat=46.543388&lon=6.564889
++DIV_R8 http://www.openstreetmap.org/?lat=46.543809&lon=6.558409
 Ren http://www.openstreetmap.org/?lat=46.537569&lon=6.578482
 PriMal http://www.openstreetmap.org/?lat=46.526634&lon=6.602848
 Lau http://www.openstreetmap.org/?lat=46.516491&lon=6.629391

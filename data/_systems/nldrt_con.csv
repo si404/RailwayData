@@ -1,11 +1,10 @@
 systemName;route;banner;groupName;roots
+nldrt;1;;Rotterdam;nld.01rot
 nldrt;2;;Rotterdam;nld.02rot
+nldrt;3;;Rotterdam;nld.03rot
 nldrt;4;;Rotterdam;nld.04rot
+nldrt;5;;Rotterdam;nld.05rot
+nldrt;6;;Rotterdam;nld.06rot
 nldrt;7;;Rotterdam;nld.07rot
 nldrt;8;;Rotterdam;nld.08rot
-nldrt;12;;Rotterdam;nld.12rot
-nldrt;20;;Rotterdam;nld.20rot
-nldrt;21;;Rotterdam;nld.21rot
-nldrt;23;;Rotterdam;nld.23rot
-nldrt;24;;Rotterdam;nld.24rot
-nldrt;25;;Rotterdam;nld.25rot
+nldrt;11;;Rotterdam;nld.11rot

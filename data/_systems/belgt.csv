@@ -1,4 +1,5 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-belgt;BEL;1;;Gen;Gent;bel.01gen;
-belgt;BEL;2;;Gen;Gent;bel.02gen;
-belgt;BEL;4;;Gen;Gent;bel.04gen;
+belgt;BEL;T1;;Gen;Gent;bel.t01gen;
+belgt;BEL;T2;;Gen;Gent;bel.t02gen;
+belgt;BEL;T3;;Gen;Gent;bel.t03gen;
+belgt;BEL;T4;;Gen;Gent;bel.t04gen;
