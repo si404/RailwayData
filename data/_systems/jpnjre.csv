@@ -25,7 +25,7 @@ jpnjre;JPN;KamaishiLn;;;Kamaishi Line;jpn.kamaishi;
 jpnjre;JPN;KarasuyamaLn;;;Karasuyama Line;jpn.karasuyama;
 jpnjre;JPN;KashimaLn;;;Kashima Line;jpn.kashima;
 jpnjre;JPN;KawagoeLn;;;Kawagoe Line;jpn.kawagoe;
-jpnjre;JPN;KeihinTohokuLn;;;Keihin-Tohoku Line;jpn.keihintohoku;
+jpnjre;JPN;KeihinTohokuLn;;;Keihin-Tōhoku–Negishi Line;jpn.keihintohoku;NegishiLn
 jpnjre;JPN;KeiyoLn;;;Keiyo Line;jpn.keiyo;
 jpnjre;JPN;KesennumaLn;;;Kesennuma Line;jpn.kesennuma;
 jpnjre;JPN;KitakamiLn;;;Kitakami Line;jpn.kitakami;
@@ -38,7 +38,6 @@ jpnjre;JPN;NambuHamaLn;;;Nambu Hama-Kawasaki Branch Line;jpn.nambuhamakawa;
 jpnjre;JPN;NaritaLn;;;Narita Line;jpn.narita;
 jpnjre;JPN;NaritaAbikoLn;;;Narita Abiko Branch Line;jpn.naritaabiko;
 jpnjre;JPN;NaritaAptLn;;;Narita Airport Line;jpn.naritaairport;
-jpnjre;JPN;NegishiLn;;;Negishi Line;jpn.negishi;
 jpnjre;JPN;NikkoLn;;;Nikko Line;jpn.nikko;
 jpnjre;JPN;OfunatoLn;;;Ofunato Line;jpn.ofunato;
 jpnjre;JPN;OgaLn;;;Oga Line;jpn.oga;
