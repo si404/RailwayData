@@ -472,8 +472,8 @@ jpnvhkr;JPN;Hokuriku Railroad;TMbrown;2;preview
 jpnvicb;JPN;Ichibata Railway;TMbrown;2;preview
 jpnviyo;JPN;Iyo Railway;TMbrown;2;preview
 jpnvizh;JPN;Izuhakone Railway;TMbrown;2;preview
-jpnvkmm;JPN;Kumamoto Railway;TMbrown;2;preview
-jpnvknn;JPN;Konan Railway;TMbrown;2;preview
+jpnvkmm;JPN;Kumamoto Electric Railway (Kumaden);TMbrown;2;preview
+jpnvknn;JPN;Konan Tetsudo;TMbrown;2;preview
 jpnvkto;JPN;Kanto Railway;TMbrown;2;preview
 jpnvktr;JPN;Willer Trains (Kyoto Tango Railway);TMbrown;2;preview
 jpnvohm;JPN;Ohmi Railway;TMbrown;2;preview
@@ -484,29 +484,29 @@ jpnvtch;JPN;Toyama Chiho Railway;TMbrown;2;preview
 jpnvtke;JPN;Takamatsu Kotohira Railway;TMbrown;2;preview
 jpnvtos;JPN;Tosa Kuroshio Railway;TMbrown;2;preview
 jpnmtfk;JPN;Fukuoka Subway;TMblue;3;preview
-jpnmtkb;JPN;Kobe Subway;TMblue;3;preview
-jpnmtky;JPN;Kyoto Subway;TMblue;3;preview
-jpnmtng;JPN;Nagoya Subway;TMblue;3;preview
+jpnmtkb;JPN;Kobe Municipal Subway;TMblue;3;preview
+jpnmtky;JPN;Kyoto Municipal Subway;TMblue;3;preview
+jpnmtng;JPN;Nagoya Municipal Subway;TMblue;3;preview
 jpnmtos;JPN;Osaka Metro;TMblue;3;preview
 jpnmtse;JPN;Sendai Subway;TMblue;3;preview
-jpnmtsp;JPN;Sapporo Subway;TMblue;3;preview
-jpnmtto;JPN;Tokyo Subway;TMblue;3;preview
-jpnmtyk;JPN;Yokohama Subway;TMblue;3;preview
+jpnmtsp;JPN;Sapporo Municipal Subway;TMblue;3;preview
+jpnmtto;JPN;Tokyo Metro & Toei Subway;TMblue;3;preview
+jpnmtyk;JPN;Yokohama Municipal Subway;TMblue;3;preview
 jpnmono;JPN;Japan Monorails;TMblue;3;preview
 jpnagt;JPN;Automated Guideway Transit;TMblue;3;preview
 jpnagtk;JPN;Kobe New Transit (AGT);TMblue;3;preview
-jpntmen;JPN;Enoden Tram;TMred;4;preview
+jpntmen;JPN;Enoshima Electric Railway (Enoden);TMred;4;preview
 jpntmfi;JPN;Fukui Trams;TMred;4;preview
-jpntmhi;JPN;Hiroshima Trams;TMred;4;preview
-jpntmhk;JPN;Hakodate Trams;TMred;4;preview
-jpntmkg;JPN;Kagoshima Trams;TMred;4;preview
-jpntmkm;JPN;Kumamoto Trams;TMred;4;preview
-jpntmky;JPN;Kyoto Trams;TMred;4;preview
-jpntmmy;JPN;Matsuyama Trams;TMred;4;preview
-jpntmna;JPN;Nagasaki Trams;TMred;4;preview
-jpntmok;JPN;Okayama Trams;TMred;4;preview
+jpntmhi;JPN;Hiroshima Electric Railway (Hiroden);TMred;4;preview
+jpntmhk;JPN;Hakodate City Tram;TMred;4;preview
+jpntmkg;JPN;Kagoshima City Tram;TMred;4;preview
+jpntmkm;JPN;Kumamoto City Tram;TMred;4;preview
+jpntmky;JPN;Keifuku Electric Railroad (Randen);TMred;4;preview
+jpntmmy;JPN;Matsuyama Iyotetsu;TMred;4;preview
+jpntmna;JPN;Nagasaki Electric Tramway;TMred;4;preview
+jpntmok;JPN;Okayama Electric Tramway (Okaden);TMred;4;preview
 jpntmos;JPN;Osaka (Hankai) Trams;TMred;4;preview
-jpntmsp;JPN;Sapporo Tram;TMred;4;preview
+jpntmsp;JPN;Sapporo Streetcar;TMred;4;preview
 jpntmta;JPN;Takaoka Manyosen Tram;TMred;4;preview
 jpntmth;JPN;Toyohashi Trams;TMred;4;preview
 jpntmto;JPN;Tokyo Trams;TMred;4;preview
