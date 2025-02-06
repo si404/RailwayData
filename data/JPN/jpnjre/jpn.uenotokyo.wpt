@@ -58,7 +58,7 @@ JT03 +JK20 http://www.openstreetmap.org/?lat=35.628496&lon=139.739150
 +SKIP_JK17 http://www.openstreetmap.org/?lat=35.562009&lon=139.715794
 +X291803 http://www.openstreetmap.org/?lat=35.541061&lon=139.706718
 +X265147 http://www.openstreetmap.org/?lat=35.535396&lon=139.701815
-JT05 +JK16 http://www.openstreetmap.org/?lat=35.531611&lon=139.697174
+JT04 +JK16 http://www.openstreetmap.org/?lat=35.531611&lon=139.697174
 +DIV_Yokosuka http://www.openstreetmap.org/?lat=35.517601&lon=139.680982
 +X621923 http://www.openstreetmap.org/?lat=35.514326&lon=139.678041
 +SKIP_JK15 http://www.openstreetmap.org/?lat=35.508269&lon=139.676281
@@ -71,7 +71,7 @@ JT05 +JK16 http://www.openstreetmap.org/?lat=35.531611&lon=139.697174
 +DIV_YokohamaLn http://www.openstreetmap.org/?lat=35.482540&lon=139.637657
 +SKIP_JK13 http://www.openstreetmap.org/?lat=35.477942&lon=139.633326
 +X464771 http://www.openstreetmap.org/?lat=35.471632&lon=139.627282
-JK12 http://www.openstreetmap.org/?lat=35.466125&lon=139.622715
+JT05 +JK12 http://www.openstreetmap.org/?lat=35.466125&lon=139.622715
 +X421213 http://www.openstreetmap.org/?lat=35.452167&lon=139.606750
 +X737347 http://www.openstreetmap.org/?lat=35.436617&lon=139.558211
 JT06 http://www.openstreetmap.org/?lat=35.400608&lon=139.534209
