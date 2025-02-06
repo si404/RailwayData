@@ -1,16 +1,41 @@
-JU07 http://www.openstreetmap.org/?lat=35.906397&lon=139.624332
-JU06 http://www.openstreetmap.org/?lat=35.893655&lon=139.633846
-JU05 http://www.openstreetmap.org/?lat=35.858835&lon=139.657275
-+X879505 http://www.openstreetmap.org/?lat=35.803022&lon=139.716541
-JU04 http://www.openstreetmap.org/?lat=35.778280&lon=139.720623
-+X760356 http://www.openstreetmap.org/?lat=35.754355&lon=139.736285
-JU03 http://www.openstreetmap.org/?lat=35.746904&lon=139.753660
-+X377877 http://www.openstreetmap.org/?lat=35.740301&lon=139.763810
-JJ02 http://www.openstreetmap.org/?lat=35.728257&lon=139.770478
-+X664067 http://www.openstreetmap.org/?lat=35.719950&lon=139.779731
-JU02/JJ01 http://www.openstreetmap.org/?lat=35.713371&lon=139.776655
-+X601445 http://www.openstreetmap.org/?lat=35.696711&lon=139.772986
-JU01/JT01 http://www.openstreetmap.org/?lat=35.681213&lon=139.767208
+JU07 +JK47 http://www.openstreetmap.org/?lat=35.906397&lon=139.624332
++X259149 http://www.openstreetmap.org/?lat=35.901048&lon=139.627283
+JU06 +JK46 http://www.openstreetmap.org/?lat=35.893655&lon=139.633846
++SKIP_JK45 http://www.openstreetmap.org/?lat=35.884402&lon=139.639154
++DIV_Musashino http://www.openstreetmap.org/?lat=35.875281&lon=139.642974
++SKIP_JK44 http://www.openstreetmap.org/?lat=35.872160&lon=139.646101
++X726900 http://www.openstreetmap.org/?lat=35.866243&lon=139.652377
+JU05 +JK43 http://www.openstreetmap.org/?lat=35.858835&lon=139.657275
++X752752 http://www.openstreetmap.org/?lat=35.855579&lon=139.659640
++SKIP_JK42 http://www.openstreetmap.org/?lat=35.847733&lon=139.669133
++SKIP_JK41 http://www.openstreetmap.org/?lat=35.828120&lon=139.690379
++SKIP_JK40 http://www.openstreetmap.org/?lat=35.815582&lon=139.704479
++SKIP_JK39 http://www.openstreetmap.org/?lat=35.801926&lon=139.717512
++X682766 http://www.openstreetmap.org/?lat=35.799202&lon=139.718392
++X215218 http://www.openstreetmap.org/?lat=35.784930&lon=139.716997
+JU04 +JK38 http://www.openstreetmap.org/?lat=35.778280&lon=139.720623
++X786784 http://www.openstreetmap.org/?lat=35.775860&lon=139.722222
++X591389 http://www.openstreetmap.org/?lat=35.771203&lon=139.722458
++SKIP_JK37 http://www.openstreetmap.org/?lat=35.763845&lon=139.726878
++X303865 http://www.openstreetmap.org/?lat=35.761893&lon=139.728418
++X717321 http://www.openstreetmap.org/?lat=35.758297&lon=139.733525
++SKIP_JK36 http://www.openstreetmap.org/?lat=35.752350&lon=139.738270
++DIV_Oku http://www.openstreetmap.org/?lat=35.750169&lon=139.740794
++X779902 http://www.openstreetmap.org/?lat=35.749168&lon=139.747520
+JU03 http://www.openstreetmap.org/?lat=35.746895&lon=139.753627
++X897695 http://www.openstreetmap.org/?lat=35.742350&lon=139.761769
++X271655 http://www.openstreetmap.org/?lat=35.739338&lon=139.764633
++SKIP_JK33 http://www.openstreetmap.org/?lat=35.732137&lon=139.766706
++SKIP_JK32 http://www.openstreetmap.org/?lat=35.728155&lon=139.770625
++SKIP_JK31 http://www.openstreetmap.org/?lat=35.721663&lon=139.777949
++X149769 http://www.openstreetmap.org/?lat=35.718887&lon=139.780190
+JU02 +JK30 http://www.openstreetmap.org/?lat=35.713371&lon=139.776655
++X893390 http://www.openstreetmap.org/?lat=35.711400&lon=139.774879
++SKIP_JK29 http://www.openstreetmap.org/?lat=35.707138&lon=139.774720
++SKIP_JK28 http://www.openstreetmap.org/?lat=35.698358&lon=139.773120
++X114517 http://www.openstreetmap.org/?lat=35.696140&lon=139.772819
++SKIP_JK27 http://www.openstreetmap.org/?lat=35.691781&lon=139.770915
+JU01/JT01 +JK26 http://www.openstreetmap.org/?lat=35.681213&lon=139.767208
 JT02 http://www.openstreetmap.org/?lat=35.666177&lon=139.758319
 JT03 http://www.openstreetmap.org/?lat=35.628496&lon=139.739150
 +X252617 http://www.openstreetmap.org/?lat=35.597712&lon=139.733723
