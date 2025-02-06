@@ -1,6 +1,7 @@
 systemName;route;banner;groupName;roots
 chncrh;Eurasia;;Eurasia Continental Bridge HSR;chnxj.hsreurasia,chngs.hsreurasiayu,chnqh.hsreurasia,chngs.hsreurasia,chnsn.hsreurasia,chnha.hsreurasia,chnah.hsreurasiadang,chnha.hsreurasiayong,chnah.hsreurasia,chnjs.hsreurasia
 chncrh;GuangShenGang;;Guangshengang HSR;chngd.hsrguangshengang,hkg.hsrguangshengang
+chncrh;JingHa;;Jingha HSR;chnbj.hsrjingha,chnhe.hsrjingha,chnln.hsrjingha,chnjl.hsrjingha,chnhl.hsrjingha
 chncrh;JingGang;;Jinggang HSR;chngd.hsrjinggang,hkg.hsrjinggang
 chncrh;JingGuang;;Jingguang HSR;chnbj.hsrjingguang,chnhe.hsrjingguang,chnha.hsrjingguang,chnhb.hsrjingguang,chnhn.hsrjingguang,chngd.hsrjingguang
 chncrh;JingHu;;Jinghu HSR;chnbj.hsrjinghu,chnhe.hsrjinghu,chntj.hsrjinghu,chnhe.hsrjinghucang,chnsd.hsrjinghu,chnjs.hsrjinghuxu,chnah.hsrjinghu,chnjs.hsrjinghu,chnsh.hsrjinghu
