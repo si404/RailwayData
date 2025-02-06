@@ -1,0 +1,9 @@
+DenHaagHS http://www.openstreetmap.org/?lat=52.069733&lon=4.322476
++DIV_CenS http://www.openstreetmap.org/?lat=52.073242&lon=4.330244
++DIV_CenN http://www.openstreetmap.org/?lat=52.076268&lon=4.337153
+DenHaagLaanNOI http://www.openstreetmap.org/?lat=52.078939&lon=4.343119
++SKIP_DenHaagMar http://www.openstreetmap.org/?lat=52.090964&lon=4.370027
++SKIP_Voos http://www.openstreetmap.org/?lat=52.126177&lon=4.433713
++SKIP_DeVink http://www.openstreetmap.org/?lat=52.147164&lon=4.456244
++DIV_Alp http://www.openstreetmap.org/?lat=52.163456&lon=4.478023
+LeiCen http://www.openstreetmap.org/?lat=52.166391&lon=4.482293

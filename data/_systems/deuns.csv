@@ -2,6 +2,7 @@ systemName;region;route;banner;abbrev;city;root;altRouteNames
 deuns;DEU-BY;S1;;Nur;Nürnberg;deuby.s01nur;
 deuns;DEU-BY;S2;;Nur;Nürnberg;deuby.s02nur;
 deuns;DEU-BY;S3;;Nur;Nürnberg;deuby.s03nur;
+deuns;DEU-BW;S4;;Nur;Nürnberg;deubw.s04nur;
 deuns;DEU-BY;S4;;Nur;Nürnberg;deuby.s04nur;
 deuns;DEU-BY;S5;;Nur;Nürnberg;deuby.s05nur;
 deuns;DEU-BY;S6;;Nur;Nürnberg;deuby.s06nur;

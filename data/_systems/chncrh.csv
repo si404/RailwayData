@@ -1,6 +1,8 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-chncrh;CHN-GD;GuangShenJiang;;;Guangshenjiang HSR;chngd.hsrguangshenjiang;
-chncrh;HKG;GuangShenJiang;;;Guangshenjiang HSR;hkg.hsrguangshenjiang;
+chncrh;CHN-GD;GuangShenGang;;;Guangshengang HSR;chngd.hsrguangshengang;
+chncrh;HKG;GuangShenGang;;;Guangshengang HSR;hkg.hsrguangshengang;
+chncrh;CHN-GD;JingGang;;;JingGang HSR;chngd.hsrjinggang;
+chncrh;HKG;JingGang;;;JingGang HSR;hkg.hsrjinggang;
 chncrh;CHN-BJ;JingGuang;;;Jingguang HSR;chnbj.hsrjingguang;
 chncrh;CHN-HE;JingGuang;;;Jingguang HSR;chnhe.hsrjingguang;
 chncrh;CHN-HA;JingGuang;;;Jingguang HSR;chnha.hsrjingguang;
@@ -16,9 +18,15 @@ chncrh;CHN-JS;JingHuXu;;;Jinghu HSR (Xuzhou);chnjs.hsrjinghuxu;
 chncrh;CHN-AH;JingHu;;;Jinghu HSR;chnah.hsrjinghu;
 chncrh;CHN-JS;JingHu;;;Jinghu HSR;chnjs.hsrjinghu;
 chncrh;CHN-SH;JingHu;;;Jinghu HSR;chnsh.hsrjinghu;
+chncrh;CHN-GD;HangShen;;;Hangshen HSR;chngd.hsrhangshen;
 chncrh;CHN-SH;HuKun;;;Hukun HSR;chnsh.hsrhukun;
 chncrh;CHN-ZJ;HuKun;;;Hukun HSR;chnzj.hsrhukun;
 chncrh;CHN-JX;HuKun;;;Hukun HSR;chnjx.hsrhukun;
 chncrh;CHN-HN;HuKun;;;Hukun HSR;chnhn.hsrhukun;
 chncrh;CHN-GZ;HuKun;;;Hukun HSR;chngz.hsrhukun;
 chncrh;CHN-YN;HuKun;;;Hukun HSR;chnyn.hsrhukun;
+chncrh;CHN-SC;LanGuang;;;Languang HSR;chnsc.hsrlanguang;
+chncrh;CHN-YN;LanGuang;;;Languang HSR;chnyn.hsrlanguang;
+chncrh;CHN-GZ;LanGuang;;;Languang HSR;chngz.hsrlanguang;
+chncrh;CHN-GX;LanGuang;;;Languang HSR;chngx.hsrlanguang;
+chncrh;CHN-GD;LanGuang;;;Languang HSR;chngd.hsrlanguang;

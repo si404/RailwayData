@@ -1,5 +1,8 @@
 systemName;route;banner;groupName;roots
-chncrh;GuangShenJiang;;Guangshenjiang HSR;chngd.hsrguangshenjiang,hkg.hsrguangshenjiang
+chncrh;GuangShenGang;;Guangshengang HSR;chngd.hsrguangshengang,hkg.hsrguangshengang
+chncrh;JingGang;;Jinggang HSR;chngd.hsrjinggang,hkg.hsrjinggang
 chncrh;JingGuang;;Jingguang HSR;chnbj.hsrjingguang,chnhe.hsrjingguang,chnha.hsrjingguang,chnhb.hsrjingguang,chnhn.hsrjingguang,chngd.hsrjingguang
 chncrh;JingHu;;Jinghu HSR;chnbj.hsrjinghu,chnhe.hsrjinghu,chntj.hsrjinghu,chnhe.hsrjinghucang,chnsd.hsrjinghu,chnjs.hsrjinghuxu,chnah.hsrjinghu,chnjs.hsrjinghu,chnsh.hsrjinghu
-chncrh;HuKun;;Hukunn HSR;chnsh.hsrhukun,chnzj.hsrhukun,chnjx.hsrhukun,chnhn.hsrhukun,chngz.hsrhukun,chnyn.hsrhukun
+chncrh;HangShen;;Hangshen HSR;chngd.hsrhangshen
+chncrh;HuKun;;Hukun HSR;chnsh.hsrhukun,chnzj.hsrhukun,chnjx.hsrhukun,chnhn.hsrhukun,chngz.hsrhukun,chnyn.hsrhukun
+chncrh;LanGuang;;Languang HSR;chnsc.hsrlanguang,chnyn.hsrlanguang,chngz.hsrlanguang,chngx.hsrlanguang,chngd.hsrlanguang

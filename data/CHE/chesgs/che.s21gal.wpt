@@ -26,7 +26,7 @@ Buh http://www.openstreetmap.org/?lat=47.372910&lon=9.420991
 +SKIP_Zwe http://www.openstreetmap.org/?lat=47.360041&lon=9.444594
 Gais http://www.openstreetmap.org/?lat=47.360808&lon=9.451182
 +DIV_S24 http://www.openstreetmap.org/?lat=47.360960&lon=9.452319
-Sam http://www.openstreetmap.org/?lat=47.348266&lon=9.432385
++SKIP_Sam http://www.openstreetmap.org/?lat=47.348266&lon=9.432385
 +SKIP_Hir http://www.openstreetmap.org/?lat=47.331283&lon=9.422858
 +DIV_S23 http://www.openstreetmap.org/?lat=47.327850&lon=9.413352
 App http://www.openstreetmap.org/?lat=47.328432&lon=9.409597

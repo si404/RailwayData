@@ -1,7 +1,7 @@
 Wie http://www.openstreetmap.org/?lat=47.566117&lon=9.106164
 +DIV_S14 http://www.openstreetmap.org/?lat=47.563569&lon=9.113116
-Bur http://www.openstreetmap.org/?lat=47.548972&lon=9.149766
-Sul http://www.openstreetmap.org/?lat=47.538601&lon=9.183583
++SKIP_Bur http://www.openstreetmap.org/?lat=47.548972&lon=9.149766
++SKIP_Sul http://www.openstreetmap.org/?lat=47.538601&lon=9.183583
 +DIV_S5 http://www.openstreetmap.org/?lat=47.538282&lon=9.185300
 +SKIP_Erl http://www.openstreetmap.org/?lat=47.551571&lon=9.226177
 +SKIP_Obe http://www.openstreetmap.org/?lat=47.553287&lon=9.271002
@@ -17,13 +17,5 @@ Arb http://www.openstreetmap.org/?lat=47.510606&lon=9.433222
 Ste http://www.openstreetmap.org/?lat=47.500924&lon=9.441934
 Horn http://www.openstreetmap.org/?lat=47.493081&lon=9.463284
 RorHaf http://www.openstreetmap.org/?lat=47.478548&lon=9.493732
-+DIV_S2W http://www.openstreetmap.org/?lat=47.477413&lon=9.500470
++DIV_S2 http://www.openstreetmap.org/?lat=47.477413&lon=9.500470
 Ror http://www.openstreetmap.org/?lat=47.477790&lon=9.505255
-+DIV_S25 http://www.openstreetmap.org/?lat=47.478225&lon=9.513066
-Sta http://www.openstreetmap.org/?lat=47.480422&lon=9.534459
-+X501578 http://www.openstreetmap.org/?lat=47.478711&lon=9.574327
-Rhe http://www.openstreetmap.org/?lat=47.467274&lon=9.590828
-+DIV_26 http://www.openstreetmap.org/?lat=47.462719&lon=9.594584
-StMar http://www.openstreetmap.org/?lat=47.453333&lon=9.638293
-+DIV_S2E http://www.openstreetmap.org/?lat=47.451795&lon=9.646146
-CHE/AUT http://www.openstreetmap.org/?lat=47.447695&lon=9.657884

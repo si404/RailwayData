@@ -1,5 +1,6 @@
 ParGareEst http://www.openstreetmap.org/?lat=48.877075&lon=2.359453
 +DIV_EW http://www.openstreetmap.org/?lat=48.889242&lon=2.366030
++DIV_CDG http://www.openstreetmap.org/?lat=48.893411&lon=2.368433
 +SKIP_RosaPar http://www.openstreetmap.org/?lat=48.896423&lon=2.374077
 +SKIP_Pan http://www.openstreetmap.org/?lat=48.898003&lon=2.400427
 +SKIP_NoiSec http://www.openstreetmap.org/?lat=48.896592&lon=2.459779
