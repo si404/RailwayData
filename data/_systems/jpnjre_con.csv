@@ -32,7 +32,10 @@ jpnjre;KitakamiLn;;Kitakami Line;jpn.kitakami
 jpnjre;KoumiLn;;Koumi Line;jpn.koumi
 jpnjre;KururiLn;;Kururi Line;jpn.kururi
 jpnjre;MitoLn;;Mito Line;jpn.mito
-jpnjre;MusashinoLn;;Musashino Line;jpn.musashino
+jpnjre;MusashinoLn;;Musashino Line (to Tokyo);jpn.musashino
+jpnjre;MusashinoLnMa;;Musashino Line (to Makuhari);jpn.musashinoma
+jpnjre;MusashinoTrain;;Musashino Line (Musashino (Hachiōji/Ōmiya));jpn.musashinotrain
+jpnjre;MusashinoShimosa;;Musashino Line (Shimosa);jpn.shimosa
 jpnjre;NambuLn;;Nambu Line;jpn.nambu
 jpnjre;NambuHamaLn;;Nambu Hama-Kawasaki Branch Line;jpn.nambuhamakawa
 jpnjre;NaritaLn;;Narita Line;jpn.narita
