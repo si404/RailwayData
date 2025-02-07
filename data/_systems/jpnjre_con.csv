@@ -57,7 +57,6 @@ jpnjre;SaikyoLn;;Saikyo Line;jpn.saikyo
 jpnjre;SensekiLn;;Senseki Line;jpn.senseki
 jpnjre;SensekiTohokuLn;;Senseki-Tohoku Line;jpn.sensekitohoku
 jpnjre;SenzanLn;;Senzan Line;jpn.senzan
-jpnjre;ShibauraLn;;Tsurumi Line, Shibaura Branch;jpn.tsurumishibaura
 jpnjre;ShinetsuLnCen;;Shinetsu Line Central;jpn.shinetsucentral
 jpnjre;ShinetsuLnN;;Shinetsu Line North;jpn.shinetsunorth
 jpnjre;ShinetsuLnS;;Shinetsu Line South;jpn.shinetsusouth
@@ -76,7 +75,8 @@ jpnjre;TohokuRifuLn;;Tohoku Line, Rifu Branch;jpn.tohokurifu
 jpnjre;TokaidoLnE;;Tokaido Main Line East;jpn.tokaidoeast
 jpnjre;TsugaruLn;;Tsugaru Line;jpn.tsugaru
 jpnjre;TsurumiLn;;Tsurumi Line;jpn.tsurumi
-jpnjre;TsurumiOkawaLn;;Tsurumi Line, Okawa Branch;jpn.tsurumiokawa
+jpnjre;TsurumiLnOkawa;;Tsurumi Line, Okawa Branch;jpn.tsurumiokawa
+jpnjre;TsurumiLnShibaura;;Tsurumi Line, Shibaura Branch;jpn.tsurumishibaura
 jpnjre;UchiboLn;;Uchibo Line;jpn.uchibo
 jpnjre;UenoTokyoLn;;Ueno-Tokyo Line;jpn.uenotokyo
 jpnjre;UetsuLn;;Uetsu Line;jpn.uetsu
