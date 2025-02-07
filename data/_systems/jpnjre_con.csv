@@ -18,8 +18,9 @@ jpnjre;IiyamaLn;;Iiyama Line;jpn.iiyama
 jpnjre;IshinomakiLn;;Ishinomaki Line;jpn.ishinomaki
 jpnjre;ItoLn;;Ito Line;jpn.ito
 jpnjre;ItsukaichiLn;;Itsukaichi Line;jpn.itsukaichi
-jpnjre;JobanLn;;Joban Line;jpn.joban
-jpnjre;JobanRapidLn;;Joban Rapid Line;jpn.jobanrapid
+jpnjre;JobanLn;;Jōban Line;jpn.joban
+jpnjre;JobanLnLocal;;Jōban Line (Local);jpn.jobanlocal
+jpnjre;JobanRapidLn;;Jōban Line (Rapid);jpn.jobanrapid
 jpnjre;JoetsuLn;;Joetsu Line;jpn.joetsumain
 jpnjre;KamaishiLn;;Kamaishi Line;jpn.kamaishi
 jpnjre;KarasuyamaLn;;Karasuyama Line;jpn.karasuyama
