@@ -6,8 +6,8 @@ jpnlexe;AzusaLtdTok;;Azusa Ltd Exp Tokyo;jpn.lexazusatokyo
 jpnlexe;HitachiLtd;;Hitachi Ltd Exp;jpn.lexhitachi
 jpnlexe;KinugawaLtd;;Kinugawa Ltd Exp;jpn.lexkinugawa
 jpnlexe;KusatsuLtd;;Kusatsu-Shima Ltd Exp;jpn.lexkusatsushima
-jpnlexe;NarExpO;Ofuna;Narita Express;jpn.lexnaritao
-jpnlexe;NarExpShin;Shinjuku;Narita Express;jpn.lexnaritashin
+jpnlexe;NarExpO;;Narita Express Ofuna;jpn.lexnaritao
+jpnlexe;NarExpShin;;Narita Express Shinjuku;jpn.lexnaritashin
 jpnlexe;ShinshuLtd;;Shinshu Ltd Exp;jpn.lexshinshu
 jpnlexe;SpaciaNikkoLtd;;Spacia Nikko Ltd Exp;jpn.lexspacianikko
 jpnlexe;TokiwaLtd;;Tokiwa Ltd Exp;jpn.lextokiwa
