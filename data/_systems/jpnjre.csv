@@ -9,7 +9,8 @@ jpnjre;JPN;ChuoRapidLn;;;Chūō (Rapid) Line;jpn.chuorapid;
 jpnjre;JPN;ChuoSobuLn;;;Chūō-Sōbu Line;jpn.chuosobu;
 jpnjre;JPN;EchigoLn;;;Echigo Line;jpn.echigo;
 jpnjre;JPN;GonoLn;;;Gono Line;jpn.gono;
-jpnjre;JPN;HachikoLn;;;Hachiko Line;jpn.hachiko;
+jpnjre;JPN;HachikoLn;;;Hachiko Line (Non-electrified);jpn.hachiko;
+jpnjre;JPN;HachikoKawagoe;;;Hachiko-Kawagoe through service;jpn.hachikokawagoe;
 jpnjre;JPN;HachinoheLn;;;Hachinohe Line;jpn.hachinohe;
 jpnjre;JPN;HakushinLn;;;Hakushin Line;jpn.hakushin;
 jpnjre;JPN;HanawaLn;;;Hanawa Line;jpn.hanawa;
@@ -25,7 +26,7 @@ jpnjre;JPN;JoetsuLn;;;Joetsu Line;jpn.joetsumain;
 jpnjre;JPN;KamaishiLn;;;Kamaishi Line;jpn.kamaishi;
 jpnjre;JPN;KarasuyamaLn;;;Karasuyama Line;jpn.karasuyama;
 jpnjre;JPN;KashimaLn;;;Kashima Line;jpn.kashima;
-jpnjre;JPN;KawagoeLn;;;Kawagoe Line;jpn.kawagoe;
+jpnjre;JPN;KawagoeLn;;;Kawagoe Line (Kawagoe-Ōmiya);jpn.kawagoe;
 jpnjre;JPN;KeihinTohokuLn;;;Keihin-Tōhoku–Negishi Line;jpn.keihintohoku;NegishiLn
 jpnjre;JPN;KeiyoLn;;;Keiyo Line;jpn.keiyo;
 jpnjre;JPN;KesennumaLn;;;Kesennuma Line;jpn.kesennuma;
