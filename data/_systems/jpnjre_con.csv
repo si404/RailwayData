@@ -9,11 +9,11 @@ jpnjre;ChuoRapidLn;;Chūō (Rapid) Line;jpn.chuorapid
 jpnjre;ChuoSobuLn;;Chūō-Sōbu Line;jpn.chuosobu
 jpnjre;EchigoLn;;Echigo Line;jpn.echigo
 jpnjre;GonoLn;;Gono Line;jpn.gono
-jpnjre;HachikoLn;;Hachiko Line;jpn.hachiko
+jpnjre;HachikoLn;;Hachiko Line (Non-electrified);jpn.hachiko
+jpnjre;HachikoKawagoe;;Hachikō-Kawagoe through service;jpn.hachikokawagoe
 jpnjre;HachinoheLn;;Hachinohe Line;jpn.hachinohe
 jpnjre;HakushinLn;;Hakushin Line;jpn.hakushin
 jpnjre;HanawaLn;;Hanawa Line;jpn.hanawa
-jpnjre;HitachiOtaLn;;Suigun Line, Hitachi-Ota Branch;jpn.suigunhitachi
 jpnjre;IiyamaLn;;Iiyama Line;jpn.iiyama
 jpnjre;IshinomakiLn;;Ishinomaki Line;jpn.ishinomaki
 jpnjre;ItoLn;;Ito Line;jpn.ito
@@ -25,7 +25,7 @@ jpnjre;JoetsuLn;;Joetsu Line;jpn.joetsumain
 jpnjre;KamaishiLn;;Kamaishi Line;jpn.kamaishi
 jpnjre;KarasuyamaLn;;Karasuyama Line;jpn.karasuyama
 jpnjre;KashimaLn;;Kashima Line;jpn.kashima
-jpnjre;KawagoeLn;;Kawagoe Line;jpn.kawagoe
+jpnjre;KawagoeLn;;Kawagoe Line (Kawagoe-Ōmiya);jpn.kawagoe
 jpnjre;KeihinTohokuLn;;Keihin-Tohoku Line;jpn.keihintohoku
 jpnjre;KeiyoLn;;Keiyo Line;jpn.keiyo
 jpnjre;KesennumaLn;;Kesennuma Line;jpn.kesennuma
@@ -66,6 +66,7 @@ jpnjre;SobuMainLn;;Sōbu Main Line;jpn.sobu
 jpnjre;SotetsuJRLn;;Sōtetsu–JR Link Line;jpn.sotetsujr
 jpnjre;SotoboLn;;Sotobo Line;jpn.sotobo
 jpnjre;SuigunLn;;Suigun Line;jpn.suigun
+jpnjre;HitachiOtaLn;;Suigun Line, Hitachi-Ota Branch;jpn.suigunhitachi
 jpnjre;TadamiLn;;Tadami Line;jpn.tadami
 jpnjre;TakasakiLn;;Takasaki Line;jpn.takasaki
 jpnjre;TazawakoLn;;Tazawako Line;jpn.tazawako
