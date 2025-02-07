@@ -35,13 +35,31 @@ JT04 +JK16 http://www.openstreetmap.org/?lat=35.531611&lon=139.697174
 +SKIP_JK13 http://www.openstreetmap.org/?lat=35.477942&lon=139.633326
 +X464771 http://www.openstreetmap.org/?lat=35.471632&lon=139.627282
 JT05 +JK12 http://www.openstreetmap.org/?lat=35.466125&lon=139.622715
-+X421213 http://www.openstreetmap.org/?lat=35.452167&lon=139.606750
-+X737347 http://www.openstreetmap.org/?lat=35.436617&lon=139.558211
-JT06 http://www.openstreetmap.org/?lat=35.400608&lon=139.534209
-+DIV_Negishi http://www.openstreetmap.org/?lat=35.365186&lon=139.530357
++X521583 http://www.openstreetmap.org/?lat=35.455407&lon=139.612522
++X875766 http://www.openstreetmap.org/?lat=35.450856&lon=139.604420
++SKIP_JS12 http://www.openstreetmap.org/?lat=35.446684&lon=139.599701
++X917930 http://www.openstreetmap.org/?lat=35.445131&lon=139.597296
++X318567 http://www.openstreetmap.org/?lat=35.444895&lon=139.595247
++X766959 http://www.openstreetmap.org/?lat=35.447132&lon=139.578601
++X600936 http://www.openstreetmap.org/?lat=35.446700&lon=139.576932
++DIV_JS11 http://www.openstreetmap.org/?lat=35.441730&lon=139.567104
++X268914 http://www.openstreetmap.org/?lat=35.439345&lon=139.562524
++X725912 http://www.openstreetmap.org/?lat=35.433330&lon=139.557288
++SKIP_JS11 http://www.openstreetmap.org/?lat=35.430354&lon=139.556765
++X639975 http://www.openstreetmap.org/?lat=35.425761&lon=139.555679
++X788709 http://www.openstreetmap.org/?lat=35.421966&lon=139.553190
++X346357 http://www.openstreetmap.org/?lat=35.413948&lon=139.538319
++X676277 http://www.openstreetmap.org/?lat=35.410791&lon=139.535079
++X542143 http://www.openstreetmap.org/?lat=35.402982&lon=139.533631
+JT06 +JS10 http://www.openstreetmap.org/?lat=35.400608&lon=139.534209
++X747339 http://www.openstreetmap.org/?lat=35.395007&lon=139.535884
++X838465 http://www.openstreetmap.org/?lat=35.380268&lon=139.534370
++X962410 http://www.openstreetmap.org/?lat=35.370750&lon=139.529541
++DIV_Ofuna http://www.openstreetmap.org/?lat=35.365186&lon=139.530357
 +X593098 http://www.openstreetmap.org/?lat=35.361126&lon=139.529339
 +X742112 http://www.openstreetmap.org/?lat=35.357429&lon=139.531817
-JT07 http://www.openstreetmap.org/?lat=35.353988&lon=139.531298
+JT07 +JS09 http://www.openstreetmap.org/?lat=35.353988&lon=139.531298
++X705498 http://www.openstreetmap.org/?lat=35.349873&lon=139.528877
 +X387375 http://www.openstreetmap.org/?lat=35.336081&lon=139.503150
 JT08 http://www.openstreetmap.org/?lat=35.338746&lon=139.487214
 JT09 http://www.openstreetmap.org/?lat=35.336869&lon=139.446958
