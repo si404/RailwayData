@@ -1,47 +1,86 @@
-Shinagawa http://www.openstreetmap.org/?lat=35.628496&lon=139.739150
-+SKIP_JT02 http://www.openstreetmap.org/?lat=35.666177&lon=139.758319
-Tokyo http://www.openstreetmap.org/?lat=35.681213&lon=139.767208
-+X601445 http://www.openstreetmap.org/?lat=35.696711&lon=139.772986
-Ueno http://www.openstreetmap.org/?lat=35.713371&lon=139.776655
-+X664067 http://www.openstreetmap.org/?lat=35.719950&lon=139.779731
-+SKIP_JJ02 http://www.openstreetmap.org/?lat=35.728155&lon=139.770625
+Shinagawa +JK20 http://www.openstreetmap.org/?lat=35.628496&lon=139.739150
++SKIP_JK21 http://www.openstreetmap.org/?lat=35.635620&lon=139.740781
++X426840 http://www.openstreetmap.org/?lat=35.643391&lon=139.743819
++SKIP_JK22 http://www.openstreetmap.org/?lat=35.645732&lon=139.747682
++X734587 http://www.openstreetmap.org/?lat=35.647885&lon=139.752531
++X687498 http://www.openstreetmap.org/?lat=35.650588&lon=139.755632
++SKIP_JK23 http://www.openstreetmap.org/?lat=35.655317&lon=139.757114
++X982489 http://www.openstreetmap.org/?lat=35.662213&lon=139.758732
++SKIP_JT02 +JK24 http://www.openstreetmap.org/?lat=35.666177&lon=139.758319
++X203656 http://www.openstreetmap.org/?lat=35.668837&lon=139.758249
++X412998 http://www.openstreetmap.org/?lat=35.673191&lon=139.760878
++SKIP_JK25 http://www.openstreetmap.org/?lat=35.674882&lon=139.763104
++X210291 http://www.openstreetmap.org/?lat=35.676315&lon=139.764815
+Tokyo +JK26 http://www.openstreetmap.org/?lat=35.681213&lon=139.767208
++SKIP_JK27 http://www.openstreetmap.org/?lat=35.691781&lon=139.770915
++X114517 http://www.openstreetmap.org/?lat=35.696140&lon=139.772819
++SKIP_JK28 http://www.openstreetmap.org/?lat=35.698358&lon=139.773120
++SKIP_JK29 http://www.openstreetmap.org/?lat=35.707138&lon=139.774720
++X893390 http://www.openstreetmap.org/?lat=35.711400&lon=139.774879
+Ueno +JK30 http://www.openstreetmap.org/?lat=35.713371&lon=139.776655
++X149769 http://www.openstreetmap.org/?lat=35.718887&lon=139.780190
++SKIP_JK31 http://www.openstreetmap.org/?lat=35.721663&lon=139.777949
+Nippori http://www.openstreetmap.org/?lat=35.728155&lon=139.770625
++X545633 http://www.openstreetmap.org/?lat=35.729870&lon=139.769386
++X498676 http://www.openstreetmap.org/?lat=35.731155&lon=139.769300
 +X791708 http://www.openstreetmap.org/?lat=35.732725&lon=139.770413
++DIV_Tabata http://www.openstreetmap.org/?lat=35.733798&lon=139.773517
 +SKIP_JJ03 http://www.openstreetmap.org/?lat=35.733291&lon=139.777771
 +X370459 http://www.openstreetmap.org/?lat=35.731033&lon=139.794945
++X403654 http://www.openstreetmap.org/?lat=35.731333&lon=139.796919
 +SKIP_JJ04 http://www.openstreetmap.org/?lat=35.733088&lon=139.798916
++X119991 http://www.openstreetmap.org/?lat=35.736150&lon=139.800500
 +X426245 http://www.openstreetmap.org/?lat=35.740543&lon=139.801798
 +SKIP_JJ05 http://www.openstreetmap.org/?lat=35.749553&lon=139.805242
-+X135451 http://www.openstreetmap.org/?lat=35.759834&lon=139.811926
++X245906 http://www.openstreetmap.org/?lat=35.752647&lon=139.805853
++X720225 http://www.openstreetmap.org/?lat=35.754471&lon=139.806776
++X135451 http://www.openstreetmap.org/?lat=35.759991&lon=139.811864
++X879240 http://www.openstreetmap.org/?lat=35.760445&lon=139.812663
++X954739 http://www.openstreetmap.org/?lat=35.760913&lon=139.814149
 +SKIP_JL19 http://www.openstreetmap.org/?lat=35.762126&lon=139.824865
++X621077 http://www.openstreetmap.org/?lat=35.764100&lon=139.842440
 +SKIP_JL20 http://www.openstreetmap.org/?lat=35.766659&lon=139.847803
 +SKIP_JL21 http://www.openstreetmap.org/?lat=35.769575&lon=139.870688
++X262122 http://www.openstreetmap.org/?lat=35.768871&lon=139.885675
 +X837891 http://www.openstreetmap.org/?lat=35.770796&lon=139.892845
-+SKIP_JL22 http://www.openstreetmap.org/?lat=35.784429&lon=139.900621
++X237173 http://www.openstreetmap.org/?lat=35.774232&lon=139.896833
++SKIP_JJ06 +JL22 http://www.openstreetmap.org/?lat=35.784429&lon=139.900621
++X419053 http://www.openstreetmap.org/?lat=35.792571&lon=139.904365
 +SKIP_JL23 http://www.openstreetmap.org/?lat=35.800647&lon=139.911752
++X756974 http://www.openstreetmap.org/?lat=35.806274&lon=139.915676
 +SKIP_JL24 http://www.openstreetmap.org/?lat=35.811799&lon=139.917201
++DIV_MusashinoS http://www.openstreetmap.org/?lat=35.819292&lon=139.919385
 +SKIP_JL25 http://www.openstreetmap.org/?lat=35.825503&lon=139.921151
++DIV_MusashinoN http://www.openstreetmap.org/?lat=35.830383&lon=139.924766
 +SKIP_JL26 http://www.openstreetmap.org/?lat=35.833426&lon=139.931204
 +SKIP_JL27 http://www.openstreetmap.org/?lat=35.844615&lon=139.954209
-+SKIP_JL28 http://www.openstreetmap.org/?lat=35.862005&lon=139.970729
++X747418 http://www.openstreetmap.org/?lat=35.850187&lon=139.961485
+Kashiwa +JL28 http://www.openstreetmap.org/?lat=35.862005&lon=139.970729
++X778397 http://www.openstreetmap.org/?lat=35.870334&lon=139.977429
++X207629 http://www.openstreetmap.org/?lat=35.875411&lon=139.984789
 +SKIP_JL29 http://www.openstreetmap.org/?lat=35.875670&lon=139.988013
-+SKIP_JL30 http://www.openstreetmap.org/?lat=35.872738&lon=140.010766
-+SKIP_JL31 http://www.openstreetmap.org/?lat=35.872588&lon=140.040885
-+SKIP_JL32 http://www.openstreetmap.org/?lat=35.896303&lon=140.063474
++X748921 http://www.openstreetmap.org/?lat=35.872221&lon=140.003629
++SKIP_JJ08 +JL30 http://www.openstreetmap.org/?lat=35.872738&lon=140.010766
++X648676 http://www.openstreetmap.org/?lat=35.873386&lon=140.022823
++SKIP_JJ09 +JL31 http://www.openstreetmap.org/?lat=35.872588&lon=140.040885
++X262072 http://www.openstreetmap.org/?lat=35.872646&lon=140.045471
++X468524 http://www.openstreetmap.org/?lat=35.875037&lon=140.049527
+JJ10 +JL32 http://www.openstreetmap.org/?lat=35.896303&lon=140.063474
 +SKIP_Fujishiro http://www.openstreetmap.org/?lat=35.920578&lon=140.118237
-+SKIP_Ryugasaki http://www.openstreetmap.org/?lat=35.930108&lon=140.138120
-+SKIP_Ushiku http://www.openstreetmap.org/?lat=35.975510&lon=140.141038
-+SKIP_HitaUshi http://www.openstreetmap.org/?lat=36.007407&lon=140.158341
-+SKIP_Arakawaoki http://www.openstreetmap.org/?lat=36.030735&lon=140.166152
+Ryugasaki http://www.openstreetmap.org/?lat=35.930108&lon=140.138120
+Ushiku http://www.openstreetmap.org/?lat=35.975510&lon=140.141038
+HitaUshi http://www.openstreetmap.org/?lat=36.007407&lon=140.158341
+Arakawaoki http://www.openstreetmap.org/?lat=36.030735&lon=140.166152
 Tsuchiura http://www.openstreetmap.org/?lat=36.077992&lon=140.206012
 +SKIP_Kandatsu http://www.openstreetmap.org/?lat=36.120500&lon=140.248632
 +SKIP_Takahama http://www.openstreetmap.org/?lat=36.163784&lon=140.294715
 +X255478 http://www.openstreetmap.org/?lat=36.172551&lon=140.297065
-+SKIP_Ishioka http://www.openstreetmap.org/?lat=36.191079&lon=140.280049
+Ishioka http://www.openstreetmap.org/?lat=36.191079&lon=140.280049
 +SKIP_Hatori http://www.openstreetmap.org/?lat=36.247310&lon=140.286929
 +SKIP_Iwama http://www.openstreetmap.org/?lat=36.295423&lon=140.276503
-+SKIP_Tomobe http://www.openstreetmap.org/?lat=36.350735&lon=140.306316
+Tomobe http://www.openstreetmap.org/?lat=36.350735&lon=140.306316
 +SKIP_Uchihara http://www.openstreetmap.org/?lat=36.370436&lon=140.353290
-+SKIP_Akatsuka http://www.openstreetmap.org/?lat=36.381862&lon=140.415254
+Akatsuka http://www.openstreetmap.org/?lat=36.381862&lon=140.415254
 +X527997 http://www.openstreetmap.org/?lat=36.384557&lon=140.434923
 +SKIP_Kairakuen http://www.openstreetmap.org/?lat=36.373092&lon=140.456227
 Mito http://www.openstreetmap.org/?lat=36.370809&lon=140.476237
