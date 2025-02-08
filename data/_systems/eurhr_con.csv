@@ -8,7 +8,6 @@ eurhr;AmbMusRwy;;Amberley Museum Railway;eng.ambmusrwy
 eurhr;AVLR;;Apdale Valley Light Railway;eng.avlr
 eurhr;AppFroRwy;;Appleby - Frodingham Railway;eng.appfrorwy
 eurhr;AvonVlyRwy;;Avon Valley Railway;eng.avonvlyrwy
-eurhr;BalaLakeRwy;;Bala Lake Railway;wls.balalakerwy
 eurhr;BarTouRwy;;Barry Tourist Railway;wls.bartourwy
 eurhr;BatLn;;Battlefield Line;eng.batln
 eurhr;BeaTwy;;Beamish Tramway;eng.beatwy
@@ -20,7 +19,6 @@ eurhr;BTPT;;Blackpool Trams Promenade Tour;eng.btpt
 eurhr;BlaZooRwy;;Blackpool Zoo Railway;eng.blazoorwy
 eurhr;BlePkRwy;;Blenheim Park Railway;eng.blepkrwy
 eurhr;BonKinRwy;;Bo'ness & Kinneil Railway;sct.bonkinrwy
-eurhr;BreMouRwy;;Brecon Mountain Railway;wls.bremourwy
 eurhr;BWLR;;Bredgar & Wormshill Light Railway;eng.bwlr
 eurhr;BluRwy;;Bluebell Railway;eng.blurwy
 eurhr;BotWenRwy;;Bodmin & Wenford Railway;eng.bodwenrwy
@@ -33,7 +31,6 @@ eurhr;ChiPRRwy;;Chinnor & Princes Risborough Railway;eng.chiprrwy
 eurhr;ChoWalRwy;;Cholsey & Wallingford Railway;eng.chowalrwy
 eurhr;ChuVlyRwy;;Churnet Valley Railway;eng.chuvlyrwy
 eurhr;CCLR;;Cleethorpes Coast Light Railway;eng.cclr
-eurhr;CorRwy;;Corris Railway;wls.corrwy
 eurhr;CriTwy;;Crich Tramway;eng.critwy
 eurhr;DarSR;;Dartmouth Steam Railway;eng.darsr
 eurhr;DeanForRwy;;Dean Forest Railway;eng.deanforrwy
@@ -51,8 +48,6 @@ eurhr;EmbBASR;;Embsay & Bolton Abbey Steam Railway;eng.embbasr
 eurhr;EppOngRwy;;Epping & Ongar Railway;eng.eppongrwy
 eurhr;EVLR;;Evesham Vale Light Railway;eng.evlr
 eurhr;ExbGarRwy;;Exbury Gardens Railway;eng.exbgarrwy
-eurhr;FaiRwy;;Fairbourne Railway;wls.fairwy
-eurhr;FfeRwy;;Ffestiniog Railway;wls.fferwy
 eurhr;FoxRwy;;Foxfield Railway;eng.foxrwy
 eurhr;GarLR;;Gartell Light Railway;eng.garlr
 eurhr;GCBusRwy;;Giant's Causeway & Bushmills Railway;nir.gcbusrwy
@@ -85,7 +80,6 @@ eurhr;LeaWanRwy;;Leadhills & Wanlockhead Railway;sct.leawanrwy
 eurhr;LBLR;;Leighton Buzzard Light Railway;eng.lblr
 eurhr;LinWolRwy;;Lincolnshire Wolds Railway;eng.linwolrwy
 eurhr;LitMR;;Littlehampton Miniature Railway;eng.litmr
-eurhr;LlaLakeRwy;;Llanberis Lake Railway;wls.llalakerwy
 eurhr;LlaCorRwy;;Llangollen & Corwen Railway;wls.llacorrwy
 eurhr;LTMR;;London Transport Miniature Railway;eng.ltmr
 eurhr;LytBarRwy;;Lyton and Barnstaple Railway;eng.lytbarrwy
@@ -119,7 +113,6 @@ eurhr;SeaTwy;;Seaton Tramway;eng.seatwy
 eurhr;SevVlyRwy;;Severn Valley Railway;eng.sevvlyrwy
 eurhr;SGTwy;;Shipley Glen Tramway;eng.sgtwy
 eurhr;SitKemLR;;Sittingbourne & Kemsley Light Railway;eng.sitkemlr
-eurhr;SnoMouRwy;;Snowdon Mountain Railway;wls.snomourwy
 eurhr;SDevRwy;;South Devon Railway;eng.sdevrwy
 eurhr;STynRwy;;South Tynedale Railway;eng.stynrwy
 eurhr;SouPierRwy;;Southend Pier Railway;eng.soupierrwy
@@ -130,22 +123,17 @@ eurhr;StrRwy;;Strathspey Railway;sct.strrwy
 eurhr;SHPTwy;;Summerlee Heritage Park Tramway;sct.shptwy
 eurhr;SwaRwy;;Swanage Railway;eng.swarwy
 eurhr;SwiCriRwy;;Swindon & Cricklade Railway;eng.swicrirwy
-eurhr;TalRwy;;Talyllyn Railway;wls.talrwy
 eurhr;TanRwy;;Tanfield Railway;eng.tanrwy
 eurhr;TeiVlyRwy;;Teifi Valley Railway;wls.teivlyrwy
 eurhr;TelSR;;Telford Steam Railway;eng.telsr
 eurhr;TQMR;;Threkeld Quarry & Mining Railway;eng.tqmr
 eurhr;TNGR;;Toddington Narrow Gauge Railway;eng.tngr
 eurhr;TraSol;;Tranvía de Sóller;espib.trasol
-eurhr;ValeRheRwy;;Vale of Rheidol Railway;wls.valerherwy
 eurhr;VolER;;Volk's Electric Railway;eng.voler
 eurhr;WatLn;;Watercress Line;eng.watln
 eurhr;WatSVRwy;;Waterford & Suir Valley Railway;irl.watsvrwy
 eurhr;WeaRwy;;Weardale Railway;eng.wearwy
 eurhr;WWLR;;Wells & Walsingham Light Railway;eng.wwlr
-eurhr;WelHigHR;;Welsh Highland Heritage Railway;wls.welhighr
-eurhr;WelHigRwy;;Welsh Highland Railway;wls.welhigrwy
-eurhr;WelLlaRwy;;Welshpool & Llanfair Railway;wls.welllarwy
 eurhr;WenRwy;;Wensleydale Railway;eng.wenrwy
 eurhr;WLLR;;West Lancashire Light Railway;eng.wllr
 eurhr;WSomRwy;;West Somerset Railway;eng.wsomrwy

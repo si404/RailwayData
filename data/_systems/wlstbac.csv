@@ -1,0 +1,13 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+wlstbac;WLS;BalaLakeRwy;;;Rheilffordd Llyn Tegid;wls.balalakerwy;
+wlstbac;WLS;BreMouRwy;;;Brecon Mountain Railway;wls.bremourwy;
+wlstbac;WLS;CorRwy;;;Corris Railway;wls.corrwy;
+wlstbac;WLS;FaiRwy;;;Fairbourne Railway;wls.fairwy;
+wlstbac;WLS;FfeRwy;;;Ffestiniog Railway;wls.fferwy;
+wlstbac;WLS;LlaLakeRwy;;;Llanberis Lake Railway;wls.llalakerwy;
+wlstbac;WLS;SnoMouRwy;;;Snowdon Mountain Railway;wls.snomourwy;
+wlstbac;WLS;TalRwy;;;Talyllyn Railway;wls.talrwy;
+wlstbac;WLS;ValeRheRwy;;;Vale of Rheidol Railway;wls.valerherwy;
+wlstbac;WLS;WelHigHR;;;Welsh Highland Heritage Railway;wls.welhighr;
+wlstbac;WLS;WelHigRwy;;;Welsh Highland Railway;wls.welhigrwy;
+wlstbac;WLS;WelLlaRwy;;;Welshpool & Llanfair Railway;wls.welllarwy;
