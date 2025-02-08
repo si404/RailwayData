@@ -1,0 +1,24 @@
+systemName;route;banner;groupName;roots
+chnshm;SHMLn1;;Shanghai Metro Line 1;chnsh.shm01
+chnshm;SHMLn2;;Shanghai Metro Line 2;chnsh.shm02
+chnshm;SHMLn3;;Shanghai Metro Line 3;chnsh.shm03
+chnshm;SHMLn4;;Shanghai Metro Line 4;chnsh.shm04
+chnshm;SHMLn5;;Shanghai Metro Line 5;chnsh.shm05
+chnshm;SHMLn5Min;;Shanghai Metro Line 5 (Minhang branch);chnsh.shm05min
+chnshm;SHMLn6;;Shanghai Metro Line 6;chnsh.shm06
+chnshm;SHMLn7;;Shanghai Metro Line 7;chnsh.shm07
+chnshm;SHMLn8;;Shanghai Metro Line 8;chnsh.shm08
+chnshm;SHMLn9;;Shanghai Metro Line 9;chnsh.shm09
+chnshm;SHMLn10;;Shanghai Metro Line 10;chnsh.shm10
+chnshm;SHMLn10Branch;;Shanghai Metro Line 10 (Branch line);chnsh.shm10branch
+chnshm;SHMLn11Jia;;Shanghai Metro Line 11 (Jiading branch);chnsh.shm11
+chnshm;SHMLn11Hua;;Shanghai Metro Line 11 (Huaqiao branch);chnsh.shm11hua,chnjs.shm11hua
+chnshm;SHMLn12;;Shanghai Metro Line 12;chnsh.shm12
+chnshm;SHMLn13;;Shanghai Metro Line 13;chnsh.shm13
+chnshm;SHMLn14;;Shanghai Metro Line 14;chnsh.shm14
+chnshm;SHMLn15;;Shanghai Metro Line 15;chnsh.shm15
+chnshm;SHMLn16;;Shanghai Metro Line 16;chnsh.shm16
+chnshm;SHMLn17;;Shanghai Metro Line 17;chnsh.shm17
+chnshm;SHMLn18;;Shanghai Metro Line 18;chnsh.shm18
+chnshm;Pujiang;;Shanghai Metro Pujiang Line;chnsh.pujiang
+chnshm;Maglev;;Shanghai Maglev;chnsh.maglev
