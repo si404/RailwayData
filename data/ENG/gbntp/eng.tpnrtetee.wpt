@@ -6,13 +6,13 @@ ManAir http://www.openstreetmap.org/?lat=53.365112&lon=-2.272196
 +SKIP_Bur http://www.openstreetmap.org/?lat=53.421950&lon=-2.215290
 +SKIP_MauRd http://www.openstreetmap.org/?lat=53.433584&lon=-2.209067
 +DIV_WCML http://www.openstreetmap.org/?lat=53.452407&lon=-2.196075
-+DIV_PicS http://www.openstreetmap.org/?lat=53.471506&lon=-2.214775
++X583947 http://www.openstreetmap.org/?lat=53.470941&lon=-2.213573
 ManPic http://www.openstreetmap.org/?lat=53.476918&lon=-2.228969
 ManOxfRd http://www.openstreetmap.org/?lat=53.473789&lon=-2.242284
 +SKIP_Dea http://www.openstreetmap.org/?lat=53.474108&lon=-2.251039
 +DIV_CLC http://www.openstreetmap.org/?lat=53.474823&lon=-2.254000
 +DIV_Lic http://www.openstreetmap.org/?lat=53.478329&lon=-2.260222
-+SKIP_SalCen http://www.openstreetmap.org/?lat=53.482740&lon=-2.255512
++DIV_CVLSpt http://www.openstreetmap.org/?lat=53.484206&lon=-2.252938
 ManVic http://www.openstreetmap.org/?lat=53.488052&lon=-2.242563
 +DIV_AthCVL http://www.openstreetmap.org/?lat=53.496554&lon=-2.212458
 +SKIP_AshLyne http://www.openstreetmap.org/?lat=53.491186&lon=-2.093840
@@ -79,4 +79,3 @@ Mid http://www.openstreetmap.org/?lat=54.579207&lon=-1.233923
 +X308552 http://www.openstreetmap.org/?lat=54.588937&lon=-1.150732
 +SKIP_RedBriSte http://www.openstreetmap.org/?lat=54.609770&lon=-1.112580
 RedCen http://www.openstreetmap.org/?lat=54.615983&lon=-1.070309
-

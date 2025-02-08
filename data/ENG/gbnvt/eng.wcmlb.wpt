@@ -1,5 +1,5 @@
 LonEus http://www.openstreetmap.org/?lat=51.528784&lon=-0.134239
-+DIV_LioS http://www.openstreetmap.org/?lat=51.543052&lon=-0.157628
++DIV_Lio http://www.openstreetmap.org/?lat=51.543052&lon=-0.157628
 +X807261 http://www.openstreetmap.org/?lat=51.541187&lon=-0.178742
 +X410220 http://www.openstreetmap.org/?lat=51.534884&lon=-0.199771
 +SKIP_QuePark http://www.openstreetmap.org/?lat=51.533873&lon=-0.205505
@@ -8,16 +8,13 @@ LonEus http://www.openstreetmap.org/?lat=51.528784&lon=-0.134239
 +DIV_WLL http://www.openstreetmap.org/?lat=51.532789&lon=-0.249081
 +X378870 http://www.openstreetmap.org/?lat=51.544000&lon=-0.282941
 +SKIP_WemCen http://www.openstreetmap.org/?lat=51.552219&lon=-0.296588
-+SKIP_NorWem http://www.openstreetmap.org/?lat=51.562405&lon=-0.303798
-+SKIP_SouKen http://www.openstreetmap.org/?lat=51.570435&lon=-0.308454
-+SKIP_Ken http://www.openstreetmap.org/?lat=51.581570&lon=-0.316458
++X614109 http://www.openstreetmap.org/?lat=51.570301&lon=-0.308261
++X506631 http://www.openstreetmap.org/?lat=51.581537&lon=-0.316329
 +SKIP_HarWea http://www.openstreetmap.org/?lat=51.592222&lon=-0.334826
-+SKIP_HeaLn http://www.openstreetmap.org/?lat=51.602606&lon=-0.356863
-+SKIP_HatEnd http://www.openstreetmap.org/?lat=51.609642&lon=-0.368621
-+SKIP_CarPark http://www.openstreetmap.org/?lat=51.627935&lon=-0.385466
++X256555 http://www.openstreetmap.org/?lat=51.609682&lon=-0.368536
++X685280 http://www.openstreetmap.org/?lat=51.627881&lon=-0.385315
 +SKIP_Bus http://www.openstreetmap.org/?lat=51.645301&lon=-0.384929
 +X198270 http://www.openstreetmap.org/?lat=51.652770&lon=-0.384350
-+DIV_LioN http://www.openstreetmap.org/?lat=51.661502&lon=-0.393147
 WatJct http://www.openstreetmap.org/?lat=51.663725&lon=-0.395851
 +X115762 http://www.openstreetmap.org/?lat=51.693795&lon=-0.433273
 +SKIP_KinLan http://www.openstreetmap.org/?lat=51.706389&lon=-0.437844

@@ -8,11 +8,12 @@ WalQueRd http://www.openstreetmap.org/?lat=51.581563&lon=-0.023861
 LeyMidRd http://www.openstreetmap.org/?lat=51.569481&lon=-0.007081
 LeyHighRd http://www.openstreetmap.org/?lat=51.563506&lon=0.008497
 WanPark http://www.openstreetmap.org/?lat=51.551792&lon=0.025620
-+DIV_Str http://www.openstreetmap.org/?lat=51.549461&lon=0.043226
-WooPark http://www.openstreetmap.org/?lat=51.549151&lon=0.044675
-+DIV_DisW http://www.openstreetmap.org/?lat=51.544387&lon=0.067077
++DIV_Str http://www.openstreetmap.org/?lat=51.549528&lon=0.043216
+WooPark http://www.openstreetmap.org/?lat=51.549171&lon=0.044729
++X824107 http://www.openstreetmap.org/?lat=51.544180&lon=0.068536
++DIV_Fen http://www.openstreetmap.org/?lat=51.541553&lon=0.076432
 Bar http://www.openstreetmap.org/?lat=51.540263&lon=0.079436
-+DIV_DisE http://www.openstreetmap.org/?lat=51.538001&lon=0.083857
++DIV_Upm http://www.openstreetmap.org/?lat=51.538001&lon=0.083857
 +DIV_LTS http://www.openstreetmap.org/?lat=51.530820&lon=0.104177
 +X949296 http://www.openstreetmap.org/?lat=51.528651&lon=0.122824
 BarRiv http://www.openstreetmap.org/?lat=51.519599&lon=0.116000

@@ -1,12 +1,9 @@
 LonVic http://www.openstreetmap.org/?lat=51.494671&lon=-0.144582
-+DIV_CML http://www.openstreetmap.org/?lat=51.483260&lon=-0.147436
++X472032 http://www.openstreetmap.org/?lat=51.483608&lon=-0.147586
 +SKIP_BatPark http://www.openstreetmap.org/?lat=51.477863&lon=-0.147645
 +X328270 http://www.openstreetmap.org/?lat=51.471493&lon=-0.151320
-+DIV_SWMLE http://www.openstreetmap.org/?lat=51.470243&lon=-0.157435
-+DIV_Win http://www.openstreetmap.org/?lat=51.467476&lon=-0.164280
-+DIV_Mil http://www.openstreetmap.org/?lat=51.466420&lon=-0.166662
++X810376 http://www.openstreetmap.org/?lat=51.470136&lon=-0.157263
 ClaJct http://www.openstreetmap.org/?lat=51.464663&lon=-0.170546
-+DIV_SWMLW http://www.openstreetmap.org/?lat=51.461477&lon=-0.172262
 +SKIP_WanCom http://www.openstreetmap.org/?lat=51.446151&lon=-0.163486
 +SKIP_Bal http://www.openstreetmap.org/?lat=51.442834&lon=-0.151556
 +DIV_Gip http://www.openstreetmap.org/?lat=51.441817&lon=-0.146320
@@ -18,7 +15,7 @@ ClaJct http://www.openstreetmap.org/?lat=51.464663&lon=-0.170546
 +SKIP_Sel http://www.openstreetmap.org/?lat=51.392210&lon=-0.088642
 +DIV_Wal http://www.openstreetmap.org/?lat=51.389398&lon=-0.086839
 +X195469 http://www.openstreetmap.org/?lat=51.387055&lon=-0.086453
-+DIV_Tha http://www.openstreetmap.org/?lat=51.384946&lon=-0.087483
++DIV_ThaN http://www.openstreetmap.org/?lat=51.384946&lon=-0.087483
 EastCro http://www.openstreetmap.org/?lat=51.375993&lon=-0.092697
 +SKIP_SouCro http://www.openstreetmap.org/?lat=51.362878&lon=-0.093319
 +DIV_SML http://www.openstreetmap.org/?lat=51.361204&lon=-0.093405

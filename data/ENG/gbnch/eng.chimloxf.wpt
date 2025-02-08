@@ -2,11 +2,10 @@ LonMar http://www.openstreetmap.org/?lat=51.523397&lon=-0.162992
 +X675509 http://www.openstreetmap.org/?lat=51.535532&lon=-0.177197
 +X253841 http://www.openstreetmap.org/?lat=51.544087&lon=-0.177219
 +X279281 http://www.openstreetmap.org/?lat=51.546875&lon=-0.181103
-+SKIP_WestHam http://www.openstreetmap.org/?lat=51.546809&lon=-0.189965
-+SKIP_Kil http://www.openstreetmap.org/?lat=51.546976&lon=-0.205350
-+SKIP_WilGre http://www.openstreetmap.org/?lat=51.549351&lon=-0.222221
-+SKIP_DolHill http://www.openstreetmap.org/?lat=51.552003&lon=-0.238979
-+DIV_JubMet http://www.openstreetmap.org/?lat=51.552930&lon=-0.245336
++X532083 http://www.openstreetmap.org/?lat=51.546659&lon=-0.189986
++X960712 http://www.openstreetmap.org/?lat=51.546725&lon=-0.204878
++X148891 http://www.openstreetmap.org/?lat=51.548985&lon=-0.221336
++X757174 http://www.openstreetmap.org/?lat=51.551871&lon=-0.239092
 +DIV_Ayl http://www.openstreetmap.org/?lat=51.554821&lon=-0.253683
 WemSta http://www.openstreetmap.org/?lat=51.554267&lon=-0.285022
 SudHarRd http://www.openstreetmap.org/?lat=51.554347&lon=-0.316050

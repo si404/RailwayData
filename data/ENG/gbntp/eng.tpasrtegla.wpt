@@ -6,7 +6,7 @@ ManAir http://www.openstreetmap.org/?lat=53.365112&lon=-2.272196
 +SKIP_Bur http://www.openstreetmap.org/?lat=53.421950&lon=-2.215290
 +SKIP_MauRd http://www.openstreetmap.org/?lat=53.433584&lon=-2.209067
 +DIV_WCMLE http://www.openstreetmap.org/?lat=53.452407&lon=-2.196075
-+DIV_Glo http://www.openstreetmap.org/?lat=53.471506&lon=-2.214775
++X583947 http://www.openstreetmap.org/?lat=53.470941&lon=-2.213573
 ManPic http://www.openstreetmap.org/?lat=53.476918&lon=-2.228969
 ManOxfRd http://www.openstreetmap.org/?lat=53.473789&lon=-2.242284
 +SKIP_Dea http://www.openstreetmap.org/?lat=53.474108&lon=-2.251039
@@ -45,7 +45,6 @@ Lan http://www.openstreetmap.org/?lat=54.049172&lon=-2.807865
 +X189747 http://www.openstreetmap.org/?lat=54.189436&lon=-2.734995
 +X849465 http://www.openstreetmap.org/?lat=54.258682&lon=-2.750015
 Oxe http://www.openstreetmap.org/?lat=54.305232&lon=-2.721691
-+DIV_Lak http://www.openstreetmap.org/?lat=54.306822&lon=-2.720919
 +X822755 http://www.openstreetmap.org/?lat=54.348853&lon=-2.708130
 +X484725 http://www.openstreetmap.org/?lat=54.365958&lon=-2.588825
 +X896783 http://www.openstreetmap.org/?lat=54.383232&lon=-2.581272

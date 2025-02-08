@@ -1,21 +1,16 @@
 LonChaCro +ChaCro http://www.openstreetmap.org/?lat=51.507721&lon=-0.124090
-LonWatEast http://www.openstreetmap.org/?lat=51.504115&lon=-0.108876
-+DIV_ThaN http://www.openstreetmap.org/?lat=51.504070&lon=-0.099784
-+DIV_WooW http://www.openstreetmap.org/?lat=51.505616&lon=-0.089060
+LonWatEast http://www.openstreetmap.org/?lat=51.504215&lon=-0.108222
++X876996 http://www.openstreetmap.org/?lat=51.503998&lon=-0.100315
 LonBri http://www.openstreetmap.org/?lat=51.504232&lon=-0.084994
-+DIV_Pec http://www.openstreetmap.org/?lat=51.492015&lon=-0.059727
-+DIV_ThaS http://www.openstreetmap.org/?lat=51.488989&lon=-0.052485
-+DIV_WooE http://www.openstreetmap.org/?lat=51.483447&lon=-0.039096
-+DIV_Win http://www.openstreetmap.org/?lat=51.478967&lon=-0.034482
++DIV_Tha http://www.openstreetmap.org/?lat=51.489948&lon=-0.054690
++X501014 http://www.openstreetmap.org/?lat=51.483332&lon=-0.039085
 +SKIP_NewCro http://www.openstreetmap.org/?lat=51.476375&lon=-0.032626
-+DIV_Sid http://www.openstreetmap.org/?lat=51.470334&lon=-0.025342
-+SKIP_StJoh http://www.openstreetmap.org/?lat=51.469057&lon=-0.022230
-+DIV_NKL http://www.openstreetmap.org/?lat=51.468168&lon=-0.020181
-+DIV_Hay http://www.openstreetmap.org/?lat=51.461508&lon=-0.016265
-+DIV_GPL http://www.openstreetmap.org/?lat=51.458646&lon=-0.013690
++DIV_GPL http://www.openstreetmap.org/?lat=51.470334&lon=-0.025342
++X715163 http://www.openstreetmap.org/?lat=51.468029&lon=-0.019937
++DIV_Hay http://www.openstreetmap.org/?lat=51.461504&lon=-0.016324
++DIV_Sid http://www.openstreetmap.org/?lat=51.458657&lon=-0.013567
 +SKIP_HitGre http://www.openstreetmap.org/?lat=51.451587&lon=-0.000129
 +SKIP_GroPark http://www.openstreetmap.org/?lat=51.430267&lon=0.022702
-+DIV_BrN http://www.openstreetmap.org/?lat=51.428795&lon=0.024934
 +SKIP_ElmWoo http://www.openstreetmap.org/?lat=51.416726&lon=0.044546
 +SKIP_Chi http://www.openstreetmap.org/?lat=51.405116&lon=0.057871
 +DIV_CML http://www.openstreetmap.org/?lat=51.400444&lon=0.062850
@@ -33,7 +28,6 @@ Sev http://www.openstreetmap.org/?lat=51.276686&lon=0.181768
 Ton http://www.openstreetmap.org/?lat=51.191438&lon=0.270742
 +DIV_Has http://www.openstreetmap.org/?lat=51.191118&lon=0.273457
 PadWood http://www.openstreetmap.org/?lat=51.182396&lon=0.389457
-+DIV_MVL http://www.openstreetmap.org/?lat=51.182181&lon=0.392118
 Mar http://www.openstreetmap.org/?lat=51.175442&lon=0.493097
 Sta http://www.openstreetmap.org/?lat=51.171567&lon=0.550518
 Hea http://www.openstreetmap.org/?lat=51.165755&lon=0.626564
