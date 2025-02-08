@@ -1,14 +1,14 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-deuulrs;DEU-BW;RS2;;Ulm;Südbahn;deubw.rs02ulm;RS2
-deuulrs;DEU-BW;RS3;;Ulm;Donaubahn;deubw.rs03ulm;RS3
-deuulrs;DEU-BW;RS5;;Aal;Brenzbahn (Aalen);deubw.rs05aal;RS5
-deuulrs;DEU-BY;RS5;;Ulm;Brenzbahn;deuby.rs05ulm;RS5
+deuulrs;DEU-BW;RS2;;Ulm;Südbahn (Ulm);deubw.rs02ulm;
+deuulrs;DEU-BW;RS3;;Ulm;Donaubahn (Ulm);deubw.rs03ulm;
+deuulrs;DEU-BW;RS5;;Aal;Brenzbahn (Aalen);deubw.rs05aal;
+deuulrs;DEU-BY;RS5;;Ulm;Brenzbahn (Ulm);deuby.rs05ulm;
 deuulrs;DEU-BW;RS5;;Ulm;Brenzbahn (Ulm);deubw.rs05ulm;
-deuulrs;DEU-BW;RS7;;Ulm;Illtalbahn;deubw.rs07ulm;RS7
-deuulrs;DEU-BY;RS7;;Ulm;Illtalbahn;deuby.rs07ulm;RS7
-deuulrs;DEU-BW;RS21;;Ulm;Südbahn;deubw.rs21ulm;RS21
+deuulrs;DEU-BW;RS7;;Ulm;Illtalbahn (Ulm);deubw.rs07ulm;
+deuulrs;DEU-BY;RS7;;Ulm;Illtalbahn (Ulm);deuby.rs07ulm;
+deuulrs;DEU-BW;RS21;;Ulm;Südbahn (Ulm);deubw.rs21ulm;
 deuulrs;DEU-BW;RS51;;Lan;Brenzbahn (Langenau);deubw.rs51lan;
-deuulrs;DEU-BY;RS51;;Ulm;Brenzbahn;deuby.rs51ulm;
+deuulrs;DEU-BY;RS51;;Ulm;Brenzbahn (Ulm);deuby.rs51ulm;
 deuulrs;DEU-BW;RS51;;Ulm;Brenzbahn (Ulm);deubw.rs51ulm;
-deuulrs;DEU-BW;RS71;;Ulm;Illtalbahn;deubw.rs71ulm;
-deuulrs;DEU-BY;RS71;;Ulm;Illtalbahn;deuby.rs71ulm;RS71
+deuulrs;DEU-BW;RS71;;Ulm;Illtalbahn (Ulm);deubw.rs71ulm;
+deuulrs;DEU-BY;RS71;;Ulm;Illtalbahn (Ulm);deuby.rs71ulm;

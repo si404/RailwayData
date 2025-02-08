@@ -1,0 +1,73 @@
+Great British Railways timeline
+	contracts up (wikipedia)
+		SW	25 May 2025
+		CC	20 Jul 2025
+		LE	?? Sep 2025
+		LN	20 Sep 2026
+		WM	20 Sep 2026
+		VT	18 Oct 2026
+		XC	15 Oct 2027
+		CH	12 Dec 2027
+		TL	01 Apr 2028
+		SN	01 Apr 2028
+		GX	01 Apr 2028
+		GN	01 Apr 2028
+		GW	25 Jun 2028
+		EM	16 Oct 2030
+	DfT Operated already	GR, SE, NT (contract ends  01 Mar 25), TP
+
+South Wales Metro starts when?
+
+
+New Station timeline
+	NWH 	??? 2025	Newsham already implemented as Northumberland line was new opening
+	HMY	May 2025	Hairmyres relocation already implemented as East Kilbride line under reconstruction
+	BEJ	??? 2025	Bedlington already implemented as Northumberland line was new opening
+	BLI	??? 2025	Blyth Bebside already implemented as Northumberland line was new opening
+	Butetown ?? 2025	South Wales Metro
+	CMS	??? 2025	Cambridge South possibly Jan '26
+	NOP	??? 2025	Northumberland Park already implemented as Northumberland line was new opening
+	WNO	??? 2025	Winslow implemented when E-W rail service starts and is added to csvs
+	KIH	aut 2025	Kings Heath implemented when Camp Hill Route service starts and is added to csvs
+	MOV	aut 2025	Moseley Village implemented when Camp Hill Route service starts and is added to csvs
+	PIR	aut 2025	Pineapple Road implemented when Camp Hill Route service starts and is added to csvs
+	BPA	??? 2025	Beaulieu Park possibly early 2026
+	WRO	2025????	White Rose construction paused
+	DAS	Feb 2026	Darleston
+	WIA	Feb 2026	Willenhall
+		??? 2026	Okehampton Interchange
+		??? 2026	Wixhams
+
+
+MAY 25
+	Grand Central	North Eastern service stops at Seaham
+	LNER	2-hourly Bradford Forster Square service
+	Northern	electric-only Wigan NW to Manchester/Stalybridge
+	TPE	Northern does a full take-over of the Huddersfield-Leeds stoppers
+	Anglia	Colchester Town service calls at Beaulieu Park rather than Romford (2tph of the Southends call there instead)
+	GWR	Penzance - Cardiff split at Exeter
+
+
+DEC 25
+	EMR	Barton Line truncated to Grimsby Town
+		Castle Line (needs rename) truncated at north end to Nottingham
+		North Staffordshire Line extended to Lincoln
+		Derwent Valley Line extended to Cleethorpes
+		Imps Line reduced to a low enough frequency that I can kill it (as LNER cover trackage)
+	GC	West Riding to call, 1tpd, at Peterborough
+		North Eastern to call, 1tpd, at Peterborough
+	LNER	new service pattern as below
+		1	Kings Cross                                                                      - York                                       - Newcastle                      - Edinburgh
+		0.5	Kings Cross             - Peterborough            - Newark           - Doncaster - York                 - Darlington          - Newcastle - Alnmouth           - Edinburgh
+		0.5	Kings Cross             - Peterborough            - Newark           - Doncaster - York                 - Darlington          - Newcastle            - Berwick - Edinburgh
+		1	Kings Cross - Stevenage                - Grantham -                              - York - Northallerton - Darlington - Durham - Newcastle
+		0.5	Kings Cross             - Peterborough                     - Retford - Doncaster - York
+		0.5	Kings Cross             - Peterborough - Grantham - Newark - Lincoln
+		1	Kings Cross             - Peterborough - Grantham                    - Doncaster - Wakefield Westgate - Leeds
+		0.5	Kings Cross - Stevenage                           - Newark           - Doncaster - Wakefield Westgate - Leeds - Horsforth - Harrogate
+		0.5	Kings Cross - Stevenage                           - Newark           - Doncaster - Wakefield Westgate - Leeds - Shipley - Braford FS
+	Northern	new fast Leeds - Wakefield Westgate - Sheffield service
+			more services broken up at Newcastle
+			new semi-fast Carlisle - Middlesbrough service
+	TPE	borders service becomes 2-hourly
+	WM	Camp Hill Route local service
