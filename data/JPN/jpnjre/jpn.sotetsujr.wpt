@@ -1,5 +1,4 @@
 JA08 http://www.openstreetmap.org/?lat=35.619766&lon=139.728189
-JS17 +JY24 http://www.openstreetmap.org/?lat=35.619766&lon=139.728189
 +X143431 http://www.openstreetmap.org/?lat=35.615224&lon=139.731824
 +DIV_Rinkai http://www.openstreetmap.org/?lat=35.613846&lon=139.732200
 +X554828 http://www.openstreetmap.org/?lat=35.611626&lon=139.730907
@@ -19,12 +18,15 @@ JS15 http://www.openstreetmap.org/?lat=35.574778&lon=139.663326
 JS14 http://www.openstreetmap.org/?lat=35.551458&lon=139.671839
 +X164517 http://www.openstreetmap.org/?lat=35.521547&lon=139.680916
 +DIV_Tokaido http://www.openstreetmap.org/?lat=35.517601&lon=139.680982
-+X596657 http://www.openstreetmap.org/?lat=35.503749&lon=139.675026
-+DIV_Tokaido2 http://www.openstreetmap.org/?lat=35.495023&lon=139.666062
++X621923 http://www.openstreetmap.org/?lat=35.514326&lon=139.678041
++SKIP_JK15 http://www.openstreetmap.org/?lat=35.508269&lon=139.676281
++X774707 http://www.openstreetmap.org/?lat=35.503055&lon=139.674924
++X641200 http://www.openstreetmap.org/?lat=35.500719&lon=139.672987
++DIV_Sotetsu http://www.openstreetmap.org/?lat=35.495023&lon=139.666062
 +X415008 http://www.openstreetmap.org/?lat=35.494194&lon=139.661754
 +X357109 http://www.openstreetmap.org/?lat=35.495417&lon=139.655961
 +X224127 http://www.openstreetmap.org/?lat=35.496417&lon=139.615272
 +X925837 http://www.openstreetmap.org/?lat=35.495286&lon=139.611103
-+X828705 http://www.openstreetmap.org/?lat=35.486590&lon=139.593492
++DIV_Freight http://www.openstreetmap.org/?lat=35.486590&lon=139.593492
 +DIV_JR http://www.openstreetmap.org/?lat=35.482536&lon=139.587666
 SO51 http://www.openstreetmap.org/?lat=35.481199&lon=139.586115
