@@ -1,9 +1,7 @@
-LonWat http://www.openstreetmap.org/?lat=51.502832&lon=-0.112803
-Vau http://www.openstreetmap.org/?lat=51.485849&lon=-0.122749
-QueRd http://www.openstreetmap.org/?lat=51.475159&lon=-0.146234
-+DIV_SMLN http://www.openstreetmap.org/?lat=51.470243&lon=-0.157435
-+DIV_Win http://www.openstreetmap.org/?lat=51.467476&lon=-0.164280
-+DIV_Mil http://www.openstreetmap.org/?lat=51.466420&lon=-0.166662
+LonWat_1 LonWat http://www.openstreetmap.org/?lat=51.502832&lon=-0.112803
++X109750 http://www.openstreetmap.org/?lat=51.492316&lon=-0.118961
+Vau_1 Vau http://www.openstreetmap.org/?lat=51.485849&lon=-0.122749
+QueRd http://www.openstreetmap.org/?lat=51.475209&lon=-0.146306
 ClaJct_1 http://www.openstreetmap.org/?lat=51.464663&lon=-0.170546
 WanTown http://www.openstreetmap.org/?lat=51.460973&lon=-0.188227
 Put http://www.openstreetmap.org/?lat=51.461153&lon=-0.216637
@@ -11,7 +9,6 @@ Bar http://www.openstreetmap.org/?lat=51.466781&lon=-0.241206
 +DIV_Che http://www.openstreetmap.org/?lat=51.467329&lon=-0.243888
 Mor http://www.openstreetmap.org/?lat=51.468038&lon=-0.266912
 NorShe http://www.openstreetmap.org/?lat=51.465324&lon=-0.286567
-+DIV_DisR http://www.openstreetmap.org/?lat=51.464469&lon=-0.292296
 Ric http://www.openstreetmap.org/?lat=51.463139&lon=-0.300407
 StMar http://www.openstreetmap.org/?lat=51.455170&lon=-0.320234
 Twi http://www.openstreetmap.org/?lat=51.450330&lon=-0.329204
@@ -25,10 +22,9 @@ Nor http://www.openstreetmap.org/?lat=51.412270&lon=-0.284100
 +DIV_SWML http://www.openstreetmap.org/?lat=51.402613&lon=-0.262899
 NewMal http://www.openstreetmap.org/?lat=51.404005&lon=-0.255754
 RayPark http://www.openstreetmap.org/?lat=51.409011&lon=-0.230563
-+DIV_ThaS http://www.openstreetmap.org/?lat=51.416224&lon=-0.213804
 Wim http://www.openstreetmap.org/?lat=51.421952&lon=-0.205264
-+DIV_ThaN http://www.openstreetmap.org/?lat=51.423450&lon=-0.202754
-+DIV_DisW http://www.openstreetmap.org/?lat=51.428942&lon=-0.198269
 Ear http://www.openstreetmap.org/?lat=51.442553&lon=-0.187519
-+DIV_SMLS http://www.openstreetmap.org/?lat=51.461477&lon=-0.172262
 ClaJct_2 http://www.openstreetmap.org/?lat=51.464663&lon=-0.170546
++X234812 http://www.openstreetmap.org/?lat=51.474988&lon=-0.146234
+Vau_2 http://www.openstreetmap.org/?lat=51.485849&lon=-0.122749
+LonWat_2 http://www.openstreetmap.org/?lat=51.502832&lon=-0.112803
