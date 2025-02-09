@@ -10,5 +10,5 @@ Ecc http://www.openstreetmap.org/?lat=53.485486&lon=-2.333951
 +SKIP_Ecc http://www.openstreetmap.org/?lat=53.485486&lon=-2.333951
 +DIV_TPASRN http://www.openstreetmap.org/?lat=53.478590&lon=-2.267175
 +DIV_TPASRS http://www.openstreetmap.org/?lat=53.478329&lon=-2.260222
-+SKIP_SalCen http://www.openstreetmap.org/?lat=53.482740&lon=-2.255512
++DIV_CVLSpt http://www.openstreetmap.org/?lat=53.484206&lon=-2.252938
 ManVic http://www.openstreetmap.org/?lat=53.488052&lon=-2.242563

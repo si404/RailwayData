@@ -1,14 +1,11 @@
 WatJct http://www.openstreetmap.org/?lat=51.663725&lon=-0.395851
-+DIV_Lio http://www.openstreetmap.org/?lat=51.661502&lon=-0.393147
 +X198270 http://www.openstreetmap.org/?lat=51.652770&lon=-0.384350
 Bus http://www.openstreetmap.org/?lat=51.645301&lon=-0.384929
-+SKIP_CarPark http://www.openstreetmap.org/?lat=51.627935&lon=-0.385466
-+SKIP_HatEnd http://www.openstreetmap.org/?lat=51.609642&lon=-0.368621
-+SKIP_HeaLn http://www.openstreetmap.org/?lat=51.602606&lon=-0.356863
++X685280 http://www.openstreetmap.org/?lat=51.627881&lon=-0.385315
++X256555 http://www.openstreetmap.org/?lat=51.609682&lon=-0.368536
 HarWea http://www.openstreetmap.org/?lat=51.592222&lon=-0.334826
-+SKIP_Ken http://www.openstreetmap.org/?lat=51.581570&lon=-0.316458
-+SKIP_SouKen http://www.openstreetmap.org/?lat=51.570435&lon=-0.308454
-+SKIP_NorWem http://www.openstreetmap.org/?lat=51.562405&lon=-0.303798
++X506631 http://www.openstreetmap.org/?lat=51.581537&lon=-0.316329
++X614109 http://www.openstreetmap.org/?lat=51.570301&lon=-0.308261
 WemCen http://www.openstreetmap.org/?lat=51.552219&lon=-0.296588
 +X378870 http://www.openstreetmap.org/?lat=51.544000&lon=-0.282941
 +DIV_WCML http://www.openstreetmap.org/?lat=51.532789&lon=-0.249081
@@ -22,7 +19,6 @@ ImpWha http://www.openstreetmap.org/?lat=51.475068&lon=-0.182884
 +DIV_Vic http://www.openstreetmap.org/?lat=51.470671&lon=-0.166597
 +X138756 http://www.openstreetmap.org/?lat=51.466287&lon=-0.164645
 ClaJct http://www.openstreetmap.org/?lat=51.464663&lon=-0.170546
-+DIV_SWML http://www.openstreetmap.org/?lat=51.461477&lon=-0.172262
 WanCom http://www.openstreetmap.org/?lat=51.446151&lon=-0.163486
 Bal http://www.openstreetmap.org/?lat=51.442834&lon=-0.151556
 +DIV_Gip http://www.openstreetmap.org/?lat=51.441817&lon=-0.146320

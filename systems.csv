@@ -365,6 +365,7 @@ gbnman;GBR;Manchester Metrolink;TMred;4;preview
 gbnnet;GBR;Nottingham Express Transit;TMred;4;preview
 gbnss;GBR;Sheffield Supertram;TMred;4;preview
 gbnwmm;GBR;West Midlands Metro;TMred;4;preview
+wlstbac;GBR;Great Little Trains of Wales;TMbrown;5;preview
 grcpa;GRC;Proastiakos Athenas;TMgreen;2;preview
 grcpp;GRC;Proastiakos Patras;TMgreen;2;preview
 grcpt;GRC;Proastiakos Thessalonikis;TMgreen;2;preview
@@ -427,7 +428,7 @@ itatt;ITA;Tranviaria di Torino;TMred;4;preview
 itavt;ITA;Tranviaria di Venezia;TMred;4;preview
 itapm;ITA;Minimetrò Perugia;TMyellow;5;preview
 itavpm;ITA;People Mover di Venezia;TMyellow;5;preview
-jpnjrsks;JPN;JR Shinkansens;TMpurple;1;preview
+jpnjrsks;JPN;JR Shinkansen Lines;TMmagenta;1;preview
 jpnjrc;JPN;JR Central;TMpurple;1;preview
 jpnjre;JPN;JR East;TMpurple;1;preview
 jpnjrh;JPN;JR Hokkaido;TMpurple;1;preview

@@ -12,7 +12,6 @@ Str http://www.openstreetmap.org/?lat=51.541671&lon=-0.003927
 +SKIP_Goo http://www.openstreetmap.org/?lat=51.565807&lon=0.112224
 +SKIP_ChaHea http://www.openstreetmap.org/?lat=51.567901&lon=0.128081
 +SKIP_Rom http://www.openstreetmap.org/?lat=51.574923&lon=0.183249
-+DIV_Lib http://www.openstreetmap.org/?lat=51.577563&lon=0.192561
 +SKIP_GidPark http://www.openstreetmap.org/?lat=51.581750&lon=0.205522
 +SKIP_HarWoo http://www.openstreetmap.org/?lat=51.592656&lon=0.232816
 +SKIP_Bre http://www.openstreetmap.org/?lat=51.613660&lon=0.299592

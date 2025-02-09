@@ -3,9 +3,12 @@ jpnlexe;AkagiLtdShn;;Akagi Ltd Exp Shinjuku;jpn.lexakagishinjuku
 jpnlexe;AkagiLtdUen;;Akagi Ltd Exp Ueno;jpn.lexakagiueno
 jpnlexe;AzusaLtdChi;;Azusa Ltd Exp Chiba;jpn.lexazusachiba
 jpnlexe;AzusaLtdTok;;Azusa Ltd Exp Tokyo;jpn.lexazusatokyo
-jpnlexe;HitachiLtd;;Hitachi Ltd Exp;jpn.lexhitachi
+jpnlexe;HitachiLtd;;Hitachi/Tokiwa Ltd Exp;jpn.lexhitachi
+jpnlexe;KamakuraLtd;;Kamakura Ltd Exp;jpn.lexkamakura
 jpnlexe;KinugawaLtd;;Kinugawa Ltd Exp;jpn.lexkinugawa
 jpnlexe;KusatsuLtd;;Kusatsu-Shima Ltd Exp;jpn.lexkusatsushima
+jpnlexe;NarExpO;;Narita Express Ofuna;jpn.lexnaritao
+jpnlexe;NarExpShin;;Narita Express Shinjuku;jpn.lexnaritashin
 jpnlexe;ShinshuLtd;;Shinshu Ltd Exp;jpn.lexshinshu
+jpnlexe;ShonanLtd;;Shonan Ltd Exp Shinjuku;jpn.lexshonan
 jpnlexe;SpaciaNikkoLtd;;Spacia Nikko Ltd Exp;jpn.lexspacianikko
-jpnlexe;TokiwaLtd;;Tokiwa Ltd Exp;jpn.lextokiwa

@@ -1,9 +1,10 @@
 systemName;route;banner;groupName;roots
 gbntp;TPASRte;;TransPennine Anglo-Scottish Route (Manchester - Edinburgh);eng.tpasrte,sct.tpasrte
 gbntp;TPASRte;;TransPennine Anglo-Scottish Route (Manchester - Glasgow);eng.tpasrtegla,sct.tpasrtegla
-gbntp;TPNRte;;TransPennine North Route (Liverpool - Edinburgh);eng.tpnrte,sct.tpnrte
-gbntp;TPNRte;;TransPennine North Route (Manchester - Hull);eng.tpnrtehul
+gbntp;TPNRte;;TransPennine North Route (Liverpool - Newcastle);eng.tpnrte
+gbntp;TPNRte;;TransPennine North Route (Newcastle - Edinburgh);eng.tpnrteedi,sct.tpnrte
+gbntp;TPNRte;;TransPennine North Route (Liverpool - Hull);eng.tpnrtehul
 gbntp;TPNRte;;TransPennine North Route (Manchester - Saltburn);eng.tpnrtetee
 gbntp;TPNRte;;TransPennine North Route (Manchester - York);eng.tpnrtepic
-gbntp;TPNRte;;TransPennine North Route (York - Scarborough);eng.tpnrtesca
+gbntp;TPNRte;;TransPennine North Route (Manchester - Scarborough);eng.tpnrtesca
 gbntp;TPSRte;;TransPennine South Route;eng.tpsrte
