@@ -47,7 +47,7 @@ Omiya http://www.openstreetmap.org/?lat=35.906771&lon=139.623839
 +SKIP_Oyama http://www.openstreetmap.org/?lat=36.313050&lon=139.806336
 +X833054 http://www.openstreetmap.org/?lat=36.406537&lon=139.860421
 +X552817 http://www.openstreetmap.org/?lat=36.489663&lon=139.876557
-Utsunomiya http://www.openstreetmap.org/?lat=36.559103&lon=139.898247
++SKIP_Utsunomiya http://www.openstreetmap.org/?lat=36.559103&lon=139.898247
 +X251064 http://www.openstreetmap.org/?lat=36.695384&lon=139.917766
 +X476996 http://www.openstreetmap.org/?lat=36.779324&lon=139.951366
 +X396275 http://www.openstreetmap.org/?lat=36.854109&lon=139.966067
