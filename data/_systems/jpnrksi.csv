@@ -1,7 +1,7 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
 jpnrksi;JPN;Skyliner;;;Keisei Skyliner;jpn.ksiskyliner;
-jpnrksi;JPN;AccExpHaneda;;;Keisei Access Express Haneda;jpn.ksiaccesshaneda;
-jpnrksi;JPN;AccExpUeno;;;Keisei Access Express Ueno;jpn.ksiaccessueno;
+jpnrksi;JPN;AccExp;;Han;Keisei Access Express Haneda;jpn.ksiaccesshaneda;
+jpnrksi;JPN;AccExp;;Ue;Keisei Access Express Ueno;jpn.ksiaccessueno;
 jpnrksi;JPN;Morningliner;;;Keisei Morningliner / Eveningliner;jpn.ksimorningliner;
 jpnrksi;JPN;ChibaLn;;;Keisei Chiba Line;jpn.ksichiba;
 jpnrksi;JPN;ChiharaLn;;;Keisei Chihara Line;jpn.ksichihara;
