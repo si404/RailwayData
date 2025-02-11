@@ -1,11 +1,10 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
 jpnjrs;JPN;AiariIyonadaLn;;;Aiari Iyonada Line;jpn.iyonada;
 jpnjrs;JPN;DosanLn;;;Dosan Line;jpn.dosan;
-jpnjrs;JPN;HonshiBisanLnS;;;Honshi-Bisan Line South;jpn.honshisouth;
 jpnjrs;JPN;KotokuLn;;;Kotoku Line;jpn.kotoku;
 jpnjrs;JPN;MugiLn;;;Mugi Line;jpn.mugi;
 jpnjrs;JPN;NarutoLn;;;Naruto Line;jpn.naruto;
-jpnjrs;JPN;SetoOhashiLnS;;;Seto Ohashi Line South;jpn.setoohashisouth;
+jpnjrs;JPN;SetoOhashiLn;;Kyu;Seto Ohashi Line (JR Kyushu);jpn.setoohashisouth;
 jpnjrs;JPN;TokushimaLn;;;Tokushima Line;jpn.tokushima;
 jpnjrs;JPN;YodoLn;;;Yodo Line;jpn.yodo;
 jpnjrs;JPN;YosanLn;;;Yosan Line;jpn.yosan;
