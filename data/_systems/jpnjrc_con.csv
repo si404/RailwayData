@@ -3,8 +3,8 @@ jpnjrc;ChuoLnWest;;Chuo Line West;jpn.chuowest
 jpnjrc;GotembaLn;;Gotemba Line;jpn.gotemba
 jpnjrc;IidaLn;;Iida Line;jpn.iida
 jpnjrc;JohokuLn;;Tokai Transport Johoku Line;jpn.johoku
-jpnjrc;KansaiLnEast;;Kansai Line East;jpn.kansaieast
-jpnjrc;KiseiLnEast;;Kisei Line East;jpn.kiseieast
+jpnjrc;KansaiLn;;Kansai Line East;jpn.kansaieast
+jpnjrc;KiseiLn;;Kisei Line East;jpn.kiseieast
 jpnjrc;MeishoLn;;Meisho Line;jpn.meisho
 jpnjrc;MinoAkasakaLn;;Mino Akasaka Branch Line;jpn.minoakasaka
 jpnjrc;MinobuLn;;Minobu Line;jpn.minobu
@@ -13,4 +13,4 @@ jpnjrc;TaitaLn;;Taita Line;jpn.taita
 jpnjrc;TakayamaLnSouth;;Takayama Line South;jpn.takayamasouth
 jpnjrc;TaketoyoLn;;Taketoyo Line;jpn.taketoyo
 jpnjrc;TaruiLn;;Tarui Branch Line;jpn.tarui
-jpnjrc;TokaidoLnCen;;Tokaido Line Central;jpn.tokaidocentral
+jpnjrc;TokaidoLn;;Tokaido Line (JR Central);jpn.tokaidocentral
