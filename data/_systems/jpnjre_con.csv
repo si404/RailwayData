@@ -19,8 +19,8 @@ jpnjre;IshinomakiLn;;Ishinomaki Line;jpn.ishinomaki
 jpnjre;ItoLn;;Ito Line;jpn.ito
 jpnjre;ItsukaichiLn;;Itsukaichi Line;jpn.itsukaichi
 jpnjre;JobanLn;;Jōban Line;jpn.joban
-jpnjre;JobanLnLocal;;Jōban Line (Local);jpn.jobanlocal
-jpnjre;JobanRapidLn;;Jōban Line (Rapid);jpn.jobanrapid
+jpnjre;JobanLn;;Jōban Line (Local);jpn.jobanlocal
+jpnjre;JobanLn;;Jōban Line (Rapid);jpn.jobanrapid
 jpnjre;JoetsuLn;;Joetsu Line;jpn.joetsumain
 jpnjre;KamaishiLn;;Kamaishi Line;jpn.kamaishi
 jpnjre;KarasuyamaLn;;Karasuyama Line;jpn.karasuyama
@@ -34,9 +34,9 @@ jpnjre;KoumiLn;;Koumi Line;jpn.koumi
 jpnjre;KururiLn;;Kururi Line;jpn.kururi
 jpnjre;MitoLn;;Mito Line;jpn.mito
 jpnjre;MusashinoLn;;Musashino Line (to Tokyo);jpn.musashino
-jpnjre;MusashinoLnMa;;Musashino Line (to Makuhari);jpn.musashinoma
-jpnjre;MusashinoTrain;;Musashino Line (Musashino (Hachiōji/Ōmiya));jpn.musashinotrain
-jpnjre;MusashinoShimosa;;Musashino Line (Shimosa);jpn.shimosa
+jpnjre;MusashinoLn;;Musashino Line (to Makuhari);jpn.musashinoma
+jpnjre;MusashinoLn;;Musashino Line (Musashino (Hachiōji/Ōmiya));jpn.musashinotrain
+jpnjre;MusashinoLn;;Musashino Line (Shimosa);jpn.shimosa
 jpnjre;NambuLn;;Nambu Line;jpn.nambu
 jpnjre;NambuHamaLn;;Nambu Line, Hama-Kawasaki Branch;jpn.nambuhamakawa
 jpnjre;NaritaLn;;Narita Line;jpn.narita
@@ -57,9 +57,9 @@ jpnjre;SaikyoLn;;Saikyo Line;jpn.saikyo
 jpnjre;SensekiLn;;Senseki Line;jpn.senseki
 jpnjre;SensekiTohokuLn;;Senseki-Tohoku Line;jpn.sensekitohoku
 jpnjre;SenzanLn;;Senzan Line;jpn.senzan
-jpnjre;ShinetsuLnCen;;Shinetsu Line Central;jpn.shinetsucentral
-jpnjre;ShinetsuLnN;;Shinetsu Line North;jpn.shinetsunorth
-jpnjre;ShinetsuLnS;;Shinetsu Line South;jpn.shinetsusouth
+jpnjre;ShinetsuLn;;Shinetsu Line Central;jpn.shinetsucentral
+jpnjre;ShinetsuLn;;Shinetsu Line North;jpn.shinetsunorth
+jpnjre;ShinetsuLn;;Shinetsu Line South;jpn.shinetsusouth
 jpnjre;ShinonoiLn;;Shinonoi Line;jpn.shinonoi
 jpnjre;ShonanShinjukuLn;;Shonan-Shinjuku Line;jpn.shonanshinjuku
 jpnjre;SobuMainLn;;Sōbu Main Line;jpn.sobu
@@ -76,8 +76,8 @@ jpnjre;TohokuRifuLn;;Tohoku Line, Rifu Branch;jpn.tohokurifu
 jpnjre;TokaidoLnE;;Tokaido Main Line East;jpn.tokaidoeast
 jpnjre;TsugaruLn;;Tsugaru Line;jpn.tsugaru
 jpnjre;TsurumiLn;;Tsurumi Line;jpn.tsurumi
-jpnjre;TsurumiLnOkawa;;Tsurumi Line, Okawa Branch;jpn.tsurumiokawa
-jpnjre;TsurumiShibaura;;Tsurumi Line, Shibaura Branch;jpn.tsurumishibaura
+jpnjre;TsurumiLn;;Tsurumi Line, Okawa Branch;jpn.tsurumiokawa
+jpnjre;TsurumiLn;;Tsurumi Line, Shibaura Branch;jpn.tsurumishibaura
 jpnjre;UchiboLn;;Uchibo Line;jpn.uchibo
 jpnjre;UenoTokyoLn;;Ueno-Tokyo Line;jpn.uenotokyo
 jpnjre;UetsuLn;;Uetsu Line;jpn.uetsu
