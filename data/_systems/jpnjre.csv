@@ -73,7 +73,7 @@ jpnjre;JPN;TazawakoLn;;;Tazawako Line;jpn.tazawako;
 jpnjre;JPN;ToganeLn;;;Togane Line;jpn.togane;
 jpnjre;JPN;TohokuLn;;;Tohoku Line;jpn.tohokumain;
 jpnjre;JPN;TohokuRifuLn;;;Tohoku Line, Rifu Branch;jpn.tohokurifu;
-jpnjre;JPN;TokaidoLn;;E;Tokaido Main Line;jpn.tokaidoeast;
+jpnjre;JPN;TokaidoLn;;E;Tokaido Line (JR East);jpn.tokaidoeast;
 jpnjre;JPN;TsugaruLn;;;Tsugaru Line;jpn.tsugaru;
 jpnjre;JPN;TsurumiLn;;;Tsurumi Line;jpn.tsurumi;
 jpnjre;JPN;TsurumiLn;;Shi;Tsurumi Line, Shibaura Branch;jpn.tsurumishibaura;
