@@ -435,15 +435,15 @@ jpnjrh;JPN;JR Hokkaido;TMpurple;1;preview
 jpnjrk;JPN;JR Kyushu;TMpurple;1;preview
 jpnjrs;JPN;JR Shikoku;TMpurple;1;preview
 jpnjrw;JPN;JR West;TMpurple;1;preview
-jpnlexc;JPN;JR Central Limited Express;TMblack;1;preview
-jpnlexe;JPN;JR East Limited Express;TMblack;1;preview
-jpnlexh;JPN;JR Hokkaido Limited Express;TMblack;1;preview
-jpnlexk;JPN;JR Kyushu Limited Express;TMblack;1;preview
-jpnlexs;JPN;JR Shikoku Limited Express;TMblack;1;preview
-jpnlexw;JPN;JR West Limited Express;TMblack;1;preview
-jpntlxk;JPN;Kyushu Tourist Services;TMblack;1;preview
-jpntlxw;JPN;Western Honshu Tourist Services;TMblack;1;preview
-jpn7star;JPN;Seven Stars in Kyushu;TMblack;1;preview
+jpnlexc;JPN;JR Central Limited Express;TMlightsalmon;1;preview
+jpnlexe;JPN;JR East Limited Express;TMlightsalmon;1;preview
+jpnlexh;JPN;JR Hokkaido Limited Express;TMlightsalmon;1;preview
+jpnlexk;JPN;JR Kyushu Limited Express;TMlightsalmon;1;preview
+jpnlexs;JPN;JR Shikoku Limited Express;TMlightsalmon;1;preview
+jpnlexw;JPN;JR West Limited Express;TMlightsalmon;1;preview
+jpntlxk;JPN;Kyushu Tourist Services;TMlightsalmon;1;preview
+jpntlxw;JPN;Western Honshu Tourist Services;TMlightsalmon;1;preview
+jpn7star;JPN;Seven Stars in Kyushu;TMlightsalmon;1;preview
 jpnrhku;JPN;Hankyu Railway;TMbrown;2;preview
 jpnrhsn;JPN;Hanshin Railway;TMbrown;2;preview
 jpnrkeo;JPN;Keio Railway;TMbrown;2;preview
