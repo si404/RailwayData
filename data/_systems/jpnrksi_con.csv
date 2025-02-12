@@ -1,7 +1,7 @@
 systemName;route;banner;groupName;roots
 jpnrksi;Skyliner;;Keisei Skyliner;jpn.ksiskyliner
-jpnrksi;AccExpHaneda;;Keisei Access Express Haneda;jpn.ksiaccesshaneda
-jpnrksi;AccExpUeno;;Keisei Access Express Ueno;jpn.ksiaccessueno
+jpnrksi;AccExp;;Keisei Access Express Haneda;jpn.ksiaccesshaneda
+jpnrksi;AccExp;;Keisei Access Express Ueno;jpn.ksiaccessueno
 jpnrksi;Morningliner;;Keisei Morningliner / Eveningliner;jpn.ksimorningliner
 jpnrksi;ChibaLn;;Keisei Chiba Line;jpn.ksichiba
 jpnrksi;ChiharaLn;;Keisei Chihara Line;jpn.ksichihara
