@@ -4,11 +4,11 @@ twntpm;TPRed;;Taipei Metro Tamsui–Xinyi (Red) line;twn.tpred
 twntpm;TPRedXin;;Taipei Metro Xinbeitou branch line;twn.tpredb
 twntpm;TPGreen;;Taipei Metro Songshan–Xindian (Green) line;twn.tpgreen
 twntpm;TPGreenXiao;;Taipei Metro Xiaobitan branch line;twn.tpgreenb
-twntpm;TPOrangeHui;;Taipei Metro Zhonghe–Xinlu (Orange) line, Huilong branch;twn.tporangehui
-twntpm;TPOrangeLu;;Taipei Metro Zhonghe–Xinlu (Orange) line, Luzhou branch;twn.tporangelu
+twntpm;TPOrange;;Taipei Metro Zhonghe–Xinlu (Orange) line, Huilong branch;twn.tporangehui
+twntpm;TPOrange;;Taipei Metro Zhonghe–Xinlu (Orange) line, Luzhou branch;twn.tporangelu
 twntpm;TPBlue;;Taipei Metro Bannan (Blue) line;twn.tpblue
 twntpm;NTYellow;;New Taipei Metro Circular (Yellow) line;twn.ntyellow
-twntpm;NTDansuiMtn;;New Taipei Metro Dansui LRT Mountain Line;twn.ntdsmtn
-twntpm;NTDansuiSea;;New Taipei Metro Dansui LRT Seaside Line;twn.ntdssea
+twntpm;NTDansui;;New Taipei Metro Dansui LRT Mountain Line;twn.ntdsmtn
+twntpm;NTDansui;;New Taipei Metro Dansui LRT Seaside Line;twn.ntdssea
 twntpm;NTAnkeng;;New Taipei Metro Ankeng LRT;twn.ntak
 twntpm;TYAir;;Taoyuan Metro Taoyuan Airport MRT;twn.tyairport
