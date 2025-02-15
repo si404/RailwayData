@@ -2,7 +2,7 @@ systemName;region;route;banner;abbrev;city;root;altRouteNames
 chngdgzfm;CHN-GD;GZMLn1;;;Guangzhou Metro Line 1;chngd.gzm01;
 chngdgzfm;CHN-GD;GZMLn2;;;Guangzhou Metro Line 2;chngd.gzm02;
 chngdgzfm;CHN-GD;GZMLn3;;;Guangzhou Metro Line 3 (Airport branch);chngd.gzm03;
-chngdgzfm;CHN-GD;GZMLn3Tian;;;Guangzhou Metro Line 3 (Tianhe branch);chngd.gzm03tian;
+chngdgzfm;CHN-GD;GZMLn3;;Tian;Guangzhou Metro Line 3 (Tianhe branch);chngd.gzm03tian;
 chngdgzfm;CHN-GD;GZMLn4;;;Guangzhou Metro Line 4;chngd.gzm04;
 chngdgzfm;CHN-GD;GZMLn5;;;Guangzhou Metro Line 5;chngd.gzm05;
 chngdgzfm;CHN-GD;GZMLn6;;;Guangzhou Metro Line 6;chngd.gzm06;
