@@ -7,8 +7,8 @@ jpnjrh;JPN;SawaraLn;;;Hakodate Sawara Branch Line;jpn.hakosawara;
 jpnjrh;JPN;HidakaLn;;;Hidaka Line;jpn.hidaka;
 jpnjrh;JPN;MuroranLn;;;Muroran Line;jpn.muroran;
 jpnjrh;JPN;MuroranCityLn;;;Muroran City Branch Line;jpn.murorancity;
-jpnjrh;JPN;NemuroLnE;;;Nemuro Line East;jpn.nemuroeast;
-jpnjrh;JPN;NemuroLnW;;;Nemuro Line West;jpn.nemurowest;
+jpnjrh;JPN;NemuroLn;;E;Nemuro Line East;jpn.nemuroeast;NemuroLnE
+jpnjrh;JPN;NemuroLn;;W;Nemuro Line West;jpn.nemurowest;NemuroLnW
 jpnjrh;JPN;RumoiLn;;;Rumoi Line;jpn.rumoi;
 jpnjrh;JPN;SasshoLn;;;Sassho Line;jpn.sassho;
 jpnjrh;JPN;SekihokuLn;;;Sekihoku Line;jpn.sekihoku;
