@@ -1,15 +1,15 @@
 systemName;route;banner;groupName;roots
-jpnmtto;AsakusaLn;;Asakusa Line;jpn.tkeasakusa
-jpnmtto;MitaLn;;Mita Line;jpn.tkemita
-jpnmtto;OedoLn;;Oeda Line;jpn.tkeoedo
-jpnmtto;ShinjukuLn;;Shinjuku Line;jpn.tkeshinjuku
-jpnmtto;ChiyodaLn;;Chiyoda Line;jpn.tkochiyoda
-jpnmtto;FukutoshinLn;;Fukutoshin Line;jpn.tkofukutoshin
 jpnmtto;GinzaLn;;Ginza Line;jpn.tkoginza
-jpnmtto;HanzomonLn;;Hanzomon Line;jpn.tkohanzomon
-jpnmtto;HibiyaLn;;Hibiya Line;jpn.tkohibiya
 jpnmtto;MarunouchiLn;;Marunouchi Line;jpn.tkomarunouchi
-jpnmtto;MaruHonanLn;;Marunouchi Honancho Branch Line;jpn.tkomaruhonan
-jpnmtto;TokNambokuLn;;Tokyo Namboku Line;jpn.tkonamboku
-jpnmtto;TokTozaiLn;;Tokyo Tozai Line;jpn.tkotozai
-jpnmtto;YurakuchoLn;;Yurakucho Line;jpn.tkoyurakucho
+jpnmtto;MarunouchiLn;;Marunouchi Line, Hōnanchō Branch;jpn.tkomaruhonan
+jpnmtto;HibiyaLn;;Hibiya Line;jpn.tkohibiya
+jpnmtto;TozaiLn;;Tōzai Line;jpn.tkotozai
+jpnmtto;ChiyodaLn;;Chiyoda Line;jpn.tkochiyoda
+jpnmtto;YurakuchoLn;;Yūrakuchō Line;jpn.tkoyurakucho
+jpnmtto;HanzomonLn;;Hanzōmon Line;jpn.tkohanzomon
+jpnmtto;NambokuLn;;Tokyo Namboku Line;jpn.tkonamboku
+jpnmtto;FukutoshinLn;;Fukutoshin Line;jpn.tkofukutoshin
+jpnmtto;AsakusaLn;;Toei Asakusa Line;jpn.tkeasakusa
+jpnmtto;MitaLn;;Toei Mita Line;jpn.tkemita
+jpnmtto;ShinjukuLn;;Toei Shinjuku Line;jpn.tkeshinjuku
+jpnmtto;OedoLn;;Toei Ōedo Line;jpn.tkeoedo
