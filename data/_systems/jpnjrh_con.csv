@@ -1,6 +1,6 @@
 systemName;route;banner;groupName;roots
 jpnjrh;HakoMuroLn;;Hakodate Main Line - Muroran Main Line (Hakodate - Oshamambe - Higashi-Muroran);jpn.hakodatehako,jpn.muroranosh
-jpnjrh;MuroChitoseLn;;Muroran Main Line - Chitose Line (Muroran - Highashi-Muroran - Tomakomai - Sapporo);jpn.chitose,jpn.muroran,pn.murorancity
+jpnjrh;MuroChitoseLn;;Muroran Main Line - Chitose Line (Muroran - Highashi-Muroran - Tomakomai - Sapporo);jpn.chitose,jpn.muroran,jpn.murorancity
 jpnjrh;ChitoseLn;;Chitose Airport Line;jpn.chitoseair
 jpnjrh;HakodateLnAsahi;;Hakodate Main Line (Oshamambe - Otaru - Asahikawa);jpn.hakodateosha,jpn.hakodate,jpn.hakodateasahi
 jpnjrh;SekiNeLn;;Sekishō Line - Nemuro Main Line (Chitose - Shintoku - Kushiro);jpn.sekisho,nemurocentral
