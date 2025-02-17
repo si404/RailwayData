@@ -1,12 +1,18 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-jpnjrh;JPN;HakodateLn;;;Hakodate Main Line;jpn.hakodate;
+jpnjrh;JPN;HakodateLn;;Hako;Hakodate Main Line (Hakodate - Oshamambe);jpn.hakodatehako;
+jpnjrh;JPN;HakodateLn;;Osha;Hakodate Main Line (Oshamambe - Otaru);jpn.hakodateosha;
+jpnjrh;JPN;HakodateLn;;;Hakodate Main Line (Otaru - Sapporo - Iwamizawa);jpn.hakodate;
+jpnjrh;JPN;HakodateLn;;Asahi;Hakodate Main Line (Iwamizawa - Asahikawa);jpn.hakodateasahi;
 jpnjrh;JPN;HakodateLn;;Sa;Hakodate Line, Sawara Branch;jpn.hakosawara;SawaraLn
+jpnjrh;JPN;MuroranLn;;Osh;Muroran Main Line (Oshamambe - Higashi-Muroran);jpn.muroranosh;
+jpnjrh;JPN;MuroranLn;;;Muroran Main Line (Higashi-Muroran - Tomakomai);jpn.muroran;
+jpnjrh;JPN;MuroranLn;;Iwa;Muroran Main Line (Tomakomai - Iwamizawa);jpn.muroraniwa;
+jpnjrh;JPN;MuroranLn;Muro;;Muroran Main Line, Muroran branch;jpn.murorancity;MuroranCityLn
 jpnjrh;JPN;NemuroLn;;W;Nemuro Main Line (West);jpn.nemurowest;NemuroLnW
+jpnjrh;JPN;NemuroLn;;C;Nemuro Main Line (Central);jpn.nemurocentral;
 jpnjrh;JPN;NemuroLn;;E;Nemuro Main Line (East);jpn.nemuroeast;NemuroLnE
 jpnjrh;JPN;ChitoseLn;;;Chitose Line;jpn.chitose;
 jpnjrh;JPN;ChitoseLn;Air;;Chitose Line, Airport Line;jpn.chitoseair;ChitoseAirLn
-jpnjrh;JPN;MuroranLn;;;Muroran Main Line;jpn.muroran;
-jpnjrh;JPN;MuroranLn;Muro;;Muroran Main Line, Muroran branch;jpn.murorancity;MuroranCityLn
 jpnjrh;JPN;SekishoLn;;;Sekishō Line;jpn.sekisho;
 jpnjrh;JPN;FuranoLn;;;Furano Line;jpn.furano;
 jpnjrh;JPN;SoyaLn;;;Sōya Main Line;jpn.soya;
