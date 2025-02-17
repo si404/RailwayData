@@ -372,7 +372,7 @@ grcpt;GRC;Proastiakos Thessalonikis;TMgreen;2;preview
 grcma;GRC;Metro Athenas;TMblue;3;preview
 grcmt;GRC;Metro Thessalonikis;TMblue;3;preview
 grcta;GRC;Tram Athenas;TMred;4;preview
-hkgmtr;CHN;Hong Kong Mass Transit Railway;TMblue;3;preview
+hkgmtr;CHN;Hong Kong Mass Transit Railway (MTR);TMblue;3;preview
 hkglr;CHN;Hong Kong Light Rail;TMlightsalmon;4;preview
 hkghkt;CHN;Hong Kong Tramways;TMred;4;preview
 hkgop;CHN;Ocean Park Transport;TMyellow;5;preview
@@ -591,7 +591,7 @@ prtpe;PRT;Elétricos do Porto;TMred;4;preview
 prtse;PRT;Elétricos de Sintra;TMred;4;preview
 roubm;ROU;Metroul din București;TMblue;3;preview
 roubt;ROU;Tramvaiul din București (as-of July 2023);TMred;4;preview
-sgpmrt;SGP;Singapore Mass Rapid Transit;TMblue;3;preview
+sgpmrt;SGP;Singapore Mass Rapid Transit (SMRT);TMblue;3;preview
 sgplrt;SGP;Singapore Light Rail Transit;TMyellow;5;preview
 srbbt;SRB;Belgrade trams;TMred;4;preview
 svkzdb;SVK;Železničná_doprava v Bratislave;TMgreen;2;preview
