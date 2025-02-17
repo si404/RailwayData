@@ -1,17 +1,17 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
+jpnjrh;JPN;HakodateLn;;;Hakodate Main Line;jpn.hakodate;
+jpnjrh;JPN;HakodateLn;;Sa;Hakodate Line, Sawara Branch;jpn.hakosawara;SawaraLn
+jpnjrh;JPN;NemuroLn;;W;Nemuro Main Line (West);jpn.nemurowest;NemuroLnW
+jpnjrh;JPN;NemuroLn;;E;Nemuro Main Line (East);jpn.nemuroeast;NemuroLnE
 jpnjrh;JPN;ChitoseLn;;;Chitose Line;jpn.chitose;
-jpnjrh;JPN;ChitoseAirLn;;;Chitose Airport Branch Line;jpn.chitoseair;
+jpnjrh;JPN;ChitoseLn;Air;;Chitose Line, Airport Line;jpn.chitoseair;ChitoseAirLn
+jpnjrh;JPN;MuroranLn;;;Muroran Main Line;jpn.muroran;
+jpnjrh;JPN;MuroranLn;Muro;;Muroran Main Line, Muroran branch;jpn.murorancity;MuroranCityLn
+jpnjrh;JPN;SekishoLn;;;Sekishō Line;jpn.sekisho;
 jpnjrh;JPN;FuranoLn;;;Furano Line;jpn.furano;
-jpnjrh;JPN;HakodateLn;;;Hakodate Line;jpn.hakodate;
-jpnjrh;JPN;SawaraLn;;;Hakodate Sawara Branch Line;jpn.hakosawara;
-jpnjrh;JPN;HidakaLn;;;Hidaka Line;jpn.hidaka;
-jpnjrh;JPN;MuroranLn;;;Muroran Line;jpn.muroran;
-jpnjrh;JPN;MuroranCityLn;;;Muroran City Branch Line;jpn.murorancity;
-jpnjrh;JPN;NemuroLn;;E;Nemuro Line East;jpn.nemuroeast;NemuroLnE
-jpnjrh;JPN;NemuroLn;;W;Nemuro Line West;jpn.nemurowest;NemuroLnW
+jpnjrh;JPN;SoyaLn;;;Sōya Main Line;jpn.soya;
 jpnjrh;JPN;RumoiLn;;;Rumoi Line;jpn.rumoi;
-jpnjrh;JPN;SasshoLn;;;Sassho Line;jpn.sassho;
-jpnjrh;JPN;SekihokuLn;;;Sekihoku Line;jpn.sekihoku;
-jpnjrh;JPN;SekishoLn;;;Sekisho Line;jpn.sekisho;
-jpnjrh;JPN;SenmoLn;;;Senmo Line;jpn.senmo;
-jpnjrh;JPN;SoyaLn;;;Soya Line;jpn.soya;
+jpnjrh;JPN;SekihokuLn;;;Sekihoku Main Line;jpn.sekihoku;
+jpnjrh;JPN;SenmoLn;;;Senmō Line;jpn.senmo;
+jpnjrh;JPN;SasshoLn;;;Sasshō (Gakuentoshi) Line;jpn.sassho;
+jpnjrh;JPN;HidakaLn;;;Hidaka Main Line;jpn.hidaka;
