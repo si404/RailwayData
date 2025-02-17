@@ -1,4 +1,4 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-jpnmtsp;JPN;SapNambokuLn;;;Sapporo Namboku Line;jpn.sapnamboku;
-jpnmtsp;JPN;SapTohoLn;;;Sapporo Toho Line;jpn.saptoho;
-jpnmtsp;JPN;SapTozaiLn;;;Sapporo Tozai Line;jpn.saptozai;
+jpnmtsp;JPN;NambokuLn;;Sa;Namboku Line;jpn.sapnamboku;SapNambokuLn
+jpnmtsp;JPN;TohoLn;;;Tōhō Line;jpn.saptoho;SapTohoLn
+jpnmtsp;JPN;TozaiLn;;Sa;Tōzai Line;jpn.saptozai;SapTozaiLn
