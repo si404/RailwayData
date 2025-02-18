@@ -1,6 +1,6 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
 ared;ARE;RedLn;;;Dubai Metro Red Line;are.redln;
 ared;ARE;RedLn;2020;;Dubai Metro Red Line, Route 2020 branch;are.redln2020;RedLn2020
-ared;ARE;GreenLn;;;Dubai Metro Green Line;are.greenln;
+ared;ARE;GreLn;;;Dubai Metro Green Line;are.greenln;GreenLn
 ared;ARE;DXBTram;;;Dubai Tram;are.dtram;
 ared;ARE;Palm;;;Palm Monorail;are.palm;
