@@ -8,8 +8,9 @@ LonBri http://www.openstreetmap.org/?lat=51.504232&lon=-0.084994
 +DIV_GPL http://www.openstreetmap.org/?lat=51.470334&lon=-0.025342
 +X715163 http://www.openstreetmap.org/?lat=51.468029&lon=-0.019937
 +X692176 http://www.openstreetmap.org/?lat=51.466083&lon=-0.017906
++DIV_Sid http://www.openstreetmap.org/?lat=51.464185&lon=-0.017231
 +DIV_Hay http://www.openstreetmap.org/?lat=51.461504&lon=-0.016324
-+DIV_Sid http://www.openstreetmap.org/?lat=51.458657&lon=-0.013567
++DIV_Lew http://www.openstreetmap.org/?lat=51.458657&lon=-0.013567
 +SKIP_HitGre http://www.openstreetmap.org/?lat=51.451587&lon=-0.000129
 +SKIP_GroPark http://www.openstreetmap.org/?lat=51.430267&lon=0.022702
 +SKIP_ElmWoo http://www.openstreetmap.org/?lat=51.416726&lon=0.044546
