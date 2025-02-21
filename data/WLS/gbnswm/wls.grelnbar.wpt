@@ -2,7 +2,7 @@ Rhy http://www.openstreetmap.org/?lat=51.758803&lon=-3.289590
 Pon http://www.openstreetmap.org/?lat=51.746542&lon=-3.279333
 TirPhil http://www.openstreetmap.org/?lat=51.721053&lon=-3.245988
 Bri http://www.openstreetmap.org/?lat=51.710258&lon=-3.228307
-Bar http://www.openstreetmap.org/?lat=51.692851&lon=-3.229980
+Barg http://www.openstreetmap.org/?lat=51.692851&lon=-3.229980
 GilFar http://www.openstreetmap.org/?lat=51.684164&lon=-3.227384
 Pen http://www.openstreetmap.org/?lat=51.670100&lon=-3.230088
 Hen http://www.openstreetmap.org/?lat=51.646938&lon=-3.225625
@@ -30,10 +30,6 @@ Eas http://www.openstreetmap.org/?lat=51.437812&lon=-3.206205
 DinPow http://www.openstreetmap.org/?lat=51.431230&lon=-3.219037
 Cad http://www.openstreetmap.org/?lat=51.412243&lon=-3.248606
 BarDoc http://www.openstreetmap.org/?lat=51.402519&lon=-3.261352
-+SKIP_GlaBri http://www.openstreetmap.org/?lat=51.402439&lon=-3.273475
-+SKIP_WooHalt http://www.openstreetmap.org/?lat=51.400431&lon=-3.280427
-Bar http://www.openstreetmap.org/?lat=51.397157&lon=-3.284268
+Barr http://www.openstreetmap.org/?lat=51.397157&lon=-3.284268
 +DIV_Vale http://www.openstreetmap.org/?lat=51.396093&lon=-3.285406
-+X488858 http://www.openstreetmap.org/?lat=51.394634&lon=-3.284976
-+DIV_Bar http://www.openstreetmap.org/?lat=51.393830&lon=-3.282359
 BarIsl http://www.openstreetmap.org/?lat=51.392411&lon=-3.273754
