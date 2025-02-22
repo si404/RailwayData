@@ -8,9 +8,9 @@ jpnjrh;JPN;MuroranLn;;Osh;Muroran Main Line (Oshamambe - Higashi-Muroran);jpn.mu
 jpnjrh;JPN;MuroranLn;;;Muroran Main Line (Higashi-Muroran - Tomakomai);jpn.muroran;
 jpnjrh;JPN;MuroranLn;;Iwa;Muroran Main Line (Tomakomai - Iwamizawa);jpn.muroraniwa;
 jpnjrh;JPN;MuroranLn;Muro;;Muroran Main Line, Muroran branch;jpn.murorancity;MuroranCityLn
-jpnjrh;JPN;NemuroLn;;W;Nemuro Main Line (West);jpn.nemurowest;NemuroLnW
+jpnjrh;JPN;NemuroLn;;W;Nemuro Main Line (West);jpn.nemurowest;
 jpnjrh;JPN;NemuroLn;;C;Nemuro Main Line (Central);jpn.nemurocentral;
-jpnjrh;JPN;NemuroLn;;E;Nemuro Main Line (East);jpn.nemuroeast;NemuroLnE
+jpnjrh;JPN;NemuroLn;;E;Nemuro Main Line (East);jpn.nemuroeast;
 jpnjrh;JPN;ChitoseLn;;;Chitose Line;jpn.chitose;
 jpnjrh;JPN;ChitoseLn;Air;;Chitose Line, Airport Line;jpn.chitoseair;ChitoseAirLn
 jpnjrh;JPN;SekishoLn;;;Sekishō Line;jpn.sekisho;
