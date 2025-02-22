@@ -1,8 +1,8 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-jpnjrh;JPN;HakodateLn;;Hako;Hakodate Main Line (Hakodate - Oshamambe);jpn.hakodatehako;
-jpnjrh;JPN;HakodateLn;;Osha;Hakodate Main Line (Oshamambe - Otaru);jpn.hakodateosha;
+jpnjrh;JPN;HakodateLn;;Hak;Hakodate Main Line (Hakodate - Oshamambe);jpn.hakodatehako;
+jpnjrh;JPN;HakodateLn;;Osh;Hakodate Main Line (Oshamambe - Otaru);jpn.hakodateosha;
 jpnjrh;JPN;HakodateLn;;;Hakodate Main Line (Otaru - Sapporo - Iwamizawa);jpn.hakodate;
-jpnjrh;JPN;HakodateLn;;Asahi;Hakodate Main Line (Iwamizawa - Asahikawa);jpn.hakodateasahi;
+jpnjrh;JPN;HakodateLn;;Asa;Hakodate Main Line (Iwamizawa - Asahikawa);jpn.hakodateasahi;
 jpnjrh;JPN;HakodateLn;;Sa;Hakodate Line, Sawara Branch;jpn.hakosawara;SawaraLn
 jpnjrh;JPN;MuroranLn;;Osh;Muroran Main Line (Oshamambe - Higashi-Muroran);jpn.muroranosh;
 jpnjrh;JPN;MuroranLn;;;Muroran Main Line (Higashi-Muroran - Tomakomai);jpn.muroran;
