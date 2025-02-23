@@ -12,7 +12,6 @@ jpnjrw;HakubiLn;;Hakubi Line;jpn.hakubi
 jpnjrw;HanwaLn;;Hanwa Line;jpn.hanwa
 jpnjrw;HimiLn;;Himi Line;jpn.himi
 jpnjrw;HokurikuLn;;Hokuriku Line;jpn.hokurikumain
-jpnjrw;HonshiBisanLnN;;Honshi-Bisan Line North;jpn.honshinorth
 jpnjrw;InbiLn;;Inbi Line;jpn.inbi
 jpnjrw;JohanaLn;;Johana Line;jpn.johana
 jpnjrw;JRKobeLn;;JR Kobe Line;jpn.jrkobe
@@ -24,10 +23,10 @@ jpnjrw;JRTozaiLn;;JR Tozai Line;jpn.jrtozai
 jpnjrw;KabeLn;;Kabe Line;jpn.kabe
 jpnjrw;KakogawaLn;;Kakogawa Line;jpn.kakogawa
 jpnjrw;KansaiAirportLn;;Kansai Airport Line;jpn.kansaiairport
-jpnjrw;KansaiLnW;;Kansai Line West;jpn.kansaiwest
+jpnjrw;KansaiLn;;Kansai Line West;jpn.kansaiwest
 jpnjrw;KatamachiLn;;Katamachi Line;jpn.katamachi
 jpnjrw;KibiLn;;Kibi Line;jpn.kibi
-jpnjrw;KiseiLnW;;Kisei Line West;jpn.kiseiwest
+jpnjrw;KiseiLn;;Kisei Line West;jpn.kiseiwest
 jpnjrw;KishinLn;;Kishin Line;jpn.kishin
 jpnjrw;KisukiLn;;Kisuki Line;jpn.kisuki
 jpnjrw;KoseiLn;;Kosei Line;jpn.kosei
@@ -49,7 +48,7 @@ jpnjrw;SanyoLn;;Sanyo Line;jpn.jrsanyo
 jpnjrw;SenzakiLn;;Sanin Senzaki Branch Line;jpn.senzaki
 jpnjrw;SetoOhashiLnN;;Seto-Ohashi Line North;jpn.setoohashinorth
 jpnjrw;TakayamaLnN;;Takayama Line North;jpn.takayamanorth
-jpnjrw;TokaidoLnW;;Tokaido Line;jpn.tokaidowest
+jpnjrw;TokaidoLn;;Tokaido Line (JR West);jpn.tokaidowest
 jpnjrw;TsuyamaLn;;Tsuyama Line;jpn.tsuyama
 jpnjrw;UbeLn;;Ube Line;jpn.ube
 jpnjrw;UnoLn;;Uno Line;jpn.uno
