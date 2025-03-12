@@ -1,12 +1,12 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
 chncrh;CHN-XJ;Eurasia;;;Eurasia Continental Bridge HSR;chnxj.hsreurasia;
-chncrh;CHN-GS;EurasiaYu;;;Eurasia Continental Bridge HSR (Yumen);chngs.hsreurasiayu;
+chncrh;CHN-GS;Eurasia;;Yu;Eurasia Continental Bridge HSR (Yumen);chngs.hsreurasiayu;
 chncrh;CHN-QH;Eurasia;;;Eurasia Continental Bridge HSR;chnqh.hsreurasia;
 chncrh;CHN-GS;Eurasia;;;Eurasia Continental Bridge HSR;chngs.hsreurasia;
 chncrh;CHN-SN;Eurasia;;;Eurasia Continental Bridge HSR;chnsn.hsreurasia;
 chncrh;CHN-HA;Eurasia;;;Eurasia Continental Bridge HSR;chnha.hsreurasia;
-chncrh;CHN-AH;EurasiaDang;;;Eurasia Continental Bridge HSR (Dangshan);chnah.hsreurasiadang;
-chncrh;CHN-HA;EurasiaYong;;;Eurasia Continental Bridge HSR (Yongcheng);chnha.hsreurasiayong;
+chncrh;CHN-AH;Eurasia;;Dan;Eurasia Continental Bridge HSR (Dangshan);chnah.hsreurasiadang;
+chncrh;CHN-HA;Eurasia;;Yon;Eurasia Continental Bridge HSR (Yongcheng);chnha.hsreurasiayong;
 chncrh;CHN-AH;Eurasia;;;Eurasia Continental Bridge HSR;chnah.hsreurasia;
 chncrh;CHN-JS;Eurasia;;;Eurasia Continental Bridge HSR;chnjs.hsreurasia;
 chncrh;CHN-GD;GuangShenGang;;;Guangshengang HSR;chngd.hsrguangshengang;
@@ -27,9 +27,9 @@ chncrh;CHN-GD;JingGuang;;;Jingguang HSR;chngd.hsrjingguang;
 chncrh;CHN-BJ;JingHu;;;Jinghu HSR;chnbj.hsrjinghu;
 chncrh;CHN-HE;JingHu;;;Jinghu HSR;chnhe.hsrjinghu;
 chncrh;CHN-TJ;JingHu;;;Jinghu HSR;chntj.hsrjinghu;
-chncrh;CHN-HE;JingHuCang;;;Jinghu HSR (Cangzhou);chnhe.hsrjinghucang;
+chncrh;CHN-HE;JingHu;;Can;Jinghu HSR (Cangzhou);chnhe.hsrjinghucang;
 chncrh;CHN-SD;JingHu;;;Jinghu HSR;chnsd.hsrjinghu;
-chncrh;CHN-JS;JingHuXu;;;Jinghu HSR (Xuzhou);chnjs.hsrjinghuxu;
+chncrh;CHN-JS;JingHu;;Xu;Jinghu HSR (Xuzhou);chnjs.hsrjinghuxu;
 chncrh;CHN-AH;JingHu;;;Jinghu HSR;chnah.hsrjinghu;
 chncrh;CHN-JS;JingHu;;;Jinghu HSR;chnjs.hsrjinghu;
 chncrh;CHN-SH;JingHu;;;Jinghu HSR;chnsh.hsrjinghu;

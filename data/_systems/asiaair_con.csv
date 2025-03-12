@@ -1,6 +1,6 @@
 systemName;route;banner;groupName;roots
-asiaair;DXBTer1APM;;DXB Airport Terminal 1 APM;are.dxbt1apm
-asiaair;DXBTer3APM;;DXB Airport Terminal 3 APM;are.dxbt3apm
+asiaair;DXBAPM;;DXB Airport Terminal 1 APM;are.dxbt1apm
+asiaair;DXBAPM;;DXB Airport Terminal 3 APM;are.dxbt3apm
 asiaair;PEKTer3APM;;PEK Airport Terminal 3 APM;chnbj.pekt3apm
 asiaair;SZXAPM;;SZX Airport APM;chngd.szxapm
 asiaair;PVGEastLn;;PVG Airport APM East Line;chnsh.pvgeastln
@@ -10,11 +10,11 @@ asiaair;HKGAPM;;HKG Airport APM;hkg.apm
 asiaair;KIXNWing;;KIX Airport North Wing Shuttle;jpn.kixnwing
 asiaair;KIXSWing;;KIX Airport South Wing Shuttle;jpn.kixswing
 asiaair;ICNShuTra;;ICN Airport Shuttle Train;kor.icnshutra
-asiaair;SINSkyAAS;;SIN Airport Skytrain A-A Satellite;sgp.sinskyaas
-asiaair;SINSkyAF;;SIN Airport Skytrain A-F;sgp.sinskyaf
-asiaair;SINSkyBC;;SIN Airport Skytrain B-C;sgp.sinskybc
-asiaair;SINSkyBE;;SIN Airport Skytrain B-E;sgp.sinskybe
-asiaair;SINSkyDE;;SIN Airport Skytrain D-E;sgp.sinskyde
+asiaair;SINSky;;SIN Airport Skytrain A-A Satellite;sgp.sinskyaas
+asiaair;SINSky;;SIN Airport Skytrain A-F;sgp.sinskyaf
+asiaair;SINSky;;SIN Airport Skytrain B-C;sgp.sinskybc
+asiaair;SINSky;;SIN Airport Skytrain B-E;sgp.sinskybe
+asiaair;SINSky;;SIN Airport Skytrain D-E;sgp.sinskyde
 asiaair;BKKAPM;;BKK Airport APM;tha.bkkapm
-asiaair;TPESkyN;;TPE Airport Skytrain North;twn.tpeskynorth
-asiaair;TPESkyS;;TPE Airport Skytrain South;twn.tpeskysouth
+asiaair;TPESky;;TPE Airport Skytrain North;twn.tpeskynorth
+asiaair;TPESky;;TPE Airport Skytrain South;twn.tpeskysouth
