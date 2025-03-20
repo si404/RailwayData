@@ -14,10 +14,10 @@ CouAub http://www.openstreetmap.org/?lat=48.924121&lon=2.385063
 PlaStaFra http://www.openstreetmap.org/?lat=48.918142&lon=2.362447
 +DIV_Est http://www.openstreetmap.org/?lat=48.912467&lon=2.353327
 +DIV_D http://www.openstreetmap.org/?lat=48.909625&lon=2.352190
-GareNord http://www.openstreetmap.org/?lat=48.880381&lon=2.354990
+GareNord http://www.openstreetmap.org/?lat=48.879548&lon=2.357179
 +X557698 http://www.openstreetmap.org/?lat=48.867467&lon=2.345452
 ChaHal http://www.openstreetmap.org/?lat=48.861567&lon=2.346911
-+X975219 http://www.openstreetmap.org/?lat=48.858228&lon=2.348607
++X461044 http://www.openstreetmap.org/?lat=48.855913&lon=2.348735
 StMicNotDame http://www.openstreetmap.org/?lat=48.853470&lon=2.345431
 Lux +Luxembourg http://www.openstreetmap.org/?lat=48.845478&lon=2.339809
 PortRoy http://www.openstreetmap.org/?lat=48.840027&lon=2.337105
@@ -33,9 +33,7 @@ CroBer http://www.openstreetmap.org/?lat=48.762455&lon=2.304640
 Ant http://www.openstreetmap.org/?lat=48.754901&lon=2.300949
 FonMic http://www.openstreetmap.org/?lat=48.743272&lon=2.296486
 Bac http://www.openstreetmap.org/?lat=48.739536&lon=2.287431
-+DIV_CE http://www.openstreetmap.org/?lat=48.736168&lon=2.277603
 MasVer http://www.openstreetmap.org/?lat=48.734696&lon=2.273183
-+DIV_CW http://www.openstreetmap.org/?lat=48.733514&lon=2.270243
 MasPal http://www.openstreetmap.org/?lat=48.725100&lon=2.260008
 Pal http://www.openstreetmap.org/?lat=48.717427&lon=2.246103
 PalVil http://www.openstreetmap.org/?lat=48.707743&lon=2.237134

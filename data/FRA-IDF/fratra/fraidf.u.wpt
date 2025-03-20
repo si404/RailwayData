@@ -1,4 +1,5 @@
 LaDef http://www.openstreetmap.org/?lat=48.891656&lon=2.238727
++X828929 http://www.openstreetmap.org/?lat=48.887319&lon=2.235428
 Put http://www.openstreetmap.org/?lat=48.883330&lon=2.233744
 SurMontVal http://www.openstreetmap.org/?lat=48.871589&lon=2.221041
 +SKIP_ValOr http://www.openstreetmap.org/?lat=48.856711&lon=2.216535
@@ -7,10 +8,8 @@ StClo http://www.openstreetmap.org/?lat=48.846121&lon=2.217693
 SevVilAvr http://www.openstreetmap.org/?lat=48.827414&lon=2.200742
 ChaRiveDro http://www.openstreetmap.org/?lat=48.812184&lon=2.187974
 +DIV_Ver http://www.openstreetmap.org/?lat=48.805613&lon=2.175722
-+DIV_CE http://www.openstreetmap.org/?lat=48.799041&lon=2.162912
-+SKIP_Por http://www.openstreetmap.org/?lat=48.796567&lon=2.153149
-+DIV_CW http://www.openstreetmap.org/?lat=48.796030&lon=2.148278
-+DIV_V http://www.openstreetmap.org/?lat=48.795832&lon=2.144909
++DIV_C http://www.openstreetmap.org/?lat=48.797278&lon=2.156550
++X160882 http://www.openstreetmap.org/?lat=48.796161&lon=2.151539
 VerCha http://www.openstreetmap.org/?lat=48.795140&lon=2.135532
 StCyr http://www.openstreetmap.org/?lat=48.798815&lon=2.073390
 +DIV_N http://www.openstreetmap.org/?lat=48.797550&lon=2.066374
