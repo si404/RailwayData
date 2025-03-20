@@ -1,17 +1,17 @@
 systemName;route;banner;groupName;roots
-jpnjrh;ChitoseLn;;Chitose Line;jpn.chitose
-jpnjrh;ChitoseAirLn;;Chitose Airport Branch Line;jpn.chitoseair
+jpnjrh;HakoMuroLn;;Hakodate Main Line - Muroran Main Line (Hakodate - Oshamambe - Higashi-Muroran);jpn.hakodatehako,jpn.muroranosh
+jpnjrh;MuroChitoseLn;;Muroran Main Line - Chitose Line (Muroran - Highashi-Muroran - Tomakomai - Sapporo);jpn.chitose,jpn.muroran,jpn.murorancity
+jpnjrh;ChitoseLn;;Chitose Airport Line;jpn.chitoseair
+jpnjrh;HakodateLnAsahi;;Hakodate Main Line (Oshamambe - Otaru - Asahikawa);jpn.hakodateosha,jpn.hakodate,jpn.hakodateasahi
+jpnjrh;SekiNeLn;;Sekishō Line - Nemuro Main Line (Chitose - Shintoku - Kushiro);jpn.sekisho,jpn.nemurocentral
+jpnjrh;NemuroLn;;Nemuro Main Line (Kushiro - Nemuro);jpn.nemuroeast
+jpnjrh;NemuroLn;;Hanasaki Line (Nemuro Main Line (Takikawa - Furano));jpn.nemurowest
+jpnjrh;SekihokuLn;;Sekihoku Main Line;jpn.sekihoku
+jpnjrh;SenmoLn;;Senmo Main Line;jpn.senmo
+jpnjrh;SoyaLn;;Sōya Main Line;jpn.soya
+jpnjrh;MuroranLn;;Muroran Main Line (Tomakomai - Iwamizawa);jpn.muroraniwa
+jpnjrh;SasshoLn;;Sasshō Line (Gakuentoshi Line);jpn.sassho
+jpnjrh;SawaraLn;;Hakodate Line, Sawara Branch;jpn.hakosawara
 jpnjrh;FuranoLn;;Furano Line;jpn.furano
-jpnjrh;HakodateLn;;Hakodate Line;jpn.hakodate
-jpnjrh;SawaraLn;;Hakodate Sawara Branch Line;jpn.hakosawara
-jpnjrh;HidakaLn;;Hidaka Line;jpn.hidaka
-jpnjrh;MuroranLn;;Muroran Line;jpn.muroran
-jpnjrh;MuroranCityLn;;Muroran City Branch Line;jpn.murorancity
-jpnjrh;NemuroLnE;;Nemuro Line East;jpn.nemuroeast
-jpnjrh;NemuroLnW;;Nemuro Line West;jpn.nemurowest
-jpnjrh;RumoiLn;;Rumoi Line;jpn.rumoi
-jpnjrh;SasshoLn;;Sassho Line;jpn.sassho
-jpnjrh;SekihokuLn;;Sekihoku Line;jpn.sekihoku
-jpnjrh;SekishoLn;;Sekisho Line;jpn.sekisho
-jpnjrh;SenmoLn;;Senmo Line;jpn.senmo
-jpnjrh;SoyaLn;;Soya Line;jpn.soya
+jpnjrh;HidakaLn;;Hidaka Main Line;jpn.hidaka
+jpnjrh;RumoiLn;;Rumoi Main Line;jpn.rumoi

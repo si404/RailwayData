@@ -2,7 +2,7 @@ systemName;region;route;banner;abbrev;city;root;altRouteNames
 chngdgzfm;CHN-GD;GZMLn1;;;Guangzhou Metro Line 1;chngd.gzm01;
 chngdgzfm;CHN-GD;GZMLn2;;;Guangzhou Metro Line 2;chngd.gzm02;
 chngdgzfm;CHN-GD;GZMLn3;;;Guangzhou Metro Line 3 (Airport branch);chngd.gzm03;
-chngdgzfm;CHN-GD;GZMLn3Tian;;;Guangzhou Metro Line 3 (Tianhe branch);chngd.gzm03tian;
+chngdgzfm;CHN-GD;GZMLn3;Tia;;Guangzhou Metro Line 3 (Tianhe branch);chngd.gzm03tian;
 chngdgzfm;CHN-GD;GZMLn4;;;Guangzhou Metro Line 4;chngd.gzm04;
 chngdgzfm;CHN-GD;GZMLn5;;;Guangzhou Metro Line 5;chngd.gzm05;
 chngdgzfm;CHN-GD;GZMLn6;;;Guangzhou Metro Line 6;chngd.gzm06;
@@ -12,7 +12,7 @@ chngdgzfm;CHN-GD;GZMLn9;;;Guangzhou Metro Line 9;chngd.gzm09;
 chngdgzfm;CHN-GD;GZMLn11;;;Guangzhou Metro Line 11;chngd.gzm11;
 chngdgzfm;CHN-GD;GZMLn13;;;Guangzhou Metro Line 13;chngd.gzm13;
 chngdgzfm;CHN-GD;GZMLn14;;;Guangzhou Metro Line 14;chngd.gzm14;
-chngdgzfm;CHN-GD;GZMLn14Kno;;;Guangzhou Metro Line 14 (Knowledge City branch);chngd.gzm14kno;
+chngdgzfm;CHN-GD;GZMLn14;Kno;;Guangzhou Metro Line 14 (Knowledge City branch);chngd.gzm14kno;
 chngdgzfm;CHN-GD;GZMLn18;;;Guangzhou Metro Line 18;chngd.gzm18;
 chngdgzfm;CHN-GD;GZMLn21;;;Guangzhou Metro Line 21;chngd.gzm21;
 chngdgzfm;CHN-GD;GZMLn22;;;Guangzhou Metro Line 22;chngd.gzm22;

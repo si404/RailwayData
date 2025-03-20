@@ -132,13 +132,21 @@ chlefes;CHL;Empresa de los Ferrocarriles del Estado (suburbanos);TMgreen;2;previ
 chlefeu;CHL;Empresa de los Ferrocarriles del Estado (urbanos);TMgreen;2;preview
 chlms;CHL;Metro de Santiago;TMblue;3;preview
 chncrh;CHN;China Railway High-speed;TMpurple;1;preview
+chnahwhrt;CHN;Wuhu Rail Transit;TMblue;3;preview
 chngdprd;CHN;Pearl River Delta Metropolitan Region Intercity Railway;TMgreen;2;preview
 chngdgzfm;CHN;Guangzhou & Foshan Metros;TMblue;3;preview
+chngdgzt;CHN;Guangzhou Tram;TMred;4;preview
 chngdszm;CHN;Shenzhen Metro;TMblue;3;preview
+chngdszt;CHN;Shenzhen Tram;TMred;4;preview
+chnjlcct;CHN;Changchun Trams;TMred;4;preview
+chnjssndt;CHN;Suzhou New District Tram;TMred;5;preview
 chnnmhm;CHN;Hohhot Metro;TMblue;3;preview
-chnxjum;CHN;Ürümqi Metro;TMblue;3;preview
+chnscdjy;CHN;Dujiangyan M-TR Tram;TMred;4;preview
 chnshsr;CHN;Shanghai Suburban Railway;TMgreen;2;preview
 chnshm;CHN;Shanghai Metro;TMblue;3;preview
+chnshsjt;CHN;Songjiang Tram;TMred;4;preview
+chnxjum;CHN;Ürümqi Metro;TMblue;3;preview
+chnynwst;CHN;Wenshan Tram;TMred;4;preview
 colmm;COL;Metro de Medellín;TMblue;3;preview
 colmmt;COL;Metro de Medellín (tranvía);TMred;4;preview
 czeduk;CZE;Doprava Ústeckého kraje;TMgreen;2;preview
@@ -372,7 +380,7 @@ grcpt;GRC;Proastiakos Thessalonikis;TMgreen;2;preview
 grcma;GRC;Metro Athenas;TMblue;3;preview
 grcmt;GRC;Metro Thessalonikis;TMblue;3;preview
 grcta;GRC;Tram Athenas;TMred;4;preview
-hkgmtr;CHN;Hong Kong Mass Transit Railway;TMblue;3;preview
+hkgmtr;CHN;Hong Kong Mass Transit Railway (MTR);TMblue;3;preview
 hkglr;CHN;Hong Kong Light Rail;TMlightsalmon;4;preview
 hkghkt;CHN;Hong Kong Tramways;TMred;4;preview
 hkgop;CHN;Ocean Park Transport;TMyellow;5;preview
@@ -435,15 +443,15 @@ jpnjrh;JPN;JR Hokkaido;TMpurple;1;preview
 jpnjrk;JPN;JR Kyushu;TMpurple;1;preview
 jpnjrs;JPN;JR Shikoku;TMpurple;1;preview
 jpnjrw;JPN;JR West;TMpurple;1;preview
-jpnlexc;JPN;JR Central Limited Express;TMblack;1;preview
-jpnlexe;JPN;JR East Limited Express;TMblack;1;preview
-jpnlexh;JPN;JR Hokkaido Limited Express;TMblack;1;preview
-jpnlexk;JPN;JR Kyushu Limited Express;TMblack;1;preview
-jpnlexs;JPN;JR Shikoku Limited Express;TMblack;1;preview
-jpnlexw;JPN;JR West Limited Express;TMblack;1;preview
-jpntlxk;JPN;Kyushu Tourist Services;TMblack;1;preview
-jpntlxw;JPN;Western Honshu Tourist Services;TMblack;1;preview
-jpn7star;JPN;Seven Stars in Kyushu;TMblack;1;preview
+jpnlexc;JPN;JR Central Limited Express;TMlightsalmon;1;preview
+jpnlexe;JPN;JR East Limited Express;TMlightsalmon;1;preview
+jpnlexh;JPN;JR Hokkaido Limited Express;TMlightsalmon;1;preview
+jpnlexk;JPN;JR Kyushu Limited Express;TMlightsalmon;1;preview
+jpnlexs;JPN;JR Shikoku Limited Express;TMlightsalmon;1;preview
+jpnlexw;JPN;JR West Limited Express;TMlightsalmon;1;preview
+jpntlxk;JPN;Kyushu Tourist Services;TMlightsalmon;1;preview
+jpntlxw;JPN;Western Honshu Tourist Services;TMlightsalmon;1;preview
+jpn7star;JPN;Seven Stars in Kyushu;TMlightsalmon;1;preview
 jpnrhku;JPN;Hankyu Railway;TMbrown;2;preview
 jpnrhsn;JPN;Hanshin Railway;TMbrown;2;preview
 jpnrkeo;JPN;Keio Railway;TMbrown;2;preview
@@ -591,7 +599,7 @@ prtpe;PRT;Elétricos do Porto;TMred;4;preview
 prtse;PRT;Elétricos de Sintra;TMred;4;preview
 roubm;ROU;Metroul din București;TMblue;3;preview
 roubt;ROU;Tramvaiul din București (as-of July 2023);TMred;4;preview
-sgpmrt;SGP;Singapore Mass Rapid Transit;TMblue;3;preview
+sgpmrt;SGP;Singapore Mass Rapid Transit (SMRT);TMblue;3;preview
 sgplrt;SGP;Singapore Light Rail Transit;TMyellow;5;preview
 srbbt;SRB;Belgrade trams;TMred;4;preview
 svkzdb;SVK;Železničná_doprava v Bratislave;TMgreen;2;preview
