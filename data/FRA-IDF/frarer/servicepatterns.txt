@@ -23,6 +23,6 @@ Mal	1tph	Juvisy - all - Ris Orangis - all - Malesherbes
 Pon	1tph	Juvisy - all - Ris Orangis - all - Melun
 
 RER E
-Che	4tph	Haussmann-Saint-Lazare - all - Chelles-Gournay
--	2tph	Haussmann-Saint-Lazare - all - Noisy-le-Sec - Val Fontenay - Villiers-sur-Marne - all - Tournan
--	4tph	Haussmann-Saint-Lazare - all - Villiers-sur-Marne
+Che	4tph	Nanterre - all - Chelles-Gournay
+-	2tph	Nanterre - all - Noisy-le-Sec - Val Fontenay - Villiers-sur-Marne - all - Tournan
+-	4tph	Nanterre - all - Villiers-sur-Marne
