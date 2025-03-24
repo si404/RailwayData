@@ -1,0 +1,24 @@
+systemName;route;banner;groupName;roots
+frapdlter;T1;;Nantes, Pays-de-la-Loire;frapdl.t01
+frapdlter;T2;;Nantes, Pays-de-la-Loire;frapdl.t02
+frapdlter;1;;Pays-de-la-Loire;frapdl.01pdl
+frapdlter;1;Bis;Pays-de-la-Loire;frapdl.1bpdl
+frapdlter;2;;Pays-de-la-Loire;frapdl.02pdl,frapdl.02nic,frapdl.02bes,frabre.02pdl
+frapdlter;2;;Redon branch, Pays-de-la-Loire;frapdl.02red,frapdl.02red
+frapdlter;4;;Pays-de-la-Loire;frapdl.04pdl
+frapdlter;5;;Pays-de-la-Loire;frapdl.05pdl
+frapdlter;6;;Pays-de-la-Loire;frapdl.06pdl
+frapdlter;8;;Pays-de-la-Loire;frapdl.08pdl
+frapdlter;9;;Pays-de-la-Loire;frapdl.09pdl,franaq.09pdl
+frapdlter;10;;Pays-de-la-Loire;frapdl.10pdl
+frapdlter;11;;Pays-de-la-Loire;frapdl.11pdl
+frapdlter;14;;Pays-de-la-Loire;frapdl.14pdl,fracvl.14pdl,frapdl.14sau
+frapdlter;19;;Pays-de-la-Loire;frapdl.19pdl
+frapdlter;20;;Pays-de-la-Loire;frapdl.20pdl
+frapdlter;21;;Pays-de-la-Loire;frapdl.21pdl
+frapdlter;22;;Pays-de-la-Loire;frapdl.22pdl
+frapdlter;23;;Pays-de-la-Loire;fraidf.23pdl,fracvl.23pdl,franor.23pdl,fracvl.23nog,frapdl.23the,frapdl.23pdl
+frapdlter;24;;Pays-de-la-Loire;frapdl.24pdl,franor.24pdl
+frapdlter;25;;Pays-de-la-Loire;frapdl.25pdl,fracvl.25pdl
+frapdlter;27;;Pays-de-la-Loire;frapdl.27pdl,frabre.27pdl
+frapdlter;28;;Pays-de-la-Loire;frapdl.28pdl,frabre.28pdl
