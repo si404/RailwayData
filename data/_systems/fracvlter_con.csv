@@ -1,20 +1,20 @@
 systemName;route;banner;groupName;roots
-fracvlter;1;;Centre-Val-d'Loire;fraidf.01cvl,fracvl.01cvl
-fracvlter;2;;Centre-Val-d'Loire;fraidf.02cvl,fracvl.02cvl,fraara.02cvl
-fracvlter;3;;Centre-Val-d'Loire;fraidf.03cvl,fracvl.03cvl,frabfc.03cvl
-fracvlter;4;;Centre-Val-d'Loire;fraidf.04cvl,fracvl.04cvl
-fracvlter;5;;Centre-Val-d'Loire;fracvl.05cvl
-fracvlter;6;;Centre-Val-d'Loire;frapdl.06cvl,fracvl.06cvl
-fracvlter;7;;Centre-Val-d'Loire;fracvl.07cvl,frabfc.07cvl
-fracvlter;8;;Centre-Val-d'Loire;fracvl.08cvl
-fracvlter;9;;Centre-Val-d'Loire;fracvl.09cvl,frapdl.09cvl
-fracvlter;10;;Centre-Val-d'Loire;fracvl.10cvl
-fracvlter;11;;Centre-Val-d'Loire;fracvl.11cvl
-fracvlter;12;;Centre-Val-d'Loire;fracvl.12cvl,frapdl.12cvl
-fracvlter;13;;Centre-Val-d'Loire (Paris branch);fraidf.13cvl,fracvl.13par
-fracvlter;13;;Centre-Val-d'Loire (Chartres branch);fracvl.13cvl
-fracvlter;14;;Centre-Val-d'Loire;fracvl.14cvl,fracvl.14cvl,franor.14cvl,fracvl.14cvl,franor.14the,frapdl.14cvl
-fracvlter;15;;;Centre-Val-d'Loire;fracvl.15cvl
-fracvlter;16;;;Centre-Val-d'Loire;fracvl.16cvl,frabfc.16cvl
-fracvlter;17;;;Centre-Val-d'Loire;fracvl.17cvl,franaq.17cvl
-fracvlter;18;;;Centre-Val-d'Loire;fracvl.18cvl
+fracvlter;1;;Centre-Val de Loire;fraidf.01cvl,fracvl.01cvl
+fracvlter;2;;Centre-Val de Loire;fraidf.02cvl,fracvl.02cvl,fraara.02cvl
+fracvlter;3;;Centre-Val de Loire;fraidf.03cvl,fracvl.03cvl,frabfc.03cvl
+fracvlter;4;;Centre-Val de Loire;fraidf.04cvl,fracvl.04cvl
+fracvlter;5;;Centre-Val de Loire;fracvl.05cvl
+fracvlter;6;;Centre-Val de Loire;frapdl.06cvl,fracvl.06cvl
+fracvlter;7;;Centre-Val de Loire;fracvl.07cvl,frabfc.07cvl
+fracvlter;8;;Centre-Val de Loire;fracvl.08cvl
+fracvlter;9;;Centre-Val de Loire;fracvl.09cvl,frapdl.09cvl
+fracvlter;10;;Centre-Val de Loire;fracvl.10cvl
+fracvlter;11;;Centre-Val de Loire;fracvl.11cvl
+fracvlter;12;;Centre-Val de Loire;fracvl.12cvl,frapdl.12cvl
+fracvlter;13;;Centre-Val de Loire (Paris branch);fraidf.13cvl,fracvl.13par
+fracvlter;13;;Centre-Val de Loire (Chartres branch);fracvl.13cvl
+fracvlter;14;;Centre-Val de Loire;fracvl.14cvl,fracvl.14cvl,franor.14cvl,fracvl.14cvl,franor.14the,frapdl.14cvl
+fracvlter;15;;;Centre-Val de Loire;fracvl.15cvl
+fracvlter;16;;;Centre-Val de Loire;fracvl.16cvl,frabfc.16cvl
+fracvlter;17;;;Centre-Val de Loire;fracvl.17cvl,franaq.17cvl
+fracvlter;18;;;Centre-Val de Loire;fracvl.18cvl

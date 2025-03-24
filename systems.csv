@@ -288,12 +288,14 @@ eurhr;EUR;Europe Heritage & Tourist Railways;TMbrown;5;preview
 fratgv;FRA;TGV InOui;TMpurple;1;preview
 fratgvl;FRA;TGV Lyria;TMpurple;1;preview
 fracp;FRA;Chemins de fer de Provence;TMgreen;2;preview
+fracvlter;FRA;TER Centre-Val de Loire;TMgreen;2;preview
 frahdfterk;FRA;TER Hauts-de-France (Krono);TMdarkgreen;2;preview
 frahdfterc;FRA;TER Hauts-de-France (Citi);TMgreen;2;preview
 frahdfterp;FRA;TER Hauts-de-France (Proxi);TMgreen;2;preview
 franaqterd;FRA;TER en Nouvelle-Aquitaine (Direct'R);TMgreen;2;preview
 franaqterf;FRA;TER en Nouvelle-Aquitaine (Facilit'R);TMgreen;2;preview
 franaqterl;FRA;TER en Nouvelle-Aquitaine (Liné'R);TMgreen;2;preview
+frapdlter;FRA;TER Pays-de-la-Loire;TMgreen;2;preview
 frareme;FRA;Réseau express métropolitain européen;TMgreen;2;preview
 frarer;FRA;Réseau Express Régional;TMdarkgreen;2;preview
 fratra;FRA;Transillien;TMgreen;2;preview
