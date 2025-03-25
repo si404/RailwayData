@@ -57,10 +57,11 @@ Nan http://www.openstreetmap.org/?lat=47.217109&lon=-1.541412
 +X409272 http://www.openstreetmap.org/?lat=47.241643&lon=-1.737256
 +SKIP_StEtiMon http://www.openstreetmap.org/?lat=47.274694&lon=-1.785772
 +X968725 http://www.openstreetmap.org/?lat=47.293464&lon=-1.836262
++SKIP_Cor http://www.openstreetmap.org/?lat=47.302290&lon=-1.846519
 +X476143 http://www.openstreetmap.org/?lat=47.313603&lon=-1.859865
 +X123771 http://www.openstreetmap.org/?lat=47.327189&lon=-1.901665
 Sav http://www.openstreetmap.org/?lat=47.358217&lon=-1.950846
-+DIV_Sav http://www.openstreetmap.org/?lat=47.360310&lon=-1.956511
++DIV_2 http://www.openstreetmap.org/?lat=47.360310&lon=-1.956511
 +X189703 http://www.openstreetmap.org/?lat=47.353682&lon=-1.998482
 +X763395 http://www.openstreetmap.org/?lat=47.321574&lon=-2.038307
 +SKIP_Don http://www.openstreetmap.org/?lat=47.314985&lon=-2.073584
