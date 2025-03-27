@@ -1,5 +1,6 @@
 systemName;route;banner;groupName;roots
 usambtx;FaiLn;;Fairmount Line;ma.failn
+usambtx;FallRivLn;;Fall River Line;ma.fallrivln
 usambtx;FitLn;;Fitchburg Line;ma.fitln
 usambtx;FoxLn;;Foxboro Line;ma.foxln
 usambtx;FraLn;;Franklin Line;ma.fraln
@@ -8,8 +9,8 @@ usambtx;HavLn;;Haverhill Line;ma.havln
 usambtx;HavLnWil;;Haverhill Line (Wildcat Branch);ma.havlnwil
 usambtx;KinLn;;Kingston Line;ma.kinln
 usambtx;LowLn;;Lowell Line;ma.lowln
-usambtx;MidLn;;Middleborough/Lakeville Line;ma.midln
 usambtx;NeeLn;;Needham Line;ma.neeln
+usambtx;NewBedLn;;New Bedford Line;ma.newbedln
 usambtx;NewLn;;Newburyport Line;ma.newln
 usambtx;ProLn;;Providence Line;ri.proln,ma.proln
 usambtx;RocLn;;Rockport Line;ma.rocln
