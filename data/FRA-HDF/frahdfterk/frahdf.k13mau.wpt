@@ -58,7 +58,7 @@ Com http://www.openstreetmap.org/?lat=49.422245&lon=2.823443
 +DIV_P32 http://www.openstreetmap.org/?lat=49.259634&lon=2.463963
 +DIV_H http://www.openstreetmap.org/?lat=49.241180&lon=2.445402
 +SKIP_ChaGou http://www.openstreetmap.org/?lat=49.187215&lon=2.459521
-+SKIP_OrryVilCoyeFor http://www.openstreetmap.org/?lat=49.138119&lon=2.490377
-+SKIP_BorBla http://www.openstreetmap.org/?lat=49.127000&lon=2.505741
-+X927450 http://www.openstreetmap.org/?lat=49.113349&lon=2.525311
-HDF/IDF http://www.openstreetmap.org/?lat=49.100896&lon=2.525654
++SKIP_OrryVilCoyeFor http://www.openstreetmap.org/?lat=49.138491&lon=2.489970
++SKIP_BorBla http://www.openstreetmap.org/?lat=49.126789&lon=2.506106
++DIV_D http://www.openstreetmap.org/?lat=49.114009&lon=2.524796
+HDF/IDF http://www.openstreetmap.org/?lat=49.100875&lon=2.526298
