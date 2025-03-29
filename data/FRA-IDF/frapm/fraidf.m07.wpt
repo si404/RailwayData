@@ -1,23 +1,4 @@
-Cou8Mai1945 http://www.openstreetmap.org/?lat=48.920772&lon=2.410748
-FortAub http://www.openstreetmap.org/?lat=48.914243&lon=2.403667
-AubPanQuaChe http://www.openstreetmap.org/?lat=48.903638&lon=2.392294
-PorVil +PorteVillette http://www.openstreetmap.org/?lat=48.897393&lon=2.385578
-CorCar http://www.openstreetmap.org/?lat=48.894709&lon=2.382360
-Cri http://www.openstreetmap.org/?lat=48.890836&lon=2.377424
-Riq http://www.openstreetmap.org/?lat=48.888438&lon=2.374291
-Sta http://www.openstreetmap.org/?lat=48.884177&lon=2.368294
-LouBla http://www.openstreetmap.org/?lat=48.881615&lon=2.365794
-ChaLan http://www.openstreetmap.org/?lat=48.878871&lon=2.362490
-GareEst http://www.openstreetmap.org/?lat=48.876415&lon=2.357769
-Poi http://www.openstreetmap.org/?lat=48.877093&lon=2.348843
-Cad http://www.openstreetmap.org/?lat=48.876003&lon=2.344508
-Pel http://www.openstreetmap.org/?lat=48.874863&lon=2.340174
-ChaAntFay http://www.openstreetmap.org/?lat=48.873000&lon=2.333307
-Ope http://www.openstreetmap.org/?lat=48.870639&lon=2.332331
-Pyr http://www.openstreetmap.org/?lat=48.865802&lon=2.334423
-PalRoyMusLou http://www.openstreetmap.org/?lat=48.862746&lon=2.336183
-PontNeuf http://www.openstreetmap.org/?lat=48.858602&lon=2.342234
-Cha +ChatletCou8Mai1945 http://www.openstreetmap.org/?lat=48.920772&lon=2.410748
+Cou8Mai1945 +ChatletCou8Mai1945 http://www.openstreetmap.org/?lat=48.920772&lon=2.410748
 FortAub http://www.openstreetmap.org/?lat=48.914243&lon=2.403667
 AubPanQuaChe http://www.openstreetmap.org/?lat=48.903638&lon=2.392294
 PorVil http://www.openstreetmap.org/?lat=48.897393&lon=2.385578
@@ -37,23 +18,6 @@ Pyr http://www.openstreetmap.org/?lat=48.865802&lon=2.334423
 PalRoyMusLou http://www.openstreetmap.org/?lat=48.862746&lon=2.336183
 PontNeuf http://www.openstreetmap.org/?lat=48.858602&lon=2.342234
 Cha http://www.openstreetmap.org/?lat=48.857240&lon=2.348113
-PontMar http://www.openstreetmap.org/?lat=48.853830&lon=2.356524
-SulMor http://www.openstreetmap.org/?lat=48.851374&lon=2.361803
-+X426778 http://www.openstreetmap.org/?lat=48.849648&lon=2.363552
-+X946005 http://www.openstreetmap.org/?lat=48.846181&lon=2.358112
-Jus http://www.openstreetmap.org/?lat=48.846029&lon=2.356074
-PlaMon http://www.openstreetmap.org/?lat=48.842930&lon=2.352319
-CenDau http://www.openstreetmap.org/?lat=48.840755&lon=2.351890
-Gob http://www.openstreetmap.org/?lat=48.835642&lon=2.352705
-PlaIta http://www.openstreetmap.org/?lat=48.830875&lon=2.355881
-Tol http://www.openstreetmap.org/?lat=48.826100&lon=2.357340
-MaiBla http://www.openstreetmap.org/?lat=48.822470&lon=2.358499
-+SKIP_PorIta http://www.openstreetmap.org/?lat=48.818931&lon=2.359571
-KreBic http://www.openstreetmap.org/?lat=48.810297&lon=2.362146
-VilLeoLag http://www.openstreetmap.org/?lat=48.805125&lon=2.363863
-VilPaulVaiCou http://www.openstreetmap.org/?lat=48.796136&lon=2.368498
-VilLouAra http://www.openstreetmap.org/?lat=48.786919&lon=2.367382
-
 PontMar http://www.openstreetmap.org/?lat=48.853830&lon=2.356524
 SulMor http://www.openstreetmap.org/?lat=48.851374&lon=2.361803
 +X426778 http://www.openstreetmap.org/?lat=48.849648&lon=2.363552
