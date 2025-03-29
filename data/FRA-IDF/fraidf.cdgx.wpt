@@ -1,6 +1,5 @@
 ParGareEst http://www.openstreetmap.org/?lat=48.877075&lon=2.359453
-+DIV_EW http://www.openstreetmap.org/?lat=48.889242&lon=2.366030
-+DIV_EE http://www.openstreetmap.org/?lat=48.893411&lon=2.368433
++DIV_P http://www.openstreetmap.org/?lat=48.893411&lon=2.368433
 +DIV_KW http://www.openstreetmap.org/?lat=48.912467&lon=2.353327
 +SKIP_PlaStaFra http://www.openstreetmap.org/?lat=48.917917&lon=2.362275
 +X967212 http://www.openstreetmap.org/?lat=48.930671&lon=2.425790

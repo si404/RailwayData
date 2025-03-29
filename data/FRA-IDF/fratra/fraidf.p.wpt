@@ -1,10 +1,10 @@
 ParGareEst http://www.openstreetmap.org/?lat=48.877075&lon=2.359453
-+DIV_EW http://www.openstreetmap.org/?lat=48.889242&lon=2.366030
 +DIV_CDG http://www.openstreetmap.org/?lat=48.893411&lon=2.368433
-+SKIP_RosaPar http://www.openstreetmap.org/?lat=48.896423&lon=2.374077
-+SKIP_Pan http://www.openstreetmap.org/?lat=48.898003&lon=2.400427
++X744414 http://www.openstreetmap.org/?lat=48.896684&lon=2.373798
++X620676 http://www.openstreetmap.org/?lat=48.897939&lon=2.385578
++X187424 http://www.openstreetmap.org/?lat=48.898687&lon=2.411220
 +SKIP_NoiSec http://www.openstreetmap.org/?lat=48.896592&lon=2.459779
-+DIV_EE http://www.openstreetmap.org/?lat=48.895294&lon=2.467976
++DIV_E http://www.openstreetmap.org/?lat=48.895294&lon=2.467976
 +SKIP_Bon http://www.openstreetmap.org/?lat=48.894081&lon=2.479262
 +SKIP_RaiVilMon http://www.openstreetmap.org/?lat=48.888946&lon=2.512822
 +SKIP_Gag http://www.openstreetmap.org/?lat=48.883810&lon=2.525268
