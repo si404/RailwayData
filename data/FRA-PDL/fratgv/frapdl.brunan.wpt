@@ -40,7 +40,7 @@ AngStLaud http://www.openstreetmap.org/?lat=47.464493&lon=-0.555410
 +X211702 http://www.openstreetmap.org/?lat=47.399380&lon=-0.626478
 +SKIP_SavBeh http://www.openstreetmap.org/?lat=47.381454&lon=-0.654802
 +SKIP_Pos http://www.openstreetmap.org/?lat=47.371254&lon=-0.691838
-+DIV_Cho http://www.openstreetmap.org/?lat=47.370120&lon=-0.704026
++DIV_20 http://www.openstreetmap.org/?lat=47.370120&lon=-0.704026
 +X669517 http://www.openstreetmap.org/?lat=47.407659&lon=-0.828481
 +X448456 http://www.openstreetmap.org/?lat=47.410389&lon=-0.908260
 +SKIP_IngLoi http://www.openstreetmap.org/?lat=47.405684&lon=-0.921006
@@ -53,5 +53,5 @@ AngStLaud http://www.openstreetmap.org/?lat=47.464493&lon=-0.555410
 +SKIP_MauLoi http://www.openstreetmap.org/?lat=47.292868&lon=-1.389298
 +SKIP_Tho http://www.openstreetmap.org/?lat=47.265179&lon=-1.441054
 +X727561 http://www.openstreetmap.org/?lat=47.225018&lon=-1.506586
-+DIV_Sab http://www.openstreetmap.org/?lat=47.220045&lon=-1.528151
++DIV_T1T2 http://www.openstreetmap.org/?lat=47.220045&lon=-1.528151
 Nan http://www.openstreetmap.org/?lat=47.217109&lon=-1.541412
