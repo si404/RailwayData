@@ -96,7 +96,7 @@ Har http://www.openstreetmap.org/?lat=54.686807&lon=-1.207724
 +X725757 http://www.openstreetmap.org/?lat=54.782635&lon=-1.317801
 +X646906 http://www.openstreetmap.org/?lat=54.802342&lon=-1.313639
 +X788433 http://www.openstreetmap.org/?lat=54.826873&lon=-1.329775
-+SKIP_Sea http://www.openstreetmap.org/?lat=54.839090&lon=-1.346405
+Sea http://www.openstreetmap.org/?lat=54.839090&lon=-1.346405
 +X367666 http://www.openstreetmap.org/?lat=54.852032&lon=-1.355696
 +X315020 http://www.openstreetmap.org/?lat=54.883396&lon=-1.360674
 +DIV_Yel http://www.openstreetmap.org/?lat=54.903844&lon=-1.381788

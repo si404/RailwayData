@@ -7,7 +7,7 @@ FliLn || Flitch Line|| London Liverpool Street – Stratford – Shenfield – I
 
 SunCoaLnCla || Sunshine Coast Line (Clacton) || London Liverpool Street – Stratford – Shenfield – Ingatestone – Chelmsford – Witham – Colchester – Wivenhoe – Thorpe-le-Soken – Clacton-on-Sea || 1tph
 
-SunCoaLnCol || Sunshine Coast Line (Colchester) || London Liverpool Street – Stratford – Romford – Shenfield – Chelmsford – Witham – Kelvedon – Marks Tey – Colchester – Colchester Town || 1tph
+SunCoaLnCol || Sunshine Coast Line (Colchester) || London Liverpool Street – Stratford – Shenfield – Chelmsford – Witham – Kelvedon – Marks Tey – Colchester – Colchester Town || 1tph
 
 SunCoaLnWal || Sunshine Coast Line (Walton) || Colchester – Colchester Town – Hythe – Wivenhoe – Alresford – Great Bentley – Weeley – Thorpe-le-Soken – Kirby Cross – Frinton-on-Sea – Walton-on-the-Naze || 1tph with 1tph Colchester - Colchester Town shuttle
 
@@ -15,7 +15,7 @@ MayLn || Mayflower Line || Manningtree – Mistley – Wrabness – Harwich Inte
 
 GaiLn || Gainsborough Line || Marks Tey – Chappel & Wakes Colne – Bures – Sudbury || 1tph
 
-SouLn || Southend Line || London Liverpool Street – Stratford – Romford – Shenfield – Billericay – Wickford – Rayleigh – Hockley – Rochford – Southend Airport – Prittlewell – Southend Victoria || 3tph
+SouLn || Southend Line || London Liverpool Street – Stratford – Romford (2tph) – Shenfield – Billericay – Wickford – Rayleigh – Hockley – Rochford – Southend Airport – Prittlewell – Southend Victoria || 3tph
 
 CroVlyLn || Crouch Valley Line || Wickford – Battlesbridge – South Woodham Ferrers – North Fambridge – Althorne – Burnham-on-Crouch – Southminster || every 40 minutes
 
