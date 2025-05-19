@@ -9,11 +9,9 @@ Cen http://www.openstreetmap.org/?lat=-33.882922&lon=151.207216
 Red http://www.openstreetmap.org/?lat=-33.892313&lon=151.198128
 +X343163 http://www.openstreetmap.org/?lat=-33.896984&lon=151.196895
 +DIV_T8N http://www.openstreetmap.org/?lat=-33.899507&lon=151.185806
-Ers http://www.openstreetmap.org/?lat=-33.900992&lon=151.185265
-StPet http://www.openstreetmap.org/?lat=-33.907314&lon=151.180651
-+DIV_M1W http://www.openstreetmap.org/?lat=-33.911495&lon=151.170888
++SKIP_Ers http://www.openstreetmap.org/?lat=-33.900992&lon=151.185265
++SKIP_StPet http://www.openstreetmap.org/?lat=-33.907314&lon=151.180651
 Syd http://www.openstreetmap.org/?lat=-33.914735&lon=151.166081
-+DIV_M1E http://www.openstreetmap.org/?lat=-33.915773&lon=151.164440
 +X695269 http://www.openstreetmap.org/?lat=-33.921079&lon=151.157541
 Tem http://www.openstreetmap.org/?lat=-33.924515&lon=151.156490
 +DIV_T8S http://www.openstreetmap.org/?lat=-33.926870&lon=151.154934
