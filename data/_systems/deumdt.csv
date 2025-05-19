@@ -1,6 +1,7 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
 deumdt;DEU-ST;1;;Mag;Magdeburg;deust.01mag;
 deumdt;DEU-ST;2;;Mag;Magdeburg;deust.02mag;
+deumdt;DEU-ST;3;;Mag;Magdeburg;deust.03mag;
 deumdt;DEU-ST;4;;Mag;Magdeburg;deust.04mag;
 deumdt;DEU-ST;5;;Mag;Magdeburg;deust.05mag;
 deumdt;DEU-ST;6;;Mag;Magdeburg;deust.06mag;
