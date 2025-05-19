@@ -3,7 +3,6 @@ NORTH ROUTE
 1tph	Manchester Airport - Manchester Piccadilly - Manchester Oxford Road - Manchester Victoria - Huddersfield - Dewsbury - Leeds - York - Thirsk - Northallerton - Yarm - Eaglescliffe - Thornaby - Middlesbrough - Redcar Central
 
 1tph	Manchester Victoria - Huddersfield - Dewsbury - Leeds - York - Malton - Seamer - Scarborough
-1tp2h	Huddersfield - Deighton - Mirfield - Ravensthorpe - Dewsbury - Batley - Morley - Cottingley - Leeds
 
 1tph	Liverpool Lime Street - Lea Green - Manchester Victoria - Stalybridge - Huddersfield - Leeds - Selby - Brough - Hull
 
