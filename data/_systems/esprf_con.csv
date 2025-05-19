@@ -8,15 +8,6 @@ esprf;R3;f;;espcb.r3f,esppv.r3f
 esprf;R3a;f;;espcb.r3af
 esprf;R3b;f;;esppv.r3bf
 esprf;R4;f;;espcl.r4f,espcb.r4f,espcl.r4fped,esppv.r4f
-esprf;C4;f;Asturias;espas.c4f
-esprf;C5;f;Asturias;espas.c5f
-esprf;C6;f;Asturias;espas.c6f
-esprf;C7;f;Asturias;espas.c7f
-esprf;C8;f;Asturias;espas.c8f
-esprf;C9;f;Asturias;espas.c9f
 esprf;C4;f;Cartagena;espmc.c4f
-esprf;C4;f;Bilbao;esppv.c4f
 esprf;C1;f;Ferrol;espga.c1f
 esprf;C1;f;Leon;espcl.c1f
-esprf;C2;f;Santander;espcb.c2f
-esprf;C3;f;Santander;espcb.c3f
