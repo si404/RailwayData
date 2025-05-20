@@ -15,12 +15,19 @@ Red http://www.openstreetmap.org/?lat=-33.892313&lon=151.198128
 +X521763 http://www.openstreetmap.org/?lat=-33.893798&lon=151.155294
 +X426672 http://www.openstreetmap.org/?lat=-33.893269&lon=151.147633
 +X926338 http://www.openstreetmap.org/?lat=-33.890352&lon=151.139206
++X457688 http://www.openstreetmap.org/?lat=-33.889509&lon=151.131926
 +SKIP_Ash http://www.openstreetmap.org/?lat=-33.887669&lon=151.125827
++X182141 http://www.openstreetmap.org/?lat=-33.887028&lon=151.124293
 +X411035 http://www.openstreetmap.org/?lat=-33.885343&lon=151.119505
++X909820 http://www.openstreetmap.org/?lat=-33.883738&lon=151.116501
 +SKIP_Cro http://www.openstreetmap.org/?lat=-33.883251&lon=151.115592
++X547031 http://www.openstreetmap.org/?lat=-33.882466&lon=151.114478
 +X120915 http://www.openstreetmap.org/?lat=-33.879014&lon=151.109782
++X580469 http://www.openstreetmap.org/?lat=-33.877857&lon=151.107014
 +SKIP_Bur http://www.openstreetmap.org/?lat=-33.877105&lon=151.104069
++X627864 http://www.openstreetmap.org/?lat=-33.876537&lon=151.100813
 +X879573 http://www.openstreetmap.org/?lat=-33.874743&lon=151.097782
++X462450 http://www.openstreetmap.org/?lat=-33.872734&lon=151.095749
 Str http://www.openstreetmap.org/?lat=-33.871747&lon=151.094252
 +DIV_T9 http://www.openstreetmap.org/?lat=-33.870073&lon=151.092213
 +SKIP_Hom http://www.openstreetmap.org/?lat=-33.866861&lon=151.086452
@@ -28,6 +35,7 @@ Str http://www.openstreetmap.org/?lat=-33.871747&lon=151.094252
 +SKIP_Fle http://www.openstreetmap.org/?lat=-33.864848&lon=151.069951
 +X711947 http://www.openstreetmap.org/?lat=-33.864030&lon=151.065686
 Lid http://www.openstreetmap.org/?lat=-33.863837&lon=151.045232
++X409514 http://www.openstreetmap.org/?lat=-33.862984&lon=151.043585
 +SKIP_Aub http://www.openstreetmap.org/?lat=-33.849310&lon=151.032851
 +X352607 http://www.openstreetmap.org/?lat=-33.841294&lon=151.024568
 +SKIP_Cly http://www.openstreetmap.org/?lat=-33.835996&lon=151.016994
