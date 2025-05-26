@@ -8,11 +8,13 @@ Cen http://www.openstreetmap.org/?lat=-33.882922&lon=151.207216
 +X409292 http://www.openstreetmap.org/?lat=-33.893714&lon=151.155272
 +X704227 http://www.openstreetmap.org/?lat=-33.893206&lon=151.147687
 +X257911 http://www.openstreetmap.org/?lat=-33.890187&lon=151.138937
++X439568 http://www.openstreetmap.org/?lat=-33.889440&lon=151.132084
 +X923455 http://www.openstreetmap.org/?lat=-33.887315&lon=151.125500
 +X332713 http://www.openstreetmap.org/?lat=-33.885266&lon=151.119572
 +X791618 http://www.openstreetmap.org/?lat=-33.883107&lon=151.115710
 +X691688 http://www.openstreetmap.org/?lat=-33.878942&lon=151.109841
-+SKIP_Bur http://www.openstreetmap.org/?lat=-33.877105&lon=151.104069
++X214319 http://www.openstreetmap.org/?lat=-33.877780&lon=151.107025
++SKIP_Bur http://www.openstreetmap.org/?lat=-33.877159&lon=151.104042
 +X978954 http://www.openstreetmap.org/?lat=-33.874637&lon=151.097811
 Str http://www.openstreetmap.org/?lat=-33.871747&lon=151.094252
 +DIV_BMT http://www.openstreetmap.org/?lat=-33.869890&lon=151.092310
