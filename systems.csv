@@ -341,10 +341,11 @@ gbngx;GBR;(National Rail) Gatwick Express;TMpurple;1;preview
 gbnsx;GBR;(National Rail) Stansted Express;TMpurple;1;preview
 gbnvt;GBR;(National Rail) Avanti West Coast;TMpurple;1;preview
 gbncs;GBR;(National Rail) Caledonian Sleeper;TMpurple;1;preview
-gbngc;GBR;(National Rail) Great Central;TMpurple;1;preview
-gbnht;GBR;(National Rail) Hull Trains;TMpurple;1;preview
-gbnhx;GBR;(National Rail) Heathrow Express;TMpurple;1;preview
-gbnld;GBR;(National Rail) Lumo;TMpurple;1;preview
+gbngc;GBR;(National Rail (OA)) Great Central;TMpurple;1;preview
+gbnht;GBR;(National Rail (OA)) Hull Trains;TMpurple;1;preview
+gbnhx;GBR;(National Rail (OA)) Heathrow Express;TMpurple;1;preview
+gbnld;GBR;(National Rail (OA)) Lumo;TMpurple;1;preview
+gbnsw;GBR;(Great British Railways) South Western Railway;TMgreen;2;preview
 gbncc;GBR;(National Rail) c2c;TMgreen;2;preview
 gbnch;GBR;(National Rail) Chiltern Railways;TMgreen;2;preview
 gbnem;GBR;(National Rail) East Midlands Railway;TMgreen;2;preview
@@ -355,7 +356,6 @@ gbnln;GBR;(National Rail) London Northwestern Railway;TMgreen;2;preview
 gbnnr;GBR;(National Rail) Northern;TMgreen;2;preview
 gbnse;GBR;(National Rail) Southeastern;TMgreen;2;preview
 gbnsn;GBR;(National Rail) Southern;TMgreen;2;preview
-gbnsw;GBR;(National Rail) South Western Railway;TMgreen;2;preview
 gbntl;GBR;(National Rail) Thameslink;TMdarkgreen;2;preview
 gbntp;GBR;(National Rail) TransPennine Express;TMgreen;2;preview
 gbnwm;GBR;(National Rail) West Midlands Railway;TMgreen;2;preview
