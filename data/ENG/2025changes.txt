@@ -1,8 +1,9 @@
 Great British Railways timeline
 	contracts up (wikipedia)
-		SW	25 May 2025
+		SW	25 May 2025 <- moved
+		IL	25 May 2025 <- moved (but is part of SW anyway)
 		CC	20 Jul 2025
-		LE	?? Sep 2025
+		LE	12 Oct 2025
 		LN	20 Sep 2026
 		WM	20 Sep 2026
 		VT	18 Oct 2026
@@ -14,7 +15,14 @@ Great British Railways timeline
 		GN	01 Apr 2028
 		GW	25 Jun 2028
 		EM	16 Oct 2030
-	DfT Operated already	GR, SE, NT (contract ends  01 Mar 25), TP
+		GR	already Dft
+		SE	already Dft
+		NT	already Dft
+		TP	already Dft
+
+	GC, HT, HX, LD - open access
+
+	AW, ME, SR, LO, XR - regionally run
 
 South Wales Metro starts when?
 

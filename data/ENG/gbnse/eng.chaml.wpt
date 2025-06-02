@@ -14,7 +14,6 @@ LonVic http://www.openstreetmap.org/?lat=51.494671&lon=-0.144582
 +SKIP_SydHill http://www.openstreetmap.org/?lat=51.432588&lon=-0.080144
 +SKIP_PenEast http://www.openstreetmap.org/?lat=51.419316&lon=-0.054095
 +SKIP_KentHou http://www.openstreetmap.org/?lat=51.412036&lon=-0.044653
-+DIV_Pec http://www.openstreetmap.org/?lat=51.411259&lon=-0.036156
 +SKIP_BecJct http://www.openstreetmap.org/?lat=51.411018&lon=-0.025620
 +DIV_ThaC http://www.openstreetmap.org/?lat=51.408168&lon=-0.002317
 +SKIP_Sho http://www.openstreetmap.org/?lat=51.405879&lon=0.002146
