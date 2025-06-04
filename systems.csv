@@ -376,6 +376,7 @@ gbnman;GBR;Manchester Metrolink;TMred;4;preview
 gbnnet;GBR;Nottingham Express Transit;TMred;4;preview
 gbnss;GBR;Sheffield Supertram;TMred;4;preview
 gbnwmm;GBR;West Midlands Metro;TMred;4;preview
+gbncvlr;GBR;Coventry Very Light Rail;TMyellow;5;preview
 wlstbac;GBR;Great Little Trains of Wales;TMbrown;5;preview
 grcpa;GRC;Proastiakos Athenas;TMgreen;2;preview
 grcpp;GRC;Proastiakos Patras;TMgreen;2;preview
