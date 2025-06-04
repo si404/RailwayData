@@ -18,10 +18,10 @@ Bar http://www.openstreetmap.org/?lat=51.540263&lon=0.079436
 +X573569 http://www.openstreetmap.org/?lat=51.543883&lon=0.164988
 Upm http://www.openstreetmap.org/?lat=51.559004&lon=0.251645
 +DIV_Ock http://www.openstreetmap.org/?lat=51.558977&lon=0.257943
-+SKIP_WestHor http://www.openstreetmap.org/?lat=51.567867&lon=0.340662
+WestHor http://www.openstreetmap.org/?lat=51.567867&lon=0.340662
 Lai http://www.openstreetmap.org/?lat=51.567607&lon=0.423746
 Bas http://www.openstreetmap.org/?lat=51.568147&lon=0.456834
-+SKIP_Pit http://www.openstreetmap.org/?lat=51.560204&lon=0.508826
+Pit http://www.openstreetmap.org/?lat=51.560204&lon=0.508826
 Ben http://www.openstreetmap.org/?lat=51.544280&lon=0.561676
 LeiSea http://www.openstreetmap.org/?lat=51.541184&lon=0.639439
 Cha http://www.openstreetmap.org/?lat=51.538595&lon=0.670466
