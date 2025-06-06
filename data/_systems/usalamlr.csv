@@ -2,5 +2,4 @@ systemName;region;route;banner;abbrev;city;root;altRouteNames
 usalamlr;CA;A;;;A (Blue) Line;ca.a;
 usalamlr;CA;C;;;C (Green) Line;ca.c;
 usalamlr;CA;E;;;E (Expo) Line;ca.e;
-usalamlr;CA;K;;;K (Crenshaw/LAX) Line;ca.k;
-usalamlr;CA;K;;ElS;K Line (El Segundo);ca.kels;
+usalamlr;CA;K;;;K (Crenshaw/LAX) Line;ca.k;KElS
