@@ -1,11 +1,7 @@
 RomaTer http://www.openstreetmap.org/?lat=41.900576&lon=12.502420
-+X186569 http://www.openstreetmap.org/?lat=41.892638&lon=12.515552
-DIV_FC1W http://www.openstreetmap.org/?lat=41.890550&lon=12.519243
-+SKIP_PonCai http://www.openstreetmap.org/?lat=41.889128&lon=12.521989
++DIV_FR http://www.openstreetmap.org/?lat=41.892638&lon=12.515552
 +DIV_FL5 http://www.openstreetmap.org/?lat=41.888153&lon=12.523899
-+SKIP_SantEle http://www.openstreetmap.org/?lat=41.886660&lon=12.526774
-+DIV_FC1E http://www.openstreetmap.org/?lat=41.884575&lon=12.530036
-+X294878 http://www.openstreetmap.org/?lat=41.880529&lon=12.535036
++DIV_Vat http://www.openstreetmap.org/?lat=41.880529&lon=12.535036
 +DIV_FL78 http://www.openstreetmap.org/?lat=41.864080&lon=12.544198
 +X748233 http://www.openstreetmap.org/?lat=41.860404&lon=12.545700
 Cap http://www.openstreetmap.org/?lat=41.830705&lon=12.568831

@@ -35,7 +35,5 @@ Civ http://www.openstreetmap.org/?lat=42.088271&lon=11.798587
 +SKIP_RomaTus http://www.openstreetmap.org/?lat=41.879163&lon=12.523685
 +DIV_FL123 http://www.openstreetmap.org/?lat=41.881392&lon=12.526217
 +DIV_FL4678 http://www.openstreetmap.org/?lat=41.888153&lon=12.523899
-+SKIP_PonCai http://www.openstreetmap.org/?lat=41.889128&lon=12.521989
-+DIV_FC1 http://www.openstreetmap.org/?lat=41.890550&lon=12.519243
-+X186569 http://www.openstreetmap.org/?lat=41.892638&lon=12.515552
++DIV_FR http://www.openstreetmap.org/?lat=41.892638&lon=12.515552
 RomaTer http://www.openstreetmap.org/?lat=41.900576&lon=12.502420

@@ -2,22 +2,22 @@ systemName;region;route;banner;abbrev;city;root;altRouteNames
 gbngw;ENG;GWML;;;Great Western Main Line;eng.gwml;
 gbngw;ENG;SWalML;;;South Wales Main Line;eng.swalml;
 gbngw;WLS;SWalML;;;South Wales Main Line;wls.swalml;
-gbngw;ENG;DevML;;;Devon Main Line;eng.devml;
+gbngw;ENG;CorML;;;Cornish Main Line;eng.corml;DevML
 gbngw;ENG;CotLn;;;Cotswolds Line;eng.cotln;
 gbngw;ENG;OxfLn;;;Oxford Line;eng.oxfln;
 gbngw;ENG;BerHanLn;;;Berks & Hants Line;eng.berhanln;
 gbngw;ENG;GolVlyLn;;;Golden Valley Line;eng.golvlyln;
-gbngw;WLS;CorML;;;Cornish Main Line;wls.corml;
-gbngw;ENG;CorML;;;Cornish Main Line;eng.corml;
 gbngw;WLS;WesML;;;Wessex Main Line;wls.wesml;
 gbngw;ENG;WesML;;;Wessex Main Line;eng.wesml;
+gbngw;WLS;CarExeLn;;;Cardiff - Exeter Line;wls.carexeln;
+gbngw;ENG;CarExeLn;;;Cardiff - Exeter Line;eng.carexeln;
 gbngw;ENG;ThaVlyLn;;;Thames Valley Line;eng.thavlyln;
 gbngw;ENG;GreBra;;;Greenford Branch;eng.grebra;
 gbngw;ENG;WinBra;;;Windsor Branch;eng.winbra;
 gbngw;ENG;MarBra;;;Marlow Branch;eng.marbra;
 gbngw;ENG;RegLn;;;Regatta Line;eng.regln;
 gbngw;ENG;NorDowLn;;;North Downs Line;eng.nordowln;
-gbngw;ENG;BruLn;;;Brunel Line;eng.bruln;
+gbngw;ENG;ReaBasLn;;;Reading - Basingstoke Line;eng.reabasln;BruLn
 gbngw;ENG;OxfCanLn;;;Oxford Canal Line;eng.oxfcanln;
 gbngw;ENG;OxfBriLn;;;Oxford-Bristol Line;eng.oxfbriln;
 gbngw;ENG;TraWilLn;;;Trans-Wilts Line;eng.trawilln;

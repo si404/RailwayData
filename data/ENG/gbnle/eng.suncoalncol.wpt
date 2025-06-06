@@ -11,7 +11,7 @@ Str http://www.openstreetmap.org/?lat=51.541671&lon=-0.003927
 +SKIP_SevKin http://www.openstreetmap.org/?lat=51.563913&lon=0.096838
 +SKIP_Goo http://www.openstreetmap.org/?lat=51.565807&lon=0.112224
 +SKIP_ChaHea http://www.openstreetmap.org/?lat=51.567901&lon=0.128081
-Rom http://www.openstreetmap.org/?lat=51.574923&lon=0.183249
++SKIP_Rom http://www.openstreetmap.org/?lat=51.574923&lon=0.183249
 +SKIP_GidPark http://www.openstreetmap.org/?lat=51.581750&lon=0.205522
 +SKIP_HarWoo http://www.openstreetmap.org/?lat=51.592656&lon=0.232816
 +SKIP_Bre http://www.openstreetmap.org/?lat=51.613660&lon=0.299592
@@ -21,7 +21,7 @@ She http://www.openstreetmap.org/?lat=51.630565&lon=0.330019
 +SKIP_Ing http://www.openstreetmap.org/?lat=51.667099&lon=0.384264
 +X116256 http://www.openstreetmap.org/?lat=51.694719&lon=0.433788
 Che http://www.openstreetmap.org/?lat=51.736500&lon=0.468625
-+BeaPark http://www.openstreetmap.org/?lat=51.757219&lon=0.518793
+BeaPark http://www.openstreetmap.org/?lat=51.757219&lon=0.518793
 +SKIP_HatPev http://www.openstreetmap.org/?lat=51.779902&lon=0.591867
 Wit http://www.openstreetmap.org/?lat=51.805925&lon=0.639417
 Kel http://www.openstreetmap.org/?lat=51.841001&lon=0.702696

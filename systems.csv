@@ -58,6 +58,7 @@ belat;BEL;Antwerpse tram;TMred;4;preview
 belbt;BEL;Tramwway de Bruxelles / Brusselse tram;TMred;4;preview
 belgt;BEL;Gentse tram;TMred;4;preview
 belkt;BEL;Kusttram;TMred;4;preview
+bellt;BEL;Tramway de Liège;TMred;4;preview
 bgrsm;BGR;Sofiyski Metropoliten;TMblue;3;preview
 bgrst;BGR;Sofiyski Trams;TMred;4;preview
 bihst;BIH;Sarajevski Tramvaji;TMred;4;preview
@@ -340,10 +341,11 @@ gbngx;GBR;(National Rail) Gatwick Express;TMpurple;1;preview
 gbnsx;GBR;(National Rail) Stansted Express;TMpurple;1;preview
 gbnvt;GBR;(National Rail) Avanti West Coast;TMpurple;1;preview
 gbncs;GBR;(National Rail) Caledonian Sleeper;TMpurple;1;preview
-gbngc;GBR;(National Rail) Great Central;TMpurple;1;preview
-gbnht;GBR;(National Rail) Hull Trains;TMpurple;1;preview
-gbnhx;GBR;(National Rail) Heathrow Express;TMpurple;1;preview
-gbnld;GBR;(National Rail) Lumo;TMpurple;1;preview
+gbngc;GBR;(National Rail (OA)) Great Central;TMpurple;1;preview
+gbnht;GBR;(National Rail (OA)) Hull Trains;TMpurple;1;preview
+gbnhx;GBR;(National Rail (OA)) Heathrow Express;TMpurple;1;preview
+gbnld;GBR;(National Rail (OA)) Lumo;TMpurple;1;preview
+gbnsw;GBR;(Great British Railways) South Western Railway;TMgreen;2;preview
 gbncc;GBR;(National Rail) c2c;TMgreen;2;preview
 gbnch;GBR;(National Rail) Chiltern Railways;TMgreen;2;preview
 gbnem;GBR;(National Rail) East Midlands Railway;TMgreen;2;preview
@@ -354,7 +356,6 @@ gbnln;GBR;(National Rail) London Northwestern Railway;TMgreen;2;preview
 gbnnr;GBR;(National Rail) Northern;TMgreen;2;preview
 gbnse;GBR;(National Rail) Southeastern;TMgreen;2;preview
 gbnsn;GBR;(National Rail) Southern;TMgreen;2;preview
-gbnsw;GBR;(National Rail) South Western Railway;TMgreen;2;preview
 gbntl;GBR;(National Rail) Thameslink;TMdarkgreen;2;preview
 gbntp;GBR;(National Rail) TransPennine Express;TMgreen;2;preview
 gbnwm;GBR;(National Rail) West Midlands Railway;TMgreen;2;preview
@@ -375,6 +376,7 @@ gbnman;GBR;Manchester Metrolink;TMred;4;preview
 gbnnet;GBR;Nottingham Express Transit;TMred;4;preview
 gbnss;GBR;Sheffield Supertram;TMred;4;preview
 gbnwmm;GBR;West Midlands Metro;TMred;4;preview
+gbncvlr;GBR;Coventry Very Light Rail;TMyellow;5;preview
 wlstbac;GBR;Great Little Trains of Wales;TMbrown;5;preview
 grcpa;GRC;Proastiakos Athenas;TMgreen;2;preview
 grcpp;GRC;Proastiakos Patras;TMgreen;2;preview
@@ -405,6 +407,8 @@ isrjlr;ISR;Jerusalem Light Rail;TMred;4;preview
 isrtalr;ISR;Tel Aviv Light Rail;TMred;4;preview
 itafa;ITA;Trenitalia Frecciargento;TMpurple;1;preview
 itafb;ITA;Trenitalia Frecciabianca;TMpurple;1;preview
+italx;ITA;Leonardo Express;TMpurple;1;preview
+itamx;ITA;Malpensa Express;TMpurple;1;preview
 itafl;ITA;Ferrovie Laziali;TMgreen;2;preview
 itanf;ITA;Ferrovie flegree di Napoli;TMgreen;2;preview
 itanr;ITA;Ferrovie regionali di Napoli;TMgreen;2;preview
