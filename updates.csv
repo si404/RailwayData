@@ -6,6 +6,11 @@ date;region;route;root;description
 2025-01-19;(Canada) Ontario;O-Train Line 2;on.ot2;New line (opened 2025-01-06)
 2025-01-19;(Canada) Ontario;O-Train Line 1;on.ot1;Renamed from ConLn (Confederation Line)
 2024-12-05;United States;Amtrak Floridian;;Replaced Capitol Limited and majority of Silver Star
+2025-06-07;(United States) Aruzona;B Line;az.b;New Route, replaces northern half of old VMR route with extensions.
+2025-06-07;(United States) Arizona;A Line;az.a;Route truncated to Downtown Phoenix Hub in conjunction with opening of new B Line
+2025-06-07;(United States) Arizona;VMR;az.a;Renamed as A Line.
+2025-06-06;(United States) California;K Line (El Segundo);;Route deleted, merged into main segment
+2025-06-06;(United States) California;K (Crenshaw/LAX) Line;ca.k;Route extended to include El Segundo K Line segment via new construction near LAX
 2024-11-04;(United States) California;C (Green) Line;ca.c;Rerouted west of Aviation/LAX to new Aviation/Century station, no longer serves Mariposa through Redondo Beach
 2024-11-04;(United States) California;K Line (El Segundo);ca.kels;Route added, replaces section of rerouted C (Green) Line from west of Aviation/LAX to Redondo Beach
 2024-09-30;(Australia) New South Wales;T3 Bankstown Line (Liverpool branch);ausnsw.t3;Route removed from Bankstown Line and relocated onto Inner West Line between Sefton and Redfern. Route renamed 'Liverpool & Inner West Line'.
