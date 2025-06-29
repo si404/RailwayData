@@ -4,5 +4,5 @@ usawmat;GreLn;;Green Line;md.grelnsui,dc.greln,md.greln
 usawmat;OraLn;;Orange Line;va.oraln,dc.oraln,md.oraln
 usawmat;RedLn;;Red Line;md.redln,dc.redln,md.redlngle
 usawmat;SilLn;;Silver Line (Largo);va.silln,dc.silln,md.silln
-usawmat;SilLnNewCar;;Silver Line (New Carrolton);va.silln,dc.sillnnewcar,md.sillnnewcar
+usawmat;SilLnNew;;Silver Line (New Carrolton);va.sillnnew,dc.sillnnew,md.sillnnew
 usawmat;YelLn;;Yellow Line;va.yelln,dc.yelln
