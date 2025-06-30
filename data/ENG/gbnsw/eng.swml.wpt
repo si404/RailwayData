@@ -32,7 +32,7 @@ Bas http://www.openstreetmap.org/?lat=51.268427&lon=-1.088505
 +DIV_WoE http://www.openstreetmap.org/?lat=51.253018&lon=-1.156032
 +X576807 http://www.openstreetmap.org/?lat=51.230081&lon=-1.223001
 +X237865 http://www.openstreetmap.org/?lat=51.204275&lon=-1.254930
-Mic http://www.openstreetmap.org/?lat=51.182168&lon=-1.260338
++SKIP_Mic http://www.openstreetmap.org/?lat=51.182168&lon=-1.260338
 +X962652 http://www.openstreetmap.org/?lat=51.101555&lon=-1.309433
 Win http://www.openstreetmap.org/?lat=51.067264&lon=-1.319904
 Sha http://www.openstreetmap.org/?lat=51.022205&lon=-1.327457

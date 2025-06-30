@@ -39,11 +39,12 @@ Bas http://www.openstreetmap.org/?lat=51.268427&lon=-1.088505
 +SKIP_Mor http://www.openstreetmap.org/?lat=51.372035&lon=-1.035676
 +X604711 http://www.openstreetmap.org/?lat=51.386232&lon=-1.013746
 +SKIP_ReaGrePark http://www.openstreetmap.org/?lat=51.426564&lon=-1.001344
-+DIV_DML http://www.openstreetmap.org/?lat=51.441236&lon=-0.997782
++DIV_CML http://www.openstreetmap.org/?lat=51.441236&lon=-0.997782
 +SKIP_ReaWest http://www.openstreetmap.org/?lat=51.454609&lon=-0.990744
-+DIV_GWMLE http://www.openstreetmap.org/?lat=51.460164&lon=-0.981967
++DIV_RBL http://www.openstreetmap.org/?lat=51.456688&lon=-0.989242
++DIV_GWMLE http://www.openstreetmap.org/?lat=51.460311&lon=-0.982482
 Rea http://www.openstreetmap.org/?lat=51.459221&lon=-0.972118
-+DIV_Bru http://www.openstreetmap.org/?lat=51.460164&lon=-0.981967
++DIV_CML http://www.openstreetmap.org/?lat=51.460311&lon=-0.982482
 +SKIP_Til http://www.openstreetmap.org/?lat=51.471627&lon=-1.029625
 +X608583 http://www.openstreetmap.org/?lat=51.482652&lon=-1.054859
 +SKIP_Pan http://www.openstreetmap.org/?lat=51.485205&lon=-1.090307

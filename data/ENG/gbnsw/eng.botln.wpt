@@ -23,7 +23,7 @@ Wok http://www.openstreetmap.org/?lat=51.318456&lon=-0.557256
 +SKIP_Bro http://www.openstreetmap.org/?lat=51.303571&lon=-0.636005
 +DIV_Alt http://www.openstreetmap.org/?lat=51.299892&lon=-0.675187
 Farn http://www.openstreetmap.org/?lat=51.296819&lon=-0.755525
-+SKIP_Fle http://www.openstreetmap.org/?lat=51.290634&lon=-0.831292
+Fle http://www.openstreetmap.org/?lat=51.290634&lon=-0.831292
 +SKIP_Win http://www.openstreetmap.org/?lat=51.284756&lon=-0.907037
 +SKIP_Hook http://www.openstreetmap.org/?lat=51.279837&lon=-0.961561
 +DIV_Bru http://www.openstreetmap.org/?lat=51.268900&lon=-1.084911
