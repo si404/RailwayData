@@ -1,5 +1,4 @@
-StrInt http://www.openstreetmap.org/?lat=51.544820&lon=-0.008733
-+X288916 http://www.openstreetmap.org/?lat=51.545581&lon=-0.010815
+StrInt http://www.openstreetmap.org/?lat=51.545708&lon=-0.009366
 +X580261 http://www.openstreetmap.org/?lat=51.542919&lon=-0.013196
 Str http://www.openstreetmap.org/?lat=51.541671&lon=-0.003927
 StrHighSt http://www.openstreetmap.org/?lat=51.537647&lon=-0.000129
@@ -7,7 +6,7 @@ AbbRd http://www.openstreetmap.org/?lat=51.532547&lon=0.003605
 WestHam http://www.openstreetmap.org/?lat=51.528223&lon=0.004549
 StarLane http://www.openstreetmap.org/?lat=51.520514&lon=0.004324
 CanTown http://www.openstreetmap.org/?lat=51.513857&lon=0.008411
-+DIV_StI http://www.openstreetmap.org/?lat=51.510646&lon=0.010707
++DIV_Bec http://www.openstreetmap.org/?lat=51.510646&lon=0.010707
 +DIV_Woo http://www.openstreetmap.org/?lat=51.509828&lon=0.010573
 +X878989 http://www.openstreetmap.org/?lat=51.507313&lon=0.012156
 WestSil http://www.openstreetmap.org/?lat=51.502879&lon=0.022273

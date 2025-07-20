@@ -345,8 +345,9 @@ gbngc;GBR;(National Rail (OA)) Great Central;TMpurple;1;preview
 gbnht;GBR;(National Rail (OA)) Hull Trains;TMpurple;1;preview
 gbnhx;GBR;(National Rail (OA)) Heathrow Express;TMpurple;1;preview
 gbnld;GBR;(National Rail (OA)) Lumo;TMpurple;1;preview
+gbnse;GBR;(Great British Railways) Southeastern;TMgreen;2;preview
 gbnsw;GBR;(Great British Railways) South Western Railway;TMgreen;2;preview
-gbncc;GBR;(National Rail) c2c;TMgreen;2;preview
+gbncc;GBR;(Great British Railways) c2c;TMgreen;2;preview
 gbnch;GBR;(National Rail) Chiltern Railways;TMgreen;2;preview
 gbnem;GBR;(National Rail) East Midlands Railway;TMgreen;2;preview
 gbngn;GBR;(National Rail) Great Northern;TMgreen;2;preview
@@ -354,7 +355,6 @@ gbngw;GBR;(National Rail) Great Western Railway;TMgreen;2;preview
 gbnle;GBR;(National Rail) Greater Anglia;TMgreen;2;preview
 gbnln;GBR;(National Rail) London Northwestern Railway;TMgreen;2;preview
 gbnnr;GBR;(National Rail) Northern;TMgreen;2;preview
-gbnse;GBR;(National Rail) Southeastern;TMgreen;2;preview
 gbnsn;GBR;(National Rail) Southern;TMgreen;2;preview
 gbntl;GBR;(National Rail) Thameslink;TMdarkgreen;2;preview
 gbntp;GBR;(National Rail) TransPennine Express;TMgreen;2;preview
