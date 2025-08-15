@@ -1,5 +1,5 @@
 systemName;route;banner;groupName;roots
-deurn;RE1;;;Hannover;deuni.re01,deuhb.re01,deuni.re01emd
+deurn;RE1;;;deuni.re01,deuhb.re01,deuni.re01emd
 deurn;RE2;;;deuni.re02
 deurn;RE3;;;deuhh.re03,deuni.re03
 deurn;RE4;;;deuhh.re04,deuni.re04,deuhb.re04
@@ -7,9 +7,9 @@ deurn;RE5;;;deuhh.re05,deuni.re05
 deurn;RE6;;;deuhh.re06,deush.re06
 deurn;RE7;;Flensburg portion;deuhh.re07,deush.re07
 deurn;RE7;;Kiel portion;deuhh.re07kie,deush.re07kie
-deurn;RE8;;Hamburg;deuhh.re08,deush.re08;
+deurn;RE8;;Hamburg;deuhh.re08,deush.re08
 deurn;RE8;;Bremen;deuhb.re08bre,deuni.re08ost,deuhb.re08,deuni.re08
-deurn;RE9;;;;deuhb.re09bre,deuni.re09ost,deuhb.re09,deuni.re09
+deurn;RE9;;;deuhb.re09bre,deuni.re09ost,deuhb.re09,deuni.re09
 deurn;RE10;;;deuni.re10
 deurn;RE15;;Emsland-Express;deunw.re15,deuni.re15
 deurn;RE18;;;deuni.re18,deunw.re18hal,deuni.re18osn
@@ -40,7 +40,7 @@ deurn;RB63;;;deush.rb63
 deurn;RB64;;;deush.rb64
 deurn;RB65;;;deush.rb65
 deurn;RB66;;;deush.rb66,dnk.rb66
-deurn;RE70;;Hamburg;deuhh.re70,deush.re70;
+deurn;RE70;;Hamburg;deuhh.re70,deush.re70
 deurn;RE70;;Weser-Leine-Express;deunw.re70,deuni.re70
 deurn;RB71;;Wrist portion;deuhh.rb71,deush.rb71
 deurn;RB71;;Itzehoe portion;deuhh.rb71itz,deush.rb71itz
