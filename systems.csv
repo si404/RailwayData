@@ -165,7 +165,8 @@ czetol;CZE;Tramvaje v Olomouci;TMred;4;preview
 czetos;CZE;Tramvaje v Ostravě;TMred;4;preview
 czetpl;CZE;Tramvaje v Plzni;TMred;4;preview
 czetp;CZE;Tramvaje v Praze;TMred;4;preview
-deurbn;DEU;DB Regio Nord;TMdarkgreen;2;preview
+deurn;DEU;DB Regio Nord;TMdarkgreen;2;preview
+deurnrw;DEU;DB Regio NRW;TMdarkgreen;2;preview
 deubs;DEU;S-Bahn Berlin;TMgreen;2;preview
 deubss;DEU;S-Bahn Bodensee;TMgreen;2;preview
 deufrs;DEU;Breisgau-S-Bahn;TMgreen;2;preview
