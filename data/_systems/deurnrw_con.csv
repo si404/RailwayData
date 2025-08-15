@@ -14,7 +14,7 @@ deurnrw;RE11;;Rhein-Hellweg-Express;deunw.re11
 deurnrw;RE12;;Eifel-Mosel-Express;deunw.re12
 deurnrw;RE13;;Maas-Wupper-Express;nld.re13,deunw.re13
 deurnrw;RE14;;Emscher-Münsterland-Express (Borken portion);deunw.re14
-deurnrw;RE14;;;Emscher-Münsterland-Express (Coesfeld portion);deunw.re14
+deurnrw;RE14;;Emscher-Münsterland-Express (Coesfeld portion);deunw.re14coe
 deurnrw;RE16;;Ruhr-Lenne-Express;deunw.re16
 deurnrw;RE17;;Sauerland-Express;deunw.re17
 deurnrw;RE19;;Rhein-IJssel-Express (Arnhem portion);deunw.re19,nld.re19
@@ -31,7 +31,7 @@ deurnrw;RB30;;Rhein-Ahr-Bahn;deunw.rb30,deurp.rb30
 deurnrw;RB31;;Der Niederrheiner;deunw.rb31
 deurnrw;RB32;;Rhein-Emscher-Bahn;deunw.rb32
 deurnrw;RB33;;Rhein-Niers-Bahn (Essen portion);deunw.rb33
-deurnrw;RB33;;Hei;Rhein-Niers-Bahn (Heinsberg portion);deunw.rb33hei
+deurnrw;RB33;;Rhein-Niers-Bahn (Heinsberg portion);deunw.rb33hei
 deurnrw;RE34;;Dortmund-Siegerland-Express;deunw.re34
 deurnrw;RB34;;Schwalm-Nette-Bahn;deunw.rb34
 deurnrw;RB35;;Emscher-Niederrhein-Bahn;deunw.rb35
@@ -54,9 +54,9 @@ deurnrw;RB52;;Volmetal-Bahn;deunw.rb52
 deurnrw;RB53;;Ardey-Bahn;deunw.rb53
 deurnrw;RB54;;Hönnetal-Bahn;deunw.rb54
 deurnrw;RE57;;Dortmund-Sauerland-Express (Winterberg portion);deunw.re57
-deurnrw;RE57;;Bri;Dortmund-Sauerland-Express (Brilon portion);deunw.re57bri
+deurnrw;RE57;;Dortmund-Sauerland-Express (Brilon portion);deunw.re57bri
 deurnrw;RB59;;Hellweg-Bahn;deunw.rb59
-deurnrw;RE62;;Rhe;Ems-Werre-Express (Rheine);deunw.re62rhe,deuni.re62,deunw.re62
+deurnrw;RE62;;Ems-Werre-Express (Rheine);deunw.re62rhe,deuni.re62,deunw.re62
 deurnrw;RB63;;Baumberge-Bahn;deunw.rb63
 deurnrw;RB64;;Euregio-Bahn;deunw.rb64,nld.rb64
 deurnrw;RB65;;Ems-Bahn;deunw.rb65
@@ -71,14 +71,14 @@ deurnrw;RB75;;Haller Willem;deunw.rb75,deuni.rb75
 deurnrw;RE78;;Porta-Express;deunw.re78,deuni.re78
 deurnrw;RE82;;Der Leineweber;deunw.re82
 deurnrw;RB84;;Egge-Bahn;deunw.rb84,deuni.rb84
-deurnrw;RB85;;Oberweser-Bahn;deunw.rb85,deuni.rb85lau,deunw.rb85wur,deuhe.rb85,deuni.rb85bod,deuhe.rb85lip,deuni.rb85ebo,deuhe.rb85ver,deuni.rb85;
+deurnrw;RB85;;Oberweser-Bahn;deunw.rb85,deuni.rb85lau,deunw.rb85wur,deuhe.rb85,deuni.rb85bod,deuhe.rb85lip,deuni.rb85ebo,deuhe.rb85ver,deuni.rb85
 deurnrw;RB89;;Ems-Börde-Bahn;deunw.rb89
-deurnrw;RB90;;Westerwald-Sieg-Bahn ;deuhe.rb90lim,deurp.rb90dia,deuhe.rb90,deurp.rb90,deunw.rb90aus,deurp.rb90fur,deunw.rb90opp,deurp.rb90bet,deunw.rb90;
+deurnrw;RB90;;Westerwald-Sieg-Bahn;deuhe.rb90lim,deurp.rb90dia,deuhe.rb90,deurp.rb90,deunw.rb90aus,deurp.rb90fur,deunw.rb90opp,deurp.rb90bet,deunw.rb90
 deurnrw;RB91;;Ruhr-Sieg-Bahn;deunw.rb91
-deurnrw;RB91;;Ise;Ruhr-Sieg-Bahn (Iserlohn);deunw.rb91ise
+deurnrw;RB91;;Ruhr-Sieg-Bahn (Iserlohn);deunw.rb91ise
 deurnrw;RB92;;Biggesee-Express;deunw.rb92
 deurnrw;RB93;;Rothaar-Bahn;deurp.rb93
 deurnrw;RB94;;Obere Lahntalbahn;deunw.rb94,deuhe.rb94
 deurnrw;RB95;;Sieg-Dill-Bahn;deunw.rb95,deuhe.rb95
-deurnrw;RB96;;Hellertal-Bahn;deurp.rb96,deunw.rb96,deunw.rb96hai,deunw.rb96hol,deuhe.rb96;
-deurnrw;RB97;;Daadetal-Bahn;deurp.rb97;
+deurnrw;RB96;;Hellertal-Bahn;deurp.rb96,deunw.rb96,deuhe.rb96hai,deunw.rb96hol,deuhe.rb96
+deurnrw;RB97;;Daadetal-Bahn;deurp.rb97
