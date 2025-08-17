@@ -10,7 +10,7 @@ deurnrw;RE7;;Rhein-Münsterland-Express;deunw.re07
 deurnrw;RE8;;Rhein-Erft-Express;deunw.re08,deurp.re08
 deurnrw;RE9;;Rhein-Sieg-Express;deunw.re09,deurp.re09fur,deunw.re09opp,deurp.re09,deunw.re09sie
 deurnrw;RE10;;Niers-Express;deunw.re10
-deurnrw;RE11;;Rhein-Hellweg-Express;deunw.re11
+deurnrw;RE11;;Rhein-Hellweg-Express;deunw.re11,deuhe.re11
 deurnrw;RE12;;Eifel-Mosel-Express;deunw.re12
 deurnrw;RE13;;Maas-Wupper-Express;nld.re13,deunw.re13
 deurnrw;RE14;;Emscher-Münsterland-Express (Borken portion);deunw.re14
@@ -24,7 +24,6 @@ deurnrw;RB21;;Rurtalbahn;deunw.rb21
 deurnrw;RE22;;Eifel-Express;deunw.re22
 deurnrw;RB24;;Eifel-Bahn;deunw.rb24
 deurnrw;RB25;;Oberbergische Bahn;deunw.rb25
-deurnrw;RB26;;MittelrheinBahn;deunw.rb26,deurp.rb26
 deurnrw;RB27;;Rhein-Erft-Bahn;deunw.rb27,deurp.rb27
 deurnrw;RB28;;Eifel-Bördebahn;deunw.rb28
 deurnrw;RB30;;Rhein-Ahr-Bahn;deunw.rb30,deurp.rb30

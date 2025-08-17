@@ -1,0 +1,55 @@
+RB23
++DIV_RE24 http://www.openstreetmap.org/?lat=50.394122&lon=8.107653
+Esc http://www.openstreetmap.org/?lat=50.393773&lon=8.105850
+Lim http://www.openstreetmap.org/?lat=50.384046&lon=8.062119
+
+RE25
++DIV_RE24 http://www.openstreetmap.org/?lat=50.394122&lon=8.107653
+Esc http://www.openstreetmap.org/?lat=50.393773&lon=8.105850
+Lim http://www.openstreetmap.org/?lat=50.384046&lon=8.062119
+HE/RP http://www.openstreetmap.org/?lat=50.375104&lon=8.045340
+
+RB29
+RP/HE http://www.openstreetmap.org/?lat=50.382411&lon=8.037100
++X458670 http://www.openstreetmap.org/?lat=50.392399&lon=8.049824
+Sta http://www.openstreetmap.org/?lat=50.399645&lon=8.045908
++DIV_RB29 http://www.openstreetmap.org/?lat=50.403710&lon=8.042850
+Lim http://www.openstreetmap.org/?lat=50.384046&lon=8.062119
+HE/RP http://www.openstreetmap.org/?lat=50.375104&lon=8.045340
+
+
+RE97 RB97
+KorHbf http://www.openstreetmap.org/?lat=51.278891&lon=8.872726
++DIV_RB97 http://www.openstreetmap.org/?lat=51.284380&lon=8.865302
+
++DIV_RB94 http://www.openstreetmap.org/?lat=50.872068&lon=8.772347
++X974809 http://www.openstreetmap.org/?lat=50.867200&lon=8.784814
+Col http://www.openstreetmap.org/?lat=50.848372&lon=8.787732
++X957189 http://www.openstreetmap.org/?lat=50.841137&lon=8.770952
+Mar http://www.openstreetmap.org/?lat=50.819215&lon=8.775072
+
+RE99
+NW/HE http://www.openstreetmap.org/?lat=50.818591&lon=8.175888
+Dilb http://www.openstreetmap.org/?lat=50.801629&lon=8.203804
+Rod http://www.openstreetmap.org/?lat=50.773745&lon=8.205156
++X469667 http://www.openstreetmap.org/?lat=50.757025&lon=8.203654
+Hai http://www.openstreetmap.org/?lat=50.741249&lon=8.221550
+Sec http://www.openstreetmap.org/?lat=50.748961&lon=8.253350
+Dil http://www.openstreetmap.org/?lat=50.734921&lon=8.294678
+
+RE2Kas RE9
++DIV_RE11 http://www.openstreetmap.org/?lat=51.342610&lon=9.471674
++DIV_Kir http://www.openstreetmap.org/?lat=51.320790&lon=9.455774
+KasWilHohe http://www.openstreetmap.org/?lat=51.311380&lon=9.447695
+
+
+BW
+RE70
+HE/BW http://www.openstreetmap.org/?lat=49.574476&lon=8.481960
+
+RE60 RB67 RB68
+HE/BW http://www.openstreetmap.org/?lat=49.618704&lon=8.643150
+
+BY
+RB75
+HE/BY http://www.openstreetmap.org/?lat=49.969842&lon=9.021535
