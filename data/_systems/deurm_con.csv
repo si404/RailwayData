@@ -1,0 +1,101 @@
+systemName;route;banner;groupName;roots
+deurm;RE1;;Südwest-Express;deurp.re01,deusl.re01,deurp.re01kai,deubw.re01man
+deurm;RE2;;Linke Rheinstrecke;deuhe.re02,deurp.re02
+deurm;RE3;;Nahe-Express;deuhe.re03,deurp.re03,deusl.re03
+deurm;RE4;;Bahnstrecke Mainz–Mannheim;deuhe.re04,deurp.re04,deubw.re04kar
+deurm;RB4;;;deuhe.rb04
+deurm;RE5;;;deuhe.re05
+deurm;RB5;;;deuhe.rb05
+deurm;RE6;;Pfälzische Maximiliansbahn;deurp.re06,deubw.re06kar
+deurm;RE9;;Rechte Rheinstrecke;deuhe.re09
+deurm;RE9;;Express d’Alsace;deusl.re09,frages.re09
+deurm;RB10;;RheingauLinie;deuhe.rb10,deurp.rb10
+deurm;RE11;;DeLux-Express;deurp.re11,lux.re11
+deurm;RB12;;Königsteiner Bahn;deuhe.rb12
+deurm;RE13;;Donnersbergbahn;deurp.re13
+deurm;RE14;;Bahnstrecke Mainz–Mannheim;deuhe.re14,deurp.re14,deubw.re14man
+deurm;RB15;;Taunusbahn;deuhe.rb15
+deurm;RB16;;Trier-Lorraine-Express;deuhe.rb16
+deurm;RE17;;;deurp.re17
+deurm;RE18;;Express de Lorraine;deusl.re18,frages.re18
+deurm;RE20;;Main-Lahn-Bahn;deuhe.re20
+deurm;RB21;;Ländchesbahn;deuhe.rb21
+deurm;RB22;;Main-Lahn-Bahn;deuhe.rb22
+deurm;RB22;;Eifel-Express;deurp.rb22
+deurm;RB23;;Lahn-Eifel-Bahn;deurp.rb23,deuhe.rb23
+deurm;RE24;;Lahntalbahn;deuhe.re24
+deurm;RE25;;Lahntal-Express;deurp.re25,deuhe.re25
+deurm;RB26;;MittelrheinBahn;deunw.rb26,deurp.rb26
+deurm;RB29;;Unterwesterwaldbahn;deuhe.rb29lim,deurp.rb29die,deuhe.rb29,deurp.rb29
+deurm;RE30;;;deuhe.re30
+deurm;RB31;;Donnersbergbahn;deurp.rb31
+deurm;RB33;;Nahetalbahn;deurp.rb33
+deurm;RB34;;Nahetalbahn;deurp.rb34
+deurm;RB34;;Niddertalbahn;deuhe.rb34
+deurm;RB35;;Rheinhessenbahn;deurp.rb35
+deurm;RB37;;Hunsrückbahn;deurp.rb37
+deurm;RB37;;Mittelhessen-Express;deuhe.rb37
+deurm;RB38;;Lahn-Eifel-Bahn;deurp.rb38
+deurm;RB39;;Ahrtalbahn;deurp.rb39
+deurm;RB39;;;deuhe.rb39
+deurm;RB40;;Mittelhessen-Express;deuhe.rb40
+deurm;RB41;;Mittelhessen-Express;deuhe.rb41
+deurm;RB45;;Vogelsbergbahn;deuhe.rb45
+deurm;RB45;;Pfälzische Nordbahn;deurp.rb45
+deurm;RB46;;Lahn-Kinzig-Bahn;deuhe.rb46
+deurm;RB46;;Eistalbahn;deurp.rb46
+deurm;RB47;;;deuhe.rb47
+deurm;RB48;;;deuhe.rb48
+deurm;RB49;;;deuhe.rb49
+deurm;RE50;;Kinzigtalbahn;deuhe.re50
+deurm;RB51;;Kinzigtalbahn;deuhe.rb51
+deurm;RB51;;Karlsruhe;deurp.rb51,deubw.rb51kar
+deurm;RB52;;Rhönbahn;deuhe.rb52
+deurm;RB52;;Bienwaldbahn;deurp.rb52,frages.rb52
+deurm;RB53;;;deurp.rb53,frages.rb53
+deurm;RE54;;;deuhe.re54,deuby.re54
+deurm;RB54;;Kurbadlinie;deurp.rb54
+deurm;RE55;;;deuhe.re55,deuby.re55
+deurm;RB55;;Queichtalbahn;deurp.rb55
+deurm;RE56;;Kahlgrundbahn;deuhe.rb56,deuby.rb56
+deurm;RE58;;Mainbahn;deuhe.rb58,deuby.rb58
+deurm;RE59;;Bruhrainbahn;deuhe.re59
+deurm;RE60;;Main-Neckar-Bahn;deuhe.re60,deubw.re60
+deurm;RB61;;Dreieichbahn;deuhe.rb61
+deurm;RB62;;Riedbahn;deurp.rb62,deuhe.rb62
+deurm;RB63;;Nibelungenbahn;deurp.rb63,deuhe.rb63
+deurm;RB64;;Biebermühlbahn;deurp.rb64
+deurm;RB65;;Alsenztalbahn;deurp.rb65
+deurm;RB66;;Pfungstadtbahn;deuhe.rb66
+deurm;RB66;;Lautertalbahn;deurp.rb66
+deurm;RB67;;Main-Neckar-Bahn;deuhe.rb67,deubw.rb67
+deurm;RB67;;Steinbahn;deurp.rb67
+deurm;RB68;;Main-Neckar-Bahn;deuhe.rb68,deubw.rb68
+deurm;RB68;;Schwarzbachtalbahn;deusl.rb68,deurp.rb68
+deurm;RB69;;;deubw.rb69,deuhe.rb69
+deurm;RE70;;Riedbahn;deuhe.re70,deubw.re70
+deurm;RB70;;;deusl.rb70,deurp.rb70
+deurm;RB71;;Saartal-Bahn;deurp.rb71.deusl.rb71
+deurm;RB72;;Fischbach-Illtal-Bahn;deusl.rb72
+deurm;RB73;;Bliestal-Bahn;deurp.rb73,deusl.rb73
+deurm;RB74;;;deusl.rb74
+deurm;RB75;;Rhein-Main-Bahn;deuhe.rb75wie,deurp.rb75,deuhe.rb75,deuby.rb75
+deurm;RB76;;;deusl.rb76
+deurm;RB77;;Niedtal-Bahn;deusl.rb77
+deurm;RE80;;Odenwaldbahn;deuhe.re80
+deurm;RB81;;Odenwaldbahn;deuhe.rb81,deubw.rb81
+deurm;RB81;;Moseltal-Bahn;deurp.rb81
+deurm;RB82;;Odenwaldbahn;deuhe.rb82,deubw.rb82
+deurm;RB82;;Elbling-Express;deurp.rb82,deusl.rb82
+deurm;RB83;;Kassel;deuhe.rb83,deuni.rb83han,deuhe.rb83wit,deuni.rb83
+deurm;RB83;;Trier;deurp.rb83,lux.rb83
+deurm;RB84;;;deurp.rb84
+deurm;RE85;;Odenwaldbahn;deuhe.re85
+deurm;RB85;;Moselweinbahn;deurp.rb85
+deurm;RB86;;Odenwaldbahn;deuhe.rb86
+deurm;RB87;;;deuhe.rb87,deuni.rb87
+deurm;RB94;;Obere Lahntalbahn;deunw.rb94,deuhe.rb94
+deurm;RE97;;Lahn-Sauerland-Express;deuhe.re97,deunw.re97
+deurm;RB97;;Burgwaldbahn;deuhe.rb97,deunw.rb97
+deurm;RE98;;Main-Weser-Express;deuhe.re98
+deurm;RE99;;Main-Sieg-Express;deuhe.re99,deunw.re99
