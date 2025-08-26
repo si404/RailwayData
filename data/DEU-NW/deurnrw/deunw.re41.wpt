@@ -1,0 +1,14 @@
+BocHbf http://www.openstreetmap.org/?lat=51.478516&lon=7.223210
++DIV_BocW http://www.openstreetmap.org/?lat=51.475870&lon=7.217374
++SKIP_BocWest http://www.openstreetmap.org/?lat=51.481577&lon=7.211173
++SKIP_BocHam http://www.openstreetmap.org/?lat=51.491154&lon=7.201141
++SKIP_BocRie http://www.openstreetmap.org/?lat=51.517890&lon=7.205315
++DIV_Hol http://www.openstreetmap.org/?lat=51.540836&lon=7.202096
++DIV_HerW http://www.openstreetmap.org/?lat=51.545425&lon=7.189307
+RecHauSud http://www.openstreetmap.org/?lat=51.562018&lon=7.195637
++DIV_RecS http://www.openstreetmap.org/?lat=51.598323&lon=7.200680
+RecHauHbf http://www.openstreetmap.org/?lat=51.616078&lon=7.203341
++X843625 http://www.openstreetmap.org/?lat=51.645760&lon=7.201324
+MarlSin http://www.openstreetmap.org/?lat=51.667831&lon=7.173257
++DIV_Mar http://www.openstreetmap.org/?lat=51.702180&lon=7.151400
+HalSee http://www.openstreetmap.org/?lat=51.736902&lon=7.182870
