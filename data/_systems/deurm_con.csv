@@ -68,11 +68,11 @@ deurm;RB64;;Biebermühlbahn;deurp.rb64
 deurm;RB65;;Alsenztalbahn;deurp.rb65
 deurm;RB66;;Pfungstadtbahn;deuhe.rb66
 deurm;RB66;;Lautertalbahn;deurp.rb66
-deurm;RB67;;Main-Neckar-Bahn;deuhe.rb67,deubw.rb67
+deurm;RB67;;Main-Neckar-Bahn;deuhe.rb67,deubw.rb67wei
 deurm;RB67;;Steinbahn;deurp.rb67
-deurm;RB68;;Main-Neckar-Bahn;deuhe.rb68,deubw.rb68
+deurm;RB68;;Main-Neckar-Bahn;deuhe.rb68,deubw.rb68wei
 deurm;RB68;;Schwarzbachtalbahn;deusl.rb68,deurp.rb68
-deurm;RB69;;;deubw.rb69,deuhe.rb69
+deurm;RB69;;;deubw.rb69wei,deuhe.rb69
 deurm;RE70;;Riedbahn;deuhe.re70,deubw.re70
 deurm;RB70;;;deusl.rb70,deurp.rb70
 deurm;RB71;;Saartal-Bahn;deurp.rb71,deusl.rb71
