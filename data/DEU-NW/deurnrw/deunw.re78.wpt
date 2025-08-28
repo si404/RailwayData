@@ -5,7 +5,7 @@ BieHbf http://www.openstreetmap.org/?lat=52.029353&lon=8.532729
 +X711213 http://www.openstreetmap.org/?lat=52.095499&lon=8.628259
 +DIV_RB72 http://www.openstreetmap.org/?lat=52.113602&lon=8.657978
 Her http://www.openstreetmap.org/?lat=52.119590&lon=8.663793
-+X695054 http://www.openstreetmap.org/?lat=52.158529&lon=8.668052
++SKIP_HidSch http://www.openstreetmap.org/?lat=52.158529&lon=8.668052
 +X613638 http://www.openstreetmap.org/?lat=52.167717&lon=8.668073
 +X750252 http://www.openstreetmap.org/?lat=52.181886&lon=8.672826
 +DIV_RE60 http://www.openstreetmap.org/?lat=52.190871&lon=8.696601
