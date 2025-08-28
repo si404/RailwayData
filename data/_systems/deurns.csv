@@ -8,8 +8,8 @@ deurns;DEU-RP;S2;;;Neustadt an der Weinstraße;deurp.s02;
 deurns;DEU-BW;S2;;Man;Mannheim;deubw.s02man;
 deurns;DEU-HE;S2;;Hir;Hirschhorn;deuhe.s02hir;
 deurns;DEU-BW;S2;;Mos;Mosbach;deubw.s02mos;
-deurns;DEU-BW;S3;;Kar;Karlsruhe;deubw.s03kar;S52Kar
-deurns;DEU-RP;S3;;;Speyer;deurp.s03;S52Wor
+deurns;DEU-BW;S3;;Kar;Karlsruhe;deubw.s03kar;
+deurns;DEU-RP;S3;;;Speyer;deurp.s03;
 deurns;DEU-BW;S3;;Man;Mannheim;deubw.s03man;
 deurns;DEU-RP;S4;;;Speyer;deurp.s04;
 deurns;DEU-BW;S4;;Man;Mannheim;deubw.s04man;
