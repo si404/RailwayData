@@ -1,0 +1,28 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+chnbjs;CHN-BJ;BJSLn1;;;Beijing Subway Line 1;chnbj.bjs01;
+chnbjs;CHN-BJ;BJSLn2;;;Beijing Subway Line 2;chnbj.bjs02;
+chnbjs;CHN-BJ;BJSLn3;;;Beijing Subway Line 3;chnbj.bjs03;
+chnbjs;CHN-BJ;BJSLn4;;;Beijing Subway Line 4;chnbj.bjs04;
+chnbjs;CHN-BJ;BJSLn5;;;Beijing Subway Line 5;chnbj.bjs05;
+chnbjs;CHN-BJ;BJSLn6;;;Beijing Subway Line 6;chnbj.bjs06;
+chnbjs;CHN-BJ;BJSLn7;;;Beijing Subway Line 7;chnbj.bjs07;
+chnbjs;CHN-BJ;BJSLn8;;;Beijing Subway Line 8;chnbj.bjs08;
+chnbjs;CHN-BJ;BJSLn9;;;Beijing Subway Line 9;chnbj.bjs09;
+chnbjs;CHN-BJ;BJSLn10;;;Beijing Subway Line 10;chnbj.bjs10;
+chnbjs;CHN-BJ;BJSLn11;;;Beijing Subway Line 11;chnbj.bjs11;
+chnbjs;CHN-BJ;BJSLn13;;;Beijing Subway Line 13;chnbj.bjs13;
+chnbjs;CHN-BJ;BJSLn14;;;Beijing Subway Line 14;chnbj.bjs14;
+chnbjs;CHN-BJ;BJSLn15;;;Beijing Subway Line 15;chnbj.bjs15;
+chnbjs;CHN-BJ;BJSLn16;;;Beijing Subway Line 16;chnbj.bjs16;
+chnbjs;CHN-BJ;BJSLn17;;;Beijing Subway Line 17;chnbj.bjs17;
+chnbjs;CHN-BJ;BJSLn19;;;Beijing Subway Line 19;chnbj.bjs19;
+chnbjs;CHN-BJ;BatongLn;;;Beijing Subway Batong Line;chnbj.batong;
+chnbjs;CHN-BJ;ChangpingLn;;;Beijing Subway Changping Line;chnbj.changping;
+chnbjs;CHN-BJ;FangshanLn;;;Beijing Subway Fangshan Line;chnbj.fangshan;
+chnbjs;CHN-BJ;ShouyangLn;;;Beijing Subway Shougang Yaomenkou Branch;chnbj.shouyang;
+chnbjs;CHN-BJ;S1;;;Beijing Subway S1 Line (Mentougou);chnbj.s1;
+chnbjs;CHN-BJ;DaxingLn;;;Beijing Subway Daxing Line;chnbj.daxing;
+chnbjs;CHN-BJ;YanfangLn;;;Beijing Subway Yanfang Line;chnbj.yanfang;
+chnbjs;CHN-BJ;XijiaoLn;;;Beijing Subway Xijiao Line;chnbj.xijiao;
+chnbjs;CHN-BJ;JinanqiaoLn;;;Beijing Subway Jinanqiao Branch;chnbj.jinanqiao;
+chnbjs;CHN-BJ;DaxingAirLn;;;Beijing Subway Daxing Airport Express;chnbj.daxingair;
