@@ -34,7 +34,7 @@ LonKinCro http://www.openstreetmap.org/?lat=51.531954&lon=-0.123543
 +X135569 http://www.openstreetmap.org/?lat=52.357859&lon=-0.185308
 +X386654 http://www.openstreetmap.org/?lat=52.437072&lon=-0.234489
 +X882235 http://www.openstreetmap.org/?lat=52.566380&lon=-0.244124
-+SKIP_Pet http://www.openstreetmap.org/?lat=52.574603&lon=-0.250368
+Pet http://www.openstreetmap.org/?lat=52.574603&lon=-0.250368
 +DIV_Red http://www.openstreetmap.org/?lat=52.613257&lon=-0.288627
 +DIV_BPL http://www.openstreetmap.org/?lat=52.638545&lon=-0.338945
 +X117637 http://www.openstreetmap.org/?lat=52.703734&lon=-0.457993

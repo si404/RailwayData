@@ -2,7 +2,8 @@ Great British Railways timeline
 	contracts up (wikipedia)
 		SW	25 May 2025 <- moved
 		IL	25 May 2025 <- moved (but is part of SW anyway)
-		CC	20 Jul 2025
+		SE	already Dft <- moved as track and train merged June 2025
+		CC	20 Jul 2025 <- moved
 		LE	12 Oct 2025
 		LN	20 Sep 2026
 		WM	20 Sep 2026
@@ -16,7 +17,6 @@ Great British Railways timeline
 		GW	25 Jun 2028
 		EM	16 Oct 2030
 		GR	already Dft
-		SE	already Dft
 		NT	already Dft
 		TP	already Dft
 

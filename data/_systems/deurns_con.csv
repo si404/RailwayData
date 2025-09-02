@@ -1,7 +1,7 @@
 systemName;route;banner;groupName;roots
 deurns;S1;;Rhein-Neckar;deusl.s01hom,deurp.s01,deubw.s01man,deuhe.s01hir,deubw.s01mos
 deurns;S2;;Rhein-Neckar;deurp.s02,deubw.s02man,deuhe.s02hir,deubw.s02mos
-deurns;S3;;Rhein-Neckar;deurp.s03,deubw.s03man
+deurns;S3;;Rhein-Neckar;deubw.s03kar,deurp.s03,deubw.s03man
 deurns;S4;;Rhein-Neckar;deurp.s04,deubw.s04man
 deurns;S5;;Rhein-Neckar;deubw.s05hei
 deurns;S6;;Rhein-Neckar;deurp.s06,deubw.s06man,deuhe.s06ben

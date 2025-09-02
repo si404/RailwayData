@@ -19,9 +19,9 @@ LonPad http://www.openstreetmap.org/?lat=51.516995&lon=-0.177369
 +SKIP_Mai http://www.openstreetmap.org/?lat=51.518384&lon=-0.722523
 +SKIP_Twy http://www.openstreetmap.org/?lat=51.475423&lon=-0.863199
 +X930791 http://www.openstreetmap.org/?lat=51.460685&lon=-0.919418
-+DIV_NDL http://www.openstreetmap.org/?lat=51.458519&lon=-0.961068
 Rea http://www.openstreetmap.org/?lat=51.459221&lon=-0.972118
-+DIV_GWML http://www.openstreetmap.org/?lat=51.460164&lon=-0.981967
++DIV_GWML http://www.openstreetmap.org/?lat=51.460311&lon=-0.982482
++DIV_RBL http://www.openstreetmap.org/?lat=51.456688&lon=-0.989242
 +SKIP_ReaWest http://www.openstreetmap.org/?lat=51.454609&lon=-0.990744
 +DIV_Bru http://www.openstreetmap.org/?lat=51.441236&lon=-0.997782
 +SKIP_The http://www.openstreetmap.org/?lat=51.433290&lon=-1.074386

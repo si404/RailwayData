@@ -5,9 +5,9 @@ Man http://www.openstreetmap.org/?lat=54.972678&lon=-1.605581
 +X434384 http://www.openstreetmap.org/?lat=55.004598&lon=-1.558256
 +DIV_ECML http://www.openstreetmap.org/?lat=55.013494&lon=-1.559715
 +X766045 http://www.openstreetmap.org/?lat=55.019812&lon=-1.550102
-+SKIP_Pal http://www.openstreetmap.org/?lat=55.023656&lon=-1.541219
++X945411 http://www.openstreetmap.org/?lat=55.023763&lon=-1.541401
 NorPark http://www.openstreetmap.org/?lat=55.033126&lon=-1.519761
-+DIV_Yel http://www.openstreetmap.org/?lat=55.034534&lon=-1.517251
++X426851 http://www.openstreetmap.org/?lat=55.035711&lon=-1.516500
 +X699628 http://www.openstreetmap.org/?lat=55.064073&lon=-1.543579
 SeaDel http://www.openstreetmap.org/?lat=55.074547&lon=-1.538687
 +X384300 http://www.openstreetmap.org/?lat=55.084865&lon=-1.511822

@@ -4,7 +4,7 @@ HeaTer4 http://www.openstreetmap.org/?lat=51.458834&lon=-0.445418
 +X331826 http://www.openstreetmap.org/?lat=51.459395&lon=-0.462606
 +X105617 http://www.openstreetmap.org/?lat=51.467289&lon=-0.472133
 +DIV_HT5 http://www.openstreetmap.org/?lat=51.473037&lon=-0.459816
-HeaTer23 http://www.openstreetmap.org/?lat=51.471961&lon=-0.454302
+HeaTer23 http://www.openstreetmap.org/?lat=51.471346&lon=-0.452467
 +DIV_Loop http://www.openstreetmap.org/?lat=51.466206&lon=-0.426278
 HatCro http://www.openstreetmap.org/?lat=51.466527&lon=-0.423961
 HouWest http://www.openstreetmap.org/?lat=51.473571&lon=-0.385745
@@ -35,7 +35,7 @@ LeiSqu http://www.openstreetmap.org/?lat=51.511457&lon=-0.128263
 CovGar http://www.openstreetmap.org/?lat=51.513099&lon=-0.124272
 Hol http://www.openstreetmap.org/?lat=51.517112&lon=-0.120066
 RusSqu http://www.openstreetmap.org/?lat=51.522927&lon=-0.124251
-KXSP http://www.openstreetmap.org/?lat=51.530246&lon=-0.124090
+KinCroStPan +KXSP http://www.openstreetmap.org/?lat=51.530246&lon=-0.124090
 CalRd http://www.openstreetmap.org/?lat=51.548510&lon=-0.118446
 HolRd http://www.openstreetmap.org/?lat=51.552887&lon=-0.112910
 Ars http://www.openstreetmap.org/?lat=51.558383&lon=-0.107589

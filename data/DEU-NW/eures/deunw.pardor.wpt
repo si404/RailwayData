@@ -83,12 +83,8 @@ EssHbf http://www.openstreetmap.org/?lat=51.451225&lon=7.013011
 +DIV_EssE http://www.openstreetmap.org/?lat=51.452235&lon=7.020189
 +DIV_Hut http://www.openstreetmap.org/?lat=51.455692&lon=7.027645
 +DIV_Fri http://www.openstreetmap.org/?lat=51.453459&lon=7.054896
-+SKIP_EssSte http://www.openstreetmap.org/?lat=51.450617&lon=7.075624
-+DIV_Ste http://www.openstreetmap.org/?lat=51.447689&lon=7.081010
-+SKIP_EssSteOst http://www.openstreetmap.org/?lat=51.444104&lon=7.088499
-+DIV_Hor http://www.openstreetmap.org/?lat=51.441684&lon=7.093692
-+SKIP_EssEiBerg http://www.openstreetmap.org/?lat=51.441737&lon=7.108970
-+SKIP_WatHon http://www.openstreetmap.org/?lat=51.459803&lon=7.153366
++SKIP_EssKraySud http://www.openstreetmap.org/?lat=51.458085&lon=7.074637
++SKIP_Wat http://www.openstreetmap.org/?lat=51.473044&lon=7.138281
 +DIV_Epp http://www.openstreetmap.org/?lat=51.465458&lon=7.178900
 +SKIP_BocEhrFeld http://www.openstreetmap.org/?lat=51.472101&lon=7.209048
 +DIV_BocW http://www.openstreetmap.org/?lat=51.475870&lon=7.217374

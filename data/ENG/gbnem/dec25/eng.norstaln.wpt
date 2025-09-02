@@ -23,7 +23,7 @@ Pea http://www.openstreetmap.org/?lat=52.897603&lon=-1.472340
 +DIV_MMLN http://www.openstreetmap.org/?lat=52.913476&lon=-1.462405
 Der http://www.openstreetmap.org/?lat=52.916219&lon=-1.462662
 +DIV_XCMLN http://www.openstreetmap.org/?lat=52.913476&lon=-1.462405
-Spo http://www.openstreetmap.org/?lat=52.912066&lon=-1.410778
++SKIP_Spo http://www.openstreetmap.org/?lat=52.912066&lon=-1.410778
 LongEat http://www.openstreetmap.org/?lat=52.884987&lon=-1.287289
 +DIV_MMLS http://www.openstreetmap.org/?lat=52.880656&lon=-1.268835
 Att http://www.openstreetmap.org/?lat=52.906404&lon=-1.231155
