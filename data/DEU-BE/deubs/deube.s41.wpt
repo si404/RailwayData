@@ -1,10 +1,10 @@
 WestKre_N +Westkreuz_N http://www.openstreetmap.org/?lat=52.500725&lon=13.283715
-+DIV_WesN http://www.openstreetmap.org/?lat=52.503233&lon=13.282256
 MesNordICC http://www.openstreetmap.org/?lat=52.507687&lon=13.283436
 WestEnd http://www.openstreetmap.org/?lat=52.517964&lon=13.284359
-+DIV_Rud http://www.openstreetmap.org/?lat=52.527840&lon=13.282878
++X154689 http://www.openstreetmap.org/?lat=52.526969&lon=13.283082
++X452311 http://www.openstreetmap.org/?lat=52.529241&lon=13.288018
 JunHei http://www.openstreetmap.org/?lat=52.530527&lon=13.300688
-BeuStr http://www.openstreetmap.org/?lat=52.534191&lon=13.329334
+BeuStr http://www.openstreetmap.org/?lat=52.534403&lon=13.329366
 WestHaf http://www.openstreetmap.org/?lat=52.536221&lon=13.343979
 +DIV_Per http://www.openstreetmap.org/?lat=52.537722&lon=13.357852
 Wed http://www.openstreetmap.org/?lat=52.543171&lon=13.367904
@@ -14,25 +14,23 @@ SchHauAll http://www.openstreetmap.org/?lat=52.549483&lon=13.413706
 PreAll http://www.openstreetmap.org/?lat=52.544938&lon=13.425593
 GreWalStr http://www.openstreetmap.org/?lat=52.540590&lon=13.438173
 LanBerAll http://www.openstreetmap.org/?lat=52.529558&lon=13.454658
-StoStr http://www.openstreetmap.org/?lat=52.523826&lon=13.464818
+StoStr http://www.openstreetmap.org/?lat=52.523728&lon=13.464850
 FraFurAll http://www.openstreetmap.org/?lat=52.515236&lon=13.474420
-+DIV_Wie http://www.openstreetmap.org/?lat=52.508255&lon=13.475547
 OstKre http://www.openstreetmap.org/?lat=52.503168&lon=13.469560
++DIV_S9 http://www.openstreetmap.org/?lat=52.499602&lon=13.467886
 TrePark http://www.openstreetmap.org/?lat=52.493844&lon=13.461825
 +DIV_Tre http://www.openstreetmap.org/?lat=52.488063&lon=13.459314
 SonAll http://www.openstreetmap.org/?lat=52.472959&lon=13.455741
-+DIV_Neu http://www.openstreetmap.org/?lat=52.470763&lon=13.452072
++DIV_Neu http://www.openstreetmap.org/?lat=52.470851&lon=13.452201
 NeuKol http://www.openstreetmap.org/?lat=52.469220&lon=13.441805
 HerStr http://www.openstreetmap.org/?lat=52.467652&lon=13.431226
-+X13 http://www.openstreetmap.org/?lat=52.464867&lon=13.405423
++X462226 http://www.openstreetmap.org/?lat=52.464905&lon=13.405423
 TemHof http://www.openstreetmap.org/?lat=52.471011&lon=13.384244
-+DIV_Tem http://www.openstreetmap.org/?lat=52.471351&lon=13.374202
 SudKre http://www.openstreetmap.org/?lat=52.475573&lon=13.365319
 SchBerg http://www.openstreetmap.org/?lat=52.479298&lon=13.351886
-InnsBruPla http://www.openstreetmap.org/?lat=52.478017&lon=13.341587
+InnsBruPla http://www.openstreetmap.org/?lat=52.478108&lon=13.341522
 BunPla http://www.openstreetmap.org/?lat=52.477631&lon=13.328497
 HeiBerPla http://www.openstreetmap.org/?lat=52.479500&lon=13.312651
-HohZolDamm http://www.openstreetmap.org/?lat=52.488549&lon=13.300216
+HohZolDamm http://www.openstreetmap.org/?lat=52.488641&lon=13.300216
 HalSee http://www.openstreetmap.org/?lat=52.495774&lon=13.290539
-+DIV_WesS http://www.openstreetmap.org/?lat=52.499595&lon=13.285260
 WestKre_S +Westkreuz_S http://www.openstreetmap.org/?lat=52.500725&lon=13.283715

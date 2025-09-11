@@ -7,7 +7,8 @@ WilRuh http://www.openstreetmap.org/?lat=52.581709&lon=13.362250
 +DIV_Rei http://www.openstreetmap.org/?lat=52.575841&lon=13.373322
 SchHolz http://www.openstreetmap.org/?lat=52.571434&lon=13.381047
 WolStr http://www.openstreetmap.org/?lat=52.565294&lon=13.392066
-BornHolStr +BornholmerStrasse http://www.openstreetmap.org/?lat=52.554672&lon=13.398149
++DIV_S2 http://www.openstreetmap.org/?lat=52.556642&lon=13.397516
+BornHolStr +BornholmerStrasse +moved http://www.openstreetmap.org/?lat=52.554731&lon=13.397838
 +DIV_Ges http://www.openstreetmap.org/?lat=52.549897&lon=13.399222
 GesBru http://www.openstreetmap.org/?lat=52.548762&lon=13.388718
 HumHain http://www.openstreetmap.org/?lat=52.544919&lon=13.379438
@@ -30,6 +31,5 @@ SunStr http://www.openstreetmap.org/?lat=52.436385&lon=13.274252
 ZehDorf http://www.openstreetmap.org/?lat=52.430969&lon=13.258610
 MexPla http://www.openstreetmap.org/?lat=52.436725&lon=13.233290
 SchSee http://www.openstreetmap.org/?lat=52.440087&lon=13.215480
-NikSee http://www.openstreetmap.org/?lat=52.431809&lon=13.194140
-+DIV_Nik http://www.openstreetmap.org/?lat=52.430727&lon=13.192992
+NikSee http://www.openstreetmap.org/?lat=52.431944&lon=13.193679
 WannSee http://www.openstreetmap.org/?lat=52.421247&lon=13.179924
