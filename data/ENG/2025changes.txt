@@ -48,8 +48,6 @@ DEC 25
 		North Staffordshire Line extended to Lincoln
 		Derwent Valley Line extended to Cleethorpes
 		Imps Line reduced to a low enough frequency that I can kill it (as LNER cover trackage)
-	GC	West Riding to call, 1tpd, at Peterborough
-		North Eastern to call, 1tpd, at Peterborough
 	LNER	new service pattern as below
 		0.5	Kings Cross                                                                      - York                                       - Newcastle                      - Edinburgh
 		0.5	Kings Cross                                                                      - York                                       - Newcastle                      - Edinburgh
