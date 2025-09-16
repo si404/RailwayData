@@ -1,9 +1,11 @@
 LivSt http://www.openstreetmap.org/?lat=51.518057&lon=-0.081389
-BetGre http://www.openstreetmap.org/?lat=51.523758&lon=-0.059395
-+SKIP_CamHea http://www.openstreetmap.org/?lat=51.532235&lon=-0.057421
-+SKIP_LonFie http://www.openstreetmap.org/?lat=51.541004&lon=-0.057786
++X965027 http://www.openstreetmap.org/?lat=51.522416&lon=-0.077527
+BetGre http://www.openstreetmap.org/?lat=51.523941&lon=-0.059497
++DIV_Che http://www.openstreetmap.org/?lat=51.526296&lon=-0.056305
++DIV_NRL http://www.openstreetmap.org/?lat=51.526917&lon=-0.056165
++X181523 http://www.openstreetmap.org/?lat=51.531646&lon=-0.057051
++X691593 http://www.openstreetmap.org/?lat=51.541069&lon=-0.057646
 HacDow http://www.openstreetmap.org/?lat=51.548557&lon=-0.060575
-+DIV_Che http://www.openstreetmap.org/?lat=51.549931&lon=-0.061390
 Cla http://www.openstreetmap.org/?lat=51.561638&lon=-0.056906
 +DIV_WAML http://www.openstreetmap.org/?lat=51.568494&lon=-0.050554
 StJamSt http://www.openstreetmap.org/?lat=51.581163&lon=-0.032272

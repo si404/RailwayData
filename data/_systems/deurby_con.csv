@@ -67,7 +67,7 @@ deurby;RB52;;;deuby.rb52
 deurby;RB53;;;deuhe.rb53
 deurby;RB53;;Wurzberg;deuby.rb53
 deurby;RB53;;Traunstein;deuby.rb53tra
-deurby;RB54;;;deuby.rb54
+deurby;RB54;;;deuby.rb54,aut.rb54
 deurby;RB55;;;deuby.rb55
 deurby;RB56;;;deuby.rb56
 deurby;RE57;;;deuby.re57
@@ -98,10 +98,8 @@ deurby;RE80;;;deuby.re80
 deurby;RB81;;;deuby.rb81
 deurby;RB82;;;deuby.rb82
 deurby;RB86;;;deuby.rb86
-deurby;RE89;;;deuby.re89
-deurby;RE89;;;deubw.re89
-deurby;RB89;;;deuby.rb89
-deurby;RB89;;;deubw.rb89
+deurby;RE89;;;deuby.re89,deubw.re89
+deurby;RB89;;;deuby.rb89,deubw.rb89
 deurby;RB91;;;deuby.rb91
 deurby;RB95;;;deuby.rb95,cze.rb95,deuby.rb95mar
 deurby;RE96;;;deuby.re96,deubw.re96,deuby.re96lin

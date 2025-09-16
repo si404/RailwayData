@@ -1,10 +1,14 @@
 MunHbf http://www.openstreetmap.org/?lat=48.140762&lon=11.556544
++X703231 http://www.openstreetmap.org/?lat=48.141837&lon=11.548492
 DonBerBru http://www.openstreetmap.org/?lat=48.142630&lon=11.536503
-+DIV_DonBruW http://www.openstreetmap.org/?lat=48.142430&lon=11.531632
-+DIV_FriHeim http://www.openstreetmap.org/?lat=48.135872&lon=11.527383
++X726468 http://www.openstreetmap.org/?lat=48.142668&lon=11.532608
++X703930 http://www.openstreetmap.org/?lat=48.140642&lon=11.527652
++X188225 http://www.openstreetmap.org/?lat=48.136468&lon=11.526997
 +SKIP_HeiPla http://www.openstreetmap.org/?lat=48.133122&lon=11.531332
-+DIV_Sen http://www.openstreetmap.org/?lat=48.129828&lon=11.536438
++X209541 http://www.openstreetmap.org/?lat=48.130150&lon=11.536514
++X122822 http://www.openstreetmap.org/?lat=48.127390&lon=11.537822
 Har http://www.openstreetmap.org/?lat=48.116923&lon=11.536181
++DIV_S20 http://www.openstreetmap.org/?lat=48.112641&lon=11.536202
 +SKIP_MitSen http://www.openstreetmap.org/?lat=48.107782&lon=11.536331
 SieWer http://www.openstreetmap.org/?lat=48.094341&lon=11.532748
 Sol http://www.openstreetmap.org/?lat=48.079921&lon=11.526954

@@ -34,15 +34,15 @@ ENG/SCT http://www.openstreetmap.org/?lat=54.998026&lon=-3.045187
 +SKIP_Shi http://www.openstreetmap.org/?lat=55.777279&lon=-3.957438
 +SKIP_Mot http://www.openstreetmap.org/?lat=55.792666&lon=-3.995601
 +DIV_ArgLan http://www.openstreetmap.org/?lat=55.794581&lon=-3.997564
-+DIV_LanSho http://www.openstreetmap.org/?lat=55.823523&lon=-4.075692
-+SKIP_Udd http://www.openstreetmap.org/?lat=55.823581&lon=-4.086721
++DIV_LanSho http://www.openstreetmap.org/?lat=55.823737&lon=-4.081796
++SKIP_Udd http://www.openstreetmap.org/?lat=55.823551&lon=-4.087086
 +DIV_ArgS http://www.openstreetmap.org/?lat=55.818888&lon=-4.129314
-+SKIP_New http://www.openstreetmap.org/?lat=55.818946&lon=-4.133220
-+DIV_CCL http://www.openstreetmap.org/?lat=55.818512&lon=-4.144034
-+SKIP_Cam http://www.openstreetmap.org/?lat=55.819338&lon=-4.172573
-+DIV_ArgE http://www.openstreetmap.org/?lat=55.828354&lon=-4.195361
-+DIV_ArgN http://www.openstreetmap.org/?lat=55.829993&lon=-4.209802
++X225516 http://www.openstreetmap.org/?lat=55.818792&lon=-4.141846
++DIV_CCL http://www.openstreetmap.org/?lat=55.817571&lon=-4.153476
++SKIP_Cam http://www.openstreetmap.org/?lat=55.819452&lon=-4.173002
++DIV_ArgN http://www.openstreetmap.org/?lat=55.828869&lon=-4.199878
 +X875912 http://www.openstreetmap.org/?lat=55.831264&lon=-4.225960
 +DIV_CCLEKLKil http://www.openstreetmap.org/?lat=55.847822&lon=-4.261043
 +DIV_ACLInvPCL http://www.openstreetmap.org/?lat=55.851860&lon=-4.260013
 GlaCen http://www.openstreetmap.org/?lat=55.858515&lon=-4.258533
+
