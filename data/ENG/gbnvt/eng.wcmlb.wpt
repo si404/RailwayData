@@ -47,9 +47,9 @@ MilKeyCen http://www.openstreetmap.org/?lat=52.033763&lon=-0.774236
 Rug http://www.openstreetmap.org/?lat=52.379018&lon=-1.249738
 +DIV_TVLS http://www.openstreetmap.org/?lat=52.380537&lon=-1.272655
 +X113521 http://www.openstreetmap.org/?lat=52.382319&lon=-1.426034
-+DIV_NucS http://www.openstreetmap.org/?lat=52.400416&lon=-1.510749
++DIV_EaBS http://www.openstreetmap.org/?lat=52.400416&lon=-1.510749
 Cov http://www.openstreetmap.org/?lat=52.400861&lon=-1.513538
-+DIV_NucN http://www.openstreetmap.org/?lat=52.401568&lon=-1.520576
++DIV_EaBN http://www.openstreetmap.org/?lat=52.401568&lon=-1.520576
 +SKIP_Can http://www.openstreetmap.org/?lat=52.399342&lon=-1.547656
 +SKIP_TileHill http://www.openstreetmap.org/?lat=52.395231&lon=-1.596794
 +SKIP_Berw http://www.openstreetmap.org/?lat=52.396126&lon=-1.641920

@@ -79,7 +79,7 @@ LeaSpa http://www.openstreetmap.org/?lat=52.284660&lon=-1.535726
 +SKIP_Ken http://www.openstreetmap.org/?lat=52.342733&lon=-1.572590
 +DIV_WCMLS http://www.openstreetmap.org/?lat=52.400416&lon=-1.510749
 Cov http://www.openstreetmap.org/?lat=52.400861&lon=-1.513538
-+DIV_Nuc http://www.openstreetmap.org/?lat=52.401568&lon=-1.520576
++DIV_EaB http://www.openstreetmap.org/?lat=52.401568&lon=-1.520576
 +SKIP_Can http://www.openstreetmap.org/?lat=52.399342&lon=-1.547656
 +SKIP_TileHill http://www.openstreetmap.org/?lat=52.395231&lon=-1.596794
 +SKIP_Berw http://www.openstreetmap.org/?lat=52.396126&lon=-1.641920
@@ -103,6 +103,7 @@ BirNewSt http://www.openstreetmap.org/?lat=52.477651&lon=-1.898704
 +DIV_Sal http://www.openstreetmap.org/?lat=52.586742&lon=-2.115211
 Wol http://www.openstreetmap.org/?lat=52.587811&lon=-2.120104
 +DIV_Cam http://www.openstreetmap.org/?lat=52.594837&lon=-2.125425
++DIV_Bus http://www.openstreetmap.org/?lat=52.609009&lon=-2.124224
 +X587688 http://www.openstreetmap.org/?lat=52.641970&lon=-2.117958
 +X328582 http://www.openstreetmap.org/?lat=52.700912&lon=-2.128344
 +SKIP_Pen http://www.openstreetmap.org/?lat=52.723739&lon=-2.119246
