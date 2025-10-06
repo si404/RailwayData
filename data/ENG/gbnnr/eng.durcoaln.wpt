@@ -30,12 +30,13 @@ Sun http://www.openstreetmap.org/?lat=54.906089&lon=-1.382475
 +SKIP_BroWhi http://www.openstreetmap.org/?lat=54.959523&lon=-1.460688
 +SKIP_Felg http://www.openstreetmap.org/?lat=54.957524&lon=-1.485171
 +DIV_GreN http://www.openstreetmap.org/?lat=54.953790&lon=-1.530704
-+SKIP_Pel http://www.openstreetmap.org/?lat=54.952792&lon=-1.541948
 Hew http://www.openstreetmap.org/?lat=54.951585&lon=-1.556336
-+SKIP_Feli http://www.openstreetmap.org/?lat=54.953214&lon=-1.571753
-+SKIP_GatSta http://www.openstreetmap.org/?lat=54.957770&lon=-1.588125
++X806338 http://www.openstreetmap.org/?lat=54.953237&lon=-1.571699
++X429808 http://www.openstreetmap.org/?lat=54.957766&lon=-1.587889
++DIV_Gat http://www.openstreetmap.org/?lat=54.965008&lon=-1.606257
 +DIV_ECMLN http://www.openstreetmap.org/?lat=54.968620&lon=-1.612501
 New http://www.openstreetmap.org/?lat=54.968226&lon=-1.616943
++DIV_DCL http://www.openstreetmap.org/?lat=54.961534&lon=-1.614347
 +DIV_ECMLS http://www.openstreetmap.org/?lat=54.959030&lon=-1.616900
 +X684875 http://www.openstreetmap.org/?lat=54.953256&lon=-1.619915
 +X824062 http://www.openstreetmap.org/?lat=54.947863&lon=-1.625719
