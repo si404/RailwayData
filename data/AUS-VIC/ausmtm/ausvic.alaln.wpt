@@ -6,14 +6,9 @@ Fla http://www.openstreetmap.org/?lat=-37.811721&lon=144.956424
 MelCen http://www.openstreetmap.org/?lat=-37.809996&lon=144.962572
 Par http://www.openstreetmap.org/?lat=-37.809712&lon=144.972316
 +DIV_LpE http://www.openstreetmap.org/?lat=-37.816412&lon=144.974792
-+DIV_TramW http://www.openstreetmap.org/?lat=-37.818224&lon=144.977093
-+SKIP_RodLavAre http://www.openstreetmap.org/?lat=-37.819279&lon=144.979030
-+SKIP_MCGHisAre http://www.openstreetmap.org/?lat=-37.822021&lon=144.983338
-+DIV_TramE http://www.openstreetmap.org/?lat=-37.823177&lon=144.986701
 Ric http://www.openstreetmap.org/?lat=-37.823949&lon=144.989603
-+DIV_San http://www.openstreetmap.org/?lat=-37.825612&lon=144.992816
 EastRic http://www.openstreetmap.org/?lat=-37.826529&lon=144.997757
-Bur http://www.openstreetmap.org/?lat=-37.827525&lon=145.007209
+Burn http://www.openstreetmap.org/?lat=-37.827525&lon=145.007209
 +DIV_GW http://www.openstreetmap.org/?lat=-37.827756&lon=145.012804
 Haw http://www.openstreetmap.org/?lat=-37.821656&lon=145.023324
 Gle http://www.openstreetmap.org/?lat=-37.821402&lon=145.035791
@@ -23,6 +18,6 @@ Cam http://www.openstreetmap.org/?lat=-37.826603&lon=145.057747
 Riv http://www.openstreetmap.org/?lat=-37.831976&lon=145.069560
 Wil http://www.openstreetmap.org/?lat=-37.835437&lon=145.070171
 Har http://www.openstreetmap.org/?lat=-37.844114&lon=145.075579
-Bur http://www.openstreetmap.org/?lat=-37.851671&lon=145.080535
+Burw http://www.openstreetmap.org/?lat=-37.851671&lon=145.080535
 Ash http://www.openstreetmap.org/?lat=-37.862124&lon=145.081244
 Ala http://www.openstreetmap.org/?lat=-37.868425&lon=145.079677

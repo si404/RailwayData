@@ -3,16 +3,16 @@ ausmtm;AlaLn;;(Burnley Group) Alamein Line;ausvic.alaln
 ausmtm;BelLn;;(Burnley Group) Belgrave Line;ausvic.belln
 ausmtm;GWLn;;(Burnley Group) Glen Waverley Line;ausvic.gwln
 ausmtm;LilLn;;(Burnley Group) Lilydale Line;ausvic.lilln
-ausmtm;CbnLn;;(Caulfield Group) Cranbourne Line;ausvic.cbnln
-ausmtm;PakLn;;(Caulfield Group) Pakenham Line;ausvic.pakln
 ausmtm;HurLn;;(Clifton Hill Group) Hurstbridge Line;ausvic.hurln
 ausmtm;MerLn;;(Clifton Hill Group) Mernda Line;ausvic.merln
 ausmtm;WerLn;;(Cross-City Group) Werribee Line;ausvic.werln
 ausmtm;WilLn;;(Cross-City Group) Williamstown Line;ausvic.willn
-ausmtm;FraLn;;(Cross-City Group) Frankston Line;ausvic.fraln
-ausmtm;SPLn;;Stony Point Line;ausvic.spln
+ausmtm;SanLn;;(Cross-City Group) Sandringham Line;ausvic.sanln
 ausmtm;CgbLn;;(Northern Group) Craigieburn Line;ausvic.cgbln
-ausmtm;SunLn;;(Northern Group) Sunbury Line;ausvic.sunln
 ausmtm;UpfLn;;(Northern Group) Upfield Line;ausvic.upfln
-ausmtm;SanLn;;Sandringham Line;ausvic.sanln
-ausmtm;FRLn;;Flemington Racecourse Line;ausvic.frln
+ausmtm;FRLn;;(Northern Group) Flemington Racecourse Line;ausvic.frln
+ausmtm;CbnLn;;(Metro-Tunnel Group) Cranbourne Line;ausvic.cbnln
+ausmtm;PakLn;;(Metro-Tunnel Group) Pakenham Line;ausvic.pakln
+ausmtm;SunLn;;(Metro-Tunnel Group) Sunbury Line;ausvic.sunln
+ausmtm;FraLn;;Frankston Line;ausvic.fraln
+ausmtm;SPLn;;Stony Point Line;ausvic.spln
