@@ -2,7 +2,6 @@ FliSt http://www.openstreetmap.org/?lat=-37.818427&lon=144.965914
 +X834955 http://www.openstreetmap.org/?lat=-37.821294&lon=144.954922
 SouCro http://www.openstreetmap.org/?lat=-37.818311&lon=144.952326
 +DIV_LpW http://www.openstreetmap.org/?lat=-37.814081&lon=144.949429
-+DIV_Syd http://www.openstreetmap.org/?lat=-37.808873&lon=144.943260
 NorMel http://www.openstreetmap.org/?lat=-37.807622&lon=144.942359
 +DIV_FR http://www.openstreetmap.org/?lat=-37.805885&lon=144.940795
 +X528930 http://www.openstreetmap.org/?lat=-37.803896&lon=144.938762
@@ -14,7 +13,11 @@ Sed http://www.openstreetmap.org/?lat=-37.809017&lon=144.895694
 Yar http://www.openstreetmap.org/?lat=-37.815734&lon=144.889970
 Spo http://www.openstreetmap.org/?lat=-37.830734&lon=144.885882
 New http://www.openstreetmap.org/?lat=-37.842300&lon=144.883533
-+DIV_Wer http://www.openstreetmap.org/?lat=-37.843571&lon=144.883618
-NorWil http://www.openstreetmap.org/?lat=-37.857092&lon=144.888961
-WilBea http://www.openstreetmap.org/?lat=-37.863970&lon=144.894433
-Wil http://www.openstreetmap.org/?lat=-37.867748&lon=144.905296
++DIV_Wil http://www.openstreetmap.org/?lat=-37.843571&lon=144.883618
++X998082 http://www.openstreetmap.org/?lat=-37.849159&lon=144.874477
++DIV_WerE http://www.openstreetmap.org/?lat=-37.847884&lon=144.857569
+Sea http://www.openstreetmap.org/?lat=-37.867807&lon=144.841089
+Alt http://www.openstreetmap.org/?lat=-37.867129&lon=144.829427
+Wes http://www.openstreetmap.org/?lat=-37.865135&lon=144.813484
++DIV_WerW http://www.openstreetmap.org/?lat=-37.861793&lon=144.779940
+Lav http://www.openstreetmap.org/?lat=-37.863750&lon=144.772328
