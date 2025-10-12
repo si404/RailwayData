@@ -38,7 +38,7 @@ Bro http://www.openstreetmap.org/?lat=-37.683086&lon=144.919635
 +SKIP_Bro http://www.openstreetmap.org/?lat=-37.207671&lon=145.042534
 +X203847 http://www.openstreetmap.org/?lat=-37.197006&lon=145.068026
 +X946293 http://www.openstreetmap.org/?lat=-37.135311&lon=145.074806
-+SKIP_Tal http://www.openstreetmap.org/?lat=-37.092388&lon=145.102873
++X307011 http://www.openstreetmap.org/?lat=-37.092389&lon=145.102913
 +X519845 http://www.openstreetmap.org/?lat=-37.050827&lon=145.115490
 Sey http://www.openstreetmap.org/?lat=-37.024475&lon=145.138471
 +DIV_She http://www.openstreetmap.org/?lat=-36.936875&lon=145.176387
