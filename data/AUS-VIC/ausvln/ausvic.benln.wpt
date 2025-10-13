@@ -1,8 +1,12 @@
 SouCro http://www.openstreetmap.org/?lat=-37.818311&lon=144.952326
++X748685 http://www.openstreetmap.org/?lat=-37.814933&lon=144.950277
 +X281228 http://www.openstreetmap.org/?lat=-37.809155&lon=144.943941
 +DIV_Alb http://www.openstreetmap.org/?lat=-37.807432&lon=144.940417
++DIV_SK http://www.openstreetmap.org/?lat=-37.802182&lon=144.934613
 +X692931 http://www.openstreetmap.org/?lat=-37.800902&lon=144.932215
++X209473 http://www.openstreetmap.org/?lat=-37.798160&lon=144.913788
 +X991787 http://www.openstreetmap.org/?lat=-37.798253&lon=144.910119
++X750160 http://www.openstreetmap.org/?lat=-37.798635&lon=144.908246
 Foo +FSY http://www.openstreetmap.org/?lat=-37.801481&lon=144.902426
 +X351981 http://www.openstreetmap.org/?lat=-37.802600&lon=144.899138
 +X735086 http://www.openstreetmap.org/?lat=-37.802666&lon=144.891381
@@ -17,7 +21,7 @@ Foo +FSY http://www.openstreetmap.org/?lat=-37.801481&lon=144.902426
 +SKIP_Gin http://www.openstreetmap.org/?lat=-37.759973&lon=144.811263
 +SKIP_StAlb http://www.openstreetmap.org/?lat=-37.744704&lon=144.799740
 +SKIP_KeiPla http://www.openstreetmap.org/?lat=-37.729576&lon=144.793818
-+SKIP_Wat http://www.openstreetmap.org/?lat=-37.700779&lon=144.773819
+Wat http://www.openstreetmap.org/?lat=-37.700779&lon=144.773819
 +SKIP_DigRest http://www.openstreetmap.org/?lat=-37.627637&lon=144.720004
 +X661495 http://www.openstreetmap.org/?lat=-37.594440&lon=144.718437
 Sun http://www.openstreetmap.org/?lat=-37.579247&lon=144.727921
