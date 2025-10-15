@@ -1,0 +1,24 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+ocetr;AUS-WA;IndPac;;;Journey Beyond: Indian Pacific;auswa.indpac;
+ocetr;AUS-SA;IndPac;;;Journey Beyond: Indian Pacific;aussa.indpac;
+ocetr;AUS-NSW;IndPac;;;Journey Beyond: Indian Pacific;ausnsw.indpac;
+ocetr;AUS-SA;Ghan;;;Journey Beyond: The Ghan;aussa.ghan;
+ocetr;AUS-NT;Ghan;;;Journey Beyond: The Ghan;ausnt.ghan;
+ocetr;AUS-VIC;Ove;;;Journey Beyond: The Overland;ausvic.ove;
+ocetr;AUS-SA;Ove;;;Journey Beyond: The Overland;aussa.ove;
+ocetr;AUS-SA;GtSou;;;Journey Beyond: Great Southern;aussa.gtsou;
+ocetr;AUS-VIC;GtSou;;;Journey Beyond: Great Southern;ausvic.gtsou;
+ocetr;AUS-NSW;GtSou;;;Journey Beyond: Great Southern;ausnsw.gtsou;
+ocetr;AUS-QLD;GtSou;;;Journey Beyond: Great Southern;ausqld.gtsou;
+ocetr;AUS-NSW;ByrBayTrn;;;Byron Bay Train;ausnsw;byrbaytrn;
+ocetr;AUS-NSW;CooMonRwy;;;Cooma Monaro Railway;ausnsw.coomonrwy;
+ocetr;AUS-QLD;Gul;;;Gulflander;ausqld.sav;
+ocetr;AUS-NSW;KatSceRwy;;;Katoomba Scenic Railway;ausnsw.katscerwy;
+ocetr;AUS-QLD;KurSceRwy;;;Kuranda Scenic Railway;ausqld.kurscerwy;
+ocetr;AUS-NSW;NSWRailMus;;;NSW Rail Museum, Thirlmere;ausnsw.nswrailmus;
+ocetr;AUS-NSW;RicValeMus;;;Richmond Vale Rail Museum;ausnsw.ricvalemus;
+ocetr;AUS-QLD;Sav;;;Savannahlander;ausqld.sav;
+ocetr;AUS-NSW;SydTraMus;;;Sydney Tramway Museum;ausnsw.sydtramus;
+ocetr;AUS-NSW;ZigZagRwy;;;Zig Zag Railway;ausnsw;zigzagrwy;
+
+
