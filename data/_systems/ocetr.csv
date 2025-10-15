@@ -10,7 +10,7 @@ ocetr;AUS-SA;GtSou;;;Journey Beyond: Great Southern;aussa.gtsou;
 ocetr;AUS-VIC;GtSou;;;Journey Beyond: Great Southern;ausvic.gtsou;
 ocetr;AUS-NSW;GtSou;;;Journey Beyond: Great Southern;ausnsw.gtsou;
 ocetr;AUS-QLD;GtSou;;;Journey Beyond: Great Southern;ausqld.gtsou;
-ocetr;AUS-NSW;ByrBayTrn;;;Byron Bay Train;ausnsw;byrbaytrn;
+ocetr;AUS-NSW;ByrBayTrn;;;Byron Bay Train;ausnsw.byrbaytrn;
 ocetr;AUS-NSW;CooMonRwy;;;Cooma Monaro Railway;ausnsw.coomonrwy;
 ocetr;AUS-QLD;Gul;;;Gulflander;ausqld.sav;
 ocetr;AUS-NSW;KatSceRwy;;;Katoomba Scenic Railway;ausnsw.katscerwy;
@@ -19,6 +19,6 @@ ocetr;AUS-NSW;NSWRailMus;;;NSW Rail Museum, Thirlmere;ausnsw.nswrailmus;
 ocetr;AUS-NSW;RicValeMus;;;Richmond Vale Rail Museum;ausnsw.ricvalemus;
 ocetr;AUS-QLD;Sav;;;Savannahlander;ausqld.sav;
 ocetr;AUS-NSW;SydTraMus;;;Sydney Tramway Museum;ausnsw.sydtramus;
-ocetr;AUS-NSW;ZigZagRwy;;;Zig Zag Railway;ausnsw;zigzagrwy;
+ocetr;AUS-NSW;ZigZagRwy;;;Zig Zag Railway;ausnsw.zigzagrwy;
 
 
