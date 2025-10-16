@@ -21,7 +21,7 @@ Ard http://www.openstreetmap.org/?lat=-37.801261&lon=144.941050
 +X998558 http://www.openstreetmap.org/?lat=-37.797850&lon=144.913573
 +X521402 http://www.openstreetmap.org/?lat=-37.798021&lon=144.910709
 +X992065 http://www.openstreetmap.org/?lat=-37.798563&lon=144.908134
-Foo +FSY http://www.openstreetmap.org/?lat=-37.801481&lon=144.902426
+Foo http://www.openstreetmap.org/?lat=-37.801481&lon=144.902426
 +X893673 http://www.openstreetmap.org/?lat=-37.802451&lon=144.899583
 MidFoo http://www.openstreetmap.org/?lat=-37.802532&lon=144.891397
 WestFoo http://www.openstreetmap.org/?lat=-37.801727&lon=144.883876
