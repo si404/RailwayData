@@ -1,4 +1,4 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-espsfm;ESP-IB;T1;;;;espib.t1;M2
+espsfm;ESP-IB;T1;;;;espib.t1;
 espsfm;ESP-IB;T2;;;;espib.t2;
 espsfm;ESP-IB;T3;;;;espib.t3;
