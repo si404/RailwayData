@@ -1,5 +1,7 @@
 Foo http://www.openstreetmap.org/?lat=-37.801481&lon=144.902426
-+X103309 http://www.openstreetmap.org/?lat=-37.797997&lon=144.911041
++X992065 http://www.openstreetmap.org/?lat=-37.798563&lon=144.908134
++X521402 http://www.openstreetmap.org/?lat=-37.798021&lon=144.910709
++X998558 http://www.openstreetmap.org/?lat=-37.797850&lon=144.913573
 +DIV_LpN http://www.openstreetmap.org/?lat=-37.798802&lon=144.920601
 Ard http://www.openstreetmap.org/?lat=-37.801261&lon=144.941050
 +X752402 http://www.openstreetmap.org/?lat=-37.799586&lon=144.954321
@@ -12,7 +14,7 @@ TownHall http://www.openstreetmap.org/?lat=-37.816810&lon=144.967153
 Anz http://www.openstreetmap.org/?lat=-37.833370&lon=144.972732
 +X950259 http://www.openstreetmap.org/?lat=-37.837827&lon=144.979384
 +X844817 http://www.openstreetmap.org/?lat=-37.839797&lon=144.991572
-+DIV_LpS http://www.openstreetmap.org/?lat=-37.841347&lon=144.993922
++DIV_Tar http://www.openstreetmap.org/?lat=-37.841347&lon=144.993922
 +SKIP_Haw http://www.openstreetmap.org/?lat=-37.844605&lon=145.001915
 +X509370 http://www.openstreetmap.org/?lat=-37.846602&lon=145.007316
 +SKIP_Too http://www.openstreetmap.org/?lat=-37.850108&lon=145.013148

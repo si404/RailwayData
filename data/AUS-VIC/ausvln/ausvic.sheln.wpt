@@ -1,6 +1,8 @@
 SouCro http://www.openstreetmap.org/?lat=-37.818311&lon=144.952326
-+SKIP_NorMel http://www.openstreetmap.org/?lat=-37.807622&lon=144.942359
-+DIV_Wer http://www.openstreetmap.org/?lat=-37.805885&lon=144.940795
++X687551 http://www.openstreetmap.org/?lat=-37.816406&lon=144.949901
++X599080 http://www.openstreetmap.org/?lat=-37.807747&lon=144.941924
++X155033 http://www.openstreetmap.org/?lat=-37.805798&lon=144.940369
++DIV_SK http://www.openstreetmap.org/?lat=-37.802182&lon=144.934613
 +X955155 http://www.openstreetmap.org/?lat=-37.801725&lon=144.934092
 +DIV_Cra http://www.openstreetmap.org/?lat=-37.795428&lon=144.931040
 +SKIP_Ken http://www.openstreetmap.org/?lat=-37.793927&lon=144.930557
@@ -19,7 +21,7 @@ SouCro http://www.openstreetmap.org/?lat=-37.818311&lon=144.952326
 Brom http://www.openstreetmap.org/?lat=-37.683073&lon=144.919689
 +SKIP_Coo http://www.openstreetmap.org/?lat=-37.661240&lon=144.926016
 +SKIP_RoxPark http://www.openstreetmap.org/?lat=-37.638164&lon=144.935431
-Cra http://www.openstreetmap.org/?lat=-37.602294&lon=144.943174
++SKIP_Cra http://www.openstreetmap.org/?lat=-37.602294&lon=144.943174
 Don http://www.openstreetmap.org/?lat=-37.541978&lon=144.970222
 +X724359 http://www.openstreetmap.org/?lat=-37.482312&lon=144.993734
 Wal http://www.openstreetmap.org/?lat=-37.416911&lon=145.005305
@@ -33,7 +35,7 @@ KilEast http://www.openstreetmap.org/?lat=-37.293669&lon=144.983557
 Brof http://www.openstreetmap.org/?lat=-37.207619&lon=145.042470
 +X920834 http://www.openstreetmap.org/?lat=-37.196992&lon=145.067859
 +X118908 http://www.openstreetmap.org/?lat=-37.135340&lon=145.074769
-Tal http://www.openstreetmap.org/?lat=-37.092358&lon=145.102822
++SKIP_Tal http://www.openstreetmap.org/?lat=-37.092358&lon=145.102822
 +X189737 http://www.openstreetmap.org/?lat=-37.050816&lon=145.115452
 Sey http://www.openstreetmap.org/?lat=-37.024475&lon=145.138471
 +X923493 http://www.openstreetmap.org/?lat=-36.934671&lon=145.176773
