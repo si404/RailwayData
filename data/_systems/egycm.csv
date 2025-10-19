@@ -1,0 +1,5 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+egycm;EGY;M1;;;Cairo Metro Blue Line;egy.m01;
+egycm;EGY;M2;;;Cairo Metro Red Line;egy.m02;
+egycm;EGY;M3;;;Cairo Metro Green Line;egy.m03;
+egycm;EGY;M3;;Moh;Cairo Metro Green Line (El Mohandesin branch);egy.m03moh;
