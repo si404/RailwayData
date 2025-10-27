@@ -19,7 +19,6 @@ SouCen http://www.openstreetmap.org/?lat=50.907491&lon=-1.414275
 +SKIP_StDen http://www.openstreetmap.org/?lat=50.922265&lon=-1.387839
 +SKIP_Swa http://www.openstreetmap.org/?lat=50.941105&lon=-1.376488
 SouAirPkwy http://www.openstreetmap.org/?lat=50.950654&lon=-1.362991
-+DIV_Bot http://www.openstreetmap.org/?lat=50.966421&lon=-1.350546
 +SKIP_Eas http://www.openstreetmap.org/?lat=50.969096&lon=-1.349859
 +DIV_TVL http://www.openstreetmap.org/?lat=50.971002&lon=-1.349430
 +SKIP_Sha http://www.openstreetmap.org/?lat=51.022205&lon=-1.327457
@@ -31,7 +30,6 @@ Win http://www.openstreetmap.org/?lat=51.067264&lon=-1.319904
 +DIV_WoE http://www.openstreetmap.org/?lat=51.253018&lon=-1.156032
 +X684544 http://www.openstreetmap.org/?lat=51.265688&lon=-1.123481
 Bas http://www.openstreetmap.org/?lat=51.268427&lon=-1.088505
-+DIV_SWML http://www.openstreetmap.org/?lat=51.268900&lon=-1.084911
 +X387397 http://www.openstreetmap.org/?lat=51.276320&lon=-1.069193
 +X175400 http://www.openstreetmap.org/?lat=51.305010&lon=-1.055417
 +SKIP_Bra http://www.openstreetmap.org/?lat=51.329955&lon=-1.060824
