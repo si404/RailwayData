@@ -7,7 +7,7 @@ LonLivSt http://www.openstreetmap.org/?lat=51.518057&lon=-0.081389
 +X691593 http://www.openstreetmap.org/?lat=51.541069&lon=-0.057646
 +SKIP_HacDow http://www.openstreetmap.org/?lat=51.548557&lon=-0.060575
 +SKIP_Cla http://www.openstreetmap.org/?lat=51.561638&lon=-0.056906
-+DIV_WeaE http://www.openstreetmap.org/?lat=51.568494&lon=-0.050554
++DIV_WeaN http://www.openstreetmap.org/?lat=51.568494&lon=-0.050554
 +DIV_Str http://www.openstreetmap.org/?lat=51.573996&lon=-0.052421
 TotHale http://www.openstreetmap.org/?lat=51.588203&lon=-0.059856
 +SKIP_NorPark http://www.openstreetmap.org/?lat=51.601933&lon=-0.053945
@@ -16,7 +16,6 @@ TotHale http://www.openstreetmap.org/?lat=51.588203&lon=-0.059856
 +SKIP_Bri http://www.openstreetmap.org/?lat=51.655559&lon=-0.030899
 +SKIP_EnfLock http://www.openstreetmap.org/?lat=51.670892&lon=-0.028625
 +SKIP_WalCro http://www.openstreetmap.org/?lat=51.685248&lon=-0.026479
-+DIV_WeaN http://www.openstreetmap.org/?lat=51.699713&lon=-0.024258
 Che http://www.openstreetmap.org/?lat=51.702686&lon=-0.023861
 Bro http://www.openstreetmap.org/?lat=51.746867&lon=-0.010600
 +DIV_NRL http://www.openstreetmap.org/?lat=51.762425&lon=0.005107
@@ -36,8 +35,9 @@ AudEnd http://www.openstreetmap.org/?lat=52.004527&lon=0.207024
 +X500846 http://www.openstreetmap.org/?lat=52.043081&lon=0.207195
 GreChe http://www.openstreetmap.org/?lat=52.059892&lon=0.193119
 WhiPkwy http://www.openstreetmap.org/?lat=52.103540&lon=0.165696
-+SKIP_She http://www.openstreetmap.org/?lat=52.149225&lon=0.139904
+She http://www.openstreetmap.org/?lat=52.149225&lon=0.139904
 +DIV_RVL http://www.openstreetmap.org/?lat=52.156966&lon=0.135098
++CamSou http://www.openstreetmap.org/?lat=52.173027&lon=0.131428
 Cam http://www.openstreetmap.org/?lat=52.194113&lon=0.137758
 +DIV_MSL http://www.openstreetmap.org/?lat=52.207160&lon=0.147114
 CamNor http://www.openstreetmap.org/?lat=52.224566&lon=0.158873
