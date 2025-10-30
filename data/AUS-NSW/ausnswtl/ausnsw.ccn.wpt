@@ -2,6 +2,7 @@ Cen http://www.openstreetmap.org/?lat=-33.882922&lon=151.207216
 +X958557 http://www.openstreetmap.org/?lat=-33.887575&lon=151.202334
 +SKIP_Red http://www.openstreetmap.org/?lat=-33.892313&lon=151.198128
 +DIV_SCO http://www.openstreetmap.org/?lat=-33.894021&lon=151.194009
++X275840 http://www.openstreetmap.org/?lat=-33.894632&lon=151.191839
 +X204696 http://www.openstreetmap.org/?lat=-33.896698&lon=151.185777
 +X139147 http://www.openstreetmap.org/?lat=-33.897698&lon=151.179573
 +X723540 http://www.openstreetmap.org/?lat=-33.894319&lon=151.163903
@@ -15,7 +16,9 @@ Cen http://www.openstreetmap.org/?lat=-33.882922&lon=151.207216
 +X691688 http://www.openstreetmap.org/?lat=-33.878942&lon=151.109841
 +X214319 http://www.openstreetmap.org/?lat=-33.877780&lon=151.107025
 +SKIP_Bur http://www.openstreetmap.org/?lat=-33.877159&lon=151.104042
++X433424 http://www.openstreetmap.org/?lat=-33.876362&lon=151.100560
 +X978954 http://www.openstreetmap.org/?lat=-33.874637&lon=151.097811
++X348698 http://www.openstreetmap.org/?lat=-33.872551&lon=151.095791
 Str http://www.openstreetmap.org/?lat=-33.871747&lon=151.094252
 +DIV_BMT http://www.openstreetmap.org/?lat=-33.869890&lon=151.092310
 +DIV_T9 http://www.openstreetmap.org/?lat=-33.866062&lon=151.090615
@@ -77,4 +80,4 @@ Ada http://www.openstreetmap.org/?lat=-32.933794&lon=151.719990
 Bro http://www.openstreetmap.org/?lat=-32.923168&lon=151.734409
 +DIV_Hun http://www.openstreetmap.org/?lat=-32.915594&lon=151.744516
 Ham http://www.openstreetmap.org/?lat=-32.918629&lon=151.748743
-NewInt http://www.openstreetmap.org/?lat=-32.924186&lon=151.759386
+NewInt http://www.openstreetmap.org/?lat=-32.924156&lon=151.759426

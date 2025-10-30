@@ -250,6 +250,7 @@ dnkkm;DNK;Københavns Metro;TMblue;3;preview
 domopret;DOM;Oficina Para el Reordenamiento del Transporte;TMblue;3;preview
 ecumq;ECU;Metro de Quito;TMblue;3;preview
 ecutc;ECU;Tranvia Cuenca;TMred;4;preview
+egycm;EGY;Cairo Metro;TMblue;3;preview
 espave;ESP;Alta Velocidad Española (AVE);TMpurple;1;preview
 espca;ESP;Cercanías Asturias;TMgreen;2;preview
 espcc;ESP;Cercanías Cádiz;TMgreen;2;preview
@@ -341,24 +342,24 @@ frast;FRA;Strasbourg Tramway;TMred;4;preview
 fratot;FRA;Tours Tramway;TMred;4;preview
 fratt;FRA;Toulouse Tramway;TMred;4;preview
 fravt;FRA;Valenciennes Tramway;TMred;4;preview
+gbnsx;GBR;(Great British Railways) Stansted Express;TMpurple;1;preview
 gbngr;GBR;(National Rail) London North Eastern Railway;TMpurple;1;preview
 gbnxc;GBR;(National Rail) CrossCountry;TMpurple;1;preview
 gbngx;GBR;(National Rail) Gatwick Express;TMpurple;1;preview
-gbnsx;GBR;(National Rail) Stansted Express;TMpurple;1;preview
 gbnvt;GBR;(National Rail) Avanti West Coast;TMpurple;1;preview
 gbncs;GBR;(National Rail) Caledonian Sleeper;TMpurple;1;preview
 gbngc;GBR;(National Rail (OA)) Great Central;TMpurple;1;preview
 gbnht;GBR;(National Rail (OA)) Hull Trains;TMpurple;1;preview
 gbnhx;GBR;(National Rail (OA)) Heathrow Express;TMpurple;1;preview
 gbnld;GBR;(National Rail (OA)) Lumo;TMpurple;1;preview
+gbncc;GBR;(Great British Railways) c2c;TMgreen;2;preview
+gbnle;GBR;(Great British Railways) Greater Anglia;TMgreen;2;preview
 gbnse;GBR;(Great British Railways) Southeastern;TMgreen;2;preview
 gbnsw;GBR;(Great British Railways) South Western Railway;TMgreen;2;preview
-gbncc;GBR;(Great British Railways) c2c;TMgreen;2;preview
 gbnch;GBR;(National Rail) Chiltern Railways;TMgreen;2;preview
 gbnem;GBR;(National Rail) East Midlands Railway;TMgreen;2;preview
 gbngn;GBR;(National Rail) Great Northern;TMgreen;2;preview
 gbngw;GBR;(National Rail) Great Western Railway;TMgreen;2;preview
-gbnle;GBR;(National Rail) Greater Anglia;TMgreen;2;preview
 gbnln;GBR;(National Rail) London Northwestern Railway;TMgreen;2;preview
 gbnnr;GBR;(National Rail) Northern;TMgreen;2;preview
 gbnsn;GBR;(National Rail) Southern;TMgreen;2;preview
@@ -576,6 +577,7 @@ norto;NOR;Trikken i Oslo;TMred;4;preview
 nzlatm;NZL;Auckland Transport Metro;TMgreen;2;preview
 nzlkr;NZL;Kiwi Rail;TMgreen;2;preview
 nzlwm;NZL;Wellington Metrolink;TMgreen;2;preview
+ocetr;OCE;Oceania Tourist Railways;TMbrown;5;preview
 panmp;PAN;Metro de Panamá;TMblue;3;preview
 perml;PER;Metro de Lima;TMblue;3;preview
 polksl;POL;Koleje Śląskie;TMgreen;2;preview
@@ -601,6 +603,7 @@ polszt;POL;Tramwaje w Szczecinie;TMred;4;preview
 poltt;POL;Tramwaje w Toruniu;TMred;4;preview
 polwt;POL;Tramwaje w Warszawie;TMred;4;preview
 polwrt;POL;Tramwaje we Wrocławiu;TMred;4;preview
+prtcu;PRT;Urbanos de Coimbra;TMgreen;2;preview
 prtlu;PRT;Urbanos de Lisboa;TMgreen;2;preview
 prtpu;PRT;Urbanos de Porto;TMgreen;2;preview
 prtlm;PRT;Metropolitano de Lisboa;TMblue;3;preview

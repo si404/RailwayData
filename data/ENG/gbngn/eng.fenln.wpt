@@ -34,6 +34,7 @@ LonKinCro http://www.openstreetmap.org/?lat=51.531954&lon=-0.123543
 +SKIP_She http://www.openstreetmap.org/?lat=52.114359&lon=0.031071
 +SKIP_Fox http://www.openstreetmap.org/?lat=52.119208&lon=0.056820
 +DIV_WAML http://www.openstreetmap.org/?lat=52.156966&lon=0.135098
++CamSou http://www.openstreetmap.org/?lat=52.173027&lon=0.131428
 Cam http://www.openstreetmap.org/?lat=52.194113&lon=0.137758
 +DIV_MSL http://www.openstreetmap.org/?lat=52.207160&lon=0.147114
 CamNor http://www.openstreetmap.org/?lat=52.224566&lon=0.158873
