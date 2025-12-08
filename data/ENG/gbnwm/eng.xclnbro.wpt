@@ -8,7 +8,7 @@ GraHill http://www.openstreetmap.org/?lat=52.515346&lon=-1.852698
 +DIV_BCL http://www.openstreetmap.org/?lat=52.505760&lon=-1.873469
 Ast http://www.openstreetmap.org/?lat=52.504324&lon=-1.872010
 +DIV_Ast http://www.openstreetmap.org/?lat=52.503093&lon=-1.870894
-Dud http://www.openstreetmap.org/?lat=52.488517&lon=-1.871195
++SKIP_Dud http://www.openstreetmap.org/?lat=52.488517&lon=-1.871195
 +DIV_Nor http://www.openstreetmap.org/?lat=52.481480&lon=-1.880937
 +DIV_XCML http://www.openstreetmap.org/?lat=52.480813&lon=-1.884949
 BirNewSt http://www.openstreetmap.org/?lat=52.477651&lon=-1.898704
