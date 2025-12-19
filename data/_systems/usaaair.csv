@@ -17,7 +17,6 @@ usaaair;FL;GateLink;;;MCO Gate Link (Terminal A East);fl.gatelink;
 usaaair;FL;GateLink;;TAW;MCO Gate Link (Terminal A West);fl.gatelinktaw;
 usaaair;FL;GateLink;;TBE;MCO Gate Link (Terminal B East);fl.gatelinktbe;
 usaaair;FL;GateLink;;TBW;MCO Gate Link (Terminal B West);fl.gatelinktbw;
-usaaair;PA;PITTrn;;;PIT Train;pa.pittrn;
 usaaair;WA;GreLn;;;SEA Green Line;wa.grnln;
 usaaair;WA;YelLn;;;SEA Yellow Line;wa.yelln;
 usaaair;WA;BlueLn;;;SEA Blue Line;wa.blueln;
