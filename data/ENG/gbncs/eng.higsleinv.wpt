@@ -18,7 +18,7 @@ LonEus http://www.openstreetmap.org/?lat=51.528784&lon=-0.134239
 +X685280 http://www.openstreetmap.org/?lat=51.627881&lon=-0.385369
 +SKIP_Bus http://www.openstreetmap.org/?lat=51.645301&lon=-0.384929
 +X198270 http://www.openstreetmap.org/?lat=51.652763&lon=-0.384430
-WatJct http://www.openstreetmap.org/?lat=51.663725&lon=-0.395851
++SKIP_WatJct http://www.openstreetmap.org/?lat=51.663725&lon=-0.395851
 +X689768 http://www.openstreetmap.org/?lat=51.674811&lon=-0.410378
 +X115762 http://www.openstreetmap.org/?lat=51.693782&lon=-0.433311
 +X144792 http://www.openstreetmap.org/?lat=51.706379&lon=-0.438069
