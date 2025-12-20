@@ -19,7 +19,7 @@ TotHale http://www.openstreetmap.org/?lat=51.588203&lon=-0.059856
 Che http://www.openstreetmap.org/?lat=51.702686&lon=-0.023861
 Bro http://www.openstreetmap.org/?lat=51.746867&lon=-0.010600
 +DIV_NRL http://www.openstreetmap.org/?lat=51.762425&lon=0.005107
-Roy http://www.openstreetmap.org/?lat=51.775455&lon=0.035534
++SKIP_Roy http://www.openstreetmap.org/?lat=51.775455&lon=0.035534
 HarTown http://www.openstreetmap.org/?lat=51.781323&lon=0.095057
 HarMill http://www.openstreetmap.org/?lat=51.790455&lon=0.132093
 +X116361 http://www.openstreetmap.org/?lat=51.798013&lon=0.152178

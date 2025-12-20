@@ -1,0 +1,147 @@
+ORGANISATION
+
+Great British Railways timetable	https://www.gov.uk/guidance/great-british-railways
+
+GBR will be formally created about 12 months after legislation (published 2025-11-05 https://www.gov.uk/government/publications/railways-bill) passed. Unknown whether subbrands other than potential Wales one.
+
+	DfT rail passenger contracts transfer into public ownership on...
+		South Western Railway    (SW)   	25 May 2025 <- moved from NR to GBR
+		Southeastern             (SE)   	already Dft <- moved from NR to GBR as track and train merged June 2025
+		c2c                      (CC)    	20 Jul 2025 <- moved from NR to GBR
+		Greater Anglia           (LE)   	12 Oct 2025 <- moved from NR to GBR
+		West Midlands Trains     (LN, WM)	01 Feb 2026
+		Govia Thameslink Railway (TL,SN,GX,GN)	31 May 2026
+		Avanti West Coast        (VT)   	18 Oct 2026 (contract end date)
+		CrossCountry             (XC)   	15 Oct 2027 (contract end date)
+		Chiltern Railways        (CH)   	12 Dec 2027 (contract end date, planned to be next after GTR)
+		Great Western Railway    (GW)   	25 Jun 2028 (contract end date, planned to be next after GTR)
+		East Midlands Railway    (EM)   	16 Oct 2030 (contract end date, planned to be transferred before end of 2027)
+		London North Eastern Railway (GR)	already Dft
+		Northern Trains          (NT)   	already Dft
+		TransPennine Express     (TP)   	already Dft
+
+	Other operators
+		Elizabeth Line 		(XR)	regionally managed (Transport for London)	operating contract began 2025-05-25 and ends 2032-05-25 or 2034-05-25
+		London Overground	(LO)	regionally managed (Transport for London)	operating contract began 2016-05-13 and ends 2026-05-??
+		Merseyrail      	(ME)	regionally managed (Liverpool City Region)	operating contract began 2003-07-20 and ends 2028-07-20
+		Caledonian Sleeper	(CS)	regional operator (Scottish Government)
+		ScotRail        	(SR)	regional operator (Scottish Government)
+		TfW Rail        	(AW)	regional operator (Welsh Government)    	will become a devolved part of GBR?
+		Eurostar		(ES)	open access                              	staying that way
+		Grand Central   	(GC)	open access                              	contract began 2007-12-18 and ends 2026-12-??
+		Heathrow Express	(HX)	open access                              	contract began 1998-06-23 and ends 2028-??-??
+		Hull Trains     	(HT)	open access                              	contract began 2000-09-25 and ends 2032-12-??
+		Lumo            	(LD)	open access                               	contract began 2021-09-25 and ends 2031-??-??
+
+-------------------------------------------
+
+INFRASTRUCTURE
+
+South Wales Metro to come into being at some point (other than Bay line redoubling, most works done - mostly waiting on rolling stock)
+
+New Station timeline (includes stations on new tracks). Only under construction stations listed
+	Butetown        	South Wales Metro	    2025	unlikely to open then
+	Winslow         	East-West Rail  	    2025	unlikely to open then (union issues)
+	Albert Street   	West Midlands Metro	Dec 2025
+	Millennium Point	West Midlands Metro	Dec 2025
+	Kings Heath     	Camp Hill Line  	Dec 2025	not in WMT timetables
+	Moseley Village 	Camp Hill Line  	Dec 2025	not in WMT timetables
+	Pineapple Road  	Camp Hill Line  	Dec 2025	not in WMT timetables
+	Great Bridge    	West Midlands Metro	Q1  2026
+	Horseley Road   	West Midlands Metro	Q1  2026
+	Dudley Port     	West Midlands Metro	Q1  2026
+	Sedgley Road    	West Midlands Metro	Q1  2026
+	Birmingham New Road	West Midlands Metro	Q1  2026
+	Tipton Road     	West Midlands Metro	Q1  2026
+	Dudley Castle & Zoo	West Midlands Metro	Q1  2026
+	Dudley Interchange	West Midlands Metro	Q1  2026
+	Flood Street    	West Midlands Metro	Q1  2026
+	Cambridge South 	WAML/Fen Line/etc 	Q1  2026
+	Bedlington      	Northumberland Line	Q1  2026	already in browser
+	Northumberland Park	Northumberland Line	Q1  2026	already in browser
+	Magna            	Sheffield Supertram	Q1  2026
+	Darlaston		Salop Line      	Feb 2026
+	Willenhall		Salop Line      	Feb 2026
+	Balgray 		Neilston Line   	Q3  2026
+	North Filton    	Filton Line		    2026
+	Okehampton Interchange	Dartmoor Line		    2026
+	White Rose      	Huddersfield Line	    2027
+	Pill            	Portishead Line 	    2027
+	Portishead      	Portishead Line 	    2027
+	Gold's Hill     	West Midlands Metro	    2027
+	Cinder Bank     	West Midlands Metro	    2027
+	Pedmore Road    	West Midlands Metro	    2027
+	Canal Street    	West Midlands Metro	    2027
+	Waterfront Merry Hill	West Midlands Metro	    2027
+	MerryHillShoppingCentre	West Midlands Metro	    2027
+	Brierley Hill   	West Midlands Metro	    2027
+	Curzon Street   	West Midlands Metro	      ??
+	High Street Deritend   	West Midlands Metro	      ??
+	Old Oak Common  	High Speed 2     	      ??
+	Interchange     	High Speed 2    	      ??
+	Birmingham CurzonStreet	High Speed 2    	      ??
+	Wixhams         	Thameslink      	paused for rethink due to Universal Park meaning it will need to be bigger
+
+Huddersfield area remodelling (Ravensthorpe station moved) due to be finished 2028
+
+---------------------------------------------
+
+OPERATIONS
+
+DEC 25 Timetable change
+
+https://www.nationalrail.co.uk/travel-information/timetable-changes/
+
+	SE	no relevant changes
+	SN	no relevant changes
+	GX	no relevant changes
+	TL	no relevant changes
+	GN	no relevant changes
+	SW	no relevant changes
+	GW	info not yet up
+	HX	no relevant changes
+	CH	info not yet up
+	LN	no relevant changes
+	WM	Redditch - Four Oaks won't call at Duddeston, Bromsgrove - Lichfield TV will call at Duddeston (done)
+	EM	info not yet up
+	LE	info not yet up
+	CC	info not yet up
+	XR	no relevant changes
+	LO	info not yet up
+
+	VT	info not yet up
+
+	XC	frequencies increased, more info coming
+
+	GR	big recast (done)
+	GC
+	HT
+	LD	some services extend to Glasgow Queen Street
+
+	AW
+	ME
+	NR	new Leeds - Sheffield via Wakefield Westgate fast service
+		
+		Carlisle - Newcastle stopper linked to Newcastle - Middlesbrough semi-fast
+		Hexham - Newcastle service now stand alone
+		Newcastle - Morpeth/Chathill now stand alone
+		Carlisle - Newcastle semi-fast now stand alone
+		Newcastle - Nunthorpe stopper now 
+		more calls at Brampton, Bardon Mill and Wetheral
+		
+	TP	borders service to 2-hourly (no change)
+	SR
+	CS	Highland Sleeper to call at Birmingham International (done)
+
+
+	EMR	Barton Line truncated to Grimsby Town
+		Castle Line (needs rename) truncated at north end to Nottingham
+		North Staffordshire Line extended to Lincoln
+		Derwent Valley Line extended to Cleethorpes
+		Imps Line reduced to a low enough frequency that I can kill it (as LNER cover trackage)
+
+
+
+
+
+	
