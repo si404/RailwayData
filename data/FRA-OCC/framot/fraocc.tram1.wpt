@@ -10,11 +10,12 @@ ChaO http://www.openstreetmap.org/?lat=43.631606&lon=3.843048
 Occ http://www.openstreetmap.org/?lat=43.634751&lon=3.848369
 HopLap http://www.openstreetmap.org/?lat=43.631668&lon=3.852575
 UniSciLet http://www.openstreetmap.org/?lat=43.629145&lon=3.861609
-StEloi http://www.openstreetmap.org/?lat=43.626978&lon=3.865771
+StEloi http://www.openstreetmap.org/?lat=43.627032&lon=3.865653
++DIV_5 http://www.openstreetmap.org/?lat=43.626712&lon=3.866179
 Bou http://www.openstreetmap.org/?lat=43.622621&lon=3.868110
 StaPhi http://www.openstreetmap.org/?lat=43.618955&lon=3.869505
 PlaAlbStCha http://www.openstreetmap.org/?lat=43.616472&lon=3.874118
-+DIV_4W http://www.openstreetmap.org/?lat=43.615337&lon=3.874730
++DIV_45 http://www.openstreetmap.org/?lat=43.615530&lon=3.874349
 LouBla http://www.openstreetmap.org/?lat=43.614739&lon=3.878115
 Cor http://www.openstreetmap.org/?lat=43.614390&lon=3.882047
 +DIV_24 http://www.openstreetmap.org/?lat=43.614502&lon=3.882578
@@ -36,3 +37,4 @@ Mon98 http://www.openstreetmap.org/?lat=43.602747&lon=3.904073
 Mil http://www.openstreetmap.org/?lat=43.603384&lon=3.909931
 PlaFra http://www.openstreetmap.org/?lat=43.603726&lon=3.915725
 Ody http://www.openstreetmap.org/?lat=43.603835&lon=3.920338
+GareSudFra http://www.openstreetmap.org/?lat=43.595016&lon=3.923879

@@ -50,7 +50,7 @@ Biel/Bie http://www.openstreetmap.org/?lat=47.132582&lon=7.242726
 +SKIP_Leng http://www.openstreetmap.org/?lat=47.179285&lon=7.366762
 +DIV_IC51 http://www.openstreetmap.org/?lat=47.181765&lon=7.372169
 +X780833 http://www.openstreetmap.org/?lat=47.187336&lon=7.385130
-GreSud http://www.openstreetmap.org/?lat=47.188692&lon=7.398262
++SKIP_GreSud http://www.openstreetmap.org/?lat=47.188692&lon=7.398262
 +SKIP_Sel http://www.openstreetmap.org/?lat=47.200590&lon=7.456713
 +SKIP_SolAll http://www.openstreetmap.org/?lat=47.208804&lon=7.521493
 +DIV_S21 http://www.openstreetmap.org/?lat=47.208236&lon=7.529047

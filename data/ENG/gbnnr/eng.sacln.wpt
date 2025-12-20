@@ -18,12 +18,12 @@ Kei http://www.openstreetmap.org/?lat=53.867978&lon=-1.901364
 +SKIP_Con http://www.openstreetmap.org/?lat=53.917193&lon=-2.011871
 Ski http://www.openstreetmap.org/?lat=53.958295&lon=-2.025733
 +X286468 http://www.openstreetmap.org/?lat=53.956300&lon=-2.042041
-Garg http://www.openstreetmap.org/?lat=53.978288&lon=-2.104998
++SKIP_Gar http://www.openstreetmap.org/?lat=53.978288&lon=-2.104998
 +X916777 http://www.openstreetmap.org/?lat=53.982705&lon=-2.130961
 +X837890 http://www.openstreetmap.org/?lat=54.008097&lon=-2.162676
 +DIV_RVL http://www.openstreetmap.org/?lat=54.009515&lon=-2.225332
 Hel http://www.openstreetmap.org/?lat=54.010612&lon=-2.227070
-LongPre http://www.openstreetmap.org/?lat=54.016683&lon=-2.255158
++SKIP_LongPre http://www.openstreetmap.org/?lat=54.016683&lon=-2.255158
 +DIV_Ben http://www.openstreetmap.org/?lat=54.042294&lon=-2.286143
 Set http://www.openstreetmap.org/?lat=54.066868&lon=-2.280779
 +X849821 http://www.openstreetmap.org/?lat=54.091038&lon=-2.271681
@@ -34,7 +34,7 @@ Rib http://www.openstreetmap.org/?lat=54.205554&lon=-2.360516
 +X633953 http://www.openstreetmap.org/?lat=54.257128&lon=-2.342234
 Dent http://www.openstreetmap.org/?lat=54.282540&lon=-2.363605
 +X841937 http://www.openstreetmap.org/?lat=54.303880&lon=-2.356997
-Gars http://www.openstreetmap.org/?lat=54.321354&lon=-2.326441
+Gar http://www.openstreetmap.org/?lat=54.321354&lon=-2.326441
 +X899652 http://www.openstreetmap.org/?lat=54.330564&lon=-2.318373
 +X973203 http://www.openstreetmap.org/?lat=54.372684&lon=-2.351074
 +X544922 http://www.openstreetmap.org/?lat=54.400573&lon=-2.343864

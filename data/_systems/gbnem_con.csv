@@ -3,9 +3,8 @@ gbnem;MML;;EMR Intercity: Midland Mainline (Sheffield);eng.mmlshe
 gbnem;MML;;EMR Intercity: Midland Mainline (Nottingham);eng.mmlnot
 gbnem;LutAirExp;;EMR Connect: Luton Airport Express;eng.lutairexp
 gbnem;BarLn;;EMR Regional: Barton Line;eng.barln
-gbnem;CasLn;;EMR Regional: Castle Line;eng.casln
 gbnem;DerVlyLn;;EMR Regional: Derwent Valley Line;eng.dervlyln
-gbnem;ImpsLn;;EMR Regional: Imps Line;eng.impsln
+gbnem;IviLn;;EMR Regional: Ivinghoe Line;eng.iviln
 gbnem;LivNorLn;;EMR Regional: Liverpool-Norwich Line;eng.livnorln
 gbnem;NorStaLn;;EMR Regional: North Staffordshire Line;eng.norstaln
 gbnem;PoaLn;;EMR Regional: Poacher Line;eng.poaln

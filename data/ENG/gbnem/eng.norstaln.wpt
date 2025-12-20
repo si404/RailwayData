@@ -5,11 +5,11 @@ Als http://www.openstreetmap.org/?lat=53.093051&lon=-2.298803
 +X519685 http://www.openstreetmap.org/?lat=53.093476&lon=-2.268527
 Kid http://www.openstreetmap.org/?lat=53.086173&lon=-2.244591
 +X702864 http://www.openstreetmap.org/?lat=53.068677&lon=-2.242670
-Lonp http://www.openstreetmap.org/?lat=53.041961&lon=-2.216578
++SKIP_Lon http://www.openstreetmap.org/?lat=53.041961&lon=-2.216578
 +X110075 http://www.openstreetmap.org/?lat=53.019204&lon=-2.201385
 StoTre http://www.openstreetmap.org/?lat=53.007844&lon=-2.180915
 +DIV_WCML http://www.openstreetmap.org/?lat=53.001491&lon=-2.176323
-Lont http://www.openstreetmap.org/?lat=52.990178&lon=-2.137699
+Lon http://www.openstreetmap.org/?lat=52.990178&lon=-2.137699
 BlyBri http://www.openstreetmap.org/?lat=52.967743&lon=-2.066717
 +X109529 http://www.openstreetmap.org/?lat=52.912318&lon=-1.964149
 +X495253 http://www.openstreetmap.org/?lat=52.904657&lon=-1.928101
@@ -23,7 +23,7 @@ Pea http://www.openstreetmap.org/?lat=52.897603&lon=-1.472340
 +DIV_MMLN http://www.openstreetmap.org/?lat=52.913476&lon=-1.462405
 Der http://www.openstreetmap.org/?lat=52.916219&lon=-1.462662
 +DIV_XCMLN http://www.openstreetmap.org/?lat=52.913476&lon=-1.462405
-Spo http://www.openstreetmap.org/?lat=52.912066&lon=-1.410778
++SKIP_Spo http://www.openstreetmap.org/?lat=52.912066&lon=-1.410778
 LongEat http://www.openstreetmap.org/?lat=52.884987&lon=-1.287289
 +DIV_MMLS http://www.openstreetmap.org/?lat=52.880656&lon=-1.268835
 Att http://www.openstreetmap.org/?lat=52.906404&lon=-1.231155
@@ -41,3 +41,11 @@ Fis http://www.openstreetmap.org/?lat=53.060480&lon=-0.912166
 Rol http://www.openstreetmap.org/?lat=53.065164&lon=-0.900192
 +X676580 http://www.openstreetmap.org/?lat=53.074975&lon=-0.870237
 NewCas http://www.openstreetmap.org/?lat=53.080234&lon=-0.813160
++DIV_Imps http://www.openstreetmap.org/?lat=53.091466&lon=-0.804148
++SKIP_Col http://www.openstreetmap.org/?lat=53.144003&lon=-0.750289
++SKIP_Swi http://www.openstreetmap.org/?lat=53.169479&lon=-0.702567
++X618374 http://www.openstreetmap.org/?lat=53.185323&lon=-0.668664
+Hyk http://www.openstreetmap.org/?lat=53.195094&lon=-0.600085
++X576525 http://www.openstreetmap.org/?lat=53.221773&lon=-0.559230
++DIV_Rom http://www.openstreetmap.org/?lat=53.230714&lon=-0.559101
+LinCen http://www.openstreetmap.org/?lat=53.226064&lon=-0.539703

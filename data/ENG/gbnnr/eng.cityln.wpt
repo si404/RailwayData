@@ -32,5 +32,5 @@ KirWes http://www.openstreetmap.org/?lat=53.786956&lon=-2.883525
 +DIV_SFL http://www.openstreetmap.org/?lat=53.788198&lon=-2.894125
 +X572912 http://www.openstreetmap.org/?lat=53.798116&lon=-2.938242
 PouFyl http://www.openstreetmap.org/?lat=53.848350&lon=-2.989912
-Lay http://www.openstreetmap.org/?lat=53.835335&lon=-3.029909
++SKIP_Lay http://www.openstreetmap.org/?lat=53.835335&lon=-3.029909
 BlaNor http://www.openstreetmap.org/?lat=53.822715&lon=-3.048599

@@ -27,10 +27,10 @@ ManVic http://www.openstreetmap.org/?lat=53.488052&lon=-2.242563
 +SKIP_Cas http://www.openstreetmap.org/?lat=53.592683&lon=-2.177696
 Roc http://www.openstreetmap.org/?lat=53.610318&lon=-2.153406
 +X819748 http://www.openstreetmap.org/?lat=53.614133&lon=-2.142667
-SmiBri http://www.openstreetmap.org/?lat=53.632870&lon=-2.114010
-Lit http://www.openstreetmap.org/?lat=53.642768&lon=-2.094998
++SKIP_SmiBri http://www.openstreetmap.org/?lat=53.632870&lon=-2.114010
++SKIP_Lit http://www.openstreetmap.org/?lat=53.642768&lon=-2.094998
 +X841165 http://www.openstreetmap.org/?lat=53.657381&lon=-2.083025
-Wal http://www.openstreetmap.org/?lat=53.696459&lon=-2.104654
++SKIP_Wal http://www.openstreetmap.org/?lat=53.696459&lon=-2.104654
 Tod http://www.openstreetmap.org/?lat=53.713847&lon=-2.099762
 +DIV_CVLRos http://www.openstreetmap.org/?lat=53.716444&lon=-2.092466
 +X321563 http://www.openstreetmap.org/?lat=53.720304&lon=-2.062254

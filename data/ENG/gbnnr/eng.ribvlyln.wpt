@@ -39,7 +39,7 @@ Clit http://www.openstreetmap.org/?lat=53.873532&lon=-2.394333
 +X193828 http://www.openstreetmap.org/?lat=53.985847&lon=-2.211170
 +DIV_BenSCL http://www.openstreetmap.org/?lat=54.009515&lon=-2.225332
 Hel http://www.openstreetmap.org/?lat=54.010612&lon=-2.227070
-LongPre http://www.openstreetmap.org/?lat=54.016683&lon=-2.255158
++SKIP_LongPre http://www.openstreetmap.org/?lat=54.016683&lon=-2.255158
 +DIV_Ben http://www.openstreetmap.org/?lat=54.042294&lon=-2.286143
 Set http://www.openstreetmap.org/?lat=54.066868&lon=-2.280779
 +X849821 http://www.openstreetmap.org/?lat=54.091038&lon=-2.271681

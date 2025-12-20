@@ -88,7 +88,7 @@ Cre http://www.openstreetmap.org/?lat=53.088986&lon=-2.432528
 Run http://www.openstreetmap.org/?lat=53.338676&lon=-2.739458
 +X451393 http://www.openstreetmap.org/?lat=53.354663&lon=-2.741432
 +X918647 http://www.openstreetmap.org/?lat=53.353190&lon=-2.876101
-+SKIP_LivSouPkwy http://www.openstreetmap.org/?lat=53.357698&lon=-2.889404
+LivSouPkwy http://www.openstreetmap.org/?lat=53.357698&lon=-2.889404
 +SKIP_WestAll http://www.openstreetmap.org/?lat=53.369465&lon=-2.907343
 +SKIP_MosHill http://www.openstreetmap.org/?lat=53.378554&lon=-2.914853
 +DIV_TPNR http://www.openstreetmap.org/?lat=53.403769&lon=-2.935710

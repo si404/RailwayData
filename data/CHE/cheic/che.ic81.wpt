@@ -88,7 +88,7 @@ ZurHau http://www.openstreetmap.org/?lat=47.378062&lon=8.539424
 +DIV_S24N http://www.openstreetmap.org/?lat=47.403832&lon=8.535519
 +DIV_S6 http://www.openstreetmap.org/?lat=47.405753&lon=8.536484
 +X635147 http://www.openstreetmap.org/?lat=47.409372&lon=8.539295
-ZurOer http://www.openstreetmap.org/?lat=47.411801&lon=8.544027
++SKIP_ZurOer http://www.openstreetmap.org/?lat=47.411801&lon=8.544027
 +X625525 http://www.openstreetmap.org/?lat=47.413315&lon=8.546913
 +DIV_S21 http://www.openstreetmap.org/?lat=47.416175&lon=8.549595
 +DIV_S3 http://www.openstreetmap.org/?lat=47.425598&lon=8.558307
