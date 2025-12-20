@@ -36,7 +36,7 @@ HebBri http://www.openstreetmap.org/?lat=53.737639&lon=-2.008953
 +SKIP_Myt http://www.openstreetmap.org/?lat=53.729096&lon=-1.981702
 +X396153 http://www.openstreetmap.org/?lat=53.727109&lon=-1.955652
 +X451703 http://www.openstreetmap.org/?lat=53.712990&lon=-1.939774
-SowBri http://www.openstreetmap.org/?lat=53.707878&lon=-1.906943
++SKIP_SowBri http://www.openstreetmap.org/?lat=53.707878&lon=-1.906943
 +DIV_AthHud http://www.openstreetmap.org/?lat=53.697621&lon=-1.862612
 Hal http://www.openstreetmap.org/?lat=53.720819&lon=-1.853642
 +X106043 http://www.openstreetmap.org/?lat=53.728246&lon=-1.831391
