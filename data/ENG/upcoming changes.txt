@@ -87,61 +87,7 @@ Huddersfield area remodelling (Ravensthorpe station moved) due to be finished 20
 ---------------------------------------------
 
 OPERATIONS
-
-DEC 25 Timetable change
-
-https://www.nationalrail.co.uk/travel-information/timetable-changes/
-
-	SE	no relevant changes
-	SN	no relevant changes
-	GX	no relevant changes
-	TL	no relevant changes
-	GN	no relevant changes
-	SW	no relevant changes
-	GW	info not yet up
-	HX	no relevant changes
-	CH	info not yet up
-	LN	no relevant changes
-	WM	Redditch - Four Oaks won't call at Duddeston, Bromsgrove - Lichfield TV will call at Duddeston (done)
-	EM	info not yet up
-	LE	info not yet up
-	CC	info not yet up
-	XR	no relevant changes
-	LO	info not yet up
-
-	VT	info not yet up
-
-	XC	frequencies increased, more info coming
-
-	GR	big recast (done)
-	GC
-	HT
-	LD	some services extend to Glasgow Queen Street
-
-	AW
-	ME
-	NR	new Leeds - Sheffield via Wakefield Westgate fast service
-		
-		Carlisle - Newcastle stopper linked to Newcastle - Middlesbrough semi-fast
-		Hexham - Newcastle service now stand alone
-		Newcastle - Morpeth/Chathill now stand alone
-		Carlisle - Newcastle semi-fast now stand alone
-		Newcastle - Nunthorpe stopper now 
-		more calls at Brampton, Bardon Mill and Wetheral
-		
-	TP	borders service to 2-hourly (no change)
-	SR
-	CS	Highland Sleeper to call at Birmingham International (done)
-
-
-	EMR	Barton Line truncated to Grimsby Town
-		Castle Line (needs rename) truncated at north end to Nottingham
-		North Staffordshire Line extended to Lincoln
-		Derwent Valley Line extended to Cleethorpes
-		Imps Line reduced to a low enough frequency that I can kill it (as LNER cover trackage)
-
-
-
+May 2026 Timetable change
 
 
 	
