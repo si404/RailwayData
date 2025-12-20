@@ -5,7 +5,7 @@ Lau http://www.openstreetmap.org/?lat=44.879114&lon=-0.517881
 BoisFle http://www.openstreetmap.org/?lat=44.875951&lon=-0.519297
 Gra http://www.openstreetmap.org/?lat=44.872789&lon=-0.520155
 Iris http://www.openstreetmap.org/?lat=44.868561&lon=-0.522645
-+DIV_Flo http://www.openstreetmap.org/?lat=44.863995&lon=-0.524125
++DIV_EE http://www.openstreetmap.org/?lat=44.863995&lon=-0.524125
 But http://www.openstreetmap.org/?lat=44.864071&lon=-0.524887
 CarMaiCen http://www.openstreetmap.org/?lat=44.857736&lon=-0.531571
 CenGare http://www.openstreetmap.org/?lat=44.856397&lon=-0.533513
@@ -14,9 +14,9 @@ Gal http://www.openstreetmap.org/?lat=44.849780&lon=-0.544317
 ThiBen http://www.openstreetmap.org/?lat=44.845787&lon=-0.550786
 JarBot http://www.openstreetmap.org/?lat=44.842972&lon=-0.555367
 Sta http://www.openstreetmap.org/?lat=44.840287&lon=-0.559809
-+DIV_CDS http://www.openstreetmap.org/?lat=44.836751&lon=-0.565828
 PorBou http://www.openstreetmap.org/?lat=44.837166&lon=-0.566322
-+DIV_CDN http://www.openstreetmap.org/?lat=44.838014&lon=-0.567212
++DIV_FE http://www.openstreetmap.org/?lat=44.837656&lon=-0.566737
++DIV_EW http://www.openstreetmap.org/?lat=44.837944&lon=-0.567065
 PlaPal http://www.openstreetmap.org/?lat=44.837913&lon=-0.569272
 StCat http://www.openstreetmap.org/?lat=44.837617&lon=-0.573285
 HotVil http://www.openstreetmap.org/?lat=44.837405&lon=-0.576283
@@ -34,7 +34,7 @@ FonArl http://www.openstreetmap.org/?lat=44.826751&lon=-0.626167
 AlfVig http://www.openstreetmap.org/?lat=44.830244&lon=-0.633881
 PieMenFra http://www.openstreetmap.org/?lat=44.830137&lon=-0.639857
 QuaChe http://www.openstreetmap.org/?lat=44.832587&lon=-0.644857
-+DIV_Aer http://www.openstreetmap.org/?lat=44.832837&lon=-0.647791
++DIV_FW http://www.openstreetmap.org/?lat=44.832837&lon=-0.647791
 LycMer http://www.openstreetmap.org/?lat=44.834954&lon=-0.647453
 MerCen http://www.openstreetmap.org/?lat=44.841360&lon=-0.646874
 PinGal http://www.openstreetmap.org/?lat=44.844189&lon=-0.651305
