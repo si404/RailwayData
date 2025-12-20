@@ -41,7 +41,7 @@ Ste http://www.openstreetmap.org/?lat=51.901627&lon=-0.206938
 +X988586 http://www.openstreetmap.org/?lat=52.800816&lon=-0.529490
 +X335346 http://www.openstreetmap.org/?lat=52.857497&lon=-0.611544
 +X854915 http://www.openstreetmap.org/?lat=52.889512&lon=-0.621500
-Gra http://www.openstreetmap.org/?lat=52.906534&lon=-0.643044
++SKIP_Gra http://www.openstreetmap.org/?lat=52.906534&lon=-0.643044
 +DIV_Not http://www.openstreetmap.org/?lat=52.915469&lon=-0.648344
 +X186014 http://www.openstreetmap.org/?lat=52.967743&lon=-0.642872
 +X854511 http://www.openstreetmap.org/?lat=52.992290&lon=-0.659781

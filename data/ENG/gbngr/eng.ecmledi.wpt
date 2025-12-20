@@ -98,13 +98,12 @@ Dur http://www.openstreetmap.org/?lat=54.779925&lon=-1.581345
 +X719102 http://www.openstreetmap.org/?lat=54.892085&lon=-1.583319
 +X689059 http://www.openstreetmap.org/?lat=54.954634&lon=-1.619561
 +DIV_TVL http://www.openstreetmap.org/?lat=54.959030&lon=-1.616900
-+DIV_DCLW http://www.openstreetmap.org/?lat=54.961534&lon=-1.614347
 New http://www.openstreetmap.org/?lat=54.968226&lon=-1.616943
-+DIV_DCLE http://www.openstreetmap.org/?lat=54.968620&lon=-1.612501
++DIV_DCL http://www.openstreetmap.org/?lat=54.968620&lon=-1.612501
 +SKIP_Man http://www.openstreetmap.org/?lat=54.972678&lon=-1.605581
 +X838437 http://www.openstreetmap.org/?lat=54.983303&lon=-1.572332
 +X434384 http://www.openstreetmap.org/?lat=55.004598&lon=-1.558256
-+DIV_Nor http://www.openstreetmap.org/?lat=55.013494&lon=-1.559715
++DIV_Nor http://www.openstreetmap.org/?lat=55.013617&lon=-1.559801
 +X849095 http://www.openstreetmap.org/?lat=55.060208&lon=-1.598597
 +SKIP_Cra http://www.openstreetmap.org/?lat=55.087677&lon=-1.598682
 +X167879 http://www.openstreetmap.org/?lat=55.108598&lon=-1.651554

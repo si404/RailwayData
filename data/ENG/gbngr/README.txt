@@ -1,16 +1,14 @@
-Regular services
+December 2025 service pattern (each line in table below runs every 2-hours)
 
-
-ECML (Lincoln) | London King's Cross, Stevenage, Peterborough, Grantham, Newark Northgate, Lincoln | 1tp2h
-
-
-ECML (Leeds)
-	| London King's Cross, Peterborough, Doncaster, Wakefield Westgate, Leeds | 1tph
-	| London King's Cross, Stevenage, Grantham, Doncaster, Wakefield Westgate, Leeds | 1tp2h
-	| London King's Cross, Stevenage, Grantham, Doncaster, Wakefield Westgate, Leeds, Horsforth, Harrogate | 1tp2h
-
-ECML (Edinburgh)
-	| London King's Cross, Peterborough, York, Darlington, Newcastle, Berwick-upon-Tweed, Edinburgh
-	| London King's Cross, Peterborough, Newark Northgate, Doncaster, York, Northallerton, Darlington, Durham, Newcastle,Alnmouth, Berwick-Upon-Tweed, Edinburgh
-	| London King's Cross, Stevenage, Peterborough, Grantham, Newark Northgate, Retford, Doncaster, York | 1tp2h
-
+(edi)	Kings Cross                                                                      - York                                       - Newcastle                      - Edinburgh
+(edi)	Kings Cross                                                                      - York                                       - Newcastle                      - Edinburgh
+(edi)	Kings Cross             - Peterborough            - Newark           - Doncaster - York                 - Darlington          - Newcastle - Alnmouth           - Edinburgh
+(edi)	Kings Cross             - Peterborough            - Newark           - Doncaster - York                 - Darlington          - Newcastle            - Berwick - Edinburgh
+(edi)	Kings Cross - Stevenage                - Grantham -                              - York - Northallerton - Darlington - Durham - Newcastle
+(edi)	Kings Cross - Stevenage                - Grantham -                              - York - Northallerton - Darlington - Durham - Newcastle
+(edi)	Kings Cross             - Peterborough                     - Retford - Doncaster - York
+(lin)	Kings Cross             - Peterborough - Grantham - Newark - Lincoln
+(har)	Kings Cross             - Peterborough - Grantham                    - Doncaster - Wakefield Westgate - Leeds
+(har)	Kings Cross             - Peterborough - Grantham                    - Doncaster - Wakefield Westgate - Leeds
+(har)	Kings Cross - Stevenage                           - Newark           - Doncaster - Wakefield Westgate - Leeds - Horsforth - Harrogate
+(bra)	Kings Cross - Stevenage                           - Newark           - Doncaster - Wakefield Westgate - Leeds - Shipley - Braford FS
