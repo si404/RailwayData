@@ -1,7 +1,6 @@
 systemName;route;banner;groupName;roots
 nldre;RE1;;;nld.re01
-nldre;RE3;;;nld.re03
-nldre;RE6;;;nld.re06
+nldre;RE6;;;nld.re06,deuni.re06gro
+nldre;RE8;;;nld.re08
 nldre;RE18;;;nld.re18,deunw.re18
 nldre;RE20;;;nld.re20
-nldre;RE30;;;nld.re30

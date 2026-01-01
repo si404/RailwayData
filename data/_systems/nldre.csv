@@ -1,8 +1,8 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
 nldre;NLD;RE1;;;;nld.re01;
-nldre;NLD;RE3;;;;nld.re03;
 nldre;NLD;RE6;;;;nld.re06;
+nldre;DEU-NI;RE6;;;;deuni.re06;
+nldre;NLD;RE8;;;;nld.re08;
 nldre;NLD;RE18;;;;nld.re18;
 nldre;DEU-NW;RE18;;;;deunw.re18;
 nldre;NLD;RE20;;;;nld.re20;
-nldre;NLD;RE30;;;;nld.re30;
