@@ -5,13 +5,13 @@ PicBerg http://www.openstreetmap.org/?lat=52.510129&lon=13.227668
 OlySta http://www.openstreetmap.org/?lat=52.511252&lon=13.242817
 HeerStr http://www.openstreetmap.org/?lat=52.507857&lon=13.259838
 MesSud http://www.openstreetmap.org/?lat=52.498642&lon=13.270234
-+DIV_Mes http://www.openstreetmap.org/?lat=52.498380&lon=13.276194
++DIV_S7 http://www.openstreetmap.org/?lat=52.498380&lon=13.276194
 WestKre http://www.openstreetmap.org/?lat=52.500725&lon=13.283715
 ChaBurg http://www.openstreetmap.org/?lat=52.504729&lon=13.303810
 SavPla http://www.openstreetmap.org/?lat=52.505166&lon=13.319045
 ZooGar http://www.openstreetmap.org/?lat=52.506746&lon=13.331695
 TierGar http://www.openstreetmap.org/?lat=52.514375&lon=13.336450
-+X11 http://www.openstreetmap.org/?lat=52.519368&lon=13.341774
++X373352 http://www.openstreetmap.org/?lat=52.519368&lon=13.341774
 Bel http://www.openstreetmap.org/?lat=52.519965&lon=13.348045
 Hbf http://www.openstreetmap.org/?lat=52.524975&lon=13.369718
 +X147814 http://www.openstreetmap.org/?lat=52.524336&lon=13.375326
@@ -20,9 +20,10 @@ HacMar http://www.openstreetmap.org/?lat=52.522651&lon=13.402290
 AlePla http://www.openstreetmap.org/?lat=52.521542&lon=13.411260
 JanBru http://www.openstreetmap.org/?lat=52.514200&lon=13.419510
 OstBf http://www.openstreetmap.org/?lat=52.510508&lon=13.434992
-WarStr http://www.openstreetmap.org/?lat=52.506244&lon=13.450838
+WarStr http://www.openstreetmap.org/?lat=52.506381&lon=13.450114
 +DIV_S9 http://www.openstreetmap.org/?lat=52.504072&lon=13.464142
 OstKre +Ostkreuz http://www.openstreetmap.org/?lat=52.503168&lon=13.469560
++DIV_S5S7 http://www.openstreetmap.org/?lat=52.502564&lon=13.472704
 RumBurg http://www.openstreetmap.org/?lat=52.501274&lon=13.478390
 +X957413 http://www.openstreetmap.org/?lat=52.498560&lon=13.485847
 BetBfRumBerg http://www.openstreetmap.org/?lat=52.493860&lon=13.497734
@@ -32,6 +33,6 @@ Kop http://www.openstreetmap.org/?lat=52.458566&lon=13.581516
 HirGar http://www.openstreetmap.org/?lat=52.457899&lon=13.603102
 FriHag http://www.openstreetmap.org/?lat=52.457376&lon=13.623294
 RahDorf http://www.openstreetmap.org/?lat=52.451629&lon=13.689963
-+X67 http://www.openstreetmap.org/?lat=52.448052&lon=13.711463
++X527749 http://www.openstreetmap.org/?lat=52.448052&lon=13.711463
 WilHag http://www.openstreetmap.org/?lat=52.438498&lon=13.722310
 BE/BB http://www.openstreetmap.org/?lat=52.433154&lon=13.738210

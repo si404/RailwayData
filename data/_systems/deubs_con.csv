@@ -10,8 +10,7 @@ deubs;S25;;Berlin;deubb.s25,deube.s25,deubb.s25tet
 deubs;S26;;Berlin;deube.s26,deubb.s26
 deubs;S41;;Berlin (clockwise);deube.s41
 deubs;S42;;Berlin (counterclockwise);deube.s42
-deubs;S45;;Berlin;deube.s45,deubb.s45
 deubs;S46;;Berlin;deube.s46,deubb.s46
 deubs;S47;;Berlin;deube.s47
 deubs;S75;;Berlin;deube.s75
-deubs;S85;;Berlin;deube.s85
+deubs;S85;;Berlin;deube.s85,deubb.s85

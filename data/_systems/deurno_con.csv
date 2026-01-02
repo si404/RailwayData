@@ -11,14 +11,12 @@ deurno;RE5;;Rostock portion;deube.re05,deubb.re05,deumv.re05
 deurno;RE5;;Stralsund portion;deube.re05str,deubb.re05str,deumv.re05str
 deurno;RE6;;;deube.re06,deubb.re06
 deurno;RE7;;;deust.re07des,deubb.re07bad,deube.re07,deubb.re07
-deurno;RE8;;Berlin (north);deumv.re08,deubb.re08,deube.re08,deubb.re08flu
-deurno;RE8;;Berlin (south, Elsterwerda portion);deube.re08els,deubb.re08els
-deurno;RE8;;Berlin (south, Finsterwalde portion);deube.re08fin,deubb.re08fin
+deurno;RE8;;;deumv.re08,deubb.re08,deube.re08,deubb.re08els
 deurno;RE9;;Sassnitz portion;deumv.re09
 deurno;RE9;;Ostseebad portion;deumv.re09ost
 deurno;RE10;;Cottbus;deusn.re10,deubb.re10
 deurno;RE10;;Stralsund;deumv.re10
-deurno;RB10;;;deube.rb10,deubb.rb10
+deurno;RB10;;;deubb.rb10bla,deube.rb10,deubb.rb10
 deurno;RE11;;;deusn.re11,deubb.re11,deusn.re11hoy
 deurno;RB11;;;deumv.rb11
 deurno;RB12;;Berlin;deube.rb12,deubb.rb12
@@ -32,13 +30,13 @@ deurno;RB16;;;deumv.rb16
 deurno;RB17;;;deumv.rb17
 deurno;RB18;;;deumv.rb18
 deurno;RB19;;;deumv.rb19
+deurno;RE20;;;deube.re20,deubb.re20flu,deube.re20boh,deubb.re20
 deurno;RB20;;;deubb.rb20
 deurno;RB21;;;deubb.rb21,deube.rb21
 deurno;RB22;;;deubb.rb22,deube.rb22,deubb.rb22kon
-deurno;RB23;;Berlin;deubb.rb23,deube.rb23,deubb.rb23flu
+deurno;RB23;;Berlin;deubb.rb23,deube.rb23
 deurno;RB23;;Usedom;deumv.rb23,pol.rb23
-deurno;RB24;;Berlin;deubb.rb24,deube.rb24,deubb.rb24sch
-deurno;RB24;;Flughafen BER;deubb.rb24flu
+deurno;RB24;;Berlin;deubb.rb24,deube.rb24,deubb.rb24flu
 deurno;RB24;;Usedom;deumv.rb24
 deurno;RB25;;Berlin;deube.rb25,deubb.rb25
 deurno;RB25;;Velgast;deumv.rb25
@@ -49,8 +47,7 @@ deurno;RB27;;Gross Schonebeck portion;deube.rb27,deubb.rb27
 deurno;RB27;;Schmachten;deube.rb27sch,deubb.rb27sch
 deurno;RB28;;;deumv.rb28
 deurno;RB31;;;deumv.rb31
-deurno;RB32;;Berlin;deubb.rb32ora,deube.rb32,deubb.rb32sch
-deurno;RB32;;Flughafen BER;deubb.rb32
+deurno;RB32;;Berlin;deubb.rb32ora,deube.rb32,deubb.rb32
 deurno;RB32;;;deumv.rb32
 deurno;RB33;;;deubb.rb33
 deurno;RB34;;;deust.rb34,deubb.rb34
