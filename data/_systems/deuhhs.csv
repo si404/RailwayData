@@ -1,7 +1,7 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
 deuhhs;DEU-SH;S1;;;Wedel (Poppenbuttel branch);deush.s01;
 deuhhs;DEU-HH;S1;;;Hamburg (Poppenbuttel branch);deuhh.s01;
-deuhhs;DEU-SH;S1;;Flu;Wedel (Flughaven branch);deush.s01;
+deuhhs;DEU-SH;S1;;Flu;Wedel (Flughaven branch);deush.s01flu;
 deuhhs;DEU-HH;S1;;Flu;Hamburg (Flughaven branch);deuhh.s01flu;
 deuhhs;DEU-HH;S2;;;Hamburg;deuhh.s02;
 deuhhs;DEU-SH;S3;;;Pinneberg;deush.s03;
