@@ -22,10 +22,9 @@ deubs;DEU-BE;S26;;;Berlin;deube.s26;
 deubs;DEU-BB;S26;;;Teltow;deubb.s26;
 deubs;DEU-BE;S41;;;Berlin (clockwise);deube.s41;
 deubs;DEU-BE;S42;;;Berlin (counterclockwise);deube.s42;
-deubs;DEU-BE;S45;;;Berlin;deube.s45;
-deubs;DEU-BB;S45;;;Schönefeld;deubb.s45;
-deubs;DEU-BE;S46;;;Berlin;deube.s46;
+deubs;DEU-BE;S46;;;Berlin;deube.s46;S45
 deubs;DEU-BB;S46;;;Königs Wusterhausen;deubb.s46;
 deubs;DEU-BE;S47;;;Berlin;deube.s47;
 deubs;DEU-BE;S75;;;Berlin;deube.s75;
 deubs;DEU-BE;S85;;;Berlin;deube.s85;
+deubs;DEU-BB;S85;;;Schönefeld;deubb.s85;S45

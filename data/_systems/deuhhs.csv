@@ -1,10 +1,12 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-deuhhs;DEU-SH;S1;;;Wedel;deush.s01;
-deuhhs;DEU-HH;S1;;;Hamburg;deuhh.s01;
-deuhhs;DEU-HH;S1;;Flu;Hamburg Airport branch;deuhh.s01flu;
+deuhhs;DEU-SH;S1;;;Wedel (Poppenbuttel branch);deush.s01;
+deuhhs;DEU-HH;S1;;;Hamburg (Poppenbuttel branch);deuhh.s01;
+deuhhs;DEU-SH;S1;;Flu;Wedel (Flughaven branch);deush.s01flu;
+deuhhs;DEU-HH;S1;;Flu;Hamburg (Flughaven branch);deuhh.s01flu;
 deuhhs;DEU-HH;S2;;;Hamburg;deuhh.s02;
-deuhhs;DEU-SH;S2;;;Reinbek;deush.s02;
 deuhhs;DEU-SH;S3;;;Pinneberg;deush.s03;
 deuhhs;DEU-HH;S3;;;Hamburg;deuhh.s03;
 deuhhs;DEU-HH;S5;;;Hamburg;deuhh.s05;
 deuhhs;DEU-NI;S5;;Hor;Horneburg;deuni.s05hor;
+deuhhs;DEU-HH;S7;;;Hamburg;deuhh.s07;
+deuhhs;DEU-SH;S7;;;Reinbek;deush.s07;

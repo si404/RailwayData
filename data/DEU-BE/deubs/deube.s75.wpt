@@ -1,13 +1,14 @@
-WarStr http://www.openstreetmap.org/?lat=52.506244&lon=13.450838
+WarStr +S3 +S5 +S7 +S9 http://www.openstreetmap.org/?lat=52.506381&lon=13.450114
 +DIV_S9 http://www.openstreetmap.org/?lat=52.504072&lon=13.464142
 OstKre http://www.openstreetmap.org/?lat=52.503168&lon=13.469560
-NolPla http://www.openstreetmap.org/?lat=52.503834&lon=13.485374
++DIV_S3 S3 S5 S7 http://www.openstreetmap.org/?lat=52.502564&lon=13.472704
+NolPla +S5 +S7 http://www.openstreetmap.org/?lat=52.503533&lon=13.484554
 LicBerg http://www.openstreetmap.org/?lat=52.511095&lon=13.498700
 FriFelOst http://www.openstreetmap.org/?lat=52.514249&lon=13.519084
-+DIV_Fri http://www.openstreetmap.org/?lat=52.514367&lon=13.533010
++DIV_S5 http://www.openstreetmap.org/?lat=52.514367&lon=13.533010
 +X241669 http://www.openstreetmap.org/?lat=52.520053&lon=13.540134
 SprPfu http://www.openstreetmap.org/?lat=52.526999&lon=13.536530
-+DIV_S75 http://www.openstreetmap.org/?lat=52.531985&lon=13.535264
++DIV_S7 http://www.openstreetmap.org/?lat=52.531985&lon=13.535264
 GehSeeStr http://www.openstreetmap.org/?lat=52.556486&lon=13.524728
 HohSchHau http://www.openstreetmap.org/?lat=52.565989&lon=13.512454
 WarBerg http://www.openstreetmap.org/?lat=52.572979&lon=13.503828

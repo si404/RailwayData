@@ -6,6 +6,10 @@ GroEur http://www.openstreetmap.org/?lat=53.204606&lon=6.585703
 +SKIP_Mar http://www.openstreetmap.org/?lat=53.160835&lon=6.740541
 +SKIP_HooSap http://www.openstreetmap.org/?lat=53.159728&lon=6.770883
 +SKIP_Zui http://www.openstreetmap.org/?lat=53.159271&lon=6.866820
-+DIV_RS7 http://www.openstreetmap.org/?lat=53.160223&lon=6.875832
-Sch http://www.openstreetmap.org/?lat=53.165427&lon=6.978035
++DIV_RS5 http://www.openstreetmap.org/?lat=53.160223&lon=6.875832
++X489729 http://www.openstreetmap.org/?lat=53.169164&lon=6.966512
+Sch http://www.openstreetmap.org/?lat=53.165421&lon=6.977965
 Win http://www.openstreetmap.org/?lat=53.139215&lon=7.035584
++X842492 http://www.openstreetmap.org/?lat=53.138803&lon=7.051678
+BadNie http://www.openstreetmap.org/?lat=53.184783&lon=7.200508
+NLD/DEU http://www.openstreetmap.org/?lat=53.187560&lon=7.210293

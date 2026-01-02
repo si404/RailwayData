@@ -1,6 +1,7 @@
 systemName;route;banner;groupName;roots
-deuhhs;S1;;Hamburg;deush.s01,deuhh.s01
-deuhhs;S1;;Hamburg Airport branch;deuhh.s01flu
-deuhhs;S2;;Hamburg;deuhh.s02,deush.s02
+deuhhs;S1;;Hamburg (Poppenbuttel branch);deush.s01,deuhh.s01
+deuhhs;S1;;Hamburg (Flughaven branch);deush.s01flu,deuhh.s01flu
+deuhhs;S2;;Hamburg;deuhh.s02
 deuhhs;S3;;Hamburg;deush.s03,deuhh.s03
 deuhhs;S5;;Hamburg;deuhh.s05,deuni.s05hor
+deuhhs;S7;;Hamburg;deuhh.s07,deush.s07
