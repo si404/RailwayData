@@ -1,8 +1,8 @@
-WarStr +S3 +S5 +S7 +S9 http://www.openstreetmap.org/?lat=52.506381&lon=13.450114
+WarStr http://www.openstreetmap.org/?lat=52.506381&lon=13.450114
 +DIV_S9 http://www.openstreetmap.org/?lat=52.504072&lon=13.464142
 OstKre http://www.openstreetmap.org/?lat=52.503168&lon=13.469560
-+DIV_S3 S3 S5 S7 http://www.openstreetmap.org/?lat=52.502564&lon=13.472704
-NolPla +S5 +S7 http://www.openstreetmap.org/?lat=52.503533&lon=13.484554
++DIV_S3 http://www.openstreetmap.org/?lat=52.502564&lon=13.472704
+NolPla http://www.openstreetmap.org/?lat=52.503533&lon=13.484554
 LicBerg http://www.openstreetmap.org/?lat=52.511095&lon=13.498700
 FriFelOst http://www.openstreetmap.org/?lat=52.514249&lon=13.519084
 +DIV_S5 http://www.openstreetmap.org/?lat=52.514367&lon=13.533010

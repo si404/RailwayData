@@ -2,7 +2,7 @@ systemName;region;route;banner;abbrev;city;root;altRouteNames
 gbngw;ENG;GWML;;;Great Western Main Line;eng.gwml;
 gbngw;ENG;SWalML;;;South Wales Main Line;eng.swalml;
 gbngw;WLS;SWalML;;;South Wales Main Line;wls.swalml;
-gbngw;ENG;CorML;;;Cornish Main Line;eng.corml;DevML
+gbngw;ENG;CorML;;;Cornish Main Line;eng.corml;
 gbngw;ENG;CotLn;;;Cotswolds Line;eng.cotln;
 gbngw;ENG;OxfLn;;;Oxford Line;eng.oxfln;
 gbngw;ENG;BerHanLn;;;Berks & Hants Line;eng.berhanln;

@@ -42,8 +42,8 @@ deurno;DEU-BE;RE7;;;;deube.re07;
 deurno;DEU-BB;RE7;;;Senftenburg;deubb.re07;
 deurno;DEU-MV;RE8;;;;deumv.re08;
 deurno;DEU-BB;RE8;;;Wittenberge;deubb.re08;
-deurno;DEU-BE;RE8;;;;deube.re08;RE8Els,RE8Fin
-deurno;DEU-BB;RE8;;Els;Elsterwerda;deubb.re08els;RE8Fin
+deurno;DEU-BE;RE8;;;;deube.re08;
+deurno;DEU-BB;RE8;;Els;Elsterwerda;deubb.re08els;
 deurno;DEU-MV;RE9;;;Sassnitz;deumv.re09;
 deurno;DEU-MV;RE9;;Ost;Ostseebad;deumv.re09ost;
 deurno;DEU-SN;RE10;;;;deusn.re10;
@@ -85,7 +85,7 @@ deurno;DEU-MV;RB23;;;;deumv.rb23;
 deurno;POL;RB23;;;;pol.rb23;
 deurno;DEU-BB;RB24;;;Eberswalde;deubb.rb24;
 deurno;DEU-BE;RB24;;;;deube.rb24;
-deurno;DEU-BB;RB24;;Flu;Flughafen BER;deubb.rb24flu;RE8Flu
+deurno;DEU-BB;RB24;;Flu;Flughafen BER;deubb.rb24flu;
 deurno;DEU-MV;RB24;;;;deumv.rb24;
 deurno;DEU-BE;RB25;;;;deube.rb25;
 deurno;DEU-BB;RB25;;;;deubb.rb25;
@@ -103,7 +103,7 @@ deurno;DEU-MV;RB28;;;;deumv.rb28;
 deurno;DEU-MV;RB31;;;;deumv.rb31;
 deurno;DEU-BB;RB32;;Ora;Oranienburg;deubb.rb32ora;
 deurno;DEU-BE;RB32;;;;deube.rb32;
-deurno;DEU-BB;RB32;;;;deubb.rb32;RB23Flu
+deurno;DEU-BB;RB32;;;;deubb.rb32;
 deurno;DEU-MV;RB32;;;;deumv.rb32;
 deurno;DEU-BB;RB33;;;;deubb.rb33;
 deurno;DEU-ST;RB34;;;;deust.rb34;
