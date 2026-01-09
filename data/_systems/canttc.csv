@@ -1,4 +1,4 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-canttc;ON;1;;;Line 1 Yonge-University-Spadina;on.1;
-canttc;ON;2;;;Line 2 Bloor-Danforth;on.2;
-canttc;ON;4;;;Line 4 Sheppard;on.4;
+canttc;ON;1;;;1 Yonge-University Line;on.1;
+canttc;ON;2;;;2 Bloor-Danforth Line;on.2;
+canttc;ON;4;;;4 Sheppard Line;on.4;
