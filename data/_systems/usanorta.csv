@@ -1,6 +1,6 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
 usanorta;LA;CanCem;;;47 (Canal-Cemeteries);la.cancem;
 usanorta;LA;CanCityPark;;;48 (Canal-City Park);la.cancitypark;
-usanorta;LA;Riv;;;49 (Riverfront);la.uptriv;
+usanorta;LA;Riv;;;49 (Riverfront);la.riv;
 usanorta;LA;StCha;;;12 (St. Charles);la.stcha;
 usanorta;LA;RamLoy;;;46 (Rampart-Loyola);la.uptriv;
