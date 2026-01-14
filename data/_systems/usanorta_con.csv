@@ -1,5 +1,6 @@
 systemName;route;banner;groupName;roots
-usanorta;CanCem;;Canal-Cemeteries;la.cancem
-usanorta;CanCityPark;;Canal-City Park;la.cancitypark
-usanorta;UPTRiv;;UPT-Riverfront;la.uptriv
-usanorta;StCha;;St. Charles;la.stcha
+usanorta;CanCem;;47 (Canal-Cemeteries);la.cancem
+usanorta;CanCityPark;;48 (Canal-City Park);la.cancitypark
+usanorta;Riv;;49 (Riverfront);la.riv
+usanorta;StCha;;12 (St. Charles);la.stcha
+usanorta;RamLoy;;46 (Rampart-Loyola);la.ramloy
