@@ -5,7 +5,7 @@ LonKinCro +KinCro http://www.openstreetmap.org/?lat=51.531954&lon=-0.123543
 FinPark http://www.openstreetmap.org/?lat=51.564760&lon=-0.106344
 +SKIP_Har http://www.openstreetmap.org/?lat=51.577456&lon=-0.105186
 +SKIP_Hor http://www.openstreetmap.org/?lat=51.586363&lon=-0.111623
-+SKIP_AlePal http://www.openstreetmap.org/?lat=51.597881&lon=-0.120335
+AlePal http://www.openstreetmap.org/?lat=51.597881&lon=-0.120335
 +DIV_NCLE http://www.openstreetmap.org/?lat=51.601000&lon=-0.124068
 +SKIP_NewSou http://www.openstreetmap.org/?lat=51.614086&lon=-0.143166
 +SKIP_OakPark http://www.openstreetmap.org/?lat=51.637750&lon=-0.166297
