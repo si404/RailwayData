@@ -1,0 +1,14 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+gbnld;WLS;XCML;;Lum;Cross Country Main Line (Lumo);wls.xcmllum;
+gbnld;ENG;XCML;;Lum;Cross Country Main Line (Lumo);eng.xcmllum;
+gbnld;ENG;ECML;;Lum;East Coast Main Line (Lumo);eng.ecmllum;
+gbnld;SCT;ECML;;Lum;East Coast Main Line (Lumo);sct.ecmllum;
+gbnld;ENG;GWML;;Lum;Great Western Main Line (Lumo);eng.gwmllum;
+gbnld;ENG;SWML;;Lum;South Wales Main Line (Carmarthen);eng.swmllum;
+gbnld;WLS;SWML;;Lum;South Wales Main Line (Carmarthen);wls.swmllum;
+gbnld;ENG;SWML;;Her;South Wales Main Line (Hereford);eng.swmlher;
+gbnld;WLS;SWML;;Her;South Wales Main Line (Hereford);wls.swmlher;
+gbnld;ENG;MarLn;;Her;Marches Line (Hereford);eng.marlnher;
+gbnld;ENG;WCML;;Lum;West Coast Main Line (Stirling);eng.wcmllum;
+gbnld;SCT;WCML;;Lum;West Coast Main Line (Stirling);sct.wcmllum;
+gbnld;ENG;WCML;;Roc;West Coast Main Line (Rochdale);eng.wcmlroc;
