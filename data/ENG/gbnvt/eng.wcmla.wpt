@@ -18,7 +18,7 @@ LonEus http://www.openstreetmap.org/?lat=51.528784&lon=-0.134239
 +X685280 http://www.openstreetmap.org/?lat=51.627881&lon=-0.385369
 +SKIP_Bus http://www.openstreetmap.org/?lat=51.645301&lon=-0.384929
 +X198270 http://www.openstreetmap.org/?lat=51.652763&lon=-0.384430
-WatJct http://www.openstreetmap.org/?lat=51.663725&lon=-0.395851
++SKIP_WatJct http://www.openstreetmap.org/?lat=51.663725&lon=-0.395851
 +X689768 http://www.openstreetmap.org/?lat=51.674811&lon=-0.410378
 +X115762 http://www.openstreetmap.org/?lat=51.693782&lon=-0.433311
 +X144792 http://www.openstreetmap.org/?lat=51.706379&lon=-0.438069
@@ -36,7 +36,7 @@ WatJct http://www.openstreetmap.org/?lat=51.663725&lon=-0.395851
 +X959411 http://www.openstreetmap.org/?lat=51.952163&lon=-0.720128
 +X982367 http://www.openstreetmap.org/?lat=51.995468&lon=-0.736384
 +X876583 http://www.openstreetmap.org/?lat=52.008848&lon=-0.743101
-MilKeyCen http://www.openstreetmap.org/?lat=52.033763&lon=-0.774236
++SKIP_MilKeyCen http://www.openstreetmap.org/?lat=52.033763&lon=-0.774236
 +X730789 http://www.openstreetmap.org/?lat=52.065946&lon=-0.804872
 +X489080 http://www.openstreetmap.org/?lat=52.100230&lon=-0.847669
 +X826717 http://www.openstreetmap.org/?lat=52.172945&lon=-0.912466
@@ -44,7 +44,7 @@ MilKeyCen http://www.openstreetmap.org/?lat=52.033763&lon=-0.774236
 +X353002 http://www.openstreetmap.org/?lat=52.285750&lon=-1.103182
 +X284848 http://www.openstreetmap.org/?lat=52.353311&lon=-1.192338
 +DIV_NhpN http://www.openstreetmap.org/?lat=52.376077&lon=-1.239041
-Rug http://www.openstreetmap.org/?lat=52.379018&lon=-1.249738
++SKIP_Rug http://www.openstreetmap.org/?lat=52.379018&lon=-1.249738
 +DIV_TVLS http://www.openstreetmap.org/?lat=52.380537&lon=-1.272655
 +X113521 http://www.openstreetmap.org/?lat=52.382319&lon=-1.426034
 +DIV_EaBS http://www.openstreetmap.org/?lat=52.400416&lon=-1.510749

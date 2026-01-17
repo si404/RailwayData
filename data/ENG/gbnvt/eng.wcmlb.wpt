@@ -62,13 +62,3 @@ BirInt http://www.openstreetmap.org/?lat=52.450870&lon=-1.725283
 +DIV_XCL http://www.openstreetmap.org/?lat=52.481480&lon=-1.880937
 +DIV_XCMLN http://www.openstreetmap.org/?lat=52.480813&lon=-1.884949
 BirNewSt http://www.openstreetmap.org/?lat=52.477651&lon=-1.898704
-+DIV_XCMLS http://www.openstreetmap.org/?lat=52.478383&lon=-1.903102
-+DIV_Cha http://www.openstreetmap.org/?lat=52.494618&lon=-1.944623
-+SKIP_SmeRolSt http://www.openstreetmap.org/?lat=52.496460&lon=-1.970158
-+SKIP_SmeGalBri http://www.openstreetmap.org/?lat=52.502110&lon=-1.980425
-SanDud http://www.openstreetmap.org/?lat=52.508581&lon=-2.011743
-+SKIP_DudPort http://www.openstreetmap.org/?lat=52.524460&lon=-2.049294
-+SKIP_Tip http://www.openstreetmap.org/?lat=52.530569&lon=-2.065773
-+SKIP_Cos http://www.openstreetmap.org/?lat=52.545239&lon=-2.085814
-+DIV_Sal http://www.openstreetmap.org/?lat=52.586742&lon=-2.115211
-Wol http://www.openstreetmap.org/?lat=52.587811&lon=-2.120104
