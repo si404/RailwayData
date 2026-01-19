@@ -83,12 +83,12 @@ ExeStDav http://www.openstreetmap.org/?lat=50.729162&lon=-3.543692
 +SKIP_DawWar http://www.openstreetmap.org/?lat=50.598630&lon=-3.443527
 +SKIP_Daw http://www.openstreetmap.org/?lat=50.580661&lon=-3.464384
 +X537985 http://www.openstreetmap.org/?lat=50.566271&lon=-3.468804
-+SKIP_Tei http://www.openstreetmap.org/?lat=50.548249&lon=-3.494682
+Tei http://www.openstreetmap.org/?lat=50.548249&lon=-3.494682
 +X665664 http://www.openstreetmap.org/?lat=50.539986&lon=-3.587251
-+SKIP_NewAbb http://www.openstreetmap.org/?lat=50.530104&lon=-3.599095
+NewAbb http://www.openstreetmap.org/?lat=50.530104&lon=-3.599095
 +DIV_DMLS http://www.openstreetmap.org/?lat=50.515057&lon=-3.588753
 +X205151 http://www.openstreetmap.org/?lat=50.498565&lon=-3.584161
 +X103987 http://www.openstreetmap.org/?lat=50.483262&lon=-3.550429
-+SKIP_Tor http://www.openstreetmap.org/?lat=50.473061&lon=-3.546567
-Tor http://www.openstreetmap.org/?lat=50.460933&lon=-3.543220
+Torr http://www.openstreetmap.org/?lat=50.473061&lon=-3.546567
+Torq http://www.openstreetmap.org/?lat=50.460933&lon=-3.543220
 Pai http://www.openstreetmap.org/?lat=50.434425&lon=-3.564935

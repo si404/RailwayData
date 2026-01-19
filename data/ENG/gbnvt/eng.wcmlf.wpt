@@ -69,7 +69,7 @@ LonEus http://www.openstreetmap.org/?lat=51.528784&lon=-0.134239
 +X498230 http://www.openstreetmap.org/?lat=52.789502&lon=-2.048693
 +X467783 http://www.openstreetmap.org/?lat=52.800245&lon=-2.082424
 +DIV_BLLS http://www.openstreetmap.org/?lat=52.797916&lon=-2.116413
-Sta http://www.openstreetmap.org/?lat=52.803773&lon=-2.122335
++SKIP_Sta http://www.openstreetmap.org/?lat=52.803773&lon=-2.122335
 +X268987 http://www.openstreetmap.org/?lat=52.844124&lon=-2.180099
 +DIV_Pot http://www.openstreetmap.org/?lat=52.870192&lon=-2.197266
 +X833913 http://www.openstreetmap.org/?lat=52.897228&lon=-2.251339
@@ -77,7 +77,7 @@ Sta http://www.openstreetmap.org/?lat=52.803773&lon=-2.122335
 +X601624 http://www.openstreetmap.org/?lat=52.962418&lon=-2.309189
 +X455838 http://www.openstreetmap.org/?lat=53.046502&lon=-2.407808
 +DIV_Mar http://www.openstreetmap.org/?lat=53.084862&lon=-2.430296
-Cre http://www.openstreetmap.org/?lat=53.088986&lon=-2.432528
++SKIP_Cre http://www.openstreetmap.org/?lat=53.088986&lon=-2.432528
 +DIV_CCL http://www.openstreetmap.org/?lat=53.091975&lon=-2.434351
 +SKIP_Win http://www.openstreetmap.org/?lat=53.190530&lon=-2.494411
 +SKIP_Har http://www.openstreetmap.org/?lat=53.241669&lon=-2.553549

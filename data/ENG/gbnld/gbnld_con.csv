@@ -1,0 +1,8 @@
+systemName;route;banner;groupName;roots
+gbnld;XCML;;Cross Country Main Line (Lumo);wls.xcmllum,eng.xcmllum
+gbnld;ECML;;East Coast Main Line (Lumo);eng.ecmllum,sct.ecmllum
+gbnld;GWML;;Great Western Main Line (Lumo);eng.gwmllum
+gbnld;SWML;;South Wales Main Line (Carmarthen);eng.swmllum,wls.swmllum
+gbnld;SWML;;South Wales Main Line (Hereford);eng.swmlher,wls.swmlher,eng.marlnher
+gbnld;WCML;;West Coast Main Line (Stirling);eng.wcmllum,sct.wcmllum
+gbnld;WCML;;West Coast Main Line (Rochdale);eng.wcmlroc
