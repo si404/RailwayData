@@ -1,0 +1,10 @@
+RP/BW http://www.openstreetmap.org/?lat=49.480861&lon=8.456426
++DIV_ManW http://www.openstreetmap.org/?lat=49.482018&lon=8.460631
+MannHeimHbf http://www.openstreetmap.org/?lat=49.479132&lon=8.469257
++DIV_ManW http://www.openstreetmap.org/?lat=49.482018&lon=8.460631
++DIV_Inn http://www.openstreetmap.org/?lat=49.486172&lon=8.454709
++SKIP_MannHeimHanHaf http://www.openstreetmap.org/?lat=49.491824&lon=8.453829
++SKIP_MannHeimNecSta http://www.openstreetmap.org/?lat=49.503893&lon=8.459859
++SKIP_MannHeimLutBerg http://www.openstreetmap.org/?lat=49.517638&lon=8.478334
++SKIP_MannHeimWaldHof http://www.openstreetmap.org/?lat=49.526169&lon=8.482604
+BW/HE http://www.openstreetmap.org/?lat=49.574476&lon=8.481960
