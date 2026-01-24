@@ -1,0 +1,16 @@
+KolnHbf http://www.openstreetmap.org/?lat=50.942732&lon=6.959109
++SKIP_KolnMesDeu http://www.openstreetmap.org/?lat=50.940920&lon=6.975074
++DIV_Deu http://www.openstreetmap.org/?lat=50.939548&lon=6.986017
++SKIP_KolnTriStr http://www.openstreetmap.org/?lat=50.935789&lon=6.996875
++DIV_Vin http://www.openstreetmap.org/?lat=50.928115&lon=7.015114
++DIV_Gre http://www.openstreetmap.org/?lat=50.915609&lon=7.036035
++SKIP_KolnAirPortBusPark http://www.openstreetmap.org/?lat=50.910184&lon=7.044747
++SKIP_KolnSteStr http://www.openstreetmap.org/?lat=50.895258&lon=7.057664
++SKIP_Porz http://www.openstreetmap.org/?lat=50.883204&lon=7.064466
++SKIP_PorzWahn http://www.openstreetmap.org/?lat=50.858078&lon=7.079122
++SKIP_Spi http://www.openstreetmap.org/?lat=50.826745&lon=7.114677
++SKIP_TroDorf http://www.openstreetmap.org/?lat=50.813704&lon=7.150769
+SiegBurgBonn http://www.openstreetmap.org/?lat=50.793614&lon=7.203029
++DIV_Sie http://www.openstreetmap.org/?lat=50.788480&lon=7.210550
++X201000 http://www.openstreetmap.org/?lat=50.710061&lon=7.244883
+NW/RP http://www.openstreetmap.org/?lat=50.642950&lon=7.340670
