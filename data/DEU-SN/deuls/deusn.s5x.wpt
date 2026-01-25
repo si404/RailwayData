@@ -25,6 +25,6 @@ MarkKleeBerg http://www.openstreetmap.org/?lat=51.279011&lon=12.372665
 Boh http://www.openstreetmap.org/?lat=51.202891&lon=12.382021
 +SKIP_BohWer http://www.openstreetmap.org/?lat=51.184811&lon=12.383866
 +SKIP_NeuKie http://www.openstreetmap.org/?lat=51.150777&lon=12.412791
-+Deu http://www.openstreetmap.org/?lat=51.114636&lon=12.419518
-+RegBre http://www.openstreetmap.org/?lat=51.083745&lon=12.425902
++SKIP_Deu http://www.openstreetmap.org/?lat=51.114636&lon=12.419518
++SKIP_RegBre http://www.openstreetmap.org/?lat=51.083745&lon=12.425902
 SN/TH http://www.openstreetmap.org/?lat=51.077868&lon=12.428520

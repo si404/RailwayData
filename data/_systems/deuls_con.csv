@@ -1,16 +1,14 @@
 systemName;route;banner;groupName;roots
 deuls;S1;;Leipzig;deusn.s01
-deuls;S2;;Mittledeutschland;deust.s02,deusn.s02
-deuls;S2;;Wittenberg;deubb.s02jut,deust.s02wit
+deuls;S2;;Leipzig (Dessau);deust.s02,deusn.s02
+deuls;S2;;Leipzig (Wittenberg);deust.s02wit,deusn.s02wit
 deuls;S3;;Mittledeutschland;deust.s03,deusn.s03
-deuls;S4;;Leipzig;deusn.s04,deubb.s04fal
+deuls;S4;;Leipzig;deubb.s04fal,deusn.s04
 deuls;S5;;Mittledeutschland;deust.s05,deusn.s05,deuth.s05,deusn.s05zwi
 deuls;S5X;;Mittledeutschland;deust.s5x,deusn.s5x,deuth.s5x,deusn.s5xzwi
-deuls;S6;;Leipzig;deusn.s06
+deuls;S6;;Leipzig;deusn.s06,deust.s06
 deuls;S7;;Halle;deust.s07
-deuls;S8;;Halle;deust.s08hal,deusn.s08,deust.s08,deubb.s08jut
-deuls;S8;;Dessau;deust.s08des
+deuls;S8;;Halle (Wittenberg);deust.s08hal,deusn.s08,deust.s08
+deuls;S8;;Halle (Dessau);deust.s08sal,deusn.s08des,deust.s08des
 deuls;S9;;Halle;deust.s09,deusn.s09
-deuls;S10;;Leipzig;deusn.s10
 deuls;S11;;Halle;deust.s11
-deuls;S47;;Halle;deust.s47
