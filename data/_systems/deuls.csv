@@ -1,7 +1,7 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
 deuls;DEU-SN;S1;;;Leipzig;deusn.s01;
 deuls;DEU-ST;S2;;;Dessau;deust.s02;
-deuls;DEU-SN;S2;;Wit;Leipzig (Dessau);deusn.s02;
+deuls;DEU-SN;S2;;;Leipzig (Dessau);deusn.s02;
 deuls;DEU-ST;S2;;Wit;Wittenberg;deust.s02wit;
 deuls;DEU-SN;S2;;Wit;Leipzig (Wittenberg);deusn.s02wit;
 deuls;DEU-ST;S3;;;Halle;deust.s03;
