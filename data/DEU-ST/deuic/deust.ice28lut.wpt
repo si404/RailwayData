@@ -2,8 +2,9 @@ BB/ST http://www.openstreetmap.org/?lat=51.947347&lon=12.852244
 +SKIP_Zah http://www.openstreetmap.org/?lat=51.918835&lon=12.779760
 +SKIP_Bul http://www.openstreetmap.org/?lat=51.894311&lon=12.751973
 +SKIP_Zor http://www.openstreetmap.org/?lat=51.882889&lon=12.731524
-+DIV_Wit http://www.openstreetmap.org/?lat=51.875226&lon=12.671270
-LutStaWitBergHbf http://www.openstreetmap.org/?lat=51.867502&lon=12.662044
++X727201 http://www.openstreetmap.org/?lat=51.875792&lon=12.672504
++SKIP_LutStaWitBergHbf http://www.openstreetmap.org/?lat=51.867502&lon=12.662044
++X754432 http://www.openstreetmap.org/?lat=51.862931&lon=12.655993
 +SKIP_Pra http://www.openstreetmap.org/?lat=51.842791&lon=12.635007
 +SKIP_BergWitz http://www.openstreetmap.org/?lat=51.803692&lon=12.576342
 +SKIP_Rad http://www.openstreetmap.org/?lat=51.754678&lon=12.503986

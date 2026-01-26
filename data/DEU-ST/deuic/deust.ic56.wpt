@@ -23,6 +23,7 @@ MagBurgHbf http://www.openstreetmap.org/?lat=52.130505&lon=11.626689
 +SKIP_SchBeck http://www.openstreetmap.org/?lat=52.018830&lon=11.732883
 +DIV_SchBeck http://www.openstreetmap.org/?lat=52.014934&lon=11.739707
 +SKIP_SchFel http://www.openstreetmap.org/?lat=52.000696&lon=11.757088
++SKIP_Gna http://www.openstreetmap.org/?lat=51.979528&lon=11.781163
 +X579561 http://www.openstreetmap.org/?lat=51.968041&lon=11.794081
 +DIV_Gre http://www.openstreetmap.org/?lat=51.938418&lon=11.807985
 +SKIP_CalOst http://www.openstreetmap.org/?lat=51.920542&lon=11.810517
@@ -31,6 +32,7 @@ MagBurgHbf http://www.openstreetmap.org/?lat=52.130505&lon=11.626689
 +SKIP_Wul http://www.openstreetmap.org/?lat=51.818942&lon=11.921926
 +X632183 http://www.openstreetmap.org/?lat=51.759706&lon=11.984689
 Kot http://www.openstreetmap.org/?lat=51.752194&lon=11.989346
++SKIP_Are http://www.openstreetmap.org/?lat=51.709414&lon=12.007542
 +SKIP_WeiGol http://www.openstreetmap.org/?lat=51.670253&lon=12.028484
 +SKIP_Stu http://www.openstreetmap.org/?lat=51.616191&lon=12.066636
 +X699310 http://www.openstreetmap.org/?lat=51.564279&lon=12.102213

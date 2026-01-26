@@ -23,7 +23,7 @@ MarkKleeBerg http://www.openstreetmap.org/?lat=51.279011&lon=12.372665
 +SKIP_MarkKleeBergGasWitz http://www.openstreetmap.org/?lat=51.249641&lon=12.379189
 +SKIP_GrosDeu http://www.openstreetmap.org/?lat=51.232012&lon=12.383190
 Boh http://www.openstreetmap.org/?lat=51.202891&lon=12.382021
-+SKIP_BohWer http://www.openstreetmap.org/?lat=51.184811&lon=12.383866
+BohWer http://www.openstreetmap.org/?lat=51.184811&lon=12.383866
 NeuKie http://www.openstreetmap.org/?lat=51.150777&lon=12.412791
 Deu http://www.openstreetmap.org/?lat=51.114636&lon=12.419518
 RegBre http://www.openstreetmap.org/?lat=51.083745&lon=12.425902

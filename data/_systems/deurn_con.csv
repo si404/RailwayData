@@ -14,12 +14,21 @@ deurn;RE10;;;deuni.re10
 deurn;RE15;;Emsland-Express;deunw.re15,deuni.re15
 deurn;RE18;;;deuni.re18,deunw.re18hal,deuni.re18osn
 deurn;RE30;;;deuni.re30
+deurn;RE50;;;deuni.re50
+deurn;RE60;;Ems-Leine-Express;deuni.re60,deunw.re60,deuni.re60osn,deunw.re60rhe
+deurn;RE70;;Hamburg;deuhh.re70,deush.re70
+deurn;RE70;;Weser-Leine-Express;deunw.re70,deuni.re70
+deurn;RE72;;Kiel;deush.re72kie
+deurn;RE72;;Flensburg;deush.re72
+deurn;RE74;;;deush.re74
+deurn;RE80;;;deuhh.re80,deush.re80
+deurn;RE83;;;deuni.re83,deush.re83
+deurn;RE86;;;deush.re86
 deurn;RB31;;;deuhh.rb31,deuni.rb31
 deurn;RB32;;;deuni.rb32
 deurn;RB33;;;deuni.rb33,deuhb.rb33,deuni.rb33cux
 deurn;RB37;;;deuhb.rb37,deuni.rb37
 deurn;RB38;;;deuhh.rb38,deuni.rb38
-deurn;RB40;;;deuni.rb40,deust.rb40
 deurn;RB41;;;deuhb.rb41,deuni.rb41,deuhh.rb41
 deurn;RB42;;;deuni.rb42
 deurn;RB43;;;deuni.rb43
@@ -28,11 +37,9 @@ deurn;RB45;;;deuni.rb45
 deurn;RB46;;;deuni.rb46
 deurn;RB47;;;deuni.rb47
 deurn;RB48;;;deuni.rb48
-deurn;RE50;;;deuni.re50
 deurn;RB56;;;deuni.rb56
 deurn;RB58;;Der Bramscher;deuhb.rb58,deuni.rb58,deunw.rb58,deuni.rb58osn
 deurn;RB59;;;deuni.rb59
-deurn;RE60;;Ems-Leine-Express;deuni.re60,deunw.re60,deuni.re60osn,deunw.re60rhe
 deurn;RB61;;Hamburg;deuhh.rb61,deush.rb61
 deurn;RB61;;Wiehengebirgs-Bahn;deunw.rb61,deuni.rb61,deunw.rb61rhe,deuni.rb61bad,nld.rb61
 deurn;RB62;;;deush.rb62
@@ -40,27 +47,19 @@ deurn;RB63;;;deush.rb63
 deurn;RB64;;;deush.rb64
 deurn;RB65;;;deush.rb65
 deurn;RB66;;;deush.rb66,dnk.rb66
-deurn;RE70;;Hamburg;deuhh.re70,deush.re70
-deurn;RE70;;Weser-Leine-Express;deunw.re70,deuni.re70
 deurn;RB71;;Wrist portion;deuhh.rb71,deush.rb71
 deurn;RB71;;Itzehoe portion;deuhh.rb71itz,deush.rb71itz
-deurn;RE72;;Kiel;deush.re72kie
-deurn;RE72;;Flensburg;deush.re72
 deurn;RB73;;;deush.rb73
-deurn;RE74;;;deush.re74
 deurn;RB75;;;deush.rb75
 deurn;RB76;;;deush.rb76
 deurn;RB77;;Weser-Bahn;deunw.rb77,deuni.rb77
 deurn;RB79;;;deuni.rb79
-deurn;RE80;;;deuhh.re80,deush.re80
 deurn;RB80;;;deuni.rb80,deuth.rb80
 deurn;RB81;;Hamburg;deuhh.rb81,deush.rb81
 deurn;RB81;;Northeim;deuni.rb81bod,deuhe.rb81lip,deuni.rb81ebo,deuhe.rb81ver,deuni.rb81,deuth.rb81
 deurn;RB82;;Neumunster;deush.rb82
 deurn;RB82;;Gottingen;deuni.rb82
-deurn;RE83;;;deuni.re83,deush.re83
 deurn;RB84;;;deush.rb84
 deurn;RB85;;;deush.rb85
-deurn;RE86;;;deush.re86
 deurn;RB86;;Lubeck;deush.rb86
 deurn;RB86;;Gottingen;deuni.rb86
