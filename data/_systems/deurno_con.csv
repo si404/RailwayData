@@ -16,20 +16,26 @@ deurno;RE9;;Sassnitz portion;deumv.re09
 deurno;RE9;;Ostseebad portion;deumv.re09ost
 deurno;RE10;;Cottbus;deusn.re10,deubb.re10
 deurno;RE10;;Stralsund;deumv.re10
+deurno;RE13;;;deubb.re13
+deurno;RE20;;;deube.re20,deubb.re20flu,deube.re20boh,deubb.re20
+deurno;RE27;;;deumv.re27
+deurno;RE50;;;deumv.re50
+deurno;RE51;;;deumv.re51
+deurno;RE85;;;deube.re85,deubb.re85,deumv.re85
+deurno;FEX;;;deube.fex,deubb.fex
+deurno;TES;;;deube.tes,deubb.tes
 deurno;RB10;;;deubb.rb10bla,deube.rb10,deubb.rb10
 deurno;RB11;;;deumv.rb11
 deurno;RB12;;Berlin;deube.rb12,deubb.rb12
 deurno;RB12;;Rostock;deumv.rb12
-deurno;RE13;;;deubb.re13
 deurno;RB13;;;deumv.rb13
-deurno;RB14;;Berlin;deube.rb14,deubb.rb14
 deurno;RB14;;Ludwigslust;deumv.rb14
+deurno;RB14;;Berlin;deube.rb14,deubb.rb14
 deurno;RB15;;;deumv.rb15
 deurno;RB16;;;deumv.rb16
 deurno;RB17;;;deumv.rb17
 deurno;RB18;;;deumv.rb18
 deurno;RB19;;;deumv.rb19
-deurno;RE20;;;deube.re20,deubb.re20flu,deube.re20boh,deubb.re20
 deurno;RB20;;;deubb.rb20
 deurno;RB21;;;deubb.rb21,deube.rb21
 deurno;RB22;;;deubb.rb22,deube.rb22,deubb.rb22kon
@@ -41,7 +47,6 @@ deurno;RB25;;Berlin;deube.rb25,deubb.rb25
 deurno;RB25;;Velgast;deumv.rb25
 deurno;RB26;;Berlin;deube.rb26,deubb.rb26,pol.rb26
 deurno;RB26;;Rugen;deumv.rb26
-deurno;RE27;;;deumv.re27
 deurno;RB27;;Gross Schonebeck portion;deube.rb27,deubb.rb27
 deurno;RB27;;Schmachten;deube.rb27sch,deubb.rb27sch
 deurno;RB28;;;deumv.rb28
@@ -55,8 +60,6 @@ deurno;RB37;;;deube.rb37,deubb.rb37
 deurno;RB43;;;deubb.rb43
 deurno;RB46;;;deubb.rb46
 deurno;RB49;;;deubb.rb49
-deurno;RE50;;;deumv.re50
-deurno;RE51;;;deumv.re51
 deurno;RB51;;;deubb.rb51
 deurno;RB54;;;deubb.rb54
 deurno;RB55;;;deubb.rb55
@@ -66,6 +69,3 @@ deurno;RB62;;;deubb.rb62
 deurno;RB63;;;deubb.rb63
 deurno;RB73;;;deubb.rb73
 deurno;RB74;;;deubb.rb74,deumv.rb74
-deurno;RE85;;;deube.re85,deubb.re85,deumv.re85
-deurno;FEX;;;deube.fex,deubb.fex
-deurno;TES;;;deube.tes,deubb.tes

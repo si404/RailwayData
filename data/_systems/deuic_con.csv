@@ -11,7 +11,7 @@ deuic;ICE14;;;deunw.ice14,deuni.ice14,deust.ice14,deubb.ice14,deube.ice14
 deuic;ICE15;;;deumv.ice15,deubb.ice15,deube.ice15,deubb.ice15tre,deust.ice15lut,deusn.ice15,deust.ice15,deuth.ice15ess,deust.ice15her,deuth.ice15,deuhe.ice15her,deuth.ice15ger,deuhe.ice15wil,deuth.ice15gro,deuhe.ice15
 deuic;ICE16;;;deuhb.ice16,deuni.ice16,deust.ice16,deubb.ice16,deube.ice16
 deuic;ICE17;;;deumv.ic17,deubb.ic17,deube.ic17,deubb.ic17els,deusn.ic17
-deuic;ICE18;;;deuhh.ice18,deush.ice18,deubb.ice18,deube.ice18,deubb.ice18tre,deust.ice18lut,deusn.ice18,deust.ice18,deuth.ice18ess,deust.ice18her,deuth.ice18,deuby.ice18
+deuic;ICE18;;;deuhh.ice18,deush.ice18,deumv.ice18,deubb.ice18,deube.ice18,deubb.ice18tre,deust.ice18lut,deusn.ice18,deust.ice18,deuth.ice18ess,deust.ice18her,deuth.ice18,deuby.ice18
 deuic;ICE19;;;deunw.ice19,deuni.ice19,deust.ice19,deubb.ice19,deube.ice19
 deuic;ICE20;;;deuhh.ice20,deuni.ice20,deuhe.ice20,deubw.ice20,che.ice20
 deuic;ICE22;;;deush.ice22,deuhh.ice22,deuni.ice22,deuhe.ice22,deubw.ice22
@@ -41,5 +41,5 @@ deuic;ICE78;;;nld.ice78,deunw.ice78,deurp.ice78,deuhe.ice78
 deuic;ICE79;;;bel.ice79,deunw.ice79,deurp.ice79,deuhe.ice79
 deuic;ICE82;;;fraidf.ice82,frahdf.ice82,frages.ice82cha,frahdf.ice82gou,frages.ice82,deusl.ice82,deurp.ice82,deubw.ice82,deuhe.ice82
 deuic;ICE83;;;fraidf.ice83,frahdf.ice83,frages.ice83cha,frahdf.ice83gou,frages.ice83,deubw.ice83
-deuic;ICE87;;;deubw.ic87,che.ic87sch,deubw.ic87jes,che.ic87
+deuic;IC87;;;deubw.ic87,che.ic87sch,deubw.ic87jes,che.ic87
 deuic;ICE91;;;deunw.ice91,deurp.ice91,deuhe.ice91,deuby.ice91,aut.ice91

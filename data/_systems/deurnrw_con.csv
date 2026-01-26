@@ -19,9 +19,20 @@ deurnrw;RE16;;Ruhr-Lenne-Express;deunw.re16
 deurnrw;RE17;;Sauerland-Express;deunw.re17
 deurnrw;RE19;;Rhein-IJssel-Express (Arnhem portion);deunw.re19,nld.re19
 deurnrw;RE19;;Rhein-IJssel-Express (Bocholt portion);deunw.re19boc
+deurnrw;RE22;;Eifel-Express;deunw.re22
+deurnrw;RE34;;Dortmund-Siegerland-Express;deunw.re34
+deurnrw;RE41;;Vest-Ruhr-Express;deunw.re41
+deurnrw;RE42;;Niers-Haard-Express;deunw.re42
+deurnrw;RE44;;Fossa-Emscher-Express;deunw.re44
+deurnrw;RE47;;Düssel-Wupper-Express;deunw.re47
+deurnrw;RE49;;Wupper-Lippe-Express;deunw.re49
+deurnrw;RE57;;Dortmund-Sauerland-Express (Winterberg portion);deunw.re57
+deurnrw;RE57;;Dortmund-Sauerland-Express (Brilon portion);deunw.re57bri
+deurnrw;RE62;;Ems-Werre-Express (Rheine);deunw.re62rhe,deuni.re62,deunw.re62
+deurnrw;RE78;;Porta-Express;deunw.re78,deuni.re78
+deurnrw;RE82;;Der Leineweber;deunw.re82
 deurnrw;RB20;;euregiobahn;deunw.rb20
 deurnrw;RB21;;Rurtalbahn;deunw.rb21
-deurnrw;RE22;;Eifel-Express;deunw.re22
 deurnrw;RB24;;Eifel-Bahn;deunw.rb24
 deurnrw;RB25;;Oberbergische Bahn;deunw.rb25
 deurnrw;RB27;;Rhein-Erft-Bahn;deunw.rb27,deurp.rb27
@@ -31,7 +42,6 @@ deurnrw;RB31;;Der Niederrheiner;deunw.rb31
 deurnrw;RB32;;Rhein-Emscher-Bahn;deunw.rb32
 deurnrw;RB33;;Rhein-Niers-Bahn (Essen portion);deunw.rb33
 deurnrw;RB33;;Rhein-Niers-Bahn (Heinsberg portion);deunw.rb33hei
-deurnrw;RE34;;Dortmund-Siegerland-Express;deunw.re34
 deurnrw;RB34;;Schwalm-Nette-Bahn;deunw.rb34
 deurnrw;RB35;;Emscher-Niederrhein-Bahn;deunw.rb35
 deurnrw;RB36;;Ruhrort-Bahn;deunw.rb36
@@ -39,23 +49,15 @@ deurnrw;RB37;;Niers-Erft-Bahn;deunw.rb37
 deurnrw;RB38;;Erft-Bahn;deunw.rb38
 deurnrw;RB39;;Düssel-Erft-Bahn;deunw.rb39
 deurnrw;RB40;;Ruhr-Lenne-Bahn;deunw.rb40
-deurnrw;RE41;;Vest-Ruhr-Express;deunw.re41
-deurnrw;RE42;;Niers-Haard-Express;deunw.re42
 deurnrw;RB43;;Emschertal-Bahn;deunw.rb43
-deurnrw;RE44;;Fossa-Emscher-Express;deunw.re44
 deurnrw;RB46;;Glückauf-Bahn;deunw.rb46
-deurnrw;RE47;;Düssel-Wupper-Express;deunw.re47
 deurnrw;RB48;;Rhein-Wupper-Bahn;deunw.rb48
-deurnrw;RE49;;Wupper-Lippe-Express;deunw.re49
 deurnrw;RB50;;Der Lüner;deunw.rb50
 deurnrw;RB51;;Westmünsterland-Bahn;deunw.rb51,nld.rb51
 deurnrw;RB52;;Volmetal-Bahn;deunw.rb52
 deurnrw;RB53;;Ardey-Bahn;deunw.rb53
 deurnrw;RB54;;Hönnetal-Bahn;deunw.rb54
-deurnrw;RE57;;Dortmund-Sauerland-Express (Winterberg portion);deunw.re57
-deurnrw;RE57;;Dortmund-Sauerland-Express (Brilon portion);deunw.re57bri
 deurnrw;RB59;;Hellweg-Bahn;deunw.rb59
-deurnrw;RE62;;Ems-Werre-Express (Rheine);deunw.re62rhe,deuni.re62,deunw.re62
 deurnrw;RB63;;Baumberge-Bahn;deunw.rb63
 deurnrw;RB64;;Euregio-Bahn;deunw.rb64,nld.rb64
 deurnrw;RB65;;Ems-Bahn;deunw.rb65
@@ -67,8 +69,6 @@ deurnrw;RB72;;Ostwestfalen-Bahn;deunw.rb72
 deurnrw;RB73;;Der Lipperländer;deunw.rb73
 deurnrw;RB74;;Senne-Bahn;deunw.rb74
 deurnrw;RB75;;Haller Willem;deunw.rb75,deuni.rb75
-deurnrw;RE78;;Porta-Express;deunw.re78,deuni.re78
-deurnrw;RE82;;Der Leineweber;deunw.re82
 deurnrw;RB84;;Egge-Bahn;deunw.rb84,deuni.rb84
 deurnrw;RB85;;Oberweser-Bahn;deunw.rb85,deuni.rb85lau,deunw.rb85wur,deuhe.rb85,deuni.rb85bod,deuhe.rb85lip,deuni.rb85ebo,deuhe.rb85ver,deuni.rb85
 deurnrw;RB89;;Ems-Börde-Bahn;deunw.rb89

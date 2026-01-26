@@ -174,6 +174,7 @@ deurm;DEU;DB Regio Mitte;TMdarkgreen;2;preview
 deurn;DEU;DB Regio Nord;TMdarkgreen;2;preview
 deurno;DEU;DB Regio Nordost;TMdarkgreen;2;preview
 deurnrw;DEU;DB Regio NRW;TMdarkgreen;2;preview
+deurso;DEU;DB Regio Südost;TMdarkgreen;2;preview
 deubs;DEU;S-Bahn Berlin;TMgreen;2;preview
 deubss;DEU;S-Bahn Bodensee;TMgreen;2;preview
 deufrs;DEU;Breisgau-S-Bahn;TMgreen;2;preview
@@ -195,19 +196,19 @@ deurrs;DEU;S-Bahn Rhein-Ruhr;TMgreen;2;preview
 deuss;DEU;S-Bahn Stuttgart;TMgreen;2;preview
 deuulrs;DEU;Regio-S-Bahn Donau-Iller;TMgreen;2;preview
 deubu;DEU;U-Bahn Berlin;TMblue;3;preview
-deubisb;DEU;Stadtbahn Bielefeld;TMblue;3;preview
-deucc;DEU;City-Bahn Chemnitz;TMblue;3;preview
 deufu;DEU;U-Bahn Frankfurt am Main;TMblue;3;preview
 deuhhu;DEU;U-Bahn Hamburg;TMblue;3;preview
-deuhsb;DEU;Stadtbahn Hannover;TMblue;3;preview
-deuksrt;DEU;RegioTram Kassel;TMblue;3;preview
 deumu;DEU;U-Bahn München;TMblue;3;preview
 deunu;DEU;U-Bahn Nürnberg;TMblue;3;preview
-deurssb;DEU;Stadtbahn Rhein-Sieg;TMblue;3;preview
-deurru;DEU;Stadtbahn Rhein-Ruhr;TMblue;3;preview
-deusb;DEU;Saarbahn;TMblue;3;preview
-deusu;DEU;Stadtbahn Stuttgart;TMblue;3;preview
 deuws;DEU;Wuppertaler Schwebebahn;TMblue;3;preview
+deubisb;DEU;Stadtbahn Bielefeld;TMteal;3;preview
+deucc;DEU;City-Bahn Chemnitz;TMteal;3;preview
+deuksrt;DEU;RegioTram Kassel;TMteal;3;preview
+deuhsb;DEU;Stadtbahn Hannover;TMteal;3;preview
+deurru;DEU;Stadtbahn Rhein-Ruhr;TMteal;3;preview
+deurssb;DEU;Stadtbahn Rhein-Sieg;TMteal;3;preview
+deusb;DEU;Saarbahn;TMteal;3;preview
+deusu;DEU;Stadtbahn Stuttgart;TMteal;3;preview
 deuat;DEU;Straßenbahn Augsburg;TMred;4;preview
 deubt;DEU;Straßenbahn Berlin;TMred;4;preview
 deubrbt;DEU;Straßenbahn Brandenburg an der Havel;TMred;4;preview
@@ -357,18 +358,18 @@ gbnhx;GBR;(National Rail (OA)) Heathrow Express;TMpurple;1;preview
 gbnld;GBR;(National Rail (OA)) Lumo;TMpurple;1;preview
 gbncc;GBR;(Great British Railways) c2c;TMgreen;2;preview
 gbnle;GBR;(Great British Railways) Greater Anglia;TMgreen;2;preview
+gbnln;GBR;(Great British Railways) London Northwestern Railway;TMgreen;2;preview
 gbnse;GBR;(Great British Railways) Southeastern;TMgreen;2;preview
 gbnsw;GBR;(Great British Railways) South Western Railway;TMgreen;2;preview
+gbnwm;GBR;(Great British Railways) West Midlands Railway;TMgreen;2;preview
 gbnch;GBR;(National Rail) Chiltern Railways;TMgreen;2;preview
 gbnem;GBR;(National Rail) East Midlands Railway;TMgreen;2;preview
 gbngn;GBR;(National Rail) Great Northern;TMgreen;2;preview
 gbngw;GBR;(National Rail) Great Western Railway;TMgreen;2;preview
-gbnln;GBR;(National Rail) London Northwestern Railway;TMgreen;2;preview
 gbnnr;GBR;(National Rail) Northern;TMgreen;2;preview
 gbnsn;GBR;(National Rail) Southern;TMgreen;2;preview
 gbntl;GBR;(National Rail) Thameslink;TMdarkgreen;2;preview
 gbntp;GBR;(National Rail) TransPennine Express;TMgreen;2;preview
-gbnwm;GBR;(National Rail) West Midlands Railway;TMgreen;2;preview
 gbnaw;GBR;Transport for Wales Rail;TMdarkgreen;2;preview
 gbnlo;GBR;London Overground;TMdarkgreen;2;preview
 gbnme;GBR;Merseyrail;TMdarkgreen;2;preview
