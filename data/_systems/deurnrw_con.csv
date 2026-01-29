@@ -3,8 +3,7 @@ deurnrw;RE1;;NRW-Express;deunw.re01
 deurnrw;RE2;;Rhein-Haard-Express;deunw.re02,deuni.re02nat,deunw.re02nat,deuni.re02osn
 deurnrw;RE3;;Rhein-Emscher-Express;deunw.re03
 deurnrw;RE4;;Wupper-Express;deunw.re04
-deurnrw;RE5;;Rhein-Express;deunw.re05
-deurnrw;RE5;;Rhein-Express;deurp.re05
+deurnrw;RE5;;Rhein-Express;deunw.re05,deurp.re05
 deurnrw;RE6;;Rhein-Weser-Express;deunw.re06
 deurnrw;RE7;;Rhein-Münsterland-Express;deunw.re07
 deurnrw;RE8;;Rhein-Erft-Express;deunw.re08,deurp.re08
