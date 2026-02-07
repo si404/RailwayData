@@ -9,20 +9,21 @@ GBR will be formally created about 12 months after legislation (published 2025-1
 		Southeastern             (SE)   	already Dft <- moved from NR to GBR as track and train merged June 2025
 		c2c                      (CC)    	20 Jul 2025 <- moved from NR to GBR
 		Greater Anglia           (LE)   	12 Oct 2025 <- moved from NR to GBR
-		West Midlands Trains     (LN, WM)	01 Feb 2026
+		West Midlands Trains     (LN, WM)	01 Feb 2026 <- moved from NR to GBR
 		Govia Thameslink Railway (TL,SN,GX,GN)	31 May 2026
+		Chiltern Railways        (CH)   	2026 (announced, planned to be next after GTR) / 12 Dec 2027 (contract end date)
+		Great Western Railway    (GW)   	2026 (announced, planned to be next after GTR) / 25 Jun 2028 (contract end date)
 		Avanti West Coast        (VT)   	18 Oct 2026 (contract end date)
+		East Midlands Railway    (EM)   	18 Oct 2026 (contract end date)
 		CrossCountry             (XC)   	15 Oct 2027 (contract end date)
-		Chiltern Railways        (CH)   	12 Dec 2027 (contract end date, planned to be next after GTR)
-		Great Western Railway    (GW)   	25 Jun 2028 (contract end date, planned to be next after GTR)
-		East Midlands Railway    (EM)   	16 Oct 2030 (contract end date, planned to be transferred before end of 2027)
 		London North Eastern Railway (GR)	already Dft
 		Northern Trains          (NT)   	already Dft
 		TransPennine Express     (TP)   	already Dft
 
 	Other operators
 		Elizabeth Line 		(XR)	regionally managed (Transport for London)	operating contract began 2025-05-25 and ends 2032-05-25 or 2034-05-25
-		London Overground	(LO)	regionally managed (Transport for London)	operating contract began 2016-05-13 and ends 2026-05-??
+		London Overground	(LO)	regionally managed (Transport for London)	operating contract began 2016-05-13 and ends 2026-05-03 (Arriva)
+		London Overground	(LO)	regionally managed (Transport for London)	operating contract begins 2026-05-03 (First)
 		Merseyrail      	(ME)	regionally managed (Liverpool City Region)	operating contract began 2003-07-20 and ends 2028-07-20
 		Caledonian Sleeper	(CS)	regional operator (Scottish Government)
 		ScotRail        	(SR)	regional operator (Scottish Government)
@@ -37,57 +38,69 @@ GBR will be formally created about 12 months after legislation (published 2025-1
 
 INFRASTRUCTURE
 
-South Wales Metro to come into being at some point (other than Bay line redoubling, most works done - mostly waiting on rolling stock)
+South Wales Metro to come into being at some point (other than Bay line redoubling, most works done - mostly waiting on rolling stock). When 4tph to TAM heads? Infrastructure transferred a long time ago. 13-Dec-2026 is move to electric timetable, with rolling stock changes over the summer.
 
 New Station timeline (includes stations on new tracks). Only under construction stations listed
-	Butetown        	South Wales Metro	    2025	unlikely to open then
-	Winslow         	East-West Rail  	    2025	unlikely to open then (union issues)
-	Albert Street   	West Midlands Metro	Dec 2025
-	Millennium Point	West Midlands Metro	Dec 2025
-	Kings Heath     	Camp Hill Line  	Dec 2025	not in WMT timetables
-	Moseley Village 	Camp Hill Line  	Dec 2025	not in WMT timetables
-	Pineapple Road  	Camp Hill Line  	Dec 2025	not in WMT timetables
-	Great Bridge    	West Midlands Metro	Q1  2026
-	Horseley Road   	West Midlands Metro	Q1  2026
-	Dudley Port     	West Midlands Metro	Q1  2026
-	Sedgley Road    	West Midlands Metro	Q1  2026
-	Birmingham New Road	West Midlands Metro	Q1  2026
-	Tipton Road     	West Midlands Metro	Q1  2026
-	Dudley Castle & Zoo	West Midlands Metro	Q1  2026
-	Dudley Interchange	West Midlands Metro	Q1  2026
-	Flood Street    	West Midlands Metro	Q1  2026
-	Cambridge South 	WAML/Fen Line/etc 	Q1  2026
-	Bedlington      	Northumberland Line	Q1  2026	already in browser
-	Northumberland Park	Northumberland Line	Q1  2026	already in browser
-	Magna            	Sheffield Supertram	Q1  2026
-	Darlaston		Salop Line      	Feb 2026
-	Willenhall		Salop Line      	Feb 2026
-	Balgray 		Neilston Line   	Q3  2026
-	North Filton    	Filton Line		    2026
-	Okehampton Interchange	Dartmoor Line		    2026
-	White Rose      	Huddersfield Line	    2027
-	Pill            	Portishead Line 	    2027
-	Portishead      	Portishead Line 	    2027
-	Gold's Hill     	West Midlands Metro	    2027
-	Cinder Bank     	West Midlands Metro	    2027
-	Pedmore Road    	West Midlands Metro	    2027
-	Canal Street    	West Midlands Metro	    2027
-	Waterfront Merry Hill	West Midlands Metro	    2027
-	MerryHillShoppingCentre	West Midlands Metro	    2027
-	Brierley Hill   	West Midlands Metro	    2027
-	Curzon Street   	West Midlands Metro	      ??
-	High Street Deritend   	West Midlands Metro	      ??
-	Old Oak Common  	High Speed 2     	      ??
-	Interchange     	High Speed 2    	      ??
-	Birmingham CurzonStreet	High Speed 2    	      ??
-	Wixhams         	Thameslink      	paused for rethink due to Universal Park meaning it will need to be bigger
 
-Huddersfield area remodelling (Ravensthorpe station moved) due to be finished 2028
+National Rail
+	Northumberland Park	Northumberland Line	22-Feb-2026	already in browser
+	Darlaston		Salop Line      	   Feb-2026
+	Willenhall		Salop Line      	   Feb-2026
+	Bedlington      	Northumberland Line	 early 2026	already in browser
+	Kings Heath     	Camp Hill Line  	spring 2026
+	Moseley Village 	Camp Hill Line  	spring 2026
+	Pineapple Road  	Camp Hill Line  	spring 2026
+	Cambridge South 	WAML/Fen Line/etc 	   Jun-2026
+	Winslow         	East-West Rail  	    ????	awaiting opening (dispute about staffing of trains)
+	Okehampton Interchange	Dartmoor Line		   Sep-2026
+	Bute Town        	South Wales Metro	   Oct-2026	platform 2 only
+	Balgray 		Neilston Line   	autumn 2026
+	North Filton    	Filton Line		       2026
+	White Rose      	Huddersfield Line	   Jan-2027
+	Pill            	Portishead Line 	  late 2027
+	Portishead      	Portishead Line 	  late 2027
+	Ravensthorpe		TPR Upgrade relocation	summer 2028
+	Wixhams         	Thameslink      	paused for rethink due to Universal Park meaning it will need to be bigger
+	Old Oak Common  	High Speed 2     	     ??
+	Interchange     	High Speed 2    	     ??
+	Birmingham CurzonStreet	High Speed 2    	     ??
+
+Light Rail
+	Magna            	Sheffield Supertram	 early 2026
+	Albert Street   	WM Metro Eastside	 early 2026
+	Millennium Point	WM Metro Eastside	 early 2026
+	Great Bridge    	WM Metro Dudley 	   Aug-2026
+	Horseley Road   	WM Metro Dudley 	   Aug-2026
+	Dudley Port     	WM Metro Dudley 	   Aug-2026
+	Sedgley Road    	WM Metro Dudley 	   Aug-2026
+	Birmingham New Road	WM Metro Dudley 	   Aug-2026
+	Tipton Road     	WM Metro Dudley 	   Aug-2026
+	Dudley Castle & Zoo	WM Metro Dudley 	   Aug-2026
+	Dudley Interchange	WM Metro Dudley 	   Aug-2026
+	Flood Street    	WM Metro Dudley 	   Aug-2026
+	Gold's Hill     	WM Metro Merry Hill	       2028
+	Cinder Bank     	WM Metro Merry Hill	       2028
+	Pedmore Road    	WM Metro Merry Hill	       2028
+	Canal Street    	WM Metro Merry Hill	       2028
+	Waterfront Merry Hill	WM Metro Merry Hill	       2028
+	MerryHillShoppingCentre	WM Metro Merry Hill	       2028
+	Brierley Hill   	WM Metro Merry Hill	       2028
+	Curzon Street   	WM Metro Eastside	     ??
+	High Street Deritend   	WM Metro Eastside	     ??
+
 
 ---------------------------------------------
 
 OPERATIONS
-May 2026 Timetable change
 
+New services E-W Rail and Camp Hill Line may begin before May 2026
+
+May 2026 Timetable change
+	TfW	 hourly Liverpool - Llandudno
+		 hourly Wrexham - Crewe
+		 hourly Manchester - Holyhead
+		2hourly Birmingham - Llandudno Junction
+		2hourly Cardiff - Holyhead
+	Lumo	Stirling service starts
 
 	
