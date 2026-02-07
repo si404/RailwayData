@@ -1,25 +1,9 @@
-Zut http://www.openstreetmap.org/?lat=52.144748&lon=6.194186
-+DIV_RS30 http://www.openstreetmap.org/?lat=52.141505&lon=6.180024
-Bru http://www.openstreetmap.org/?lat=52.090806&lon=6.147022
-+DIV_VSM http://www.openstreetmap.org/?lat=52.048941&lon=6.108055
-Die http://www.openstreetmap.org/?lat=52.045114&lon=6.103420
-Rhe http://www.openstreetmap.org/?lat=52.009903&lon=6.030722
-Velp http://www.openstreetmap.org/?lat=51.995107&lon=5.981026
-ArnPre http://www.openstreetmap.org/?lat=51.987616&lon=5.942960
-+DIV_RS32 http://www.openstreetmap.org/?lat=51.983466&lon=5.926652
-ArnVel http://www.openstreetmap.org/?lat=51.985131&lon=5.920000
+
 ArnCen http://www.openstreetmap.org/?lat=51.984920&lon=5.901074
-ArnCen http://www.openstreetmap.org/?lat=51.984920&lon=5.901074
-+DIV_IC http://www.openstreetmap.org/?lat=51.986724&lon=5.881398
-+X692343 http://www.openstreetmap.org/?lat=51.982435&lon=5.862451
-ArnZuid http://www.openstreetmap.org/?lat=51.954462&lon=5.851979
-Elst http://www.openstreetmap.org/?lat=51.917101&lon=5.854940
-+DIV_RS33 http://www.openstreetmap.org/?lat=51.907995&lon=5.855842
-+X921828 http://www.openstreetmap.org/?lat=51.902752&lon=5.856228
-+X121820 http://www.openstreetmap.org/?lat=51.893616&lon=5.857000
-NijLent http://www.openstreetmap.org/?lat=51.862381&lon=5.859661
-Nij http://www.openstreetmap.org/?lat=51.843447&lon=5.852473
-+DIV_RS11 http://www.openstreetmap.org/?lat=51.840902&lon=5.851336
-NijGof http://www.openstreetmap.org/?lat=51.827251&lon=5.822453
-NijDuk http://www.openstreetmap.org/?lat=51.823936&lon=5.794215
-Wij http://www.openstreetmap.org/?lat=51.811228&lon=5.729671
++DIV_ICE78 http://www.openstreetmap.org/?lat=51.986724&lon=5.881398
++X692343 http://www.openstreetmap.org/?lat=51.982462&lon=5.862429
++SKIP_ArnZuid http://www.openstreetmap.org/?lat=51.954498&lon=5.851942
+Elst http://www.openstreetmap.org/?lat=51.916555&lon=5.855107
++DIV_Els http://www.openstreetmap.org/?lat=51.907697&lon=5.855831
+
+Nij http://www.openstreetmap.org/?lat=51.843202&lon=5.852376
