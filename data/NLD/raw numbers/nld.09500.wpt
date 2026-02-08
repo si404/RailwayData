@@ -1,10 +1,25 @@
-
+LelCen http://www.openstreetmap.org/?lat=52.507955&lon=5.472608
++X644988 http://www.openstreetmap.org/?lat=52.488977&lon=5.470279
++X726003 http://www.openstreetmap.org/?lat=52.451766&lon=5.413191
++X580368 http://www.openstreetmap.org/?lat=52.430557&lon=5.399952
++X404146 http://www.openstreetmap.org/?lat=52.414334&lon=5.357954
++X825432 http://www.openstreetmap.org/?lat=52.413971&lon=5.330276
++SKIP_AlmOos http://www.openstreetmap.org/?lat=52.403280&lon=5.300603
+AlmBui http://www.openstreetmap.org/?lat=52.394190&lon=5.277944
++SKIP_AlmPar http://www.openstreetmap.org/?lat=52.376734&lon=5.244700
+AlmCen http://www.openstreetmap.org/?lat=52.375282&lon=5.219343
++SKIP_AlmMuz http://www.openstreetmap.org/?lat=52.367549&lon=5.190353
++SKIP_AlmPoo http://www.openstreetmap.org/?lat=52.342940&lon=5.152250
++X228130 http://www.openstreetmap.org/?lat=52.327708&lon=5.142031
++X777338 http://www.openstreetmap.org/?lat=52.314782&lon=5.083859
++DIV_Alm http://www.openstreetmap.org/?lat=52.303729&lon=5.065985
 +SKIP_Wee http://www.openstreetmap.org/?lat=52.312244&lon=5.044012
-AmsRAI http://www.openstreetmap.org/?lat=52.336794&lon=4.890461
++DIV_Die http://www.openstreetmap.org/?lat=52.333385&lon=4.995089
++X722247 http://www.openstreetmap.org/?lat=52.340151&lon=4.977279
++SKIP_DieZuid http://www.openstreetmap.org/?lat=52.330343&lon=4.956121
++X580951 http://www.openstreetmap.org/?lat=52.326996&lon=4.946058
 Dui http://www.openstreetmap.org/?lat=52.323550&lon=4.936552
-DieZuid http://www.openstreetmap.org/?lat=52.330343&lon=4.956121
-
-
++DIV_Utr http://www.openstreetmap.org/?lat=52.322429&lon=4.924021
 +SKIP_AmsRAI http://www.openstreetmap.org/?lat=52.336794&lon=4.890461
 AmsZuid http://www.openstreetmap.org/?lat=52.338918&lon=4.873424
 +X583090 http://www.openstreetmap.org/?lat=52.338112&lon=4.857438

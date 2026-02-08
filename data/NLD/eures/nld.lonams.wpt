@@ -35,6 +35,6 @@ RotCen http://www.openstreetmap.org/?lat=51.924995&lon=4.469161
 +X990476 http://www.openstreetmap.org/?lat=52.379702&lon=4.837793
 +SKIP_AmsSlo http://www.openstreetmap.org/?lat=52.388978&lon=4.838448
 +X997402 http://www.openstreetmap.org/?lat=52.395429&lon=4.850641
-+X345661 http://www.openstreetmap.org/?lat=52.388730&lon=4.873145
-+X566067 http://www.openstreetmap.org/?lat=52.385600&lon=4.884067
++DIV_Slo http://www.openstreetmap.org/?lat=52.388730&lon=4.873145
++X566067 http://www.openstreetmap.org/?lat=52.385662&lon=4.884115
 AmsCen http://www.openstreetmap.org/?lat=52.378959&lon=4.900761

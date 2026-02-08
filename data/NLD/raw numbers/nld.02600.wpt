@@ -1,4 +1,3 @@
-
 AmsCen http://www.openstreetmap.org/?lat=52.378959&lon=4.900761
 +X906105 http://www.openstreetmap.org/?lat=52.372409&lon=4.932604
 +SKIP_AmsMui http://www.openstreetmap.org/?lat=52.360801&lon=4.931188
@@ -7,3 +6,8 @@ AmsCen http://www.openstreetmap.org/?lat=52.378959&lon=4.900761
 +DIV_Die http://www.openstreetmap.org/?lat=52.333385&lon=4.995089
 +SKIP_Wee http://www.openstreetmap.org/?lat=52.312244&lon=5.044012
 +DIV_Alm http://www.openstreetmap.org/?lat=52.303729&lon=5.065985
++X777338 http://www.openstreetmap.org/?lat=52.314782&lon=5.083859
++X228130 http://www.openstreetmap.org/?lat=52.327708&lon=5.142031
++SKIP_AlmPoo http://www.openstreetmap.org/?lat=52.342940&lon=5.152250
++SKIP_AlmMuz http://www.openstreetmap.org/?lat=52.367549&lon=5.190353
+AlmCen http://www.openstreetmap.org/?lat=52.375282&lon=5.219343

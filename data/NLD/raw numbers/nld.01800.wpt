@@ -1,26 +1,19 @@
-AmsRAI http://www.openstreetmap.org/?lat=52.336794&lon=4.890461
-Dui http://www.openstreetmap.org/?lat=52.323550&lon=4.936552
-DieZuid http://www.openstreetmap.org/?lat=52.330343&lon=4.956121
-
-+SKIP_Wee http://www.openstreetmap.org/?lat=52.312244&lon=5.044012
-RotCen http://www.openstreetmap.org/?lat=51.924995&lon=4.469161
-+X884214 http://www.openstreetmap.org/?lat=51.926031&lon=4.479010
-+SKIP_RotBla http://www.openstreetmap.org/?lat=51.919940&lon=4.489229
-+SKIP_RotZuid http://www.openstreetmap.org/?lat=51.904897&lon=4.509866
-+SKIP_RotSta http://www.openstreetmap.org/?lat=51.893868&lon=4.519662
-+SKIP_RotLom http://www.openstreetmap.org/?lat=51.880240&lon=4.531045
-+DIV_RotS http://www.openstreetmap.org/?lat=51.874544&lon=4.535894
-+X947505 http://www.openstreetmap.org/?lat=51.854857&lon=4.552556
-+X927448 http://www.openstreetmap.org/?lat=51.835008&lon=4.580870
-+X368841 http://www.openstreetmap.org/?lat=51.780825&lon=4.587307
-+X799703 http://www.openstreetmap.org/?lat=51.726510&lon=4.638827
-+X363262 http://www.openstreetmap.org/?lat=51.689898&lon=4.663053
-+DIV_HS http://www.openstreetmap.org/?lat=51.662328&lon=4.681635
-+DIV_BreN http://www.openstreetmap.org/?lat=51.655981&lon=4.686517
-+SKIP_BrePri http://www.openstreetmap.org/?lat=51.605638&lon=4.721375
-+DIV_Bre http://www.openstreetmap.org/?lat=51.592709&lon=4.751673
 Bre http://www.openstreetmap.org/?lat=51.595335&lon=4.779997
-
++DIV_Bre http://www.openstreetmap.org/?lat=51.592709&lon=4.751673
++SKIP_BrePri http://www.openstreetmap.org/?lat=51.605638&lon=4.721375
++DIV_BreN http://www.openstreetmap.org/?lat=51.655981&lon=4.686517
++DIV_HS http://www.openstreetmap.org/?lat=51.662328&lon=4.681635
++X363262 http://www.openstreetmap.org/?lat=51.689898&lon=4.663053
++X799703 http://www.openstreetmap.org/?lat=51.726510&lon=4.638827
++X368841 http://www.openstreetmap.org/?lat=51.780825&lon=4.587307
++X927448 http://www.openstreetmap.org/?lat=51.835008&lon=4.580870
++X947505 http://www.openstreetmap.org/?lat=51.854857&lon=4.552556
++DIV_RotS http://www.openstreetmap.org/?lat=51.874544&lon=4.535894
++SKIP_RotLom http://www.openstreetmap.org/?lat=51.880240&lon=4.531045
++SKIP_RotSta http://www.openstreetmap.org/?lat=51.893868&lon=4.519662
++SKIP_RotZuid http://www.openstreetmap.org/?lat=51.904897&lon=4.509866
++SKIP_RotBla http://www.openstreetmap.org/?lat=51.919940&lon=4.489229
++X884214 http://www.openstreetmap.org/?lat=51.926031&lon=4.479010
 RotCen http://www.openstreetmap.org/?lat=51.924995&lon=4.469161
 +DIV_RotW http://www.openstreetmap.org/?lat=51.923341&lon=4.456522
 +X101967 http://www.openstreetmap.org/?lat=51.926931&lon=4.447896
@@ -34,7 +27,16 @@ RotCen http://www.openstreetmap.org/?lat=51.924995&lon=4.469161
 SchAir http://www.openstreetmap.org/?lat=52.309515&lon=4.762273
 +X513549 http://www.openstreetmap.org/?lat=52.325386&lon=4.782400
 +DIV_Zuid http://www.openstreetmap.org/?lat=52.338496&lon=4.828502
-
++X583090 http://www.openstreetmap.org/?lat=52.338112&lon=4.857438
+AmsZuid http://www.openstreetmap.org/?lat=52.338918&lon=4.873424
++SKIP_AmsRAI http://www.openstreetmap.org/?lat=52.336794&lon=4.890461
++DIV_Utr http://www.openstreetmap.org/?lat=52.322429&lon=4.924021
+Dui http://www.openstreetmap.org/?lat=52.323550&lon=4.936552
++X580951 http://www.openstreetmap.org/?lat=52.326996&lon=4.946058
++SKIP_DieZuid http://www.openstreetmap.org/?lat=52.330343&lon=4.956121
++X722247 http://www.openstreetmap.org/?lat=52.340151&lon=4.977279
++DIV_Die http://www.openstreetmap.org/?lat=52.333385&lon=4.995089
++SKIP_Wee http://www.openstreetmap.org/?lat=52.312244&lon=5.044012
 +DIV_Alm http://www.openstreetmap.org/?lat=52.303729&lon=5.065985
 +X990694 http://www.openstreetmap.org/?lat=52.292759&lon=5.097066
 +X757798 http://www.openstreetmap.org/?lat=52.288861&lon=5.147266
@@ -48,3 +50,4 @@ Hil http://www.openstreetmap.org/?lat=52.226676&lon=5.181577
 +DIV_AmeW http://www.openstreetmap.org/?lat=52.153412&lon=5.363088
 AmeCen http://www.openstreetmap.org/?lat=52.153892&lon=5.374117
 +DIV_AmeN http://www.openstreetmap.org/?lat=52.168411&lon=5.395553
+AmeSch http://www.openstreetmap.org/?lat=52.174850&lon=5.403879

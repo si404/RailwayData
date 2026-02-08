@@ -24,7 +24,7 @@ RotCen http://www.openstreetmap.org/?lat=51.924995&lon=4.469161
 +X640994 http://www.openstreetmap.org/?lat=52.194127&lon=4.608293
 +X138485 http://www.openstreetmap.org/?lat=52.258787&lon=4.645919
 +SKIP_Hoo http://www.openstreetmap.org/?lat=52.292824&lon=4.698801
-SchAir http://www.openstreetmap.org/?lat=52.309515&lon=4.762273
++SKIP_SchAir http://www.openstreetmap.org/?lat=52.309515&lon=4.762273
 +X513549 http://www.openstreetmap.org/?lat=52.325386&lon=4.782400
 +DIV_Zuid http://www.openstreetmap.org/?lat=52.338496&lon=4.828502
 +X928321 http://www.openstreetmap.org/?lat=52.346269&lon=4.834242
@@ -35,6 +35,6 @@ SchAir http://www.openstreetmap.org/?lat=52.309515&lon=4.762273
 +X990476 http://www.openstreetmap.org/?lat=52.379702&lon=4.837793
 +SKIP_AmsSlo http://www.openstreetmap.org/?lat=52.388978&lon=4.838448
 +X997402 http://www.openstreetmap.org/?lat=52.395429&lon=4.850641
-+X345661 http://www.openstreetmap.org/?lat=52.388730&lon=4.873145
-+X566067 http://www.openstreetmap.org/?lat=52.385600&lon=4.884067
++DIV_Slo http://www.openstreetmap.org/?lat=52.388730&lon=4.873145
++X566067 http://www.openstreetmap.org/?lat=52.385662&lon=4.884115
 AmsCen http://www.openstreetmap.org/?lat=52.378959&lon=4.900761
