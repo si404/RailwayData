@@ -2,14 +2,13 @@ BurgKem http://www.openstreetmap.org/?lat=51.959424&lon=4.503483
 DeMon http://www.openstreetmap.org/?lat=51.958002&lon=4.500929
 Lid http://www.openstreetmap.org/?lat=51.958617&lon=4.496520
 BerDor http://www.openstreetmap.org/?lat=51.957434&lon=4.494417
-CNALos http://www.openstreetmap.org/?lat=51.953731&lon=4.492185
+CNALos http://www.openstreetmap.org/?lat=51.953739&lon=4.492140
 BerPla http://www.openstreetmap.org/?lat=51.951357&lon=4.489321
 Lom http://www.openstreetmap.org/?lat=51.947634&lon=4.485383
 Koo http://www.openstreetmap.org/?lat=51.945121&lon=4.482991
 +DIV_6 http://www.openstreetmap.org/?lat=51.944652&lon=4.482658
 StaNoo http://www.openstreetmap.org/?lat=51.942248&lon=4.481564
 Soe http://www.openstreetmap.org/?lat=51.939432&lon=4.479396
-+DIV_Zaa http://www.openstreetmap.org/?lat=51.938294&lon=4.479665
 VanHoo http://www.openstreetmap.org/?lat=51.935081&lon=4.475620
 Eud http://www.openstreetmap.org/?lat=51.932766&lon=4.472787
 Noo http://www.openstreetmap.org/?lat=51.929895&lon=4.480169
@@ -19,11 +18,13 @@ HeerBok http://www.openstreetmap.org/?lat=51.927262&lon=4.478109
 Wee http://www.openstreetmap.org/?lat=51.924135&lon=4.476328
 RotCen http://www.openstreetmap.org/?lat=51.925045&lon=4.469247
 Kru http://www.openstreetmap.org/?lat=51.921065&lon=4.471704
-+DIV_5 http://www.openstreetmap.org/?lat=51.918971&lon=4.472272
-Een http://www.openstreetmap.org/?lat=51.916235&lon=4.473345
++DIV_5 http://www.openstreetmap.org/?lat=51.918809&lon=4.472380
+Een http://www.openstreetmap.org/?lat=51.917009&lon=4.472873
 Blo http://www.openstreetmap.org/?lat=51.916092&lon=4.468775
 Mat http://www.openstreetmap.org/?lat=51.914764&lon=4.465878
 Gra http://www.openstreetmap.org/?lat=51.913791&lon=4.463668
-ClaVri http://www.openstreetmap.org/?lat=51.913156&lon=4.459940
-+DIV_Del http://www.openstreetmap.org/?lat=51.912224&lon=4.454849
-Hee http://www.openstreetmap.org/?lat=51.913574&lon=4.453604
+ClaVri_1 +ClaVri http://www.openstreetmap.org/?lat=51.913156&lon=4.459940
+Hee_1 http://www.openstreetmap.org/?lat=51.912399&lon=4.455589
+Hee_2 +Hee http://www.openstreetmap.org/?lat=51.913574&lon=4.453604
+ClaVri_2 http://www.openstreetmap.org/?lat=51.914266&lon=4.458926
+NieBin http://www.openstreetmap.org/?lat=51.914764&lon=4.465878

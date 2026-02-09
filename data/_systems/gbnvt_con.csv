@@ -1,8 +1,9 @@
 systemName;route;banner;groupName;roots
-gbnvt;WCMLA;;West Coast Main Line (A);eng.wcmla,sct.wcmla
+gbnvt;WCMLA;;West Coast Main Line (A, Edinburgh);eng.wcmla,sct.wcmla
+gbnvt;WCMLA;;West Coast Main Line (A, Glasgow);eng.wcmlagla,sct.wcmlagla
 gbnvt;WCMLB;;West Coast Main Line (B);eng.wcmlb
 gbnvt;WCMLC;;West Coast Main Line (C);eng.wcmlc,wls.wcmlc
 gbnvt;WCMLD;;West Coast Main Line (D);eng.wcmld
-gbnvt;WCMLE;;West Coast Main Line (E, Stoke);eng.wcmle
-gbnvt;WCMLE;;West Coast Main Line (E, Crewe);eng.wcmlecre
+gbnvt;WCMLE;;West Coast Main Line (E, via Stoke);eng.wcmle
+gbnvt;WCMLE;;West Coast Main Line (E, via Crewe);eng.wcmlecre
 gbnvt;WCMLF;;West Coast Main Line (F);eng.wcmlf,sct.wcmlf

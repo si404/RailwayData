@@ -3,14 +3,14 @@ Nan http://www.openstreetmap.org/?lat=47.217109&lon=-1.541412
 +X727561 http://www.openstreetmap.org/?lat=47.225018&lon=-1.506586
 +SKIP_Tho http://www.openstreetmap.org/?lat=47.265179&lon=-1.441054
 +SKIP_MauLoi http://www.openstreetmap.org/?lat=47.292868&lon=-1.389298
++SKIP_Cel http://www.openstreetmap.org/?lat=47.313442&lon=-1.350632
 +SKIP_Oud http://www.openstreetmap.org/?lat=47.343247&lon=-1.291977
 +X210941 http://www.openstreetmap.org/?lat=47.347852&lon=-1.249995
 Anc http://www.openstreetmap.org/?lat=47.369495&lon=-1.177940
 +X439142 http://www.openstreetmap.org/?lat=47.375562&lon=-1.139510
-+X547236 http://www.openstreetmap.org/?lat=47.373492&lon=-1.024432
-+X822436 http://www.openstreetmap.org/?lat=47.393774&lon=-0.950317
++SKIP_VarStFlo http://www.openstreetmap.org/?lat=47.374520&lon=-1.019422
 +SKIP_IngLoi http://www.openstreetmap.org/?lat=47.405684&lon=-0.921006
-+X448456 http://www.openstreetmap.org/?lat=47.410389&lon=-0.908260
++SKIP_ChaLoi http://www.openstreetmap.org/?lat=47.410251&lon=-0.868585
 +X669517 http://www.openstreetmap.org/?lat=47.407659&lon=-0.828481
 +DIV_20 http://www.openstreetmap.org/?lat=47.370120&lon=-0.704026
 +SKIP_Pos http://www.openstreetmap.org/?lat=47.371254&lon=-0.691838
