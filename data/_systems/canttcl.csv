@@ -1,3 +1,3 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-canttcl;ON;5;;;5 Eglinton Line;on.5;
-canttcl;ON;6;;;6 Finch West Line;on.6;
+canttcl;ON;5;;;Line 5 Eglinton;on.5;
+canttcl;ON;6;;;Line 6 Finch West;on.6;
