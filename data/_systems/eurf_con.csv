@@ -38,3 +38,54 @@ eurf;CenTwy;;Central Tramway, Scarborough;eng.centwy
 eurf;CliLift;;Cliff Lift, Southend-on-Sea;eng.clilift
 eurf;BabCliRwy;;Babbacombe Cliff Railway, Torquay;eng.babclirwy
 eurf;LegHillTrn;;Legoland Hill Train, Windsor;eng.leghilltrn
+eurf;AllBahn;;Allmendhubelbahn;che.allbahn
+eurf;BraBahn;;Braunwaldbahn;che.brabahn
+eurf;BurBahn;;Bürgenstock-Bahn;che.burbahn
+eurf;ChaBahn;;Chäserrugg-Bahn;che.chabahn
+eurf;CFFunTG;;Chemin de fer funiculaire Territet–Glion;che.cffuntg
+eurf;CFFunVMP;;Chemin de fer funiculaire Vevey–Chardonne–Mont Pèlerin;che.cffunvmp
+eurf;CFAvaSon;;Chemin de fer Les Avants–Sonloup;che.cfavason
+eurf;25;;Dolderbahn;che.25zur
+eurf;110;;Fun'ambule;che.110neu
+eurf;FunCMB;;Funicolare Cassarate–Monte Brè;che.funcmb
+eurf;FunRit;;Funicolare del Ritom;che.funrit
+eurf;FunLMS;;Funicolare Locarno–Madonna del Sasso;che.funlms
+eurf;FunLCS;;Funicolare Lugano Città–Stazione;che.funlcs
+eurf;FunMSS;;Funicolare Monte San Salvatore;che.funmss
+eurf;21;;Funiculaire Bienne–Evilard;che.21bie
+eurf;FunCCE;;Funiculaire Châtelard - Château d'Eau;che.funcce
+eurf;FunCos;;Funiculaire Cossonay–Gare–Ville;che.funcos
+eurf;FunFri;Funiculaire de Fribourg/Standseilbahn Neuveville–Saint-Pierre;che.funfri
+eurf;112;;Funiculaire Ecluse Plan;che.112neu
+eurf;111;;Funiculaire La Coudre Chaumont;che.111neu
+eurf;FunMol;;Funiculaire Moléson sur Gruyères;che.funmol
+eurf;FunSIMS;;Funiculaire Saint-Imier-Mont-Soleil;che.funsims
+eurf;FunSMC;;Funiculaire Sierre–Montana–Crans;che.funsmc
+eurf;FunSLC;;Funiculaire St-Luc Chandolin;che.funslc
+eurf;GelBahn;;Gelmerbahn;che.gelbahn
+eurf;GieBahn;;Giessbachbahn;che.giebahn
+eurf;GurBahn;;Gurtenbahn;che.gurbahn
+eurf;GutBahn;;Gütschbahn;che.gutbahn
+eurf;HarBahn;;Harderbahn;che.harbahn
+eurf;HeiBahn;;Heimwehfluhbahn;che.heibahn
+eurf;22;;Magglingenbahn;che.22bie
+eurf;MarBahn;;Marzilibahn;che.marbahn
+eurf;MetAlp;;Metro Alpin;che.metalp
+eurf;MiniFunEmo;;Minifunic d'Emosson;che.minifunemo
+eurf;MuhBahn;;Mühleggbahn;che.muhbahn
+eurf;MuoMurBahn;;Muottas-Muragl-Bahn;che.muomurbahn
+eurf;NieBahn;;Niesenbahn;che.niebahn
+eurf;ParBahn;;Parsenn Bahn;che.parbahn
+eurf;24;;Polybahn;che.24zur
+eurf;ReiBahn;;Reichenbachfall-Bahn;che.reibahn
+eurf;SchBahn;;Schatzalp-Bahn;che.schbahn
+eurf;23;;Seilbahn Rigiblick;che.23zur
+eurf;StaKriSon;;Standseilbahn Kriens–Sonnenberg;che.stakrison
+eurf;StaSMC;;Standseilbahn St. Moritz–Corviglia;che.stasmc
+eurf;StaBahn;;Stanserhorn-Bahn;che.stabahn
+eurf;StoBahn;;Stoosbahn;che.stobahn
+eurf;SunExp;;SunneggaExpress;che.sunexp
+eurf;TesBahn;;Tessenberg Bahn;che.tesbahn
+eurf;ThuBeaBahn;;Thunersee–Beatenberg Bahn;che.thubeabahn
+eurf;TreSeeBahn;;Treib–Seelisberg-Bahn;che.treseebahn
+eurf;ZugBahn;;Zugerbergbahn;che.zugbahn

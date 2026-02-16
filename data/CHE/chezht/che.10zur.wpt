@@ -1,4 +1,11 @@
-Bah http://www.openstreetmap.org/?lat=47.378062&lon=8.539424
+LOOP +Bah http://www.openstreetmap.org/?lat=47.376999&lon=8.540154
+BahPlaHB http://www.openstreetmap.org/?lat=47.378062&lon=8.539424
++DIV_3W http://www.openstreetmap.org/?lat=47.375902&lon=8.536366
++DIV_3E http://www.openstreetmap.org/?lat=47.375779&lon=8.536908
++DIV_711 http://www.openstreetmap.org/?lat=47.375303&lon=8.539038
+BahStrHB http://www.openstreetmap.org/?lat=47.376100&lon=8.539451
++DIV_Lp http://www.openstreetmap.org/?lat=47.376999&lon=8.540154
++DIV_Hbf http://www.openstreetmap.org/?lat=47.377014&lon=8.541607
 Cen http://www.openstreetmap.org/?lat=47.376750&lon=8.543737
 +DIV_7 http://www.openstreetmap.org/?lat=47.379259&lon=8.544252
 Hale http://www.openstreetmap.org/?lat=47.379004&lon=8.545148
