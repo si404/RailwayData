@@ -5,8 +5,9 @@ Sha http://www.openstreetmap.org/?lat=51.511677&lon=-0.056501
 Lim http://www.openstreetmap.org/?lat=51.512452&lon=-0.039740
 Wes http://www.openstreetmap.org/?lat=51.509432&lon=-0.026715
 +DIV_RoyE http://www.openstreetmap.org/?lat=51.508280&lon=-0.022976
-+DIV_Str http://www.openstreetmap.org/?lat=51.507348&lon=-0.020342
++X778944 http://www.openstreetmap.org/?lat=51.507449&lon=-0.020180
 WestIndQuay http://www.openstreetmap.org/?lat=51.506759&lon=-0.020492
++X527196 http://www.openstreetmap.org/?lat=51.505635&lon=-0.020768
 CanWha http://www.openstreetmap.org/?lat=51.505090&lon=-0.020943
 HerQua http://www.openstreetmap.org/?lat=51.502939&lon=-0.021586
 SouQuay http://www.openstreetmap.org/?lat=51.500041&lon=-0.016222
@@ -14,6 +15,7 @@ Cro http://www.openstreetmap.org/?lat=51.495913&lon=-0.014462
 Mud http://www.openstreetmap.org/?lat=51.491491&lon=-0.014913
 IslGar http://www.openstreetmap.org/?lat=51.488057&lon=-0.010450
 CutSark +CUS http://www.openstreetmap.org/?lat=51.481764&lon=-0.010664
++X797095 http://www.openstreetmap.org/?lat=51.478259&lon=-0.013036
 Gre http://www.openstreetmap.org/?lat=51.478102&lon=-0.015364
 DepBri http://www.openstreetmap.org/?lat=51.474173&lon=-0.022402
 ElvRd http://www.openstreetmap.org/?lat=51.468519&lon=-0.016222
