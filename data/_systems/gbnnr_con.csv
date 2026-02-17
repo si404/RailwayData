@@ -32,8 +32,8 @@ gbnnr;RotLn;;Rotherham Line;eng.rotln
 gbnnr;SelLn;;Selby Line;eng.selln
 gbnnr;SouHumLn;;South Humberside Line;eng.souhumln
 gbnnr;WakLn;;Wakefield Line (Doncaster);eng.waklndon
-gbnnr;WakLn;;Wakefield Line (Sheffield stopper);eng.waklnshe
-gbnnr;WakLn;;Wakefield Line (Sheffield fast);eng.waklnfas
+gbnnr;WakLn;;Wakefield Line (Sheffield);eng.waklnshe
+gbnnr;WakLn;;Yorkshire Flyer;eng.waklnfas
 gbnnr;WhaLn;;Wharfdale Line (Bradford);eng.whalnbra
 gbnnr;WhaLn;;Wharfedale Line (Leeds);eng.whalnlee
 gbnnr;YorkLn;;York Line;eng.yorkln
