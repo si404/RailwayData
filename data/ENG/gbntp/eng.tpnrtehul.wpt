@@ -1,6 +1,5 @@
-LivLimeSt http://www.openstreetmap.org/?lat=53.407511&lon=-2.977295
-+SKIP_EdgeHill http://www.openstreetmap.org/?lat=53.402471&lon=-2.946589
-+DIV_WCMLW http://www.openstreetmap.org/?lat=53.403769&lon=-2.935710
+LivLimeSt http://www.openstreetmap.org/?lat=53.407600&lon=-2.977595
++SKIP_EdgeHill http://www.openstreetmap.org/?lat=53.402500&lon=-2.946659
 +SKIP_WavTecPark http://www.openstreetmap.org/?lat=53.405221&lon=-2.922878
 +SKIP_BroGre http://www.openstreetmap.org/?lat=53.406507&lon=-2.893374
 +SKIP_Roby http://www.openstreetmap.org/?lat=53.410091&lon=-2.855802
