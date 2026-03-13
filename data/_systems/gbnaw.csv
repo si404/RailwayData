@@ -23,7 +23,6 @@ gbnaw;WLS;CamLn;;;Cambrian Line;wls.camln;
 gbnaw;WLS;LlaManLn;;;Llandudno - Manchester Line;wls.llamanln;
 gbnaw;ENG;LlaManLn;;;Llandudno - Manchester Line;eng.llamanln;
 gbnaw;ENG;LivWreLn;;;Liverpool - Wrescam Line;eng.livwreln;
-gbnaw;WLS;LivWreLn;;;Liverpool - Wrescam Line;wls.livwreln;
 gbnaw;ENG;CheCreLn;;;Chester - Crewe Line;eng.checreln;
 gbnaw;WLS;CamCoaLn;;;Cambrian Coast Line;wls.camcoaln;
 gbnaw;WLS;WWalLn;;;West Wales Line (Milford Haven);wls.wwalln;
