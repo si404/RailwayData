@@ -14,7 +14,7 @@ BirNewSt http://www.openstreetmap.org/?lat=52.477651&lon=-1.898704
 SanDud http://www.openstreetmap.org/?lat=52.508637&lon=-2.011756
 +SKIP_DudPort http://www.openstreetmap.org/?lat=52.524460&lon=-2.049294
 +SKIP_Tip http://www.openstreetmap.org/?lat=52.530528&lon=-2.065738
-+SKIP_Cos http://www.openstreetmap.org/?lat=52.545324&lon=-2.085809
++SKIP_Cose http://www.openstreetmap.org/?lat=52.545324&lon=-2.085809
 +DIV_Bes http://www.openstreetmap.org/?lat=52.586691&lon=-2.115466
 Wol http://www.openstreetmap.org/?lat=52.587987&lon=-2.120227
 +DIV_BLLN http://www.openstreetmap.org/?lat=52.594058&lon=-2.124637
@@ -22,7 +22,7 @@ Wol http://www.openstreetmap.org/?lat=52.587987&lon=-2.120227
 +SKIP_Bil http://www.openstreetmap.org/?lat=52.623767&lon=-2.186636
 +SKIP_Cod http://www.openstreetmap.org/?lat=52.627420&lon=-2.201675
 +SKIP_Alb http://www.openstreetmap.org/?lat=52.638228&lon=-2.269219
-+SKIP_Cos http://www.openstreetmap.org/?lat=52.644847&lon=-2.300692
++SKIP_Cosf http://www.openstreetmap.org/?lat=52.644847&lon=-2.300692
 +SKIP_Shi http://www.openstreetmap.org/?lat=52.666007&lon=-2.371692
 TelCen http://www.openstreetmap.org/?lat=52.681113&lon=-2.441194
 +SKIP_Oak http://www.openstreetmap.org/?lat=52.693090&lon=-2.450195
@@ -32,10 +32,10 @@ Wel http://www.openstreetmap.org/?lat=52.701434&lon=-2.516727
 +X631591 http://www.openstreetmap.org/?lat=52.699176&lon=-2.622879
 +DIV_HoW http://www.openstreetmap.org/?lat=52.709994&lon=-2.746840
 Shr http://www.openstreetmap.org/?lat=52.711768&lon=-2.749329
-+DIV_Cam http://www.openstreetmap.org/?lat=52.709994&lon=-2.746840
-+DIV_Mar http://www.openstreetmap.org/?lat=52.700620&lon=-2.743299
-+X454443 http://www.openstreetmap.org/?lat=52.684422&lon=-2.780313
-+X523837 http://www.openstreetmap.org/?lat=52.678021&lon=-2.841854
-+X309201 http://www.openstreetmap.org/?lat=52.693110&lon=-2.909660
-+X331591 http://www.openstreetmap.org/?lat=52.690262&lon=-2.943735
-ENG/WLS http://www.openstreetmap.org/?lat=52.703422&lon=-3.025789
++DIV_Sal http://www.openstreetmap.org/?lat=52.709994&lon=-2.746840
++DIV_Mar http://www.openstreetmap.org/?lat=52.700782&lon=-2.743192
++X454443 http://www.openstreetmap.org/?lat=52.684430&lon=-2.780370
++X523837 http://www.openstreetmap.org/?lat=52.677934&lon=-2.841894
++X309201 http://www.openstreetmap.org/?lat=52.693107&lon=-2.909491
++X331591 http://www.openstreetmap.org/?lat=52.690309&lon=-2.943703
+ENG/WLS http://www.openstreetmap.org/?lat=52.703339&lon=-3.026275
