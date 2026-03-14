@@ -1,5 +1,6 @@
 Rea http://www.openstreetmap.org/?lat=51.459221&lon=-0.972322
-+DIV_Sou http://www.openstreetmap.org/?lat=51.462206&lon=-0.998093
++X831491 http://www.openstreetmap.org/?lat=51.460852&lon=-0.989585
++DIV_TVLE http://www.openstreetmap.org/?lat=51.462206&lon=-0.998093
 +SKIP_Til http://www.openstreetmap.org/?lat=51.471690&lon=-1.029598
 +X608583 http://www.openstreetmap.org/?lat=51.482694&lon=-1.054827
 +SKIP_Pan http://www.openstreetmap.org/?lat=51.485370&lon=-1.090420
@@ -8,8 +9,8 @@ Rea http://www.openstreetmap.org/?lat=51.459221&lon=-0.972322
 +X315738 http://www.openstreetmap.org/?lat=51.548513&lon=-1.135411
 +SKIP_Cho http://www.openstreetmap.org/?lat=51.570453&lon=-1.158610
 +X304652 http://www.openstreetmap.org/?lat=51.594320&lon=-1.193545
-+DIV_TVLW http://www.openstreetmap.org/?lat=51.604534&lon=-1.222076
-+DIV_TVLE http://www.openstreetmap.org/?lat=51.609212&lon=-1.236190
++DIV_CotE http://www.openstreetmap.org/?lat=51.604534&lon=-1.222076
++DIV_TVLW http://www.openstreetmap.org/?lat=51.609212&lon=-1.236190
 +DIV_OCL http://www.openstreetmap.org/?lat=51.620919&lon=-1.244601
 +SKIP_App http://www.openstreetmap.org/?lat=51.639487&lon=-1.242480
 +SKIP_Cul http://www.openstreetmap.org/?lat=51.653891&lon=-1.236557
