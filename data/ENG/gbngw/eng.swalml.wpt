@@ -24,7 +24,7 @@ LonPad http://www.openstreetmap.org/?lat=51.516995&lon=-0.177369
 +X930791 http://www.openstreetmap.org/?lat=51.460667&lon=-0.919402
 Rea http://www.openstreetmap.org/?lat=51.459221&lon=-0.972322
 +X581923 http://www.openstreetmap.org/?lat=51.460147&lon=-0.981892
-+X459795 http://www.openstreetmap.org/?lat=51.461765&lon=-0.995765
++X459795 http://www.openstreetmap.org/?lat=51.462537&lon=-1.002170
 +X259676 http://www.openstreetmap.org/?lat=51.471601&lon=-1.029781
 +X358731 http://www.openstreetmap.org/?lat=51.482601&lon=-1.054881
 +X163216 http://www.openstreetmap.org/?lat=51.485256&lon=-1.090487
@@ -48,9 +48,10 @@ Swi http://www.openstreetmap.org/?lat=51.565733&lon=-1.785329
 +X803779 http://www.openstreetmap.org/?lat=51.544073&lon=-2.210427
 +X577872 http://www.openstreetmap.org/?lat=51.529241&lon=-2.287203
 +X442704 http://www.openstreetmap.org/?lat=51.532563&lon=-2.392938
-+DIV_XCMLN http://www.openstreetmap.org/?lat=51.520634&lon=-2.435832
-BriPkwy http://www.openstreetmap.org/?lat=51.513867&lon=-2.542723
-+DIV_XCMLS http://www.openstreetmap.org/?lat=51.515914&lon=-2.560823
++DIV_XCMLN http://www.openstreetmap.org/?lat=51.520615&lon=-2.436285
+BriPkwy http://www.openstreetmap.org/?lat=51.513879&lon=-2.542981
++DIV_XCMLS http://www.openstreetmap.org/?lat=51.514585&lon=-2.547766
++DIV_WML http://www.openstreetmap.org/?lat=51.523646&lon=-2.561477
 +SKIP_Pat http://www.openstreetmap.org/?lat=51.525820&lon=-2.562344
 +SKIP_Pil http://www.openstreetmap.org/?lat=51.556374&lon=-2.626730
 ENG/WLS http://www.openstreetmap.org/?lat=51.580442&lon=-2.703447

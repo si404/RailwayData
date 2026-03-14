@@ -1,8 +1,8 @@
 Oxf http://www.openstreetmap.org/?lat=51.753403&lon=-1.270294
-+X851833 http://www.openstreetmap.org/?lat=51.705292&lon=-1.238236
-+SKIP_Rad http://www.openstreetmap.org/?lat=51.685973&lon=-1.240211
-+SKIP_Cul http://www.openstreetmap.org/?lat=51.653848&lon=-1.236606
-+SKIP_App http://www.openstreetmap.org/?lat=51.639548&lon=-1.242464
++X851833 http://www.openstreetmap.org/?lat=51.705294&lon=-1.238277
++SKIP_Rad http://www.openstreetmap.org/?lat=51.685626&lon=-1.240259
++SKIP_Cul http://www.openstreetmap.org/?lat=51.653891&lon=-1.236557
++SKIP_App http://www.openstreetmap.org/?lat=51.639487&lon=-1.242480
 +DIV_CotE http://www.openstreetmap.org/?lat=51.620914&lon=-1.244566
 +DIV_GWML http://www.openstreetmap.org/?lat=51.614206&lon=-1.248751
 +X852284 http://www.openstreetmap.org/?lat=51.621469&lon=-1.319816
