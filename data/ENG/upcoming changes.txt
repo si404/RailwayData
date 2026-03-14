@@ -43,21 +43,22 @@ South Wales Metro to come into being at some point (other than Bay line redoubli
 New Station timeline (includes stations on new tracks). Only under construction stations listed
 
 National Rail
+	Darlaston		Salop Line      	19-Mar-2026	already in browser
+	Willenhall		Salop Line      	19-Mar-2026	already in browser
 	Bedlington      	Northumberland Line	29-Mar-2026	already in browser
-	Kings Heath     	Camp Hill Line  	spring 2026
-	Moseley Village 	Camp Hill Line  	spring 2026
-	Pineapple Road  	Camp Hill Line  	spring 2026
+	Kings Heath     	Camp Hill Line  	07-Apr-2026
+	Moseley Village 	Camp Hill Line  	07-Apr-2026
+	Pineapple Road  	Camp Hill Line  	07-Apr-2026
 	Cambridge South 	WAML/Fen Line/etc 	28?Jun-2026
 	Okehampton Interchange	Dartmoor Line		   Sep-2026
 	Balgray 		Neilston Line   	autumn 2026
-	Darlaston		Salop Line      	       2026
-	Willenhall		Salop Line      	       2026
-	North Filton    	Filton Line		       2026
+	Brabazon	    	Filton Line		       2026
 	White Rose      	Huddersfield Line	   Jan-2027
 	Charfield		Severnside Line		spring 2027
 	Pill            	Portishead Line 	  late 2027
 	Portishead      	Portishead Line 	  late 2027
 	Ravensthorpe		TPR Upgrade relocation	summer 2028
+	Henbury			Filton Line		     ??
 	Winslow         	East-West Rail  	    ????	awaiting opening (dispute about staffing of trains)
 	Wixhams         	Thameslink      	     ?? 	paused for rethink due to Universal Park meaning it will need to be bigger
 	Old Oak Common  	High Speed 2     	     ??
