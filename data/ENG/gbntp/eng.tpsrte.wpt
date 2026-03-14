@@ -1,8 +1,9 @@
-LivLimeSt http://www.openstreetmap.org/?lat=53.407511&lon=-2.977295
-+SKIP_EdgeHill http://www.openstreetmap.org/?lat=53.402471&lon=-2.946589
-+DIV_TPNR http://www.openstreetmap.org/?lat=53.403769&lon=-2.935710
-+SKIP_MosHill http://www.openstreetmap.org/?lat=53.378554&lon=-2.914853
-+SKIP_WestAll http://www.openstreetmap.org/?lat=53.369465&lon=-2.907343
+LivLimeSt http://www.openstreetmap.org/?lat=53.407600&lon=-2.977595
++SKIP_EdgeHill http://www.openstreetmap.org/?lat=53.402500&lon=-2.946659
++X770844 http://www.openstreetmap.org/?lat=53.403878&lon=-2.933583
++DIV_WCML http://www.openstreetmap.org/?lat=53.395445&lon=-2.927384
++SKIP_MosHill http://www.openstreetmap.org/?lat=53.378554&lon=-2.914832
++SKIP_WestAll http://www.openstreetmap.org/?lat=53.369355&lon=-2.907136
 LivSouPkwy http://www.openstreetmap.org/?lat=53.357698&lon=-2.889404
 +DIV_Nor http://www.openstreetmap.org/?lat=53.357307&lon=-2.878568
 +SKIP_HunCro http://www.openstreetmap.org/?lat=53.360701&lon=-2.855458
