@@ -21,7 +21,7 @@ Bro http://www.openstreetmap.org/?lat=52.074082&lon=4.305171
 +X906549 http://www.openstreetmap.org/?lat=52.075025&lon=4.307907
 GroMar http://www.openstreetmap.org/?lat=52.075573&lon=4.309548
 Spui http://www.openstreetmap.org/?lat=52.077274&lon=4.314312
-CenSta +DenHaagCen http://www.openstreetmap.org/?lat=52.080917&lon=4.324450
+CenSta http://www.openstreetmap.org/?lat=52.080917&lon=4.324450
 +DIV_26 http://www.openstreetmap.org/?lat=52.081807&lon=4.332044
 Bea http://www.openstreetmap.org/?lat=52.079979&lon=4.334959
 +DIV_EN http://www.openstreetmap.org/?lat=52.077455&lon=4.339213
@@ -32,7 +32,7 @@ LeiVoo http://www.openstreetmap.org/?lat=52.077571&lon=4.382054
 For http://www.openstreetmap.org/?lat=52.069819&lon=4.393072
 LeiCen http://www.openstreetmap.org/?lat=52.064729&lon=4.400384
 +DIV_ES http://www.openstreetmap.org/?lat=52.059826&lon=4.406537
-VooLaag +VooLaag_1 http://www.openstreetmap.org/?lat=52.062686&lon=4.471092
+VooLaag http://www.openstreetmap.org/?lat=52.062686&lon=4.471092
 CenWest_1 http://www.openstreetmap.org/?lat=52.060648&lon=4.483484
 Sta http://www.openstreetmap.org/?lat=52.061086&lon=4.493119
 Pal http://www.openstreetmap.org/?lat=52.059683&lon=4.506412
@@ -41,7 +41,7 @@ Seg http://www.openstreetmap.org/?lat=52.063054&lon=4.515330
 Lei http://www.openstreetmap.org/?lat=52.069009&lon=4.509585
 DeLey http://www.openstreetmap.org/?lat=52.071943&lon=4.494894
 Buy http://www.openstreetmap.org/?lat=52.066759&lon=4.478669
-VooHoog +VooLaag_2 http://www.openstreetmap.org/?lat=52.062686&lon=4.471092
+VooHoog http://www.openstreetmap.org/?lat=52.062686&lon=4.471092
 Mee http://www.openstreetmap.org/?lat=52.055423&lon=4.469917
 Dri http://www.openstreetmap.org/?lat=52.048456&lon=4.477293
 Del http://www.openstreetmap.org/?lat=52.050821&lon=4.487030
