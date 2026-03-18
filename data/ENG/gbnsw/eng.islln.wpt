@@ -1,8 +1,8 @@
-RydePierHead http://www.openstreetmap.org/?lat=50.739042&lon=-1.160431
-RydeEsp http://www.openstreetmap.org/?lat=50.733040&lon=-1.159616
-StJohRd http://www.openstreetmap.org/?lat=50.724252&lon=-1.156654
-SmaJct http://www.openstreetmap.org/?lat=50.711440&lon=-1.155045
-Bra http://www.openstreetmap.org/?lat=50.678302&lon=-1.138630
-San http://www.openstreetmap.org/?lat=50.657004&lon=-1.162233
-Lake http://www.openstreetmap.org/?lat=50.646120&lon=-1.166439
-Sha http://www.openstreetmap.org/?lat=50.633723&lon=-1.180151
+RydePierHead http://www.openstreetmap.org/?lat=50.738572&lon=-1.160694
+RydeEsp http://www.openstreetmap.org/?lat=50.733048&lon=-1.159634
+RydeStJohRd +StJohRd http://www.openstreetmap.org/?lat=50.724128&lon=-1.156788
+SmaJct http://www.openstreetmap.org/?lat=50.711464&lon=-1.155147
+Bra http://www.openstreetmap.org/?lat=50.678297&lon=-1.138606
+San http://www.openstreetmap.org/?lat=50.656997&lon=-1.162287
+Lake http://www.openstreetmap.org/?lat=50.646183&lon=-1.166469
+Sha http://www.openstreetmap.org/?lat=50.633863&lon=-1.179912
