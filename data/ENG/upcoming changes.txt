@@ -11,8 +11,8 @@ GBR will be formally created about 12 months after legislation (published 2025-1
 		Greater Anglia           (LE)   	12 Oct 2025 <- moved from NR to GBR
 		West Midlands Trains     (LN, WM)	01 Feb 2026 <- moved from NR to GBR
 		Govia Thameslink Railway (TL,SN,GX,GN)	31 May 2026
-		Chiltern Railways        (CH)   	2026 (announced, planned to be next after GTR) / 12 Dec 2027 (contract end date)
-		Great Western Railway    (GW)   	2026 (announced, planned to be next after GTR) / 25 Jun 2028 (contract end date)
+		Chiltern Railways        (CH)   	20 Sep 2026
+		Great Western Railway    (GW)   	20 Sep 2026
 		Avanti West Coast        (VT)   	18 Oct 2026 (contract end date)
 		East Midlands Railway    (EM)   	18 Oct 2026 (contract end date)
 		CrossCountry             (XC)   	15 Oct 2027 (contract end date)
@@ -43,8 +43,6 @@ South Wales Metro to come into being at some point (other than Bay line redoubli
 New Station timeline (includes stations on new tracks). Only under construction stations listed
 
 National Rail
-	Darlaston		Salop Line      	19-Mar-2026	already in browser
-	Willenhall		Salop Line      	19-Mar-2026	already in browser
 	Bedlington      	Northumberland Line	29-Mar-2026	already in browser
 	Kings Heath     	Camp Hill Line  	07-Apr-2026
 	Moseley Village 	Camp Hill Line  	07-Apr-2026
@@ -93,8 +91,8 @@ Metro / Light Rail
 ---------------------------------------------
 
 OPERATIONS
-
-New services E-W Rail and Camp Hill Line may begin before May 2026
+New service Camp Hill Line begins 07 Apr 2026
+New service E-W Rail may begin before May 2026
 
 May 2026 Timetable change
 	TfW	 hourly Liverpool - Llandudno
