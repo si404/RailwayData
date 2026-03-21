@@ -1,2 +1,3 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-gbnwmm;ENG;WMM1;;;Line 1;eng.wmm1;
+gbnwmm;ENG;WMM;Wol;;Wolverhampton Station - Edgbaston Village;eng.wmmwol;WMM1
+gbnwmm;ENG;WMM;StG;;St Georges - Millennium Point - Edgbaston;eng.wmmstg;

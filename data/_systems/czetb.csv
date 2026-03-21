@@ -1,5 +1,5 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-czetb;CZE;1;;Brn;Brno;cze.01brn;
+czetb;CZE;1;;Brn;Brno;cze.01brn;11Brn
 czetb;CZE;2;;Brn;Brno;cze.02brn;
 czetb;CZE;3;;Brn;Brno;cze.03brn;
 czetb;CZE;4;;Brn;Brno;cze.04brn;
@@ -9,5 +9,4 @@ czetb;CZE;7;;Brn;Brno;cze.07brn;
 czetb;CZE;8;;Brn;Brno;cze.08brn;
 czetb;CZE;9;;Brn;Brno;cze.09brn;
 czetb;CZE;10;;Brn;Brno;cze.10brn;
-czetb;CZE;11;;Brn;Brno;cze.11brn;
 czetb;CZE;12;;Brn;Brno;cze.12brn;
