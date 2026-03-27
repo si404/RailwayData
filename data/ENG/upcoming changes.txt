@@ -43,7 +43,6 @@ South Wales Metro to come into being at some point (other than Bay line redoubli
 New Station timeline (includes stations on new tracks). Only under construction stations listed
 
 National Rail
-	Bedlington      	Northumberland Line	29-Mar-2026	already in browser
 	Kings Heath     	Camp Hill Line  	07-Apr-2026
 	Moseley Village 	Camp Hill Line  	07-Apr-2026
 	Pineapple Road  	Camp Hill Line  	07-Apr-2026
@@ -64,9 +63,9 @@ National Rail
 	Birmingham CurzonStreet	High Speed 2    	     ??
 
 Metro / Light Rail
-	Magna            	Sheffield Supertram	 early 2026
-	Albert Street   	WM Metro Eastside	 early 2026
-	Millennium Point	WM Metro Eastside	 early 2026
+	Magna            	Sheffield Supertram	09-Apr-2026
+	Albert Street   	WM Metro Eastside	 early 2026	already in browser
+	Millennium Point	WM Metro Eastside	 early 2026	already in browser
 	Great Bridge    	WM Metro Dudley 	   Aug-2026
 	Horseley Road   	WM Metro Dudley 	   Aug-2026
 	Dudley Port     	WM Metro Dudley 	   Aug-2026
