@@ -43,9 +43,9 @@ South Wales Metro to come into being at some point (other than Bay line redoubli
 New Station timeline (includes stations on new tracks). Only under construction stations listed
 
 National Rail
-	Kings Heath     	Camp Hill Line  	07-Apr-2026
-	Moseley Village 	Camp Hill Line  	07-Apr-2026
-	Pineapple Road  	Camp Hill Line  	07-Apr-2026
+	Kings Heath     	Camp Hill Line  	07-Apr-2026	already in browser
+	Moseley Village 	Camp Hill Line  	07-Apr-2026	already in browser
+	Pineapple Road  	Camp Hill Line  	07-Apr-2026	already in browser
 	Cambridge South 	WAML/Fen Line/etc 	28?Jun-2026
 	Okehampton Interchange	Dartmoor Line		   Sep-2026
 	Balgray 		Neilston Line   	autumn 2026
@@ -63,7 +63,7 @@ National Rail
 	Birmingham CurzonStreet	High Speed 2    	     ??
 
 Metro / Light Rail
-	Magna            	Sheffield Supertram	09-Apr-2026
+	Magna            	Sheffield Supertram	09-Apr-2026	already in browser
 	Albert Street   	WM Metro Eastside	 early 2026	already in browser
 	Millennium Point	WM Metro Eastside	 early 2026	already in browser
 	Great Bridge    	WM Metro Dudley 	   Aug-2026
@@ -90,7 +90,7 @@ Metro / Light Rail
 ---------------------------------------------
 
 OPERATIONS
-New service Camp Hill Line begins 07 Apr 2026
+New service Camp Hill Line begins 07 Apr 2026	already in browser
 New service E-W Rail may begin before May 2026
 
 May 2026 Timetable change
@@ -98,7 +98,6 @@ May 2026 Timetable change
 		 hourly Wrexham - Crewe
 		 hourly Manchester - Holyhead
 		2hourly Birmingham - Llandudno Junction
-		2hourly Cardiff - Holyhead
 	Lumo	Stirling service starts
-
+	SWR	Reading line calls at Vauxhall
 	
