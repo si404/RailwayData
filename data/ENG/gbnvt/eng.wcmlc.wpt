@@ -36,7 +36,7 @@ LonEus http://www.openstreetmap.org/?lat=51.528784&lon=-0.134239
 +X959411 http://www.openstreetmap.org/?lat=51.952163&lon=-0.720128
 +X982367 http://www.openstreetmap.org/?lat=51.995468&lon=-0.736384
 +X876583 http://www.openstreetmap.org/?lat=52.008848&lon=-0.743101
-MilKeyCen http://www.openstreetmap.org/?lat=52.034041&lon=-0.774590
++SKIP_MilKeyCen http://www.openstreetmap.org/?lat=52.034041&lon=-0.774590
 +X730789 http://www.openstreetmap.org/?lat=52.065946&lon=-0.804872
 +X489080 http://www.openstreetmap.org/?lat=52.100230&lon=-0.847669
 +X826717 http://www.openstreetmap.org/?lat=52.172945&lon=-0.912466
@@ -49,7 +49,7 @@ MilKeyCen http://www.openstreetmap.org/?lat=52.034041&lon=-0.774590
 +X415995 http://www.openstreetmap.org/?lat=52.434691&lon=-1.380613
 +X955320 http://www.openstreetmap.org/?lat=52.472377&lon=-1.435309
 +X808478 http://www.openstreetmap.org/?lat=52.512676&lon=-1.448822
-Nun http://www.openstreetmap.org/?lat=52.526744&lon=-1.464207
++SKIP_Nun http://www.openstreetmap.org/?lat=52.526744&lon=-1.464207
 +SKIP_Ath http://www.openstreetmap.org/?lat=52.578407&lon=-1.552291
 +X884373 http://www.openstreetmap.org/?lat=52.595164&lon=-1.581497
 +SKIP_Pol http://www.openstreetmap.org/?lat=52.625896&lon=-1.610602

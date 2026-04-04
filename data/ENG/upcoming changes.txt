@@ -27,7 +27,7 @@ GBR will be formally created about 12 months after legislation (published 2025-1
 		Merseyrail      	(ME)	regionally managed (Liverpool City Region)	operating contract began 2003-07-20 and ends 2028-07-20
 		Caledonian Sleeper	(CS)	regional operator (Scottish Government)
 		ScotRail        	(SR)	regional operator (Scottish Government)
-		TfW Rail        	(AW)	regional operator (Welsh Government)    	will become a devolved part of GBR?
+		TfW Rail        	(AW)	regional operator (Welsh Government)
 		Eurostar		(ES)	open access                              	staying that way
 		Grand Central   	(GC)	open access                              	contract began 2007-12-18 and ends 2026-12-??
 		Heathrow Express	(HX)	open access                              	contract began 1998-06-23 and ends 2028-??-??
