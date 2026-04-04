@@ -11,7 +11,7 @@ Northeast Corridor local transit;NECor;usambtx,usambta,usambtlr,usacndx,usalirr,
 LA Metro;LAMet;usalams,usalamlr
 Los Angeles;LosAngeles;usascax,usalams,usalamlr
 Cleveland;RTA;usarta,usartalr
-Bay Area;SanFran;usabart,usamuni,usasfcc,usaebart;usavta;usajpbx;usasmart;usaace
+Bay Area;SanFran;usabart,usamuni,usasfcc,usaebart,usavta,usajpbx,usasmart,usaace
 Montreal;Montreal;canstm,canrem
 Toronto;Toronto;cango,canttc,cantsc
 Amsterdam;Amsterdam;nldam,nldat
