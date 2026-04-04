@@ -1,4 +1,7 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
+usair;CA;AngFli;;;Angels Flight;ca.angfli;
+usair;IA;FenPlEle;;;Fenelon Place Elevator;ia.fenplele;
 usair;PA;Duq;;;Duquesne Incline;pa.duq;
 usair;PA;Mon;;;Monongahela Incline;pa.mon;
+usair;PA;Joh;;;Johnstown Incline;pa.joh;
 usair;TN;LooMouIR;;;Lookout Mountain Incline Railroad;tn.loomouir;
