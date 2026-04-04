@@ -57,9 +57,11 @@ LonBri http://www.openstreetmap.org/?lat=51.504232&lon=-0.084994
 +SKIP_PenWest http://www.openstreetmap.org/?lat=51.417496&lon=-0.060623
 +SKIP_Ane http://www.openstreetmap.org/?lat=51.412581&lon=-0.065513
 +DIV_Gip http://www.openstreetmap.org/?lat=51.405454&lon=-0.069990
-+SKIP_NorJct http://www.openstreetmap.org/?lat=51.397171&lon=-0.074697
++SKIP_NorJct http://www.openstreetmap.org/?lat=51.397218&lon=-0.074673
 +DIV_WinS http://www.openstreetmap.org/?lat=51.390148&lon=-0.080327
-+DIV_WLL http://www.openstreetmap.org/?lat=51.385843&lon=-0.086560
++DIV_Cat http://www.openstreetmap.org/?lat=51.385843&lon=-0.086560
++DIV_SML http://www.openstreetmap.org/?lat=51.383396&lon=-0.088862
++X287449 http://www.openstreetmap.org/?lat=51.381170&lon=-0.090592
 EastCro http://www.openstreetmap.org/?lat=51.375839&lon=-0.092729
 +X651906 http://www.openstreetmap.org/?lat=51.362934&lon=-0.093470
 +X684673 http://www.openstreetmap.org/?lat=51.361212&lon=-0.093507

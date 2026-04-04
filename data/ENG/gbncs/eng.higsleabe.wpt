@@ -89,7 +89,7 @@ BirInt http://www.openstreetmap.org/?lat=52.450779&lon=-1.725328
 +X601624 http://www.openstreetmap.org/?lat=52.962418&lon=-2.309189
 +X455838 http://www.openstreetmap.org/?lat=53.046505&lon=-2.407806
 +DIV_MarS http://www.openstreetmap.org/?lat=53.084862&lon=-2.430296
-+SKIP_Cre http://www.openstreetmap.org/?lat=53.088960&lon=-2.432646
+Cre http://www.openstreetmap.org/?lat=53.088960&lon=-2.432646
 +DIV_MarN http://www.openstreetmap.org/?lat=53.091975&lon=-2.434351
 +SKIP_Win http://www.openstreetmap.org/?lat=53.190463&lon=-2.494339
 +SKIP_Har http://www.openstreetmap.org/?lat=53.241571&lon=-2.553527

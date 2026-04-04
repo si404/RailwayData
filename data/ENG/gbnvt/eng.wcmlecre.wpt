@@ -66,7 +66,7 @@ LonEus http://www.openstreetmap.org/?lat=51.528784&lon=-0.134239
 +X498230 http://www.openstreetmap.org/?lat=52.789365&lon=-2.048703
 +X467783 http://www.openstreetmap.org/?lat=52.800277&lon=-2.081931
 +DIV_BLL http://www.openstreetmap.org/?lat=52.797963&lon=-2.116338
-+SKIP_Sta http://www.openstreetmap.org/?lat=52.803572&lon=-2.122647
+Sta http://www.openstreetmap.org/?lat=52.803572&lon=-2.122647
 +X268987 http://www.openstreetmap.org/?lat=52.844231&lon=-2.180078
 +DIV_Pot http://www.openstreetmap.org/?lat=52.866591&lon=-2.196321
 +X833913 http://www.openstreetmap.org/?lat=52.897228&lon=-2.251339
