@@ -63,8 +63,6 @@ National Rail
 	Birmingham CurzonStreet	High Speed 2    	     ??
 
 Metro / Light Rail
-	Albert Street   	WM Metro Eastside	05-Apr-2026	already in browser
-	Millennium Point	WM Metro Eastside	05-Apr-2026	already in browser
 	Magna            	Sheffield Supertram	09-Apr-2026	already in browser
 	Great Bridge    	WM Metro Dudley 	   Aug-2026
 	Horseley Road   	WM Metro Dudley 	   Aug-2026
