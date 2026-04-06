@@ -7,10 +7,11 @@ Str http://www.openstreetmap.org/?lat=51.541671&lon=-0.003927
 +SKIP_Mar http://www.openstreetmap.org/?lat=51.545961&lon=0.005960
 +SKIP_ForGate http://www.openstreetmap.org/?lat=51.549181&lon=0.023341
 +DIV_LizE http://www.openstreetmap.org/?lat=51.550922&lon=0.035335
-+DIV_SufW http://www.openstreetmap.org/?lat=51.549528&lon=0.043216
++DIV_SufW http://www.openstreetmap.org/?lat=51.549426&lon=0.043610
 +SKIP_WooPark http://www.openstreetmap.org/?lat=51.549171&lon=0.044729
-+X824107 http://www.openstreetmap.org/?lat=51.544180&lon=0.068536
-+DIV_FenW http://www.openstreetmap.org/?lat=51.541553&lon=0.076432
++X531139 http://www.openstreetmap.org/?lat=51.544535&lon=0.066787
++X566739 http://www.openstreetmap.org/?lat=51.543191&lon=0.072162
++DIV_FenW http://www.openstreetmap.org/?lat=51.541266&lon=0.077084
 Bar http://www.openstreetmap.org/?lat=51.540263&lon=0.079436
 +DIV_SufE http://www.openstreetmap.org/?lat=51.538001&lon=0.083857
 +DIV_FenE http://www.openstreetmap.org/?lat=51.537510&lon=0.086936

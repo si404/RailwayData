@@ -64,8 +64,6 @@ National Rail
 
 Metro / Light Rail
 	Magna            	Sheffield Supertram	09-Apr-2026	already in browser
-	Albert Street   	WM Metro Eastside	 early 2026	already in browser
-	Millennium Point	WM Metro Eastside	 early 2026	already in browser
 	Great Bridge    	WM Metro Dudley 	   Aug-2026
 	Horseley Road   	WM Metro Dudley 	   Aug-2026
 	Dudley Port     	WM Metro Dudley 	   Aug-2026

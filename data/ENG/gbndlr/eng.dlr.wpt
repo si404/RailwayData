@@ -1,22 +1,24 @@
-Bank +BAN http://www.openstreetmap.org/?lat=51.513366&lon=-0.088953
-+X658288 http://www.openstreetmap.org/?lat=51.509370&lon=-0.077806
-+DIV_RoyW http://www.openstreetmap.org/?lat=51.511024&lon=-0.067490
+Bank +BAN http://www.openstreetmap.org/?lat=51.513250&lon=-0.089205
++X956054 http://www.openstreetmap.org/?lat=51.510846&lon=-0.086845
++X658288 http://www.openstreetmap.org/?lat=51.509340&lon=-0.077934
++DIV_RoyW http://www.openstreetmap.org/?lat=51.511050&lon=-0.067272
 Sha http://www.openstreetmap.org/?lat=51.511677&lon=-0.056501
 Lim http://www.openstreetmap.org/?lat=51.512452&lon=-0.039740
 Wes http://www.openstreetmap.org/?lat=51.509432&lon=-0.026715
-+DIV_RoyE http://www.openstreetmap.org/?lat=51.508280&lon=-0.022976
-+X778944 http://www.openstreetmap.org/?lat=51.507449&lon=-0.020180
-WestIndQuay http://www.openstreetmap.org/?lat=51.506759&lon=-0.020492
++DIV_RoyE http://www.openstreetmap.org/?lat=51.508507&lon=-0.023818
++X778944 http://www.openstreetmap.org/?lat=51.507549&lon=-0.020328
+WestIndQuay http://www.openstreetmap.org/?lat=51.506739&lon=-0.020476
 +X527196 http://www.openstreetmap.org/?lat=51.505635&lon=-0.020768
-CanWha http://www.openstreetmap.org/?lat=51.505090&lon=-0.020943
-HerQua http://www.openstreetmap.org/?lat=51.502939&lon=-0.021586
-SouQuay http://www.openstreetmap.org/?lat=51.500041&lon=-0.016222
-Cro http://www.openstreetmap.org/?lat=51.495913&lon=-0.014462
-Mud http://www.openstreetmap.org/?lat=51.491491&lon=-0.014913
-IslGar http://www.openstreetmap.org/?lat=51.488057&lon=-0.010450
-CutSark +CUS http://www.openstreetmap.org/?lat=51.481764&lon=-0.010664
+CanWha http://www.openstreetmap.org/?lat=51.505091&lon=-0.020919
+HerQua http://www.openstreetmap.org/?lat=51.502926&lon=-0.021501
+SouQuay http://www.openstreetmap.org/?lat=51.500032&lon=-0.016257
+Cro http://www.openstreetmap.org/?lat=51.495900&lon=-0.014446
+Mud http://www.openstreetmap.org/?lat=51.491519&lon=-0.014913
+IslGar http://www.openstreetmap.org/?lat=51.488072&lon=-0.010501
+CutSark http://www.openstreetmap.org/?lat=51.481722&lon=-0.010753
++X405925 http://www.openstreetmap.org/?lat=51.479371&lon=-0.010807
 +X797095 http://www.openstreetmap.org/?lat=51.478259&lon=-0.013036
 Gre http://www.openstreetmap.org/?lat=51.478102&lon=-0.015364
-DepBri http://www.openstreetmap.org/?lat=51.474173&lon=-0.022402
-ElvRd http://www.openstreetmap.org/?lat=51.468519&lon=-0.016222
+DepBri http://www.openstreetmap.org/?lat=51.474173&lon=-0.022375
+ElvRd http://www.openstreetmap.org/?lat=51.468529&lon=-0.016203
 Lew http://www.openstreetmap.org/?lat=51.465605&lon=-0.013969
