@@ -133,6 +133,9 @@ chlefeu;CHL;Empresa de los Ferrocarriles del Estado (urbanos);TMgreen;2;preview
 chlms;CHL;Metro de Santiago;TMblue;3;preview
 chncrh;CHN;China Railway High-speed;TMpurple;1;preview
 chnahwhrt;CHN;Wuhu Rail Transit;TMblue;3;preview
+chnbjbcr;CHN;Beijing Suburban Railway;TMgreen;2;preview
+chnbjs;CHN;Beijing Subway;TMblue;3;preview
+chnbjt;CHN;Beijing Trams;TMred;4;preview
 chngdprd;CHN;Pearl River Delta Metropolitan Region Intercity Railway;TMgreen;2;preview
 chngdgzfm;CHN;Guangzhou & Foshan Metros;TMblue;3;preview
 chngdgzt;CHN;Guangzhou Tram;TMred;4;preview
@@ -742,5 +745,3 @@ usassc;USA;Seattle Streetcars;TMyellow;5;preview
 nawpy;NA;White Pass & Yukon Route Railway;TMyellow;5;preview
 vnmhm;VNM;Hanoi Metro;TMblue;3;preview
 vnmhcmcm;VNM;HCMC Metro;TMblue;3;preview
-chnbjs;CHN;Beijing Subway;TMblue;3;preview
-chnbjt;CHN;Beijing Trams;TMred;4;preview
