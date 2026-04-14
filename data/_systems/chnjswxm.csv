@@ -1,6 +1,6 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-chnjswxm;CHN-JS;WXMLn1;;;Wuxi Metro Line 1;chnjs.wxm01;
-chnjswxm;CHN-JS;WXMLn2;;;Wuxi Metro Line 2;chnjs.wxm02;
-chnjswxm;CHN-JS;WXMLn3;;;Wuxi Metro Line 3;chnjs.wxm03;
-chnjswxm;CHN-JS;WXMLn4;;;Wuxi Metro Line 4;chnjs.wxm04;
-chnjswxm;CHN-JS;WXMS1;;;Wuxi Metro Line S1;chnjs.wxms1;
+chnjswxm;CHN-JS;1;;WXM;Wuxi Metro Line 1;chnjs.wxm01;
+chnjswxm;CHN-JS;2;;WXM;Wuxi Metro Line 2;chnjs.wxm02;
+chnjswxm;CHN-JS;3;;WXM;Wuxi Metro Line 3;chnjs.wxm03;
+chnjswxm;CHN-JS;4;;WXM;Wuxi Metro Line 4;chnjs.wxm04;
+chnjswxm;CHN-JS;S1;;WXM;Wuxi Metro Line S1;chnjs.wxms1;
