@@ -147,7 +147,14 @@ chngdgzt;CHN;Guangzhou Tram;TMred;4;preview
 chngdszm;CHN;Shenzhen Metro;TMblue;3;preview
 chngdszt;CHN;Shenzhen Tram;TMred;4;preview
 chnjlcct;CHN;Changchun Trams;TMred;4;preview
+chnjsczm;CHN;Changzhou Metro;TMblue;3;preview
+chnjsnjm;CHN;Nanjing Metro;TMblue;3;preview
+chnjsnjt;CHN;Nanjing Trams;TMred;4;preview
+chnjsntrt;CHN;Nantong Rail Transit;TMblue;3;preview
 chnjssndt;CHN;Suzhou New District Tram;TMred;5;preview
+chnjsszm;CHN;Suzhou Metro;TMblue;3;preview
+chnjswxm;CHN;Wuxi Metro;TMblue;3;preview
+chnjsxzm;CHN;Xuzhou Metro;TMblue;3;preview
 chnnmhm;CHN;Hohhot Metro;TMblue;3;preview
 chnscdjy;CHN;Dujiangyan M-TR Tram;TMred;4;preview
 chnshsr;CHN;Shanghai Suburban Railway;TMgreen;2;preview

@@ -1,0 +1,15 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+chnjsnjm;CHN-JS;NJMLn1;;;Nanjing Metro Line 1;chnjs.njm01;
+chnjsnjm;CHN-JS;NJMLn2;;;Nanjing Metro Line 2;chnjs.njm02;
+chnjsnjm;CHN-JS;NJMLn3;;;Nanjing Metro Line 3;chnjs.njm03;
+chnjsnjm;CHN-JS;NJMLn4;;;Nanjing Metro Line 4;chnjs.njm04;
+chnjsnjm;CHN-JS;NJMLn5;;;Nanjing Metro Line 5;chnjs.njm05;
+chnjsnjm;CHN-JS;NJMLn7;;;Nanjing Metro Line 7;chnjs.njm07;
+chnjsnjm;CHN-JS;NJMLn10;;;Nanjing Metro Line 10;chnjs.njm10;
+chnjsnjm;CHN-JS;NJMS1;;;Nanjing Metro Line S1;chnjs.njms1;
+chnjsnjm;CHN-JS;NJMS3;;;Nanjing Metro Line S3;chnjs.njms3;
+chnjsnjm;CHN-AH;NJMS4;;;Nanjing Metro Line S4;chnah.njms4;
+chnjsnjm;CHN-JS;NJMS6;;;Nanjing Metro Line S6;chnjs.njms6;
+chnjsnjm;CHN-JS;NJMS7;;;Nanjing Metro Line S7;chnjs.njms7;
+chnjsnjm;CHN-JS;NJMS8;;;Nanjing Metro Line S8;chnjs.njms8;
+chnjsnjm;CHN-JS;NJMS9;;;Nanjing Metro Line S9;chnjs.njms9;
