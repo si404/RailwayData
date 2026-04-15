@@ -1,3 +1,3 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-chnjsnjt;CHN-JS;Hexi;;NJT;Nanjing Hexi Tram;chnjs.njthexi;
-chnjsnjt;CHN-JS;Qilin;;NJT;Nanjing Qilin Tram;chnjs.njtqilin;
+chnjsnjt;CHN-JS;Hexi;;;Nanjing Hexi Tram;chnjs.njthexi;
+chnjsnjt;CHN-JS;Qilin;;;Nanjing Qilin Tram;chnjs.njtqilin;
