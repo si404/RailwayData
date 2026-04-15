@@ -1,8 +1,9 @@
 systemName;route;banner;groupName;roots
-chngdprd;GuangZhouE;;Guangfo Ring ICR (East);chngd.guangfoe
-chngdprd;GuangHui;;Guanghui ICR;chngd.guanghui
-chngdprd;GuangQing;;Guangqing ICR;chngd.guangqing
-chngdprd;GuangZhao;;Guangzhao ICR;chngd.guangzhao
-chngdprd;GuangZhu;;Guangzhu ICR;chngd.guangzhu
-chngdprd;SuiShen;;Suishen ICR;chngd.suishen
-chngdprd;Zhuji;;Zhuji ICR;chngd.zhuji
+chngdprd;GuangZhouE;;Guangzhou East Ring Intercity;chngd.guangfoe
+chngdprd;GuangHui;;Guanghui Intercity;chngd.guanghui
+chngdprd;GuangQing;;Guangqing Intercity;chngd.guangqing
+chngdprd;GuangZhao;;Guangzhao Intercity;chngd.guangzhao
+chngdprd;GuangZhu;;Guangzhu Intercity;chngd.guangzhu
+chngdprd;PaLian;;Palian Intercity;chngd.palian
+chngdprd;SuiShen;;Suishen Intercity;chngd.suishen
+chngdprd;Zhuji;;Zhuji Intercity;chngd.zhuji

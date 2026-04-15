@@ -1,0 +1,7 @@
+systemName;route;banner;groupName;roots
+chnbjbcr;SubCenterLn;;Sub-Center Line;chnbj.subcenter
+chnbjbcr;S2Ln;;S2 Line;chnbj.s2,chnhe.s2
+chnbjbcr;S2Ln;Yan;S2 Line (Yanqing branch);chnbj.s2yan
+chnbjbcr;TongMiLn;;Tongmi Line;chnbj.tongmi
+chnbjbcr;TongMiLn;Hua;Tongmi Line (Huairou North branch);chnbj.tongmihua
+chnbjbcr;HuaiMiLn;;Huairou-Miyun Line;chnbj.huaimi

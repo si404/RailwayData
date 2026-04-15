@@ -1,0 +1,16 @@
+systemName;route;banner;groupName;roots
+chncqrt;LoopLn;;Chongqing Rail Transit Loop line;chncq.loop
+chncqrt;1;;Chongqing Rail Transit Line 1;chncq.cqrt01
+chncqrt;2;;Chongqing Rail Transit Line 2;chncq.cqrt02
+chncqrt;3;;Chongqing Rail Transit Line 3;chncq.cqrt03
+chncqrt;4;;Chongqing Rail Transit Line 4;chncq.cqrt04
+chncqrt;5;;Chongqing Rail Transit Line 5;chncq.cqrt05
+chncqrt;6;;Chongqing Rail Transit Line 6;chncq.cqrt06
+chncqrt;6;E;Chongqing Rail Transit Line 6 (Chongqingdong branch);chncq.cqrt06e
+chncqrt;9;;Chongqing Rail Transit Line 9;chncq.cqrt09
+chncqrt;10;;Chongqing Rail Transit Line 10;chncq.cqrt10
+chncqrt;18;;Chongqing Rail Transit Line 18;chncq.cqrt18
+chncqrt;BitongLn;;Chongqing Rail Transit Bitong Line;chncq.bitong
+chncqrt;IntExpLn;;Chongqing Rail Transit International Expo Line;chncq.intexp
+chncqrt;JiangtiaoLn;;Chongqing Rail Transit Jiangtiao line;chncq.jiangtiao
+chncqrt;KongGangLn;;Chongqing Rail Transit Konggang Line;chncq.konggang
