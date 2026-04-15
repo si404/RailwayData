@@ -135,6 +135,7 @@ chlefes;CHL;Empresa de los Ferrocarriles del Estado (suburbanos);TMgreen;2;previ
 chlefeu;CHL;Empresa de los Ferrocarriles del Estado (urbanos);TMgreen;2;preview
 chlms;CHL;Metro de Santiago;TMblue;3;preview
 chncrh;CHN;China Railway High-speed;TMpurple;1;preview
+twnhsr;CHN;Taiwan High Speed Rail;TMpurple;1;preview
 chnahwhrt;CHN;Wuhu Rail Transit;TMblue;3;preview
 chnbjbcr;CHN;Beijing Suburban Railway;TMgreen;2;preview
 chnbjs;CHN;Beijing Subway;TMblue;3;preview
@@ -160,6 +161,14 @@ chnscdjy;CHN;Dujiangyan M-TR Tram;TMred;4;preview
 chnshsr;CHN;Shanghai Suburban Railway;TMgreen;2;preview
 chnshm;CHN;Shanghai Metro;TMblue;3;preview
 chnshsjt;CHN;Songjiang Tram;TMred;4;preview
+twntr;CHN;Taiwan Railway;TMgreen;2;preview
+twntpm;CHN;Taipei Metro;TMblue;3;preview
+twnntm;CHN;New Taipei Metro;TMblue;3;preview
+twntym;CHN;Taoyuan Metro;TMblue;3;preview
+twntcm;CHN;Taichung Metro;TMblue;3;preview
+twnkm;CHN;Kaohsiung Metro;TMblue;3;preview
+twnntl;CHN;New Taipei LRT;TMred;4;preview
+twnkl;CHN;Kaohsiung Light Rail;TMred;4;preview
 chnxjum;CHN;Ürümqi Metro;TMblue;3;preview
 chnynwst;CHN;Wenshan Tram;TMred;4;preview
 colmm;COL;Metro de Medellín;TMblue;3;preview
@@ -649,8 +658,6 @@ turib;TUR;İstanbul Banliyö Treni;TMgreen;2;preview
 turim;TUR;İstanbul Metrosu;TMblue;3;preview
 turit;TUR;İstanbul Tramvayı;TMred;4;preview
 turif;TUR;İstanbul Füniküleri;TMyellow;5;preview
-twnhsr;CHN;Taiwan High Speed Rail;TMpurple;1;preview
-twntpm;CHN;Taipei urban rail transit;TMblue;3;preview
 ukrkme;UKR;Kyiv Miska Elektrychks;TMgreen;2;preview
 ukrdnm;UKR;Dnipro Metropoliten;TMblue;3;preview
 ukrkhm;UKR;Kharkiv Metropoliten;TMblue;3;preview
