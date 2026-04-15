@@ -1,0 +1,14 @@
+systemName;route;banner;groupName;roots
+twntr;WCLn;;West Coast Line;twn.wcln
+twntr;TCLn;;Taichung line;twn.tcln
+twntr;YilLn;;Yilan line;twn.yilln
+twntr;NLLn;;North-link line;twn.nlln
+twntr;TaiLn;;Taitung line;twn.tailn
+twntr;SPLn;;Shen'ao & Pingxi lines;twn.spln
+twntr;NeiLn;;Neiwan line;twn.neiln
+twntr;LiuLn;;Liujia line;twn.liuln
+twntr;CZLn;;Chengzhui line;;twn.czln
+twntr;JijiLn;;Jiji line;twn.jijiln
+twntr;ShaLn;;Shalun line;twn.shaln
+twntr;AFLn;;Alishan Forest line;twn.afln
+twntr;SLLn;;South-link line;twn.slln
