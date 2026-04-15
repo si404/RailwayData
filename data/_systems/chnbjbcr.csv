@@ -1,0 +1,8 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+chnbjbcr;CHN-BJ;SubCenterLn;;;Sub-Center Line;chnbj.subcenter;
+chnbjbcr;CHN-BJ;S2Ln;;;S2 Line;chnbj.s2;
+chnbjbcr;CHN-HE;S2Ln;;;S2 Line;chnhe.s2;
+chnbjbcr;CHN-BJ;S2Ln;Yan;;S2 Line (Yanqing branch);chnbj.s2yan;
+chnbjbcr;CHN-BJ;TongMiLn;;;Tongmi Line;chnbj.tongmi;
+chnbjbcr;CHN-BJ;TongMiLn;Hua;;Tongmi Line (Huairou North branch);chnbj.tongmihua;
+chnbjbcr;CHN-BJ;HuaiMiLn;;;Huairou-Miyun Line;chnbj.huaimi;

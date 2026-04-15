@@ -1,3 +1,4 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
 chngdgzt;CHN-GD;THZ1;;;Haizhu Island Circular New Tram;chngd.thz1;
-chngdgzt;CHN-GD;THP1;;;Huangpu Tram Line h;chngd.thp1;
+chngdgzt;CHN-GD;THP1;;;Huangpu Tram Line 1;chngd.thp1;
+chngdgzt;CHN-GD;THP2;;;Huangpu Tram Line 2;chngd.thp2;
