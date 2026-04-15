@@ -1,4 +1,4 @@
-NAG +TaipeiBL +westerntrunk http://www.openstreetmap.org/?lat=25.052892&lon=121.607242
+NAG http://www.openstreetmap.org/?lat=25.052892&lon=121.607242
 +X697576 http://www.openstreetmap.org/?lat=25.049225&lon=121.582076
 +X500504 http://www.openstreetmap.org/?lat=25.049122&lon=121.579071
 +X610762 http://www.openstreetmap.org/?lat=25.049270&lon=121.571137
@@ -12,7 +12,7 @@ NAG +TaipeiBL +westerntrunk http://www.openstreetmap.org/?lat=25.052892&lon=121.
 +X894060 http://www.openstreetmap.org/?lat=25.045705&lon=121.531360
 +X951273 http://www.openstreetmap.org/?lat=25.045836&lon=121.525890
 +X650743 http://www.openstreetmap.org/?lat=25.047017&lon=121.520698
-TPE +A +BL +R +westerntrunk http://www.openstreetmap.org/?lat=25.047673&lon=121.517335
+TPE http://www.openstreetmap.org/?lat=25.047673&lon=121.517335
 +X663432 http://www.openstreetmap.org/?lat=25.048358&lon=121.512925
 +X384744 http://www.openstreetmap.org/?lat=25.048300&lon=121.511289
 +X189116 http://www.openstreetmap.org/?lat=25.047714&lon=121.510161
@@ -30,7 +30,7 @@ TPE +A +BL +R +westerntrunk http://www.openstreetmap.org/?lat=25.047673&lon=121.
 +X733832 http://www.openstreetmap.org/?lat=25.026394&lon=121.483496
 +X568035 http://www.openstreetmap.org/?lat=25.025823&lon=121.481698
 +X966110 http://www.openstreetmap.org/?lat=25.025033&lon=121.480403
-BAQ +bl +y http://www.openstreetmap.org/?lat=25.014451&lon=121.464881
+BAQ http://www.openstreetmap.org/?lat=25.014451&lon=121.464881
 +X503590 http://www.openstreetmap.org/?lat=25.007164&lon=121.458251
 +X592277 http://www.openstreetmap.org/?lat=25.005049&lon=121.456384
 +X413775 http://www.openstreetmap.org/?lat=25.004286&lon=121.455440
@@ -46,7 +46,7 @@ BAQ +bl +y http://www.openstreetmap.org/?lat=25.014451&lon=121.464881
 +X512375 http://www.openstreetmap.org/?lat=25.059204&lon=121.282103
 +X688158 http://www.openstreetmap.org/?lat=25.052789&lon=121.259748
 +X859507 http://www.openstreetmap.org/?lat=25.033001&lon=121.235074
-TAY +A http://www.openstreetmap.org/?lat=25.013022&lon=121.214819
+TAY http://www.openstreetmap.org/?lat=25.013022&lon=121.214819
 +X818149 http://www.openstreetmap.org/?lat=25.001602&lon=121.203403
 +X812511 http://www.openstreetmap.org/?lat=24.968776&lon=121.171055
 +X310868 http://www.openstreetmap.org/?lat=24.959565&lon=121.158469
@@ -56,7 +56,7 @@ TAY +A http://www.openstreetmap.org/?lat=25.013022&lon=121.214819
 +X358254 http://www.openstreetmap.org/?lat=24.911875&lon=121.088836
 +X167942 http://www.openstreetmap.org/?lat=24.865339&lon=121.058454
 +X223500 http://www.openstreetmap.org/?lat=24.849712&lon=121.050984
-HSC +Liujia http://www.openstreetmap.org/?lat=24.808298&lon=121.040207
+HSC http://www.openstreetmap.org/?lat=24.808298&lon=121.040207
 +X492013 http://www.openstreetmap.org/?lat=24.794458&lon=121.036623
 +X622698 http://www.openstreetmap.org/?lat=24.780120&lon=121.033930
 +X518440 http://www.openstreetmap.org/?lat=24.762539&lon=121.028156
@@ -67,7 +67,7 @@ HSC +Liujia http://www.openstreetmap.org/?lat=24.808298&lon=121.040207
 +X998117 http://www.openstreetmap.org/?lat=24.651768&lon=120.908433
 +X525762 http://www.openstreetmap.org/?lat=24.640803&lon=120.895003
 +X949876 http://www.openstreetmap.org/?lat=24.617925&lon=120.853960
-MIL +Taichung http://www.openstreetmap.org/?lat=24.605538&lon=120.825652
+MIL http://www.openstreetmap.org/?lat=24.605538&lon=120.825652
 +X997519 http://www.openstreetmap.org/?lat=24.594385&lon=120.800815
 +X869670 http://www.openstreetmap.org/?lat=24.586298&lon=120.789262
 +X704384 http://www.openstreetmap.org/?lat=24.567108&lon=120.771417
@@ -80,7 +80,7 @@ MIL +Taichung http://www.openstreetmap.org/?lat=24.605538&lon=120.825652
 +X638085 http://www.openstreetmap.org/?lat=24.232036&lon=120.639434
 +X601291 http://www.openstreetmap.org/?lat=24.207301&lon=120.636916
 +X542732 http://www.openstreetmap.org/?lat=24.162608&lon=120.622177
-TAC +1 +Taichung http://www.openstreetmap.org/?lat=24.109898&lon=120.615726
+TAC http://www.openstreetmap.org/?lat=24.109898&lon=120.615726
 +X593852 http://www.openstreetmap.org/?lat=24.083034&lon=120.613146
 +X613618 http://www.openstreetmap.org/?lat=24.054963&lon=120.605646
 +X659760 http://www.openstreetmap.org/?lat=24.040627&lon=120.603879
@@ -130,7 +130,7 @@ CHY http://www.openstreetmap.org/?lat=23.459226&lon=120.323789
 +X250398 http://www.openstreetmap.org/?lat=22.964251&lon=120.271990
 +X885055 http://www.openstreetmap.org/?lat=22.952686&lon=120.273684
 +X724737 http://www.openstreetmap.org/?lat=22.943927&lon=120.276772
-TAN +shalun http://www.openstreetmap.org/?lat=22.924672&lon=120.286420
+TAN http://www.openstreetmap.org/?lat=22.924672&lon=120.286420
 +X633931 http://www.openstreetmap.org/?lat=22.886779&lon=120.305032
 +X346594 http://www.openstreetmap.org/?lat=22.830381&lon=120.316513
 +X714434 http://www.openstreetmap.org/?lat=22.819382&lon=120.321246
@@ -149,4 +149,4 @@ TAN +shalun http://www.openstreetmap.org/?lat=22.924672&lon=120.286420
 +X665451 http://www.openstreetmap.org/?lat=22.702425&lon=120.322265
 +X868703 http://www.openstreetmap.org/?lat=22.697248&lon=120.317995
 +X905396 http://www.openstreetmap.org/?lat=22.690527&lon=120.311086
-ZUY +westerntrunk +zuoR http://www.openstreetmap.org/?lat=22.687696&lon=120.307803
+ZUY http://www.openstreetmap.org/?lat=22.687696&lon=120.307803
