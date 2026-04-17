@@ -9,7 +9,7 @@ NOR/SWE http://www.openstreetmap.org/?lat=59.931797&lon=12.243664
 +X222341 http://www.openstreetmap.org/?lat=60.171509&lon=12.052304
 +X327304 http://www.openstreetmap.org/?lat=60.183569&lon=12.042990
 +X569701 http://www.openstreetmap.org/?lat=60.188070&lon=12.030760
-Kon http://www.openstreetmap.org/?lat=60.187644&lon=12.003336
++SKIP_Kon http://www.openstreetmap.org/?lat=60.187644&lon=12.003336
 +X165688 http://www.openstreetmap.org/?lat=60.207864&lon=11.937847
 +X405668 http://www.openstreetmap.org/?lat=60.197286&lon=11.879911
 +X321016 http://www.openstreetmap.org/?lat=60.227091&lon=11.806784
