@@ -1,3 +1,3 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-swesjic;SWE;Var;;Osl;Värmland Line to Oslo;swe.icvarosl;
-swesjic;NOR;Var;;Osl;Värmland Line to Oslo;nor.icvarosl;
+swesjic;SWE;Var;;;Värmland Line to Oslo;swe.icvarosl;
+swesjic;NOR;Var;;;Värmland Line to Oslo;nor.icvarosl;
