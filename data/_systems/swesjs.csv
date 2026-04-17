@@ -1,3 +1,6 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-swesjic;SWE;StoOsl;;;Stockholm - Oslo;swe.stoosl;
-swesjic;NOR;StoOsl;;;Stockholm - Oslo;nor.stoosl;
+swesjs;SWE;GotCop;X55;Gothenburg - Copenhagen;;swe.gotcop;
+swesjs;DNK;GotCop;X55;Gothenburg - Copenhagen;;dnk.gotcop;
+swesjs;SWE;StoMal;X2;Stockholm - Malmo;;swe.stomal;
+swesjs;SWE;StoOsl;;;Stockholm - Oslo;swe.stoosl;
+swesjs;NOR;StoOsl;;;Stockholm - Oslo;nor.stoosl;
