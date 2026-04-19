@@ -136,13 +136,8 @@ chlefeu;CHL;Empresa de los Ferrocarriles del Estado (urbanos);TMgreen;2;preview
 chlms;CHL;Metro de Santiago;TMblue;3;preview
 chncrh;CHN;China Railway High-speed;TMpurple;1;preview
 twnhsr;CHN;Taiwan High Speed Rail;TMpurple;1;preview
-chnahwhrt;CHN;Wuhu Rail Transit;TMblue;3;preview
 chnahhfm;CHN;Hefei Metro;TMblue;3;preview
-chnzjhhcj;CHN;Hangzhou-Haining Intercity Rail;TMgreen;2;preview
-chnzjhzm;CHN;Hangzhou Metro;TMblue;3;preview
-chnzjnbrt;CHN;Ningbo Rail Transit;TMblue;3;preview
-chnzjsxm;CHN;Shaoxing Metro;TMblue;3;preview
-chnzjwzrt;CHN;Wenzhou Rail Transit;TMblue;3;preview
+chnahwhrt;CHN;Wuhu Rail Transit;TMblue;3;preview
 chnbjbcr;CHN;Beijing Suburban Railway;TMgreen;2;preview
 chnbjs;CHN;Beijing Subway;TMblue;3;preview
 chnbjt;CHN;Beijing Trams;TMred;4;preview
@@ -153,6 +148,8 @@ chngdgzfm;CHN;Guangzhou & Foshan Metros;TMblue;3;preview
 chngdgzt;CHN;Guangzhou Tram;TMred;4;preview
 chngdszm;CHN;Shenzhen Metro;TMblue;3;preview
 chngdszt;CHN;Shenzhen Tram;TMred;4;preview
+chngslzm;CHN;Lanzhou Metro;TMblue;3;preview
+chnhesjzm;CHN;Shijiazhuang Metro;TMblue;3;preview
 chnjlcct;CHN;Changchun Trams;TMred;4;preview
 chnjsczm;CHN;Changzhou Metro;TMblue;3;preview
 chnjsnjm;CHN;Nanjing Metro;TMblue;3;preview
@@ -179,6 +176,11 @@ twnkl;CHN;Kaohsiung Light Rail;TMred;4;preview
 chnxjum;CHN;Ürümqi Metro;TMblue;3;preview
 chnynljt;CHN;Lijiang Tram;TMred;4;preview
 chnynwst;CHN;Wenshan Tram;TMred;4;preview
+chnzjhhcj;CHN;Hangzhou-Haining Intercity Rail;TMgreen;2;preview
+chnzjhzm;CHN;Hangzhou Metro;TMblue;3;preview
+chnzjnbrt;CHN;Ningbo Rail Transit;TMblue;3;preview
+chnzjsxm;CHN;Shaoxing Metro;TMblue;3;preview
+chnzjwzrt;CHN;Wenzhou Rail Transit;TMblue;3;preview
 colmm;COL;Metro de Medellín;TMblue;3;preview
 colmmt;COL;Metro de Medellín (tranvía);TMred;4;preview
 czeduk;CZE;Doprava Ústeckého kraje;TMgreen;2;preview
