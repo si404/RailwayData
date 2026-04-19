@@ -26,5 +26,5 @@ chnbjs;CHN-BJ;S1;;;Beijing Subway S1 Line;chnbj.s1;
 chnbjs;CHN-BJ;DaxingLn;;;Beijing Subway Daxing Line;chnbj.daxing;
 chnbjs;CHN-BJ;YanfangLn;;;Beijing Subway Yanfang Line;chnbj.yanfang;
 chnbjs;CHN-BJ;CapAirExp;;;Beijing Subway Capital Airport Express;chnbj.capairexp;
-chnbjs;CHN-BJ;DaxingAirLn;;;Beijing Subway Daxing Airport Express;chnbj.daxingair;
-chnbjs;CHN-HE;DaxingAirLn;;;Beijing Subway Daxing Airport Express;chnhe.daxingair;
+chnbjs;CHN-BJ;DaxingAirExp;;;Beijing Subway Daxing Airport Express;chnbj.daxingair;
+chnbjs;CHN-HE;DaxingAirExp;;;Beijing Subway Daxing Airport Express;chnhe.daxingair;
