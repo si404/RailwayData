@@ -1,0 +1,6 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+swesjs;SWE;GotCop;;;Gothenburg - Copenhagen;swe.gotcop;
+swesjs;DNK;GotCop;;;Gothenburg - Copenhagen;dnk.gotcop;
+
+swesjs;SWE;StoOsl;;;Stockholm - Oslo;swe.stoosl;
+swesjs;NOR;StoOsl;;;Stockholm - Oslo;nor.stoosl;
