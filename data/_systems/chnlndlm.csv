@@ -1,0 +1,8 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+chnlndlm;CHN-LN;1;;DL;Dalian Metro Line 1;chnln.dlm01;
+chnlndlm;CHN-LN;2;;DL;Dalian Metro Line 2;chnln.dlm02;
+chnlndlm;CHN-LN;3;;DL;Dalian Metro Line 3;chnln.dlm03;
+chnlndlm;CHN-LN;3;Jiu;DL;Dalian Metro Line 3 (Jiuli branch);chnln.dlm03jiu;
+chnlndlm;CHN-LN;5;;DL;Dalian Metro Line 5;chnln.dlm05;
+chnlndlm;CHN-LN;12;;DL;Dalian Metro Line 12;chnln.dlm12;
+chnlndlm;CHN-LN;13;;DL;Dalian Metro Line 13;chnln.dlm13;

@@ -1,0 +1,5 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+chngzgym;CHN-GZ;1;;GY;Guiyang Metro Line 1;chngz.gym01;
+chngzgym;CHN-GZ;2;;GY;Guiyang Metro Line 2;chngz.gym02;
+chngzgym;CHN-GZ;3;;GY;Guiyang Metro Line 3;chngz.gym03;
+chngzgym;CHN-GZ;S1;;GY;Guiyang Metro Line S1;chngz.gyms1;
