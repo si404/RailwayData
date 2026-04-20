@@ -142,6 +142,7 @@ chnbjbcr;CHN;Beijing Suburban Railway;TMgreen;2;preview
 chnbjs;CHN;Beijing Subway;TMblue;3;preview
 chnbjt;CHN;Beijing Trams;TMred;4;preview
 chncqrt;CHN;Chongqing Rail Transit;TMblue;3;preview
+chnfjwyt;CHN;Wuyishan Tram;TMred;4;preview
 chngdprd;CHN;Pearl River Delta Metropolitan Region Intercity Railway;TMgreen;2;preview
 chngddgrt;CHN;Dongguan Rail Transit;TMblue;3;preview
 chngdgzfm;CHN;Guangzhou & Foshan Metros;TMblue;3;preview
@@ -149,7 +150,12 @@ chngdgzt;CHN;Guangzhou Tram;TMred;4;preview
 chngdszm;CHN;Shenzhen Metro;TMblue;3;preview
 chngdszt;CHN;Shenzhen Tram;TMred;4;preview
 chngslzm;CHN;Lanzhou Metro;TMblue;3;preview
+chngzgym;CHN;Guiyang Metro;TMblue;3;preview
+chnhalys;CHN;Luoyang Subway;TMblue;3;preview
+chnhbhst;CHN;Huangshi Tram;TMred;4;preview
+chnhbnie;CHN;New Intercity Express;TMgreen;2;preview
 chnhesjzm;CHN;Shijiazhuang Metro;TMblue;3;preview
+chnhlhrbm;CHN;Harbin Metro;TMblue;3;preview
 chnjlcct;CHN;Changchun Trams;TMred;4;preview
 chnjsczm;CHN;Changzhou Metro;TMblue;3;preview
 chnjsnjm;CHN;Nanjing Metro;TMblue;3;preview
@@ -159,11 +165,15 @@ chnjssndt;CHN;Suzhou New District Tram;TMred;5;preview
 chnjsszm;CHN;Suzhou Metro;TMblue;3;preview
 chnjswxm;CHN;Wuxi Metro;TMblue;3;preview
 chnjsxzm;CHN;Xuzhou Metro;TMblue;3;preview
+chnlndlm;CHN;Dalian Metro;TMblue;3;preview
+chnlnsym;CHN;Shenyang Metro;TMblue;3;preview
 chnnmhm;CHN;Hohhot Metro;TMblue;3;preview
 chnscdjy;CHN;Dujiangyan M-TR Tram;TMred;4;preview
 chnshsr;CHN;Shanghai Suburban Railway;TMgreen;2;preview
 chnshm;CHN;Shanghai Metro;TMblue;3;preview
+chnshml;CHN;Shanghai Maglev;TMteal;3;preview
 chnshsjt;CHN;Songjiang Tram;TMred;4;preview
+chnsxtym;CHN;Taiyuan Metro;TMblue;3;preview
 chntjm;CHN;Tianjin Metro;TMblue;3;preview
 twntr;CHN;Taiwan Railway;TMgreen;2;preview
 twntpm;CHN;Taipei Metro;TMblue;3;preview
@@ -178,8 +188,12 @@ chnynljt;CHN;Lijiang Tram;TMred;4;preview
 chnynwst;CHN;Wenshan Tram;TMred;4;preview
 chnzjhhcj;CHN;Hangzhou-Haining Intercity Rail;TMgreen;2;preview
 chnzjhzm;CHN;Hangzhou Metro;TMblue;3;preview
+chnzjjxt;CHN;Jiaxing Tram;TMred;4;preview
 chnzjnbrt;CHN;Ningbo Rail Transit;TMblue;3;preview
 chnzjsxm;CHN;Shaoxing Metro;TMblue;3;preview
+chnzjsxs;CHN;Shaoxing Suburban Railway;TMgreen;2;preview
+chnzjtzrt;CHN;Taizhou Rail Transit;TMblue;3;preview
+chnzjtzs;CHN;Taizhou Suburban Railway;TMgreen;2;preview
 chnzjwzrt;CHN;Wenzhou Rail Transit;TMblue;3;preview
 colmm;COL;Metro de Medellín;TMblue;3;preview
 colmmt;COL;Metro de Medellín (tranvía);TMred;4;preview
