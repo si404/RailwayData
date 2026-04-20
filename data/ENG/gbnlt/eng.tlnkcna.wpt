@@ -1,4 +1,4 @@
-EastCro_1 +LOOP http://www.openstreetmap.org/?lat=51.375993&lon=-0.092697
+EastCro_1 http://www.openstreetmap.org/?lat=51.375993&lon=-0.092697
 +X119726 http://www.openstreetmap.org/?lat=51.374231&lon=-0.096522
 GeoSt http://www.openstreetmap.org/?lat=51.373897&lon=-0.098912
 ChuSt http://www.openstreetmap.org/?lat=51.373647&lon=-0.104182
@@ -8,7 +8,7 @@ WestCro http://www.openstreetmap.org/?lat=51.379030&lon=-0.101886
 +X774226 http://www.openstreetmap.org/?lat=51.379577&lon=-0.099902
 WelRd http://www.openstreetmap.org/?lat=51.375526&lon=-0.097541
 +X488612 http://www.openstreetmap.org/?lat=51.374323&lon=-0.096629
-EastCro http://www.openstreetmap.org/?lat=51.375993&lon=-0.092697
+EastCro_2 +EastCro http://www.openstreetmap.org/?lat=51.375993&lon=-0.092697
 LebRd http://www.openstreetmap.org/?lat=51.375206&lon=-0.084964
 San http://www.openstreetmap.org/?lat=51.374952&lon=-0.077755
 +DIV_Elm http://www.openstreetmap.org/?lat=51.374533&lon=-0.076169
