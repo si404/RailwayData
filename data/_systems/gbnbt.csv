@@ -1,4 +1,3 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-gbnbt;ENG;T1;;;T1 (Blackpool);eng.t1bla;
-gbnbt;ENG;T2;;;T2 (Blackpool);eng.t2bla;
-gbnbt;ENG;T3;;;T3 (Blackpool);eng.t3bla;
+gbnbt;ENG;T;;Bla;Tram (Blackpool, direct);eng.tbla;T1Bla
+gbnbt;ENG;T;;Nor;Tram (Blackpool, via North Station);eng.t2bla;T2Bla,T3Bla
