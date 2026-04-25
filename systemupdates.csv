@@ -1,4 +1,73 @@
 ﻿date;region;systemName;description;statusChange
+2026-04-21;(China) Fujian;chnfjwyt;Wuyishan Tram;preview
+2026-04-21;(China) Guizhou;chngzgym;Guiyang Metro;preview
+2026-04-21;(China) Hubei;chnhbhst;Huangshi Tram;preview
+2026-04-21;(China) Hubei;chnhbnie;New Intercity Express;preview
+2026-04-21;(China) Heilongjiang;chnhlhrbm;Harbin Metro;preview
+2026-04-21;(China) Liaoning;chnlndlm;Dalian Metro;preview
+2026-04-21;(China) Liaoning;chnlnsym;Shenyang Metro;preview
+2026-04-21;(China) Henan;chnhalys;Luoyang Subway;preview
+2026-04-21;(China) Shanxi;chnsxtym;Taiyuan Metro;preview
+2026-04-21;(China) Zhejiang;chnzjjxt;Jiaxing Tram;preview
+2026-04-21;(China) Zhejiang;chnzjsxs;Shaoxing Suburban Railway;preview
+2026-04-21;(China) Zhejiang;chnzjtzrt;Taizhou Rail Transit;preview
+2026-04-21;(China) Zhejiang;chnzjtzs;Taizhou Suburban Railway;preview
+2026-04-19;(China) Anhui;chnahhfm;Hefei Metro;preview
+2026-04-19;(China) Gansu;chngslzm;Lanzhou Metro;preview
+2026-04-19;(China) Hebei;chnhesjzm;Shijiazhuang Metro;preview
+2026-04-19;(China) Yunnan;chnynljt;Lijiang Tram;preview
+2026-04-19;(China) Zhejiang;chnzjhhcj;Hangzhou-Haining Intercity Rail;preview
+2026-04-17;Sweden;swesjs;SJ Snabbtåg;preview
+2026-04-15;Taiwan;twnkl;Kaohsiung Light Rail;preview
+2026-04-15;Taiwan;twnkm;Kaohsiung Metro;preview
+2026-04-15;Taiwan;twnntl;New Taipei LRT;preview
+2026-04-15;Taiwan;twnntm;New Taipei Metro;preview
+2026-04-15;Taiwan;twntcm;Taichung Metro;preview
+2026-04-15;Taiwan;twntr;Taiwan Railway;preview
+2026-04-15;Taiwan;twntym;Taoyuan Metro;preview
+2026-04-14;(China) Chongqing;chncqrt;Chongqing Rail Transit;preview
+2026-04-14;(China) Jiangsu-Anhui;chnjsnjm;Nanjing Metro;preview
+2026-04-14;(China) Jiangsu;chnjsnjt;Nanjing Trams;preview
+2026-04-14;(China) Jiangsu;chnjsntrt;Nantong Rail Transit;preview
+2026-04-14;(China) Jiangsu;chnjsszm;Suzhou Metro;preview
+2026-04-14;(China) Jiangsu;chnjswxm;Wuxi Metro;preview
+2026-04-14;(China) Jiangsu;chnjsxzm;Xuzhou Metro;preview
+2026-04-14;(China) Tianjin;chntjm;Tianjin Metro;preview
+2026-04-14;(China) Zhejiang;chnzjhzm;Hangzhou Metro;preview
+2026-04-14;(China) Zhejiang;chnzjnbrt;Ningbo Rail Transit;preview
+2026-04-14;(China) Zhejiang;chnzjsxm;Shaoxing Metro;preview
+2026-04-14;(China) Zhejiang;chnzjwzrt;Wenzhou Rail Transit;preview
+2026-04-11;(China) Beijing-Hebei;chnbjbcr;Beijing Suburban Railway;preview
+2026-04-11;(China) Beijing;chnbjt;Beijing Trams;preview
+2026-04-11;(China) Guangdong;chngddgrt;Dongguan Rail Transit;preview
+2026-01-09;(Canada) Ontario;canttcl;Toronto Light Rail;preview
+2025-12-20;Switzerland;chejurer;Réseau express régional jurassien;preview
+2025-09-01;(China) Beijing-Hebei;chnbjs;Beijing Subway;preview
+2025-04-06;Vietnam;vnmhm;Hanoi Metro;preview
+2025-04-06;Vietnam;vnmhcmcm;HCMC Metro;preview
+2025-02-22;(China) Anhui;chnahwhrt;Wuhu Rail Transit;preview
+2025-02-22;(China) Guangdong;chngdgzt;Guangzhou Tram;preview
+2025-02-22;(China) Guangdong;chngdszt;Shenzhen Tram;preview
+2025-02-22;(China) Jilin;chnjlcct;Changchun Trams;preview
+2025-02-22;(China) Jiangsu;chnjssndt;Suzhou New District Tram;preview
+2025-02-22;(China) Sichuan;chnscdjy;Dujiangyan M-TR Tram;preview
+2025-02-22;(China) Shanghai;chnshsjt;Songjiang Tram;preview
+2025-02-22;(China) Yunnan;chnynwst;Wenshan Tram;preview
+2025-02-18;(China) Jiangsu;chnjsczm;Changzhou Metro;preview
+2025-01-25;(China) Inner Mongolia;chnnmhm;Hohhot Metro;preview
+2025-01-25;(China) Xinjiang;chnxjum;Ürümqi Metro;preview
+2025-01-19;(China) Shanghai-Jiangsu;chnshm;Shanghai Metro;preview
+2025-01-19;(China) Shanghai;chnshsr;Shanghai Suburban Railway;preview
+2024-09-10;Korea (South);korktx;Korea Train Express (KTX);preview
+2024-09-10;Korea (South);korsrt;Super Rapid Train (SRT);preview
+2024-09-08;(China);chncrh;China Railway High-speed;preview
+2024-08-30;Korea (South);korsms;Seoul Metropolitan Subway;preview
+2024-08-23;(China) Guangdong;chngdgzfm;Guangzhou & Foshan Metros;preview
+2024-08-23;Taiwan;twntpm;Taipei Metro;preview
+2024-08-21;(China) Guangdong;chngdszm;Shenzhen Metro;preview
+2024-08-21;Taiwan;twnhsr;Taiwan High Speed Rail;preview
+2024-08-20;(China) Guangdong;chngdprd;Pearl River Delta Metropolitan Region Intercity Railway;preview
+2024-08-20;Macau;macmlm;Metro Ligeiro de Macau;preview
 2025-10-18;Egypt;egycm;Cairo Metro;preview
 2024-11-13;(USA);usaaair;United States Airside Airport Rail Systems;preview
 2024-08-19;(Australia) New South Wales;ausst;Sydney Trains;preview
