@@ -22,8 +22,8 @@ chnbjs;YizhuangLn;;Beijing Subway Yizhuang Line;chnbj.yizhuang
 chnbjs;BatongLn;;Beijing Subway Batong Line;chnbj.batong
 chnbjs;ChangpingLn;;Beijing Subway Changping Line;chnbj.changping
 chnbjs;FangshanLn;;Beijing Subway Fangshan Line;chnbj.fangshan
-chnbjs;S1;;Beijing Subway S1 Line (Mentougou);chnbj.s1
+chnbjs;S1;;Beijing Subway S1 Line;chnbj.s1
 chnbjs;DaxingLn;;Beijing Subway Daxing Line;chnbj.daxing
 chnbjs;YanfangLn;;Beijing Subway Yanfang Line;chnbj.yanfang
 chnbjs;CapAirExp;;Beijing Subway Capital Airport Express;chnbj.capairexp
-chnbjs;DaxingAirLn;;Beijing Subway Daxing Airport Express;chnbj.daxingair,chnhe.daxingair
+chnbjs;DaxingAirExp;;Beijing Subway Daxing Airport Express;chnbj.daxingair,chnhe.daxingair
