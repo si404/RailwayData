@@ -5,14 +5,14 @@ chncrh;GuangZhan;;Guangzhan HSR;chngd.hsrguangzhan
 chncrh;ChengYu;;Chengyu HSR;chnsc.hsrchengyu,chncq.hsrchengyu
 chncrh;XiCheng;;Xicheng HSR;chnsn.hsrxicheng,chnsc.hsrxicheng
 chncrh;JingHa;;Jingha HSR;chnbj.hsrjingha,chnhe.hsrjingha,chnln.hsrjingha,chnjl.hsrjingha,chnhl.hsrjingha
-chncrh;JingGang;;Jinggang HSR;chngd.hsrjinggang,hkg.hsrjinggang
+chncrh;JingGang;;Jinggang HSR;chnjx.hsrjinggang,chngd.hsrjinggang,hkg.hsrjinggang
 chncrh;JingGuang;;Jingguang HSR;chnbj.hsrjingguang,chnhe.hsrjingguang,chnha.hsrjingguang,chnhb.hsrjingguang,chnhn.hsrjingguang,chngd.hsrjingguang
 chncrh;JingGuang;W;Jingguang HSR (Beijing West branch);chnbj.hsrjingguangw
 chncrh;JingHu;;Jinghu HSR;chnbj.hsrjinghu,chnhe.hsrjinghu,chntj.hsrjinghu,chnhe.hsrjinghucang,chnsd.hsrjinghu,chnjs.hsrjinghuxu,chnah.hsrjinghu,chnjs.hsrjinghu,chnsh.hsrjinghu
 chncrh;JingZhang;;Jingzhang HSR;chnbj.hsrjingzhang,chnhe.hsrjingzhang
 chncrh;JingZhang;;Jingzhang HSR (Yangqing branch);chnbj.hsrjingzhangyan
 chncrh;JingZhang;;Jingzhang HSR (Chongli spur);chnhe.hsrjingzhangcho
-chncrh;HangShen;;Hangshen HSR;chngd.hsrhangshen
+chncrh;HangShen;;Hangshen HSR;chnzj.hsrhangshen,chnfj.hsrhangshen,chngd.hsrhangshen
 chncrh;HeHang;;Hehang HSR;chnah.hsrhehang,chnzj.hsrhehang
 chncrh;HuKun;;Hukun HSR;chnsh.hsrhukun,chnzj.hsrhukun,chnjx.hsrhukun,chnhn.hsrhukun,chngz.hsrhukun,chnyn.hsrhukun
 chncrh;HuNing;;Huning HSR;chnsh.hsrhuning,chnjs.hsrhuning
@@ -22,3 +22,5 @@ chncrh;NingHang;;Ninghang HSR;chnjs.hsrninghang,chnzj.hsrninghang
 chncrh;ShiJi;;Shiji HSR;chnhe.hsrshiji,chnsd.hsrshiji
 chncrh;ShiTai;;Shitai HSR;chnsx.hsrshitai,chnhe.hsrshitai
 chncrh;SuiMan;;Suiman HSR;chnhl.hsrsuiman
+chncrh;MeiShan;;Meishan HSR;chngd.hsrmeishan
+chncrh;YongGuang;;Yongguang HSR;chngd.hsryongguang
