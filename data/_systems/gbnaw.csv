@@ -14,12 +14,12 @@ gbnaw;ENG;NWSW;;Lla;North Wales - South Wales (Llangua);eng.nwswlla;
 gbnaw;WLS;NWSW;;Lla;North Wales - South Wales (Llangua);wls.nwswlla;
 gbnaw;ENG;NWSW;;Wal;North Wales - South Wales (Walterstone);eng.nwswwal;
 gbnaw;WLS;NWSW;;Car;North Wales - South Wales (Cardiff);wls.nwswcar;
-gbnaw;WLS;HolManLn;;;Holyhead - Manchester Line;wls.holmanln;NWCLn
+gbnaw;WLS;HolManLn;;;Holyhead - Manchester Line;wls.holmanln;
 gbnaw;ENG;HolManLn;;;Holyhead - Manchester Line;eng.holmanln;LlaManLn
-gbnaw;WLS;;;;Llandudno - Liverpool Line;wls.llalivln;LlaManLn
-gbnaw;ENG;;;;Llandudno - Liverpool Line;eng.llalivln;LivWreLn
+gbnaw;WLS;;;;Llandudno - Liverpool Line;wls.llalivln;
+gbnaw;ENG;;;;Llandudno - Liverpool Line;eng.llalivln;
 gbnaw;ENG;BirLlaLn;;;Birmingham - Llandudno Line (Shrewsbury);eng.birllaln;NWCLn
-gbnaw;WLS;BirLlaLn;;Wre;Birmingham - Llandudno Line (Wrecsam);wls.birllalnwre;NWCLnWre
+gbnaw;WLS;BirLlaLn;;Wre;Birmingham - Llandudno Line (Wrecsam);wls.birllalnwre;
 gbnaw;ENG;BirLlaLn;;Che;Birmingham - Llandudno Line (Chester);eng.birllalnche;NWCLnChe
 gbnaw;WLS;BirLlaLn;;;Birmingham - Llandudno Line (Flint);wls.birllaln;
 gbnaw;WLS;WreCreLn;;;Wrecsam - Crewe Line;wls.wrecreln;
