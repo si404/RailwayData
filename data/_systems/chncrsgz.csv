@@ -1,0 +1,5 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+chncrsgz;CHN-GD;ZhuJi;;;Zhuji Intercity;chngd.zhuji;
+chncrsgz;CHN-HI;HaiKou;Hai;;Haikou Suburban to Haikou;chnhi.haikouhai;
+chncrsgz;CHN-HI;HaiKou;Lao;;Haikou Suburban to Laochengzhen;chnhi.haikoulao;
+chncrsgz;CHN-HI;SanLe;;;Sanle Intercity;chnhi.sanle;

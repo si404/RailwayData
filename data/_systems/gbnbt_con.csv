@@ -1,4 +1,3 @@
 systemName;route;banner;groupName;roots
-gbnbt;T1;;T1 (Blackpool);eng.t1bla
-gbnbt;T2;;T2 (Blackpool);eng.t2bla
-gbnbt;T3;;T3 (Blackpool);eng.t3bla
+gbnbt;T;;Tram (Blackpool, direct);eng.tbla
+gbnbt;T;;Tram (Blackpool, via North Station);eng.tnor

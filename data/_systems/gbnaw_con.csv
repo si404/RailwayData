@@ -1,11 +1,11 @@
 systemName;route;banner;groupName;roots
 gbnaw;MarLn;;Marches Line;wls.marln,eng.marlnwal,wls.marlnlla,eng.marlnlla,wls.marlnmon,eng.marln
 gbnaw;NWSW;;North Wales - South Wales;wls.nwsw,eng.nwswche,wls.nwswwre,eng.nwsw,wls.nwswmon,eng.nwswlla,wls.nwswlla,eng.nwswwal,wls.nwswcar
-gbnaw;NWCLn;;North Wales Coast Line;eng.nwcln,wls.nwclnwre,eng.nwclnche,wls.nwcln
+gbnaw;HolManLn;;Holyhead - Manchester Line;wls.holmanln,eng.holmanln
+gbnaw;LlaManLn;;Llandudno - Liverpool Line;wls.llalivln,eng.llalivln
+gbnaw;BirLlaLn;;Birmingham - Llandudno Line;eng.birllaln,wls.birllalnwre,eng.birllalnche,wls.birllaln
+gbnaw;WreCreLn;;Wrescam - Crewe Line;wls.wrecreln,eng.wrecreln
 gbnaw;CamLn;;Cambrian Line;eng.camln,wls.camln
-gbnaw;LlaManLn;;Llandudno - Manchester Line;wls.llamanln,eng.llamanln
-gbnaw;LivWreLn;;Liverpool - Wrescam Line;eng.livwreln
-gbnaw;CheCreLn;;Chester - Crewe Line;eng.checreln
 gbnaw;CamCoaLn;;Cambrian Coast Line;wls.camcoaln
 gbnaw;WWalLn;;West Wales Line (Milford Haven);wls.wwalln
 gbnaw;WWalLn;;West Wales Line (Fishguard);wls.wwallnfis

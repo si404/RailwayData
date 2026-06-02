@@ -1,0 +1,7 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+chnfjfzm;CHN-FJ;1;;FZ;Fuzhou Metro Line 1;chnfj.fzm01;
+chnfjfzm;CHN-FJ;2;;FZ;Fuzhou Metro Line 2;chnfj.fzm02;
+chnfjfzm;CHN-FJ;4;;FZ;Fuzhou Metro Line 4;chnfj.fzm04;
+chnfjfzm;CHN-FJ;5;;FZ;Fuzhou Metro Line 5;chnfj.fzm05;
+chnfjfzm;CHN-FJ;6;;FZ;Fuzhou Metro Line 6;chnfj.fzm06;
+chnfjfzm;CHN-FJ;BinhaiExp;;;Fuzhou Metro Binhai Express;chnfj.binhai;

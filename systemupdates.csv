@@ -1,12 +1,27 @@
 ﻿date;region;systemName;description;statusChange
+2026-05-12;(China) Jiangxi;chnjxncm;Nanchang Metro;preview
+2026-05-12;(China) Jiangsu;chnjshat;Huai'an Modern Tram;preview
+2026-05-10;(China) Sichuan;chncrccd;CR Chengdu Intercity;preview
+2026-05-08;(China) Beijing-Hebei;chncrcbj;CR Beijing Intercity;preview
+2026-05-08;(China) Guangdong;chncrcgz;CR Guangzhou Intercity;preview
+2026-05-08;(China) Guangdong-Hainan;chncrsgz;CR Guangzhou Suburban;preview
+2026-05-08;(China) Fujian;chnfjfzm;Fuzhou Metro;preview
+2026-05-08;(China) Fujian;chnfjxmm;Xiamen Metro;preview
+2026-05-08;(China) Guangdong;chngdic;Guangdong Intercity;preview
+2026-05-08;(China) Guangxi;chngxnnrt;Nanning Rail Transit;preview
+2026-05-08;(China) Henan;chnhazzm;Zhengzhou Metro;preview
+2026-05-08;(China) Hunan;chnhncsm;Changsha Metro;preview
+2026-05-08;(China) Hunan;chnhncsme;Changsha Maglev Express;preview
+2026-05-08;(China) Shaanxi;chnsnxam;Xi'an Metro;preview
+2026-05-08;(China) Sichuan;chnsccdm;Chengdu Metro;preview
 2026-04-21;(China) Fujian;chnfjwyt;Wuyishan Tram;preview
 2026-04-21;(China) Guizhou;chngzgym;Guiyang Metro;preview
+2026-04-21;(China) Heilongjiang;chnhlhrbm;Harbin Metro;preview
+2026-04-21;(China) Henan;chnhalys;Luoyang Subway;preview
 2026-04-21;(China) Hubei;chnhbhst;Huangshi Tram;preview
 2026-04-21;(China) Hubei;chnhbnie;New Intercity Express;preview
-2026-04-21;(China) Heilongjiang;chnhlhrbm;Harbin Metro;preview
 2026-04-21;(China) Liaoning;chnlndlm;Dalian Metro;preview
 2026-04-21;(China) Liaoning;chnlnsym;Shenyang Metro;preview
-2026-04-21;(China) Henan;chnhalys;Luoyang Subway;preview
 2026-04-21;(China) Shanxi;chnsxtym;Taiyuan Metro;preview
 2026-04-21;(China) Zhejiang;chnzjjxt;Jiaxing Tram;preview
 2026-04-21;(China) Zhejiang;chnzjsxs;Shaoxing Suburban Railway;preview
@@ -66,7 +81,6 @@
 2024-08-23;Taiwan;twntpm;Taipei Metro;preview
 2024-08-21;(China) Guangdong;chngdszm;Shenzhen Metro;preview
 2024-08-21;Taiwan;twnhsr;Taiwan High Speed Rail;preview
-2024-08-20;(China) Guangdong;chngdprd;Pearl River Delta Metropolitan Region Intercity Railway;preview
 2024-08-20;Macau;macmlm;Metro Ligeiro de Macau;preview
 2025-10-18;Egypt;egycm;Cairo Metro;preview
 2024-11-13;(USA);usaaair;United States Airside Airport Rail Systems;preview

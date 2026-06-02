@@ -1,46 +1,42 @@
-H
-Luz	2tph	Paris-Nord - all - Montsoult-Maffliers
-Luz	1tph	Paris-Nord - all - Luzarches
-Per	1tph	Paris-Nord - all - Montsoult-Maffliers - all - Persan-Beaumont
-Val	1tph	Paris-Nord - all - Valmondois - all - Persan-Beaumont
-Val	1tph	Paris-Nord - all - Valmondois
--	2tph	Paris-Nord - all - Pontoise
-Tra	1tph	Pontoise - all - Persan-Beaumont, some trains extend to Creil
 
-J
-Erm	4tph	Paris-Saint-Lazare - Asnieres-sur-Seine - all - Ermont-Eaubonne
-Ver	2tph	Paris-Saint-Lazare - Houilles-Carriers-sur-Seine - Poissy - all - Mantes-la-Jolie (peak extension to Vernon-Giverny)
--	1tph	Paris-Saint-Lazare - Argenteuil - all - Gisors
--	1tph	Paris-Saint-Lazare - Argenteuil - all - Pontoise or Boissy-l'Aillerie
-Juz	2tph	Paris-Saint-Lazare - Argenteuil - all - Mantes-la-Jolie
+H    | Paris-Nord ↔ Saint Denis ↔ Epinay - Villetaneuse ↔ La Barre - Ormesson ↔ Enghien-les-Baines ↔ Champ de courses d'Enghien ↔ Ermont-Eaubonne ↔ Cernay ↔ Franconville - Le Plessis-Bouchard ↔ Montigny - Beauchamp ↔ Pierrelaye ↔ Saint-Ouen-l'Aumone-Liesse ↔ Saint-Ouen-l'Aumone ↔ Pontoise | 2tph
+HVal | Paris-Nord ↔ Saint Denis ↔ Epinay - Villetaneuse ↔ La Barre - Ormesson ↔ Enghien-les-Baines ↔ Champ de courses d'Enghien ↔ Ermont-Eaubonne ↔ Ermont-Halte ↔ Gros Noyer - Saint-Prix ↔ Saint-Leu-la-Foret ↔ Vaucelles ↔ Taverny ↔ Bessancourt ↔ Frepillon ↔ Mery-sur-Oise ↔ Meriel ↔ Valmondois | 2tph
+HLuz | Paris-Nord ↔ Saint Denis ↔ Epinay - Villetaneuse ↔ Deuil - Montmagny ↔ Groslay ↔ Sarcelles - Saint-Brice ↔ Ecouen - Ezanville ↔ Domont ↔ Bouffemont - Moisselles ↔ Montsoult-Maffliers | 2tph
+HLuz | Paris-Nord ↔ Saint Denis ↔ Epinay - Villetaneuse ↔ Deuil - Montmagny ↔ Groslay ↔ Sarcelles - Saint-Brice ↔ Ecouen - Ezanville ↔ Domont ↔ Bouffemont - Moisselles ↔ Montsoult-Maffliers ↔ Villaines ↔ Belloy - Saint-Martin ↔ Viarmes ↔ Seugy ↔ Luzarches | 1tph
+HPer | Paris-Nord ↔ Saint Denis ↔ Epinay - Villetaneuse ↔ Deuil - Montmagny ↔ Groslay ↔ Sarcelles - Saint-Brice ↔ Ecouen - Ezanville ↔ Domont ↔ Bouffemont - Moisselles ↔ Montsoult-Maffliers ↔ Presles-Courcelles ↔ Nointel - Mours ↔ Persan-Beaumont | 1tph
 
-K
--	some	Paris-Nord - all - Crepy-en-Valois
+HTra | Pontoise ↔ Saint-Ouen-l'Aumone ↔ Epluches ↔ Pont-Petit ↔ Chaponval ↔ Auvers-sur-Oise ↔ Valmondois ↔ L'Isle-Adam - Parmain ↔ Champagne-sur-Oise ↔ Persan - Beaumont | 1tph
+HTra | Pontoise ↔ Saint-Ouen-l'Aumone ↔ Epluches ↔ Pont-Petit ↔ Chaponval ↔ Auvers-sur-Oise ↔ Valmondois ↔ L'Isle-Adam - Parmain ↔ Champagne-sur-Oise ↔ Persan - Beaumont ↔ Bruyeres-sur-Oise ↔ Boran-sur-Oise ↔ Precy-sur-Oise ↔ Saint-Leu-d'Esserent ↔ Creil | some trains
 
-L
--	4tph	Paris-Saint-Lazare - Becon-les-Bruyeres - all (except Suresnes-Mont-Valerien) -Saint-Nom-la-Breteche
-Mar	4tph	Paris-Saint-Lazare - Asnières-sur-Seine - La Défense-Grande Arche - Suresnes-Mont-Valérien - Saint-Cloud - all - Versailles-Rive-Droite
-Cer	6tph	Paris-Saint-Lazare - all - Nanterre-Universitie
-Cer	1tph	Paris-Saint-Lazare - all - Cergy-le-Haut
+J    | Paris-Saint-Lazare ↔                                                            Argenteuil ↔ Cormeilles-en-Parisis ↔ La Frette - Montigny ↔ Herblay ↔ Conflans-Sainte-Honorine ↔ Eragny - Neuville ↔ Saint-Ouen-l'Aumone-Quartier de l'Eglise ↔ Pontoise ↔ Osny ↔ Boissy-l'Aillerie ↔ Montgeroult - Courcelles ↔ Us ↔ Santeuil - Le Perchay ↔ Chars ↔ Lavilletertre ↔ Liancourt-Saint-Pierre ↔ Chaumont-en-Vexin ↔ Trie-Chateau ↔ Gisors | 1tph
+J    | Paris-Saint-Lazare ↔                                                            Argenteuil ↔ Cormeilles-en-Parisis ↔ La Frette - Montigny ↔ Herblay ↔ Conflans-Sainte-Honorine ↔ Eragny - Neuville ↔ Saint-Ouen-l'Aumone-Quartier de l'Eglise ↔ Pontoise ↔ Osny ↔ Boissy-l'Aillerie | 1tph
+JJuz | Paris-Saint-Lazare ↔                                                            Argenteuil ↔ Cormeilles-en-Parisis ↔ La Frette - Montigny ↔ Herblay ↔ Conflans-Sainte-Honorine ↔ Conflans-Fin-d'Oise ↔ Maurecourt ↔ Andresy ↔ Chanteloup-les-Vignes ↔ Triel-sur-Seine ↔ Vaux-sur-Seine ↔ Thun-le-Paradis ↔ Meaulan - Hardricourt ↔ Juziers ↔ Gargenville ↔ Issou - Porcheville ↔ Limay ↔ Mantes-Station ↔ Mantes-la-Jolie | 2tph
+JErm | Paris-Saint-Lazare ↔ Asnieres-sur-Seine ↔ Bois-Colombes ↔ Colombes ↔ Le Stade ↔ Argenteuil ↔ Sannois ↔ Ermont - Eaubonne | 4tph
+JVer | Paris-Saint-Lazare ↔ Houilles - Carrieres-sur-Seine ↔ Poissy ↔ Villennes-sur-Seine ↔ Vernouillet - Verneuil ↔ Les Clairieres de Verneuil ↔ Les Mureaux ↔ Aubergenville-Elisabethville ↔ Epone - Mezieres ↔                                                                                                                    Mantes-Station ↔ Mantes-la-Jolie | 2tph
+JVer | Paris-Saint-Lazare ↔                                                                                                                                                                                                                                                                                                                           Mantes-la-Jolie ↔ Rosny-sur-Seine ↔ Bonnieres ↔ Vernon - Giverny | peak-only
 
-N
--	2tph	Paris-Montparnasse - all - Plaisir-Grignon
-Dre	limited	Paris-Montparnasse - Versailles-Chantiers - Plaisir-Grignon - all - Dreux
--	1tph	Paris-Montparnasse - all - Mantes-la-Jolie
-Ram	2tph	Paris-Montparnasse - all - Rambouillet
+K    | Paris-Nord ↔ Aulnay-sous-Bois ↔ Mitry - Claye ↔ Compans ↔ Thieux - Nantouillet ↔ Dammartin - Juilly - Saint-Mard ↔ Le Plessis-Belleville ↔ Nanteuil-le-Haudouin ↔ Ormoy-Villers ↔ Crepy | a few trains per day
 
-P
--	2tph	Paris-Est - Chelles-Gournay - all - Meaux
--	1tph	Paris-Est - Meaux - all - Chateau-Thierry
-Fer	1tph	Meaux - all - La Ferte-Milon
-Pro	1tph	Paris-Est - Verneuil-l'Etang - all - Provins
-Cou	1tph	Paris-Est - Tournan - all - Coulommiers
-Cre	1tph	Esbly - all - Crecy-la-Chapelle
+L    | Paris-Saint-Lazare ↔ Pont-Cardinet ↔ Clichy - Levallois ↔ Asnieres-sur-Seine ↔                                   La Defence ↔           Suresnes - Mont Valerien ↔               Saint Cloud ↔ Sevres - Ville-d'Avray ↔ Chaville-Rive-Droite ↔ Viroflay-Rive-Droite ↔ Montreuill ↔ Versailles-Rive-Droit | 4tph
+LMar | Paris-Saint-Lazare ↔                                                           Becon-les-Bruyeres ↔ Courbevoie ↔ La Defense ↔ Puteaux ↔                            Le Val d'Or ↔ Saint-Cloud ↔ Garches - Marnes-la-Coquette ↔ Vaucresson ↔ La Celle-Saint-Cloud ↔ Bougival ↔ Louveciennes ↔ Marly-le-Roi ↔ L'Etang-la-Ville ↔ Saint-Nom-la-Bretche Foret-de-Marly | 4tph
+LCer | Paris-Saint-Lazare ↔ Pont-Cardinet ↔ Clichy - Levallois ↔ Asnieres-sur-Seine ↔ Becon-les-Bruyeres ↔ Les Vallees ↔ La Garenne-Colombes ↔ Nanterre-University | 5tph
+LCer | Paris-Saint-Lazare ↔ Pont-Cardinet ↔ Clichy - Levallois ↔ Asnieres-sur-Seine ↔ Becon-les-Bruyeres ↔ Les Vallees ↔ La Garenne-Colombes ↔ Nanterre-Universite ↔ Houilles - Carriers-sur-Seine ↔ Sartrouville ↔ Maisons-Laffitte ↔ Acheres-Ville ↔ Conflans-Fin-d'Oise ↔ Neuville-Universite ↔ Cergy-Prefecture ↔ Cergy-Saint-Christophe ↔ Cergy-le-Haut | 1tph
 
-R
-Mon	1tph	Paris-Gare-du-Lyon - all - Monterau
--	1tph	Paris-Gare-du-Lyon - all - Montargis	irregular stopping pattern
-Cha	1tph	Melun - all - Monterau
+N    | Paris-Montparnesse ↔ Vanves - Malakoff ↔ Clamart ↔ Meudon ↔ Bellevue ↔ Sevres-Rive-Gauche ↔ Chaville-Rive-Gauche ↔ Viroflay-Rive-Gauche ↔ Versailles-Chantiers ↔ Saint-Cyr ↔ Fontenay-le-Fleury ↔ Villepreux - Les Clayes ↔ Plaisir - Les Clayes ↔ Beynes ↔ Mareil-sur-Mauldre ↔ Maule ↔ Nezel - Aulnay ↔ Epone - Mezieres ↔ Mantes-la-Jolie | 1tph
+NDre | Paris-Montparnesse ↔ Vanves - Malakoff ↔ Clamart ↔ Meudon ↔ Bellevue ↔ Sevres-Rive-Gauche ↔ Chaville-Rive-Gauche ↔ Viroflay-Rive-Gauche ↔ Versailles-Chantiers ↔ Saint-Cyr ↔ Fontenay-le-Fleury ↔ Villepreux - Les Clayes ↔ Plaisir - Les Clayes ↔ Plaisir - Grignon | 1tph
+NDre | Paris-Montparnesse ↔                                                                                                                      Versailles-Chantiers ↔                                                                                   Plaisir - Grignon ↔ Villiers - Neauphle - Pontchartrain ↔ Monfort-l'Amaury - Mere ↔ Garancieres - La Queue ↔ Orgerus - Behoust ↔ Tacoignieres - Richebourg ↔ Houdan ↔ Marchezais - Broue ↔ Dreux | 1tph
+NRam | Paris-Montparnesse ↔ Vanves - Malakoff ↔ Clamart ↔ Meudon ↔ Bellevue ↔ Sevres-Rive-Gauche ↔ Chaville-Rive-Gauche ↔ Viroflay-Rive-Gauche ↔ Versailles-Chantiers ↔ Saint-Cyr ↔ Saint-Quentin-en-Yvelines ↔ Trappes ↔ La Verriere ↔ Coignieres ↔ Les Essarts-le-Roi ↔ Le Perray ↔ Rambouillet | 2tph
 
-U
--	1tph	La Defense - all - La Verriere
+P    | Paris-Est ↔ Chelles - Gournay ↔ Vaires - Torcy ↔ Lagny - Thorigny ↔ Esbly ↔ Meaux | 2tph
+P    | Paris-Est ↔                                                                 Meaux ↔ Trilport ↔ Changis - Saint-Jean ↔ La Ferte-sous-Jouarre ↔ Nanteuil - Saacy ↔ Nogent-l'Artaud - Charly ↔ Chezy-sur-Marne ↔ Chateau-Thierry ↔ Chateau-Thierry | 1tph
+PFer |                                                                             Meaux ↔ Trilport ↔ Isles - Armentieres - Congis ↔ Lizy-sur-Ourcq ↔ Crouy-sur-Ourcq ↔ Mareuil-sur-Ourcq ↔ La Ferte-Milon | 1tph
+PCou | Paris-Est ↔ Verneuil-L'Etang ↔ Mormant ↔ Nangis ↔ Longueville ↔ Sainte-Colombe-Septveilles ↔ Champbenoist - Poigny ↔ Provins | 1tph
+PPro | Paris-Est ↔ Tournan ↔ Marles-en-Brie ↔ Mortcerf ↔ Guerard - La Celle-sur-Morin ↔ Faremoutiers - Pommeause ↔ Mouroux ↔ Coulommiers | 1tph
+
+R    | Paris ↔ Melun ↔ Bois-le-Roi ↔ Fontainebleau-Foret (limited) ↔ Fontainebleau - Avon ↔ Thomery ↔ Moret-Veneux-les-Sables ↔ Montigny-sur-Loing ↔ Bourron-Marlotte - Grez ↔ Nemours - Saint-Pierre ↔ Bagneaux-sur-Loing ↔ Souppes - Chateau-Landon ↔ Dordives ↔ Ferriers - Fontenay ↔ Montargis | 1tph
+RMon | Paris ↔ Melun ↔ Bois-le-Roi ↔ Fontainebleau-Foret (limited) ↔ Fontainebleau - Avon ↔ Thomery ↔ Moret-Veneux-les-Sables ↔ Saint-Mammes ↔                                   Montereau | 1tph
+RCha |         Melun ↔ Livry-sur-Seine ↔ Chartrettes ↔ Fontaine-le-Port ↔ Hericy ↔ Vulaines-sur-Seine - Samoreau ↔ Champagne-sur-Seine ↔ Vernou-sur-Seine ↔ La Grande-Paroisse ↔ Montereau | 1tph
+
+U    | La Defense ↔ Puteaux ↔ Suresnes-Mont-Valerien ↔ Saint-Cloud ↔ Sevres - Ville-d'Avray ↔ Chaville-Rive-Droite ↔ Versailles-Chantiers ↔ Saint-Cyr ↔ Saint-Quentin-en-Yvelines ↔ Trappes ↔ La Verriere | 2tph 
+
+V    | Massy - Palaiseau ↔ Igny ↔ Bievres ↔ Vauboyen ↔ Jouy-en-Josas ↔ Petit Jouy - Les Loges ↔ Versailles - Chantiers | 2tph 

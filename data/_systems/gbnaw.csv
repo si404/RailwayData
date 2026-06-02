@@ -14,16 +14,18 @@ gbnaw;ENG;NWSW;;Lla;North Wales - South Wales (Llangua);eng.nwswlla;
 gbnaw;WLS;NWSW;;Lla;North Wales - South Wales (Llangua);wls.nwswlla;
 gbnaw;ENG;NWSW;;Wal;North Wales - South Wales (Walterstone);eng.nwswwal;
 gbnaw;WLS;NWSW;;Car;North Wales - South Wales (Cardiff);wls.nwswcar;
-gbnaw;ENG;NWCLn;;;North Wales Coast Line (Shrewsbury);eng.nwcln;
-gbnaw;WLS;NWCLn;;Wre;North Wales Coast Line (Wrecsam);wls.nwclnwre;
-gbnaw;ENG;NWCLn;;Che;North Wales Coast Line (Chester);eng.nwclnche;
-gbnaw;WLS;NWCLn;;;North Wales Coast Line (Bangor);wls.nwcln;
+gbnaw;WLS;HolManLn;;;Holyhead - Manchester Line;wls.holmanln;
+gbnaw;ENG;HolManLn;;;Holyhead - Manchester Line;eng.holmanln;LlaManLn
+gbnaw;WLS;;;;Llandudno - Liverpool Line;wls.llalivln;
+gbnaw;ENG;;;;Llandudno - Liverpool Line;eng.llalivln;
+gbnaw;ENG;BirLlaLn;;;Birmingham - Llandudno Line (Shrewsbury);eng.birllaln;NWCLn
+gbnaw;WLS;BirLlaLn;;Wre;Birmingham - Llandudno Line (Wrecsam);wls.birllalnwre;
+gbnaw;ENG;BirLlaLn;;Che;Birmingham - Llandudno Line (Chester);eng.birllalnche;NWCLnChe
+gbnaw;WLS;BirLlaLn;;;Birmingham - Llandudno Line (Flint);wls.birllaln;
+gbnaw;WLS;WreCreLn;;;Wrecsam - Crewe Line;wls.wrecreln;
+gbnaw;ENG;WreCreLn;;;Wrecsam - Crewe Line;eng.wrecreln;CheCreLn
 gbnaw;ENG;CamLn;;;Cambrian Line;eng.camln;
 gbnaw;WLS;CamLn;;;Cambrian Line;wls.camln;
-gbnaw;WLS;LlaManLn;;;Llandudno - Manchester Line;wls.llamanln;
-gbnaw;ENG;LlaManLn;;;Llandudno - Manchester Line;eng.llamanln;
-gbnaw;ENG;LivWreLn;;;Liverpool - Wrescam Line;eng.livwreln;
-gbnaw;ENG;CheCreLn;;;Chester - Crewe Line;eng.checreln;
 gbnaw;WLS;CamCoaLn;;;Cambrian Coast Line;wls.camcoaln;
 gbnaw;WLS;WWalLn;;;West Wales Line (Milford Haven);wls.wwalln;
 gbnaw;WLS;WWalLn;;Fis;West Wales Line (Fishguard);wls.wwallnfis;

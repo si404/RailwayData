@@ -134,29 +134,39 @@ chlefep;CHL;Empresa de los Ferrocarriles del Estado (provincial);TMpurple;1;prev
 chlefes;CHL;Empresa de los Ferrocarriles del Estado (suburbanos);TMgreen;2;preview
 chlefeu;CHL;Empresa de los Ferrocarriles del Estado (urbanos);TMgreen;2;preview
 chlms;CHL;Metro de Santiago;TMblue;3;preview
-chncrh;CHN;China Railway High-speed;TMpurple;1;preview
-twnhsr;CHN;Taiwan High Speed Rail;TMpurple;1;preview
+chncrh;CHN;China Railway High-speed;TMmagenta;1;preview
+chncrcbj;CHN;CR Beijing Intercity;TMpurple;1;preview
+chncrcgz;CHN;CR Guangzhou Intercity;TMpurple;1;preview
+chncrsgz;CHN;CR Guangzhou Suburban;TMdarkgreen;2;preview
+chncrccd;CHN;CR Chengdu Intercity;TMpurple;1;preview
 chnahhfm;CHN;Hefei Metro;TMblue;3;preview
 chnahwhrt;CHN;Wuhu Rail Transit;TMblue;3;preview
 chnbjbcr;CHN;Beijing Suburban Railway;TMgreen;2;preview
 chnbjs;CHN;Beijing Subway;TMblue;3;preview
 chnbjt;CHN;Beijing Trams;TMred;4;preview
 chncqrt;CHN;Chongqing Rail Transit;TMblue;3;preview
+chnfjfzm;CHN;Fuzhou Metro;TMblue;3;preview
 chnfjwyt;CHN;Wuyishan Tram;TMred;4;preview
-chngdprd;CHN;Pearl River Delta Metropolitan Region Intercity Railway;TMgreen;2;preview
+chnfjxmm;CHN;Xiamen Metro;TMblue;3;preview
 chngddgrt;CHN;Dongguan Rail Transit;TMblue;3;preview
 chngdgzfm;CHN;Guangzhou & Foshan Metros;TMblue;3;preview
 chngdgzt;CHN;Guangzhou Tram;TMred;4;preview
+chngdic;CHN;Guangdong Intercity;TMgreen;2;preview
 chngdszm;CHN;Shenzhen Metro;TMblue;3;preview
 chngdszt;CHN;Shenzhen Tram;TMred;4;preview
 chngslzm;CHN;Lanzhou Metro;TMblue;3;preview
+chngxnnrt;CHN;Nanning Rail Transit;TMblue;3;preview
 chngzgym;CHN;Guiyang Metro;TMblue;3;preview
 chnhalys;CHN;Luoyang Subway;TMblue;3;preview
+chnhazzm;CHN;Zhengzhou Metro;TMblue;3;preview
 chnhbhst;CHN;Huangshi Tram;TMred;4;preview
 chnhbnie;CHN;New Intercity Express;TMgreen;2;preview
 chnhesjzm;CHN;Shijiazhuang Metro;TMblue;3;preview
 chnhlhrbm;CHN;Harbin Metro;TMblue;3;preview
+chnhncsm;CHN;Changsha Metro;TMblue;3;preview
+chnhncsme;CHN;Changsha Maglev Express;TMteal;3;preview
 chnjlcct;CHN;Changchun Trams;TMred;4;preview
+chnjshat;CHN;Huai'an Modern Tram;TMred;4;preview
 chnjsczm;CHN;Changzhou Metro;TMblue;3;preview
 chnjsnjm;CHN;Nanjing Metro;TMblue;3;preview
 chnjsnjt;CHN;Nanjing Trams;TMred;4;preview
@@ -165,19 +175,23 @@ chnjssndt;CHN;Suzhou New District Tram;TMred;5;preview
 chnjsszm;CHN;Suzhou Metro;TMblue;3;preview
 chnjswxm;CHN;Wuxi Metro;TMblue;3;preview
 chnjsxzm;CHN;Xuzhou Metro;TMblue;3;preview
+chnjxncm;CHN;Nanchang Metro;TMblue;3;preview
 chnlndlm;CHN;Dalian Metro;TMblue;3;preview
 chnlnsym;CHN;Shenyang Metro;TMblue;3;preview
 chnnmhm;CHN;Hohhot Metro;TMblue;3;preview
+chnsccdm;CHN;Chengdu Metro;TMblue;3;preview
 chnscdjy;CHN;Dujiangyan M-TR Tram;TMred;4;preview
-chnshsr;CHN;Shanghai Suburban Railway;TMgreen;2;preview
 chnshm;CHN;Shanghai Metro;TMblue;3;preview
 chnshml;CHN;Shanghai Maglev;TMteal;3;preview
 chnshsjt;CHN;Songjiang Tram;TMred;4;preview
+chnshsr;CHN;Shanghai Suburban Railway;TMgreen;2;preview
+chnsnxam;CHN;Xi'an Metro;TMblue;3;preview
 chnsxtym;CHN;Taiyuan Metro;TMblue;3;preview
 chntjm;CHN;Tianjin Metro;TMblue;3;preview
-twntr;CHN;Taiwan Railway;TMgreen;2;preview
-twntpm;CHN;Taipei Metro;TMblue;3;preview
+twnhsr;CHN;Taiwan High Speed Rail;TMpurple;1;preview
 twnntm;CHN;New Taipei Metro;TMblue;3;preview
+twntpm;CHN;Taipei Metro;TMblue;3;preview
+twntr;CHN;Taiwan Railway;TMgreen;2;preview
 twntym;CHN;Taoyuan Metro;TMblue;3;preview
 twntcm;CHN;Taichung Metro;TMblue;3;preview
 twnkm;CHN;Kaohsiung Metro;TMblue;3;preview
@@ -395,9 +409,9 @@ fratot;FRA;Tours Tramway;TMred;4;preview
 fratt;FRA;Toulouse Tramway;TMred;4;preview
 fravt;FRA;Valenciennes Tramway;TMred;4;preview
 gbnsx;GBR;(Great British Railways) Stansted Express;TMpurple;1;preview
+gbngx;GBR;(Great British Railways) Gatwick Express;TMpurple;1;preview
 gbngr;GBR;(National Rail) London North Eastern Railway;TMpurple;1;preview
 gbnxc;GBR;(National Rail) CrossCountry;TMpurple;1;preview
-gbngx;GBR;(National Rail) Gatwick Express;TMpurple;1;preview
 gbnvt;GBR;(National Rail) Avanti West Coast;TMpurple;1;preview
 gbncs;GBR;(National Rail) Caledonian Sleeper;TMpurple;1;preview
 gbngc;GBR;(National Rail (OA)) Great Central;TMpurple;1;preview
@@ -406,17 +420,17 @@ gbnhx;GBR;(National Rail (OA)) Heathrow Express;TMpurple;1;preview
 gbnld;GBR;(National Rail (OA)) Lumo;TMpurple;1;preview
 gbncc;GBR;(Great British Railways) c2c;TMgreen;2;preview
 gbnle;GBR;(Great British Railways) Greater Anglia;TMgreen;2;preview
+gbngn;GBR;(Great British Railways Great Northern;TMgreen;2;preview
 gbnln;GBR;(Great British Railways) London Northwestern Railway;TMgreen;2;preview
 gbnse;GBR;(Great British Railways) Southeastern;TMgreen;2;preview
+gbnsn;GBR;(Great British Railways Southern;TMgreen;2;preview
 gbnsw;GBR;(Great British Railways) South Western Railway;TMgreen;2;preview
+gbntl;GBR;(Great British Railways Thameslink;TMdarkgreen;2;preview
 gbnwm;GBR;(Great British Railways) West Midlands Railway;TMgreen;2;preview
 gbnch;GBR;(National Rail) Chiltern Railways;TMgreen;2;preview
 gbnem;GBR;(National Rail) East Midlands Railway;TMgreen;2;preview
-gbngn;GBR;(National Rail) Great Northern;TMgreen;2;preview
 gbngw;GBR;(National Rail) Great Western Railway;TMgreen;2;preview
 gbnnr;GBR;(National Rail) Northern;TMgreen;2;preview
-gbnsn;GBR;(National Rail) Southern;TMgreen;2;preview
-gbntl;GBR;(National Rail) Thameslink;TMdarkgreen;2;preview
 gbntp;GBR;(National Rail) TransPennine Express;TMgreen;2;preview
 gbnaw;GBR;Transport for Wales Rail;TMdarkgreen;2;preview
 gbnlo;GBR;London Overground;TMdarkgreen;2;preview
