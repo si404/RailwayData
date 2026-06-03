@@ -199,8 +199,8 @@ usaamtk;IN;PM;;;Pere Marquette;in.pm;
 usaamtk;MI;PM;;;Pere Marquette;mi.pm;
 usaamtk;NC;PI;;;Piedmont;nc.pi;
 usaamtk;IL;SK;;;Saluki;il.sk;
-usaamtk;CA;SJ;;Sac;San Joaquins (Sacramento);ca.sjsac;
-usaamtk;CA;SJ;;Oak;San Joaquins (Oakland);ca.sjoak;
+usaamtk;CA;GR;;Sac;Gold Runner (Sacramento);ca.grsac;
+usaamtk;CA;GR;;Oak;Gold Runner (Oakland);ca.groak;SJ
 usaamtk;FL;SM;;;Silver Meteor;fl.sm;
 usaamtk;GA;SM;;;Silver Meteor;ga.sm;
 usaamtk;SC;SM;;;Silver Meteor;sc.sm;
