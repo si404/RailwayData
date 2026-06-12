@@ -16,15 +16,5 @@ StLeoMonNord http://www.openstreetmap.org/?lat=45.599784&lon=-73.616204
 StMicMonNord http://www.openstreetmap.org/?lat=45.582809&lon=-73.630457
 Sau http://www.openstreetmap.org/?lat=45.549375&lon=-73.654350
 Ahu http://www.openstreetmap.org/?lat=45.535367&lon=-73.662472
-+X815336 http://www.openstreetmap.org/?lat=45.450061&lon=-73.686923
-+DIV_Via http://www.openstreetmap.org/?lat=45.447893&lon=-73.684294
-+X534539 http://www.openstreetmap.org/?lat=45.447638&lon=-73.643546
-+X401027 http://www.openstreetmap.org/?lat=45.476879&lon=-73.585353
-+X340017 http://www.openstreetmap.org/?lat=45.475420&lon=-73.572178
-+X641813 http://www.openstreetmap.org/?lat=45.481762&lon=-73.558595
-+DIV_13 http://www.openstreetmap.org/?lat=45.486760&lon=-73.556433
-+X841363 http://www.openstreetmap.org/?lat=45.488057&lon=-73.556659
-+X347903 http://www.openstreetmap.org/?lat=45.493807&lon=-73.555924
-+X135830 http://www.openstreetmap.org/?lat=45.494785&lon=-73.556272
-+X894116 http://www.openstreetmap.org/?lat=45.495812&lon=-73.557394
-Cen http://www.openstreetmap.org/?lat=45.500286&lon=-73.567168
++DIV_Cen +Cen http://www.openstreetmap.org/?lat=45.526201&lon=-73.667815
+CoteDeLie http://www.openstreetmap.org/?lat=45.521831&lon=-73.661874
