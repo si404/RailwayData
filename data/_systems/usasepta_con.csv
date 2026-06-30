@@ -1,5 +1,6 @@
 systemName;route;banner;groupName;roots
-usasepta;MarFraLn;;Market-Frankford Line;pa.marfraln
-usasepta;BroStLn;;Broad Street Line;pa.brostln
-usasepta;BroRidSpr;;Broad-Ridge Spur;pa.broridspr
-usasepta;NorLn;;Norristown High Speed Line;pa.norln
+usasepta;B1;;Broad Street Line (Local);pa.b01
+usasepta;B2;;Broad Street Line (Express);pa.b02
+usasepta;B3;;Broad-Ridge Spur;pa.b03
+usasepta;L1;;Market-Frankford Line;pa.l01
+usasepta;M1;;Norristown High Speed Line;pa.m01
