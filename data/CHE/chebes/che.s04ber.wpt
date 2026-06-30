@@ -19,11 +19,10 @@ Hin http://www.openstreetmap.org/?lat=47.049138&lon=7.544281
 +DIV_IC http://www.openstreetmap.org/?lat=47.033872&lon=7.525549
 +DIV_S44Sch http://www.openstreetmap.org/?lat=47.029543&lon=7.524068
 SchSSB http://www.openstreetmap.org/?lat=47.018835&lon=7.498834
-+DIV_S8N http://www.openstreetmap.org/?lat=47.014330&lon=7.480595
 +DIV_S3 http://www.openstreetmap.org/?lat=47.007029&lon=7.465682
 Zoli http://www.openstreetmap.org/?lat=47.000941&lon=7.462614
-+SKIP_Obe http://www.openstreetmap.org/?lat=46.997038&lon=7.461916
-+DIV_S8S http://www.openstreetmap.org/?lat=46.989946&lon=7.466154
++X141892 http://www.openstreetmap.org/?lat=46.997048&lon=7.461946
++X375166 http://www.openstreetmap.org/?lat=46.990190&lon=7.466192
 +DIV_S44Zol http://www.openstreetmap.org/?lat=46.986419&lon=7.465661
 +X450698 http://www.openstreetmap.org/?lat=46.969909&lon=7.469845
 BernWan http://www.openstreetmap.org/?lat=46.967207&lon=7.464373
