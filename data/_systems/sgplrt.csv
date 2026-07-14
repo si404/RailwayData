@@ -2,3 +2,4 @@ systemName;region;route;banner;abbrev;city;root;altRouteNames
 sgplrt;SGP;BP;;;Bukit Panjang LRT;sgp.bp;
 sgplrt;SGP;PG;;;Punggol LRT;sgp.pg;
 sgplrt;SGP;SK;;;Sengkang LRT;sgp.sk;
+sgplrt;SGP;SenExp;;;Sentosa Express;sgp.senexp;
