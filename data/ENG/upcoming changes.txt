@@ -22,25 +22,9 @@ GBR will be formally created about 12 months after legislation (published 2025-1
 
 	GBR Integrated Business Units
 		Great British Railways | Anglia				public-facing transition started, taking over LE and CC
-		Great British Railways | Chiltern			(CH)
-		Great British Railways | CrossCountry		(XC)
-		Great British Railways | East Coast			(GR)
-		Great British Railways | East Midlands		(EM)
-		Great British Railways | Great Northern		(GN)
-		Great British Railways | Great Western		(GW)
-		Great British Railways | High Speed			(HS1)
-		Great British Railways | Island Line		(IL)
-		Great British Railways | North				(NT)
-		Great British Railways | North Western		(LN)
-		Great British Railways | Sleeper			(GW Night Riveria)
-		Great British Railways | Southern			(SN, GX?) a train with the livery exists
-		Great British Railways | South East			(SE minus HS1?)
-		Great British Railways | South Western		(SW) a train with the livery exists
-		Great British Railways | Stansted Express	(SX) confirmed as a separate subbrand of Anglia in Press Release
-		Great British Railways | Thameslink			(TL)
-		Great British Railways | TransPennine		(TP)
-		Great British Railways | West Coast			(VT)
-		Great British Railways | West Midlands		(WM)
+		Great British Railways | Southern			a train with the livery exists
+		Great British Railways | South Western		a train with the livery exists
+		Great British Railways | Stansted Express	confirmed as a separate subbrand in Anglia launch Press Release, taking over SX
 		
 	Other operators
 		Elizabeth Line 		(XR)	regionally managed (Transport for London)	operating contract began 2025-05-25 and ends 2032-05-25 or 2034-05-25
