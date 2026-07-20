@@ -1,8 +1,8 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-deuss;DEU-BW;S1;;;Stuttgart;deubw.s01;S11
+deuss;DEU-BW;S1;;;Stuttgart;deubw.s01;
 deuss;DEU-BW;S2;;;Stuttgart;deubw.s02;
 deuss;DEU-BW;S3;;;Stuttgart;deubw.s03;
 deuss;DEU-BW;S4;;;Stuttgart;deubw.s04;
 deuss;DEU-BW;S5;;;Stuttgart;deubw.s05;
-deuss;DEU-BW;S6;;;Stuttgart;deubw.s06;S62
+deuss;DEU-BW;S6;;;Stuttgart;deubw.s06;
 deuss;DEU-BW;S60;;;Stuttgart;deubw.s60;
