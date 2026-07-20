@@ -20,6 +20,12 @@ GBR will be formally created about 12 months after legislation (published 2025-1
 		Northern Trains          (NT)   	already Dft
 		TransPennine Express     (TP)   	already Dft
 
+	GBR Integrated Business Units
+		Great British Railways | Anglia				public-facing transition started, taking over LE and CC
+		Great British Railways | Southern			a train with the livery exists
+		Great British Railways | South Western		a train with the livery exists
+		Great British Railways | Stansted Express	confirmed as a separate subbrand in Anglia launch Press Release, taking over SX
+		
 	Other operators
 		Elizabeth Line 		(XR)	regionally managed (Transport for London)	operating contract began 2025-05-25 and ends 2032-05-25 or 2034-05-25
 		London Overground	(LO)	regionally managed (Transport for London)	operating contract began 2026-05-03 (First)
@@ -46,42 +52,41 @@ South Wales Metro to come into being at some point (other than Bay line redoubli
 New Station timeline (includes stations on new tracks). Only under construction stations listed
 
 National Rail
-	Cambridge South 	WAML/Fen Line/etc 	28-Jun-2026
-	Okehampton Interchange	Dartmoor Line		   Sep-2026
-	Balgray 		Neilston Line   	autumn 2026
-	Brabazon	    	Filton Line		       2026
-	White Rose      	Huddersfield Line	   Jan-2027
-	Charfield		Severnside Line		spring 2027
-	Pill            	Portishead Line 	  late 2027
-	Portishead      	Portishead Line 	  late 2027
-	Ravensthorpe		TPR Upgrade relocation	summer 2028
-	Henbury			Filton Line		     ??
-	Winslow         	East-West Rail  	    ????	awaiting opening (dispute about staffing of trains)
-	Wixhams         	Thameslink      	     ?? 	paused for rethink due to Universal Park meaning it will need to be bigger
-	Old Oak Common  	High Speed 2     	     ??
-	Interchange     	High Speed 2    	     ??
-	Birmingham CurzonStreet	High Speed 2    	     ??
+	Okehampton Interchange		Dartmoor Line		   Sep-2026
+	Balgray 					Neilston Line   	autumn 2026
+	Brabazon	   			 	Filton Line		       2026
+	White Rose      			Huddersfield Line	   Jan-2027
+	Charfield					Severnside Line		spring 2027
+	Pill            			Portishead Line 	  late 2027
+	Portishead      			Portishead Line 	  late 2027
+	Ravensthorpe				TPR Upgrade relocation	summer 2028
+	Henbury						Filton Line		     ??
+	Winslow         			East-West Rail  	    ????	awaiting opening (dispute about staffing of trains)
+	Wixhams         			Thameslink      	     ?? 	paused for rethink due to Universal Park meaning it will need to be bigger
+	Old Oak Common  			High Speed 2     	     ??
+	Interchange     			High Speed 2    	     ??
+	Birmingham Curzon Street	High Speed 2    	     ??
 
 Metro / Light Rail
-	Great Bridge    	WM Metro Dudley 	   Aug-2026
-	Horseley Road   	WM Metro Dudley 	   Aug-2026
-	Dudley Port     	WM Metro Dudley 	   Aug-2026
-	Sedgley Road    	WM Metro Dudley 	   Aug-2026
-	Birmingham New Road	WM Metro Dudley 	   Aug-2026
-	Tipton Road     	WM Metro Dudley 	   Aug-2026
-	Dudley Castle & Zoo	WM Metro Dudley 	   Aug-2026
-	Dudley Interchange	WM Metro Dudley 	   Aug-2026
-	Flood Street    	WM Metro Dudley 	   Aug-2026
-	Bute Town        	South Wales Metro	   Oct-2026	platform 2 only
-	Gold's Hill     	WM Metro Merry Hill	       2028
-	Cinder Bank     	WM Metro Merry Hill	       2028
-	Pedmore Road    	WM Metro Merry Hill	       2028
-	Canal Street    	WM Metro Merry Hill	       2028
-	Waterfront Merry Hill	WM Metro Merry Hill	       2028
-	MerryHillShoppingCentre	WM Metro Merry Hill	       2028
-	Brierley Hill   	WM Metro Merry Hill	       2028
-	Curzon Street   	WM Metro Eastside	     ??
-	High Street Deritend   	WM Metro Eastside	     ??
+	Great Bridge    			WM Metro Dudley 	   Aug-2026
+	Horseley Road   			WM Metro Dudley 	   Aug-2026
+	Dudley Port     			WM Metro Dudley 	   Aug-2026
+	Sedgley Road    			WM Metro Dudley 	   Aug-2026
+	Birmingham New Road			WM Metro Dudley 	   Aug-2026
+	Tipton Road     			WM Metro Dudley 	   Aug-2026
+	Dudley Castle & Zoo			WM Metro Dudley 	   Aug-2026
+	Dudley Interchange	 	  	WM Metro Dudley 	   Aug-2026
+	Flood Street    	   		WM Metro Dudley 	   Aug-2026
+	Bute Town        	   		South Wales Metro	   Oct-2026	platform 2 only
+	Gold's Hill     	      	WM Metro Merry Hill	       2028
+	Cinder Bank     	      	WM Metro Merry Hill	       2028
+	Pedmore Road       	   		WM Metro Merry Hill	       2028
+	Canal Street    	      	WM Metro Merry Hill	       2028
+	Waterfront Merry Hill   	WM Metro Merry Hill	       2028
+	Merry Hill Shopping Centre	WM Metro Merry Hill	       2028
+	Brierley Hill   	   	   	WM Metro Merry Hill	       2028
+	Curzon Street   	   	   	WM Metro Eastside	     ??
+	High Street Deritend   	   	WM Metro Eastside	     ??
 
 
 ---------------------------------------------
@@ -117,3 +122,4 @@ Dec 2026 Timetable change
 	XC	
 	XR	
 	WM	
+
