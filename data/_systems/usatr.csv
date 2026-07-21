@@ -2,7 +2,7 @@ systemName;region;route;banner;abbrev;city;root;altRouteNames
 usatr;SD;1880Tra;;;1880 Train;sd.1880tra;
 usatr;MT;AldGulSR;;;Alder Gulch Shortline Railroad;mt.aldgulsr;
 usatr;CO;BroManPikPeakCR;;;The Broadmoor Manitou & Pikes Peak Cog Railway;co.bromanpikpeakcr;
-usatr;MA;BerSceRR;;;Berkshire Scenic Railway;ma.brmx;
+usatr;MA;BerSceRW;;;Berkshire Scenic Railway;ma.brmx;
 usatr;WV;CassSceRR;;;Cass Scenic Railroad;wv.cass;
 usatr;MT;ChaRusChewChoo;;;Charlie Russell Chew Choo;mt.charuschewchoo;
 usatr;CO;CriCreVicNGR;;;Cripple Creek & Victor Narrow Gauge Railroad;co.cricrevicngr;
