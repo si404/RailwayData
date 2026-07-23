@@ -3,9 +3,9 @@ LubStr http://www.openstreetmap.org/?lat=52.526245&lon=13.346071
 KriGerMoa http://www.openstreetmap.org/?lat=52.526669&lon=13.354547
 AltMoaRatStr http://www.openstreetmap.org/?lat=52.523542&lon=13.357916
 +DIV_Inv http://www.openstreetmap.org/?lat=52.523753&lon=13.360620
-LesUryWeg http://www.openstreetmap.org/?lat=52.524211&lon=13.362046
-+DIV_Hbf http://www.openstreetmap.org/?lat=52.525558&lon=13.366451
-SUHbf_2 http://www.openstreetmap.org/?lat=52.526554&lon=13.369696
+LesUryWeg http://www.openstreetmap.org/?lat=52.524278&lon=13.362320
++SKIP_ClaJasStr http://www.openstreetmap.org/?lat=52.525426&lon=13.366081
+SUHbf +SUHbf_2 http://www.openstreetmap.org/?lat=52.524975&lon=13.369718
 InvPark http://www.openstreetmap.org/?lat=52.528634&lon=13.376681
 NatMus http://www.openstreetmap.org/?lat=52.530541&lon=13.383096
 SNordBf http://www.openstreetmap.org/?lat=52.531803&lon=13.388311

@@ -11,6 +11,7 @@ SieStrJosOrlStr http://www.openstreetmap.org/?lat=52.523373&lon=13.499612
 HerzBergStrSieStr http://www.openstreetmap.org/?lat=52.526356&lon=13.499783
 HerzBergStrIndGeb http://www.openstreetmap.org/?lat=52.526542&lon=13.490245
 BerBasStr http://www.openstreetmap.org/?lat=52.526760&lon=13.482435
++SKIP_RoePla http://www.openstreetmap.org/?lat=52.526656&lon=13.479753
 MolDorStrStoStr http://www.openstreetmap.org/?lat=52.523536&lon=13.479559
 LoePla http://www.openstreetmap.org/?lat=52.520579&lon=13.479946
 SchStr http://www.openstreetmap.org/?lat=52.520513&lon=13.474066
