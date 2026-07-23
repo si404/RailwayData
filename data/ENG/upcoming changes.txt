@@ -20,12 +20,17 @@ GBR will be formally created about 12 months after legislation (published 2025-1
 		Northern Trains          (NT)   	already Dft
 		TransPennine Express     (TP)   	already Dft
 
-	GBR Integrated Business Units
-		Great British Railways | Anglia				public-facing transition started, taking over LE and CC
-		Great British Railways | Southern			a train with the livery exists
+	GBR Integrated Business Units (and subbrands)
+		Great British Railways | Anglia			public-facing transition started, taking over LE and CC
+		Great British Railways | Cross Country		list behind paywall described as '11 + Cross Country'*
+		Great British Railways | Southern		a train with the livery exists
 		Great British Railways | South Western		a train with the livery exists
 		Great British Railways | Stansted Express	confirmed as a separate subbrand in Anglia launch Press Release, taking over SX
+		Great British Railways | West Midlands		MD appointed for that IBU
 		
+
+*From what I can glean: Anglia (Anglia route), Cross Country (pan-region), East Midlands (East Midlands route), Great Northern (North West (save WCML) and North East routes), Great Western (Western route), London North Eastern Railway (East Coast route), Scotland (Scotland region), South Eastern (Kent route), South Western (Wessex route), Thameslink (Sussex route), Transport for Wales (Wales & Borders route), West Coast (WCML from West Coast South and North West routes), West Midlands (Central route (and local services on WCML?))
+
 	Other operators
 		Elizabeth Line 		(XR)	regionally managed (Transport for London)	operating contract began 2025-05-25 and ends 2032-05-25 or 2034-05-25
 		London Overground	(LO)	regionally managed (Transport for London)	operating contract began 2026-05-03 (First)
@@ -95,7 +100,7 @@ OPERATIONS
 
 Dec 2026 Timetable change
 	AW	
-	CC	
+	Anglia	
 	CH	
 	CS	
 	EM	
@@ -107,8 +112,6 @@ Dec 2026 Timetable change
 	HT	
 	HX	
 	LD	
-	LE	
-	LN	
 	LO	
 	ME	
 	NR	
@@ -116,10 +119,10 @@ Dec 2026 Timetable change
 	SR	
 	SW	
 	SX	
-	TL	
+	TL	Luton-Rainham -> Kentish Town-Rainham, St Albans-Mitcham-Sutton -> Luton-Mitcham-Sutton
 	TP	
 	VT	
 	XC	
 	XR	
-	WM	
+	W Mids	via Stoke service extends to Birmingham (and Manchester Airport in May)
 
