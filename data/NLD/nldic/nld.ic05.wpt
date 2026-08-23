@@ -1,4 +1,5 @@
 DenHaagCen http://www.openstreetmap.org/?lat=52.080917&lon=4.324450
++X145025 http://www.openstreetmap.org/?lat=52.076036&lon=4.331456
 +SKIP_Voo http://www.openstreetmap.org/?lat=52.066584&lon=4.359534
 +SKIP_DenHaagYpe http://www.openstreetmap.org/?lat=52.056178&lon=4.389660
 +SKIP_Zoe http://www.openstreetmap.org/?lat=52.047626&lon=4.476918
@@ -48,7 +49,9 @@ AmeCen http://www.openstreetmap.org/?lat=52.153892&lon=5.374117
 +X595574 http://www.openstreetmap.org/?lat=52.506178&lon=6.080418
 Zwo http://www.openstreetmap.org/?lat=52.505022&lon=6.091275
 +X582747 http://www.openstreetmap.org/?lat=52.499342&lon=6.106373
-+X171014 http://www.openstreetmap.org/?lat=52.505075&lon=6.138010
++X389342 http://www.openstreetmap.org/?lat=52.498633&lon=6.122657
++X798453 http://www.openstreetmap.org/?lat=52.504453&lon=6.136567
++X620947 http://www.openstreetmap.org/?lat=52.508291&lon=6.143718
 +X587955 http://www.openstreetmap.org/?lat=52.528402&lon=6.183720
 +X512327 http://www.openstreetmap.org/?lat=52.615074&lon=6.241951
 +X286031 http://www.openstreetmap.org/?lat=52.627321&lon=6.239709
