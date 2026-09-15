@@ -20,8 +20,9 @@ SchAir http://www.openstreetmap.org/?lat=52.309515&lon=4.762273
 +X424021 http://www.openstreetmap.org/?lat=52.009797&lon=4.507570
 +X458401 http://www.openstreetmap.org/?lat=51.966375&lon=4.461688
 +X101967 http://www.openstreetmap.org/?lat=51.926931&lon=4.447896
++X356624 http://www.openstreetmap.org/?lat=51.924496&lon=4.449710
 +DIV_RotW http://www.openstreetmap.org/?lat=51.923341&lon=4.456522
-RotCen http://www.openstreetmap.org/?lat=51.924995&lon=4.469161
+RotCen http://www.openstreetmap.org/?lat=51.925045&lon=4.469247
 +X884214 http://www.openstreetmap.org/?lat=51.926031&lon=4.479010
 +SKIP_RotBla http://www.openstreetmap.org/?lat=51.919940&lon=4.489229
 +SKIP_RotZuid http://www.openstreetmap.org/?lat=51.904897&lon=4.509866
@@ -29,6 +30,7 @@ RotCen http://www.openstreetmap.org/?lat=51.924995&lon=4.469161
 +SKIP_RotLom http://www.openstreetmap.org/?lat=51.880240&lon=4.531045
 +DIV_RotS http://www.openstreetmap.org/?lat=51.874544&lon=4.535894
 +X947505 http://www.openstreetmap.org/?lat=51.854857&lon=4.552556
++X560119 http://www.openstreetmap.org/?lat=51.849363&lon=4.559981
 +X927448 http://www.openstreetmap.org/?lat=51.835008&lon=4.580870
 +X368841 http://www.openstreetmap.org/?lat=51.780825&lon=4.587307
 +X799703 http://www.openstreetmap.org/?lat=51.726510&lon=4.638827
