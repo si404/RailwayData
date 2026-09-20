@@ -11,7 +11,7 @@ GBR will be formally created about 12 months after legislation (published 2025-1
 		Greater Anglia           (LE, SX)   	12 Oct 2025 <- moved from NR to GBR
 		West Midlands Trains     (LN, WM)	01 Feb 2026 <- moved from NR to GBR
 		Govia Thameslink Railway (TL,SN,GX,GN)	31 May 2026 <- moved from NR to GBR
-		Chiltern Railways        (CH)   	20 Sep 2026
+		Chiltern Railways        (CH)   	20 Sep 2026 <- moved from NR to GBR
 		Great Western Railway    (GW)   	13 Dec 2026
 		Avanti West Coast        (VT)   	18 Oct 2026 (contract end date)
 		East Midlands Railway    (EM)   	18 Oct 2026 (contract end date)
@@ -22,7 +22,7 @@ GBR will be formally created about 12 months after legislation (published 2025-1
 
 	GBR Integrated Business Units (and subbrands)	FOI Request	https://www.whatdotheyknow.com/request/great_british_railways_regional/response/3517235/attach/html/3/FOI%2000074259%20Response.pdf.html
 		Great British Railways | Anglia			public-facing transition started, taking over LE and CC
-		Great British Railways | Chiltern
+		Great British Railways | Chiltern	a train with the livery exists
 		Great British Railways | Cross Country	(tbc)	list behind paywall described as '11 + Cross Country' (FOI list has 18+XC)
 		Great British Railways | East Midlands	(tbc)
 		Great British Railways | Gatwick Express

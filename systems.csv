@@ -255,13 +255,13 @@ deurrs;DEU;S-Bahn Rhein-Ruhr;TMgreen;2;preview
 deuss;DEU;S-Bahn Stuttgart;TMgreen;2;preview
 deuulrs;DEU;Regio-S-Bahn Donau-Iller;TMgreen;2;preview
 deubu;DEU;U-Bahn Berlin;TMblue;3;preview
-deufu;DEU;U-Bahn Frankfurt am Main;TMblue;3;preview
 deuhhu;DEU;U-Bahn Hamburg;TMblue;3;preview
 deumu;DEU;U-Bahn München;TMblue;3;preview
 deunu;DEU;U-Bahn Nürnberg;TMblue;3;preview
 deuws;DEU;Wuppertaler Schwebebahn;TMblue;3;preview
 deubisb;DEU;Stadtbahn Bielefeld;TMteal;3;preview
 deucc;DEU;City-Bahn Chemnitz;TMteal;3;preview
+deufu;DEU;U-Bahn Frankfurt am Main;TMteal;3;preview
 deuksrt;DEU;RegioTram Kassel;TMteal;3;preview
 deuhsb;DEU;Stadtbahn Hannover;TMteal;3;preview
 deurru;DEU;Stadtbahn Rhein-Ruhr;TMteal;3;preview
@@ -427,6 +427,7 @@ gbnht;GBR;(National Rail (OA)) Hull Trains;TMpurple;1;preview
 gbnhx;GBR;(National Rail (OA)) Heathrow Express;TMpurple;1;preview
 gbnld;GBR;(National Rail (OA)) Lumo;TMpurple;1;preview
 gbncc;GBR;(Great British Railways) c2c;TMgreen;2;preview
+gbnch;GBR;(Great British Railways) Chiltern Railways;TMgreen;2;preview
 gbnle;GBR;(Great British Railways) Greater Anglia;TMgreen;2;preview
 gbngn;GBR;(Great British Railways) Great Northern;TMgreen;2;preview
 gbnln;GBR;(Great British Railways) London Northwestern Railway;TMgreen;2;preview
@@ -435,7 +436,6 @@ gbnsn;GBR;(Great British Railways) Southern;TMgreen;2;preview
 gbnsw;GBR;(Great British Railways) South Western Railway;TMgreen;2;preview
 gbntl;GBR;(Great British Railways) Thameslink;TMdarkgreen;2;preview
 gbnwm;GBR;(Great British Railways) West Midlands Railway;TMgreen;2;preview
-gbnch;GBR;(National Rail) Chiltern Railways;TMgreen;2;preview
 gbnem;GBR;(National Rail) East Midlands Railway;TMgreen;2;preview
 gbngw;GBR;(National Rail) Great Western Railway;TMgreen;2;preview
 gbnnr;GBR;(National Rail) Northern;TMgreen;2;preview
