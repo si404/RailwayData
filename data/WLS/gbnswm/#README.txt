@@ -2,16 +2,15 @@
 Navy	2tph	Treherbet - Bae Caerdydd
 Sky	2tph	Merthyr Tudful - Bae Caerdydd
 Blue	2tph	Aberdar - Bae Caerdydd
-	2tph uc	Caerdydd Canolog - Bae Caerdydd
 
 	RED
-Red	2tph	Merthyr Tudful - Caerdydd Heol y Frenhines - Caerdydd Canolog - Aberdar
+Red	2tph	Aberdar - Caerdydd Canolog - Caerdydd Heol y Frenhines - Merthyr Tudful
 Purple	2tph	Treherbert - Caerdydd Canolog
 
 	GREEN
 Green	2tph	Rhymni - Pen-y-bont
 Green	2tph	Rhymni - Ynys y Barri
-Green	2tph	Caerdydd Canolog - Ynys y Barri
+Green	1tph	Caerdydd Canolog - Ynys y Barri
 
 	YELLOW
 Yellow	2tph	Coryton - Penarth

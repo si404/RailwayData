@@ -11,6 +11,7 @@ SieStrJosOrlStr http://www.openstreetmap.org/?lat=52.523373&lon=13.499612
 HerzBergStrSieStr http://www.openstreetmap.org/?lat=52.526356&lon=13.499783
 HerzBergStrIndGeb http://www.openstreetmap.org/?lat=52.526542&lon=13.490245
 BerBasStr http://www.openstreetmap.org/?lat=52.526760&lon=13.482435
++SKIP_RoePla http://www.openstreetmap.org/?lat=52.526656&lon=13.479753
 MolDorStrStoStr http://www.openstreetmap.org/?lat=52.523536&lon=13.479559
 LoePla http://www.openstreetmap.org/?lat=52.520579&lon=13.479946
 SchStr http://www.openstreetmap.org/?lat=52.520513&lon=13.474066
@@ -42,4 +43,4 @@ RumBurStrEdiStr http://www.openstreetmap.org/?lat=52.468034&lon=13.513645
 WilHofStrEdiStr http://www.openstreetmap.org/?lat=52.462419&lon=13.514031
 BruStr http://www.openstreetmap.org/?lat=52.458621&lon=13.512079
 SSchWei http://www.openstreetmap.org/?lat=52.455513&lon=13.510813
-SSchWeiSteDamm http://www.openstreetmap.org/?lat=52.453116&lon=13.509343
+SSchWeiSteDamm http://www.openstreetmap.org/?lat=52.454865&lon=13.509235

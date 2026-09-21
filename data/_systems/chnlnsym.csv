@@ -1,0 +1,7 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+chnlnsym;CHN-LN;1;;SY;Shenyang Metro Line 1;chnln.sym01;
+chnlnsym;CHN-LN;2;;SY;Shenyang Metro Line 2;chnln.sym02;
+chnlnsym;CHN-LN;3;;SY;Shenyang Metro Line 3;chnln.sym03;
+chnlnsym;CHN-LN;4;;SY;Shenyang Metro Line 4;chnln.sym04;
+chnlnsym;CHN-LN;9;;SY;Shenyang Metro Line 9;chnln.sym09;
+chnlnsym;CHN-LN;10;;SY;Shenyang Metro Line 10;chnln.sym10;

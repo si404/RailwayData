@@ -10,8 +10,10 @@ GWML || Great Western Main Line || London Paddington - Reading - Didcot Parkway 
 
 BerHanLn || Berks & Hants Line || London Paddington - Reading - Newbury - Pewsey - Westbury - Castle Cary - Taunton - Exeter St Davids || 1tp2h
 
-DevML || Devon Main Line || London Paddington - Reading - Taunton - Tiverton Parkway - Exeter St Davids - Newton Abbot - Totnes - Plymouth || 1tp2h
+CorML || Cornish Main Line || London Paddington - Reading - Taunton - Tiverton Parkway - Exeter St Davids - Newton Abbot - Totnes - Plymouth || 1tp2h
 	|| London Paddington - Reading - Taunton - Tiverton Parkway - Exeter St Davids - Newton Abbot - Totnes - Plymouth - Liskeard - Bodmin Parkway - Par - St Austell - Truro - Redruth - Camborne - St Erth - Penzance || 1tp2h
+	 || Exeter St Davids - Dawlish - Teignmouth - Newton Abbot - Totnes - Ivybridge - Plymouth - Saltash - St Germans - Liskeard - Bodmin Parkway - Lostwithiel - Par - St Austell - Truro - Redruth - Camborne - Hayle - St Erth - Penzance || 1tph
+	|| Plymouth - Saltash - St Germans - Menheniot - Liskeard - Bodmin Parkway - Lostwithiel - Par - St Austell - Truro - Redruth - Camborne - Hayle - St Erth - Penzance || 1tph
 
 OxfLn || Oxford Line || London Paddington - Reading - Didcot Parkway - Oxford || 1tph
 
@@ -21,12 +23,10 @@ GolVlyLn || Golden Valley Line || London Paddington - Reading - Didcot Parkway -
 
 ===Cross-Regional===
 
-WesML || Wessex Mainline || Cardiff Central - Newport - Filton Abbey Wood - Bristol Temple Meads - Bath Spa - Bradford-on-Avon - Trowbridge - Westbury - Warminster - Salisbury - Romsey - Southampton Central - Fareham - Cosham - Fratton - Portsmouth & Southsea - Portsmouth Harbour || 1tph
+WesML || Wessex Main Line || Cardiff Central - Newport - Filton Abbey Wood - Bristol Temple Meads - Bath Spa - Bradford-on-Avon - Trowbridge - Westbury - Warminster - Salisbury - Romsey - Southampton Central - Fareham - Cosham - Fratton - Portsmouth & Southsea - Portsmouth Harbour || 1tph
 	|| Bristol Temple Meads - Keynsham - Oldfield Park - Bath Spa - Freshford - Avoncliff - Bradford-on-Avon - Trowbridge - Westbury - Warminster - Salisbury || 1tph
 
-CorML || Cornish Main Line || Cardiff Central - Newport - Severn Tunnel Junction - Patchway - Filton Abbey Wood - Bristol Temple Meads - Nailsea & Backwell - Yatton - Worle - Weston-super-Mare - Highbridge & Burnham - Bridgwater - Taunton - Tiverton Parkway - Exeter St Davids - Dawlish - Teignmouth - Newton Abbot - Totnes - Ivybridge - Plymouth - Saltash - St Germans - Liskeard - Bodmin Parkway - Lostwithiel - Par - St Austell - Truro - Redruth - Camborne - Hayle - St Erth - Penzance || 1tp2h
-	|| Cardiff Central - Newport - Severn Tunnel Junction - Patchway - Filton Abbey Wood - Bristol Temple Meads - Nailsea & Backwell - Yatton - Worle - Weston-super-Mare - Highbridge & Burnham - Bridgwater - Taunton || 1tp2h
-	|| Plymouth - St Budeaux Ferry Road - Saltash - St Germans - Menheniot - Liskeard - Bodmin Parkway - Lostwithiel - Par - St Austell - Truro - Redruth - Camborne - Hayle - St Erth - Penzance || 1tp2h
+? || ? Main Line || Cardiff Central - Newport - Severn Tunnel Junction - Patchway - Filton Abbey Wood - Bristol Temple Meads - Nailsea & Backwell - Yatton - Worle - Weston-super-Mare - Highbridge & Burnham - Bridgwater - Taunton - Tiverton Parkway - Exeter St Davids || 1tph
 
 ===South East Locals===
 
@@ -66,7 +66,6 @@ SevVlyLn || Severn Valley Line || Worcester Foregate Street  - Worcester Shrub H
 TraWilLn || Trans-Wilts Line || Swindon - Chippenham - Melksham - Trowbridge - Westbury || 1tp2h
 
 ===Peninsula===
-
 AvoLn & RivLn || Avocet Line & Riviera Line (split at Exeter) || Exmouth - Lympstone Village - Lympstone Commando - Exton - Topsham - Newcourt - Digby and Sowton - Polsloe Bridge - St James Park - Exeter Central - Exeter St Davids - Exeter St Thomas - Marsh Barton - Starcross - Dawlish Warren - Dawlish - Teignmouth - Newton Abbot - Torre - Torquay - Paignton || 2tph
 
 DarLn || Dartmoor Line || Exeter Central - Exeter St Davids - Crediton - Okehampton || 1tph

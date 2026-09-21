@@ -2,4 +2,5 @@ systemName;region;route;banner;abbrev;city;root;altRouteNames
 prtpu;PRT;LnAve;;;Linha de Aveiro;prt.lnave;
 prtpu;PRT;LnBra;;;Linha de Braga;prt.lnbra;
 prtpu;PRT;LnGui;;;Linha de Guimarães;prt.lngui;
+prtpu;PRT;LnLei;;;Linha de Leixões;prt.lnlei;
 prtpu;PRT;LnMar;;;Linha do Marco;prt.lnmar;

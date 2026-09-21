@@ -1,0 +1,7 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+chngdic;CHN-GD;GuangZhouE;;;Guangzhou East Ring Intercity;chngd.guangfoe;
+chngdic;CHN-GD;GuangHui;;;Guanghui Intercity;chngd.guanghui;
+chngdic;CHN-GD;GuangQing;;;Guangqing Intercity;chngd.guangqing;
+chngdic;CHN-GD;GuangZhao;;;Guangzhao Intercity;chngd.guangzhao;
+chngdic;CHN-GD;PaLian;;;Palian Intercity;chngd.palian;
+chngdic;CHN-GD;SuiShen;;;Suishen Intercity;chngd.suishen;

@@ -1,8 +1,11 @@
 NewOrl http://www.openstreetmap.org/?lat=29.946215&lon=-90.078578
 +DIV_Sun http://www.openstreetmap.org/?lat=29.968178&lon=-90.108034
 +X960979 http://www.openstreetmap.org/?lat=29.989081&lon=-90.113640
++X920473 http://www.openstreetmap.org/?lat=29.994031&lon=-90.103555
 +X117436 http://www.openstreetmap.org/?lat=29.992445&lon=-90.078106
-+X788092 http://www.openstreetmap.org/?lat=29.985884&lon=-90.054889
++X198982 http://www.openstreetmap.org/?lat=29.985781&lon=-90.058877
++DIV_MG http://www.openstreetmap.org/?lat=29.985856&lon=-90.055452
++X346503 http://www.openstreetmap.org/?lat=29.986351&lon=-90.045485
 +X402135 http://www.openstreetmap.org/?lat=29.987557&lon=-90.044160
 +X984103 http://www.openstreetmap.org/?lat=30.026875&lon=-90.046391
 +X423291 http://www.openstreetmap.org/?lat=30.048665&lon=-89.986095

@@ -1,14 +1,10 @@
 ParStLaz http://www.openstreetmap.org/?lat=48.876532&lon=2.325261
-+SKIP_PontCar http://www.openstreetmap.org/?lat=48.888014&lon=2.314038
-+SKIP_CliLev http://www.openstreetmap.org/?lat=48.897184&lon=2.298331
++X988137 http://www.openstreetmap.org/?lat=48.888090&lon=2.314344
 +SKIP_AsnSei http://www.openstreetmap.org/?lat=48.905986&lon=2.283268
 +DIV_Erm http://www.openstreetmap.org/?lat=48.909004&lon=2.278504
 +X381241 http://www.openstreetmap.org/?lat=48.914011&lon=2.258592
-+DIV_LE http://www.openstreetmap.org/?lat=48.913270&lon=2.252004
 +SKIP_GarCol http://www.openstreetmap.org/?lat=48.909674&lon=2.239859
-+DIV_LW http://www.openstreetmap.org/?lat=48.907925&lon=2.234752
 +DIV_E http://www.openstreetmap.org/?lat=48.907397&lon=2.213702
-+DIV_ALS http://www.openstreetmap.org/?lat=48.916507&lon=2.193189
 HouCarSei http://www.openstreetmap.org/?lat=48.920286&lon=2.185464
 +X214609 http://www.openstreetmap.org/?lat=48.933369&lon=2.163963
 +SKIP_Sar http://www.openstreetmap.org/?lat=48.937738&lon=2.157140

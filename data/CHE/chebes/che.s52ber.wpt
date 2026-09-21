@@ -1,8 +1,10 @@
-Ins http://www.openstreetmap.org/?lat=46.999683&lon=7.099400
-+DIV_S20 http://www.openstreetmap.org/?lat=46.998863&lon=7.103391
-Mun http://www.openstreetmap.org/?lat=46.993265&lon=7.142272
+MutMor http://www.openstreetmap.org/?lat=46.925216&lon=7.115407
++SKIP_MunLow http://www.openstreetmap.org/?lat=46.938092&lon=7.133228
++DIV_S20 http://www.openstreetmap.org/?lat=46.941348&lon=7.138302
+Gal http://www.openstreetmap.org/?lat=46.950826&lon=7.153130
++DIV_Bern http://www.openstreetmap.org/?lat=46.974263&lon=7.192349
 Ker http://www.openstreetmap.org/?lat=46.975117&lon=7.192386
-+DIV_S5 http://www.openstreetmap.org/?lat=46.974263&lon=7.192349
++DIV_Pay http://www.openstreetmap.org/?lat=46.974263&lon=7.192349
 Gum http://www.openstreetmap.org/?lat=46.942125&lon=7.234626
 +X299798 http://www.openstreetmap.org/?lat=46.932184&lon=7.254581
 Rie http://www.openstreetmap.org/?lat=46.941253&lon=7.334189

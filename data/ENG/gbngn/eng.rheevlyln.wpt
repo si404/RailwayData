@@ -5,7 +5,7 @@ LonKinCro +KinCro http://www.openstreetmap.org/?lat=51.531954&lon=-0.123543
 FinPark http://www.openstreetmap.org/?lat=51.564760&lon=-0.106344
 +SKIP_Har http://www.openstreetmap.org/?lat=51.577456&lon=-0.105186
 +SKIP_Hor http://www.openstreetmap.org/?lat=51.586363&lon=-0.111623
-+SKIP_AlePal http://www.openstreetmap.org/?lat=51.597881&lon=-0.120335
+AlePal http://www.openstreetmap.org/?lat=51.597881&lon=-0.120335
 +DIV_NCLE http://www.openstreetmap.org/?lat=51.601000&lon=-0.124068
 +SKIP_NewSou http://www.openstreetmap.org/?lat=51.614086&lon=-0.143166
 +SKIP_OakPark http://www.openstreetmap.org/?lat=51.637750&lon=-0.166297
@@ -33,5 +33,6 @@ Roy http://www.openstreetmap.org/?lat=52.053150&lon=-0.027552
 Mel http://www.openstreetmap.org/?lat=52.090635&lon=0.009270
 She http://www.openstreetmap.org/?lat=52.114359&lon=0.031071
 Fox http://www.openstreetmap.org/?lat=52.119208&lon=0.056820
-+DIV_WAML http://www.openstreetmap.org/?lat=52.156966&lon=0.135098
-Cam http://www.openstreetmap.org/?lat=52.194113&lon=0.137758
++DIV_WAML http://www.openstreetmap.org/?lat=52.158052&lon=0.134604
+CamSou http://www.openstreetmap.org/?lat=52.173027&lon=0.131428
+Cam http://www.openstreetmap.org/?lat=52.194109&lon=0.137718

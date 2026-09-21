@@ -24,7 +24,7 @@ ManJol http://www.openstreetmap.org/?lat=48.989419&lon=1.703160
 +DIV_Ram http://www.openstreetmap.org/?lat=48.797550&lon=2.066374
 +SKIP_SaiCyr http://www.openstreetmap.org/?lat=48.798815&lon=2.073390
 VerCha http://www.openstreetmap.org/?lat=48.795140&lon=2.135532
-+DIV_N http://www.openstreetmap.org/?lat=48.795832&lon=2.144909
++X603119 http://www.openstreetmap.org/?lat=48.795239&lon=2.148621
 +X539762 http://www.openstreetmap.org/?lat=48.781716&lon=2.155724
 +SKIP_PetJouyLog http://www.openstreetmap.org/?lat=48.771818&lon=2.147055
 +SKIP_JouyJos http://www.openstreetmap.org/?lat=48.764775&lon=2.163491
@@ -33,10 +33,8 @@ VerCha http://www.openstreetmap.org/?lat=48.795140&lon=2.135532
 +SKIP_Igny http://www.openstreetmap.org/?lat=48.739989&lon=2.231040
 +X383754 http://www.openstreetmap.org/?lat=48.724279&lon=2.249279
 MasPal http://www.openstreetmap.org/?lat=48.725100&lon=2.260008
-+DIV_Chi http://www.openstreetmap.org/?lat=48.729374&lon=2.262497
-+DIV_BS http://www.openstreetmap.org/?lat=48.733514&lon=2.270243
++DIV_T12 http://www.openstreetmap.org/?lat=48.729374&lon=2.262497
 +SKIP_MasVer http://www.openstreetmap.org/?lat=48.734696&lon=2.273183
-+DIV_BN http://www.openstreetmap.org/?lat=48.736168&lon=2.277603
 +DIV_TGVW http://www.openstreetmap.org/?lat=48.738372&lon=2.285779
 +SKIP_CheAnt http://www.openstreetmap.org/?lat=48.747969&lon=2.312794
 +X599089 http://www.openstreetmap.org/?lat=48.741191&lon=2.330850

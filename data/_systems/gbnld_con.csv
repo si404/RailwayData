@@ -1,2 +1,3 @@
 systemName;route;banner;groupName;roots
 gbnld;ECML;;East Coast Main Line (Lumo);eng.ecmllum,sct.ecmllum
+gbnld;WCML;;West Coast Main Line (Lumo);eng.wcmllum,sct.wcmllum

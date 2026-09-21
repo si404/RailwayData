@@ -1,10 +1,10 @@
 systemName;route;banner;groupName;roots
-cango;BT;;Barrie GO;on.bt
-cango;KT;;Kitchener GO;on.kt
-cango;LE;;Lakeshore East GO;on.le
-cango;LW;;Lakeshore West GO (Hamilton);on.lw
-cango;LW;;Lakeshore West GO (Niagara Falls);on.lwnia
-cango;MI;;Milton GO;on.mi
-cango;RH;;Richmond Hill GO;on.rh
-cango;ST;;Stouffville GO;on.st
+cango;BT;;Barrie Line;on.bt
+cango;KI;;Kitchener Line;on.ki
+cango;LE;;Lakeshore East Line;on.le
+cango;LW;;Lakeshore West Line (Hamilton);on.lw
+cango;LW;;Lakeshore West Line (Niagara Falls);on.lwnia
+cango;MI;;Milton Line;on.mi
+cango;RH;;Richmond Hill Line;on.rh
+cango;ST;;Stouffville Line;on.st
 cango;UP;;Union-Pearson Express;on.up

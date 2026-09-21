@@ -19,7 +19,7 @@ Sor http://www.openstreetmap.org/?lat=59.985813&lon=11.240838
 +SKIP_Ran http://www.openstreetmap.org/?lat=60.029282&lon=11.327891
 +SKIP_Haga http://www.openstreetmap.org/?lat=60.053799&lon=11.373038
 +X829957 http://www.openstreetmap.org/?lat=60.113750&lon=11.460972
-+SKIP_Arn http://www.openstreetmap.org/?lat=60.123633&lon=11.464748
+Arn http://www.openstreetmap.org/?lat=60.123633&lon=11.464748
 +X301824 http://www.openstreetmap.org/?lat=60.144768&lon=11.480691
 +X202880 http://www.openstreetmap.org/?lat=60.163451&lon=11.517406
 +X372470 http://www.openstreetmap.org/?lat=60.165009&lon=11.556544

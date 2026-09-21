@@ -13,7 +13,7 @@ Pio http://www.openstreetmap.org/?lat=49.207704&lon=16.604333
 Ant http://www.openstreetmap.org/?lat=49.203393&lon=16.606811
 MorNam http://www.openstreetmap.org/?lat=49.198921&lon=16.608281
 MalNam http://www.openstreetmap.org/?lat=49.195149&lon=16.614182
-+DIV_10 http://www.openstreetmap.org/?lat=49.192702&lon=16.613538
++DIV_10E http://www.openstreetmap.org/?lat=49.192702&lon=16.613538
 +DIV_8912 http://www.openstreetmap.org/?lat=49.191594&lon=16.613131
 HlaNad http://www.openstreetmap.org/?lat=49.190592&lon=16.612680
 +DIV_49 http://www.openstreetmap.org/?lat=49.190963&lon=16.611489
@@ -28,3 +28,16 @@ VysHlaVst http://www.openstreetmap.org/?lat=49.189491&lon=16.584860
 VysVstG2 http://www.openstreetmap.org/?lat=49.190248&lon=16.580279
 Lip http://www.openstreetmap.org/?lat=49.191433&lon=16.576352
 Pis http://www.openstreetmap.org/?lat=49.193919&lon=16.569893
+Braf +Bra http://www.openstreetmap.org/?lat=49.206986&lon=16.570537
+Str http://www.openstreetmap.org/?lat=49.211931&lon=16.568595
++DIV_310 http://www.openstreetmap.org/?lat=49.212709&lon=16.562523
+VozKom http://www.openstreetmap.org/?lat=49.213199&lon=16.559690
++DIV_10W http://www.openstreetmap.org/?lat=49.214384&lon=16.557630
+Svr http://www.openstreetmap.org/?lat=49.217986&lon=16.553500
+Bran http://www.openstreetmap.org/?lat=49.219381&lon=16.547717
+Pod http://www.openstreetmap.org/?lat=49.218708&lon=16.542299
+Kam http://www.openstreetmap.org/?lat=49.221784&lon=16.536763
+ZooZah http://www.openstreetmap.org/?lat=49.227733&lon=16.531935
+Pri http://www.openstreetmap.org/?lat=49.228322&lon=16.522139
++DIV_3 http://www.openstreetmap.org/?lat=49.226843&lon=16.519833
+Rak http://www.openstreetmap.org/?lat=49.225827&lon=16.519028

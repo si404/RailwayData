@@ -1,9 +1,10 @@
 ParGareEst http://www.openstreetmap.org/?lat=48.877075&lon=2.359453
-+DIV_EW http://www.openstreetmap.org/?lat=48.889242&lon=2.366030
-+SKIP_RosaPar http://www.openstreetmap.org/?lat=48.896423&lon=2.374077
-+SKIP_Pan http://www.openstreetmap.org/?lat=48.898003&lon=2.400427
++DIV_CDG http://www.openstreetmap.org/?lat=48.893411&lon=2.368433
++X744414 http://www.openstreetmap.org/?lat=48.896684&lon=2.373798
++X620676 http://www.openstreetmap.org/?lat=48.897939&lon=2.385578
++X187424 http://www.openstreetmap.org/?lat=48.898687&lon=2.411220
 +SKIP_NoiSec http://www.openstreetmap.org/?lat=48.896592&lon=2.459779
-+DIV_EE http://www.openstreetmap.org/?lat=48.895294&lon=2.467976
++DIV_E http://www.openstreetmap.org/?lat=48.895294&lon=2.467976
 +SKIP_Bon http://www.openstreetmap.org/?lat=48.894081&lon=2.479262
 +SKIP_RaiVilMon http://www.openstreetmap.org/?lat=48.888946&lon=2.512822
 +SKIP_Gag http://www.openstreetmap.org/?lat=48.883810&lon=2.525268
@@ -14,7 +15,7 @@ VaiTor http://www.openstreetmap.org/?lat=48.875145&lon=2.637620
 LagTho http://www.openstreetmap.org/?lat=48.882060&lon=2.704740
 +X380302 http://www.openstreetmap.org/?lat=48.884910&lon=2.746840
 +X470822 http://www.openstreetmap.org/?lat=48.898327&lon=2.762504
-+DIV_Cre http://www.openstreetmap.org/?lat=48.902143&lon=2.806642
++DIV_T14 http://www.openstreetmap.org/?lat=48.902143&lon=2.806642
 Esb http://www.openstreetmap.org/?lat=48.903158&lon=2.810655
 +X644674 http://www.openstreetmap.org/?lat=48.914053&lon=2.841983
 Mea http://www.openstreetmap.org/?lat=48.957172&lon=2.873268

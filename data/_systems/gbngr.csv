@@ -1,5 +1,6 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
 gbngr;ENG;ECML;;Edi;East Coast Main Line (Edinburgh);eng.ecmledi;
 gbngr;SCT;ECML;;Edi;East Coast Main Line (Edinburgh);sct.ecmledi;
-gbngr;ENG;ECML;;Lee;East Coast Main Line (Leeds);eng.ecmllee;
+gbngr;ENG;ECML;;Bra;East Coast Main Line (Leeds & Bradford);eng.ecmlbra;
+gbngr;ENG;ECML;;Har;East Coast Main Line (Leeds & Harrogate);eng.ecmlhar;ECMLLee
 gbngr;ENG;ECML;;Lin;East Coast Main Line (Lincoln);eng.ecmllin;

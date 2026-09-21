@@ -1,0 +1,11 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+dnklt;DNK;NaeBan;;;Nærumbanen;dnk.naeban;
+dnklt;DNK;LilNor;;;Lille Nord;dnk.lilnor;
+dnklt;DNK;HorBan;;;Hornbækbanen;dnk.horban;
+dnklt;DNK;GriBan;;;Gribskovbanen;dnk.griban;
+dnklt;DNK;FreBan;;;Frederiksværkbanen;dnk.freban;
+dnklt;DNK;OdsBan;;;Odsherredsbanen;dnk.odsban;
+dnklt;DNK;TolBan;;;Tølløsebanen;dnk.tolban;
+dnklt;DNK;OstBan;;;Østbanen (Rodvig);dnk.ostban;
+dnklt;DNK;OstBan;;Fax;Østbanen (Faxe Ladplads);dnk.ostbanfax;
+dnklt;DNK;LolBan;;;Lollandsbanen;dnk.lolban;

@@ -5,14 +5,13 @@ New York City;NYC;usalirr,usamncw,usanycs,usasir,usanjtr,usanjlr,usapath
 NJ Transit;NJ;usanjtr,usanjlr
 SEPTA;SEPTA;usasepa,usasepta,usaseplr
 Philadelphia;Philly;usasepa,usasepta,usaseplr,usapatco
-Washington, DC;DCArea;usamarc,usavrex,usawmat,usadcsc
+Washington, DC;DCArea;usamarc,usavrex,usawmat
 MBTA;Boston;usambtx,usambta,usambtlr
-Northwest Corridor local transit;NWCor;usambtx,usambta,usambtlr,usacndx,usalirr,usamncw,usanycs,usasir,usapath,usanjtr,usanjlr,usasepa,usasepta,usaseplr,usapatco,usabmsl,usablrl,usamarc,usavrex,usawmat,usadcsc
-Chicago;Chicago;usametx,usacta,usanicd
+Northeast Corridor local transit;NECor;usambtx,usambta,usambtlr,usacndx,usalirr,usamncw,usanycs,usasir,usapath,usanjtr,usanjlr,usasepa,usasepta,usaseplr,usapatco,usabmsl,usablrl,usamarc,usavrex,usawmat
 LA Metro;LAMet;usalams,usalamlr
 Los Angeles;LosAngeles;usascax,usalams,usalamlr
 Cleveland;RTA;usarta,usartalr
-Bay Area;SanFran;usabart,usamuni,usasfcc,usaebart
+Bay Area;SanFran;usabart,usamuni,usasfcc,usaebart,usavta,usajpbx,usasmart,usaace
 Montreal;Montreal;canstm,canrem
 Toronto;Toronto;cango,canttc,cantsc
 Amsterdam;Amsterdam;nldam,nldat

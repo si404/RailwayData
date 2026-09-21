@@ -1,35 +1,38 @@
-Timetables created August 18/19th 2024 (next coming ~ October)
+Timetables created 11 Dec 2024. 'All Stops' per map
 
-T1
-	2tph Berowa - all stops - Central ... becomes T9 to Hornsby
-	2tph Hornsby - all stops - Central ... becomes T9 to Hornsby
-	2tph Lindfield - Chatswood - St Leonards - North Sydney - all stops - Central - Redfern - Strathfield - Parramatta - all stops -  Richmond
-	2tph Emu Plains - all stops - Blacktown - Seven Hills - Westmead - Parramatta - Lidcombe - Strathfield - Redfern - Central ... becomes T9 to Gordon
-	2tph Penrith - all stops - Blacktown - Seven Hills - Westmead - Parramatta - Lidcombe - Strathfield - Redfern - Central ... becomes T9 to Gordon
+		T1 - North Shore & Western Line (6tph)
+T1	2tph Berowa - Mount Kuringgai - Mount Colah - Asquith - Hornsby - Waitara - Wahroonga - Warrawee - Turramurra - Pymble - Gordon - Killara - Lindfield - Roseville - Chatswood - Artarmon - St Leonards - Wollstonecraft - Waverton - North Sydney - Milsons Point - Wynyard - Town Hall - Central - Redfern - Strathfield - Lidcombe - Paramatta - Westmead -                                             Seven Hills - Doonside - Rooty Hill - Mount Druitt - St Marys - Werrington - Kingswood - Penrith
+T1	2tph                                                    Hornsby - Waitara - Wahroonga - Warrawee - Turramurra - Pymble - Gordon - Killara - Lindfield - Roseville - Chatswood - Artarmon - St Leonards - Wollstonecraft - Waverton - North Sydney - Milsons Point - Wynyard - Town Hall - Central - Redfern - Strathfield - Lidcombe - Paramatta - Westmead -                                             Seven Hills - Doonside - Rooty Hill - Mount Druitt - St Marys - Werrington - Kingswood - Penrith - Emu Plains
+T1Ric	2tph                                                                                                                                                                                                                                 North Sydney - Milsons Point - Wynyard - Town Hall - Central - Redfern - Strathfield - Lidcombe - Paramatta - Westmead - Wentworthville - Pendle Hill - Toongabbie - Seven Hills - Blacktown - Marayong - Quakers Hill - Schofields - Riverstone - Vineyard - Mulgrave - Windsor - Clarendon - East Richmond - Richmond
 
-T2
-	2tph Parramatta - all stops - Central - Town Hall - Wynyard - Circular Quay - St James - Museum ... becomes T8 to Revesby
-	4tph Leppington - all stops - Flemington - Strathfield - Burwood - Ashfield - Newtown - Redfern - Central - Town Hall - Wynyard - Circular Quay - St James - Museum (08/23/38/53)
+		T2 - Leppington & Inner West Line (6tph)
+T2	4tph Leppington - Edmondson Park - Glenfield - Casula - Liverpool - Warwick Farm - Cabramatta - Canley Vale - Fairfield - Yennora - Guildford - Merrylands - Granville - Clyde - Auburn - Lidcombe - Flemington -            Strathfield - Burwood -           Ashfield -                                                 Newtown -                 Redfern - Central - Town Hall - Wynyard - Circular Quay - St James - Museum (contines as T8 to Macarthur)
+T2Par	2tph                                                                                                                              Parramatta - Harris Park - Granville - Clyde - Auburn - Lidcombe - Flemington - Homebush - Strathfield - Burwood - Croydon - Ashfield - Summer Hill - Lewisham - Petersham - Stanmore - Newtown - Macdonaldtown - Redfern - Central - Town Hall - Wynyard - Circular Quay - St James - Museum (continues as T8 to Revesby)
 
-T3
-	2tph Liverpool - all stops - Birrong - Bankstown - Lakemba - Campsie - Marrickville - Sydenham - Redfern - Central - Town Hall - Wynyard - Circular Quay - St James - Museum (14/44)
-	4tph Lidcombe - all stops - Central - Town Hall - Wynyard - Circular Quay - St James - Museum ... becomes T8 to Macarthur
+		T3 - Liverpool & Inner West Line (4tph)
+T3	2tph Liverpool - Warwick Farm - Cabramatta - Carramar - Villawood - Leightonfield - Chester Hill - Sefton - Regents Park - Berala - Lidcombe - Homebush - Strathfield - Burwood -           Ashfield -                                                 Newtown -                 Redfern - Central - Town Hall - Wynyard - Circular Quay - St James - Museum (continues as T8 to Sydenham)
+T3	2tph                                                                                                                                           Homebush - Strathfield - Burwood - Croydon - Ashfield - Summer Hill - Lewisham - Petersham - Stanmore - Newtown - Macdonaldtown - Redfern - Central - Town Hall - Wynyard - Circular Quay - St James - Museum (continues as T8 to Revesby)
 
-T4
-	2tph Waterfall - all stations - Sutherland - Mortdale - all stations - Bondi Junction
-	4tph Cronulla - all stations - Rockdale - Wolli Creek - Sydenham - all stations - Bondi Junction
+		T4 - Eastern Suburbs and Illawarra Line (6tph)
+T4	2tph Bondi Junction - Edgecliff - Kings Cross - Martin Place - Town Hall - Central - Redfern - Sydenham -         Wolli Creek -                       Rockdale - Kogarah -                     Hurstville -                        Oatley -        Jannali - Sutherland - Kirrawee - Gymea - Miranda - Caringbah - Woolooware - Cronulla
+T4	2tph Bondi Junction - Edgecliff - Kings Cross - Martin Place - Town Hall - Central - Redfern - Sydenham -         Wolli Creek -                       Rockdale - Kogarah - Carlton - Allawah - Hurstville - Penshurst - Mortdale - Oatley - Como - Jannali - Sutherland - Kirrawee - Gymea - Miranda - Caringbah - Woolooware - Cronulla
+T4Wat	2tph Bondi Junction - Edgecliff - Kings Cross - Martin Place - Town Hall - Central - Redfern - Sydenham - Tempe - Wolli Creek - Arncliffe - Banksia - Rockdale - Kogarah - Carlton - Allawah - Hurstville - Penshurst - Mortdale -                           Sutherland - Loftus - Engadine - Heathcote - Waterfall
 
-T5
-	2tph Liverpool - Schofields (early morning / late night extensions to Leppington and Richmond)
+		T5 - Cumberland Line (2tph)
+T5	2tph Leppington - Edmondson Park - Glenfield - Casula - Liverpool - Warwick Farm - Cabramatta - Canley Vale - Fairfield - Yennora - Guildford - Merrylands - Harris Park - Paramatta - Westmead - Wentworthville - Pendle Hill - Toongabbie - Seven Hills - Blacktown - Marayong - Quakers Hill - Schofields
 
-T7
-	6tph Lidcombe - Olympic Park
+		T6 - Lidcombe & Bankstown Line (4tph)
+T6	4tph Lidcombe - Berala - Regents Park - Birrong - Yagoona - Bankstown
 
-T8
-	4tph Revesby - all stations via Airport - Museum - Town Hall (20/35/50/05) ... becomes T2 to Parramatta and ???
-	4tph Macarthur - all stations - Revesby - Wolli Creek - all stations via Airport - Museum - St James - Circular Quay - Wynyard - Town Hall ... becomes T3 to Lidcombe
-	(limited peak service Cambelltown - Town Hall via Sydenham, skipping Macquarie Fields and running non-stop between Revesby and Sydenham (0722/0737/0752/0807/0822/0837) )
+		T7 - Olympic Park Line (6tph)
+T7	6tph Lidcombe - Olympic Park
 
-T9
-	4tph Hornsby - all stops - Strathfield - Burwood - Redfern - Central ... becomes T1 to Hornsby / Berowa
-	4tph Gordon - all stops - Central ... becomes T1 to Penrith / Emu Plains
+		T8 - Airport & South Line (12tph)
+T8Syd	2tph (continues as T3 to Liverpool)  - Town Hall -         Wynyard -         Circular Quay -         St James -         Museum -         Central - Redfern - Erskineville - St Peters - Sydenham
+T8Syd	2tph (continues as ???            )  - Town Hall (06/36) - Wynyard (09/39) - Circular Quay (11/41) - St James (14/44) - Museum (16/46) - Central - Redfern - Erskineville - St Peters - Sydenham
+T8	4tph (continues as T2 to Leppington) - Town Hall -         Wynyard -         Circular Quay -         St James -         Museum  -        Central - Green Square - Mascot - Domestic Airport - International Airport - Wolli Creek -                                                                                                      Revesby - Panania - East Hills - Holesworthy - Glenfield - Macquarie Fields - Ingleburn - Minto - Leumeah - Campbelltown - Macarthur
+T8	4tph (continues as Inner West Line)  - Town Hall -         Wynyard -         Circular Quay -         St James -         Museum -         Central - Green Square - Mascot - Domestic Airport - International Airport - Wolli Creek - Turrela - Bardwell Park - Bexley North - Kingsgrove - Beverly Hills - Narwee - Riverwood - Padstow - Revesby
+
+		T9 - Northern Line (4tph)
+T9	4tph Gordon - Killara - Lindfield - Roseville - Chatswood - Artarmon - St Leonards - Wollstonecraft - Waverton - North Sydney - Milsons Point - Wynyard - Town Hall - Central - Redfern - Burwood - Strathfield - North Strathfield - Concord West - Rhodes - Meadowbank - West Ryde - Denistone - Eastwood - Epping - Cheltenham - Beecroft - Pennant Hills - Thornleigh - Normanhurst - Hornsby
+

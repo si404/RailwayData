@@ -1,19 +1,3 @@
-Bul http://www.openstreetmap.org/?lat=47.523714&lon=8.536570
-+SKIP_Nie http://www.openstreetmap.org/?lat=47.487180&lon=8.503504
-+X482816 http://www.openstreetmap.org/?lat=47.484221&lon=8.501616
-+DIV_S15 http://www.openstreetmap.org/?lat=47.472996&lon=8.507881
-Obe http://www.openstreetmap.org/?lat=47.470270&lon=8.510156
-+SKIP_Rum http://www.openstreetmap.org/?lat=47.454167&lon=8.532944
-Gla http://www.openstreetmap.org/?lat=47.430693&lon=8.558822
-+DIV_S16 http://www.openstreetmap.org/?lat=47.427220&lon=8.559583
-+X759768 http://www.openstreetmap.org/?lat=47.417656&lon=8.550797
-+DIV_S6 http://www.openstreetmap.org/?lat=47.416175&lon=8.549595
-+X625525 http://www.openstreetmap.org/?lat=47.413315&lon=8.546913
-ZurOer http://www.openstreetmap.org/?lat=47.411801&lon=8.544027
-+X635147 http://www.openstreetmap.org/?lat=47.409372&lon=8.539295
-+DIV_S14 http://www.openstreetmap.org/?lat=47.405753&lon=8.536484
-+X566120 http://www.openstreetmap.org/?lat=47.391108&lon=8.511229
-+DIV_S42 http://www.openstreetmap.org/?lat=47.386187&lon=8.513492
 ZurHar http://www.openstreetmap.org/?lat=47.385134&lon=8.517312
 +DIV_S2 http://www.openstreetmap.org/?lat=47.381098&lon=8.528416
 +DIV_Hau http://www.openstreetmap.org/?lat=47.380321&lon=8.531742
@@ -22,6 +6,7 @@ ZurHau http://www.openstreetmap.org/?lat=47.378062&lon=8.539424
 +X842317 http://www.openstreetmap.org/?lat=47.377288&lon=8.543994
 +X680530 http://www.openstreetmap.org/?lat=47.374222&lon=8.547449
 ZurSta http://www.openstreetmap.org/?lat=47.366651&lon=8.548597
++DIV_S7W http://www.openstreetmap.org/?lat=47.365695&lon=8.551462
 +X155286 http://www.openstreetmap.org/?lat=47.365651&lon=8.556612
 +X245878 http://www.openstreetmap.org/?lat=47.373906&lon=8.570602
 Set http://www.openstreetmap.org/?lat=47.397147&lon=8.596115
@@ -31,7 +16,7 @@ Die http://www.openstreetmap.org/?lat=47.420019&lon=8.619365
 +X622224 http://www.openstreetmap.org/?lat=47.426273&lon=8.627572
 +DIV_S8 http://www.openstreetmap.org/?lat=47.422796&lon=8.661261
 Eff http://www.openstreetmap.org/?lat=47.425728&lon=8.687010
-+DIV_S7 http://www.openstreetmap.org/?lat=47.428849&lon=8.688598
++DIV_S7E http://www.openstreetmap.org/?lat=47.428849&lon=8.688598
 +X482877 http://www.openstreetmap.org/?lat=47.430918&lon=8.703318
 Ill http://www.openstreetmap.org/?lat=47.408849&lon=8.722458
 +X190640 http://www.openstreetmap.org/?lat=47.393280&lon=8.731771

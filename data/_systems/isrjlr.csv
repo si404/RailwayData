@@ -1,2 +1,3 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-isrjlr;ISR;1;;Jer;Red Line (Jerusalem);isr.01jer;
+isrjlr;ISR;L1;;;Red Line (Jerusalem);isr.l01;1Jer
+isrjlr;ISR;L3;;;Green Line (Jerusalem);isr.l03;

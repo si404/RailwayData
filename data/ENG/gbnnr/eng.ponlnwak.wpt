@@ -5,7 +5,7 @@ Lee http://www.openstreetmap.org/?lat=53.794358&lon=-1.547720
 +X384173 http://www.openstreetmap.org/?lat=53.788249&lon=-1.575723
 +X776880 http://www.openstreetmap.org/?lat=53.742956&lon=-1.561990
 +X403527 http://www.openstreetmap.org/?lat=53.723447&lon=-1.514311
-Out http://www.openstreetmap.org/?lat=53.715320&lon=-1.510406
++SKIP_Out http://www.openstreetmap.org/?lat=53.715320&lon=-1.510406
 +X854777 http://www.openstreetmap.org/?lat=53.701140&lon=-1.518559
 WakWes http://www.openstreetmap.org/?lat=53.682691&lon=-1.505942
 +DIV_ECML http://www.openstreetmap.org/?lat=53.677481&lon=-1.500492

@@ -2,11 +2,11 @@ systemName;route;banner;groupName;roots
 espcm;C1;;Madrid;espmd.c1
 espcm;C2;;Madrid;espmd.c2,espcm.c2
 espcm;C3;;Madrid;espmd.c3,espcm.c3,espmd.c3ara
-espcm;C3a;;Madrid;espmd.c3a,espcm.c3a,espmd.c3aara
 espcm;C4a;;Madrid;espmd.c4a
 espcm;C4b;;Madrid;espmd.c4b
 espcm;C5;;Madrid;espmd.c5
 espcm;C7;;Madrid;espmd.c7
-espcm;C8;;Madrid;espmd.c8,espcm.c8
+espcm;C8a;;Madrid;espmd.c8a,espcm.c8a
+espcm;C8b;;Madrid;espmd.c8b,espcm.c8b
 espcm;C9;;Madrid;espcl.c9,espmd.c9
 espcm;C10;;Madrid;espmd.c10

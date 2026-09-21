@@ -1,0 +1,14 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+chnzjhzm;CHN-ZJ;1;;HZ;Hangzhou Metro Line 1;chnzj.hzm01;
+chnzjhzm;CHN-ZJ;2;;HZ;Hangzhou Metro Line 2;chnzj.hzm02;
+chnzjhzm;CHN-ZJ;3;;HZ;Hangzhou Metro Line 3;chnzj.hzm03;
+chnzjhzm;CHN-ZJ;4;;HZ;Hangzhou Metro Line 4;chnzj.hzm04;
+chnzjhzm;CHN-ZJ;5;;HZ;Hangzhou Metro Line 5;chnzj.hzm05;
+chnzjhzm;CHN-ZJ;6;;HZ;Hangzhou Metro Line 6;chnzj.hzm06;
+chnzjhzm;CHN-ZJ;6;Bra;HZ;Hangzhou Metro Line 6 (Branch);chnzj.hzm06b;
+chnzjhzm;CHN-ZJ;7;;HZ;Hangzhou Metro Line 7;chnzj.hzm07;
+chnzjhzm;CHN-ZJ;8;;HZ;Hangzhou Metro Line 8;chnzj.hzm08;
+chnzjhzm;CHN-ZJ;9;;HZ;Hangzhou Metro Line 9;chnzj.hzm09;
+chnzjhzm;CHN-ZJ;10;;HZ;Hangzhou Metro Line 10;chnzj.hzm10;
+chnzjhzm;CHN-ZJ;16;;HZ;Hangzhou Metro Line 16;chnzj.hzm16;
+chnzjhzm;CHN-ZJ;19;;HZ;Hangzhou Metro Line 19;chnzj.hzm19;

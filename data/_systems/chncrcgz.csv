@@ -1,0 +1,5 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+chncrcgz;CHN-GD;GuangShen;;;Guangshen Intercity;chngd.guangshen;
+chncrcgz;CHN-GD;GuangZhu;;;Guangzhu Intercity;chngd.guangzhu;
+chncrcgz;CHN-GD;ShenZhan;;;Shenzhan Railway;chngd.shenzhan;
+chncrcgz;CHN-HI;Hainan;;;Hainan Ring HSR;chnhi.hainan;

@@ -2,6 +2,7 @@ systemName;region;route;banner;abbrev;city;root;altRouteNames
 gbnln;ENG;BirLivLn;;;Birmingham - Liverpool Line;eng.birlivln;
 gbnln;ENG;NhpLn;;;Northampton Line;eng.nhpln;
 gbnln;ENG;TreVlyLn;;;Trent Valley Line;eng.trevlyln;
+gbnln;ENG;GUCLn;;;Grand Union Canal Line;eng.gucln;
 gbnln;ENG;PotLn;;;Potteries Line;eng.potln;
 gbnln;ENG;AbbLn;;;Abbey Line;eng.abbln;
 gbnln;ENG;MarValeLn;;;Marston Vale Line;eng.marvaleln;

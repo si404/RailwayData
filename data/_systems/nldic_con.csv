@@ -1,2 +1,23 @@
 systemName;route;banner;groupName;roots
-nldic;IC23;;;nld.ic23
+nldic;ECD;;;nld.ecd,bel.ecd
+nldic;IC5;;;nld.ic05
+nldic;IC6;;;nld.ic06
+nldic;ICD7;;;nld.icd07
+nldic;IC8;;;nld.ic08
+nldic;IC15;;;nld.ic15
+nldic;ICD18;;;nld.icd18
+nldic;IC19;;;nld.ic19
+nldic;IC20;;;nld.ic20
+nldic;IC21;;;nld.ic21
+nldic;IC23;;Zwolle - Enschede;nld.ic23
+nldic;IC23;;Amsterdam - Almere;nld.ic23ams
+nldic;IC25;;;nld.ic25
+nldic;IC27;;;nld.ic27
+nldic;IC28;;;nld.ic28
+nldic;IC29;;;nld.ic29
+nldic;IC30;;;nld.ic30
+nldic;IC31;;;nld.ic31
+nldic;IC32;;;nld.ic32
+nldic;IC35;;;nld.ic35
+nldic;IC36;;;nld.ic36
+nldic;ICD38;;;nld.icd38

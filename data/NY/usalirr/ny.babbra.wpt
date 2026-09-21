@@ -18,7 +18,7 @@ Jam http://www.openstreetmap.org/?lat=40.699861&lon=-73.807676
 +SKIP_VlyStr http://www.openstreetmap.org/?lat=40.661474&lon=-73.704550
 +DIV_FarRoc http://www.openstreetmap.org/?lat=40.661041&lon=-73.702957
 +DIV_WHem http://www.openstreetmap.org/?lat=40.659706&lon=-73.698156
-+SKIP_Lyn http://www.openstreetmap.org/?lat=40.655903&lon=-73.675261
+Lyn http://www.openstreetmap.org/?lat=40.655903&lon=-73.675261
 +DIV_LongBea http://www.openstreetmap.org/?lat=40.655529&lon=-73.672653
 RocCen http://www.openstreetmap.org/?lat=40.658317&lon=-73.646872
 Bal http://www.openstreetmap.org/?lat=40.656754&lon=-73.607004

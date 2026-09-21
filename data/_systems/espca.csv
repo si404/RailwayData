@@ -2,3 +2,8 @@ systemName;region;route;banner;abbrev;city;root;altRouteNames
 espca;ESP-AS;C1;;;Asturias;espas.c1;
 espca;ESP-AS;C2;;;Asturias;espas.c2;
 espca;ESP-AS;C3;;;Asturias;espas.c3;
+espca;ESP-AS;C4;;;Asturias;espas.c4;
+espca;ESP-AS;C5;;;Asturias;espas.c5;
+espca;ESP-AS;C6;;;Asturias;espas.c6;
+espca;ESP-AS;C7;;;Asturias;espas.c7;
+espca;ESP-AS;C8;;;Asturias;espas.c8;

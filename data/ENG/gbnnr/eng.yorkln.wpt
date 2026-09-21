@@ -6,8 +6,8 @@ EastGar http://www.openstreetmap.org/?lat=53.792242&lon=-1.371553
 Mic http://www.openstreetmap.org/?lat=53.788775&lon=-1.326084
 +DIV_Sel http://www.openstreetmap.org/?lat=53.788711&lon=-1.322737
 +X772547 http://www.openstreetmap.org/?lat=53.793579&lon=-1.284628
-ChuFen http://www.openstreetmap.org/?lat=53.827008&lon=-1.227357
-Ull http://www.openstreetmap.org/?lat=53.853242&lon=-1.214461
++SKIP_ChuFen http://www.openstreetmap.org/?lat=53.827008&lon=-1.227357
++SKIP_Ull http://www.openstreetmap.org/?lat=53.853242&lon=-1.214461
 +DIV_ECML http://www.openstreetmap.org/?lat=53.890892&lon=-1.167684
 +DIV_Lum http://www.openstreetmap.org/?lat=53.953933&lon=-1.099041
 York http://www.openstreetmap.org/?lat=53.957721&lon=-1.093698

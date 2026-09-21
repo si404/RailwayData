@@ -21,7 +21,7 @@ LonKinCro http://www.openstreetmap.org/?lat=51.531954&lon=-0.123543
 +X858390 http://www.openstreetmap.org/?lat=51.843799&lon=-0.182734
 +SKIP_Kne http://www.openstreetmap.org/?lat=51.866926&lon=-0.187025
 +DIV_NCLN http://www.openstreetmap.org/?lat=51.885419&lon=-0.195866
-Ste http://www.openstreetmap.org/?lat=51.901627&lon=-0.206938
++SKIP_Ste http://www.openstreetmap.org/?lat=51.901627&lon=-0.206938
 +X647962 http://www.openstreetmap.org/?lat=51.928945&lon=-0.227194
 +SKIP_Hit http://www.openstreetmap.org/?lat=51.953232&lon=-0.263157
 +DIV_Fen http://www.openstreetmap.org/?lat=51.962012&lon=-0.270967

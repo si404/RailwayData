@@ -1,4 +1,7 @@
-EW4 http://www.openstreetmap.org/?lat=1.327231&lon=103.946543
-+DIV_EW http://www.openstreetmap.org/?lat=1.330235&lon=103.953280
-CG1 http://www.openstreetmap.org/?lat=1.335512&lon=103.962121
+CG +EW4 http://www.openstreetmap.org/?lat=1.327277&lon=103.946478
++X394793 http://www.openstreetmap.org/?lat=1.330286&lon=103.953283
+CG1 http://www.openstreetmap.org/?lat=1.335512&lon=103.962137
++X383937 http://www.openstreetmap.org/?lat=1.341207&lon=103.966037
++X108303 http://www.openstreetmap.org/?lat=1.343417&lon=103.971552
++X929330 http://www.openstreetmap.org/?lat=1.358610&lon=103.979529
 CG2 http://www.openstreetmap.org/?lat=1.357521&lon=103.988514

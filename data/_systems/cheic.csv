@@ -1,0 +1,14 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+cheic;CHE;IC1;;;;che.ic01;
+cheic;CHE;IC2;;;;che.ic02;
+cheic;CHE;IC3;;;;che.ic03;
+cheic;CHE;IC4;;;Zurich;che.ic04;
+cheic;DEU-BW;IC4;;;;deubw.ic04;
+cheic;CHE;IC4;;Sch;Schaffhausen;che.ic04sch;
+cheic;CHE;IC5;;;;che.ic05;
+cheic;CHE;IC6;;;;che.ic06;
+cheic;CHE;IC8;;;;che.ic08;
+cheic;CHE;IC21;;;;che.ic21;
+cheic;CHE;IC51;;;;che.ic51;
+cheic;CHE;IC61;;;;che.ic61;
+cheic;CHE;IC81;;;;che.ic81;

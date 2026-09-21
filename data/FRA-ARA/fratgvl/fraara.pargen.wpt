@@ -16,13 +16,12 @@ BouBre http://www.openstreetmap.org/?lat=46.199988&lon=5.214558
 +X143518 http://www.openstreetmap.org/?lat=46.190289&lon=5.317898
 +SKIP_Cey http://www.openstreetmap.org/?lat=46.183418&lon=5.325794
 +X632743 http://www.openstreetmap.org/?lat=46.159591&lon=5.350771
-+X504624 http://www.openstreetmap.org/?lat=46.192755&lon=5.393000
++SKIP_Vil http://www.openstreetmap.org/?lat=46.194203&lon=5.397398
 +SKIP_SimSur http://www.openstreetmap.org/?lat=46.220220&lon=5.421216
 +SKIP_CizeBol http://www.openstreetmap.org/?lat=46.213353&lon=5.454025
 +X849099 http://www.openstreetmap.org/?lat=46.191700&lon=5.485740
 Nur http://www.openstreetmap.org/?lat=46.184057&lon=5.532711
-+SKIP_BriMonClu http://www.openstreetmap.org/?lat=46.175663&lon=5.558417
-+DIV_Oya http://www.openstreetmap.org/?lat=46.174430&lon=5.562451
++DIV_Oya http://www.openstreetmap.org/?lat=46.177171&lon=5.555370
 +X308192 http://www.openstreetmap.org/?lat=46.137248&lon=5.625815
 +X814989 http://www.openstreetmap.org/?lat=46.167787&lon=5.683150
 +X139865 http://www.openstreetmap.org/?lat=46.163522&lon=5.695553

@@ -9,9 +9,10 @@ Cho http://www.openstreetmap.org/?lat=53.442768&lon=-2.273440
 Fir http://www.openstreetmap.org/?lat=53.451203&lon=-2.277646
 +DIV_Alt http://www.openstreetmap.org/?lat=53.460274&lon=-2.279942
 TraBar http://www.openstreetmap.org/?lat=53.461718&lon=-2.277324
-+DIV_CLCW http://www.openstreetmap.org/?lat=53.467584&lon=-2.270705
-Cor http://www.openstreetmap.org/?lat=53.469970&lon=-2.267421
-+DIV_CLCE http://www.openstreetmap.org/?lat=53.474925&lon=-2.256618
++DIV_EccMedTra http://www.openstreetmap.org/?lat=53.467856&lon=-2.270554
+Cor http://www.openstreetmap.org/?lat=53.470114&lon=-2.267416
++X820555 http://www.openstreetmap.org/?lat=53.472444&lon=-2.265029
++X150308 http://www.openstreetmap.org/?lat=53.475018&lon=-2.254236
 DeaCas http://www.openstreetmap.org/?lat=53.474724&lon=-2.250363
 StPetSq http://www.openstreetmap.org/?lat=53.478217&lon=-2.243110
 +DIV_PicS http://www.openstreetmap.org/?lat=53.478638&lon=-2.242531
@@ -19,7 +20,6 @@ StPetSq http://www.openstreetmap.org/?lat=53.478217&lon=-2.243110
 ExcSqu http://www.openstreetmap.org/?lat=53.484464&lon=-2.242734
 +DIV_PicN http://www.openstreetmap.org/?lat=53.486300&lon=-2.241254
 Vic http://www.openstreetmap.org/?lat=53.488052&lon=-2.242563
-+DIV_Cal http://www.openstreetmap.org/?lat=53.490988&lon=-2.231791
 +X722378 http://www.openstreetmap.org/?lat=53.491852&lon=-2.227285
 +DIV_Bur http://www.openstreetmap.org/?lat=53.498252&lon=-2.226126
 Mon http://www.openstreetmap.org/?lat=53.501098&lon=-2.210591

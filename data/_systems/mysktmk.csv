@@ -1,3 +1,7 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-mysktmk;MYS;1;;KLu;KTM Batu Caves - Pulau Sebang Line;mys.01klu;
-mysktmk;MYS;2;;KLu;KTM Tanjuang Malim - Pelabuhan Klang Line;mys.02klu;
+mysktmk;MYS;1;;KLu;KTM Batu Caves – Pulau Sebang Line;mys.01klu;
+mysktmk;MYS;2;;KLu;KTM Tanjuang Malim – Pelabuhan Klang Line;mys.02klu;
+mysktmk;MYS;1;;But;KTM Ipoh – Butterworth Line;mys.01but;
+mysktmk;MYS;2;;But;KTM Padang Besar – Butterworth Line;mys.02but;
+mysktmk;MYS;1;;Joh;KTM Paloh – Johor Bahru Sentral Line;mys.01joh;
+mysktmk;MYS;2;;Joh;KTM Kempas Baru – Pasir Gudang Line;mys.02joh;

@@ -22,7 +22,7 @@ Lie http://www.openstreetmap.org/?lat=50.882561&lon=4.094896
 +DIV_IC12 http://www.openstreetmap.org/?lat=50.880145&lon=4.115968
 +X449339 http://www.openstreetmap.org/?lat=50.822821&lon=4.247203
 +SKIP_And http://www.openstreetmap.org/?lat=50.817876&lon=4.292146
-+DIV_IC20 http://www.openstreetmap.org/?lat=50.818239&lon=4.308743
++DIV_IC20W http://www.openstreetmap.org/?lat=50.818239&lon=4.308743
 +X191696 http://www.openstreetmap.org/?lat=50.822008&lon=4.317734
 +X727465 http://www.openstreetmap.org/?lat=50.828073&lon=4.322605
 +DIV_S10 http://www.openstreetmap.org/?lat=50.830764&lon=4.330480
@@ -46,7 +46,7 @@ BruAirZav http://www.openstreetmap.org/?lat=50.898337&lon=4.482336
 +SKIP_ErpsKwe http://www.openstreetmap.org/?lat=50.896659&lon=4.586706
 +SKIP_Vel http://www.openstreetmap.org/?lat=50.900394&lon=4.632797
 +SKIP_Her http://www.openstreetmap.org/?lat=50.903757&lon=4.675176
-+DIV_IC20 http://www.openstreetmap.org/?lat=50.902586&lon=4.698887
++DIV_IC20E http://www.openstreetmap.org/?lat=50.902586&lon=4.698887
 +DIV_L20 http://www.openstreetmap.org/?lat=50.893979&lon=4.712663
 Leu http://www.openstreetmap.org/?lat=50.881350&lon=4.716053
 +DIV_S20 http://www.openstreetmap.org/?lat=50.870558&lon=4.719143
@@ -56,3 +56,17 @@ Tie http://www.openstreetmap.org/?lat=50.807711&lon=4.925909
 Eze http://www.openstreetmap.org/?lat=50.771601&lon=4.995003
 Nee http://www.openstreetmap.org/?lat=50.763757&lon=5.036330
 Lan http://www.openstreetmap.org/?lat=50.747691&lon=5.079975
++DIV_IC14 http://www.openstreetmap.org/?lat=50.745546&lon=5.090253
++X113877 http://www.openstreetmap.org/?lat=50.806653&lon=5.146558
+StTru http://www.openstreetmap.org/?lat=50.817351&lon=5.176105
+Alk http://www.openstreetmap.org/?lat=50.886873&lon=5.292492
++X121951 http://www.openstreetmap.org/?lat=50.916806&lon=5.335236
++DIV_S43 http://www.openstreetmap.org/?lat=50.925362&lon=5.334978
+Has http://www.openstreetmap.org/?lat=50.930657&lon=5.327511
++DIV_L3 http://www.openstreetmap.org/?lat=50.934031&lon=5.314572
++X192616 http://www.openstreetmap.org/?lat=50.940417&lon=5.311772
++DIV_IC10 http://www.openstreetmap.org/?lat=50.949728&lon=5.328348
+Kie http://www.openstreetmap.org/?lat=50.954466&lon=5.349054
+Bok http://www.openstreetmap.org/?lat=50.955656&lon=5.408235
++X204450 http://www.openstreetmap.org/?lat=50.966900&lon=5.466385
+Genk http://www.openstreetmap.org/?lat=50.967171&lon=5.496254

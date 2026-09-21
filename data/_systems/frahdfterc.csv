@@ -1,8 +1,6 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
 frahdfterc;FRA-HDF;C10;;;;frahdf.c10;
 frahdfterc;FRA-IDF;C10;;;;fraidf.c10;
-frahdfterc;FRA-HDF;C11;;;;frahdf.c11;
-frahdfterc;FRA-IDF;C11;;;;fraidf.c11;
 frahdfterc;FRA-HDF;C13;;;;frahdf.c13;
 frahdfterc;FRA-IDF;C13;;;;fraidf.c13;
 frahdfterc;FRA-HDF;C14;;;;frahdf.c14;

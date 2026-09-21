@@ -1,0 +1,136 @@
+
+Northumberland Line | Newcastle – Manors – Seaton Delaval – Newsham – Blyth Bebside – Ashington | 1tph
+Northumberland Line | Newcastle –          Seaton Delaval – Newsham – Blyth Bebside – Ashington | 1tph
+
+East Coast Main Line | Newcastle – Manors – Cramlington – Morpeth | 1tph
+East Coast Main Line | Newcastle – Manors – Cramlington – Morpeth – Pegswood – Widdrington – Acklington – Alnmouth – Chathill | 2tpd
+
+Tyne Valley Line | Carlisle – Haltwhistle – Hexham –                                         Prudhoe –                   MetroCentre –           Newcastle | 1tph
+Tyne Valley Line |                          Hexham – Corbridge – Riding Mill – Stocksfield – Prudhoe – Wylam – Blaydon – MetroCentre – Dunston – Newcastle | 1tph
+
+North East Semi-fast | Carlisle – Wetheral – Brampton – Haltwhistle – Bardon Mill – Haydon Bridge – Hexham – Prudhoe – MetroCentre – Newcastle – Sunderland – Hartlepool – Stockton – Thornaby – Middlesbrough | 1tph
+
+Durham Coast Line | Newcastle – Heworth – Sunderland – Seaham – Horden – Hartlepool – Seaton Carew – Billingham – Stockton – Thornaby – Middlesbrough – James Cook University Hospital – Marton – Gypsy Lane – Nunthorpe | 1tph
+
+Esk Valley Line | Middlesbrough – James Cook University Hospital – Marton – Gypsy Lane – Nunthorpe – Great Ayton – Battersby – Kildale – Commondale – Castleton Moor – Danby – Lealholm – Glaisdale – Egton – Grosmont – Sleights – Ruswarp – Whitby | 6tpd
+
+Tees Valley Line | Saltburn – Marske – Longbeck – Redcar East – Redcar Central –              Middlesbrough – Thornaby – Eaglescliffe – Allens West – Dinsdale – Darlington | 1tph
+Tees Valley Line | Saltburn – Marske – Longbeck – Redcar East – Redcar Central – South Bank – Middlesbrough – Thornaby – Eaglescliffe – Allens West – Dinsdale – Darlington – North Road – Heighington – Newton Aycliffe – Shildon – Bishop Auckland | 1tph
+
+
+Furness Line | Manchester Airport – Gatley – Manchester Piccadilly – Manchester Oxford Road – Deansgate – Bolton – Chorley – Preston – Lancaster – Carnforth – Silverdale – Arnside – Grange-over-Sands – Kents Bank – Cark & Cartmel – Ulverston – Dalton – Roose – Barrow-in-Furness | 1tph
+
+Cumbria Coast Line | Barrow-in-Furness – Askam – Kirkby-in-Furness – Foxfield – Green Road – Millom – Silecroft – Bootle – Ravenglass – Drigg – Seascale – Sellafield – St Bees – Corkickle – Whitehaven – Parton – Harrington – Workington – Flimby – Maryport – Aspatria – Wigton – Dalston – Carlisle | 1tph
+
+Lakes Line | Oxenholme Lake District – Windermere || 1 || Kendal – Burneside – Staveley – Windermere | 1tph (4tpd to Manchester Airport)
+
+City Line | Liverpool Lime Street – Edge Hill – Wavertree Technology Park – Broad Green – Roby – Huyton – Prescot – Eccleston Park – Thatto Heath – St Helens Central – Garswood – Bryn – Wigan North Western | 2tph
+City Line | Liverpool Lime Street –                                                              Huyton –                                           St Helens Central –                   Wigan North Western – Euxton Balshaw Lane – Leyland – Preston – Poulton-le-Fylde – Blackpool North | 1tph
+
+Blackpool Line | Manchester Airport – Heald Green – Manchester Piccadilly – Manchester Oxford Road – Deansgate – Salford Crescent – Bolton – Lostock – Horwich Parkway – Blackrod – Adlington – Chorley – Buckshaw Parkway – Leyland – Preston – Kirkham & Wesham – Poulton-le-Fylde –          Blackpool North | 1tph
+Blackpool Line | Manchester Airport –               Manchester Piccadilly – Manchester Oxford Road – Deansgate – Salford Crescent – Bolton – Lostock – Horwich Parkway –                        Chorley – Buckshaw Parkway – Leyland – Preston – Kirkham & Wesham – Poulton-le-Fylde – Layton – Blackpool North | 1tph
+
+South Fylde Line | Preston – Salwick – Kirkham & Wesham – Moss Side – Lytham – Ansdell & Fairhaven – St Annes-on-the-Sea – Squires Gate – Blackpool Pleasure Beach – Blackpool South | 1tph
+
+East Lancs Line | Preston – Lostock Hall – Bamber Bridge – Pleasington – Cherry Tree – Mill Hill – Blackburn – Rishton – Church & Oswaldtwistle – Accrington – Huncoat – Hapton – Rose Grove – Burnley Barracks – Burnley Central – Brierfield – Nelson – Colne | 1tph
+
+West Lancs Line | Ormskirk – Burscough Junction – Rufford – Croston – Preston | 1tph
+
+CLC Line | Liverpool Lime Street – Edge Hill – Mossley Hill – West Allerton – Liverpool South Parkway –                          Hough Green –                               Warrington West – Warrington Central – Padgate – Birchwood –              Irlam – Flixton –                Urmston – Humphrey Park – Trafford Park – Manchester Oxford Road | 0.5tph
+CLC Line | Liverpool Lime Street – Edge Hill – Mossley Hill – West Allerton – Liverpool South Parkway –                          Hough Green –                               Warrington West – Warrington Central – Padgate – Birchwood – Glazebrook – Irlam – Flixton – Chassen Road – Urmston –                                 Manchester Oxford Road | 0.5tph
+CLC Line | Liverpool Lime Street –             Mossley Hill – West Allerton – Liverpool South Parkway – Hunts Cross – Halewood – Hough Green – Widnes – Sankey for Penketh – Warrington West – Warrington Central | 1tph
+
+Chat Moss Line | Liverpool Lime Street – Edge Hill – Wavertree Technology Park – Broad Green – Roby – Huyton – Whiston – Rainhill – Lea Green – St Helens Junction – Earlestown – Newton-le-Willows – Patricroft – Eccles – Deansgate – Manchester Oxford Road – Manchester Piccadilly – Mauldeth Road – Burnage – East Didsbury – Gatley – Heald Green – Manchester Airport | 1tph
+
+North Cheshire Line | Ellesmere Port – Ince & Elton – Helsby | 2tpd
+
+Airport Line | Manchester Piccadilly – Mauldeth Road – Burnage – East Didsbury – Gatley – Heald Green – Manchester Airport – Styal – Wilmslow – Alderley Edge – Holmes Chapel – Sandbach – Crewe | 1tph
+
+Crewe Line | Manchester Piccadilly – Levenshulme – Heaton Chapel – Stockport – Cheadle Hulme – Handforth – Wilmslow – Alderley Edge – Chelford – Goostrey – Holmes Chapel – Sandbach – Crewe | 1tph
+Crewe Line | Manchester Piccadilly – Levenshulme – Heaton Chapel – Stockport – Cheadle Hulme – Handforth – Wilmslow – Alderley Edge | 1tph
+
+Mid-Cheshire Line | Manchester Piccadilly – Stockport – Navigation Road – Altrincham – Hale – Ashley – Mobberley – Knutsford – Plumley – Lostock Gralam – Northwich – Greenbank – Cuddington – Delamere – Mouldsworth – Chester | 1tph
+
+Stoke Line | Manchester Piccadilly – Stockport – Cheadle Hulme – Bramhall – Poynton – Adlington – Prestbury – Macclesfield – Congleton – Kidsgrove – Stoke-on-Trent | 1tph
+
+Buxton Line | Manchester Piccadilly – Levenshulme – Heaton Chapel – Stockport – Davenport – Woodsmoor – Hazel Grove – Middlewood – Disley – New Mills Newtown – Furness Vale – Whaley Bridge – Chapel-en-le-Frith – Dove Holes – Buxton | 0.5tph
+Buxton Line | Manchester Piccadilly – Levenshulme – Heaton Chapel – Stockport – Davenport – Woodsmoor – Hazel Grove –              Disley – New Mills Newtown – Furness Vale – Whaley Bridge – Chapel-en-le-Frith –              Buxton | 0.5tph
+Buxton Line | Manchester Piccadilly – Levenshulme – Heaton Chapel – Stockport – Davenport – Woodsmoor – Hazel Grove | 1tph
+
+Glossop Line | Manchester Piccadilly – Ardwick – Ashburys – Guide Bridge – Flowery Field – Newton for Hyde – Godley – Hattersley – Broadbottom – Dinting – Glossop – Hadfield | 2tph
+
+Marple Line | Manchester Piccadilly – Ashburys – Gorton – Fairfield – Guide Bridge – Hyde North – Hyde Central – Woodley – Romiley – Rose Hill Marple | 2tph
+
+Hope Valley Line | Manchester Piccadilly – Ardwick – Ashburys – Belle Vue – Ryder Brow – Reddish North – Brinnington – Bredbury – Romiley – Marple – Strines – New Mills Central | 1tph
+Hope Valley Line | Manchester Piccadilly –                                               Reddish North – Brinnington – Bredbury – Romiley – Marple –           New Mills Central – Chinley – Edale – Hope – Bamford – Hathersage – Grindleford – Dore & Totley – Sheffield | 1tph
+
+Southport Line | Southport – Meols Cop – Burscough Bridge – Parbold – Appley Bridge – Gathurst – Wigan Wallgate – Ince – Hindley – Westhoughton – Bolton – Salford Crescent – Deansgate – Manchester Oxford Road | 1tph
+
+Stalybridge Line | Southport – Meols Cop – Bescar Lane – New Lane – Burscough Bridge – Hoscar – Parbold – Appley Bridge – Gathurst – Wigan Wallgate – Ince – Hindley – Westhoughton – Bolton – Moses Gate – Farnworth – Kearsley –           Salford Crescent – Salford Central – Manchester Victoria – Ashton-under-Lyne – Stalybridge | 0.5tph
+Stalybridge Line | Southport – Meols Cop –                          Burscough Bridge –          Parbold – Appley Bridge – Gathurst – Wigan Wallgate – Ince – Hindley – Westhoughton – Bolton – Moses Gate – Farnworth – Kearsley – Clifton – Salford Crescent – Salford Central – Manchester Victoria – Ashton-under-Lyne – Stalybridge | 0.5tph
+
+Calder Valley Line | Headbolt Lane – Rainford – Upholland – Orrell – Pemberton – Wigan Wallgate – Hindley – Daisy Hill – Hag Fold – Atherton – Walkden – Swinton – Salford Crescent – Salford Central – Manchester Victoria – Rochdale – Smithy Bridge – Littleborough – Todmorden – Burnley Manchester Road – Rose Grove – Accrington – Blackburn | 1tph
+
+Ribble Valley Line |                                                                                                                    Blackburn – Darwen –             Bromley Cross – Hall i' th' Wood – Bolton – Salford Crescent – Salford Central – Manchester Victoria – Moston – Mills Hill – Castleton – Rochdale | 1tph
+Ribble Valley Line |                                                            Clitheroe – Whalley – Langho – Ramsgreave & Wilpshire – Blackburn – Darwen – Entwistle – Bromley Cross – Hall i' th' Wood – Bolton – Salford Crescent – Salford Central – Manchester Victoria – Moston – Mills Hill – Castleton – Rochdale | 1tph
+Ribble Valley Line | Ribblehead – Horton in Ribblesdale – Settle – Hellifield – Clitheroe – Whalley – Langho – Ramsgreave & Wilpshire – Blackburn – Darwen –             Bromley Cross – Hall i' th' Wood – Bolton – Salford Crescent – Salford Central – Manchester Victoria – Moston – Mills Hill – Castleton – Rochdale | limited saturday service
+
+Huddersfield Line | Leeds – Cottingley – Morley – Batley – Dewsbury – Ravensthorpe – Mirfield – Brighouse – Halifax – Low Moor – Bradford Interchange | 1tph
+
+Leeds-Bradford Line | Leeds – Kirkstall Forge – Apperley Bridge – Shipley – Frizinghall – Bradford Forster Square | 2tph
+
+Wharfedale Line | Leeds –                                                     Guiseley – Menston – Burley-in-Wharfedale – Ben Rhydding – Ilkley | 2tph
+Wharfedale Line | Bradford Forster Square – Frizinghall – Shipley – Baildon – Guiseley – Menston – Burley-in-Wharfedale – Ben Rhydding – Ilkley | 2tph
+
+Airedale Line | Leeds –                                 Shipley – Saltaire – Bingley – Crossflatts – Keighley – Steeton & Silsden – Cononley – Skipton | 2tph
+Airedale Line | Bradford Forster Square – Frizinghall – Shipley – Saltaire – Bingley – Crossflatts – Keighley – Steeton & Silsden – Cononley – Skipton | 2tph
+
+Harrogate Line | Leeds – Burley Park – Headingley – Horsforth – Weeton – Pannal – Hornbeam Park – Harrogate – Starbeck – Knaresborough – Cattal – Hammerton – Poppleton – Harrogate | 2tph
+
+Pontefract Line | Leeds – Woodlesford – Castleford – Glasshoughton –                                                   Pontefract Monkhill – Knottingley | 1tph
+Pontefract Line | Leeds – Woodlesford – Castleford – Glasshoughton –                                                   Pontefract Monkhill – Knottingley – Whitley Bridge – Hensall – Snaith – Rawcliffe – Goole | 2tpd
+Pontefract Line | Leeds – Wakefield Westgate – Wakefield Kirkgate – Streethouse – Featherstone – Pontefract Tanshelf – Pontefract Monkhill – Knottingley | 1tph
+
+Wakefield Line | Leeds – Outwood – Wakefield Westgate – Sandal & Agbrigg – Fitzwilliam – South Elmsall – Adwick – Bentley – Doncaster | 1tph
+Wakefield Line | Leeds – Outwood – Wakefield Westgate – Sandal & Agbrigg – Fitzwilliam – Moorthorpe – Thurnscoe – Goldthorpe – Bolton-upon-Dearne – Swinton – Rotherham Central – Meadowhall – Sheffield | 1tph
+Wakefield Line | Leeds –           Wakefield Westgate –                                                                                                                                        Sheffield | 1tph
+
+Penistone Line | Sheffield – Meadowhall – Chapeltown – Elsecar – Wombwell – Barnsley – Dodworth – Silkstone Common – Penistone – Denby Dale – Shepley – Stocksmoor – Brockholes – Honley – Berry Brow – Lockwood – Huddersfield | 1tph
+
+Hallam Line | Leeds – Woodlesford – Castleford – Normanton – Wakefield Kirkgate – Darton – Barnsley – Wombwell – Elsecar – Chapeltown – Meadowhall – Sheffield | 1tph
+
+Erewash Valley Line | Leeds – Nottingham || 1 || Wakefield Kirkgate – Barnsley – Meadowhall – Sheffield – Dronfield – Chesterfield – Alfreton – Langley Mill – Ilkeston – Nottingham | 1tph
+
+Lincoln Line | Leeds - Wakefield Kirkgate – Barnsley – Meadowhall – Sheffield – Darnall – Woodhouse – Kiveton Bridge – Kiveton Park – Shireoaks – Worksop – Retford – Gainsborough Lea Road – Saxilby – Lincoln | 1tph
+
+Pilgrim Line | Sheffield – Worksop – Retford – Gainsborough Central – Kirton Lindsey – Brigg – Barnetby – Grimsby Town – Cleethorpes | 1tpd
+
+York Line | Leeds – Cross Gates – Garforth – East Garforth – Micklefield – York
+
+Selby Line | Halifax – Bradford Interchange – New Pudsey – Bramley – Leeds – Cross Gates – Garforth – East Garforth – Micklefield – South Milford – Selby – Brough – Hull Paragon
+
+South Humberside Line | Doncaster – Kirk Sandall – Hatfield & Stainforth – Thorne South – Crowle – Althorpe – Scunthorpe | 0.5tph
+
+Rotherham Line | Sheffield – Meadowhall – Rotherham Central – Swinton – Mexborough – Conisbrough – Doncaster – Bentley – Adwick | 1tph
+
+Dearne Valley Line | Sheffield – Meadowhall – Rotherham Central – Swinton – Moorthorpe – Pontefract Baghill – Sherburn-in-Elmet – Church Fenton – Ulleskelf – York | 3tpd
+
+Yorkshire Coast Line |                          Doncaster – Kirk Sandall – Hatfield & Stainforth – Thorne North – Goole –              Gilberdyke – Broomfleet – Brough – Ferriby – Hessle – Hull Paragon | 0.5tph
+Yorkshire Coast Line |                          Doncaster – Kirk Sandall – Hatfield & Stainforth – Thorne North – Goole – Saltmarshe – Gilberdyke –              Brough – Ferriby – Hessle – Hull Paragon | 0.5tph
+Yorkshire Coast Line | Sheffield – Meadowhall – Doncaster –                                                       Goole –                                        Brough –                    Hull Paragon – Cottingham – Beverley – Driffield – Bridlington – Bempton – Hunmanby – Filey – Seamer – Scarborough | 1tph
+
+Yorkshire Wolds Line | Bridlington – Nafferton – Driffield – Hutton Cranswick – Beverley – Cottingham – Hull Paragon – Brough – Gilberdyke – Howden – Selby – Sherburn-in-Elmet – Church Fenton – York | 0.5tph
+Yorkshire Wolds Line | Bridlington – Nafferton – Driffield – Hutton Cranswick – Beverley – Cottingham – Hull Paragon – Brough – Gilberdyke – Howden – Selby –                                   – York | 0.5tph
+
+Settle and Carlisle Line | Leeds – Shipley – Bingley – Keighley – Skipton – Hellifield – Settle – Horton in Ribblesdale – Ribblehead – Dent – Garsdale – Kirkby Stephen – Appleby – Langwathby – Lazonby & Kirkoswald – Armathwaite – Carlisle | 0.5tph
+
+Bentham Line | Leeds – Shipley – Bingley – Keighley – Skipton – Gargrave – Hellifield – Long Preston – Giggleswick – Clapham – Bentham – Wennington – Carnforth – Lancaster – Bare Lane – Morecambe | 0.5tph
+Bentham Line |                                                                                                                                                    Lancaster – Bare Lane – Morecambe | 1tph
+Bentham Line |                                                                                                                                                    Lancaster – Bare Lane – Morecambe – Heysham Port | 1tpd
+
+Roses Line | York – Church Fenton – Garforth – Leeds – New Pudsey – Bradford Interchange – Halifax – Hebden Bridge – Burnley Manchester Road – Accrington – Blackburn – Preston – Kirkham & Wesham – Poulton-le-Fylde – Blackpool North | 1tph
+
+Calderdale Line | Leeds – Bramley – New Pudsey – Bradford Interchange –            Halifax –                                Hebden Bridge – Todmorden – Rochdale – Manchester Victoria | 1tph
+Calderdale Line | Leeds - Bramley – New Pudsey – Bradford Interchange – Low Moor – Halifax – Sowerby Bridge – Mytholmroyd – Hebden Bridge – Todmorden – Rochdale – Manchester Victoria – Newton-le-Willows – Earlestown – Warrington Bank Quay – Chester | 1tph
+
+Atherton Line | Leeds – Morley – Batley – Dewsbury – Mirfield – Brighouse – Sowerby Bridge – Mytholmroyd – Hebden Bridge – Todmorden – Walsden – Littleborough – Smithy Bridge – Rochdale – Manchester Victoria – Salford Central – Salford Crescent – Swinton – Moorside – Walkden – Atherton – Hag Fold – Daisy Hill – Hindley – Ince – Wigan Wallgate | 1tph

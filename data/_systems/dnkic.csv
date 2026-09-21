@@ -1,0 +1,6 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+dnkic;DNK;KobEsb;;;København - Esbjerg;dnk.kobesb;
+dnkic;DNK;KobFre;;;København - Fredericia;dnk.kobfre;
+dnkic;DNK;FreAal;;;Fredericia - Aalborg;dnk.freaal;
+dnkic;DNK;FreFle;;;Fredericia - Flensborg;dnk.frefle;
+dnkic;DEU-SH;FreFle;;;Fredericia - Flensborg;deush.frefle;

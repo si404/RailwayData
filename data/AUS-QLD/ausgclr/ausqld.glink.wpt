@@ -1,5 +1,4 @@
 Hel http://www.openstreetmap.org/?lat=-27.926038&lon=153.338885
-+DIV_GC http://www.openstreetmap.org/?lat=-27.950492&lon=153.345408
 Par http://www.openstreetmap.org/?lat=-27.951885&lon=153.347147
 ParEast http://www.openstreetmap.org/?lat=-27.963011&lon=153.364635
 GoldCoaUH http://www.openstreetmap.org/?lat=-27.960817&lon=153.380824
@@ -15,6 +14,14 @@ CypAve http://www.openstreetmap.org/?lat=-27.996528&lon=153.429147
 CavAve http://www.openstreetmap.org/?lat=-28.001539&lon=153.428385
 SurPar http://www.openstreetmap.org/?lat=-28.006172&lon=153.429050
 Nor http://www.openstreetmap.org/?lat=-28.010055&lon=153.429490
-FloGar http://www.openstreetmap.org/?lat=-28.017386&lon=153.429265
-BroNor http://www.openstreetmap.org/?lat=-28.028098&lon=153.429694
-BroSou http://www.openstreetmap.org/?lat=-28.035513&lon=153.431089
+FloGar http://www.openstreetmap.org/?lat=-28.017339&lon=153.429273
+BroNor http://www.openstreetmap.org/?lat=-28.028027&lon=153.429667
+BroSou http://www.openstreetmap.org/?lat=-28.035423&lon=153.431057
+MerBea http://www.openstreetmap.org/?lat=-28.042125&lon=153.434251
+MerBeaSou http://www.openstreetmap.org/?lat=-28.050699&lon=153.436365
+NobBea http://www.openstreetmap.org/?lat=-28.059832&lon=153.437663
+MiaNor http://www.openstreetmap.org/?lat=-28.065209&lon=153.438849
+Mia http://www.openstreetmap.org/?lat=-28.068996&lon=153.441933
+ChrAve http://www.openstreetmap.org/?lat=-28.076072&lon=153.445329
+SecAve http://www.openstreetmap.org/?lat=-28.084234&lon=153.448378
+BurHea http://www.openstreetmap.org/?lat=-28.089850&lon=153.452909

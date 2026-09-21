@@ -1,0 +1,18 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+chnsccdm;CHN-SC;1;;CD;Chengdu Metro Line 1;chnsc.cdm01;
+chnsccdm;CHN-SC;1;Y;CD;Chengdu Metro Line 1 (Branch);chnsc.cdm01y;
+chnsccdm;CHN-SC;2;;CD;Chengdu Metro Line 2;chnsc.cdm02;
+chnsccdm;CHN-SC;3;;CD;Chengdu Metro Line 3;chnsc.cdm03;
+chnsccdm;CHN-SC;4;;CD;Chengdu Metro Line 4;chnsc.cdm04;
+chnsccdm;CHN-SC;5;;CD;Chengdu Metro Line 5;chnsc.cdm05;
+chnsccdm;CHN-SC;6;;CD;Chengdu Metro Line 6;chnsc.cdm06;
+chnsccdm;CHN-SC;7;;CD;Chengdu Metro Line 7;chnsc.cdm07;
+chnsccdm;CHN-SC;8;;CD;Chengdu Metro Line 8;chnsc.cdm08;
+chnsccdm;CHN-SC;9;;CD;Chengdu Metro Line 9;chnsc.cdm09;
+chnsccdm;CHN-SC;10;;CD;Chengdu Metro Line 10;chnsc.cdm10;
+chnsccdm;CHN-SC;13;;CD;Chengdu Metro Line 13;chnsc.cdm13;
+chnsccdm;CHN-SC;17;;CD;Chengdu Metro Line 17;chnsc.cdm17;
+chnsccdm;CHN-SC;18;;CD;Chengdu Metro Line 18;chnsc.cdm18;
+chnsccdm;CHN-SC;19;;CD;Chengdu Metro Line 19;chnsc.cdm19;
+chnsccdm;CHN-SC;27;;CD;Chengdu Metro Line 27;chnsc.cdm27;
+chnsccdm;CHN-SC;30;;CD;Chengdu Metro Line 30;chnsc.cdm30;

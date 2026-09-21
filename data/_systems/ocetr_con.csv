@@ -1,0 +1,15 @@
+systemName;route;banner;groupName;roots
+ocetr;IndPac;;Journey Beyond: Indian Pacific;auswa.indpac,aussa.indpac,ausnsw.indpac
+ocetr;Ghan;;Journey Beyond: The Ghan;aussa.ghan,ausnt.ghan
+ocetr;Ove;;Journey Beyond: The Overland;ausvic.ove,aussa.ove
+ocetr;GtSou;;Journey Beyond: Great Southern;aussa.gtsou,ausvic.gtsou,ausnsw.gtsou,ausqld.gtsou
+ocetr;ByrBayTrn;;Byron Bay Train;ausnsw.byrbaytrn
+ocetr;CooMonRwy;;Cooma Monaro Railway;ausnsw.coomonrwy
+ocetr;Gul;;Gulflander;ausqld.gul
+ocetr;KatSceRwy;;Katoomba Scenic Railway;ausnsw.katscerwy
+ocetr;KurSceRwy;;Kuranda Scenic Railway;ausqld.kurscerwy
+ocetr;NSWRailMus;;NSW Rail Museum, Thirlmere;ausnsw.nswrailmus
+ocetr;RicValeMus;;Richmond Vale Rail Museum;ausnsw.ricvalemus
+ocetr;Sav;;Savannahlander;ausqld.sav
+ocetr;SydTraMus;;Sydney Tramway Museum;ausnsw.sydtramus
+ocetr;ZigZagRwy;;Zig Zag Railway;ausnsw.zigzagrwy

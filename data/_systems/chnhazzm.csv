@@ -1,0 +1,14 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+chnhazzm;CHN-HA;1;;ZZ;Zhengzhou Metro Line 1;chnha.zzm01;
+chnhazzm;CHN-HA;2;;ZZ;Zhengzhou Metro Line 2;chnha.zzm02;
+chnhazzm;CHN-HA;3;;ZZ;Zhengzhou Metro Line 3;chnha.zzm03;
+chnhazzm;CHN-HA;4;;ZZ;Zhengzhou Metro Line 4;chnha.zzm04;
+chnhazzm;CHN-HA;5;;ZZ;Zhengzhou Metro Line 5;chnha.zzm05;
+chnhazzm;CHN-HA;6;;ZZ;Zhengzhou Metro Line 6;chnha.zzm06;
+chnhazzm;CHN-HA;7;;ZZ;Zhengzhou Metro Line 7;chnha.zzm07;
+chnhazzm;CHN-HA;8;;ZZ;Zhengzhou Metro Line 8;chnha.zzm08;
+chnhazzm;CHN-HA;Chengjiao;;;Zhengzhou Metro Chengjiao Line;chnha.chengjiao;
+chnhazzm;CHN-HA;10;;ZZ;Zhengzhou Metro Line 10;chnha.zzm10;
+chnhazzm;CHN-HA;12;;ZZ;Zhengzhou Metro Line 12;chnha.zzm12;
+chnhazzm;CHN-HA;14;;ZZ;Zhengzhou Metro Line 14;chnha.zzm14;
+chnhazzm;CHN-HA;Zhengxu;;;Zhengzhou Metro Zhengxu Line;chnha.zhengxu;

@@ -1,6 +1,6 @@
 Cle http://www.openstreetmap.org/?lat=53.562075&lon=-0.029225
-NewClee http://www.openstreetmap.org/?lat=53.574384&lon=-0.060983
-GriDoc http://www.openstreetmap.org/?lat=53.574123&lon=-0.075874
++SKIP_NewClee http://www.openstreetmap.org/?lat=53.574384&lon=-0.060983
++SKIP_GriDoc http://www.openstreetmap.org/?lat=53.574123&lon=-0.075874
 GriTown http://www.openstreetmap.org/?lat=53.563438&lon=-0.086968
 GreCoa http://www.openstreetmap.org/?lat=53.575789&lon=-0.130184
 Hea http://www.openstreetmap.org/?lat=53.581828&lon=-0.160611

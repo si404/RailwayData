@@ -1,3 +1,3 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
 jpnmtky;JPN;KarasumaLn;;;Karasuma Line;jpn.kyokarasuma;
-jpnmtky;JPN;KyoTozaiLn;;;Kyoto Tozai Line;jpn.kyotozai;
+jpnmtky;JPN;TozaiLn;;Kyo;Tōzai Line;jpn.kyotozai;KyoTozaiLn

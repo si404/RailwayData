@@ -1,0 +1,28 @@
+MJ	92	Skjern - Holstebro
+MJ	93/LemBan Lemvigbanen
+
+RT	HelHol	Helsingør - Holbæk
+RT	KobKal	København - Kalundborg
+RT	HelNae	Helsingør - Næstved
+RT	LufSla	Lufthavn - Slagelse
+RT	KobNyk	København - Nykøbing Falster
+RT	OstNyk	Østerport - Nykøbing Falster
+RT	OdeFre	Odense - Fredericia
+RT	FreEsb	Fredericia - Esbjerg
+RT	FreAar	Fredericia - Aarhus
+
+
+GR	Odense - Svendborg
+GR	Esbjerg - Tønder
+GR	Esbjerg - Nørre Nebe
+GR	Esbjerg - Herning
+GR	Vejle - Struer
+GR	Aarhus - Herning
+GR	Aarhus - Struer
+GR	Struer - Thisted
+
+
+
+
+
+

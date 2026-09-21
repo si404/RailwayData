@@ -1,2 +1,24 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-nldic;NLD;IC23;;;;nld.ic23;
+nldic;NLD;ECD;;;;nld.ecd;
+nldic;BEL;ECD;;;;bel.ecd;
+nldic;NLD;IC5;;;;nld.ic05;
+nldic;NLD;IC6;;;;nld.ic06;
+nldic;NLD;ICD7;;;;nld.icd07;
+nldic;NLD;IC8;;;;nld.ic08;
+nldic;NLD;IC15;;;;nld.ic15;
+nldic;NLD;ICD18;;;;nld.icd18;
+nldic;NLD;IC19;;;;nld.ic19;
+nldic;NLD;IC20;;;;nld.ic20;
+nldic;NLD;IC21;;;;nld.ic21;
+nldic;NLD;IC23;;;Zwolle - Enschede;nld.ic23;
+nldic;NLD;IC23;;Ams;Amsterdam - Almere;nld.ic23ams;
+nldic;NLD;IC25;;;;nld.ic25;
+nldic;NLD;IC27;;;;nld.ic27;
+nldic;NLD;IC28;;;;nld.ic28;
+nldic;NLD;IC29;;;;nld.ic29;
+nldic;NLD;IC30;;;;nld.ic30;
+nldic;NLD;IC31;;;;nld.ic31;
+nldic;NLD;IC32;;;;nld.ic32;
+nldic;NLD;IC35;;;;nld.ic35;
+nldic;NLD;IC36;;;;nld.ic36;
+nldic;NLD;ICD38;;;;nld.icd38;

@@ -1,7 +1,6 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
 nldat;NLD;1;;Ams;Amsterdam;nld.01ams;
 nldat;NLD;2;;Ams;Amsterdam;nld.02ams;
-nldat;NLD;3;;Ams;Amsterdam;nld.03ams;
 nldat;NLD;4;;Ams;Amsterdam;nld.04ams;
 nldat;NLD;5;;Ams;Amsterdam;nld.05ams;
 nldat;NLD;7;;Ams;Amsterdam;nld.07ams;
@@ -13,4 +12,4 @@ nldat;NLD;19;;Ams;Amsterdam;nld.19ams;
 nldat;NLD;24;;Ams;Amsterdam;nld.24ams;
 nldat;NLD;25;;Ams;Amsterdam;nld.25ams;
 nldat;NLD;26;;Ams;Amsterdam;nld.26ams;
-nldat;NLD;27;;Ams;Amsterdam;nld.27ams;
+nldat;NLD;29;;Ams;Amsterdam;nld.29ams;

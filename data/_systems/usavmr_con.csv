@@ -1,2 +1,3 @@
 systemName;route;banner;groupName;roots
-usavmr;VMR;;Valley Metro Rail;az.vmr
+usavmr;A;;A Line;az.a
+usavmr;B;;B Line;az.b

@@ -1,0 +1,8 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+chncrcbj;CHN-BJ;JingXiong;;;Jingxiong Intercity;chnbj.jingxiong;
+chncrcbj;CHN-BJ;JingXiong;Da;;Jingxiong Intercity;chnbj.jingxiongda;
+chncrcbj;CHN-HE;JingXiong;;;Jingxiong Intercity;chnhe.jingxiong;
+chncrcbj;CHN-HE;JingXiong;Da;;Jingxiong Intercity;chnhe.jingxiongda;
+chncrcbj;CHN-BJ;JingJin;;;Jingjin Intercity;chnbj.jingjin;
+chncrcbj;CHN-TJ;JingJin;;;Jingjin Intercity;chntj.jingjin;
+chncrcbj;CHN-TJ;JingJin;W;;Jingjin Intercity (to Tianjingxi);chntj.jingjinw;

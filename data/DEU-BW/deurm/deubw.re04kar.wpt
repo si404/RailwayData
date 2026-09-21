@@ -1,0 +1,16 @@
+RP/BW http://www.openstreetmap.org/?lat=49.225319&lon=8.402696
++SKIP_RheHeim http://www.openstreetmap.org/?lat=49.229124&lon=8.415871
++X49 http://www.openstreetmap.org/?lat=49.235429&lon=8.443401
+PhiBurg http://www.openstreetmap.org/?lat=49.231695&lon=8.453808
++SKIP_HutHeim http://www.openstreetmap.org/?lat=49.197088&lon=8.472733
++X47 http://www.openstreetmap.org/?lat=49.181491&lon=8.496887
++SKIP_GraNeuDorfNord http://www.openstreetmap.org/?lat=49.177986&lon=8.494148
++DIV_Neu http://www.openstreetmap.org/?lat=49.175412&lon=8.493043
+GraNeuDorf http://www.openstreetmap.org/?lat=49.161740&lon=8.490629
++DIV_Gra http://www.openstreetmap.org/?lat=49.158513&lon=8.489985
++SKIP_FriTal http://www.openstreetmap.org/?lat=49.100621&lon=8.474096
++SKIP_BlaLoch http://www.openstreetmap.org/?lat=49.066900&lon=8.464837
++SKIP_KarRuheHagsFeld http://www.openstreetmap.org/?lat=49.026247&lon=8.453711
++DIV_Rin http://www.openstreetmap.org/?lat=49.012612&lon=8.449173
++DIV_Ost http://www.openstreetmap.org/?lat=49.000725&lon=8.428123
+KarRuheHbf http://www.openstreetmap.org/?lat=48.993538&lon=8.401880

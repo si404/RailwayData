@@ -1,0 +1,11 @@
+FRA/CHE http://www.openstreetmap.org/?lat=46.177464&lon=5.990617
++SKIP_Pla http://www.openstreetmap.org/?lat=46.178740&lon=5.999528
++SKIP_Rus http://www.openstreetmap.org/?lat=46.187712&lon=6.017675
++SKIP_Sat http://www.openstreetmap.org/?lat=46.214129&lon=6.037481
++SKIP_Zim http://www.openstreetmap.org/?lat=46.221163&lon=6.065655
++SKIP_Mey http://www.openstreetmap.org/?lat=46.222231&lon=6.076298
++SKIP_Ver http://www.openstreetmap.org/?lat=46.220628&lon=6.093850
++DIV_Air http://www.openstreetmap.org/?lat=46.217636&lon=6.102047
++X143114 http://www.openstreetmap.org/?lat=46.208609&lon=6.116381
++DIV_L1L2 http://www.openstreetmap.org/?lat=46.205657&lon=6.126798
+GenCor http://www.openstreetmap.org/?lat=46.210352&lon=6.142259

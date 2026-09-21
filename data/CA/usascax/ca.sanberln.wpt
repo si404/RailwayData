@@ -12,9 +12,9 @@ CalStaLA http://www.openstreetmap.org/?lat=34.062670&lon=-118.168452
 +X764185 http://www.openstreetmap.org/?lat=34.062650&lon=-118.162701
 +X241482 http://www.openstreetmap.org/?lat=34.071502&lon=-118.144612
 +X866451 http://www.openstreetmap.org/?lat=34.072924&lon=-118.046165
-+X750408 http://www.openstreetmap.org/?lat=34.078274&lon=-118.038794
++DIV_SBW http://www.openstreetmap.org/?lat=34.078132&lon=-118.037710
 ElMon http://www.openstreetmap.org/?lat=34.076843&lon=-118.035575
-+X974549 http://www.openstreetmap.org/?lat=34.050330&lon=-117.995460
++DIV_SBE http://www.openstreetmap.org/?lat=34.050908&lon=-117.997499
 BalPk http://www.openstreetmap.org/?lat=34.086333&lon=-117.957668
 +X295404 http://www.openstreetmap.org/?lat=34.092136&lon=-117.950431
 Cov http://www.openstreetmap.org/?lat=34.092100&lon=-117.888923
@@ -22,7 +22,8 @@ Cov http://www.openstreetmap.org/?lat=34.092100&lon=-117.888923
 +X413642 http://www.openstreetmap.org/?lat=34.101215&lon=-117.843046
 +X127857 http://www.openstreetmap.org/?lat=34.101109&lon=-117.791076
 Fai http://www.openstreetmap.org/?lat=34.095912&lon=-117.767848
-PomN http://www.openstreetmap.org/?lat=34.093628&lon=-117.753916
++X704733 http://www.openstreetmap.org/?lat=34.093801&lon=-117.755778
+PomN http://www.openstreetmap.org/?lat=34.093748&lon=-117.752345
 Cla http://www.openstreetmap.org/?lat=34.093939&lon=-117.716296
 Mon http://www.openstreetmap.org/?lat=34.093939&lon=-117.695745
 Upl http://www.openstreetmap.org/?lat=34.094419&lon=-117.647320
@@ -33,6 +34,7 @@ Fon http://www.openstreetmap.org/?lat=34.095121&lon=-117.437721
 Ria http://www.openstreetmap.org/?lat=34.096747&lon=-117.372099
 +X746767 http://www.openstreetmap.org/?lat=34.097555&lon=-117.349348
 +X991111 http://www.openstreetmap.org/?lat=34.104520&lon=-117.333555
++DIV_AMTK http://www.openstreetmap.org/?lat=34.104618&lon=-117.322590
 +DIV_InlEmp http://www.openstreetmap.org/?lat=34.104440&lon=-117.314297
 SanBerDep http://www.openstreetmap.org/?lat=34.104431&lon=-117.310692
 +X272168 http://www.openstreetmap.org/?lat=34.104556&lon=-117.304845

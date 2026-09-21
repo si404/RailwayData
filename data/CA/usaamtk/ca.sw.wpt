@@ -32,7 +32,10 @@ RivDow http://www.openstreetmap.org/?lat=33.975685&lon=-117.369679
 +DIV_PerVly_E http://www.openstreetmap.org/?lat=34.011226&lon=-117.337246
 +X869956 http://www.openstreetmap.org/?lat=34.016100&lon=-117.333727
 +X243305 http://www.openstreetmap.org/?lat=34.072711&lon=-117.326689
-+DIV_SanBerW http://www.openstreetmap.org/?lat=34.104440&lon=-117.314297
++DIV_InlEmpS http://www.openstreetmap.org/?lat=34.087742&lon=-117.320498
++X327241 http://www.openstreetmap.org/?lat=34.102326&lon=-117.326710
++DIV_SanBerW http://www.openstreetmap.org/?lat=34.104618&lon=-117.322590
++DIV_InlEmpN http://www.openstreetmap.org/?lat=34.104440&lon=-117.314297
 SanBerDep http://www.openstreetmap.org/?lat=34.104431&lon=-117.310692
 +DIV_SanBerE http://www.openstreetmap.org/?lat=34.104902&lon=-117.306154
 +X430455 http://www.openstreetmap.org/?lat=34.127703&lon=-117.303472

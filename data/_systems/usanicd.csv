@@ -1,3 +1,4 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
+usanicd;IN;MonCor;;;Monon Corridor;in.moncor;
 usanicd;IN;SouShoLn;;;South Shore Line;in.sousholn;
 usanicd;IL;SouShoLn;;;South Shore Line;il.sousholn;

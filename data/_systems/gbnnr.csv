@@ -1,4 +1,7 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
+gbnnr;ENG;NESF;;;North East Semi-Fast;eng.nesf;
+gbnnr;ENG;ECML;;Mor;East Coast Main Line (Morpeth);eng.ecmlmor;
+gbnnr;ENG;NhbLn;;;Northumberland Line;eng.nhbln;
 gbnnr;ENG;TyneVlyLn;;;Tyne Valley Line;eng.tynevlyln;
 gbnnr;ENG;DurCoaLn;;;Durham Coast Line;eng.durcoaln;
 gbnnr;ENG;EskVlyLn;;;Esk Valley Line;eng.eskvlyln;
@@ -30,6 +33,7 @@ gbnnr;ENG;SelLn;;;Selby Line;eng.selln;
 gbnnr;ENG;SouHumLn;;;South Humberside Line;eng.souhumln;
 gbnnr;ENG;WakLn;;Don;Wakefield Line (Doncaster);eng.waklndon;
 gbnnr;ENG;WakLn;;She;Wakefield Line (Sheffield);eng.waklnshe;
+gbnnr;ENG;WakLn;;Fas;Yorkshire Flyer;eng.waklnfas;
 gbnnr;ENG;WhaLn;;Bra;Wharfdale Line (Bradford);eng.whalnbra;
 gbnnr;ENG;WhaLn;;Lee;Wharfedale Line (Leeds);eng.whalnlee;
 gbnnr;ENG;YorkLn;;;York Line;eng.yorkln;

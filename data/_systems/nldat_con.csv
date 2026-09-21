@@ -1,7 +1,6 @@
 systemName;route;banner;groupName;roots
 nldat;1;;Amsterdam;nld.01ams
 nldat;2;;Amsterdam;nld.02ams
-nldat;3;;Amsterdam;nld.03ams
 nldat;4;;Amsterdam;nld.04ams
 nldat;5;;Amsterdam;nld.05ams
 nldat;7;;Amsterdam;nld.07ams
@@ -13,4 +12,4 @@ nldat;19;;Amsterdam;nld.19ams
 nldat;24;;Amsterdam;nld.24ams
 nldat;25;;Amsterdam;nld.25ams
 nldat;26;;Amsterdam;nld.26ams
-nldat;27;;Amsterdam;nld.27ams
+nldat;29;;Amsterdam;nld.29ams

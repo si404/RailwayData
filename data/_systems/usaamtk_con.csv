@@ -30,6 +30,7 @@ usaamtk;LS;;Lake Shore Limited (Boston);il.lsbos,in.lsbos,oh.lsbos,pa.lsbos,ny.l
 usaamtk;LS;;Lake Shore Limited (New York);il.lsnew,in.lsnew,oh.lsnew,pa.lsnew,ny.lsnew
 usaamtk;LI;;Lincoln Service;mo.li,il.li
 usaamtk;ML;;Maple Leaf;ny.ml,on.ml
+usaamtk;MG;;Mardi Gras;la.mg,ms.mg,al.mg
 usaamtk;MR;;Missouri River Runner;mo.mr
 usaamtk;NE;;Northeast Regional (Newport News);va.nenew,dc.nenew,md.nenew,de.nenew,pa.nenew,nj.nenew,ny.nenew,ct.nenew,ri.nenew,ma.nenew
 usaamtk;NE;;Northeast Regional (Norfolk);va.nenor,dc.nenor,md.nenor,de.nenor,pa.nenor,nj.nenor,ny.nenor,ct.nenor,ri.nenor,ma.nenor
@@ -41,8 +42,8 @@ usaamtk;PA;;Pennsylvanian;pa.pa,nj.pa,ny.pa
 usaamtk;PM;;Pere Marquette;il.pm,in.pm,mi.pm
 usaamtk;PI;;Piedmont;nc.pi
 usaamtk;SK;;Saluki;il.sk
-usaamtk;SJ;;San Joaquins (Sacramento);ca.sjsac
-usaamtk;SJ;;San Joaquins (Oakland);ca.sjoak
+usaamtk;GR;;Gold Runner (Sacramento);ca.grsac
+usaamtk;GR;;Gold Runner (Oakland);ca.groak
 usaamtk;SM;;Silver Meteor;fl.sm,ga.sm,sc.sm,nc.sm,va.sm,dc.sm,md.sm,de.sm,pa.sm,nj.sm,ny.sm
 usaamtk;SW;;Southwest Chief;ca.sw,az.sw,nm.sw,co.sw,ks.sw,mo.sw,ia.sw,il.sw
 usaamtk;SL;;Sunset Limited;ca.sl,az.sl,nm.sl,tx.sl,la.sl

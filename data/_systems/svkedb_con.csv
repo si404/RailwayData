@@ -1,6 +1,6 @@
 systemName;route;banner;groupName;roots
-svkedb;1;;;svk.01bra
-svkedb;3;;;svk.03bra
-svkedb;4;;;svk.04bra
-svkedb;7;;;svk.07bra
-svkedb;9;;;svk.09bra
+svkedb;1;;Bratislava;svk.01bra
+svkedb;3;;Bratislava;svk.03bra
+svkedb;4;;Bratislava, eastbound to Novo Mesto;svk.04bra
+svkedb;4;;Bratislava, westbound from Zlate piesky;svk.04zla
+svkedb;9;;Bratislava;svk.09bra

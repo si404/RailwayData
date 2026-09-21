@@ -5,11 +5,13 @@ jpnrtbu;KameidoLn;;Tobu Kameido Line;jpn.tbukameido
 jpnrtbu;KinugawaLn;;Tobu Kinugawa Line;jpn.tbukinugawa
 jpnrtbu;KiryuLn;;Tobu Kiryu Line;jpn.tbukiryu
 jpnrtbu;KoizumiLn;;Tobu Koizumi Line;jpn.tbukoizumi
-jpnrtbu;KoizumiOtaLn;;Tobu Koizumi Ota Branch Line;jpn.tbukoizumiota
+jpnrtbu;KoizumiOtaLn;;Tobu Koizumi Line, Ota Branch;jpn.tbukoizumiota
 jpnrtbu;TobuNikkoLn;;Tobu Nikko Line;jpn.tbunikko
 jpnrtbu;OgoseLn;;Tobu Ogose Line;jpn.tbuogose
 jpnrtbu;SanoLn;;Tobu Sano Line;jpn.tbusano
 jpnrtbu;SkytreeLn;;Tobu Skytree Line;jpn.tbuskytree
+jpnrtbu;SkytreeLn;;Tobu Skytree Line (Express to Oshiage);jpn.tbuskytreeo
 jpnrtbu;TojoLn;;Tobu Tojo Line;jpn.tbutojo
 jpnrtbu;UrbanParkLn;;Tobu Urban Park Line;jpn.tbuurbanpark
 jpnrtbu;TobuUtsuLn;;Tobu Utsunomiya Line;jpn.tbuutsunomiya
+jpnrtbu;TobuKegon;;Tobu Kegon Ltd Exp;jpn.tbukegon

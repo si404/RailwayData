@@ -1,2 +1,3 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-usavmr;AZ;VMR;;;Valley Metro Rail;az.vmr;
+usavmr;AZ;A;;;A Line;az.a;VMR
+usavmr;AZ;B;;;B Line;az.b;

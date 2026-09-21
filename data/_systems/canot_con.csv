@@ -1,2 +1,4 @@
 systemName;route;banner;groupName;roots
-canot;ConLn;;Confederation Line;on.conln
+canot;OT1;;O-Train Line 1;on.ot1
+canot;OT2;;O-Train Line 2;on.ot2
+canot;OT4;;O-Train Line 4;on.ot4

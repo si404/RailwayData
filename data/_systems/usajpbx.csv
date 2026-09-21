@@ -1,2 +1,3 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-usajpbx;CA;CT;;;Caltrain;ca.jpbx;
+usajpbx;CA;CalTra;;;Main;ca.jpbx;CT
+usajpbx;CA;CalTra;;SCC;South County Connector;ca.soucoucon;

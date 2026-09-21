@@ -1,9 +1,9 @@
 Rap http://www.openstreetmap.org/?lat=47.224581&lon=8.816850
 +DIV_S7Z http://www.openstreetmap.org/?lat=47.225171&lon=8.820863
 +DIV_S5Z http://www.openstreetmap.org/?lat=47.225390&lon=8.824768
-Blu http://www.openstreetmap.org/?lat=47.223714&lon=8.842471
++SKIP_Blu http://www.openstreetmap.org/?lat=47.223714&lon=8.842471
 +X332405 http://www.openstreetmap.org/?lat=47.217018&lon=8.880129
-Schm http://www.openstreetmap.org/?lat=47.224997&lon=8.943429
++SKIP_Schm http://www.openstreetmap.org/?lat=47.224997&lon=8.943429
 Uzn http://www.openstreetmap.org/?lat=47.224162&lon=8.980572
 +DIV_S17 http://www.openstreetmap.org/?lat=47.223550&lon=8.983576
 Kal http://www.openstreetmap.org/?lat=47.218096&lon=9.022393

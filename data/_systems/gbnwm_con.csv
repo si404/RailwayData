@@ -3,10 +3,11 @@ gbnwm;MalLn;;Malvern Line;eng.malln
 gbnwm;SalLn;;Salopian Line (Smethwick Galton Bridge);eng.salln
 gbnwm;SalLn;;Salopian Line (Bescot Stadium);eng.sallnbes
 gbnwm;BCLn;;Black Country Line;eng.bcln
+gbnwm;CampHillLn;;Camp Hill Line;eng.camphillln
 gbnwm;ChaLn;;Chase Line;eng.chaln
-gbnwm;NucLn;;NuCKLe Line;eng.nucln
+gbnwm;EleBearLn;;Elephant & Bear Line;eng.elebearln
 gbnwm;ShaLn;;Shakespeare Line;eng.shaln
-gbnwm;StoBra;;Stourbridge Branch;eng.stobra
+gbnwm;StoBra;;Stourbridge Shuttle;eng.stoshu
 gbnwm;WyreVlyLn;;Wyre Valley Line;eng.wyrevlyln
 gbnwm;XCLn;;Cross-City Line;eng.xcln
 gbnwm;XCLn;;Cross-City Line (Bromsgrove branch);eng.xclnbro

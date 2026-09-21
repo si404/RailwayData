@@ -1,0 +1,14 @@
+HE/BW http://www.openstreetmap.org/?lat=49.618704&lon=8.643150
++SKIP_LauBach http://www.openstreetmap.org/?lat=49.611781&lon=8.644652
+HemsBach http://www.openstreetmap.org/?lat=49.591254&lon=8.648643
++SKIP_WeinHeimSulzBach http://www.openstreetmap.org/?lat=49.576174&lon=8.656240
+WeinHeimHbf http://www.openstreetmap.org/?lat=49.553440&lon=8.665509
++SKIP_WeinHeimLutSac http://www.openstreetmap.org/?lat=49.528015&lon=8.650081
++SKIP_HedHeimHirBerg http://www.openstreetmap.org/?lat=49.509341&lon=8.633709
+LadBurg http://www.openstreetmap.org/?lat=49.474608&lon=8.603067
+NeuEdiFriFeld http://www.openstreetmap.org/?lat=49.448723&lon=8.580279
++SKIP_MannHeimFriFeldSud http://www.openstreetmap.org/?lat=49.438594&lon=8.571165
++SKIP_MannHeimSecHeim http://www.openstreetmap.org/?lat=49.451004&lon=8.538673
++SKIP_MannHeimARENAMaiMar http://www.openstreetmap.org/?lat=49.459903&lon=8.515949
++DIV_ManE http://www.openstreetmap.org/?lat=49.466728&lon=8.496037
+MannHeimHbf http://www.openstreetmap.org/?lat=49.479132&lon=8.469257

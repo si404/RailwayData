@@ -1,8 +1,8 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
-frabt;FRA-NAQ;A;;;Le Haillan - La Gardette;franaq.a;
-frabt;FRA-NAQ;A;;Flo;Aeroport - Floriac Dravenmont;franaq.aflo;
-frabt;FRA-NAQ;B;;;France Alouette - Berges de la Garonne;franaq.b;
-frabt;FRA-NAQ;B;;Pes;Pessac Centre - Berges de la Garonne;franaq.bpes;
-frabt;FRA-NAQ;C;;;Blanquefort - Villenave Pyrenees;franaq.c;
-frabt;FRA-NAQ;C;;Exp;Parc des Expositions - Villenave Pyrenees;franaq.cexp;
-frabt;FRA-NAQ;D;;;Cantinolle - Carle Vernet;franaq.d;
+frabt;FRA-NAQ;A;;;;franaq.a;
+frabt;FRA-NAQ;B;;;France Alouette;franaq.b;
+frabt;FRA-NAQ;B;;Pes;Pessac Centre;franaq.bpes;
+frabt;FRA-NAQ;C;;;;franaq.c;
+frabt;FRA-NAQ;D;;;;franaq.d;
+frabt;FRA-NAQ;E;;;;franaq.e;
+frabt;FRA-NAQ;F;;;;franaq.f;

@@ -1,12 +1,14 @@
 systemName;route;banner;groupName;roots
 jpnvsgw;AinokazeLn;;Ainokaze Toyama RW Line;jpn.sgwainokaze
 jpnvsgw;ChizuLn;;Chizu Express Chizu Line;jpn.sgwchizu
+jpnvsgw;HapiLnFukuiLn;;Hapi-Line Fukui Line;jpn.sgwhapilinefukui
 jpnvsgw;HojoLn;;Hojo RW Line;jpn.sgwhojo
 jpnvsgw;IbaraLn;;Ibara RW Line;jpn.sgwibara
 jpnvsgw;IgaLn;;Iga RW Line;jpn.sgwiga
 jpnvsgw;IRIshikawaLn;;IR Ishikawa RW Line;jpn.sgwishikawa
 jpnvsgw;KishigawaLn;;Wakayama RW Kishigawa Line;jpn.sgwkishigawa
 jpnvsgw;KishuLn;;Kishu RW Line;jpn.sgwkishu
+jpnvsgw;KitakyuNambokuLn;;Kitakyu Namboku Line;jpn.sgwkitakyunam
 jpnvsgw;MizumaLn;;Mizuma RW Line;jpn.sgwmizuma
 jpnvsgw;NotoNanaoLn;;Noto RW Nanao Line;jpn.sgwnanao
 jpnvsgw;SeiryuLn;;Nishikigawa RW Seiryu Line;jpn.sgwseiryu

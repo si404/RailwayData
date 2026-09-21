@@ -9,7 +9,7 @@ Dal http://www.openstreetmap.org/?lat=55.986254&lon=-3.381536
 NorQue http://www.openstreetmap.org/?lat=56.012412&lon=-3.394647
 +X474192 http://www.openstreetmap.org/?lat=56.023554&lon=-3.405097
 Inv http://www.openstreetmap.org/?lat=56.035184&lon=-3.395376
-+DIV_DunLevPer http://www.openstreetmap.org/?lat=56.037294&lon=-3.395827
++DIV_DunLevPerS http://www.openstreetmap.org/?lat=56.037294&lon=-3.395827
 Ros http://www.openstreetmap.org/?lat=56.045360&lon=-3.426211
 +X975824 http://www.openstreetmap.org/?lat=56.056966&lon=-3.450823
 DunCity http://www.openstreetmap.org/?lat=56.068101&lon=-3.452260
@@ -22,3 +22,9 @@ Loc http://www.openstreetmap.org/?lat=56.134730&lon=-3.313966
 Car http://www.openstreetmap.org/?lat=56.141090&lon=-3.260922
 +X656523 http://www.openstreetmap.org/?lat=56.158541&lon=-3.200154
 GleTho http://www.openstreetmap.org/?lat=56.162209&lon=-3.143034
++DIV_DunLevPerN http://www.openstreetmap.org/?lat=56.164324&lon=-3.131661
++DIV_DunPer http://www.openstreetmap.org/?lat=56.168583&lon=-3.128614
++X563666 http://www.openstreetmap.org/?lat=56.188380&lon=-3.075314
+CamBri http://www.openstreetmap.org/?lat=56.190042&lon=-3.045691
++X531179 http://www.openstreetmap.org/?lat=56.195716&lon=-3.034523
+Lev http://www.openstreetmap.org/?lat=56.192657&lon=-3.002679
