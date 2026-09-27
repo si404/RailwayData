@@ -1,4 +1,4 @@
-ORGANISATION
+  ORGANISATION
 
 Great British Railways timetable	https://www.gov.uk/guidance/great-british-railways
 
@@ -21,8 +21,8 @@ GBR will be formally created about 12 months after legislation (published 2025-1
 		TransPennine Express     (TP)   	already Dft
 
 	GBR Integrated Business Units (and subbrands)	FOI Request	https://www.whatdotheyknow.com/request/great_british_railways_regional/response/3517235/attach/html/3/FOI%2000074259%20Response.pdf.html
-		Great British Railways | Anglia			public-facing transition started, taking over LE and CC
-		Great British Railways | Chiltern	a train with the livery exists
+		Great British Railways | Anglia			trains with livery exist; public-facing transition started, taking over LE and CC
+		Great British Railways | Chiltern		a train with the livery exists
 		Great British Railways | Cross Country	(tbc)	list behind paywall described as '11 + Cross Country' (FOI list has 18+XC)
 		Great British Railways | East Midlands	(tbc)
 		Great British Railways | Gatwick Express
@@ -32,7 +32,7 @@ GBR will be formally created about 12 months after legislation (published 2025-1
 		Great British Railways | LNER
 		Great British Railways | London Northwestern
 		Great British Railways | Northern
-		Great British Railways | South Eastern
+		Great British Railways | South Eastern		a train with the livery exists (also has Bayeux Tapestry decal, and is the first named GBR train: King Harold II)
 		Great British Railways | South Western		a train with the livery exists
 		Great British Railways | Southern		a train with the livery exists
 		Great British Railways | Stansted Express	confirmed as a separate subbrand in Anglia launch Press Release, taking over SX
@@ -75,14 +75,14 @@ South Wales Metro to come into being at some point (other than Bay line redoubli
 New Station timeline (includes stations on new tracks). Only under construction stations listed
 
 National Rail
-	Balgray 			Neilston Line   	autumn 2026
-	Brabazon	   	 	Filton Line		       2026
-	White Rose      		Huddersfield Line	   Jan-2027
+	Balgray 			Neilston Line   	27-Sep-2026
+	Bristol Brabazon   	 	Filton Line		autumn 2026
 	Charfield			Severnside Line		spring 2027
-	Pill            		Portishead Line 	  late 2027
-	Portishead      		Portishead Line 	  late 2027
+	White Rose      		Huddersfield Line	       2027
+	Pill            		Portishead Line 	       2028
+	Portishead      		Portishead Line 	       2028
 	Ravensthorpe			TPR Upgrade relocation	summer 2028
-	Henbury				Filton Line		     ??
+	Henbury				Filton Line		       2028
 	Winslow         		East-West Rail  	    ????	awaiting opening (dispute about staffing of trains)
 	Wixhams         		Thameslink      	     ?? 	paused for rethink due to Universal Park meaning it will need to be bigger
 	Old Oak Common  		High Speed 2     	     ??
@@ -90,15 +90,15 @@ National Rail
 	Birmingham Curzon Street	High Speed 2    	     ??
 
 Metro / Light Rail
-	Great Bridge    		WM Metro Dudley 	autumn 2026
-	Horseley Road   		WM Metro Dudley 	autumn 2026
-	Dudley Port     		WM Metro Dudley 	autumn 2026
-	Sedgley Road    		WM Metro Dudley 	autumn 2026
-	Birmingham New Road		WM Metro Dudley 	autumn 2026
-	Tipton Road     		WM Metro Dudley 	autumn 2026
-	Dudley Castle & Zoo		WM Metro Dudley 	autumn 2026
-	Dudley Interchange	  	WM Metro Dudley 	autumn 2026
-	Flood Street    		WM Metro Dudley 	autumn 2026
+	Great Bridge    		WM Metro Dudley 	01-Nov-2026
+	Horseley Road   		WM Metro Dudley 	01-Nov-2026
+	Dudley Port     		WM Metro Dudley 	01-Nov-2026
+	Sedgley Road    		WM Metro Dudley 	01-Nov-2026
+	Birmingham New Road		WM Metro Dudley 	01-Nov-2026
+	Tipton Road     		WM Metro Dudley 	01-Nov-2026
+	Dudley Castle & Zoo		WM Metro Dudley 	01-Nov-2026
+	Dudley Interchange	  	WM Metro Dudley 	01-Nov-2026
+	Flood Street    		WM Metro Dudley 	01-Nov-2026
 	Bute Town        	   	South Wales Metro	   Oct-2026	platform 2 only
 	Gold's Hill     	      	WM Metro Merry Hill	       2028
 	Cinder Bank     	      	WM Metro Merry Hill	       2028
@@ -118,7 +118,7 @@ OPERATIONS
 Dec 2026 Timetable change
 	AW	West Wales Line extended every two hours to Bristol Temple Meads
 	Anglia	
-	CH	through Stratford services restored at very low frequencies	(no TM change?)
+	CH	through Stratford services restored at very low frequencies	(no TM change)
 	CS	
 	EM	
 	GC	
