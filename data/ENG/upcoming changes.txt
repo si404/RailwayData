@@ -75,7 +75,6 @@ South Wales Metro to come into being at some point (other than Bay line redoubli
 New Station timeline (includes stations on new tracks). Only under construction stations listed
 
 National Rail
-	Balgray 			Neilston Line   	27-Sep-2026
 	Bristol Brabazon   	 	Filton Line		autumn 2026
 	Charfield			Severnside Line		spring 2027
 	White Rose      		Huddersfield Line	       2027
