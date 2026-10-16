@@ -12,10 +12,10 @@ M01 http://www.openstreetmap.org/?lat=34.666744&lon=133.918265
 M12 http://www.openstreetmap.org/?lat=34.462728&lon=133.807729
 +X590735 http://www.openstreetmap.org/?lat=34.429412&lon=133.805580
 +X245655 http://www.openstreetmap.org/?lat=34.342198&lon=133.826974
-Y09 http://www.openstreetmap.org/?lat=34.306552&lon=133.813954
-Y10 http://www.openstreetmap.org/?lat=34.291952&lon=133.793242
-+SKIP_Y11 http://www.openstreetmap.org/?lat=34.284896&lon=133.777320
-Y12/D12 http://www.openstreetmap.org/?lat=34.271095&lon=133.757000
+Y09 http://www.openstreetmap.org/?lat=34.306431&lon=133.813879
+Y10 http://www.openstreetmap.org/?lat=34.292043&lon=133.793019
++SKIP_Y11 http://www.openstreetmap.org/?lat=34.284967&lon=133.776891
+Y12/D12 http://www.openstreetmap.org/?lat=34.271140&lon=133.757110
 +X432218 http://www.openstreetmap.org/?lat=34.265388&lon=133.754492
 +SKIP_D13 http://www.openstreetmap.org/?lat=34.247943&lon=133.777626
 D14 http://www.openstreetmap.org/?lat=34.230159&lon=133.789176
