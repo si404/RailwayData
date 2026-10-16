@@ -21,7 +21,7 @@ Y19 http://www.openstreetmap.org/?lat=34.124364&lon=133.655798
 Y16 http://www.openstreetmap.org/?lat=34.183901&lon=133.711048
 +SKIP_Y15 http://www.openstreetmap.org/?lat=34.206159&lon=133.710448
 Y14 http://www.openstreetmap.org/?lat=34.221209&lon=133.692866
-+SKIP_TsuNom http://www.openstreetmap.org/?lat=34.238289&lon=133.704630
++SKIP_Tsushima http://www.openstreetmap.org/?lat=34.238289&lon=133.704630
 +SKIP_Y13 http://www.openstreetmap.org/?lat=34.253867&lon=133.729285
 +X191379 http://www.openstreetmap.org/?lat=34.252707&lon=133.742009
 Y12 http://www.openstreetmap.org/?lat=34.271140&lon=133.757110
