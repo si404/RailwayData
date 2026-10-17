@@ -1,7 +1,8 @@
 systemName;region;route;banner;abbrev;city;root;altRouteNames
 usaseplr;PA;D1;;;Media Line;pa.d01;Rte101
 usaseplr;PA;D2;;;Sharon Hill Line;pa.d02;Rte102
-usaseplr;PA;G1;;;Girard Avenue Line;pa.g01;Rte15
+usaseplr;PA;G1;;;Girard Avenue Line (Delaware Branch);pa.g01;Rte15
+usaseplr;PA;G1;;Wes;Girard Avenue Line (Westmoreland Branch);pa.g01wes;Rte15Wes
 usaseplr;PA;T1;;;Lancaster Avenue Line;pa.t01;Rte10
 usaseplr;PA;T2;;;Baltimore Avenue Line;pa.t02;Rte34
 usaseplr;PA;T3;;;Chester Avenue Line;pa.t03;Rte13

@@ -1,4 +1,6 @@
 ﻿date;region;systemName;description;statusChange
+2026-10-15;Japan;jpnjrshl;JR Shinkansen Lines;preview
+2026-10-15;Japan;jpnjrshs;JR Shinkansen Services;preview
 2026-05-12;(China) Jiangxi;chnjxncm;Nanchang Metro;preview
 2026-05-12;(China) Jiangsu;chnjshat;Huai'an Modern Tram;preview
 2026-05-10;(China) Sichuan;chncrccd;CR Chengdu Intercity;preview
@@ -200,6 +202,8 @@
 2024-03-29;France;fratra;Transillien;preview
 2024-03-29;France;frapm;Paris Métro;preview
 2024-03-29;France;fraidft;Ile de France Tramway;preview
+2026-10-15;Japan;jpnjrshl;JR Shinkansen Lines;preview
+2026-10-15;Japan;jpnjrshs;JR Shinkansen Services;preview
 2024-03-12;Japan;jpnvkto;Kanto Railway;preview
 2024-03-12;Japan;jpnvetr;Echigo Tokimeki Railway;preview
 2024-03-12;Japan;jpnvsgh;Hokkaido Single Line Private Railways;preview

@@ -1,0 +1,13 @@
+systemName;region;route;banner;abbrev;city;root;altRouteNames
+jpnjrshl;JPN;AkitaShin;;;Akita Mini-Shinkansen;jpn.akita;
+jpnjrshl;JPN;GalaYuzawaLn;;;Gala-Yuzawa Line;jpn.galayuzawa;
+jpnjrshl;JPN;HakataminamiLn;;;Hakaminami Line;jpn.hakataminami;
+jpnjrshl;JPN;HokkaidoShin;;;Hokkaido Shinkansen;jpn.hokkaido;
+jpnjrshl;JPN;HokurikuShin;;;Hokuriku Shinkansen;jpn.hokuriku;
+jpnjrshl;JPN;JoetsuShin;;;Joetsu Shinkansen;jpn.joetsu;
+jpnjrshl;JPN;KyushuShin;;;Kyushu Shinkansen;jpn.kyushu;
+jpnjrshl;JPN;SanyoShin;;;Sanyo Shinkansen;jpn.sanyo;
+jpnjrshl;JPN;TokaidoShin;;;Tokaido Shinkansen;jpn.tokaido;
+jpnjrshl;JPN;TohokuShin;;;Tohoku Shinkansen;jpn.tohoku;
+jpnjrshl;JPN;WestKyushuShin;;;West Kyushu Shinkansen;jpn.nishikyushu;
+jpnjrshl;JPN;YamagataShin;;;Yamagata Mini-Shinkansen;jpn.yamagata;
