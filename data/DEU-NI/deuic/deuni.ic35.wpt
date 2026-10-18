@@ -16,7 +16,8 @@ EmdHbf http://www.openstreetmap.org/?lat=53.369056&lon=7.194972
 +DIV_RE1S http://www.openstreetmap.org/?lat=53.237303&lon=7.465210
 +SKIP_Leer http://www.openstreetmap.org/?lat=53.231446&lon=7.465296
 +X638042 http://www.openstreetmap.org/?lat=53.192819&lon=7.464695
-+DIV_RS6 http://www.openstreetmap.org/?lat=53.157091&lon=7.442379
++SKIP_Ihr http://www.openstreetmap.org/?lat=53.170630&lon=7.451026
++DIV_RE6 http://www.openstreetmap.org/?lat=53.165254&lon=7.447529
 +X948099 http://www.openstreetmap.org/?lat=53.106959&lon=7.409763
 Pap http://www.openstreetmap.org/?lat=53.089875&lon=7.386932
 +SKIP_Asc http://www.openstreetmap.org/?lat=53.052281&lon=7.337151

@@ -16,8 +16,15 @@ Sch http://www.openstreetmap.org/?lat=52.044616&lon=4.376893
 +DIV_15N http://www.openstreetmap.org/?lat=52.039934&lon=4.369555
 YpeCen http://www.openstreetmap.org/?lat=52.039168&lon=4.368696
 AntFok http://www.openstreetmap.org/?lat=52.035594&lon=4.363334
-+DIV_1 http://www.openstreetmap.org/?lat=52.024762&lon=4.350457
++DIV_1N http://www.openstreetmap.org/?lat=52.024762&lon=4.350457
 Bra http://www.openstreetmap.org/?lat=52.023944&lon=4.351460
 NiePla http://www.openstreetmap.org/?lat=52.016420&lon=4.351417
 Pri http://www.openstreetmap.org/?lat=52.011702&lon=4.353386
 StaDel http://www.openstreetmap.org/?lat=52.007545&lon=4.356594
++DIV_1S http://www.openstreetmap.org/?lat=52.005474&lon=4.359148
+Zui http://www.openstreetmap.org/?lat=52.008235&lon=4.363943
+JulLaan http://www.openstreetmap.org/?lat=52.005765&lon=4.368374
+Aula http://www.openstreetmap.org/?lat=52.002839&lon=4.371614
+Mek http://www.openstreetmap.org/?lat=51.999484&lon=4.373943
+BerWeg http://www.openstreetmap.org/?lat=51.996227&lon=4.376518
+SchStr http://www.openstreetmap.org/?lat=51.996095&lon=4.379586
