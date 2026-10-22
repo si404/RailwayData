@@ -18,7 +18,8 @@ Har http://www.openstreetmap.org/?lat=41.768775&lon=-72.681792
 +X437064 http://www.openstreetmap.org/?lat=41.821918&lon=-72.645614
 Win http://www.openstreetmap.org/?lat=41.852197&lon=-72.642117
 +X720621 http://www.openstreetmap.org/?lat=41.878452&lon=-72.628469
-WinLoc http://www.openstreetmap.org/?lat=41.913919&lon=-72.626023
+*OldWinLoc http://www.openstreetmap.org/?lat=41.913919&lon=-72.626023
+WinLoc http://www.openstreetmap.org/?lat=41.932963&lon=-72.627340
 +X841626 http://www.openstreetmap.org/?lat=41.935256&lon=-72.627075
 +X277479 http://www.openstreetmap.org/?lat=41.945990&lon=-72.606540
 *Enf http://www.openstreetmap.org/?lat=41.999093&lon=-72.604410

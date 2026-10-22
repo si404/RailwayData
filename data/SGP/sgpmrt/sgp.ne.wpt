@@ -1,24 +1,24 @@
-NE1 http://www.openstreetmap.org/?lat=1.265358&lon=103.821547
+NE1-HarFro +NE1 http://www.openstreetmap.org/?lat=1.265358&lon=103.821547
 +X911720 http://www.openstreetmap.org/?lat=1.270871&lon=103.830237
-NE3 http://www.openstreetmap.org/?lat=1.280745&lon=103.840386
-NE4 http://www.openstreetmap.org/?lat=1.284982&lon=103.843980
-NE5 http://www.openstreetmap.org/?lat=1.288148&lon=103.846571
+NE3-OutPk +NE3 http://www.openstreetmap.org/?lat=1.280745&lon=103.840386
+NE4-Chi http://www.openstreetmap.org/?lat=1.284982&lon=103.843980
+NE5-ClaQuay http://www.openstreetmap.org/?lat=1.288148&lon=103.846571
 +X578432 http://www.openstreetmap.org/?lat=1.291715&lon=103.847014
 +X448684 http://www.openstreetmap.org/?lat=1.296536&lon=103.844557
-NE6 http://www.openstreetmap.org/?lat=1.299242&lon=103.845008
-NE7 http://www.openstreetmap.org/?lat=1.306434&lon=103.849259
-NE8 http://www.openstreetmap.org/?lat=1.312405&lon=103.854181
-NE9 http://www.openstreetmap.org/?lat=1.319029&lon=103.861358
-NE10 http://www.openstreetmap.org/?lat=1.331417&lon=103.869132
-NE11 http://www.openstreetmap.org/?lat=1.339183&lon=103.870813
-NE12 http://www.openstreetmap.org/?lat=1.349761&lon=103.873729
-NE13 http://www.openstreetmap.org/?lat=1.360157&lon=103.885117
+NE6-DhoGha http://www.openstreetmap.org/?lat=1.299242&lon=103.845008
+NE7-LitInd http://www.openstreetmap.org/?lat=1.306434&lon=103.849259
+NE8-FarPk +NE8 http://www.openstreetmap.org/?lat=1.312405&lon=103.854181
+NE9-BoonKeng http://www.openstreetmap.org/?lat=1.319029&lon=103.861358
+NE10-PonPas http://www.openstreetmap.org/?lat=1.331417&lon=103.869132
+NE11-Woo http://www.openstreetmap.org/?lat=1.339183&lon=103.870813
+NE12-Ser http://www.openstreetmap.org/?lat=1.349761&lon=103.873729
+NE13-Kov http://www.openstreetmap.org/?lat=1.360157&lon=103.885117
 +X911159 http://www.openstreetmap.org/?lat=1.365764&lon=103.890908
-NE14 http://www.openstreetmap.org/?lat=1.370800&lon=103.892384
-NE15 http://www.openstreetmap.org/?lat=1.382952&lon=103.893140
+NE14-Hou http://www.openstreetmap.org/?lat=1.370800&lon=103.892384
+NE15-Bua http://www.openstreetmap.org/?lat=1.382952&lon=103.893140
 +X893281 http://www.openstreetmap.org/?lat=1.386505&lon=103.893760
-NE16 http://www.openstreetmap.org/?lat=1.391678&lon=103.895444
+NE16-Sen http://www.openstreetmap.org/?lat=1.391678&lon=103.895444
 +X517155 http://www.openstreetmap.org/?lat=1.395434&lon=103.897091
-NE17 http://www.openstreetmap.org/?lat=1.405197&lon=103.902361
+NE17-Pun http://www.openstreetmap.org/?lat=1.405197&lon=103.902361
 +X446684 http://www.openstreetmap.org/?lat=1.413102&lon=103.905430
-NE18 http://www.openstreetmap.org/?lat=1.414925&lon=103.910301
+NE18-PunCoa http://www.openstreetmap.org/?lat=1.414925&lon=103.910301
