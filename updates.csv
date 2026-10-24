@@ -1,4 +1,6 @@
 date;region;route;root;description
+2026-10-22;(China) Jiangsu;Nanjing Metro Line 6;chnjs.njm06;New Line
+2026-10-22;(China) Zhejiang;Ningbo Rail Transit Line 12;chnzj.nbrt12;New Line
 2026-10-18;(United States) Connecticut;Hartford Line;ct.harln.wpt;Point WinLoc moved to location of new Windsor Locks station opened October 18, 2026. Old station is now *OldWinLoc.
 2026-10-18;(United States) Connecticut;Amtrak Hartford Line;ct.hl.wpt;Point WinLoc moved to location of new Windsor Locks station opened October 18, 2026. Old station is now *OldWinLoc.
 2026-09-02;(China) Guangdong;Suishen Intercity;chngd.suishen;Route extended northwest from XinTangNan to ZhuLiao
